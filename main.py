@@ -1,5 +1,9 @@
+import file_helper as fh
+
+
 def main() -> None:
-    print('Hello World!')
+    fh.all_pdf_to_txt('./raw_files/transcripts/pdf')
+
     pass
 
 
