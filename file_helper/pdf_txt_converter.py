@@ -1,10 +1,7 @@
 import os
 import timeit
-
-from pdfminer.high_level import extract_text
 from pathlib import Path
 from PyPDF2 import PdfReader
-from pdfminer.pdfparser import PDFSyntaxError
 
 
 def file_exists(fn) -> bool:
