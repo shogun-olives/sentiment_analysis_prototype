@@ -1,2 +1,2 @@
 # sentiment_analysis_prototype
-Analysis of CEO Sentiments and correlation to stock prices
+Analysis of Transcript Sentiments and correlation to stock prices
