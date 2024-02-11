@@ -1,12 +1,13 @@
 import os
+import timeit
+
 from pdfminer.high_level import extract_text
 from pathlib import Path
 from PyPDF2 import PdfReader
 from pdfminer.pdfparser import PDFSyntaxError
-import time
 
 
-def file_exists(fn):
+def file_exists(fn) -> bool:
     # checks if file exists
     if not os.path.exists(fn):
         return False
@@ -21,35 +22,28 @@ def file_exists(fn):
 
 def pdf_to_txt(pdf_fn: str, txt_fn: str, overwrite_all: bool = False) -> bool:
     # exception handling for opening pdf
-    t1 = time.clock()
+    if not pdf_fn.endswith('.pdf'):
+        return False
+
     try:
-        reader = PdfReader("example.pdf")
+        reader = PdfReader(pdf_fn)
     except FileNotFoundError:
         print(f"[{pdf_fn}] not found")
         return False
-    except PDFSyntaxError:
-        print(f"[{pdf_fn}] has an invalid format")
+    except EOFError:
+        print(f"[{pdf_fn}] has an invalid end of file")
         return False
-    t2 = time.clock()
-    print(f"[Reading pdf] {t2-t1} seconds")
 
-    t1 = time.clock()
     # if file exists and overwrite is false prompt user to overwrite
     if not overwrite_all and file_exists(txt_fn):
         print(f"[{txt_fn}] already has data, Overwrite? (y/n)")
         overwrite = input('>>> ')
         if not overwrite.lower() == 'y':
             return False
-    t2 = time.clock()
-    print(f"[Checking overwrite] {t2 - t1} seconds")
 
-    t1 = time.clock()
     # if directory to file does not exist, create it
     os.makedirs(os.path.dirname(txt_fn), exist_ok=True)
-    t2 = time.clock()
-    print(f"[Directory check] {t2 - t1} seconds")
 
-    t1 = time.clock()
     # write file
     with open(txt_fn, "w", encoding="utf-8") as txt_file:
         try:
@@ -58,8 +52,6 @@ def pdf_to_txt(pdf_fn: str, txt_fn: str, overwrite_all: bool = False) -> bool:
         except OSError as error:
             print(error)
             return False
-    t2 = time.clock()
-    print(f"[Write File] {t2 - t1} seconds")
 
     return True
 
@@ -107,11 +99,19 @@ def all_pdf_to_txt(dir_name: str, target_dir: str = None) -> None:
     for item in os.listdir(dir_name):
         if item in exist:
             continue
+
+        # calculates current and destination
         txt_fn = Path(item).stem + ".txt"
-        if pdf_to_txt(os.path.join(dir_name, item), os.path.join(target_dir, txt_fn), overwrite_all=True):
+        curr = os.path.join(dir_name, item)
+        dest = os.path.join(target_dir, txt_fn)
+
+        # writes pdf to new location
+        t1 = timeit.default_timer()
+        if pdf_to_txt(curr, dest, overwrite_all=True):
             count += 1
             if count >= 100:
                 delim = '\t'
-            print(f"{count}.{delim}[{txt_fn}] written")
+            t2 = timeit.default_timer()
+            print(f"{count}.{delim}[{txt_fn}] written in {t2-t1} sec")
 
-    pass
+        return None
