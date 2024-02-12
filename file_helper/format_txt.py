@@ -127,7 +127,6 @@ def format_all_txt(curr: str, dest: str, overwrite: bool = False) -> pd.DataFram
         elif not exists:
             print(f"{count}.{delim}[{row['File'][0]}] written in {t2 - t1} sec")
 
-
     t3 = timeit.default_timer()
     if overwrite:
         print(f'\nOperation completed in {t3 - t0:.2f} seconds')
@@ -135,15 +134,3 @@ def format_all_txt(curr: str, dest: str, overwrite: bool = False) -> pd.DataFram
     df = pd.concat(data, ignore_index=True)
 
     return df
-
-
-def main() -> None:
-    curr = '../raw/transcripts/txt'
-    dest = '../files/transcripts'
-    data = format_all_txt(curr, dest, True)
-    print(data)
-    pass
-
-
-if __name__ == '__main__':
-    main()
