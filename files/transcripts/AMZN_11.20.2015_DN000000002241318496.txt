@@ -25,9 +25,7 @@ So, without further ado, I will pass it on to Dan Vesset to go over the formal
 presentation. Dan?
 
 All right. Thanks, Mandeep. Thank you all for joining us. I'll have a few slides to
-present today, but I'm hoping that we can spend most of the time responding toFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 2 of 15your specific questions, so we can type those in, I think we'll be taking just the
+present today, but I'm hoping that we can spend most of the time responding toyour specific questions, so we can type those in, I think we'll be taking just the
 written questions and Mandeep will help facilitate that, and we'll get to that.
 So, as was mentioned, I run IDC's business analytics and information management
 market research practice, and in this case we're partnering with Bloomberg to bring
@@ -68,9 +66,7 @@ targeting spatial -- highly-specialized spatial information analytics GIS system
 then Content Analytics, which are real, unstructured text and rich media analysis and
 there has been. And so for the broader market, as I mentioned here, the $42 billion
 market, the vendor shares that we have right now are on the full year 2014. And we
-obviously expect some change in the share percentages, but it gives you a sense of,FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 3 of 15even if we don't have the full year 2015, it gives you a sense of ranking at least, which
+obviously expect some change in the share percentages, but it gives you a sense of,even if we don't have the full year 2015, it gives you a sense of ranking at least, which
 is for that overall market. So, this is not just the BI segment, it's the overall market.
 Oracle is number one, because primarily they are the biggest data warehousing
 vendor and the biggest, now the information management platform vendor followed
@@ -111,9 +107,7 @@ share of the market is still about 50% of those legacy query and all-up tools. B
 Visual Discovery is growing, on aggregate this is a five-year historical CAGR through
 2014. So, historically have been growing at around 19%. So, that includes Tableau
 and Qlik and Spotfire, but also the visual tools from -- visual discovery tools from
-other vendors as well.FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 4 of 15And advanced analytics is just slightly over 9%, about 10% historical growth rate
+other vendors as well.And advanced analytics is just slightly over 9%, about 10% historical growth rate
 represents 20% of that BI market. And reporting, although it doesn't get the press
 and the Mindshare is also certainly a decent sized segment and there's still a need
 for that and will be a continued need for that market. But clearly those specialized
@@ -151,9 +145,7 @@ There is a little bit of -- for QuickSight there is a little bit of higher price
 additional features, but it's a fraction of what Tableau and Qlik and some of these
 other enterprise tools are -- costs.
 Oracle just released a new Cloud BI, Oracle BI 12c, which is has a visual discovery
-tools as well and that's also priced much more like the Microsoft and AmazonFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 5 of 15product, rather than the standalone products. And these vendors obviously can do
+tools as well and that's also priced much more like the Microsoft and Amazonproduct, rather than the standalone products. And these vendors obviously can do
 this because they're not reliant on this revenue for survival. For them it's one of many
 products and probably in some ways, even a loss leader to get customers on to their
 cloud platforms and other applications and tools for -- so I think Microsoft and
@@ -195,9 +187,7 @@ them is that instantaneous access and response rate from more -- from tools that
 have more advanced or more process in terms of visual (inaudible) of the data. So,
 the primary benefit there is speed, speed of processing.
 Many of the tools are now where in the fast primarily connected to the relational data
-warehouse. Now they're starting to connect with various forms of -- various types ofFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 6 of 15connections to some of the big data sources like Hadoop or Spark. So, Hadoop and
+warehouse. Now they're starting to connect with various forms of -- various types ofconnections to some of the big data sources like Hadoop or Spark. So, Hadoop and
 so MapReduce versus Spark and some of the NoSQL databases as well just slightly
 in a lesser extent. So, in many ways, some other vendors have announced Big Data,
 "Big Data" versions of the products. Really in most cases those just mean that they're
@@ -238,9 +228,7 @@ or even an individual person.
 But if it does not -- if it's not based on certain level of enterprise standardization, it
 does introduce -- potentially introduces discrepancies and how the data is viewed,
 even the metrics could be different, not to say anything about the data itself and
-that's a risk that all these vendors have to deal within.FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 7 of 15Mandeep Singh
+that's a risk that all these vendors have to deal within.Mandeep Singh
 Dan VessetWe see a lot more efforts from Tableau to try to embrace IT and ensure that the
 software has those enterprise capabilities around security and governance and data
 model management. The one big unknown right now, I think the biggest unknown
@@ -280,9 +268,7 @@ like Tableau and Qlik, and just kind of maintaining the data warehouses because
 obviously they had it for a while?
 
 Yeah, so I think it's really those layers that I showed in the map, I'll go back to that
-slide, those -- so this one here, so those still matters, so there is still -- there continuesFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 8 of 15Mandeep Singh
+slide, those -- so this one here, so those still matters, so there is still -- there continuesMandeep Singh
 Dan Vessetto be a need for the warehouse, the warehouse itself is changing, it's no longer just
 relational, so there is a big change in the architecture to extend the warehouse, the
 relational data warehouse with some of these non-relational technologies, because
@@ -324,9 +310,7 @@ So you can do some of that with Qlik and Tableau, but I think again it really wi
 depend on whether you want to setup a more managed and structured data
 warehouse. And a part of the challenge is that, your Qlik or Tableau server is not
 going to hold as much data, as a data warehouse. So if you're doing any kind of
-longitudinal station, you want multiple quarters or years or kind of longer termFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 9 of 15Mandeep Singh
+longitudinal station, you want multiple quarters or years or kind of longer termMandeep Singh
 Dan Vessetanalysis and have data really from across the full enterprise, you're most likely
 building -- still building the warehouse.
 I think again that layer such -- that layer of this technology stack still has its place. But
@@ -365,9 +349,7 @@ their requirements, the IT would have to go way, add a new dataset, new data
 dimension, rebuild the cubes, redevelop it, test it and then deploy it out, by that time
 host of end-users are already onto other questions.
 So that was the part of the frustration that Qlik and Tableau were able to address and
-nearly bypass that whole process. So with QuickSight, I think a lot of it will be a visualFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 10 of 15Mandeep Singh
+nearly bypass that whole process. So with QuickSight, I think a lot of it will be a visualMandeep Singh
 Dan Vessetdiscovery, but it will be also -- you could develop a dash -- interactive dashboards
 with that technology and some of the, kind of -- maybe a little bit light -- more light-
 weight in a sense that it doesn't -- not necessarily have to be ad hoc discovery, it
@@ -407,9 +389,7 @@ cognitive functionality.
 So Watson Analytics is, if you look at it on the surface it's very much like these visual
 and discovery and analytics products. It has -- but it's able to now call on some of the
 APIs of that Watson cognitive platform and more will be coming. I think as that
-happens and if it really does happen right and I think it does -- it will happen.FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 11 of 15Mandeep Singh
+happens and if it really does happen right and I think it does -- it will happen.Mandeep Singh
 Dan Vesset
 Mandeep SinghSo you'll start to see machine learning and other techniques being applied to this BI
 and visualization market and that can really disrupt the market, because -- think
@@ -451,9 +431,7 @@ point to assess the existing need. So that's where we see a replacement, but tho
 are relatively few cases. So in most cases it's an add-on to any given named
 company, named accounts, and in most large companies will have multiple BI
 products and will continue to have multiple BI products.
-FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 12 of 15Dan Vesset
+Dan Vesset
 Mandeep Singh
 Dan VessetSo I would just piggyback on that, do you think like with IBM coming up with Watson
 Analytics, Microsoft launching part of BI, is it cannibalizing their old analytics
@@ -495,9 +473,7 @@ have to have -- any vendor today has to have cloud-based product. Does it give y
 a specific? So functionally, I don't think there is a major advantage at any given point
 in time, but I think what the cloud gives you is the ability to reiterate faster through,
 with new features and functionality and obviously provide quicker and cheaper
-updates.FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 13 of 15Mandeep Singh
+updates.Mandeep Singh
 Dan VessetSo there's a lot of advantages to the vendor in moving to the Cloud. A part of the
 issue is in the short term, it hits -- there's a revenue recognition issue as that kind of
 the change happens and that can take three years to even out, so that's from a
@@ -536,9 +512,7 @@ from outside of the traditional player, so for example Intuit that provides cert
 financial solutions for the SMBs, they have our data service, where they -- because
 they process all these transaction for SMBs, so they know what people are
 purchasing, how much they spend at Staples last month in this region for this
-business, they can create -- they create certain data sets and benchmarks out of that.FINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 14 of 15Mandeep Singh
+business, they can create -- they create certain data sets and benchmarks out of that.Mandeep Singh
 Dan Vesset
 Mandeep Singh
 Dan VessetAnd sometimes they are monetizing those directly and sometimes they're just there
@@ -578,9 +552,7 @@ far?
 
 Yeah. There are some that have gotten enormous funding like Gilmore, which frankly
 I'm not -- I don't quite understand, I don't see anything quite unique there. There is
-company like Burst and GoodData and others. Altrix is a bit different and that theyFINAL TRANSCRIPT 2015-11-15
-Amazon.com Inc (AMZN US Equity)
-Page 15 of 15Mandeep Singh
+company like Burst and GoodData and others. Altrix is a bit different and that theyMandeep Singh
 Dan Vessettarget a slightly different base. They partner with Qlik and Tableau where they're
 more focused on their -- more data preparation and advanced analytics.
 It's besides those that are more visible. There are dozens of other vendors in the

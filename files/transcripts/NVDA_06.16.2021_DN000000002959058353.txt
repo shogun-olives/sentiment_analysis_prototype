@@ -18,9 +18,7 @@ And with that, I just want to say to Colette, welcome and thanks for joining us 
 
 Thank you so much Mark for hosting us and appreciate the time here with NASDAQ.
 Questions And Answers
-FINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 9A - Colette Kress
+A - Colette Kress
 Q - Mark Lipacis
 A - Colette KressGreat. So Colette if it's okay with you, I'd just like to jump right into the questions. So
 the first question that I have is on Arm. And so, I was hoping that we could kind of do
@@ -66,9 +64,7 @@ And Arm has a history of open licensing its processors. Is there any intent to c
 that approach should you get the approval?
 
 That's correct. Arm has a great business model of licensing -- open licensing to
-essentially any type of customer that would arrive. There is no desire for NVIDIA toFINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 9Q - Mark Lipacis
+essentially any type of customer that would arrive. There is no desire for NVIDIA toQ - Mark Lipacis
 A - Colette Kress
 Q - Mark Lipacis
 A - Colette Kress
@@ -113,9 +109,7 @@ It's great. Okay, looking forward to it. I'm sure there'll be a lot of interest 
 Okay, so that -- so I want to move to a different part of Arm. So, we just talked about
 the regulatory process, but you in April announced that you're going to develop
 your own Arm CPU that you're calling Grace. And that I believe that this will ship in
-2023. What's the idea behind making your own Arm CPU? And to what extent areFINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 9A - Colette Kress
+2023. What's the idea behind making your own Arm CPU? And to what extent areA - Colette Kress
 Q - Mark Lipacis
 A - Colette Kress
 Q - Mark Lipacis
@@ -160,9 +154,7 @@ So that is correct. We've created a outlook about moving forward that really foc
 on data center computing as a whole. The modernization of data centers as we see
 them today will continue. And that is a focus on the CPU, the GPU, and the new and
 upcoming overall DPUs that are referred to as the data processing unit. This dis-
-aggregation of data centers is so key to how we see data centers being built todayFINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 9Q - Mark Lipacis
+aggregation of data centers is so key to how we see data centers being built todayQ - Mark Lipacis
 A - Colette Kressand in the future. Taking part on what the work needs to be accomplished and
 creating (inaudible) systems that those pieces are all separate. Now having an Arm
 architectural license has enabled us now to create a CPU to work in these overall
@@ -206,9 +198,7 @@ happened. When you have seen the development of frameworks, frameworks that
 essentially sit on top of CUDA and these AI frameworks that enables hyperscales
 and/or enterprises to work in those frameworks to build out solutions that they may
 need for the different businesses. We work together in terms of stitching together
-those frameworks with CUDA, so that you can run on top of overall GPUs. But weFINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 9Q - Mark Lipacis
+those frameworks with CUDA, so that you can run on top of overall GPUs. But weQ - Mark Lipacis
 A - Colette Kress
 Q - Mark Lipacis
 A - Colette Kresscontinue work even beyond just those frameworks in terms of application SDKs.
@@ -253,9 +243,7 @@ extent do you charge and license separately for your software?
 Yeah, great question. So with software being such a big component of many of our
 platforms today, the question is, well, where is that? How do I see that? So our
 software comes with each and every platform, whether that be gaming and gaming
-drivers. If you think about our work in terms of RTX, DLSS, all of that is incorporatedFINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 9Q - Mark Lipacis
+drivers. If you think about our work in terms of RTX, DLSS, all of that is incorporatedQ - Mark Lipacis
 A - Colette Kressin what we provide today and meaning, we do not charge for it separately, we do not
 call it out overall separately, it is embedded within that. You can take that software all
 the way to our professional visualization as well. As you recall, this is a very important
@@ -299,9 +287,7 @@ Absolutely there is an opportunity for us to break that out when it becomes a
 meaningful number for to communicate. We'll be able to give you progress along
 the way in terms of the adoption of our software. What types of customers and folks
 are interested in there. But when it gets to a meaningful amount, and it would be
-something that we could separate, we would likely do so.FINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 9Q - Mark Lipacis
+something that we could separate, we would likely do so.Q - Mark Lipacis
 A - Colette Kress
 Got you. So I want to talk about your -- the competitive landscape and your
 customers a bit. In the olden days when I was a young analyst, semiconductor
@@ -346,9 +332,7 @@ need for that underlying CUDA development platform, it is essential. Everyone in
 terms of, as they think going forward is jumping into CUDA, to continue to expand
 the use of the GPU for new types of workloads that are developing.
 That work still has to be created and the software it is needed to help them advance
-that work. So there will be from time-to-time an opportunity for custom ASIC, aFINAL TRANSCRIPT 2021-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 9Q - Mark Lipacis
+that work. So there will be from time-to-time an opportunity for custom ASIC, aQ - Mark Lipacis
 A - Colette Kress
 Q - Mark Lipaciscustom check for certain workload. But if we think about the future of overall AI,
 having a platform that is ﬂexible, programmable to change with all of the

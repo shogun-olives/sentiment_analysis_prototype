@@ -13,9 +13,7 @@ In fact, I actually hope that many of them will be. But some of them could be
 considered forward-looking.
 These statements involve a number of risks and uncertainties.
 Actual results could differ materially.
-Please refer to Alphabet's Form 10-K, including the risk factors section, and the 10-Q.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 20Will Grannis
+Please refer to Alphabet's Form 10-K, including the risk factors section, and the 10-Q.Will Grannis
 Steve Sparkes
 Q - Steve Sparkes
 A - Will GrannisAny forward-looking statements that Mr. Grannis makes are based on assumptions
@@ -47,9 +45,7 @@ see things developing. So we'll kick off just with a little bit of background of
 does that role encompass for you as CTO for cloud?
 
 Great. Well, it is certainly an honor to be here with all of you. Steve, great to see you
-again. Great excuse to bump into you. And so my role in cloud, I lead a team.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 20Q - Steve Sparkes
+again. Great excuse to bump into you. And so my role in cloud, I lead a team.Q - Steve Sparkes
 A - Will GrannisThere's two things. Number one, for our top customers and partners that are moving
 to the cloud. We help them navigate those first steps into the more complex patterns
 of adoption.
@@ -87,9 +83,7 @@ Yes. Well, I think since Q3 of 2019, we've added roughly $24 billion in annualiz
 rate. So it's a different business than it was just a few years ago. And my history is,
 back to roughly nine years ago, when we were in this kind of first wave of cloud at
 Google, we were just starting to create the pathways for all of this technology out
-into the world.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 20And then there was a second wave, where it was creating kind of the platform that
+into the world.And then there was a second wave, where it was creating kind of the platform that
 would allow any industry or any customer, any geo to solve their problems. And now
 we're really in the scale phase, where we've got an ecosystem that is rapidly
 growing, over 100,000 partners in our ecosystem today. So almost any
@@ -126,9 +120,7 @@ back.
 And you can imagine how important that is to companies who have data stores in
 multiple clouds. So now instead of having to deal with the cost of egress and these
 complex technical bits, we've solved this through this product we call BigQuery
-Omni. So that's the next layer of that the stack, this kind of platform layer.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 20Q - Steve Sparkes
+Omni. So that's the next layer of that the stack, this kind of platform layer.Q - Steve Sparkes
 A - Will GrannisThen if you move up, we've got what we call the security cloud. So this is end-to-end
 comprehensive security, not just infrastructure security, but also applications security.
 And we brought in a ton of new capabilities, one of which is Mandiant, to round out
@@ -166,9 +158,7 @@ this is when you ask -- you can ask a chat application today to write you a poem
 doesn't really understand -- I guess some people would argue this, but doesn't really
 understand the artistic bits of poultry, but it can create content based on similarity of
 the words that you've used and words that are used in conjunction with tokens,
-words that are broken in tokens that would comprise the word poetry.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 20Q - Steve Sparkes
+words that are broken in tokens that would comprise the word poetry.Q - Steve Sparkes
 A - Will GrannisSo in this way, generative AI is this kind of an extension and builds on a foundation
 of neural networks now creating content, not just thinking about predicting the next
 word, but actually creating the next word or creating an image.
@@ -206,9 +196,7 @@ business, for example, without you having to think through the structural
 components or get started.
 And so in many ways, at the top of the stack, it's about getting started with getting
 value without having to architect. We also have brought the same Duet AI into our
-platform. So for example, let's say, you're using BigQuery, which I hope you do. AndFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 20if you're not, there's still time. But with BigQuery, what really matters is and what
+platform. So for example, let's say, you're using BigQuery, which I hope you do. Andif you're not, there's still time. But with BigQuery, what really matters is and what
 matters in all analytics systems is structuring good queries.
 You want to run over the right amount of data. You don't want to have a query that's
 not well structured. So it kind of overshoots the data, it's too costly or kind of runs on
@@ -246,9 +234,7 @@ will index it for you. Because, I imagine, in your work, regardless of what your
 background is in this room, you know that to produce content and produce insights,
 you also have to gather your knowledge, and you have to structure it in some way.
 And that is actually one of the key barriers to using your own data to refine these
-foundational models is structuring it, whether you're going to bring it to like anFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 20Q - Steve Sparkes
+foundational models is structuring it, whether you're going to bring it to like anQ - Steve Sparkes
 A - Will Grannis
 Q - Steve Sparkes
 A - Will Grannisembedding, which is like the spatial relationship of your data. Or you're going to use
@@ -286,9 +272,7 @@ of their path, so somebody like a Deutsche Bank.
 
 It's a small European competitor
 
-Yes. And you know, I just wanted to point out that --FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 20Q - Steve Sparkes
+Yes. And you know, I just wanted to point out that --Q - Steve Sparkes
 A - Will Grannis
 For those of you who haven't heard.
 
@@ -326,9 +310,7 @@ they can focus on what are the guardrails they want to put in.
 What does the output look like that they want to generate, not where am I going to
 get these -- basically, these AI supercomputers. We take care of that for them. And so
 in a lot of ways, we're speeding up a startup's ability to get to their first article, their
-first output, and then they can tune it much, much faster.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 20Q - Steve Sparkes
+first output, and then they can tune it much, much faster.Q - Steve Sparkes
 A - Will Grannis
 Q - Steve Sparkes
 And on that point about exposing generative AI content to the consumers, one of
@@ -371,9 +353,7 @@ At some point, you need that leverage from the technology.
 Yes. And one of the things that we've been finding is that it's a great augmentation
 for tasks. And you talked earlier about the opportunities for transcription and for
 rapid digesting of data. But we're not really seeing it as a displacement of actual
-roles in their entirety. And I think that there are -- do you see it as a side kick, as anFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 20A - Will Grannisaid, as an intelligent partner in people's -- in knowledge workers' activities day-to-
+roles in their entirety. And I think that there are -- do you see it as a side kick, as anA - Will Grannisaid, as an intelligent partner in people's -- in knowledge workers' activities day-to-
 day.
 
 Absolutely. We're in an era now -- and I've been building data products, data-
@@ -414,9 +394,7 @@ in the creation of experiences for customers. And I guess one of the experiences
 me in AI that really was an eye opener was how we were working with NASA.
 And they're like, "Hi, we have some interns, and we'd like these interns to be more
 productive during the summer. " And they're like cool, okay. How do we do that?
-And they literally like they sleep on the ﬂoor because they run these jobs and they'reFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 20Q - Steve Sparkes
+And they literally like they sleep on the ﬂoor because they run these jobs and they'reQ - Steve Sparkes
 A - Will Grannis
 Q - Steve Sparkes
 A - Will Grannis
@@ -456,9 +434,7 @@ different parts of the stack. So like endpoint security, application security, n
 security.
 And one of the things that we've done in Google Cloud is we deployed this thing
 called Security Command Center, and it's kind of this wrapper that gives you
-telemetry into every layer of the stack, from an application all the way down to theFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 20Q - Steve Sparkesinfrastructure. And that's really important because these threat actors are very
+telemetry into every layer of the stack, from an application all the way down to theQ - Steve Sparkesinfrastructure. And that's really important because these threat actors are very
 capable, and they're constantly changing tactics. And so the telemetry and the data
 and the log is actually super important because the tools will evolve. But having that
 foundation of data is really important, so we're creating a lot of telemetry there. But
@@ -498,9 +474,7 @@ remediation. And that could save, in real workﬂow terms, I mean, this could sa
 hours, days, weeks, of threat curation and what to do next.
 
 Right. And those hours, days and weeks really count because the rate of exploits is
-accelerating constantly. So any time you can shave off the detection and remediationFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 20A - Will Grannis
+accelerating constantly. So any time you can shave off the detection and remediationA - Will Grannis
 Q - Steve Sparkescycle is incredibly valuable. And in the past, we might try and use simulations and
 follow some of the other more conventional learning methodologies. But being able
 to address the lower level of the stack is absolutely a value add, for sure.
@@ -542,9 +516,7 @@ Yes. And as a former programmer, now recovered, I can say that I amplify Will's
 thoughts and I pity the poor people that had to read my code to try and figure out
 what it was doing, but that's a long time ago. Let's go back a little bit earlier. You
 talked about the capabilities of Omni -- BigQuery Omni across multi-cloud. I think
-multi-cloud is obviously -- it's a thing that we are all evaluating and embracing.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 15 of 20A - Will Grannis
+multi-cloud is obviously -- it's a thing that we are all evaluating and embracing.A - Will Grannis
 Q - Steve SparkesSo in common with a lot of other organizations, we've got a hybrid environment,
 where we've got a bunch of compute still on and data is still on-prem. We've got
 footprints of both data and compute in multiple other clouds. So maybe just spend a
@@ -586,9 +558,7 @@ are multi that support the -- in particular, security operation line, thinking o
 Concourse Labs who operate across multiple clouds.
 And you can see that there's a clear distinction between those companies that have
 deliberately aimed to be multi-cloud from the outset to support that capability
-versus those that were sort of incubated on one and then grudgingly accepted thatFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 16 of 20A - Will Grannis
+versus those that were sort of incubated on one and then grudgingly accepted thatA - Will Grannis
 Q - Steve Sparkes
 A - Will Grannispeople are going to have multiple clouds, and they were obliged to support
 multiple different platforms. But --
@@ -629,9 +599,7 @@ But it's also in consulting companies and integrators who help solve problems. M
 companies already have relationships with other organizations. They have this trust
 built up over the years, and they want to continue to leverage their preferred
 partners. And so we've now made it available. So Deloitte and Accenture, Wipro,
-they all have thousands, if not tens of thousands of trained individuals on GoogleFINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 17 of 20Q - Steve Sparkes
+they all have thousands, if not tens of thousands of trained individuals on GoogleQ - Steve Sparkes
 A - Will GrannisCloud now, ready to help solve problems that are deep implementation problems,
 maybe you want to -- you're looking at maybe mainframe modernization or you're
 looking at these problems that typically are very complex.
@@ -672,9 +640,7 @@ content they might generate. But then also like the technical underpinnings of t
 platform and the infrastructure and the computation that makes those feasible to
 operate, creating a duet AI capability inside of a security console that can summarize
 threats as they come in, in near real time is actually a very computationally complex
-and intensive process. And so Phil doesn't want to sweat the technical infrastructure,FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 18 of 20Q - Steve Sparkes
+and intensive process. And so Phil doesn't want to sweat the technical infrastructure,Q - Steve Sparkes
 A - Will Grannisand I would do a very poor job of describing in detail the nuances of the security
 concerns and roles.
 
@@ -716,9 +682,7 @@ Now they're finding them. They've found hundreds in a very quick period of time.
 And you can think about the ramifications of being able to characterize potential
 existential threats in that way in the future just is so profound. And then, also, the
 kind of the third one that I think a lot about is you have medicine and you have
-space.FINAL TRANSCRIPT 2023-12-05
-Alphabet Inc (GOOGL US Equity)
-Page 19 of 20Q - Steve Sparkes
+space.Q - Steve Sparkes
 A - Will Grannis
 Q - Steve SparkesBut then we also have just in the last week, DeepMind. Google has released a way of
 characterizing crystal structures, millions of new simulated crystalline structures,

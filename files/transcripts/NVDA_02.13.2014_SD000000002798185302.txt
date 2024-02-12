@@ -18,9 +18,7 @@ doing. And maybe talk about kind of the underlying trends in the OEM PC business
 as well?
 
 Yes. So we have a GeForce product line that is graphics for consumers. And the most
-informative way to think about that, if you like, is dividing it into a gaming market andFINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 15James Schneider
+informative way to think about that, if you like, is dividing it into a gaming market andJames Schneider
 Chris Evendenan OEM market. And those two markets have very different dynamics, as Jim was
 alluding. So although having said that, both of them were actually strong in Q4, the
 OEM one probably more unexpectedly.
@@ -61,9 +59,7 @@ dollars (inaudible) one quarter like Q3 of last year. We actually lost market sh
 we increased our dollar share of the market. So it's good to have data and market
 share as one data point. But you've got to be cautious about interpreting it too
 literally because most of the money is made in the higher-end business. And by
-high-end, I'm talking about a graphics card that retails at like $150, or to $1000. ButFINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 15James Schneider
+high-end, I'm talking about a graphics card that retails at like $150, or to $1000. ButJames Schneider
 Chris Evenden
 James Schneider
 Chris Evendenreally starting at that sort of level. So it's not stupendously expensive. That's where
@@ -105,9 +101,7 @@ a PC plus GPU inside a mobile power. So it fits -- don't get me wrong, it fits w
 mobile power and we can run it at 5 watts in a tablet, we can run it at 2 watts on a
 phone and still be in terms of per watt and raw performance. But it is PC class. So
 what does that mean? It means it has all the features of open GL for its DirectTouch
-11. We worked with Epic support Unreal Engine 4 to it. And Unreal Engine is one ofFINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 15James Schneider
+11. We worked with Epic support Unreal Engine 4 to it. And Unreal Engine is one ofJames Schneider
 Chris Evendenthe most popular game engines in the world today. So that means it makes it very
 easy for a game developer to take a game that already exists on another platform
 and makes it pretty trivial actually to port it to Tegra K1.
@@ -151,9 +145,7 @@ You mentioned (inaudible) side and get back to that. But if I look at kind of th
 of where Tegra is focused, how much do you see this as a tablet platform versus a
 smart phone platform. And then how do we think about the kind of dual core and
 quad core versions of the product out there?
-FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 15James Schneider
+James Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -192,9 +184,7 @@ where you made an investment or an acquisition of Icera. You've definitely done
 some proof points and last year you got CAGR certified. I think you -- that's been a
 pretty big success.
 
-Yes.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 15James Schneider
+Yes.James Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -233,9 +223,7 @@ beyond that and we should say ah, now I understand? Or how should we think about
 the design win traction and more importantly the outward visibility of that?
 
 Yes. So we have pretty good visibility certainly into the phone side, less so into
-tablets because they have a shorter product cycle. But it's diﬃcult for me to discussFINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 15James Schneider
+tablets because they have a shorter product cycle. But it's diﬃcult for me to discussJames Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -272,9 +260,7 @@ a much more power-eﬃcient place to do image analysis than a CPU. And you've go
 makes much more sense to do it on a GPU than on a CPU. I don't have any good
 examples of how 64-bit enables different platforms. I'm sure somewhere we do. And
 I'll do some work on that and figure out -- get you some examples on that. But I don't
-have it with me right now.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 15James Schneider
+have it with me right now.James Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -312,9 +298,7 @@ So no thanks for now.
 No thanks for now, yes.
 
 Okay, got it. Automotive, that is one where you've clearly demonstrated some level
-of traction with the Audi kind of self-driving car, the machine vision kind of capability.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 15Chris Evenden
+of traction with the Audi kind of self-driving car, the machine vision kind of capability.Chris Evenden
 James Schneider
 Chris EvendenAnd there you actually have given numbers. You've said I believe $450 million in
 calendar 2015 I think from around $100 million that you did last year.
@@ -355,9 +339,7 @@ Volkswagen Audi Group and BMW. So we are in the whole range of Audi cars I think
 now from A3 on up. We in the Golf, Volkswagen Golf. We always have an interesting
 debate with our marketing department because whenever they produce slides, they
 like to put Tesla and Lamborghini on our automotive slides. But I would like to put
-Golf on our automotive slides.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 15James Schneider
+Golf on our automotive slides.James Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -398,9 +380,7 @@ I do want to ask about the notebook business, because that's still a material ch
 business for you. You talked about the dynamic. But I want to ask you about the
 market share because I think now is the time when you certainly have visibility as to
 what happened for back-to-school, etc. So can you talk about directionally how you
-feel about your notebook OEM share position as we head into the end of this year?FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 15Chris Evenden
+feel about your notebook OEM share position as we head into the end of this year?Chris Evenden
 James Schneider
 Chris Evenden
 James Schneider
@@ -438,9 +418,7 @@ Best year ever actually for Quadro last year. Actually, it's a record. Yes.
 So I think part of that was the tablet refresh. Part of that arguably was just kind of the
 customer set coming back, the automotive, industrial --
 
-Yes.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 15James Schneider
+Yes.James Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -481,9 +459,7 @@ kind of directionally what's going to drive the growth in 2014?
 So we don't break it out separately. It grew a lot last year. It grew nearly 40% year-on-
 year into last year. The thing that really excites me about the Tesla business, actually I
 love the Tesla business. It's really broken out I think in a sense that for a couple of
-years, it was puttering along at sort of level of $25 million a quarter or thereabouts.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 15James Schneider
+years, it was puttering along at sort of level of $25 million a quarter or thereabouts.James Schneider
 Chris EvendenAnd it's sort of puzzling to me because it was clearly -- you go to an HPC show and
 there would be so much enthusiasm and so much passion and you'd see Tesla at
 every booth, whether was IBM's booth or Supermicro's booth or Cray's booth, it was
@@ -526,9 +502,7 @@ basically take ownership of the yields on it.
 I think it's mostly mix actually, because if you think about how much we expanded
 gross margins, before the previous ramp, our record gross margin was 46.3%. And
 that was at a time that, frankly, that ATI hadn't produced a decent graphics card for
-three years. So we had the market to ourselves. Now we are at mid-50s% basically.FINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 15James Schneider
+three years. So we had the market to ourselves. Now we are at mid-50s% basically.James Schneider
 Chris Evenden
 James Schneider
 Chris Evenden
@@ -565,9 +539,7 @@ So how should we think about your appetite for doing even more beyond this?
 Because clearly there is some firepower in the balance sheet.
 
 Yes. So that $1.5 billion gives us ﬂexibility (inaudible) as well. So we said we would
-return $1 billion this year. Dividends account for just, rough numbers, $160 million ofFINAL TRANSCRIPT 2014-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 15James Schneider
+return $1 billion this year. Dividends account for just, rough numbers, $160 million ofJames Schneider
 Chris Evenden
 James Schneiderthat, maybe $180 million of that, something in that range. And the rest will be share
 repurchases at some point during this year, yes.

@@ -27,9 +27,7 @@ art. Machinima artists create cinematics made from game assets. Tens of millions
 using games to express their creativity. Inside a computer simulation, any sport can
 become eSport. Virtual NASCAR and F1 are already attracting top racers. Like sports,
 eSports captures the thrill of victory and the agony of defeat, and the human drama
-of athletic competition. eSports is on its way to be the biggest sport.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 10I have something special for all the GeForce gamers around the world, four gifts. I
+of athletic competition. eSports is on its way to be the biggest sport.I have something special for all the GeForce gamers around the world, four gifts. I
 hope you like them and you will find new ways to game. First, big news, Fortnite is
 turning RTX on. Now Minecraft and Fortnite, the number one and number two most
 played games in world have RTX on. Fortnite will get ray trace shadows, reﬂections,
@@ -65,9 +63,7 @@ effects, whether graphics or video, and webcam auto framing is a virtual camera
 person tracking you. These AI effects are amazing, available for download in
 September and runs on any RTX GPU.
 Brandon and GeForce marketing will now show you NVIDIA Broadcast.
-(Video Presentation)FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 10A new form of art has emerged from gaming called Machinima. Artists are using
+(Video Presentation)A new form of art has emerged from gaming called Machinima. Artists are using
 game assets to create cinematics. There's been tens of billions of views on YouTube.
 Most are shorts. Some are even recreating entire classic movies. It's becoming a
 whole new art genre. Today, I'm going to show you an app that will make these
@@ -103,9 +99,7 @@ in development and thousands of research papers of new rendering and AI
 algorithms enabled by RTX. The RTX GPU has three fundamental processors. The
 programmable shader that we first introduced over 15 years ago, RT Core to
 accelerate the ray triangle and ray bounding box intersections and AI processing
-pipeline called Tensor Core.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 10Tensor Core accelerates linear algebra that is used for deep neural network
+pipeline called Tensor Core.Tensor Core accelerates linear algebra that is used for deep neural network
 processing, the foundation of modern AI. AI is the most powerful technology force of
 our time, computers that learn from data and write software that no humans can. The
 advances are nothing short of breathtaking. NVIDIA is doing groundbreaking work in
@@ -143,9 +137,7 @@ show and the frame rate is higher.
 Reviewers have loved DLSS 2.0. They say its quality beats out native rendering and
 runs even faster. You can play a 4K without a performance hit. Tensor Core effectively
 gives RTX a 2x performance boost. Let's look at one frame trace of a game to see the
-processors of RTX in action. Adding ray tracing to games dramatically increases theFINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 10computational workload. Using shaders to do rate reversal and object intersection
+processors of RTX in action. Adding ray tracing to games dramatically increases thecomputational workload. Using shaders to do rate reversal and object intersection
 reduces the frame rate.
 We added the RT Core, which reduces shader workload by 60%. RT Core oﬄoads to
 shaders by doing the ray triangle and ray bounding box intersection calculations.
@@ -183,9 +175,7 @@ performance, energy eﬃciency and low power are all world-class. And real
 application performance highlights Ampere's new RT Core. The more ray tracing is
 done, the greater the Ampere speed up. Ampere RT Core doubles ray intersection
 processing. Its ray tracing is processed concurrently with shading, and Ampere can
-render cinematic images with motion blur eight times faster than Turing.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 10Let's take a look at Ampere in action. At our Kitchen GTC a few months ago, we
+render cinematic images with motion blur eight times faster than Turing.Let's take a look at Ampere in action. At our Kitchen GTC a few months ago, we
 showed Marbles, the world's first fully path-traced photorealistic real-time graphics.
 It was running on our highest end Turing Quadro RTX 8000. Turing was doing 720p,
 25 frames per second. Today, we're going to run an enhanced version of Marbles
@@ -223,9 +213,7 @@ left off will be instant. This is a very big deal for next-generation gaming.
 Let me show you Ampere in action in one of the most anticipated games of 2020,
 CD PROJEKT Red's Cyberpunk. This trailer is called Scenes of Cyberpunk RTX. It
 shows ray trace reﬂections, diffused elimination, shadows, ambient occlusion and
-DLSS 2.0. Enjoy.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 10(Video Presentation)
+DLSS 2.0. Enjoy.(Video Presentation)
 Ladies and gentlemen, our new ﬂagship GPU, the NVIDIA GeForce RTX 3080,
 powered by Ampere, second-generation RTX architecture.
 (Video Presentation)
@@ -262,9 +250,7 @@ Ladies and gentlemen, NVIDIA GeForce RTX 3080, our new ﬂagship GPU, powered
 by Ampere, our second-generation RTX GPU architecture, incredible amounts of
 processing in the shader, RT ray tracing core and Tensor Core for processing AI, 10
 gigabytes of G6X, twice the processing power of 2080 and at the same price,
-starting at $699, available September 17th.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 10One of our most popular GPUs is the 70 series. 970, 1070, 2070 were all hugely
+starting at $699, available September 17th.One of our most popular GPUs is the 70 series. 970, 1070, 2070 were all hugely
 popular. You're going to love the new RTX 3070, faster than the 2080 Ti, the Turing
 enthusiast GPU priced at $1,200. Ladies and gentlemen, the new GeForce RTX 3070.
 Let me show it to you. It's a work of art. 20 shader teraﬂops, 40 RT teraﬂops and 163
@@ -299,9 +285,7 @@ TITAN, pushing the GPU to the absolute limit to create the best graphics card of
 generation. It was built in limited quantities and only through NVIDIA. The
 distribution was limited. The demand surprised us.
 Creators were making 4K movies, rendering cinematics. Researchers built
-workstations for data science and AI. Bloggers built broadcast workstations. FlightFINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 10and racing simulation fans built sim rigs. There is clearly a need for a giant GPU that
+workstations for data science and AI. Bloggers built broadcast workstations. Flightand racing simulation fans built sim rigs. There is clearly a need for a giant GPU that
 is available all over the world. So, we made a giant Ampere.
 Ladies and gentlemen, the RTX 3090. 3090 is a beast, a ferocious GPU, a BF GPU, 36
 shader teraﬂops, 69 RT teraﬂops, 285 Tensor teraﬂops and it comes with a massive
@@ -336,6 +320,4 @@ ourselves through time and space, traveling at the speed of light, sending photo
 not atoms. In this future, GeForce is your holodeck, your lightspeed starship, your
 time machine. In this future, we will look back and realize that it started here.
 Thank you for joining us today and to all of our fans for celebrating the arrival of
-Ampere.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 10
+Ampere.

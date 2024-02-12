@@ -76,7 +76,7 @@ def format_txt(fn: str, dest: str, overwrite: bool = False) -> dict[str:str]:
     beginning = re.compile(r'^.*?}', re.DOTALL)
     contents = re.sub(beginning, '', contents)
 
-    page_mark = r'FINAL TRANSCRIPT(.*?)Page(.*?)of [0-9]+'
+    page_mark = re.compile(fr'{re.escape('FINAL TRANSCRIPT')}.*?{re.escape('of')} [0-9]+', re.DOTALL)
     contents = re.sub(page_mark, '', contents)
 
     bio_mark = r'{(.*?)}'
@@ -109,6 +109,7 @@ def format_all_txt(curr: str, dest: str, overwrite: bool = False) -> pd.DataFram
     t0 = timeit.default_timer()
     for file in os.listdir(curr):
         t1 = timeit.default_timer()
+        exists = file_exists(os.path.join(curr, file))
         row = format_txt(os.path.join(curr, file), dest, overwrite)
 
         data.append(pd.DataFrame.from_dict(row))
@@ -121,10 +122,11 @@ def format_all_txt(curr: str, dest: str, overwrite: bool = False) -> pd.DataFram
             delim = '\t'
 
         t2 = timeit.default_timer()
-        if file_exists(os.path.join(curr, file)):
-            pass
-        else:
+        if overwrite:
             print(f"{count}.{delim}[{row['File'][0]}] written in {t2 - t1} sec")
+        elif not exists:
+            print(f"{count}.{delim}[{row['File'][0]}] written in {t2 - t1} sec")
+
 
     t3 = timeit.default_timer()
     if overwrite:
@@ -136,10 +138,10 @@ def format_all_txt(curr: str, dest: str, overwrite: bool = False) -> pd.DataFram
 
 
 def main() -> None:
-    # curr = '../raw/transcripts/txt'
-    # dest = '../files/transcripts'
-    # data = format_all_txt(curr, dest)
-    # print(data)
+    curr = '../raw/transcripts/txt'
+    dest = '../files/transcripts'
+    data = format_all_txt(curr, dest, True)
+    print(data)
     pass
 
 

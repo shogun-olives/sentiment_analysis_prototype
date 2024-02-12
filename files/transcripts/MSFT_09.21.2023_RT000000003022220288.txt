@@ -21,9 +21,7 @@ back to their work, to artists who say it sparked their creativity, to all of us
 knowledge workers and first-line workers, right, who are able to rid ourselves of just
 this drudgery of sometimes this work. Business leaders who finally have a new tool
 to be able to reimagine, simplify, optimize business processes, whether it's sales,
-marketing, finance, customer service, what have you.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 2 of 16In some sense, perhaps the biggest learning is what God has all started, whatever, in
+marketing, finance, customer service, what have you.In some sense, perhaps the biggest learning is what God has all started, whatever, in
 the last 70 plus years around this computing revolution in the first place. I recently
 had a chance to reread a book, Bootstrapping, which I think came out perhaps in the
 early 2000s. It's a story of Doug Engelbart and his life, his vision. Obviously,
@@ -66,9 +64,7 @@ today as separate categories, research, productivity, operating systems, devices
 come together and evolve. So the context and intelligence of the web, your work
 data and what you're doing in the moment on your device are presented together in
 a single unified experience centered around you, informed by your preferences and
-permissions. But it's a lot more than that.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 3 of 16Yusuf MehdiWe think there's also an opportunity beyond work and life to have one experience
+permissions. But it's a lot more than that.Yusuf MehdiWe think there's also an opportunity beyond work and life to have one experience
 that works across your entire life. After all, you're a salesperson by the day, a
 musician by the night, a manager and a parent, a shopper and a creator. And this
 requires a real rethink, a user experience scaffolding that cuts across devices,
@@ -109,9 +105,7 @@ us.
 In this age of AI, which really kicked off for most of us in the past year, I always think
 we just got to stop for a second and just sort of look at what has happened now and
 what you can do now that you couldn't do even a year ago. Any of us can create
-some of the most breathtaking images in the world just by using our words. We'reFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 4 of 16going to show you that. After a busy week where you've got so much going on, you
+some of the most breathtaking images in the world just by using our words. We'regoing to show you that. After a busy week where you've got so much going on, you
 can now make sense of all those emails, the text messages, team's messages, even
 your documents, just by saying, hey, what happened this week? Tell me what
 happened.
@@ -150,9 +144,7 @@ to see, there's just so many features in here. We've really reimagined all of th
 inbox apps that you're used to, photos, paint, they're all reimagined with AI. But what
 really makes it come to life, of course, is Copilot and Windows. And here to tell you
 more is one of the leaders of our Windows Engineering team, Carmen Zlateff.
-Welcome, Carmen.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 5 of 16Carmen Zlateff
+Welcome, Carmen.Carmen Zlateff
 Thanks, Yusuf. I am so excited to be here. We have built an incredible new Windows
 11 set of features that will begin rolling out on September 26th. Get the update and
 you'll see the new benefits of Windows 11. New ways to express your creativity,
@@ -193,9 +185,7 @@ serves as a great learning moment for all those future equations you'll need to 
 Next, let's talk about how Copilot works across your devices. We rely on our phones
 for so many things, they're with us all the time and they're the bridge that connects
 us to our world. Copilot on Windows has context from your phone, so it's easy to
-find the information I need from a text without spending time searching throughFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 6 of 16Yusuf Mehdi
+find the information I need from a text without spending time searching throughYusuf Mehdi
 Divya Kumarhundreds of messages. I'll be back in New York in October and I'm trying to
 remember when my ﬂights are. I know I have that info in my phone, so I just ask
 Copilot, please find my ﬂight info. And as you can see, Copilot has the ﬂight info
@@ -237,9 +227,7 @@ Let me give you an example. My nephew loves playing soccer and I want to get him
 some new cleats. I'm not an expert. So Copilot in Microsoft shopping would guide
 me to find the best pair by asking smart questions like his skill level, which is not
 something I would have thought to consider. Next, it asks me to choose the type of
-field he'll be playing on. I can even compare my options of top name brands fromFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 7 of 16thousands of online merchants. I can get summarized reviews, including the pros
+field he'll be playing on. I can even compare my options of top name brands fromthousands of online merchants. I can get summarized reviews, including the pros
 and cons of the shoe and Copilot gets me to a recommendation. I can even find the
 best price in online promo codes.
 You can see that at Edge, we have built-in coupons and cashback, making it
@@ -280,9 +268,7 @@ you care about faster, we're introducing personalized answers. This means your c
 history can inform your results. Here's an example. I'm looking for something to do
 this weekend and you can see that Bing remembers earlier conversations I had
 about sports and my Golden Retriever, it takes these earlier conversations into
-consideration to infer that I may want sports-related or pet-friendly activities. WithFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 8 of 16Colette Stallbaumerjust a single prompt, Bing brings me personalized results from across the web that
+consideration to infer that I may want sports-related or pet-friendly activities. WithColette Stallbaumerjust a single prompt, Bing brings me personalized results from across the web that
 matches my interests. Of course, you also have the option to turn it off.
 Now, let's talk about one of the most powerful ways in which Bing and Edge are
 leveraging AI to transform how people can get things done at work. We launched
@@ -320,9 +306,7 @@ more collaborative in Teams. Today, we're introducing a new hero experience in
 Microsoft 365 Copilot, Microsoft 365 Chat. You got a glimpse of M365 Chat in
 March, but thanks to rapid advances over the past few months, today, we're taking it
 to a whole new level, going far beyond simple questions and answers to solve your
-most complex problems at work. Let's take a look.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 9 of 16(Audio-Video Presentation)
+most complex problems at work. Let's take a look.(Audio-Video Presentation)
 M365 Chat has a deep contextual understanding of you, your job, your priorities and
 your organization. It's like having someone attend all your meetings, even the ones
 you skip. Read all your emails, including the ones you missed, know what's in every
@@ -362,9 +346,7 @@ Now you can move on to promoting the event. You start with the blog post. It nee
 to share all the important details and get customers excited. You point Copilot to the
 right files and ask it to pick the top five things and make them prominent. Note the
 amount of detail in the prompt. Okay, here it goes. Give it a moment. Okay. Now
-you've got a blog post. Now that probably felt like magic, but it's not. This is allFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 10 of 16working code today. Just imagine doing this with your data. This store will be the first
+you've got a blog post. Now that probably felt like magic, but it's not. This is allworking code today. Just imagine doing this with your data. This store will be the first
 to unveil your new home improvement concierge service and you need a catchy
 tagline. You ask Copilot to generate some options. Now, this is great for when you've
 got a case of writer's block.
@@ -404,9 +386,7 @@ inspired as we all learn to work in this new way together.
 Now, the need to be creative doesn't stop when the workday ends. Let me show you
 how I use Copilot in my personal life. I love fall, it's my favorite season. Let's say I'm
 planning my neighborhood's annual fall festival. Microsoft 365 Copilot helps anyone
-bring their idea to life and we're making it easier than ever to get started. I just tellFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 11 of 16Yusuf Mehdi
+bring their idea to life and we're making it easier than ever to get started. I just tellYusuf Mehdi
 Brett OstrumCopilot what I have in mind for my fall event, again, this doesn't need to be formal or
 even fully baked, just enough of an idea to get started. And it takes me to word and
 my first draft is already there. Now all I have to do is iterate and refine the details.
@@ -444,9 +424,7 @@ To tell you more, please welcome the leader of the Surface product team, Brett
 Ostrom.
 Thank you, Yusuf. I am grateful to be here representing a team of incredible product
 makers. We started Surface over 10 years ago to inspire people and push the
-boundaries of what's possible on a Windows PC. Now the team is proud that SurfaceFINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 12 of 16Nicholas Payne
+boundaries of what's possible on a Windows PC. Now the team is proud that SurfaceNicholas Payne
 Brett Ostrumhas the highest customer satisfaction of any PC. Today, we have two brand new
 Surface laptops to show you. We will start with the lightest, most portable Surface
 Laptop Go 3. Take a look.
@@ -484,9 +462,7 @@ And with one quick step, I can post my video directly to social channels like Ti
 YouTube, and Instagram. How cool is that?
 Thank you, Nicholas. Surface Laptop Go is the lightest, most portable laptop laptop.
 Now, I want to show you the most powerful one. Take a look at Surface Laptop
-Studio 2.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 13 of 16Unidentified Speaker(Audio-Video Presentation)
+Studio 2.Unidentified Speaker(Audio-Video Presentation)
 This is Surface Laptop Studio 2, the most powerful Surface we have ever built.
 Unmatched productivity, versatility and creativity, all in a single laptop. The original
 Surface laptop studio was the most performant device we had ever shipped and this
@@ -523,9 +499,7 @@ Adaptive Touch and all of a sudden it responds to my hand. I can even resize the
 right-click region to turn the touchpad into a large two-button mouse. I cried the first
 time I got to use this, because as a product maker, it showed me the amazing things
 we can do when we include the disability community. And as a member of that
-community, it was amazing to see myself reﬂected in the products that we make.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 14 of 16Brett Ostrum
+community, it was amazing to see myself reﬂected in the products that we make.Brett Ostrum
 Adrienne BrewbakerNow the adaptive touchpad features are only the latest advancement in accessibility
 we've made in the last year. Our adaptive pen grips also make it easier for people to
 physically interact with their devices. Voice access provides a touchless experience.
@@ -564,9 +538,7 @@ super demanding on the GPUs. The speed in which it's rendering here on the lapto
 studio is going to really show off. There we go. It's going to really show off the power
 of the device. And when combined with the versatility of a touchscreen, pen, and
 three modes, it truly is the ultimate device for creators. It looks like the Laptop Studio
-has finished here and the Mac is still going.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 15 of 16Brett Ostrum
+has finished here and the Mac is still going.Brett Ostrum
 Adrienne Brewbaker
 Brett Ostrum
 Adrienne Brewbaker
@@ -595,9 +567,7 @@ Nicholas, Solomon, and Adrienne. Today, you saw how we're going to build Copilot
 as your everyday companion that will help you work across your entire life, whether
 it's shopping or planning a vacation, creating a design or getting ready for a
 meeting. You also saw how we're leading with new hardware to accelerate this vision
-for AI and this is just the beginning.FINAL TRANSCRIPT 2023-09-21
-Microsoft Corp (MSFT US Equity)
-Page 16 of 16You're going to see us continue to add powerful capabilities to Copilot throughout
+for AI and this is just the beginning.You're going to see us continue to add powerful capabilities to Copilot throughout
 the year. We believe Copilot is going to fundamentally change how each of us
 interacts with our technology. But for us, it's not just tech for tech's sake, it's about
 connecting that innovation with the needs of every person and every company on

@@ -4,9 +4,7 @@ our expectations on both financial and quantitative metrics that we have. And as
 can imagine, we're watching a number of things including incrementality on comps
 including incrementality on MSR.
 We're trying to make sure we can measure the overall store lift because we think
-there will be some benefit as the line moves faster, even for those customers thatFINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 2 of 17Keith Stegnerdon't use Mobile Order and Pay, that line may move faster. So we're watching all of
+there will be some benefit as the line moves faster, even for those customers thatKeith Stegnerdon't use Mobile Order and Pay, that line may move faster. So we're watching all of
 that. And what I would say is for the first few months, which is, obviously, early in that
 program, we're really happy with what we see quantitatively.
 Then there's the qualitative aspect that I think Cliff Burrows, who runs the Americas
@@ -44,9 +42,7 @@ our partners in the store, what's going on. And so we're seeing a lot of tractio
 understanding with their customers. And we're pretty happy how it started.
 So one of the other questions I get to this -- or one of the questions I get very
 frequently is how do you manage all this? And you highlighted this a little bit, right?
-This is a customer-facing tech. And the concern that comes up is, again, are youFINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 3 of 17Scott Maw
+This is a customer-facing tech. And the concern that comes up is, again, are youScott Maw
 Keith Stegnergoing to have an operational hiccup? Are you going to drop the ball? How do you
 actually put all this in place without screw-ups, right? Is the tech that the partners
 have suﬃcient? I've seen new POS's in the stores. How do you avoid the operational
@@ -85,9 +81,7 @@ ground to figure out which of those things do we want to do first.
 But for example, we still take inventory in the stores using pen and paper. Eventually,
 that's got to change. And so we're putting that on the list and saying how quickly can
 we make that change to make it easier for partners? And all that speeds things up in
-the store.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 4 of 17Scott Maw
+the store.Scott Maw
 Keith Stegner
 Scott MawIs the investment that's required for part of this already built into guidance?
 
@@ -125,9 +119,7 @@ converted into My Starbuck's rewards customers.
 And as you know, that's a win for everyone, because we think our rewards program
 stacks up as well as anyone else's out there. It's really beneficial for consumers,
 particularly our most frequent customers. And we can learn things about those
-customers and send them relevant offers, over time.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 5 of 17Keith Stegner
+customers and send them relevant offers, over time.Keith Stegner
 Scott MawSo driving and trying to find additional ways to grow MSR is critical. And that
 includes, as you alluded to. And I think Matt talked a little bit about always evaluating
 the MSR program and thinking of ways that we can change and improve and tweak
@@ -165,9 +157,7 @@ Champion, marketing, things like test and control, all that basic things that ne
 happen to set the model. You have to do a certain amount of marketing to fine-tune
 it. We're really in the early days of doing all of that and then learning what works best
 for our customers and for us. And obviously, we know when we get it right because
-customers will tell us with increased transactions.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 6 of 17Keith Stegner
+customers will tell us with increased transactions.Keith Stegner
 Scott MawAnd so, I think if Matt was here, he would maybe say we're in the first inning. I might
 say maybe second or third just because I've seen that team come so far over the last
 12 months. And there's always a balance there. We want to make sure we believe
@@ -206,9 +196,7 @@ And lunch is early days as far as the inﬂuence of La Boulange and up-leveling 
 will say over the last few years we've done things like add Bistro Boxes, up-level the
 paninis. And it's resulted in the afternoon day part, let's call it 11 to 3, lunch and
 afternoon being the fastest-growing day part for us from a comp perspective in most
-quarters over the last couple of years.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 7 of 17Keith Stegner
+quarters over the last couple of years.Keith Stegner
 Scott Maw
 Keith StegnerSo even before La Boulange was rolled out for bakery. And we started working on
 lunch, our customers were already telling us we're relevant at lunch, we're
@@ -246,9 +234,7 @@ with iced teas and refreshers and Fizzio, we have more refreshing drinks that th
 can attach food to. And on the ﬂip side, if they come in in the afternoon for a drink,
 there's better snack and lunch options for them to choose from.
 So switching to unit growth in the US, because it's kind of all those together in terms
-of impacting comps and maybe cannibalization, how do you avoid brandFINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 8 of 17Scott Mawdegradation that's happened for so many others, right? You reach a point where you
+of impacting comps and maybe cannibalization, how do you avoid brandScott Mawdegradation that's happened for so many others, right? You reach a point where you
 continue to open units. You go to smaller, more ﬂexible boxes and the next thing you
 know, woops, we've opened too many, we've been cannibalizing comps. Even
 though it feels like there's a good new unit return on that box, maybe it wasn't the
@@ -286,9 +272,7 @@ And then a couple hundred or so license stores. And so while we're expanding in
 the US, it's split pretty evenly -- our capital and our partners' capital in stores like
 Target and Kroger and Safeway and so we're happy to have that distribution
 footprint. We're happy to get in that real estate that we couldn't get into and get our
-royalty. And I think our partners are quite happy with what they're seeing.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 9 of 17Keith Stegner
+royalty. And I think our partners are quite happy with what they're seeing.Keith Stegner
 Scott MawSo switching over to more of, like, the operational hookup potential side -- with all
 this growth you've had, more being added to the stores, more asked of these
 partners, it's clear they're right at the heart and center of this. Where you talked a
@@ -326,9 +310,7 @@ million out of our G&A plan out of the run rate and just to make sure we could g
 those partner investments covered. And we had some FX opportunity that we
 needed to cover as well. But those decisions were made all the way back in August.
 And what we launched in January was that exact program that we had planned back
-in August.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 10 of 17Keith Stegner
+in August.Keith Stegner
 Scott MawSo it wasn't in response to what we saw recently in the announcements that are
 made recently. And importantly, it wasn't in response to an increase in turnover, a
 decrease in partner satisfaction. What it really was, as you referenced, is we've long
@@ -368,9 +350,7 @@ The shift to single serve is something that everyone has seen. And we've been
 participating in that in a big way. We're a leading share in single serve. In the last
 quarter it was number one. It kind of switches back and forth between us and the
 number one or number two player that's up there. And obviously, we're at a
-premium price point down the aisle.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 11 of 17Keith StegnerSo over the last few years, actually, a relatively short period of time -- Mike Conway,
+premium price point down the aisle.Keith StegnerSo over the last few years, actually, a relatively short period of time -- Mike Conway,
 who runs our channel development business has built a leading position at a
 premium price point down the aisle. And we feel pretty good that that is something
 that we can continue to do.
@@ -408,9 +388,7 @@ through as a JV or a partnership or a royalty like Pepsi does. And so that's why
 bottom lines grows a little bit faster than our top line. Some of that will come through
 top-line revenue. But some of it will come through JV income.
 This actually brought up a question from the audience. There's been more than one.
-Talk about the Keurig partnership. Is there room for that to grow internationally? AndFINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 12 of 17Scott Maw
+Talk about the Keurig partnership. Is there room for that to grow internationally? AndScott Maw
 Keith Stegner
 Scott Mawwould you be open to the Starbuck's brand playing part in the cold platform as well?
 
@@ -445,9 +423,7 @@ the stores around limited time offers and things that we think we can drive comp
 I do think it's important to point out that Japan's been comping in Starbuck's stores
 at 4% a year, on average, over the last three years. So that's not consistent every
 quarter. It moves around. But if you take the last three years. And that's a pretty big
-number in Japan. The economy has been ﬂattish, it's not -- the retail environment isFINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 13 of 17Keith Stegner
+number in Japan. The economy has been ﬂattish, it's not -- the retail environment isKeith Stegner
 Scott Maw
 Keith Stegner
 Scott Mawtough. So we feel good about that. But I think we can lean in and maybe either do
@@ -485,9 +461,7 @@ last few years, even before I came to Starbuck's, Troy sat down with the supply 
 and said, "We've seen your plan rollout and the businesses have all of the cost of
 goods sold that we're assuming. And cost of goods sold is our largest expense, as
 you can imagine. Now what we want to do is we want to give you a challenge to go
-and take costs out of the supply chain."FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 14 of 17Keith Stegner
+and take costs out of the supply chain."Keith Stegner
 Scott MawAnd that challenge has been building a bit every year. But last year it was just under
 $150 million. And so the billion dollars is an extension in addition to that challenge.
 And so this year it will be a little under $200 million. And you can see how you
@@ -524,9 +498,7 @@ targets is EMEA operating margins. Talk about maybe potentially reaching 20%. Th
 consensus is not there. Can you walk through, maybe, is it mix of business franchise
 versus company? Is it sales leverage? Is that a realistic target? Maybe how long does
 it take to get there?
-FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 15 of 17Keith Stegner
+Keith Stegner
 Scott MawI think we can approach 20% in five years, I really do believe it. I don't want to say it's
 automatic math. So I'll give you the pieces that go into it. It's certainly a mix shift
 towards licensed stores. Virtually, all the stores will be open -- will be licensed in a
@@ -565,9 +537,7 @@ It's a great question. I had a question in my travels around bringing in an outs
 with Kevin. And it's the first time I'd ever heard anyone refer to it that way. And we
 certainly don't think about it that was with Starbuck's. Kevin is a very involved Board
 member. He understands the company deeply. He's at the high end of involved
-Board members that I've ever seen. He sits on the Audit Committee, theFINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 16 of 17Keith Stegner
+Board members that I've ever seen. He sits on the Audit Committee, theKeith Stegner
 Scott MawCompensation Committee, he's a local in Seattle so you'll see him in the oﬃce
 having discussions with Adam Brotman around digital strategy. So Kevin has just
 been really engaged in the over five years he's been on the Starbuck's Board. So
@@ -604,9 +574,7 @@ the dividend and we compare it to other growth companies, if you take growth rat
 and dividend payout rate, we're certainly on the upper right of that chart.
 So we feel like we have that right. But the dividend is important to us. And we'll
 continue to grow it and perhaps we'll grow it a little faster than earnings as we have
-in the last few years.FINAL TRANSCRIPT 2015-03-05
-Starbucks Corp (SBUX US Equity)
-Page 17 of 17Keith Stegner
+in the last few years.Keith Stegner
 Scott MawThen from a capital buyback standpoint, sorry, stock buyback standpoint, we've
 been increasing that really to get at the dilutive effect of our broad-based share
 compensation plan. So we're committed to that. In the last year we leaned in on that

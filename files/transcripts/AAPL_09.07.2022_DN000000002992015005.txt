@@ -19,9 +19,7 @@ notifications and blood oxygen, it is the ultimate device for a healthy life.
 And now, Series 8 brings even more features for health, safety and connectivity,
 starting with an innovative new temperature sensor that takes our commitment to
 women's health even further.
-And here's (inaudible) to tell you about it.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 3 of 24Women's health impacts more than just women. It also impacts their families and
+And here's (inaudible) to tell you about it.Women's health impacts more than just women. It also impacts their families and
 communities and menstrual cycles are key to a woman's health, so much so that
 many physicians regard them as a vital sign. We added cycle tracking three years
 ago. And it has helped tens of millions gain deeper insights into their cycles and
@@ -62,9 +60,7 @@ yours alone. Your cycle tracking data is encrypted on your device and only
 accessible with your passcode, Touch ID or Face ID.
 When using iOS and Watch OS with the default two-factor authentication and a
 passcode, Health app data synced to iCloud, is encrypted end-to-end. Meaning that
-Apple does not have the key to decrypt the data and therefore cannot read it. OnlyFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 4 of 24Deirdre O'Brien
+Apple does not have the key to decrypt the data and therefore cannot read it. OnlyDeirdre O'Brien
 Unidentified Speaker
 Deirdre O'Brienwith your explicit permission can your health data to be shared and you have
 granular control over the types of data you share and who you share it with.
@@ -100,9 +96,7 @@ that you will see a little bit safer every time you get in the car.
 Now back to Deidre.
 Even with the new temperature and motion sensors working in the background,
 Apple Watch Series 8 still has all-day 18-hour battery life. But sometimes like if you're
-on a long ﬂight or without a charger for the night, you need to preserve battery life.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 5 of 24Unidentified SpeakerTo help with that, we're introducing low power mode, which can give you up to 36-
+on a long ﬂight or without a charger for the night, you need to preserve battery life.Unidentified SpeakerTo help with that, we're introducing low power mode, which can give you up to 36-
 hours of battery life on a full charge. Low power mode maintains many of the core
 features of Apple Watch like activity tracking and fall detection while temporarily
 disabling other features like always on display and auto workout detection,
@@ -141,9 +135,7 @@ Next, let's talk about Apple Watch SE. SE has been a huge hit. And for more than
 core Apple Watch experience at a more affordable price. SE is a fantastic way to get
 started with Apple Watch, and this year it gets even better. The new SC will be
 available in silver, midnight and starlight, all in 100% recycled aluminum and we've
-completely redesigned the back case. It's now made of nylon composite materialsFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 6 of 24Deirdre O'Brien
+completely redesigned the back case. It's now made of nylon composite materialsDeirdre O'Brien
 Jeffrey E. W illiamsthat match perfectly with the three case finishes. And there is a new production
 process that reduces its carbon footprint by over 80%.
 Now back to Deirdre to tell you more.
@@ -178,9 +170,7 @@ Scott Jurek one of the most dominant ultra marathon runners in history and a sev
 time winner of the Western States 100 mile. Inspired by their stories, we set out to
 create an Apple Watch designed specifically for exploration, adventure and
 endurance and it's extraordinary.
-This has been years in the making and we can't wait to show it to you.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 7 of 24(Video Presentation)
+This has been years in the making and we can't wait to show it to you.(Video Presentation)
 This is Apple Watch Ultra, a completely new design, reimagined with extraordinary
 new capabilities that expand the ways you can use Apple Watch. Every detail has
 been engineered to create the most rugged and capable Apple Watch ever. It starts
@@ -219,9 +209,7 @@ the elasticity for comfortable snug fit. It's our thinnest band yet with a conve
 for making quick adjustments.
 Ultra is a totally new expression of Apple Watch. Whether you're an accomplished
 athlete or explorer or aspire to try exciting new activities, we think you're going to
-love it.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 8 of 24Unidentified SpeakerHere's Jules [ph] to tell you more.
+love it.Unidentified SpeakerHere's Jules [ph] to tell you more.
 We set out to make Apple Watch Ultra the best sport watch out there with features
 for every athlete. GPS performance is critical for serious runners and athletes who
 want the most accurate metrics. A typical GPS solution works well most of the time,
@@ -261,9 +249,7 @@ sports, it can withstand the intense dynamic forces of activities like kayak sur
 wakeboarding, and it can go deep below the waves because we engineered it to
 twice the water-resistance, WR100. Using its new built-in depth gauge Ultra
 automatically launches a new Depth app when submerged to show current depth,
-underwater time and water temperature.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 9 of 24Mike Huish
+underwater time and water temperature.Mike Huish
 Jeffrey E. W illiamsWe also want Ultra to be a great tool for recreational scuba divers. So it's been
 certified to EN 13319, the internationally recognized standard for dive computers and
 gauges and we're partnering with Huish Outdoors outdoors to create an exclusive
@@ -301,9 +287,7 @@ community and we can't wait for you to try it out later this fall. The Oceanic+ 
 Apple Watch Ultra, together create a powerful and easy to use dive computer that
 will inspire more people to discover and explore the underwater world.
 Now back to Jeff.
-FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 10 of 24Tim Cook
+Tim Cook
 Unidentified SpeakerSo that's Apple Watch Ultra, the most rugged and capable Apple Watch ever with a
 49-millimeter titanium case, precision dual frequency GPS, a customizable action
 button, long battery life, a built in-depth gauge, the biggest and brightest display up
@@ -338,9 +322,7 @@ generation of AirPods Pro, our most advanced AirPods yet.
 (Video Presentation)
 To tell you more about the new AirPods Pro here's Marianne [ph].
 At the heart of AirPods Pro is our brand new H2 chip, providing an incredible
-upgrade to performance from H1 with high bandwidth connectivity to unlockFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 11 of 24breakthrough audio experiences that only Apple Silicon can deliver. The exceptional
+upgrade to performance from H1 with high bandwidth connectivity to unlockbreakthrough audio experiences that only Apple Silicon can deliver. The exceptional
 sound quality of AirPods Pro is also now transformed with a new low-distortion audio
 driver and a custom amplifier to power it, so whether you are dancing to J Balvin
 more relaxing to Souza [ph], you will hear even more detail and clarity across a wider
@@ -380,9 +362,7 @@ up to 30-hours of total listening time, which is an increase of 6-hours.
 The charging case is also core to the convenience of AirPods Pro. Today Find My can
 help you locate AirPods Pro, because each head phone can individually play a
 sound. With the new AirPods Pro if you happen to miss place the charging case,
-Precision Finding will help you navigate directly to it with U1 technology.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 12 of 24Tim Cook
+Precision Finding will help you navigate directly to it with U1 technology.Tim Cook
 Unidentified SpeakerWe have also added a speaker to the bottom of the case to help you find it by
 playing louder tones and the speaker will indicate, pairing, low battery and when
 charging has started. To make charging easier, in addition to the Lightning Cable,
@@ -418,9 +398,7 @@ most intense game.
 IPhone 14 also has an updated internal design that improves thermal performance,
 which is great for staying in the action longer, both models have the gorgeous Super
 Retina XDR display with OLED technology that supports 12,000 nits peak HDR
-brightness, 2,000,000:1 contrast ratio and Dolby Vision. iPhone 14 is designed toFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 13 of 24last, so you can count on it to be there for you. Both models have Ceramic Shield
+brightness, 2,000,000:1 contrast ratio and Dolby Vision. iPhone 14 is designed tolast, so you can count on it to be there for you. Both models have Ceramic Shield
 tougher than any smartphone glass, aerospace grade aluminum and water and dust
 resistance. They come in five gorgeous colors midnight, starlight, a great new shade
 of blue, a strikingly elegant purple and a truly eye-catching Product Red.
@@ -459,9 +437,7 @@ twice as fast. And the ultrawide camera takes incredible-looking photos and vide
 which is great for wider shots and unique perspective.
 The front camera enables great looking selfies, high quality video during FaceTime
 and so much more. iPhone 14 has a new TrueDepth camera. It has a faster f/1.9
-aperture for a 38% improvement in low light capture for photos and video. The newFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 14 of 24front camera has auto focus for the first time, so it can focus clearly at multiple
+aperture for a 38% improvement in low light capture for photos and video. The newfront camera has auto focus for the first time, so it can focus clearly at multiple
 distances together with TrueDepth capabilities, the new front camera now has a
 hybrid system that can focus faster even in low light, so you'll get better Southeast
 Group shocks can be in focus from farther away and you'll be able to show us great
@@ -501,9 +477,7 @@ users stay in touch on the go. This is especially true for 5G, enabling super-fa
 downloads, better streaming and real-time connectivity and momentum for 5G is
 stronger than ever with over 250 carriers around the world on 5G. We've also made
 big improvements to cellular technologies like eSIM making it even easier to
-connect. An eSIM is a digital SIM that eliminates the need for physical SIM card. WithFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 15 of 24eSIM you can quickly transfer an existing cellular plan or get a new cellular plan, all
+connect. An eSIM is a digital SIM that eliminates the need for physical SIM card. WitheSIM you can quickly transfer an existing cellular plan or get a new cellular plan, all
 digitally.
 You can even store multiple eSIMs on the same device, meaning multiple cellular
 plans and phone numbers and it's more secure. Someone can't remove the physical
@@ -540,9 +514,7 @@ their network service. However, there are some places like winding back roads an
 mountain ridges that cell towers don't reach. Connectivity in these areas can be
 provided by communications satellites. Unlike stationary cell towers communication
 satellites are hundreds of miles above the earth and ﬂying at over 15,000 miles per
-hour. To connect to these satellites, you need to be outside with a clear view of theFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 16 of 24sky and the bandwidth is so limited that even sending a text message is a technical
+hour. To connect to these satellites, you need to be outside with a clear view of thesky and the bandwidth is so limited that even sending a text message is a technical
 challenge.
 Typically, the only way to tap into such network is with an expensive device that uses
 a bulky external antenna, we knew that approach just wouldn't work for iPhone. So,
@@ -581,9 +553,7 @@ have been carbon-neutral to reach our goal of carbon-neutral products by 2030,
 we're looking at our environmental impact across our supply chain in the entire
 product lifecycle. Over 200 of our suppliers have committed to 100% renewable
 energy for Apple production. Our suppliers work to create less waste and then we
-[ph] use recycle or compost.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 17 of 24Tim CookIn fiscal year 2021 alone, IPhone suppliers kept over 250,000 metric tons of waste
+[ph] use recycle or compost.Tim CookIn fiscal year 2021 alone, IPhone suppliers kept over 250,000 metric tons of waste
 from ending up in the landfill, that's about one year's worth of waste from 730,000
 households. We build our products to last. This durability enabled millions of trade-
 ins to find new owners in 2021. And when it is time to recycle an iPhone, that has
@@ -616,9 +586,7 @@ Super Retina display and our most advanced camera features like sensor-shift
 stabilization.
 I'm excited to share our most innovative Pro lineup yet.
 (Video Presentation)
-To tell you more about the new iPhone 14 Pro here's Joz.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 18 of 24Greg Joswiak
+To tell you more about the new iPhone 14 Pro here's Joz.Greg Joswiak
 Unidentified Speaker
 Our Pro models feature beautiful and strong surgical grade stainless steel. Together
 with our industry-leading durability features including Ceramic Shield and water
@@ -655,9 +623,7 @@ app you are using. We've designed all these animations to feel ﬂuid, lively an
 responsive. The Dynamic Island is always live and active heightening the sense of
 vitality, by adapting in real-time to show you important information like our next
 direction for maps and it's always visible for ongoing activities, but when you're
-using we the timer.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 19 of 24Greg JoswiakWe designed live activities, a new feature on the iOS 16 lock screen to work
+using we the timer.Greg JoswiakWe designed live activities, a new feature on the iOS 16 lock screen to work
 seamlessly with the Dynamic Island including support for third-party apps, so you
 can keep track of what's happening from anywhere on iPhone, like following a
 baseball game without needing to leave the app you are in or not missing the Lyft
@@ -696,9 +662,7 @@ your live activities without even touching you iPhone.
 With all these incredible features, the new Super Retina XDR is the most advanced
 display ever in a smartphone.
 IPhone 14 Pro is powered by our new A16 Bionic chip. Our newest generation of
-Apple silicon powers every experience in iPhone with A16, we focused on threeFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 20 of 24Unidentified Speakerimportant areas power eﬃciency, display and camera, delivering incredible
+Apple silicon powers every experience in iPhone with A16, we focused on threeUnidentified Speakerimportant areas power eﬃciency, display and camera, delivering incredible
 performance with leading power eﬃciency is a hallmark of Apple silicon A16 has
 nearly 16 billion transistors, the most ever in an iPhone. This is our first chip built on a
 state-of-the-art 4-nanometer process enabling greater eﬃciency while delivering
@@ -737,9 +701,7 @@ shooting. For most photos, we want to optimize for a light captured. So the new
 sensor groups every four source into one large quad pixel to 4 times more light. This
 further improved light capture while maintaining the practical 12 megapixel photo
 size combined with the photonic engine, the new main camera has up to 2 times low
-light improvement for photos compared to iPhone 13 Pro.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 21 of 24Let's take a look and what the main camera can do. You can capture stunning photos
+light improvement for photos compared to iPhone 13 Pro.Let's take a look and what the main camera can do. You can capture stunning photos
 across all lighting conditions. In this brighter shot, the main camera captured a
 beautiful rich color of her skin, the detail of the fiber in the blanket and even a little
 of her joy. For this photo, we locked exposure on the woman's face as a vibrant
@@ -777,9 +739,7 @@ IPhone 14 Pro also has a new Ultra Wide camera with a larger sensor, more focus
 pixels and together with the Photonic Engine delivers a massive up to 3 times
 improvement in light capture for photos. The new lens is sharper with more detail so
 macro gets even better. Like this candid bug [ph], capture in a split-second to review
-more than it was visible to the naked eye.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 22 of 24Greg JoswiakThe ﬂash was completely redesigned for a new adapted behavior based on the focal
+more than it was visible to the naked eye.Greg JoswiakThe ﬂash was completely redesigned for a new adapted behavior based on the focal
 length of the photo with a new, array of 9 LEDs we control the pattern and intensity.
 So it's up to twice as bright with up to 3 times better uniformity compared to our
 previous generation and with the new Photonic Engine all cameras of iPhone 14 Pro
@@ -817,9 +777,7 @@ Wallpaper to create a unique low-powered lock screen making go to information
 available at just a glance. And introducing a remarkable innovation that is both,
 hardware and software and something in between, the Dynamic Island, an
 interactive place the bubbles up alerts notifications and activities ﬂuidly transforming
-itself as needed. It's an entirely new way to experience iPhone.FINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 23 of 24Tim CookYou are now looking at the most impressive iPhone camera system yet. In a major
+itself as needed. It's an entirely new way to experience iPhone.Tim CookYou are now looking at the most impressive iPhone camera system yet. In a major
 leap the iPhone 14 Pro's main camera has a 48 megapixel quad-pixel sensor. It
 captures breathtaking detail, depths and color, and I'll gives you the equivalent of
 four Pro lenses at the ready as every photo, the quad-pixel sensor captures 4 times
@@ -858,9 +816,7 @@ announcements about products that are truly essential to our daily lives. Apple
 Watch Series 8 equipped with best-in-class health features and crash detection
 continue to make Apple Watch the gold standard for Smart Watches, the new Apple
 Watch SE brings all the core features of Apple Watch to even more users and the
-remarkable Apple Watch Ultra an entirely new category of Apple Watch with itsFINAL TRANSCRIPT 2022-09-07
-Apple Inc (AAPL US Equity)
-Page 24 of 24rugged design long battery life and breakthrough technologies is been both
+remarkable Apple Watch Ultra an entirely new category of Apple Watch with itsrugged design long battery life and breakthrough technologies is been both
 capable watch ever.
 The new AirPods Pro deliver an even better audio experience, including improved
 active noise cancellation, personalized spatial audio and longer battery life. IPhone

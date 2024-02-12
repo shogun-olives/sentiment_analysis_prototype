@@ -12,9 +12,7 @@ financial results and businesses, please refer to our most recent form 10-K and 
 and the reports that we may file on Form 8-K with the Securities and Exchange
 Commission. All our statements are made as of today, based on information
 currently available to us, except as required by law, we assume no obligation to
-update any such statements.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 24Jensen HuangWe'll start today with a few brief comments by Jensen, followed by a Q&A session
+update any such statements.Jensen HuangWe'll start today with a few brief comments by Jensen, followed by a Q&A session
 with Jensen and Colette. And with that let me turn it over to Jensen.
 
 Hi, everybody, welcome to GTC. GTC is our conference for developers, to inspire the
@@ -55,9 +53,7 @@ to many applications domain, of course, one of the very important ones is artifi
 intelligence.
 NVIDIA's accelerated computing platform is also a multi-domain. This is really
 important because data centers, computers are not single-use devices. What makes
-computers such an incredible instrument is its ability to process multiple types ofFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 24applications. NVIDIA's accelerated computing is multi-domain. Particle physics, ﬂuid
+computers such an incredible instrument is its ability to process multiple types ofapplications. NVIDIA's accelerated computing is multi-domain. Particle physics, ﬂuid
 dynamics, all the way to robotics, artificial intelligence, so on and so forth, computer
 graphics, image processing, video processing, all of these types of domains
 consume an enormous amount of CPU cores today, enormous amounts of power.
@@ -99,9 +95,7 @@ physical operating system of industrial digitalization. And I demonstrated how
 Omniverse was used from the very beginning of product conception, the
 architecture, the styling of product designs, all the way to collaboration of the
 design, the simulation of the product, the engineering of the electronics to the
-setting up the virtual plants, all the way to digital marketing and retail.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 24In every aspect of a physical products company, digitalization has the opportunity to
+setting up the virtual plants, all the way to digital marketing and retail.In every aspect of a physical products company, digitalization has the opportunity to
 automate, to help them collaborate to bring the world of physical into the world of
 digital and we know exactly what happens to that. Once you get into the world of
 digital, our ability to accelerate workﬂows, our ability to discover new product ideas
@@ -143,9 +137,7 @@ of new partners and cloud data centers that have adopted BlueField, I'm very
 excited about this product. I really believe that this is going to be one of the most
 important contributions we make to modern data centers. Some companies design
 their own, most companies won't have the resources to design something of this
-complexity, and cloud data centers will be everywhere.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 24We announced Grace Hopper, which is going to be used for one of the major
+complexity, and cloud data centers will be everywhere.We announced Grace Hopper, which is going to be used for one of the major
 inference workloads, vector databases, data processing, recommender systems.
 Recommender systems as I've spoken about in the past, it's probably one of the
 most valuable and most important applications in the world today. And a lot of
@@ -188,9 +180,7 @@ those diverse generative AI workloads. On the other hand, you would like your da
 center to be fungible, because workloads are moving up and down, they're very
 dynamic, new services are coming on, new tenants are coming on. People use
 different services during different times of day and yet you would like your entire
-data centers to be utilized as much as possible.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 24The power of our architecture is that, it is one architecture, you have one architecture
+data centers to be utilized as much as possible.The power of our architecture is that, it is one architecture, you have one architecture
 with four different configurations, they all run our software stack, which means that
 depending on the time of day, if one is under-provisioned or under-utilized, you
 could always provision that class of that configuration of accelerators to other
@@ -233,9 +223,7 @@ We -- every single we're constantly improving the acceleration libraries we have
 that the installed-base benefits from all of our increased optimizations for all of their
 investments of capital already, their infrastructure already. So you buy NVIDIA's
 systems and you benefit from acceleration for years to come. It's not unusual for us,
-on the same platform to increase the performance anywhere from four to 10 timesFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 24after you've installed it over its life. And so we're delighted to continue to improve
+on the same platform to increase the performance anywhere from four to 10 timesafter you've installed it over its life. And so we're delighted to continue to improve
 the libraries and bring new features and more optimization. This year, we optimized
 and released 100 libraries and 100 models -- 100 libraries and models, so that you
 can have better performance and better capability.
@@ -278,9 +266,7 @@ history. We know that the world is becoming heavily cloud-first. And cloud gives
 the opportunity to engage your computing platform quickly, instantly through a web
 browser. And over the last -- over the last 10 years, the capabilities of clouds have
 continued to advance. To the point where it started with just CPU and running
-Hadoop or MapReduce or do inquiries in the very beginning, to know, they're highFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 24performance computing, scientific computing systems, AI supercomputers in the
+Hadoop or MapReduce or do inquiries in the very beginning, to know, they're highperformance computing, scientific computing systems, AI supercomputers in the
 cloud.
 And so we are going to partner with all of the world's cloud service providers. And
 starting with OCI, we've also announced cloud partnership with Azure and GCP.
@@ -322,9 +308,7 @@ model and deploy that model on NVIDIA DGX Cloud.
 And as I mentioned, the DGX Cloud runs in all of the world's major CSPs. And so if
 you already have a CSP of your choice, I'm pretty certain that we'll will be able to
 hosted in it, okay. And so NVIDIA cloud services is going to expand our business
-model and we offer infrastructure as a service, DGX Cloud, platform as a service,FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 24A - Simona Jankowski
+model and we offer infrastructure as a service, DGX Cloud, platform as a service,A - Simona Jankowski
 Q - Toshiya Hari
 A - Jensen Huang
 Q - Toshiya Hari
@@ -364,9 +348,7 @@ includes computing fabrics like NVLink, computing -- large computing -- large-sc
 computing fabrics like InfiniBand and very sophisticated networking that stitches that
 altogether.
 The software stack, the operating system of it the distributed computing us, software,
-it's just computer science at the limits. And so there what's really going to be quiteFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 24A - Simona Jankowskiexciting is how AI supercomputer is going to go beyond research and extending
+it's just computer science at the limits. And so there what's really going to be quiteA - Simona Jankowskiexciting is how AI supercomputer is going to go beyond research and extending
 into essentially AI factories because these AI models that people develop are going
 to be fine-tuned and improved basically forever. And I believe that every company
 will be in intelligence manufacturer. At the core of all of our companies, we produce
@@ -408,9 +390,7 @@ of inference workload will be quite large in. My sense is that, inference will o
 balance be larger than inference, larger than training, but training is going to be
 right there with it.
 
-Thank you. Our next question comes from C.J. Muse with Evercore.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 24Q - C.J. Muse
+Thank you. Our next question comes from C.J. Muse with Evercore.Q - C.J. Muse
 A - Jensen Huang
 Q - C.J. Muse
 A - Jensen HuangGood morning. Good afternoon. Can you hear me?
@@ -451,9 +431,7 @@ And then lastly, we designed a whole system instead of building just a super-fas
 CPU core -- CPU. We designed a superfast CPU node. By doing so, we can enhance
 the ability for data centers that are powered limited to be able to use as many CPUs
 as possible. I think that the net of it all is that accelerated computing will be the
-dominant form of computing in the future because Moore's Law has come to an end.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 24A - Simona Jankowski
+dominant form of computing in the future because Moore's Law has come to an end.A - Simona Jankowski
 Q - Joseph Moore
 A - Jensen HuangBut what is going to remain are going to be heavy data processing, heavy data
 movement and single-threaded code. And so CPUs will remain very, very important.
@@ -497,9 +475,7 @@ multiple instance GPUs mix. And those miniature GPUs --fractions of a GPUs could
 be inferencing different language models or the whole thing could be connected or
 four of these could be put into a PCI Express server -- commodity server, that can
 then be used to distribute a large model across it. This has already reduced, because
-the performance is so incredible. This has already reduced the cost of languageFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 24A - Simona Jankowski
+the performance is so incredible. This has already reduced the cost of languageA - Simona Jankowski
 Q - Timothy Arcuri
 A - Jensen Huang
 A - Simona Jankowski
@@ -542,9 +518,7 @@ Our next question will come from Vivek Arya with Bank of America. Please go ahea
 
 Thanks for taking my question and thank you Jensen and Colette, for a very
 informative event. So I had a near-term and longer-term question. On near-term, just
-curious about availability of Hopper, how you doing in terms of supply? And thenFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 24A - Colette Kress
+curious about availability of Hopper, how you doing in terms of supply? And thenA - Colette Kress
 A - Jensen Huang
 A - Simona Jankowskilong-term, Jensen, we heard about the range of software and service innovations.
 How should we track their progress, right? Of the last number I think we heard in
@@ -586,9 +560,7 @@ think the $300 million of platform and platform software and AI software service
 that today has just been pulled in. And -- but I still think that it's -- the size of it is
 consistent with what we've described before.
 
-Our next question will come from Raji Gill with Needham.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 24Q - Rajvindra Gill
+Our next question will come from Raji Gill with Needham.Q - Rajvindra Gill
 A - Jensen Huang
 Thank you, Jensen, and thank you for this presentation. Just a question from a
 technological perspective, regarding the relationship between memory and
@@ -630,9 +602,7 @@ We need 1 terabyte per second of access to 0.5 terabyte of data. And if we had 1
 terabyte per second to 0.5 terabyte of data, if you wanted to have a petabyte of data
 in the distributed computing system, just imagine how much bandwidth we're
 bringing to bear. And so this approach of very high speed, very high capacity data
-processing is exactly what Grace Hopper was designed to do.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 24A - Simona Jankowski
+processing is exactly what Grace Hopper was designed to do.A - Simona Jankowski
 Q - Stacy Rasgon
 A - Jensen Huang
 A - Simona Jankowski
@@ -673,9 +643,7 @@ combination of all the value that we would deliver we would set the price and
 engage the customers and directly engage the customers business.
 
 Our next question comes from Aaron Rakers with Wells Fargo. Please go ahead.
-FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 24A - Jensen Huang
+A - Jensen Huang
 A - Simona JankowskiYeah. Thanks for taking the question. I want to go back, I think maybe with C.J.'s
 question earlier, just kind of the breadth of the Grace, maybe not the Grace
 Superchip, but just the Grace CPU strategy. As we think about kind of the evolution,
@@ -719,9 +687,7 @@ data center. And so these, anybody who is interested in these particular areas w
 is not everyone in the world, but it's also a very important segment of the world. I
 think Grace is going to be very successful for them even as an independent and
 standalone CPU.
-FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 18 of 24Q - Matthew Ramsay
+Q - Matthew Ramsay
 A - Jensen HuangOur next question is from Matt Ramsay with Cowen.
 
 Thank you, Simona. Thanks, Jensen and Colette for doing this. I guess, I have two
@@ -763,9 +729,7 @@ world, where I see the world is -- the entire data center, frankly, even on a pl
 scale is the computer. And so you have to think about the world starting there. And
 that includes the computing elements, that includes the systems, that includes
 networking and storage and compute fabric and CPUs and so on and so forth, all the
-way up to systems software stack and very importantly the algorithms, the libraries.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 19 of 24We design it as a data center and the way we design it, we design it with discipline,
+way up to systems software stack and very importantly the algorithms, the libraries.We design it as a data center and the way we design it, we design it with discipline,
 so that we can then disaggregate it, fractionalize it.
 So if a customer would like to buy, just the aged DGX GPU, which is right here, this is
 what a GPU looks like today. A lot of people think that a GPU looks like this, of
@@ -806,9 +770,7 @@ We have the expertise to help them do that. And so in those cases they need to h
 direct access to our engineers and our computer scientists and is also the reason
 why we're so busy. We're working with industry leaders, who would like to build
 something very quite special or quite proprietary, based on their own platform and
-they just need our computing expertise to make it possible for them to either deployFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 20 of 24A - Simona Jankowski
+they just need our computing expertise to make it possible for them to either deployA - Simona Jankowski
 Q - Blayne Curtis
 A - Jensen Huangit at the scale they want, at the reach of multi-cloud that they want or at the level of
 cost and power that they would like to reduce. And in which case they contact us.
@@ -848,9 +810,7 @@ generative AI has now been connected into. Just think about what has happened in
 the last couple of months. Generative AI has been connected into the most popular
 applications on the planet, oﬃce, teams, Google docs. Those are the most popular
 productivity applications in the history of humanity. And that's just been in terms of
-AI is just been connected into it. And all of that has to be inference somewhere.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 21 of 24A - Simona Jankowski
+AI is just been connected into it. And all of that has to be inference somewhere.A - Simona Jankowski
 Q - W illiam Stein
 A - Jensen HuangAnd I think the NVIDIA platform is really the ideal platform to inference all that,
 because we can handle video, we can handle text, we can handle images, we can
@@ -895,9 +855,7 @@ create new intelligence. And so every data center will have number one in AI Fac
 It will have an inference ﬂeet, that inference ﬂeet will have to support a diverse set of
 workloads. And the reason for that is because we know that video represents some
 80% of the world's Internet today. And so video has to be processed, it has to
-generate text, it has to generate images, it has to generate 3D graphics.FINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 22 of 24The images and 3D graphics will populate virtual world. And these virtual worlds will
+generate text, it has to generate images, it has to generate 3D graphics.The images and 3D graphics will populate virtual world. And these virtual worlds will
 be -- will run on Omniverse type of computers. In these Omniverse computers, we'll
 of course simulate all of the physics insight, it will simulate all of the autonomous
 agents inside. It will enable and connect different applications and different tools
@@ -942,9 +900,7 @@ networks. There is one type of network, that's the computing fabric, NVLink and
 InfiniBand our computing fabrics. And they're really intended for distributed
 computing, moving a lot of data around, orchestrating the computation of all these
 different computers. And then another layer of networking, Ethernet, for example,
-for the control for the multi-tenancy for the orchestration, workload management, soFINAL TRANSCRIPT 2023-03-21
-NVIDIA Corp (NVDA US Equity)
-Page 23 of 24on and so forth, the deployment of the service to the users and that's done on
+for the control for the multi-tenancy for the orchestration, workload management, soon and so forth, the deployment of the service to the users and that's done on
 Ethernet.
 The switches, the NICs, super sophisticated some of it, copper, some of it direct
 drive, some of it is long-reach fiber. And all of that layer that fabric is vitally

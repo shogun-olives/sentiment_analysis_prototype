@@ -16,9 +16,7 @@ We appreciate that, thank you.
 There has obviously been a lot going on at Microsoft over the past year, year and a
 half. With the reorg behind you now and Satya now being named the CEO, can you
 talk to us about the devices and services strategy overall?
-FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 2 of 17Heather Bellini
+Heather Bellini
 Tami Reller
 Heather Bellini
 Tami RellerYes. Absolutely I can. Let me -- can I make my little (multiple speakers)
@@ -54,9 +52,7 @@ Then, there's another piece that I think you'll hear Satya talk a lot about. And
 software powered, which is really -- that's what we do and that's what we have done
 so well over the decades. And then how do we really bring that into some
 differentiated innovation. And so, it's more than just having this devices and services
-strategy. But then how do we really bring some differentiated innovation into that.FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 3 of 17Heather Bellini
+strategy. But then how do we really bring some differentiated innovation into that.Heather Bellini
 Tami Reller
 Heather Bellini
 Tami RellerAnd so, it's now about mobilizing. And I think that is something that Satya does
@@ -92,9 +88,7 @@ across those devices.
 Why -- help explain to some people, because I think there is a debate amongst --
 and I'm sure some people in the audience here, about why Nokia is so important
 and why is it that devices and having your own hardware strategy is important?
-FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 4 of 17Heather Bellini
+Heather Bellini
 Tami Reller
 Heather Bellini
 Tami Reller
@@ -132,9 +126,7 @@ And it matters. It matters to how customers see you. It matters how customers ge
 make choices at retail. And so we feel good about those investments.
 
 Will that continue to evolve? Will we see a continued expansion of Microsoft retail
-stores, or is it going to be more of the -- again, the Best Buy strategy where you haveFINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 5 of 17Tami Reller
+stores, or is it going to be more of the -- again, the Best Buy strategy where you haveTami Reller
 Heather Bellini
 Tami Reller
 Heather Bellini
@@ -172,9 +164,7 @@ talk to the market, talk to our enterprise customers in a more comprehensive way
 what they want. It's what makes more sense in the marketplace.
 And so, we instantly centralized all of our big campaign dollars and execution. And
 you start to see that coming out. And so, we actually even started that in advance of
-any of the reorg happening in the summer. And so, even the campaign that you areFINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 6 of 17Heather Bellini
+any of the reorg happening in the summer. And so, even the campaign that you areHeather Bellini
 Tami Reller
 Heather Bellini
 Tami Reller
@@ -210,9 +200,7 @@ how easy it is to sign up for a trial, all of that, we're just very, very focuse
 right now, the whole experience.
 
 I get asked a lot what lies ahead for RT.
-FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 7 of 17Heather Bellini
+Heather Bellini
 Tami Reller
 Heather Bellini
 Tami RellerYes. Well Surface 2. We have been very pleased with the reception to that product. I
@@ -250,9 +238,7 @@ possible in the OS itself. And then in the other programs that surround it to ma
 easy for OEMs to deliver very competitive products.
 
 Right. I was at a Duane Reade last week and saw a Windows 95 machine.
-FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 8 of 17Heather Bellini
+Heather Bellini
 Tami Reller
 Heather Bellini
 Tami Reller
@@ -290,9 +276,7 @@ will make a material movement forward on just the footprint of the OS and what t
 can mean for how we run on smaller devices.
 
 Do you see the Company trying to pioneer some of these new categories, or is your
-focus on, like you said, right-sizing Windows to basically run on any size screen? OrFINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 9 of 17Tami Reller
+focus on, like you said, right-sizing Windows to basically run on any size screen? OrTami Reller
 Heather Bellini
 Tami Reller
 Heather Bellini
@@ -328,9 +312,7 @@ with that brand and with that experience.
 But again, it's been very much around gaming. And Xbox One gave us the
 opportunity to really expand that to entertainment. We brought more Microsoft
 services into that experience. If you have never experienced Skype on Xbox One, it's
-game changing.FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 10 of 17Heather Bellini
+game changing.Heather Bellini
 Tami Reller
 Heather Bellini
 Tami Reller
@@ -368,9 +350,7 @@ it is a bit of a checkmark. And now it's really just getting them mobilized.
 And that's where we need to step up and make sure that we have the right
 programs, the right help. We're doing things in concert with them. And so I think
 we're in a much better spot now with those programs and that support to be able to
-go in and help them make it happen.FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 11 of 17Heather Bellini
+go in and help them make it happen.Heather Bellini
 Tami Reller
 Q - Heather Bellini
 Q - Unidentified Participant
@@ -406,9 +386,7 @@ absolutely are thinking about that a lot.
 In the US, I am pleased with what we have been able to do with both Verizon, AT&T.
 And T-Mobile. And others. But yet there is just so much more opportunity there. And
 we will keep getting after that, while we ensure that we do all the right things in the
-markets where we do have some really pretty terrific traction and share.FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 12 of 17Q - Heather Bellini
+markets where we do have some really pretty terrific traction and share.Q - Heather Bellini
 Q - Unidentified Participant
 A - Tami Reller
 Q - Heather Bellini
@@ -446,9 +424,7 @@ So Michael brings up a great question that we get asked a lot. So if you think -
 think everyone here ponders is that you have got iOS as a platform, you have got
 Android as a platform, you've got billions of devices in people's hands and billions
 more yet that have devices. So when people think about Microsoft being thoughtful
-about which platforms to repurpose Oﬃce for, what's the thought process? BecauseFINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 13 of 17A - Tami Reller
+about which platforms to repurpose Oﬃce for, what's the thought process? BecauseA - Tami Reller
 Q - Heather Bellini
 A - Tami Reller
 Q - Heather Belliniyou can say on one hand, you could protect the Windows franchise. And -- because
@@ -486,9 +462,7 @@ Right, okay.
 And it really ends up being business by business, product by product. There is no
 sweeping one decision.
 
-Right.FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 14 of 17A - Tami Reller
+Right.A - Tami Reller
 Q - Unidentified Participant
 A - Tami Reller
 Q - Unidentified Participant
@@ -525,9 +499,7 @@ Microsoft software experience or is that device specific?
 Then, a related question is how are you thinking about marketing spend across
 traditional versus nontraditional. And how might we see Microsoft engage with
 social media more than maybe it has in the past?
-FINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 15 of 17Q - Heather Bellini
+Q - Heather Bellini
 Q - Unidentified ParticipantYes. So great. So we definitely -- first and foremost, we think about the money that
 we spend on our consumer -- the marketing money we spend on consumer
 somewhat distinct from enterprise. We clearly know that messages that we provide
@@ -565,9 +537,7 @@ One last question. You snuck in under the wire.
 So the big strategy was put in place by Steve Ballmer. And then having Satya come
 in as the CEO, it seems like -- and it seems like from what the messaging is is faster
 strategy, that's pretty much the strategy going forward and that's what we should
-expect. Are there any other subtleties to this? How active was he informing thatFINAL TRANSCRIPT 2014-02-13
-Microsoft Corp (MSFT US Equity)
-Page 16 of 17A - Tami Reller
+expect. Are there any other subtleties to this? How active was he informing thatA - Tami Reller
 Q - Heather Bellinistrategy to begin with. And what similarities or subtleties or differences should we
 expect out of Satya that might not be totally clear?
 

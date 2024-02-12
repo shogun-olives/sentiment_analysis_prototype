@@ -18,9 +18,7 @@ here.
 So I'm going to kick things off with -- we've got Keith Weiss, who runs Americas
 research for us in the software area. And he's here with Qi Launch from Microsoft.
 Over to you, Keith.
-FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15Qi LuExcellent. Thank you, Andy. So we are very pleased to have with us this morning
+Qi LuExcellent. Thank you, Andy. So we are very pleased to have with us this morning
 kicking off the conference, Dr. Qi Lu, who is the Executive Vice President of Microsoft
 Applications and Services Group. Before we get going, we have to read some safe
 harbors. Please note that all important disclosures including personal holdings,
@@ -59,9 +57,7 @@ clarity. Clarity on position on strategy is (inaudible) because with clarity you
 lot more energy. Group clarity is number one. Number two is alignment. We need to
 align all our different business lines towards new positions, new strategies for our
 Company. And thirdly is intensity. The pace of all the programs is super-duper
-important. So that's number two.FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15Keith WeissNumber three is focusing on delivering performance. Particularly from a business
+important. So that's number two.Keith WeissNumber three is focusing on delivering performance. Particularly from a business
 standpoint, there's a few things that we share with the larger investment community
 at what cost. One is our commercial cloud business is going through a very, very
 rapid pace of growth. Growing for six consecutive quarters, growing at the triple
@@ -104,9 +100,7 @@ side, when I talk to investors about the devices and services strategy, I think 
 have a very positive view on cloud services. And we use an abundance (inaudible)
 cloud services, although perhaps a more pessimistic view of the prospects on the
 devices side, particularly in mobile. Why is it so critical that Microsoft has a play in
-mobile, that they have a mobile operating system themselves versus leveragingFINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15Qi Lu
+mobile, that they have a mobile operating system themselves versus leveragingQi Lu
 Keith Weiss
 Qi Lusome of the other platforms that are already existing out there with your cloud
 services?
@@ -148,9 +142,7 @@ drill down a little bit on Enterprise.
 So in terms of driving Oﬃce 365 growth relative to our own expectations, we see
 very, very positive trends. On the commercial side, our focus, Keith, is driving
 adoption and the consumption. Because the game in cloud is different. It's less
-about selling licenses; it's about getting customers to migrate quickly and driveFINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Keith Weissusages and the consumption. And the specific focus is in the product and R&D side
+about selling licenses; it's about getting customers to migrate quickly and driveKeith Weissusages and the consumption. And the specific focus is in the product and R&D side
 is making adoption a permanent part of the overall experience.
 In the past, when we sold products, we used to have end-user experiences and IT
 experiences. We think in the future these barriers should not exist. There should just
@@ -191,9 +183,7 @@ Oﬃce 365, our most recent CIO survey showed 26% of CIOs using Oﬃce 365 today
 Another 26% expecting to use it over the next two years. So great adoption trend.
 Can you talk just a little bit on how Microsoft plans to increase the lifetime value of
 those customers in terms of as an Oﬃce 365 subscriber versus having a licensed
-tied up in your enterprise agreement?FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15Qi Lu
+tied up in your enterprise agreement?Qi Lu
 Yes. This is, Keith, one of the key questions, both from product innovations and
 certainly from long-term value creation standpoint. There's a couple of things to
 emphasize here. One is the same service -- moving from on-premise service to the
@@ -234,9 +224,7 @@ As I said, inside of Microsoft there is also cross-sell (inaudible) opportunitie
 example, last quarter we reached (inaudible) about mobile -- enterprise mobility
 services, EMS product. That's one of the many examples we can use Oﬃce 365 to
 integrate other Microsoft services to create more value. So a combination with all
-those -- (inaudible) how we think about driving more value productivity for end usersFINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Keith Weiss
+those -- (inaudible) how we think about driving more value productivity for end usersKeith Weiss
 Qi Lu-- look at the natural adjacency, look at the boundary synergy opportunities inside of
 Microsoft, overall collectively grow our enterprise values by focusing innovation to
 using Oﬃce 365.
@@ -278,9 +266,7 @@ not going to separate things -- this is the thing that I use for work, this is t
 use for life. You are going to use the service that really works for you. So it's an
 opportunity for us to use -- to leverage the Skype brand.
 The global user base -- Skype has huge global user base. And they also have very,
-very large mobile presence. In all of the Skype products is called GroupMe; that'sFINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Keith Weiss
+very large mobile presence. In all of the Skype products is called GroupMe; that'sKeith Weiss
 Qi Luone of the most popular products in the United States for college students. So by
 merging these two with uniform product offering and single technology stacks
 consistently experience, we believe there's fantastic new opportunities to drive a lot
@@ -323,9 +309,7 @@ build a future generation of search experiences. If you are a professional, if y
 marketing person working for a pharmaceutical company, you just go to (inaudible)
 Bing -- whatever you type in, all the information is right there. Then search
 economics is part of that. Even though it's not necessary per user subscription, it's
-monetizing based on your intent. As we all know, the search economics, it's a very,FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15Keith Weiss
+monetizing based on your intent. As we all know, the search economics, it's a very,Keith Weiss
 Qi Luvery potent value extraction engine. So we believe there's fantastic opportunities to
 focus our baseline, which is per-user subscription. We can add more and more value
 propositions to make that (inaudible) strong. And all the rich clients that move to the
@@ -367,9 +351,7 @@ use -- these same users will use our services in their life occasions as well. S
 how we think about reasoning everything, how we invest. So it's work/life -- each
 workload is always going to be about work/life experiences, our priorities on work
 scenarios. And our belief is over time, these users will use more and more of our
-services for their work -- for their life scenarios.FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15Keith Weiss
+services for their work -- for their life scenarios.Keith Weiss
 Qi Lu
 Keith Weiss
 Qi Lu
@@ -409,9 +391,7 @@ the Yahoo partnership is going to remain durable to you guys over the next sever
 years? What challenges remain in making sure that Yahoo relationship is beneficial
 for both sides of the equation? That everyone is a sort of happy participant in the
 partnership going forward?
-FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15Keith Weiss
+Keith Weiss
 Q - Unidentified Participant
 A - Keith Weiss
 A - Qi LuThe original got new deal -- the basic premise is strong alignment on win-win
@@ -450,9 +430,7 @@ we really love the partnership; we are going to continue with the partnership.
 But as I meet with Drew and his team, we have been super clear. We are going to
 collaborate on here, collaborate on the experience whereby makes our combined
 customers better. Meaning that for those users who choose Dropbox over OneDrive
-and also use Microsoft Oﬃce productivity software, for those customers, they willFINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15A - Keith Weiss
+and also use Microsoft Oﬃce productivity software, for those customers, they willA - Keith Weiss
 A - Qi Lu
 A - Keith Weisshave better experiences. But we will also be clear, we are going to compete. We are
 going to compete -- on OneDrive, we are going to offer as compelling services as
@@ -494,9 +472,7 @@ rebrand as Outlook brand, the momentum is unbelievable. It's the opposite
 ringing. There's opportunity truly for us to do software acquisitions to accelerate our
 growth for our core businesses.
 
-Any additional questions from the audience?FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15Q - Unidentified Participant
+Any additional questions from the audience?Q - Unidentified Participant
 A - Qi Lu
 A - Keith Weiss
 Q - Unidentified ParticipantThank you for the presentation. At the time when Microsoft bought Nokia's mobile
@@ -534,9 +510,7 @@ experiences for professional for enterprise applications. We see there's lots of
 opportunity for us to drive more value, drive more innovation.
 
 And we will take one last one up here.
-Can you comment on Azure and Oﬃce 365 prospects in China?FINAL TRANSCRIPT 2015-03-02
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15A - Qi Lu
+Can you comment on Azure and Oﬃce 365 prospects in China?A - Qi Lu
 A - Keith Weiss
 A - Qi Lu
 A - Keith Weiss

@@ -22,9 +22,7 @@ everybody. I would say there are several things that I would point out. But I wa
 start off from an Azure perspective and I'd really push on hybrid. Hybrid is something
 that we have made part of our product plan since day 1. And some of that comes
 from the fact that we had 20 years experience providing software into data centers,
-the data center and enterprise environments. And then we've done the hyperscaleFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15Q - Brad Alan Zelnick
+the data center and enterprise environments. And then we've done the hyperscaleQ - Brad Alan Zelnick
 A - Jason Zandercloud. And so that's a really great solution that we have and we've done everything
 full spread on hybrid. We also have a very broad portfolio. So going even beyond
 Azure, we, of course, have Oﬃce 365. When you think about how one uses that, I
@@ -71,9 +69,7 @@ center in every single location that would be cost prohibitive. And we have good
 solutions in regions like the European Union and U.K. after Brexit and things like that
 as well. Then we move into things like Azure Stack, which allow people to get down
 to the very last mile. If you want one in the basement of Parliament, we can hook you
-up.FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15Q - Brad Alan Zelnick
+up.Q - Brad Alan Zelnick
 A - Jason Zander
 Q - Brad Alan Zelnick
 A - Jason Zander
@@ -119,9 +115,7 @@ times and being able to do a better job of predicting where capacity comes throu
 is something we concentrate on heavily. We have won some pretty massive deals. I
 mean, I'd say the cloud has transitioned. And we had cases where people would
 come in and run risk management, they do 100,000 cores and kind of run those
-through. But you're now getting into the largest enterprises that are replacing entireFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15Q - Brad Alan Zelnick
+through. But you're now getting into the largest enterprises that are replacing entireQ - Brad Alan Zelnick
 A - Jason Zanderdata centers. That winds up being a huge shift. So we do a lot of intentional planning
 and getting eﬃciencies on that. Then within the ﬂeet itself, we look at the
 combination of utilization, our power utilization, et cetera. We have machine learning
@@ -168,9 +162,7 @@ take some of the same tech to protect our own customers and we make some of
 those products that are available for our customers so they can also have those
 advanced protection as well. So that's -- those are just some examples of some of
 the things that we invest in. And as you pointed out, I mean the bar is going to
-continue to go up.FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Q - Brad Alan Zelnick
+continue to go up.Q - Brad Alan Zelnick
 A - Jason Zander
 Q - Brad Alan Zelnick
 In terms of monetizing that investment, can we expect increasingly we'll see you
@@ -217,9 +209,7 @@ edge. Many talk about edge computing being the next generation of growth and
 opportunity in technology, more broadly. And as we think about edge, there are
 going to be various players. There are going to be horizontal winners. There are
 going to be specific specialized edge players like security edge players, et cetera.
-And I've heard from Satya all the way and down through the rest of the organization,FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15A - Jason Zanderexamples like precision agriculture, precision medicine. Can you talk a bit about the
+And I've heard from Satya all the way and down through the rest of the organization,A - Jason Zanderexamples like precision agriculture, precision medicine. Can you talk a bit about the
 edge opportunity as you see it today? Why is it so important? And why is Microsoft
 so well positioned to capture it?
 
@@ -267,9 +257,7 @@ having a lot of conversations with customers right now about, well, how do I
 modernize? Do I just like upgrade it in place on my existing equipment? Or but I was
 also doing a data center migration. And if I can come along and give you Azure
 Hybrid Benefit, I can help you actually pull that tech forward, you can actually run it
-ﬂexibly and much, much cheaper. Then I'm seeing a whole bunch of companies thatFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Q - Brad Alan Zelnick
+ﬂexibly and much, much cheaper. Then I'm seeing a whole bunch of companies thatQ - Brad Alan Zelnick
 A - Jason Zanderare now starting to zero in on, gosh, maybe this is a great time to move those
 workloads, get them modernized up to the latest version, kind of get an evergreen
 solution plus the cloud with the savings, a great combination. So those are just some
@@ -315,9 +303,7 @@ do that part of the house. Then also companies, I mentioned Jabil, the Cummins a
 even coffee makers and stuff like that, that do this in factories. So that's kind of like
 the world view. Now applied to smart cities and smart buildings and smart
 everything. And it kind of lights out. It sounds like the possibilities become endless.
-It's really cool. I love it.FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Q - Brad Alan Zelnick
+It's really cool. I love it.Q - Brad Alan Zelnick
 A - Jason Zander
 As it all comes together. And I appreciate the consistency of Azure Stack with a very
 seamless experience as it relates to an Azure Cloud and the customer benefit that
@@ -365,9 +351,7 @@ you'll see more and more of that coming through. In some ways I just view that a
 validation of the strategy we've been on since day 1. Now with respect to the IBM
 and Red Hat, which was the last comment that you made from there, what I would
 tell you is we've got a really good relationship with Red Hat. That's been going really
-well. We've got great adoption of RHEL to Enterprise Linux. We actually createdFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15Q - Brad Alan Zelnick
+well. We've got great adoption of RHEL to Enterprise Linux. We actually createdQ - Brad Alan Zelnick
 A - Jason Zander
 Q - Brad Alan Zelnick
 A - Jason Zanderdifferentiated support solutions with Red Hat. We have Red Hat engineers on the
@@ -412,9 +396,7 @@ what really drove us to have this deeper relationship with Red Hat where, if you
 historically, maybe it wasn't such a deep relationship over the last few years. It's been
 actually really great. We've had really good programs on that. And so given that we
 have those mutual customers in there, then we're absolutely going to continue to
-support those customers. I believe Red Hat is going to want to be able to do theFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15Q - Brad Alan Zelnick
+support those customers. I believe Red Hat is going to want to be able to do theQ - Brad Alan Zelnick
 A - Jason Zander
 Q - Brad Alan Zelnicksame thing. They have their own reasons for being able to make sure that, that
 happens. And so as far as we're concerned, that means we're full steam ahead on
@@ -460,9 +442,7 @@ in fun day. Engineers love it. It's great. But anyway, from a business perspecti
 this audience, those topical ones are the ones that I think are most relevant.
 
 Excellent. And as we think about measuring customer success, satisfaction and then
-we think about that in the context of what elements of the offering they've actuallyFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15A - Jason Zandergone ahead and adopted, you've got premium services, data services, we've talked
+we think about that in the context of what elements of the offering they've actuallyA - Jason Zandergone ahead and adopted, you've got premium services, data services, we've talked
 a little bit about IoT at the lower levels, you've got infrastructure. Can you maybe just
 talk a little bit about the adoption pattern and the economics of customer that goes
 all the way up and graduates to Nirvana of Layer 7, or however you think about the
@@ -509,9 +489,7 @@ of it for you. Very unique, very differentiated, first-to-market with that kind 
 great example. On the analytics side, SQL DW G2, cheaper and faster than Redshift,
 a great solution there as well, all wrapped into the AI stack. So that's how we kind of
 think about the structure and where it comes through and there's a lot of really, really
-nice product offerings in there.FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15Q - Brad Alan Zelnick
+nice product offerings in there.Q - Brad Alan Zelnick
 A - Jason Zander
 Q - Brad Alan Zelnick
 A - Jason Zander
@@ -556,9 +534,7 @@ Black Friday and Cyber Monday. We had really, really major companies we work
 with, ASOS in the U.K., Walmart, jet.com, just a whole set of big retailers that had a
 fantastic kind of holiday shopping season they went through, another great example.
 But there's a lot more in fin sector, in manufacturing and energy, take a pick.
-FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15A - Jason Zander
+A - Jason Zander
 Q - Brad Alan Zelnick
 A - Jason ZanderAwesome. In terms of the supply chain, as we think about infrastructure sourcing,
 can you talk a little bit about how those decisions get made when you design in a
@@ -604,9 +580,7 @@ the top, probably a little bit slower. FPGAs are right down here. They kind of c
 just on the top of that. Key thing is it gives me ﬂexibility. I can actually go off and do
 additional tweaks. But I get hardware-level speeds, not as fast as burnt in silicon. But
 the next notch up. We can leverage this for networking. We get 100-gigabit
-connectivity for all of our virtual machines and we can continue to improve that. WeFINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15Q - Brad Alan Zelnick
+connectivity for all of our virtual machines and we can continue to improve that. WeQ - Brad Alan Zelnick
 A - Jason Zander
 Q - Brad Alan Zelnick
 A - Jason Zandercan also leverage it for things like AI. So for example, our Brainwave project
@@ -652,9 +626,7 @@ Jason, my only disappointment is that we don't have more time because I got a
 zillion other questions to ask you. But with that, thank you immensely. This was
 tremendously insightful, really appreciate your time at the CS Technology
 Conference.
-FINAL TRANSCRIPT 2018-11-27
-Microsoft Corp (MSFT US Equity)
-Page 15 of 15Q - Brad Alan Zelnick
+Q - Brad Alan Zelnick
 A - Jason ZanderThank you. So much for having me. I appreciate it.
 
 You're welcome.

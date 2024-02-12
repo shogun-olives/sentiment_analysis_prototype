@@ -20,9 +20,7 @@ serve as the Secretary and conduct the procedural portion of the meeting. Tim?
 Thanks, Jensen. First, a few housekeeping items. We have opened the online portal
 for stockholders to vote their shares online and I'll make an announcement when the
 polls are about to be closed. Stockholders may ask questions during the meeting. If
-you have a question, please air it into the portal.FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11As stated in our rules of conduct, the meeting is not to be used as a forum to present
+you have a question, please air it into the portal.As stated in our rules of conduct, the meeting is not to be used as a forum to present
 general, economic, political or other views that are not directly related to our
 business or for matters of individual concern. In fairness to all attendees, we will limit
 each stockholder to 1 question.
@@ -60,9 +58,7 @@ Each share of common stock is entitled to 1 vote. If you are eligible to vote an
 not submitted your proxy, or if you want to change your vote, please vote online
 now. You do not need to vote if you've already sent in your signed proxy or voted
 online or by telephone. Your votes will be counted automatically. The time is 11:06
-a.m., and the polls are currently open for voting.FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Jen-Hsun Huang(Voting)
+a.m., and the polls are currently open for voting.Jen-Hsun Huang(Voting)
 There are four items of business for this meeting. First, the election of Rob Burgess,
 Tench Coxe, John Dabiri, Persis Drell, Jensen Huang, Dawn Hudson, Harvey Jones,
 Mike McCaffery, Steve Neal, Mark Perry, Brooke Seawell, Aarti Shah and Mark
@@ -104,9 +100,7 @@ to speed the path to the vaccine. We joined scientists and researchers on hundre
 of initiatives. We worked with them to apply AI and the world's most powerful
 supercomputers to understand the virus, create new ways of testing, generate
 potential drugs, automate hospital functions and empower doctors and nurses with
-new tools for diagnostics and treatment.FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11While the world fought for its life against the deadly disease, America was
+new tools for diagnostics and treatment.While the world fought for its life against the deadly disease, America was
 confronted with a long overdue reckoning with racial injustice. At last year's
 shareholder meeting, we made a commitment to do more as a company to support
 our black employees and to create a company full of opportunities, and a place for
@@ -150,9 +144,7 @@ reinvented computer graphics again. This new rendering approach fuses
 rasterization, programmable shading with ray tracing and artificial intelligence to
 make PC games look much more beautiful and realistic, almost cinematic. The
 culmination of 10 years of research, RTX has reset computer graphics. Real-time ray
-tracing has arrived.FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11RTX is a home run. The RTX 30 family is our most successful GPU generation ever.
+tracing has arrived.RTX is a home run. The RTX 30 family is our most successful GPU generation ever.
 Demand for the GeForce 30 Series is incredible, driving our gaming business to
 grow over 40% this year. It's just getting started. We're at the start of the biggest
 upgrade cycle of our user base since we invented the GPU 2 decades ago,
@@ -194,9 +186,7 @@ As just weeks ago, we shared our plans for Grace, NVIDIA's first data center CPU
 ARM-based processor that will deliver 10x the performance of today's fastest servers
 on the most complex AI and high-performance computing workloads. DPUs are an
 exciting new growth opportunity for NVIDIA, and we can't wait to share our progress.
-In September, we announced an agreement to acquire Arm for $40 billion. Arm isFINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11the world's most popular CPU. With NVIDIA's AI capabilities, we can enhance Arm's
+In September, we announced an agreement to acquire Arm for $40 billion. Arm isthe world's most popular CPU. With NVIDIA's AI capabilities, we can enhance Arm's
 offerings in mobile and embedded, and build a thriving ecosystem and advanced
 computing from the cloud, smartphones, PCs, self-driving cars, robotics and edge
 IoT.
@@ -236,9 +226,7 @@ is enormous. The software is complex and safety and security are vital. For robo
 our platform is NVIDIA Isaac. For self-driving cars, we have NVIDIA Drive. Drive is an
 end-to-end platform for autonomous vehicles. It brings together our powerful AV
 chips and computers, sensor architecture, data processing, mapping, software
-development, simulation, point orchestration and road testing.FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Simona Jankowski
+development, simulation, point orchestration and road testing.A - Simona Jankowski
 A - Jen-Hsun HuangFuture cars will be operated by 2 computers, a supercomputer in the data center
 that learns from road data and trains the neuro networks to drive. And an AV
 computer, an autonomous vehicle computer, in each car that perceives the
@@ -278,9 +266,7 @@ miners. These cards were made available just the past quarter. Simultaneously we
 have limited the crypto mining hash rate on new GeForce GPUs, which means they
 are less effective for mining. We believe these efforts will provide a greater amount
 of GeForce GPUs available to gamers and still serve miners with a specific CMP
-product.FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Simona Jankowski
+product.A - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun Huang
@@ -323,9 +309,7 @@ Still, we have more work to do. We're launching a women leadership development
 program to invest in our future women leaders and provide the key experiences to
 prepare them for their next step in their careers. We're also participating in a series
 of women-focused college events aimed at outreach and recruiting. We
-strengthened our partnership with Rewriting The Code, which gave us an increasedFINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11A - Simona Jankowski
+strengthened our partnership with Rewriting The Code, which gave us an increasedA - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun Huang
@@ -367,9 +351,7 @@ Thank you. Next question. What are your plans for the quantum computing sector?
 Quantum computing has great potential to simulate algorithms that take
 exponentially longer as the problem size grows, like simulating molecular iterations.
 The technology is still in its infancy and likely decades away from commercial
-applications. NVIDIA can contribute a great deal to the creation of quantumFINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11A - Simona Jankowski
+applications. NVIDIA can contribute a great deal to the creation of quantumA - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun Huang
@@ -411,9 +393,7 @@ Thank you. And here is our last question. The April product announcements on
 CPUs, AI, HPC, cloud edge, 5G, industrial and automotive were breathtaking. How
 does the culture at NVIDIA allowed you to maintain such an entrepreneurial
 environment?
-FINAL TRANSCRIPT 2021-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11A - Simona Jankowski
+A - Simona Jankowski
 OperatorWe strive to create an environment where great people want to come to their life's
 work, where they feel inspired and safe to create. Our work attracts world-class
 experts. Our culture encourages to do work with impact. Our company's architecture

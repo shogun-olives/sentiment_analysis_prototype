@@ -20,9 +20,7 @@ With that, I will turn it back over to you, Ross.
 Questions And Answers
 
 Thanks, Stewart. So, Colette, why don't we jump right into the Arm deal, and I have
-some strategic questions, some financial questions and then some regulatory ones?FINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11A - Colette Kress
+some strategic questions, some financial questions and then some regulatory ones?A - Colette Kress
 Q - Ross Seymore
 A - Colette KressSo, why don't we start on the strategic side of things? You held an investor call this
 morning at 8:30 Eastern Time. But just to go over some of the highlights on that,
@@ -66,9 +64,7 @@ that the billions of mobile users can likely benefit from.
 So, right now, they have overall mobile compute capabilities and now we have the
 ability to both still provide availability to their existing overall GPU for mobile, but
 now add an additional overall licensing technology with our overall GPU technology.
-This can be things that can assist in terms of AR, VR, gaming, AI, there is a huge setsFINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Q - Ross Seymore
+This can be things that can assist in terms of AR, VR, gaming, AI, there is a huge setsQ - Ross Seymore
 A - Colette Kress
 Q - Ross Seymore
 A - Colette Kressof opportunities out there, even working with the overall data centers to add this as
@@ -112,9 +108,7 @@ companies are quite an overall open company and overall agnostic to their overal
 ecosystem and relatively neutral overall in terms of how they support their overall
 markets. For example, Nvidia supports each and every overall CPU that is in market
 today, whether that'd be x86, whether that'd be Power or any other such as Arm and
-our work that we've been doing with Arm. So, very similar in that manner of bothFINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Q - Ross Seymore
+our work that we've been doing with Arm. So, very similar in that manner of bothQ - Ross Seymore
 A - Colette Kressbeing quite neutral to their ecosystems and being able to provide their products
 overall.
 The best things both of our companies want to do is make sure that they integrate
@@ -158,9 +152,7 @@ availability to customers today and maintaining the overall competition in the m
 as we go forward. So, when we talk about the complementary mess of overall Arm
 and Nvidia as well as our plan to commit to the Arm's existing licensing model and
 essentially preserve Arm's customer neutrality, I think the overall regulatory process
-will move through quite well. We believe the deal in total is pretty much pro-FINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Q - Ross Seymore
+will move through quite well. We believe the deal in total is pretty much pro-Q - Ross Seymore
 A - Colette Kresscompetitive in terms of what we have outlined. Nor do we think it will affect any
 customer and/or any country' access to overall Arm's technology.
 So, the second part of the question was really talking about the different jurisdictions
@@ -202,9 +194,7 @@ our technology into that market, but we also see an opportunity in working on ne
 projects, addressing markets in the data center and turbocharging the work that has
 been done there to expand into that business as well. So, it's a little early to talk
 about what size overall growth that is, but it can benefit I think both sides in terms of
-growing the markets that each of us are in.FINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Q - Ross Seymore
+growing the markets that each of us are in.Q - Ross Seymore
 A - Colette Kress
 Q - Ross Seymore
 A - Colette Kress
@@ -249,9 +239,7 @@ pivot specifically to the gaming side of the equation here. You just announced a
 week or two ago the RTX 3000 family, the Ampere 7-nanometer or 8-nanometer, I
 guess, in this case based on Samsung. Talk a little bit about that launch. It seems that
 performance benefits are quite enormous, but the strategy on the go-to-market side
-seems to be a little less about the pricing side than the Turing generation or theFINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Colette KressPascal generation and much more about performance and seemingly going for unit
+seems to be a little less about the pricing side than the Turing generation or theA - Colette KressPascal generation and much more about performance and seemingly going for unit
 growth. So, talk a little bit about the technology benefits that you're delivering and
 then the pricing and growth targets that you have strategically for the RTX family?
 
@@ -295,9 +283,7 @@ world that allows whether they be first entrants or refreshers that are common f
 them to both get access to ray tracing at what their overall affordability. But what's
 been interesting is our top overall performance cards has taken up quite nicely
 because of the performance and the increased content that we have in terms of with
-ray tracing. So, we expect probably an increase in the mix of the types of cards thatFINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11Q - Ross Seymore
+ray tracing. So, we expect probably an increase in the mix of the types of cards thatQ - Ross Seymore
 A - Colette Kresspeople are buying and towards the overall higher end. With that, we can also
 continue to have an increase in average ASPs also inﬂuenced by the increase in units
 from new users as well as those that are refreshing.
@@ -340,9 +326,7 @@ and winning the game, it is about the overall conversation with your friends, th
 collaboration with your friends and the connections that gaming provides. We do
 believe that in this world, everybody will become a gamer at some point.
 So, we've seen a shift in terms of COVID, in terms of how those things happened.
-Yes, we have seen a very interest in this entertainment area, but I think this is just aFINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Ross Seymore
+Yes, we have seen a very interest in this entertainment area, but I think this is just aQ - Ross Seymore
 A - Colette Kress
 Q - Ross Seymorecontinuation that we'll see from now until we get to a new norm. We have a big
 overall holiday season in front of us, a big holiday season which is fueled with new
@@ -386,9 +370,7 @@ relatively active debate about the risk of entering another digestion mode among
 the cloud players. The last time that happened in late calendar '18 and early '19, it hit
 pretty ubiquitously across the industry, even Nvidia who has great secular tailwinds
 had a little bit of a pause, temporary as it might have been. So, talk about how you're
-seeing demand going right now from the aggregate cloud customer base of yours.FINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11A - Colette Kress
+seeing demand going right now from the aggregate cloud customer base of yours.A - Colette Kress
 Q - Ross Seymore
 Yeah. So, it sounds like we've done a lot of announcements. We've done the
 announcement that we plan to purchase Arm. We went back a couple of weeks and
@@ -429,7 +411,5 @@ time. So, thank you so much for taking the time today to attend our conference a
 chat with me. I know it's been a very busy and exciting couple of days for you, and
 it's probably going to continue for a few more, but we appreciate your time. So,
 everyone, that wraps up our fireside chat with Colette Kress and Stewart from Nvidia.
-Thank you all.FINAL TRANSCRIPT 2020-09-14
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11A - Colette Kress
+Thank you all.A - Colette Kress
 Thank you for having us.

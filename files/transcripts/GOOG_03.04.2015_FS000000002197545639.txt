@@ -20,9 +20,7 @@ AdSense, AdMob and the DoubleClick platform. Also served on the board of
 directors of the Interactive Advertising Bureau and the Mobile Marketing
 Association. And Neal prior to joining Google was Senior VP of Strategy at
 DoubleClick before the acquisition and led the integration. So, Neal, let me welcome
-you back to the conference. Thanks so much for being here.FINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 11Neal Mohan
+you back to the conference. Thanks so much for being here.Neal Mohan
 Q - Benjamin Daniel Swinburne
 A - Neal Mohan
 Glad to be here. Thanks for having me.
@@ -64,9 +62,7 @@ beautiful about direct response and performance advertising in digital is that y
 can measure it, click, impressions, clicks and conversions. And so the challenge
 before all of us is, can we do the same thing around brands, around brand
 advertising. And so that's been a big area of focus for us, around things like
-viewability and reach measurement. Is my ad showing up to the right set of usersFINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 11Q - Benjamin Daniel Swinburne
+viewability and reach measurement. Is my ad showing up to the right set of usersQ - Benjamin Daniel Swinburne
 A - Neal Mohan
 Q - Benjamin Daniel Swinburne
 A - Neal Mohanand are they able to actually see it across the digital ecosystem including YouTube?
@@ -107,9 +103,7 @@ and foremost, in all of my agency conversations it's pretty clear that agencies 
 be able to enable this programmatically.
 
 Yeah.
-FINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 11Q - Benjamin Daniel Swinburne
+Q - Benjamin Daniel Swinburne
 A - Neal Mohan
 Q - Benjamin Daniel Swinburne
 A - Neal MohanAnd programmatic buying is one of the fastest-growing parts of not just our
@@ -152,9 +146,7 @@ DoubleClick stack and its adoption on both the publisher side and the advertiser
 side, where our publisher partners and our advertiser and agency partners are often
 looking to us to help develop those solutions because we happen to operate the
 technology stacks that they used to manage their media buying or selling, whether
-they are advertisers or publishers.FINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 11And so the way I think about it is really as a pyramid, if you will. And from a brands
+they are advertisers or publishers.And so the way I think about it is really as a pyramid, if you will. And from a brands
 perspective, the very first question that every brand should be asking is, did a human
 being actually see my ad. And that sounds kind of like an obvious question and one
 that the answer should be, of course, yes. But from a digital standpoint, one of the
@@ -195,9 +187,7 @@ healthy metric for us in the long term is the fact that not only do these campai
 generate lift, but we can give that lift insight to brands back in as near real-time as
 possible.
 And I think that's the distinguishing thing about what happens in the digital world
-versus what brands have been used to in television, where they could never getFINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 11Q - Benjamin Daniel Swinburne
+versus what brands have been used to in television, where they could never getQ - Benjamin Daniel Swinburne
 A - Neal Mohan
 Q - Benjamin Daniel Swinburnethose insights in real-time and therefore could not optimize their campaigns while
 they were still running.
@@ -239,9 +229,7 @@ needs to be an industry-wide effort as opposed to silo metrics developed by
 individual players.
 
 Let's turn to the content side of the equation, but stick on this theme of sort of
-agency and brand advertiser adoption of YouTube. Is your perspective on what kindFINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 11A - Neal Mohan
+agency and brand advertiser adoption of YouTube. Is your perspective on what kindA - Neal Mohan
 Q - Benjamin Daniel Swinburne
 A - Neal Mohanof content you want to put on YouTube and what do you want to pay for evolving?
 You've launched YouTube Kids recently, which at least as a parent seems to be an
@@ -284,9 +272,7 @@ quickly moves to the types of features and capabilities we can provide to creato
 help them better connect with their audience. And so our creators, at least in my
 conversations remain incredibly committed to the platform. They know that's where
 their users are. I mentioned some of the results we've been able to provide from a
-monetization standpoint.FINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 11Q - Benjamin Daniel Swinburne
+monetization standpoint.Q - Benjamin Daniel Swinburne
 A - Neal MohanSo we're incredibly happy with that. We're always looking for ways to deepen that
 partnership with creators. That's an incredibly vibrant, creative community. And so
 making sure that it remains that way is kind of one of the fundamental tenets of
@@ -329,9 +315,7 @@ happened. And that's all right for movement to programmatic with the advent of
 things like private exchanges, programmatic deals, et cetera. And these are all areas
 where we've seen a phenomenal growth. I gave you some stats around Partner
 Select. But we've seen tremendous amount of growth in programmatic primarily in
-this programmatic premium section where CPMs tend to be higher, where the typesFINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 11Q - Benjamin Daniel Swinburne
+this programmatic premium section where CPMs tend to be higher, where the typesQ - Benjamin Daniel Swinburne
 A - Neal Mohan
 Q - Benjamin Daniel Swinburne
 A - Neal Mohan
@@ -374,9 +358,7 @@ or a brand. And through the evolution of programmatic technology they now have
 all those controls and all those bells and whistles. And so I think those will be the two
 things that have led to very rapid adoption of kind of the programmatic capability on
 the sell-side, not just on the buy-side.
-FINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 11A - Neal Mohan
+A - Neal Mohan
 Q - Benjamin Daniel Swinburne
 A - Neal Mohan
 Q - Benjamin Daniel Swinburne
@@ -419,9 +401,7 @@ work incredibly well for our developers as well. And it's a big tactical feet to
 to bring a truly native format to a heterogeneous of a network as we have.
 
 Yeah.
-FINAL TRANSCRIPT 2015-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 11Q - Benjamin Daniel Swinburne
+Q - Benjamin Daniel Swinburne
 A - Neal MohanBut our fundamental goal on mobile is the same as it's always been, which is again
 reaching consumers and moments that really matter to them. The beauty of our ad
 network and our properties like YouTube and others is that we are able to find users

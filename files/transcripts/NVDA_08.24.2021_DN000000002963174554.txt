@@ -19,9 +19,7 @@ to accelerate. We saw exceptional growth in this last quarter, particularly in A
 inferencing more than doubled year-over-year. This is an area where customers are
 taking deep learning AI workloads to production, they're shifting away from CPUs to
 GPU for inferencing and our A30 ramping quite well and it includes about 4x the
-performance improvement T4 our prior inferencing specific card.FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13Q - Ambrish Srivastava
+performance improvement T4 our prior inferencing specific card.Q - Ambrish Srivastava
 A - Colette KressAdditionally, we're seeing a leadership in our AI training to continue. We have both
 swept the ML performance benchmarks that were out there, but also strong growth
 with natural language processing, deep recommendators, which are very important
@@ -62,9 +60,7 @@ project-based projects that you're working on. So how does the visibility looks 
 versus what it would look like normally at this time of the year?
 
 So when we think about our data center business, understand we have a wide set of
-different types of customers. Yes, we have conversations, both with our hyperscales,FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Q - Ambrish Srivastava
+different types of customers. Yes, we have conversations, both with our hyperscales,Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastavahyperscales for internal use of our infrastructure, while also providing it for cloud
 instances. We also have a very meaningful amount of vertical industries that make up
@@ -107,9 +103,7 @@ that are necessary to put these into market. We feel very good about our guidanc
 that we provided for Q3. We believe that we have enough supply to serve what we
 refer to as the company's growth aspirations for both the second half, as well as
 moving into next year.
-FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13A - Colette Kress
+A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette KressOkay. And many of the chip companies larger run especially have -- I don't want to
 use the word resorted to, but they have resorted to non-cancellable orders, signing
@@ -153,9 +147,7 @@ strategy as you have laid out? And then I had a couple of follow-ups on that.
 Absolutely, great question. We're not new to software. We're not new to software, a
 very large portion of our systems that we provide throughout all of our market
 platforms incorporate software, and we have three different ways to deliver software
-value to our customers. First, software and hardware could be offered separately.FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13Q - Ambrish Srivastava
+value to our customers. First, software and hardware could be offered separately.Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress
@@ -198,9 +190,7 @@ Got it, got it. Okay. Let's switch to the demand drivers for each of the segment
 we will start with gaming first. And you're four quarters into the Ampere launch. And
 I think you mentioned about 20% of the installed basis upgraded. So just help us
 understand typically how long does it take and to what extent does the asset
-brought out in terms of the upgrade cycle?FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13A - Colette Kress
+brought out in terms of the upgrade cycle?A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress
 It's an important area of focus on regarding our Ampere architecture and the
@@ -243,9 +233,7 @@ mine gaming sites to really see how well NVIDIA GPUs are serving in there. We
 continue to be one of the fastest growing GPUs on the list of many of these sites,
 such as staying in. So this is an area where we focus on, but we have continued to
 provide more and more opportunities and options for our gamers to take advantage
-of high end gaming.FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Q - Ambrish Srivastava
+of high end gaming.Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress
@@ -287,9 +275,7 @@ forward. We look at this as an area, a lot of different drivers out there, inﬂ
 even in this last quarter, we saw profitability from mining quite volatile and changing
 in terms of lower, as well as the overall regulatory areas in certain regions to be
 diﬃcult for the overall crypto. So right now, our outlook for Q3 is minimal CMP for
-the quarter and we'll focus again on low hash rate cards for our gamers.FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Q - Ambrish Srivastava
+the quarter and we'll focus again on low hash rate cards for our gamers.Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
 Great. Let me switch over to the data center side. You provided a very robust
@@ -333,9 +319,7 @@ Great. And thanks for the correction I misspoke. I should have said supercomputi
 in my head I always still think of HPC is supercomputing interchangeably. Can we
 talk about inferencing? You had an interesting comment during the earnings call and
 you highlighted that as well in the growth that you're seeing versus T4. What is the
-landscape looking like? Are you -- is that similar to a big chunk of it should be similarFINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13A - Colette Kress
+landscape looking like? Are you -- is that similar to a big chunk of it should be similarA - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
@@ -379,9 +363,7 @@ infrastructure to their employees as they work from home. So a lot of that
 purchasing, that refreshing probably stalled in the year ago quarter. But looking at
 the current quarter, we are seeing both refreshing, we are seeing enterprises reopen
 and serve their customers. But I think what is also important is the Ampere
-architecture four, five and enterprise solutions as well. This has been a great quarter,FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13Q - Ambrish Srivastava
+architecture four, five and enterprise solutions as well. This has been a great quarter,Q - Ambrish Srivastava
 A - Colette Kresswhere Ampere is a meaningful part of our sales within progress. The first quarter that
 we're seeing a full quarter of serving ambition for this market.
 Not only is ray tracing important for gaming, it provides a lot of solutions for
@@ -424,9 +406,7 @@ approach and the importance of our innovation through systems, networking and
 software in terms of what we've put together. It's interesting to see Tesla in terms of
 their overall performance. Always keep in mind, NVIDIA is still working every single
 day on our roadmap. And I'm sure there will be more that we'll be able to show both
-our customers as well as our investors in terms of what we deliver.FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Ambrish Srivastava
+our customers as well as our investors in terms of what we deliver.Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress
@@ -470,9 +450,7 @@ with our OEMs, as they build out overall notebooks. So that channel inventory is
 lean levels and probably not aligned to where we've normally seen our targeted
 levels. We can see this as both levels of weeks of inventory are quite low, but also we
 see higher pressures in the market as there is an imbalance in terms of demand and
-supply.FINAL TRANSCRIPT 2021-08-24
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13Q - Ambrish Srivastava
+supply.Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress

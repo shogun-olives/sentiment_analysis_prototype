@@ -18,9 +18,7 @@ Ian is known for being basically I'll call him the father of CUDA which has led 
 having a formidable moat around NVIDIA's business in terms of compiler
 technology, acceleration libraries, framework optimizations and so on. So there
 couldn't be a better person I think to talk about what's happening in the world of AI,
-be and how NVIDIA is playing its part in all of this.FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14Ian Buck
+be and how NVIDIA is playing its part in all of this.Ian Buck
 Q - Hans Mosesmann
 A - Ian Buck
 Q - Hans MosesmannSo, Ian, welcome. How are you?
@@ -61,9 +59,7 @@ positive or negative sentiment to understanding content. And that described the
 initial -- that concept of AI, the use of AI was the initial production ramp that we saw.
 And we probably all remember the -- Jeff Dean talking about finding cats and videos
 as an example.
-FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14A - Ian BuckAll right.
+A - Ian BuckAll right.
 
 And obviously, for the hyperscalers and the cloud providers and social media and
 the internet needed to understand their content. It's the first place where they can
@@ -103,9 +99,7 @@ it's a -- you can find highly tune in to do a reasonable job. And only really hu
 have the gift of language and it's built upon the -- a deep understanding of
 knowledge. That was the first -- that was a next inﬂection point, transformers, which is
 sort of understanding the knowledge and being able to connect knowledge with
-language. So -- I mean, most of the understanding and a little bit of generation.FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14Q - Hans Mosesmann
+language. So -- I mean, most of the understanding and a little bit of generation.Q - Hans Mosesmann
 A - Ian BuckToday, we're in the era of generative AI. It started with -- in two areas. It's two areas
 that kick it off. One is obviously image generation. Being able to describe it like a
 picture of a teddy bear swimming (inaudible) and it generates a picture of that. And
@@ -148,9 +142,7 @@ big or mega -- the megatrend $530 billion model that we trained on our
 supercomputer is so large. It has to capture knowledge at some level and/or be a
 starting point for a generative model. So that drives the model size up.
 The other thing that drives up, but it's not just model size. Well, first of all, model size
-tends to limit the -- you know, bigger the model, you want it extreme, in fact. [ph]FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14And people build models to limit that's practical. So they don't want to wait. And it's
+tends to limit the -- you know, bigger the model, you want it extreme, in fact. [ph]And people build models to limit that's practical. So they don't want to wait. And it's
 not just one training job. To build a model at that scale, you are constantly iterating
 on that model, on the data, on the tuning of the parameters to give to converge to a
 level of intelligence. There is a lot of AI that training drops at don't complete but
@@ -189,9 +181,7 @@ the confrontation we can keep in its store and its memory is having a conversati
 Sequence length increases compute size significantly in terms -- it's also about the
 training and inference load which is captioning billions of parameters. It's just how
 much memory, how much needs to be processed in order to make an informed
-conversation going forward. And then there is more diversification going on. WeFINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14Q - Hans Mosesmann
+conversation going forward. And then there is more diversification going on. WeQ - Hans Mosesmann
 A - Ian Buckhave lots of different models from PaLM to LLaMA to GPT-4, so we see a different
 specialization happening.
 I expect that moving forward, the models will naturally want to get bigger because
@@ -231,9 +221,7 @@ the eﬃciency aspect that comes into play, how does that determine how you come
 to market, how you architect your compute GPUs and so on?
 
 Yeah. It's a -- I really appreciate that question, and it's one that gets asked a lot
-because community this entire community and the world sees pricing and seesFINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14sticker shock. And by the way, they -- usually they don't realize what it takes to build a
+because community this entire community and the world sees pricing and seessticker shock. And by the way, they -- usually they don't realize what it takes to build a
 hyperscale data center and the cost that goes. These are multi-billion dollar
 investments that are not new. People building datacenters at scale and I get to work
 with all the hyperscalers about that.
@@ -275,9 +263,7 @@ recognition, benchmarks you see in (inaudible) for example. (inaudible) if you g
 haven't heard of it, it is a benchmark that's created by Google to sort of provide a
 level-playing field, a clean clear benchmark. It was representative of their training
 workloads and since then Meta has also been contributing their workloads to
-provide an honest benchmark that changes to the correct level for accuracy orFINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14Q - Hans Mosesmann
+provide an honest benchmark that changes to the correct level for accuracy orQ - Hans Mosesmann
 A - Ian Buck
 Q - Hans Mosesmann
 A - Ian Buckconversions as a requirement. And we use that to measure our performance to
@@ -319,9 +305,7 @@ customers and the users and the community. You can take a relatively small or la
 model, and larger input sequence length provides more context for the conversation
 moving forward, as mentioned tuck-ins starting with hundreds now going to
 thousands and they want to push it up higher. That increases the compute
-complexity of the inference job and how you want to tune for training.FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14Scalability is really important there, also capacity is important. It creates a larger
+complexity of the inference job and how you want to tune for training.Scalability is really important there, also capacity is important. It creates a larger
 working memory with a larger model. (inaudible) there is both ways to address that.
 One is scaling. Obviously, the throughput, so while there's multiple ways to optimize
 it. First is, transforming, and you mentioned that. What Hopper did that was so
@@ -363,9 +347,7 @@ can use their tricks to use InfiniBand, or we can go all the way to ranger as ou
 GH 200, which is our 256 GPUs all connected to AMD Link. We just announced that
 in Computex two weeks ago.
 The other thing is size of model. So how can we do bigger models, even if we don't
-need the latency or do some smaller models with longer sequence links, but couldFINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14Q - Hans Mosesmann
+need the latency or do some smaller models with longer sequence links, but couldQ - Hans Mosesmann
 A - Ian Buck
 Q - Hans Mosesmann
 A - Ian Buckbe served with a single GPU, a single Hopper in terms of performance. For that, we
@@ -406,9 +388,7 @@ work on (Technical Diﬃculty) InfiniBand and Ethernet, and make both of those
 platforms AI-capable for different paths. And then we can play with and optimize
 how we can connect all these things together and build different products within --
 even within one GPU traditionally generation and meet the demand wherever it
-wants to go based on where you guys are going.FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14Q - Hans Mosesmann
+wants to go based on where you guys are going.Q - Hans Mosesmann
 A - Ian Buck
 A - Simona Jankowski
 Q - Hans Mosesmann
@@ -449,9 +429,7 @@ give us a bit of time as we get closer to the back half of the year, we'll be ab
 provide guidance quarter-by-quarter.
 
 Okay.
-FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14Q - Hans Mosesmann
+Q - Hans Mosesmann
 A - Ian BuckNo, that's pretty much. I don't have much more to add to that. We are certainly -- our
 biggest customers of course playing with us and everyone is swarming generative
 AI, but as part of that. We are able -- we can -- we are working, of course, on plan --
@@ -494,9 +472,7 @@ right, and certainly, it can -- we can't make ChatGPT lie or write code that act
 looks right but it's something made up, but actually get to the actual sourcing
 information. And we see that a little bit with the work that Bing is doing, but more
 broadly, generative AI is useful if you can only generate an answer, but tell you with
-sources so you can further explore the results.FINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14Q - Hans Mosesmann
+sources so you can further explore the results.Q - Hans Mosesmann
 A - Ian BuckSo that democratization in the -- is the -- and connecting all those GPUs with industry
 is a big push right now, and you're starting to see the early movers in that space.
 That's where the next -- that next wave of GPU usage and also revenue from services
@@ -537,9 +513,7 @@ What we're seeing now is more and more of their service groups seeing NVIDIA as
 also a partner to optimize their further latest platform or what we have to offer in
 generative AI. Seeing the opportunity to do work less, moving workloads that were
 even still on CPU for easing a little bit of AI or simplified AI, to using much more
-intelligent larger models to improve the quality service to have a better interactionFINAL TRANSCRIPT 2023-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14Q - Hans Mosesmann
+intelligent larger models to improve the quality service to have a better interactionQ - Hans Mosesmann
 A - Ian Buck
 Q - Hans Mosesmann
 A - Simona Jankowskiwith the device, even if it's talking to a hockey puck on your kitchen counter, or the

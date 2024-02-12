@@ -10,9 +10,7 @@ It could mean that.
 
 All right. Well thank you, again, for taking the time to be with us.
 Sure.
-FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 2 of 18Dave O'Hara
+Dave O'Hara
 Heather Bellini
 Dave O'Hara
 Heather Bellini
@@ -43,9 +41,7 @@ The next Group is Cloud and Enterprise, the C&E Group, which is the easiest way 
 it's the old Server and Tools Group, for those that are familiar with Microsoft. Then,
 the third one is Dynamics, which is also known as MBS internally. And so, that's the
 collection of groups that my team helps manage.
-FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 3 of 18Dave O'Hara
+Dave O'Hara
 Heather Bellini
 Dave O'HaraOkay. Great. Very helpful.
 If you look back at your go-to-market prior to Satya taking over the reins to now,
@@ -78,9 +74,7 @@ marketplace.
 
 Oﬃce 365 has been wildly successful. I think you said on your last call over 9 million
 home and personal users. What are -- how are you thinking about Oﬃce 365
-changing the typical attach rates to PCs?FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 4 of 18Heather Bellini
+changing the typical attach rates to PCs?Heather Bellini
 Dave O'HaraYes. When we think about Oﬃce 365 from both a consumer and an enterprise level,
 we first think about the value prop. And it -- if you look at the way that people used
 to buy Oﬃce before, a lot of times, especially for the consumer, they would Oﬃce
@@ -117,9 +111,7 @@ third. So it was a big jump.
 And so, we're seeing a pretty good sized jump in that. I think it's -- I think there's a
 few things going on. One is, as you mentioned, enterprises are starting to adopt it.
 But they don't -- it isn't necessarily a choice, a binary choice, where they do on-prem
-or cloud. A lot of times, they'll just do Oﬃce 365 for a division or a group and get upFINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 5 of 18Heather Bellini
+or cloud. A lot of times, they'll just do Oﬃce 365 for a division or a group and get upHeather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'Harato speed. And then they'll roll it out further. And so, I think we're seeing a good
@@ -152,9 +144,7 @@ There's also an opportunity to add in other products, like your enterprise mobil
 suites, which we sell a -- which we sell as an add-on to 365. We're seeing really good
 traction on that.
 And so, we think that getting people to the cloud allows us to go out and sell more
-cloud offerings. So there's a transition which is, we give them a choice of on-prem orFINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 6 of 18Heather Bellini
+cloud offerings. So there's a transition which is, we give them a choice of on-prem orHeather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'Hara
@@ -188,9 +178,7 @@ Business Essentials, as we call it, which is basically Oﬃce online with all of
 offerings that go with that. You move up in the SKU. And then you have the Business
 SKU, which is essentially fully installed Oﬃce. And we have that offering for
 businesses. Then we have the Premium SKU, which is essentially the combination of
-the two.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 7 of 18Heather Bellini
+the two.Heather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'HaraAnd we have those at various price points. The first offering is $5 per user per month.
@@ -227,9 +215,7 @@ offer a choice.
 
 Okay. Great.
 And you'll see that theme throughout a lot of the moves that Microsoft is making
-today.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 8 of 18Heather Bellini
+today.Heather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'Hara
@@ -264,9 +250,7 @@ And hyperscale is, to say the least, expensive. But it's very important. And so,
 need to have the wherewithal, financially. And also the mindset to say we're going to
 invest and we're going to compete. So Scott likes to talk about how do we think
 about hyperscale. And we think we're one of the few companies out there that can
-really do that.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 9 of 18Heather Bellini
+really do that.Heather Bellini
 Dave O'HaraThe second thing that I already alluded to is just hybrid in terms of supporting
 multiple development environments, supporting multiple databases, supporting
 whatever toolsets that the users want to use. And hybrid is -- hybrid is deep. That's
@@ -302,9 +286,7 @@ to market from a technology perspective than Microsoft does.
 But we still feel like we have to earn that business every day. And so, I think those are
 all things that are goodness for us and work in our favor. But by no means does that
 make it -- sort of does that make it a layup. We still have to work hard to win those
-customers.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 10 of 18Heather Bellini
+customers.Heather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'Hara
@@ -339,9 +321,7 @@ able to meet customer needs. But the real value add is when you can get into the
 apps that run on top and you have -- you just have better margins inherently built in.
 And so, if you look at 365, as an example, if you look at CRM Online, as an example,
 both of those are offerings that are built on top and will have better margins over the
-life of the customer.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 11 of 18Heather Bellini
+life of the customer.Heather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'Hara
@@ -376,9 +356,7 @@ also a headwind in terms of the type of CPC you can get. How do we -- walk us
 through the mobile -- Bing mobile strategy.
 Yes. The Bing mobile strategy. Obviously, we have -- there's Bing on Microsoft
 mobile devices.
-FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 12 of 18Dave O'Hara
+Dave O'Hara
 Heather Bellini
 Dave O'Hara
 Heather Bellini
@@ -410,9 +388,7 @@ about being able to get those types of big partnerships?
 Well those big partnerships, always -- there's a bit of nuance to them, as well as
 science. And so, from our perspective, we -- we still need deals that make economic
 sense. We just do. And we're not in the business of doing underwater search deals.
-And so, we will do whatever deals make economic sense for us.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 13 of 18Heather Bellini
+And so, we will do whatever deals make economic sense for us.Heather Bellini
 Dave O'Hara
 Heather Bellini
 Dave O'Hara
@@ -448,9 +424,7 @@ We haven't -- it's early days. So I would say we -- our data is still coming in.
 haven't released any data on that yet. But again, we think of it as a longer-term
 strategy. The Windows with Bing SKU is sort of the first step. We'll see more with
 Windows 10. And we just really feel like Bing is doing a -- we're going to do a better
-job of integrating Bing in all the Microsoft experiences.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 14 of 18Heather Bellini
+job of integrating Bing in all the Microsoft experiences.Heather Bellini
 A - Heather Bellini
 A - Dave O'Hara
 A - Heather Bellini
@@ -484,9 +458,7 @@ Sure, good question. So dual users. Dual users implies that we need to be -- it 
 back to the same theme, which is, that implies that we need to be good on other
 people's devices, as well as our own.
 And so, we've done some things to make that happen. Probably the most notable
-that people have seen recently is our acquisition of Accompli, which resulted in theFINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 15 of 18A - Heather Bellini
+that people have seen recently is our acquisition of Accompli, which resulted in theA - Heather Bellini
 A - Dave O'Hara
 A - Heather Bellini
 A - Dave O'Hara
@@ -520,9 +492,7 @@ domain. There's applications, obviously, Messenger, there's WhatsApp, there's LI
 How does Skype fit into this kind of evolving category?
 Yes --
 
-And what do you see as the future?FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 16 of 18A - Heather Bellini
+And what do you see as the future?A - Heather Bellini
 A - Dave O'Hara
 A - Heather Bellini
 A - Dave O'HaraYes, I mean, talk about a competitive space, that's -- communications is a super,
@@ -558,9 +528,7 @@ Right. Well I think the key -- the key for that is really to get the products to
 together. And to be able to, quote/unquote cross-sell and up-sell. I say
 "quote/unquote" because sometimes you just aren't able to price it. So just to get
 them to work together and to use -- and to function well together and get users
-using more than one product is super helpful.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 17 of 18A - Heather Bellini
+using more than one product is super helpful.A - Heather Bellini
 A - Dave O'Hara
 Q - Unidentified Participant
 A - Dave O'Hara
@@ -593,6 +561,4 @@ describe it. So we invest heavily in the platform to try to create some differen
 Thank you. So much.
 All right. Thank you, everybody.
 
-Appreciate it. Thanks, Dave.FINAL TRANSCRIPT 2015-02-11
-Microsoft Corp (MSFT US Equity)
-Page 18 of 18
+Appreciate it. Thanks, Dave.

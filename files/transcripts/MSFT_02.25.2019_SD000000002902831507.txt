@@ -16,9 +16,7 @@ commercial business, people are very familiar with what that is. My role is work
 with the field in terms of field finance and how we expand our field footprint as well
 as Scott Guthrie on the C&AI side and Harry Shum on the AI side.
 Questions And Answers
-FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 2 of 16A - David M. O'Hara
+A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith WeissGot it. And maybe just before we like get into the product divisions themselves, one
@@ -60,9 +58,7 @@ Azure is probably the part of the portfolio I get the most questions about. And 
 fundamental question that people are trying to understand is the durability of that
 growth in Azure. How long could these really impressive growth rates continue? Now
 we're beginning to use really big scales in terms of how big that business is. Can you
-talk to us about how you think about the growth trajectory of Azure? And what areFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 3 of 16A - David M. O'Hara
+talk to us about how you think about the growth trajectory of Azure? And what areA - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Harasome of the key customer drivers at this point? What's driving more and more
 customer demand to that platform?
@@ -106,9 +102,7 @@ Yes. We would divide it into a couple of huge categories. One is just migration,
 migration of existing workloads over to the cloud. And we see a lot of people doing
 that, again storage, compute but even some of the heavier biz apps moving over
 into the cloud. And so a lot of the stuff that they're doing on-prem now, they can run
-more eﬃciently in the cloud and get more scale. And so we do see a lot of theFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 4 of 16Q - Keith Weiss
+more eﬃciently in the cloud and get more scale. And so we do see a lot of theQ - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Haramigration work going on. We also see a lot of innovation work on both migration
@@ -152,9 +146,7 @@ environments? And we judge growth by kind of net new workload growth plus the
 migration to the public cloud. But it sounds like there's like a third vector we've got
 to be thinking about of when those workloads get there, there's additional
 monetization of those workloads in the public cloud of sort of -- that have migrated.
-There's a functionality vector that we should be thinking about.FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 5 of 16Q - Keith Weiss
+There's a functionality vector that we should be thinking about.Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith WeissYes, I think even if you were -- if you're going to pick a category, IoT, for example, I
 think IoT is still very undefined and how we think about the Edge and how we think
@@ -199,9 +191,7 @@ to the market in their Infrastructure as a Service and Platform as a Service tha
 sustain that price? Or are we going to have a race to the bottom in terms of cheap
 compute, cheap storage but just run in the cloud-based environment? How do you
 think about differentiation for Infrastructure as a Service and Platform as a Service
-and maintaining those price points for Microsoft longer term?FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 6 of 16A - David M. O'Hara
+and maintaining those price points for Microsoft longer term?A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
@@ -243,9 +233,7 @@ the cloud, they can move their Windows Server licenses to the cloud and they're
 covered. And so it's certainly a cheaper option for them. Two is I think that from their
 timeline perspective, it gives them a lot more ﬂexibility. And one of the things that
 companies said to us all along is, "Hi. we made this big investment in the current
-infrastructure and we don't want to just throw that out and move. How do we thinkFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 7 of 16Q - Keith Weiss
+infrastructure and we don't want to just throw that out and move. How do we thinkQ - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
@@ -286,9 +274,7 @@ Part of it comes from sort of an expectation that sort of on-premise server ship
 are going to be slowing down, go negative. And Windows Server is tied to server
 shipments, right? How concerned should we be about sort of declining server
 shipments into on-premise environments negatively impacting the broader Server &
-Tools business for Microsoft?FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 8 of 16A - David M. O'Hara
+Tools business for Microsoft?A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
@@ -330,9 +316,7 @@ What kind of traction have we seen with that solution thus far?
 Yes, Azure Stack really is intended for customers that, one, maybe they want a little
 bit more control and so they want Azure Stack in their environment, where they have
 more control over it. And it has some access to the cloud. But it's sort of intermittent.
-The other one is that there are -- the example -- there are examples where folks justFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 9 of 16Q - Keith Weiss
+The other one is that there are -- the example -- there are examples where folks justQ - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
@@ -373,9 +357,7 @@ revenue coming from recurring sources. It bounces around between like 85% and
 that these individual product life cycles just aren't going to have as much of an
 impact on the financials. Is that...
 Yes, I think that's right. I mean, our recurring number, the last one was pretty close to
-90%, plus or minus. And so it's just continuing to migrate customers as they moveFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 10 of 16Q - Keith Weiss
+90%, plus or minus. And so it's just continuing to migrate customers as they moveQ - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
@@ -417,9 +399,7 @@ Okay. So 2 companies that are looking to become 1, IBM plus Red Hat. So a simila
 at least in terms of sort of how they're positioning that acquisition to investors, IBM
 bought Red Hat, they think it's going to sort of improve their hybrid cloud strategy.
 As you guys compete with Red Hat a lot on the operating system side of the
-equation, there's a lot of different areas that you compete with IBM, do you thinkFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 11 of 16A - David M. O'Hara
+equation, there's a lot of different areas that you compete with IBM, do you thinkA - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weissthat's really going to change the competitive dynamic for you, seeing that 2 of those
@@ -461,9 +441,7 @@ than gross margin or faster than prices coming down. So you can still expand gro
 margin. And we feel like that's where we're at in the game.
 
 Got it. And how should we think about the potential to drive further eﬃciencies? I'm
-assuming that this is tech, this is your tech or your software running on top of yourFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 12 of 16A - David M. O'Hara
+assuming that this is tech, this is your tech or your software running on top of yourA - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
@@ -504,9 +482,7 @@ biggest news items of 2018 was the acquisition of GitHub, which is squarely aime
 sort of that developer community and further fostering that relationship. Can you talk
 to us for a little bit about why GitHub? Why was that such an important acquisition
 for Microsoft and how that impacts for the Azure side of the house, if you will, as sort
-of an environment where you want these developers to be building their stuff?FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 13 of 16Q - Keith Weiss
+of an environment where you want these developers to be building their stuff?Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith WeissThat's right. So we're very happy with the GitHub acquisition. In the same spirit of
 even when we talked about the Red Hat partnership, we started developing a good
@@ -551,9 +527,7 @@ SMB space. And I still think there's more seat penetration there. The ARPU may n
 be the same. But it's still strong and solid. And so we look at it as the existing
 customer base, how do we think about new SKUs like E5 and then how do we think
 about SMB. All of those are growth vectors for Oﬃce.
-FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 14 of 16A - David M. O'Hara
+A - David M. O'Hara
 Q - Keith Weiss
 A - David M. O'Hara
 Q - Keith Weiss
@@ -594,9 +568,7 @@ going to be to Microsoft. And so that really what that's about is getting an exp
 presence in the customer base.
 
 So I have a couple more questions. But I want to take the chance to get questions
-from the audience if we have any questions from the audience.FINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 15 of 16Q - Unidentified Participant
+from the audience if we have any questions from the audience.Q - Unidentified Participant
 A - David M. O'Hara
 Q - Unidentified Participant
 A - David M. O'Hara
@@ -633,9 +605,7 @@ it? We're in the unique position of sort of like with SaaS software and running 
 and PaaS in gaming, we also have the core offerings as well as the infrastructure. And
 so I think that puts us in a unique position to optimize that and also to give a lot of
 choice to the gamers. But having said all that, a lot of the gaming companies that
-have the most popular titles are all running with us because they know that we canFINAL TRANSCRIPT 2019-02-25
-Microsoft Corp (MSFT US Equity)
-Page 16 of 16Q - Keith Weiss
+have the most popular titles are all running with us because they know that we canQ - Keith Weiss
 A - David M. O'Haraget them distribution. We can also help drive eﬃciencies. So we look at gaming
 certainly as an expansive business for us.
 

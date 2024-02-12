@@ -20,9 +20,7 @@ in the biotech industry previously. And I think it is a very interesting convers
 This is David's first public appearance at a conference since becoming a public
 company. And I think probably the best way to start off is let David give an overview
 of the business. And we will dig into questions.
-FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 2 of 19Okay. Great. First of all, thank you, Scott, for including us and giving us this
+Okay. Great. First of all, thank you, Scott, for including us and giving us this
 opportunity. And thanks to everyone for coming. We appreciate your interest.
 As you well know, Facebook, our mission is to build products that make the world
 more open and connected. And I think if you think about the first nine years of the
@@ -61,9 +59,7 @@ more to what we can offer our consumers in the future.
 The second key priority for Facebook is to build new kinds of experiences that take
 advantage of the social graph and the network that we have. And those experiences
 will be either built by Facebook or built by third-party developers using our platform.
-An example of the kind of new experience that we want to bring forward is ourFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 3 of 19Scott Devitt
+An example of the kind of new experience that we want to bring forward is ourScott Devitt
 David EbersmanGraph Search product that we announced earlier this year and are in the process of
 slowly rolling out.
 So Graph Search enables you to come to Facebook and query the social graph for
@@ -99,9 +95,7 @@ With that, why don't we turn to questions?
 
 You did such a good job, I don't have anything left. So we're done.
 
-Just read the forward-looking statement again.FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 4 of 19Scott Devitt
+Just read the forward-looking statement again.Scott Devitt
 David Ebersman
 I'll get through it easier the second time. One thing I think is interesting that is -- I
 was on the Facebook page. Cheryl posted something of a visit that Facebook
@@ -140,9 +134,7 @@ as a business, as a place to work, we'd aspire to build the kind of culture that
 connected to our values and what we care about as Wal-Mart has done. So learning
 from them, getting a sense for what some of the activities they've undertaken are to
 try and build that, was really both inspiring and very educational for us. And a really
-worthwhile trip.FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 5 of 19Scott Devitt
+worthwhile trip.Scott Devitt
 David Ebersman
 Scott Devitt
 David Ebersman
@@ -182,9 +174,7 @@ business, we think there is ways to use the Facebook platform to further that
 marketer's objectives.
 But brand advertising is a particularly interesting thing on Facebook, because think
 about what brand advertising is. You are trying to introduce your product or service
-to a consumer and to get them to better understand a certain message that youFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 6 of 19Scott Devitt
+to a consumer and to get them to better understand a certain message that youScott Devitt
 David Ebersmanhave about it, that the product is high-quality or that it is safe or that it tastes good or
 whatever else. And make an association between your product and that message
 that will impact a consumer's purchase decision at some point in the future. So that
@@ -222,9 +212,7 @@ two to three years?
 
 I think our vision in this area is that most of the activities that you undertake online
 will be more interesting and fulfilling for you if they are personalized to who you are
-and what you are interested in and if they are social.FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 7 of 19Scott Devitt
+and what you are interested in and if they are social.Scott Devitt
 David EbersmanSo if you can imagine sort of the two extremes here, if you can imagine a website
 that exists, that if all of us in this room were to load up and look at, it would have the
 exact same information for all of us. So if it is a sports site or whatever else and it has
@@ -264,9 +252,7 @@ benefit from the product.
 Graph Search is a complicated product. Some of the things that we build at
 Facebook can be built by a small number of people in a short period of time. And
 Graph Search is not such a product. The challenges inherent in making this product
-work well involve really organizing the massive amounts of data that we have inFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 8 of 19Scott Devitt
+work well involve really organizing the massive amounts of data that we have inScott Devitt
 David EbersmanFacebook so we understand what it is and can query it quickly and deliver it to you.
 And make sure that it passes through all the appropriate privacy protections. So that
 you are seeing the information that you're eligible to see and not more than that. So
@@ -306,9 +292,7 @@ to be simple and easy for them to use and get the outcomes that they are after. 
 the product is, of course, the most important thing in winning out in a country like
 Brazil or elsewhere.
 The second thing that is interesting is the importance that comes from our ability to
-bring the rest of the world to the problem. So one of the things that makes FacebookFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 9 of 19Scott Devitt
+bring the rest of the world to the problem. So one of the things that makes FacebookScott Devitt
 David Ebersman
 Scott Devittattractive to a user in a country like Brazil who is thinking about using it is that you
 can connect with the people that you know and are friends with and are interested in
@@ -345,9 +329,7 @@ And so you touched on -- or I guess I brought up the topic of focus. You touched
 the approach that the Company takes. That can lead to volatility at times in terms of
 business performance and in terms of going through product cycles.
 How do you as a management team think about managing the volatility of the
-business to the extent that that is even part of the discussion? And how do theFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 10 of 19David Ebersman
+business to the extent that that is even part of the discussion? And how do theDavid Ebersman
 Scott Devitt
 David Ebersmanproduct cycles that you go through now as a public company potentially differ from
 how that may have been as a private company, if at all?
@@ -385,9 +367,7 @@ opportunity for businesses to market their products and services, because it is 
 core part of where your attention is. And particularly on the mobile phone, if you
 have an ad product that fits naturally into news feed, we felt like it could be a natural
 part of your mobile Facebook experience, as opposed to being an interruption that
-would take you to a different place and then you would have to come back to.FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 11 of 19Scott Devitt
+would take you to a different place and then you would have to come back to.Scott Devitt
 David EbersmanSo when we started last year putting ads into news feed, we really felt optimistic that
 this would be an ad format that was likely to work well for us. But obviously, didn't
 know exactly what the results would look like. We are very pleased with what we've
@@ -427,9 +407,7 @@ trying to achieve in those product categories.
 Let's start with the middle one, which you described, FBX. And I'm going to just take
 it up one level to what the umbrella that we think FBX sort of sits within, which is the
 targeting and relevance of advertising on Facebook. So what we are trying to do
-over time is to build a system that enables us to show the right ad to the right user,FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 12 of 19that has the best possible probability that we are giving you a message as a user that
+over time is to build a system that enables us to show the right ad to the right user,that has the best possible probability that we are giving you a message as a user that
 you are going to find interesting and are going to engage with.
 And over time, we will continue to build and are building and will continue to build
 tools to try and improve our ability to show more relevant advertising to each
@@ -469,9 +447,7 @@ we think should fit naturally into also sending someone a physical or digital go
 support the message that you are giving them. A really obvious example is birthdays.
 There is a lot of happy birthday behavior on Facebook, because it is a time when you
 reach out to someone and say, hey, happy birthday. So putting the Gifts product into
-that ﬂow. So that if you want to, in addition to saying happy birthday, you can sendFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 13 of 19Scott Devitt
+that ﬂow. So that if you want to, in addition to saying happy birthday, you can sendScott Devitt
 David Ebersmanthe person something to acknowledge their birthday, we feel like is a nice piece of
 social commerce that we launched and are working on now.
 Your last question was about an ad network, which is something that we don't really
@@ -510,9 +486,7 @@ be a good thing for Facebook, given the positive results we've seen from the
 companies we've worked closely with on return.
 So I think we're in the early days of seeing a third-party ecosystem emerge, where
 people become experts in thinking about how you optimize and measure Facebook
-advertising. And to provide that service and that value to advertising clients. I alsoFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 14 of 19Scott Devitt
+advertising. And to provide that service and that value to advertising clients. I alsoScott Devitt
 Unidentified Participant
 David Ebersman
 Unidentified Participant
@@ -547,9 +521,7 @@ emerge quickly. We decided to invest in making sure that we grew our user base i
 those markets, because we figured over the long term that was good for the network
 and that the advertising markets might emerge over time. And some of them have
 pleasantly surprised us in terms of advertising market that you might not have
-predicted if you looked at GDP per capita or things like that. So that's good.FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 15 of 19Unidentified Participant
+predicted if you looked at GDP per capita or things like that. So that's good.Unidentified Participant
 David EbersmanOver time, I think the most important driver of that -- drivers of those gaps closing
 will of course first of all just be the performance of the local economies. But the
 second thing will be our ability to generate more advertiser demand in those
@@ -588,9 +560,7 @@ So let me answer the question about measurement. And then I'll sort of come back
 around to what we think is important for us. So the kinds of things that we measure
 are of course visitation. So we look at are we growing the number of people who are
 active monthly users of Facebook. And then the number of people who are daily
-users. And the daily user number continues to rise nicely. And that is a reallyFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 16 of 19Unidentified Participant
+users. And the daily user number continues to rise nicely. And that is a reallyUnidentified Participant
 David Ebersmanimportant measurement of the fact that people are finding Facebook useful and they
 are making it a part of their daily routine.
 We measure what they do when they visit. So the amount of content that they share,
@@ -629,9 +599,7 @@ business side --?
 
 I think that we have for essentially since we started with advertising offered
 advertisers different opportunities to try and reach out to segments of Facebook's
-consumer base that resembled our customers. So people who like skiing or peopleFINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 17 of 19Scott Devitt
+consumer base that resembled our customers. So people who like skiing or peopleScott Devitt
 Unidentified Participant
 David Ebersmanwho live in a certain city or people who've connected to a certain kind of music. So
 the opportunity for you to think about what do you think your customer base looks
@@ -667,9 +635,7 @@ As I said before, I think the most encouraging data point that we have today is 
 lack of negative impact that we've seen or meaningful negative impact that we've
 seen from the ad loads we have today.
 As I think about what the future looks like, I think it is really hard to separate out
-quantity from quality. I think the better the ads are, the more of them we can show,FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 18 of 19Scott Devitt
+quantity from quality. I think the better the ads are, the more of them we can show,Scott Devitt
 Unidentified Participant
 David Ebersmanwithout having a negative effect on the user experience on Facebook. So our ability
 to work with clients to help them understand how to create better-targeted and
@@ -706,9 +672,7 @@ to build products that they feel comfortable they can have a good experience wit
 So definitely high on the list of priorities for us. Facebook is a very young company in
 terms of the age of our employees. And I am hopeful that continues to be an asset
 for us in terms of having our finger on the pulse of what matters to that particular
-constituent of users and how we can provide products that satisfy them.FINAL TRANSCRIPT 2013-02-27
-Meta Platforms Inc (FB US Equity)
-Page 19 of 19Scott Devitt
+constituent of users and how we can provide products that satisfy them.Scott Devitt
 David Ebersman
 Scott Devitt
 David Ebersman

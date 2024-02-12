@@ -23,9 +23,7 @@ with data and mobile and the cloud and it is so interesting and challenging to b
 the middle of facilitating the cloud, fulfilling all its potential. And then I'll just say it's
 just an incredible privilege to have Google's resources, Google's people. And
 Google's unbelievable infrastructure and software services to apply to the IT world
-to enterprises everywhere.FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 14I want to just take you quickly through what we are, what we have, as Heather said,
+to enterprises everywhere.I want to just take you quickly through what we are, what we have, as Heather said,
 just to level set us. Google's got -- first, the lowest level, our infrastructure, hundreds
 of thousands of miles of fiber network all over the world. We constantly will have
 large companies come and want to lease network from us and it is -- we have to have
@@ -67,9 +65,7 @@ applications, to deploy your applications, to maintain your applications, everyt
 from the virtual machine to the container, to the Functions, the App Engine
 orchestrated by open-source Kubernetes so you can run hybrid, you can run multi-
 cloud and then to talk to the mobile devices, to talk to your customers, to talk to your
-partners and even your own employees through Application ProgrammingFINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 14Heather Bellini
+partners and even your own employees through Application ProgrammingHeather Bellini
 Diane GreeneInterfaces, the API management company we bought last year, Apigee and then
 finally a full blown mobile developer environment and Firebase and much more.
 All of Google runs on what's called Google Apps. We re-branded it as G Suite, the
@@ -111,9 +107,7 @@ enterprise people to help with that and done a lot of training and really integr
 the whole group so we're all executing as one and everybody's enjoying it. We got
 long-term customer roadmaps in place so our customers know when they're going
 to get what and what's in the horizon. That's been really welcomed. Those are two
-examples.FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 14Heather Bellini
+examples.Heather Bellini
 Diane Greene
 Heather Bellini
 Diane Greene
@@ -151,9 +145,7 @@ Yes. What do they want from you? What are customers asking you for most often
 when you are meeting with them?
 
 I mean customers are really, this buzzword 'digital transformation' is real. People
-realize they need to move faster, they need to use their data. And they need to reallyFINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 14Heather Bellini
+realize they need to move faster, they need to use their data. And they need to reallyHeather Bellini
 Diane Greene
 Heather Bellini
 Diane Greeneleverage their data and they look to us for all that and they want help. They want a lot
@@ -195,9 +187,7 @@ super valuable because that's a scarce resource and Google's really good at that
 when I look at what we have in our differentiation, machine learning, I feel like we're
 kind of in the sweet spot of where customers are going and we're seeing that
 confirmed over and over as we start meeting with more and more -- working with
-more and more customers.FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 14Heather Bellini
+more and more customers.Heather Bellini
 Diane Greene
 Heather Bellini
 Diane Greene
@@ -237,9 +227,7 @@ takes to do that, they would be a good partner because they're clearly going to 
 me on the cutting edge of technology. So once I get digitally transformed, I'm going
 to be able to keep moving forward with the strengths that are important to giving my
 business an advantage.
-FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 14Diane Greene
+Diane Greene
 Heather Bellini
 Diane Greene
 Q - Heather Bellini
@@ -277,9 +265,7 @@ Anybody have a microphone? Dino you can project well. So let's try it.
 
 Okay, I'll just repeat the question, which is, as I look forward at Google, are we going
 to just concentrate on infrastructure or are we going to move into the applications
-and how does AI tie into that? Is that --FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 14A - Diane Greene
+and how does AI tie into that? Is that --A - Diane Greene
 Q - Heather Bellini
 A - Diane Greene
 Q - Heather Bellini
@@ -320,9 +306,7 @@ the next couple of years, what are the vectors that allow you to accelerate fast
 them, is it containers, is it the verticals, is it the integration with Google Docs, some
 more clarity as to how exactly you'd do better than AWS rather than what still seems
 to be across the board a chasing game.
-FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 14Q - Heather Bellini
+Q - Heather Bellini
 A - Diane Greene
 Q - Heather Bellini
 A - Diane Greene
@@ -366,9 +350,7 @@ specific numbers but kind of how you're seeing your win rates change and just th
 number of RFPs that you're kind of competing for now, how those have changed
 over the last year?
 
-There's a lot more, I bet you'd love it if I just tell you what...FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 14Q - Heather Bellini
+There's a lot more, I bet you'd love it if I just tell you what...Q - Heather Bellini
 A - Diane Greene
 Q - Heather Bellini
 A - Diane Greene
@@ -409,9 +391,7 @@ our technologies because of course with YouTube and the machine learning, we've
 got a lot of great abilities there, there’s a lot of opportunity.
 
 Okay, I should've gone back, I've got a handful of more questions but I wanted to
-see is there anything else that I missed. Sorry, yes there's one right back here.FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 14Q - Heather Bellini
+see is there anything else that I missed. Sorry, yes there's one right back here.Q - Heather Bellini
 A - Diane Greene
 Q - Unidentified Participant
 Q - Heather Bellini
@@ -451,9 +431,7 @@ there with the machine learning. So that's goodness, it's not something that's
 immediately apparent to a customer what the network is. And our Machine Learning,
 as we bring more and more to every customer and we bring some of the things
 we've done in hardware to our customers around that, I think it's going to be an
-enormous advantage -- it's already an advantage, it's going to be an increasingFINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 14Q - Heather Bellini
+enormous advantage -- it's already an advantage, it's going to be an increasingQ - Heather Bellini
 A - Diane Greene
 Q - Heather Bellini
 A - Diane Greene
@@ -495,9 +473,7 @@ in machine learning because it is quite a hot market. I was recently at a Women 
 Data Science Conference in Stanford and the women were asking for advice and I
 said, well, one thing I can tell you guys is don't be afraid to take risks because you're
 the most employable people in the world.
-FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 14A - Diane Greene
+A - Diane Greene
 Q - Heather Bellini
 A - Diane Greene
 Q - Heather Bellini
@@ -538,9 +514,7 @@ our strengths and that's what we are seeing. And also we're working with all the
 banks on projects and we can see how much there is to do. FinTech is, I mean, since
 my days at Sybase I've been working with FinTech, it's a big industry and there's a lot
 to do there.
-FINAL TRANSCRIPT 2017-02-14
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 14A - Diane Greene
+A - Diane Greene
 Q - Heather Bellini
 A - Diane GreeneGreat, last question for me, if we were lucky enough a year from now to have you
 sitting on stage again, what would you expect to have achieved, right, if you would

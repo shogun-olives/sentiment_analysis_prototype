@@ -20,9 +20,7 @@ gaming market, substantial growth year over year; sequentially, even from Q3 to 
 and also a very strong quarter in our just Q1 that we just released as well.
 Just overall, the market, probably a pleasant surprise -- a pleasant surprise to see
 people really upgrading to higher-level GPUs also in there. So the mix of what we're
-seeing in terms of those top GPUs is being extremely successful.FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 15Vivek AryaWhen we look at the overall enterprise business, our second business, also really
+seeing in terms of those top GPUs is being extremely successful.Vivek AryaWhen we look at the overall enterprise business, our second business, also really
 strong success. We finished FY14, our 2013 calendar, in a really strong position as
 well. Our Quadro business, a new launch in terms of this, that prior year. And being
 very successful in the overall workstations. But what's nice to see is our overall
@@ -61,9 +59,7 @@ forward.
 Got it. Then maybe if we start with the gaming market. So very impressive execution,
 very impressive market share gains. But as you look over the last few years, we have
 seen market shares go back and forth between NVIDIA and AMD. And now you are
-at the high end of -- you know, where one company has managed to get marketFINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 15Colette Kress
+at the high end of -- you know, where one company has managed to get marketColette Kress
 Vivek Arya
 Colette Kress
 Vivek Aryashare. So how do you think about where your market share lies. And do you see
@@ -103,9 +99,7 @@ trends in the OEMs, the notebook channel versus what you have on the gaming
 side? What are the relative proportions in terms of sales or profits, if you could give
 us a sense? Then say that, if let's say, the PC market does continue to be under
 pressure for the next few years, what does that imply for your overall GeForce
-business?FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 15Colette Kress
+business?Colette Kress
 Vivek Arya
 Colette Kress
 Got you. So I even think, as we finished the end of last year, where we knew the
@@ -144,9 +138,7 @@ richer ASPs. Can you give us a sense of where NVIDIA's GeForce ASPs are right no
 
 It's amazing in terms of the ranges of GeForce ASPs. They can be in the low two-digit
 number. And they can be as high as in the three digits. So you will see some very,
-very expensive GPUs. And it's a market that they want the best of breed. And you'reFINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 15Vivek Arya
+very expensive GPUs. And it's a market that they want the best of breed. And you'reVivek Arya
 Colette Kress
 Vivek Arya
 Colette Kresstalking about refresh cycles that could be, "I'm going to buy the newest one every
@@ -183,9 +175,7 @@ But PC gaming in China is very particularly strong. There is a very strong ecosy
 a very strong social market associated with gaming. Gaming is associated with i-
 cafes, a market of going into malls, building up those types of things. So from our
 research, consoles in China are not unable to be found. They're actually there. And
-they're actually -- you can find it. If you want a console, you can actually get it. SoFINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 15Vivek Arya
+they're actually -- you can find it. If you want a console, you can actually get it. SoVivek Arya
 Colette Kress
 Vivek Aryaagain, this is a question of is there really not consoles in China? I don't think that is
 the case.
@@ -223,9 +213,7 @@ Right. Now, in quarter up, your world has enjoyed very high ASPs, right? It's a 
 different market than the consumer market. But when I look at the growth over the
 last one or two years, it was far above what we saw in just the number of
 workstations being sold. So what drove that extraordinary growth? It sounds like
-ASPs. But your ASPs are high to begin with.FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 15Colette Kress
+ASPs. But your ASPs are high to begin with.Colette Kress
 Vivek Arya
 Colette Kress
 So what you did is, again, a workstation is both a very well-solidified workstation. The
@@ -264,9 +252,7 @@ stocks and not wanting to be upgraded every three seconds in terms of that. It's
 very unappealing user experience for there. We've come in and solved that problem
 with the overall GPU. You now have ability to where that user experience is usable
 and actually a viable option for so many of these options of VDI in terms of what
-we've seen.FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 15Vivek Arya
+we've seen.Vivek Arya
 Colette Kress
 Vivek Arya
 Colette KressBut what it takes is the overall coordination with the virtualization companies. You've
@@ -304,9 +290,7 @@ think it's a huge opportunity in a world of cloud and how fast that will grow? Y
 And is this an opportunity in that you can -- is this a greenfield opportunity in that
 you only install it when somebody is deploying a new VDI? Or can you actually
 upgrade existing installations with this to improve their -- ?
-FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 15Vivek Arya
+Vivek Arya
 Colette Kress
 Vivek AryaYou would absolutely be able to install against existing on that side. But again, just
 trying to understand what their baseline architecture is, it's going to depend on that
@@ -347,9 +331,7 @@ Integra and in the mobile product. I have no doubt about that, from all the
 benchmark data that we saw. And gaming has always been important in those
 emerging markets. So why is it that you're only going after a niche opportunity? Like
 why isn't Huawei or Lenovo or ZTE, like a lot of other mainstream emerging market
-handset OEMs, using NVIDIA? You know, Xiaomi is a very important brand, no doubtFINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 15Colette Kress
+handset OEMs, using NVIDIA? You know, Xiaomi is a very important brand, no doubtColette Kress
 Vivek Arya
 Colette Kress
 Vivek Aryaabout that. But why don't you have more share in that market if that market has been
@@ -389,9 +371,7 @@ Android market, we do see that coming. And we are one step with them all the way
 in terms of building the Android market for all of those different devices as well.
 
 Got it. Let me pause there and see if there are any questions. If not, maybe let's
-discuss the -- you know, one thing I really admire about NVIDIA is that you haveFINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 15Colette Kress
+discuss the -- you know, one thing I really admire about NVIDIA is that you haveColette Kress
 Vivek Arya
 Colette Kressmanaged to develop all these capabilities without really -- it's all organic, right? You
 have not done too much M&A, other than maybe a few tuck-ins here or there. Very
@@ -428,9 +408,7 @@ had mentioned a very large backlog of opportunities, I think close to $2 billion
 do I put that in the context of, let's say, there is 80 million or 100 million TAM in
 annual car production?
 
-That's right.FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 15Vivek Arya
+That's right.Vivek Arya
 Colette Kress
 Vivek Arya
 Colette Kress
@@ -470,9 +448,7 @@ you gave, the guidance was somewhat -- we are seeing some reduction in gross
 margin. How do you conceptually think about gross margin? Do you think this mid-
 50s level is the right level for the Company to be at, or do you think they can be
 much higher?
-FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 15Vivek Arya
+Vivek Arya
 Colette KressI think it's going to really depend, if you look at the broad portfolio that we have and
 the broad portfolio of different margins across there. As we can well understand, our
 enterprise business definitely has higher margins than the overall Company average.
@@ -512,9 +488,7 @@ meaning we're returning more in terms of that overall free cash ﬂow or operati
 cash ﬂow that we have right now.
 When you look back over the four years, we're still in a very, very nice spot as a
 percentage of that operating cash ﬂow and free cash ﬂow. So it is something
-definitely for review. We look at the dividend as an important structure of continuedFINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 15Vivek Arya
+definitely for review. We look at the dividend as an important structure of continuedVivek Arya
 Colette Kress
 Vivek Arya
 Colette Kressand long-term aspect in terms of what that can be. So that is a key pillar in terms of
@@ -553,9 +527,7 @@ that thing specifically with Intel will be renewed?
 You know, I don't think that's something we can 100% say we can control and/or
 Intel. We'll announce something where we have. It's just a question on how that's
 going to play out. And it can play out in many different types of scenarios in terms of
-how that will come through.FINAL TRANSCRIPT 2014-06-03
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 15Vivek Arya
+how that will come through.Vivek Arya
 Colette Kress
 Vivek Arya
 Colette Kress

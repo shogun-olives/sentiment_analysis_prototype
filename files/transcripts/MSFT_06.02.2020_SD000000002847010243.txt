@@ -17,9 +17,7 @@ Rohan, maybe if you could just give us an introduction. What is your role at
 Microsoft? What are the things that you've worked on in your past several years
 serving Microsoft?
 That would be a good context to jump into some Q&A.
-FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14A - Kasthuri Rangan
+A - Kasthuri Rangan
 A - Rohan KumarSounds good. First of all, thank you so much, Kash and team, for having me at your
 conference. I really appreciate it.
 Just by way of a quick introduction, I'm the Corporate Vice President leading
@@ -55,9 +53,7 @@ customers, the communities, our employees and partners, just dealing with such a
 challenging time, Definitely first responders, health care workers has been a priority
 for Azure and, in fact, all of Microsoft. We definitely, to your point, seen some growth
 in Azure consumption, particularly when you look at workloads that enable remote
-work. I mean I think we've publicly spoken about the growth in the usage ofFINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Microsoft Teams, which, of course, internally relies on a lot of the Azure -- core Azure
+work. I mean I think we've publicly spoken about the growth in the usage ofMicrosoft Teams, which, of course, internally relies on a lot of the Azure -- core Azure
 services.
 So that's definitely an area where we've seen growth. The other workloads, of
 course, the virtual desktop, Windows Virtual Desktop and the usage of Active
@@ -94,9 +90,7 @@ in leveraging Synapse because the simplicity it creates, everything from data
 integration to data warehousing to big data analytics into a single unified product,
 right? So there's a cost element there where our customers are looking at that and
 saying, look. How do I move to a cloud-native service that significantly reduces not
-just the time but the cost?FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14A - Kasthuri Rangan
+just the time but the cost?A - Kasthuri Rangan
 A - Rohan KumarAnd so -- and then -- and on the operational side, of course, we're seeing significant
 growth in the migrations.
 So imagine existing SQL server customers who are looking to move their workloads
@@ -133,9 +127,7 @@ So it's both in terms of time to insight and the cost it takes, the amount of
 engineering effort you need to do to stitch together is drastically reduced, right,
 which directly translates into not just savings on time, but savings in cost,
 maintenance or software that you don't need to write, which the system is taking
-care of you.FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14A - Kasthuri Rangan
+care of you.A - Kasthuri Rangan
 A - Rohan KumarSo COVID, I'd say, has definitely pushed -- our discussions with our customers are
 really pushing to understand that aspect, which is, okay, great. This digital
 transformation, we have to continue this journey obviously.
@@ -173,9 +165,7 @@ believe that we are very well positioned to capitalize on all these trends given
 offerings that we have, both for the changes in terms of how we work, how we live
 that we're seeing and also, like I mentioned previously just the whole push towards
 getting -- having this data-driven culture where insights are truly driving your
-business, which means you have to invest in the data platform infrastructure.FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14A - Kasthuri Rangan
+business, which means you have to invest in the data platform infrastructure.A - Kasthuri Rangan
 A - Rohan KumarNow in terms of the overall trends, what I will say is, especially for the Azure business,
 security, productivity apps, where we basically -- our business applications, the
 investments we are making for developers, we are seeing a ton of traction around
@@ -214,9 +204,7 @@ going forward, Rohan.
 
 Thank you again. I think it's a great question.
 So to the first point that you raised around SQL Server 20, 25 years ago, it was more
-of a departmental database. I mean that's a fact, right? I mean if you take a look atFINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14how we sort of started off, clearly, you had Oracle and others who had been in the
+of a departmental database. I mean that's a fact, right? I mean if you take a look athow we sort of started off, clearly, you had Oracle and others who had been in the
 market for a long time. And especially when it came to sort of I remember back in
 2000 earlier, that's between 2000 and 2005, that was the time I sort of joined the
 SQL Server team as well. That part was clear where a lot of the departmental apps,
@@ -252,9 +240,7 @@ knobs to go set up your database. There's a lot of intelligence that we embed to
 make things very easy. If you wanted to build a highly performant application, you
 don't have to be a rocket scientist to do that, right?
 Of course, there's a certain amount of understanding of the system, relational model,
-relational algebra to see this thing and all.FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14A - Kasthuri RanganBut that's a constant area of focus for us, how do we make it simple. And part of that,
+relational algebra to see this thing and all.A - Kasthuri RanganBut that's a constant area of focus for us, how do we make it simple. And part of that,
 like I reﬂect back on that, Kash, is the genesis of Azure, the -- you go back to our
 mission, we talk about empowering every human and every organization to achieve
 more, it's really the basis of that comes down to us being a tools company and how
@@ -293,9 +279,7 @@ for Microsoft? What are the biggest things Microsoft is investing to be successf
 on the PaaS side? Because our sense is that your exposure to PaaS is a lot higher as a
 percentage of your overall business relative to, say, an Amazon or a Google. Because
 this is Microsoft's legacy. This is where you're really -- this is where you came out,
-right?FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14A - Rohan Kumar
+right?A - Rohan Kumar
 A - Kasthuri Rangan
 A - Rohan Kumar
 Absolutely.
@@ -335,9 +319,7 @@ that you're behind -- securely locked behind the virtual network, all of those t
 effectively, the PaaS layer makes greatly simplified.
 So when you think about time to build an application, get ready, get the app running
 and going, there is no question where -- and this is a very strong point of view we
-have, is that the investments we have made in all the path up, like services that weFINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14A - Kasthuri Rangan
+have, is that the investments we have made in all the path up, like services that weA - Kasthuri Rangan
 A - Rohan Kumarhave on the data and the analytics side, the way we are sort of thinking about
 functions is the app model where you basically just write your code and then the
 compute just gets provisioned for you to sort of get going, the simplicity for the
@@ -379,9 +361,7 @@ terms of migrations that we see from even competitive databases, on-prem, not ju
 to SQL server, but even to things like Postgres, to things like Cosmos DB, depending
 on the nature of the workload that they're running. And this -- these move to
 eventual PaaS services essentially gives them that assurance, right? Like, if you
-believe that this specific application is going to be strategic for you five years fromFINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14A - Kasthuri Rangan
+believe that this specific application is going to be strategic for you five years fromA - Kasthuri Rangan
 A - Rohan Kumarnow, making that investment that essentially modernizes it, so you can -- both from a
 performance, scale, security, ease of use, predictive intelligence, integrating that,
 and there's lots of high-value capabilities we've added to our PaaS services.
@@ -417,9 +397,7 @@ customers, right? Like when they're successful in Azure, they basically share mu
 things.
 The thing that in many ways sort of stands out is our focus just around enterprise
 security governance. These are the things that we've learned, having worked with
-customers for more than 25 years now, where -- while there is a lot of talk aboutFINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14performance, scale and predictive intelligence and how AI is going to change the
+customers for more than 25 years now, where -- while there is a lot of talk aboutperformance, scale and predictive intelligence and how AI is going to change the
 world, which is all true and great, the reality is some of the biggest things customers
 worry about when they look at any major transition like this is, hey, is my environment
 going to be secure?
@@ -453,9 +431,7 @@ And that part, which is having that clear point of view of where the future we b
 is, why do we believe that, and we also always talk about what Microsoft is doing.
 So for us, when we offer these services, Kash, it's not just -- one of the things I always
 talk about in a customer presentation is, let me tell you how Microsoft has evolved
-and what decisions we made and why did we make them?FINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14A - Kasthuri RanganAnd our ambition, really, and this is what Satya has effectively made this one of the
+and what decisions we made and why did we make them?A - Kasthuri RanganAnd our ambition, really, and this is what Satya has effectively made this one of the
 requirements for us, is Azure should be the computer for the entire world and
 Microsoft, of course.
 So we talk about our own journey, what are the best we are making, and that
@@ -490,9 +466,7 @@ Absolutely. Now that -- we're at the end of our allocated time, but it was very 
 depth, very insightful. Thank you very much, Rohan. Thank you, Jonathan, as always,
 for your support, for everything you do for our conference.
 So with that, I just have a quick announcement to make. I believe the next
-presentation we have will be, one -- my colleague, Wamsi Mohan, will be doing a firstFINAL TRANSCRIPT 2020-06-02
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14A - Rohan Kumarchat with Michael Dell, CEO of Dell Technologies, after which, I'll be with the CEO of
+presentation we have will be, one -- my colleague, Wamsi Mohan, will be doing a firstA - Rohan Kumarchat with Michael Dell, CEO of Dell Technologies, after which, I'll be with the CEO of
 Workday, Aneel Bhusri. We've got plenty of good presentations throughout the day
 over the next couple of days. Please consult your agenda.
 With that, Rohan, once again, thank you very much.

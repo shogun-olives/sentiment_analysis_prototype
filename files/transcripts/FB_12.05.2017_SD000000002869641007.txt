@@ -19,9 +19,7 @@ we've particularly been focused on is getting people who are using these apps to
 understand them more deeply, use them more deeply. So you certainly -- one of the,
 obviously, the keys to apps and software is retention. And we've been very fortunate
 to have very good retention. But part of that retention is people understanding the
-products better, using the products more deeply and that's where we're focused.FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 2 of 17Q - Peter Coleman Stabler
+products better, using the products more deeply and that's where we're focused.Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
@@ -65,9 +63,7 @@ good at quantitative marketing.
 
 Do you think the pace of change is really posing a significant problem for them?
 
-For which company?FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 3 of 17Q - Peter Coleman Stabler
+For which company?Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
@@ -108,9 +104,7 @@ want to be able to make sure we're providing that and getting those insights qui
 which data science is required.
 On the innovation side, though, too, how do you balance maybe the more data-
 driven kind of approach with the human-driven in terms of bringing those aspects
-together?FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 4 of 17A - Gary S. Briggs
+together?A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
@@ -155,9 +149,7 @@ The transparency piece of the data usage has been a focus of Facebook for a coup
 years now. Can you give us any sort of kind of anecdotal insights as to how
 consumers are engaging with that? There are actually a lot of tools available to
 consumers on the platform. And I would assume that part of your efforts are to keep
-the population educated on how they can control their experience.FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 5 of 17A - Gary S. Briggs
+the population educated on how they can control their experience.A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
@@ -202,9 +194,7 @@ Type of devices they're on, what feeds they're on, yes.
 
 Yes. So you're able to measure in real time the reaction to every change you make. If
 you rewind the clock to when you were at Pepsi and compare and contrast what
-Pepsi -- what kind of data can they be gathering about how people are using theirFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 6 of 17A - Gary S. Briggs
+Pepsi -- what kind of data can they be gathering about how people are using theirA - Gary S. Briggs
 Q - Kenneth Michael Sena
 A - Gary S. Briggsproduct? I mean -- and how much data is sitting on the shelf rather static and unused
 in these types of companies?
@@ -249,9 +239,7 @@ make sure that people understood the product as quickly as possible and also loo
 at new -- a new usage occasion maybe that people might otherwise see in the
 product. Similarly, we've been running a campaign for the last 10 months in
 Germany. Germany is not as highly penetrated as a market as we like it to be. A lot of
-it has to do with cultural norms, which are totally understandable and respectful. ButFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 7 of 17Q - Peter Coleman Stabler
+it has to do with cultural norms, which are totally understandable and respectful. ButQ - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
@@ -294,9 +282,7 @@ Messenger inside the company a thing called 2G Tuesdays, where we slow down
 everybody's service in the company and we operate -- you operate on -- your
 Messenger actually operates on a 2G speed, just to remind everybody that most of
 the world does not have what we have, as a way to just drive recognition and
-understanding across employees.FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 8 of 17Q - Peter Coleman Stabler
+understanding across employees.Q - Peter Coleman Stabler
 Q - Kenneth Michael Sena
 A - Gary S. Briggs
 Q - Kenneth Michael Sena
@@ -338,9 +324,7 @@ ads products as a way to allow more customers to get on, understand exactly the
 kind of product they should use, making sure that through the -- if you actually go
 and you go to -- I don't know how many folks here have actually tried to advertise
 something through the Facebook platform. But we try to be very good at like what's
-your goal, what are you trying to achieve. We try to make sure that -- we tell peopleFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 9 of 17Q - Kenneth Michael Sena
+your goal, what are you trying to achieve. We try to make sure that -- we tell peopleQ - Kenneth Michael Sena
 A - Gary S. Briggs
 Q - Kenneth Michael Sena
 A - Gary S. Briggs
@@ -382,9 +366,7 @@ much more there.
 
 So you mentioned Groups. And to me, Groups is one of the kind of overlooked
 pieces of Facebook. And another area that I think doesn't necessarily get as much
-attention as it should is Marketplace. Marketplace has been around for a while. ItFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 10 of 17A - Gary S. Briggs
+attention as it should is Marketplace. Marketplace has been around for a while. ItA - Gary S. Briggs
 Q - Kenneth Michael Sena
 A - Gary S. Briggs
 Q - Peter Coleman Stablerdoesn't feel like there's been an aggressive push behind Marketplace. How should
@@ -428,9 +410,7 @@ we are dealing with a crisis like recently we were in the U.S. around the Russia
 investigation, what are people saying outside the media, what are people actually
 reacting to and how should we react to that? All that is really part of our team. But
 that's essentially how we're broken up and distributed.
-FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 11 of 17A - Gary S. Briggs
+A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
@@ -475,9 +455,7 @@ someone's attention and then deliver something later on. In the structure of wha
 a News Feed ad, there's a couple of things, one of which I think is often overlooked,
 which is you don't have to just watch the video to get the impression, you are seeing
 a newspaper ad, if you will, that's got your name on it, it's got a subtitle, then it's got
-a freeze frame for whatever you decide to freeze frame for your video. There is anFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 12 of 17Q - Peter Coleman Stabler
+a freeze frame for whatever you decide to freeze frame for your video. There is anQ - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
@@ -518,9 +496,7 @@ Yes, Carolyn Everson, who runs brand sales for us, is extraordinary. I mean, Car
 talked about people just are inventing time. And we are seeing where people are
 using -- doing 7 hours of media in 5 hours, absolutely is going on.
 
-Right.FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 13 of 17Q - Kenneth Michael Sena
+Right.Q - Kenneth Michael Sena
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
@@ -560,9 +536,7 @@ strategies might...
 
 I apologize, Pete, when you were making -- right before, when you were saying what
 people were aware of Watch or video broadly?
-FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 14 of 17A - Gary S. Briggs
+A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
@@ -607,9 +581,7 @@ Zappos, a part of Amazon, obviously does that; Lyft does that quite well. They a
 using dynamic product ads as a way to get pieces of content in front of people that
 is far down the funnel. And I think, not to play too much with the funnel example. But
 the general nature of Google's funnel is slightly different than our funnel. I mean,
-ours is a little bit broader at the top, a little bit narrower at the bottom. But bothFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 15 of 17Q - Peter Coleman Stabler
+ours is a little bit broader at the top, a little bit narrower at the bottom. But bothQ - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Kenneth Michael Senacompanies are trying to develop products, particularly for advertisers, as they move
 more and more towards digital, that represents all those opportunities. But we have
@@ -653,9 +625,7 @@ this is headed and I think that is why it's early.
 Mark talks a lot about the goal of connecting the world and universal human needs
 to be connected. So as you move out into newer geographies, can you just speak to
 some of the specific challenges and maybe the sensitivity that you experience in
-your role?FINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 16 of 17A - Gary S. Briggs
+your role?A - Gary S. Briggs
 Q - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stabler
@@ -700,9 +670,7 @@ to understand your business and brand, the more that transparency should be a
 good thing. I worked very, very early when I was at Pepsi and one of the products I
 launched was Aquafina. That was a product that, in that case, we were taking water
 that was in our plant, running it through reverse osmosis and then selling it. We
-weren't going to pretend it's from a spring, we weren't going to pretend it wasFINAL TRANSCRIPT 2017-12-05
-Meta Platforms Inc (FB US Equity)
-Page 17 of 17Q - Peter Coleman Stabler
+weren't going to pretend it's from a spring, we weren't going to pretend it wasQ - Peter Coleman Stabler
 A - Gary S. Briggs
 Q - Peter Coleman Stablersomething it was not. And when people actually found out, yes, it was actually made
 in Pepsi plants, would they freak out and get pissed off or was that okay? That was

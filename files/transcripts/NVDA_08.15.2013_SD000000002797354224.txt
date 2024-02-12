@@ -17,9 +17,7 @@ for customers in a variety of technologies and form factors.
 So we come from originally from the PC space so we build graphics cards for PCs so
 these were mostly used by gamers and then we expanded that market to build a big
 defensible, profitable segment in the PC space. And now we are looking to expand
-into mobile computing as well.FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12So on the PC side of things, our core was always gamers. So we have a brand there
+into mobile computing as well.So on the PC side of things, our core was always gamers. So we have a brand there
 called GeForce that services gamers. So if you are playing a 3D game on a PC you
 are almost certainly using a graphics card and two out of three of those are ours. So
 you are probably using one of ours.
@@ -58,9 +56,7 @@ we do have we believe quite a markedly superior GPU technology.
 And also by licensing our GPU technology we can get into markets that we just don't
 have the bandwidth to address directly like smart TVs for example. There is a lot of
 opportunity there. People are putting more and more intelligence in TVs and I was in
-a hotel earlier this week and the TV was essentially almost completely lackedFINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Bobby Burleson
+a hotel earlier this week and the TV was essentially almost completely lackedBobby Burleson
 Chris Evendeninteractivity. There was a delay before doing anything on the program guide. It was
 just unbelievable. And that sort of user experience we can fix quite inexpensively.
 So that is where we are. I think as a Company right now, we have this very powerful
@@ -100,9 +96,7 @@ forth. And so that section of the market is under tremendous pressure right now
 whereas the specialty PC people need this for a specific reason. They are not going
 to give it up unwillingly and they are prepared to pay a premium for performance,
 for features and stability and all those other things that we provide, the value that we
-add.FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12Bobby Burleson
+add.Bobby Burleson
 Chris Evenden
 Bobby Burleson
 Chris EvendenI was trying to think of a good metaphor for this and this is the best one I have come
@@ -137,9 +131,7 @@ actually.
 
 So let's talk about something that is not growing this year, Tegra.
 
-Yes. The --.FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Bobby Burleson
+Yes. The --.Bobby Burleson
 Chris Evenden
 Bobby Burleson
 Chris Evenden
@@ -177,9 +169,7 @@ beginning of the year.
 Having said that, if you can disentangle the revenue challenges we had this year
 from the technical position, the strategic position we are in now, I feel pretty good
 about that. So whereas there was essentially a two-year gap between Tegra 3 and
-Tegra 4, there is going to be something like a nine or 10 month gap between Tegra 4FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Q - Unidentified Participant
+Tegra 4, there is going to be something like a nine or 10 month gap between Tegra 4Q - Unidentified Participant
 A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evenden
@@ -216,9 +206,7 @@ and going forward?
 Well I will talk about it more generally first. The general point now is that as opposed
 to last year where it was all Android phones and tablets with just one chip, Tegra 3,
 next year we are looking at Android phones and tablets, Windows RT as well that is
-likely to be smaller, automotive is a great business for us. It is going to be on theFINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Q - Bobby Burleson
+likely to be smaller, automotive is a great business for us. It is going to be on theQ - Bobby Burleson
 A - Chris Evenden
 Q - Bobby Burleson
 A - Chris Evendenorder of $100 million this year. It will be $200 million next year, $400 million the year
@@ -257,9 +245,7 @@ valuing semiconductor companies if you like or deciding when to buy or sell
 semiconductor companies. But we are less and less a chip company.
 So even when we were just a GeForce business, a large part of the value we
 provided was the software we put around that and the effort that we put in with
-game developers to ensure they use the latest features in our hardware, that theyFINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Q - Bobby Burleson
+game developers to ensure they use the latest features in our hardware, that theyQ - Bobby Burleson
 A - Chris Evendenlooked as good as they possibly could, that they ran as fast as they possibly could.
 So there was a lot of effort and a lot of value put around the chip.
 It is not just -- it is not a components business a distribution business where you just
@@ -298,9 +284,7 @@ about market share in the core sort of GPU business yourselves and AMD making --
 primarily AMD making some statements. Just curious what your take is on market
 share at these high levels obviously --
 
-Sure.FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Q - Bobby Burleson
+Sure.Q - Bobby Burleson
 A - Chris Evenden
 Q - Bobby Burleson
 Q - Unidentified Participant
@@ -339,9 +323,7 @@ generally to questions.
 Why would you do better on Haswell than Ivy Bridge?
 
 Why would we do -- it is just the statement from the GM of the business is that he
-believes he has more design wins because you know all the slots, right. So you knowFINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Q - Unidentified Participant
+believes he has more design wins because you know all the slots, right. So you knowQ - Unidentified Participant
 A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evendenhow many opportunities you have. And we believe that we have at least as many as
@@ -378,9 +360,7 @@ That other part of the market in the general-purpose PC where we are in notebook
 the reason people buy graphics there is slightly different. We offer OEMs a way to
 differentiate their notebooks. So an OEM obviously doesn't want to just sell an entry-
 level notebook. He wants to sell people up and part of the upsell and -- he has to
-justify that extra price, right? And so part of the upsell is Core i3, Core i5, Core i7FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Bobby Burleson
+justify that extra price, right? And so part of the upsell is Core i3, Core i5, Core i7Q - Bobby Burleson
 A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evenden
@@ -416,7 +396,5 @@ How long have we got?
 
 I think we are done. Maybe take the rest off line.
 
-Sure, thanks Bobby.FINAL TRANSCRIPT 2013-08-15
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12Q - Bobby Burleson
+Sure, thanks Bobby.Q - Bobby Burleson
 Thank you.

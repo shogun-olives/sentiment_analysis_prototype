@@ -6,9 +6,7 @@ In addition to the live webcast of the Annual Shareholder Meeting, shareholders
 have the option to view the meeting via Microsoft Teams on the Investor Relations
 website. The Team's broadcast will use Microsoft Translator and Azure service that
 uses cognitive services for real-time translation in several languages. We appreciate
-your participation today.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 2 of 18I'd like to share with you the presenters for today's meeting. First, I will be joined by
+your participation today.I'd like to share with you the presenters for today's meeting. First, I will be joined by
 Satya Nadella, our Chief Executive Oﬃcer; Amy Hood, our Executive Vice President
 and Chief Financial Oﬃcer; Brad Smith, our President and Chief Legal Oﬃcer; and
 Dev Stallworth -- I'm sorry, Dev Stahlkopf, our Corporate Vice President and General
@@ -48,9 +46,7 @@ As we look to the year ahead, we remain excited about the opportunities Microsof
 has in terms of its business, shareholder value creation and positive impact at a
 global scale. Thank you for your trust, the trust you place in us. And the opportunity
 to serve us and the company. Now I'd like to introduce the nominees for the Board
-of Directors who are here with us today.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 3 of 18Dev StahlkopfFirst of all, Bill Gates, our co-Founder; Reid Hoffman, Co-Founder of LinkedIn; Hugh
+of Directors who are here with us today.Dev StahlkopfFirst of all, Bill Gates, our co-Founder; Reid Hoffman, Co-Founder of LinkedIn; Hugh
 Johnson, Chair of the Audit Committee; Teri List-Stoll, a member of the Audit
 Committee and the Governance and Nominating Committee; Sandy Peterson, Chair
 of the Compensation Committee and a member of the Governance and Nominating
@@ -90,9 +86,7 @@ shareholders of record as of October 8, 2019. As a result, this meeting is being
 pursuant to proper notice. We have received proxies representing more than 86% of
 the roughly 7.6 billion shares of the company's stock that are eligible to vote. This
 means we have a quorum present. And the meeting is duly constituted and will
-proceed.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 4 of 18Operator
+proceed.Operator
 Mari SchwartzerToday, we have 3 management proposals and 2 shareholder proposals for you to
 consider. They were all described in the proxy statement for today's meeting.
 The first item is the election of directors. The following 13 people have been properly
@@ -128,9 +122,7 @@ into weapons development. But our CEO confirmed continuation of the project.
 A year ago, employees urged Microsoft not to bid on the Department of Defense
 JEDI project, a cloud computing contract that is described by many as a war cloud,
 yet our company successfully pursued it. Not only that. But employees have also
-alleged gender discrimination and sexual harassment within our company, includingFINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 5 of 18Dev Stahlkopf
+alleged gender discrimination and sexual harassment within our company, includingDev Stahlkopf
 Natasha L. Lamba pending class-action lawsuit potentially of thousands of female engineering and IT
 professionals claiming pervasive practices of discrimination.
 As long-time investors in Microsoft, we fear that our company has not responded
@@ -167,9 +159,7 @@ first step by publishing statistically adjusted equal pay for equal work numbers
 assessing the pay of men and women performing similar jobs.
 Microsoft has since closed the equal pay gap and now reports women earn 100% of
 the compensation received by men and minorities earn 100% of the compensation
-received by their white counterparts, yet this statistically adjusted number is only halfFINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 6 of 18Dev Stahlkopfthe story. The other half is median pay disclosure, which is the specific objective of
+received by their white counterparts, yet this statistically adjusted number is only halfDev Stahlkopfthe story. The other half is median pay disclosure, which is the specific objective of
 this proposal.
 Median pay is an unadjusted raw measure used by the Organization for Economic
 Co-operation and Development, the OECD, to assess not only equal pay. But equal
@@ -205,9 +195,7 @@ The discussions of the matters for shareholder consideration is now closed. And 
 polls are now also closed. I'll share with you the preliminary voting tabulation.
 First, all 13 nominees on the ballot to become a director are elected with over 98% of
 the votes cast. They'll serve until the next Annual Shareholders' Meeting and until
-their successors are elected and qualified.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 7 of 18Amy E. HoodProposal 2, the advisory vote on executive compensation has been approved by
+their successors are elected and qualified.Amy E. HoodProposal 2, the advisory vote on executive compensation has been approved by
 more than 76% of votes cast.
 Proposal 3, ratification of the company's auditor, Deloitte & Touche, has been
 approved by over 96% of the votes cast.
@@ -239,9 +227,7 @@ and organic growth, we also retained our commitment to capital return, which for
 fiscal 2019, included a total cash return of $30.9 billion.
 In September, we announced a new $40 billion buyback authorization as well as an
 11% increase in our quarterly dividend. Now let me share a few highlights from the
-last fiscal year.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 8 of 18Our commercial cloud business grew 43% to surpass more than $38 billion in
+last fiscal year.Our commercial cloud business grew 43% to surpass more than $38 billion in
 revenue. We saw strong growth across 3 key services. Oﬃce 365 grew 33%, Azure
 grew 72%; and Dynamics 365 grew 47%. Importantly, we also delivered on our
 commitment to make significant improvement in the commercial cloud gross margin
@@ -279,9 +265,7 @@ high-growth areas. For the full year, we expect double-digit revenue and operati
 income growth with operating margins up slightly year-over-year.
 We could not deliver these results without the incredible contributions of the nearly
 150,000 Microsoft employees around the world. While there is always more to do,
-we are pleased with the continued progress we are making on diversity inclusion.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 9 of 18Satya NadellaAnd including our ability to recruit, retain and engage the people we need to deliver
+we are pleased with the continued progress we are making on diversity inclusion.Satya NadellaAnd including our ability to recruit, retain and engage the people we need to deliver
 on our mission.
 Looking forward, we believe the highest shareholder value comes from creating
 differentiated, high-value scenarios for every organization and person to achieve
@@ -320,9 +304,7 @@ compliance certifications and more data center regions than any other cloud
 provider. Azure is the only cloud that extends to the edge, enabling everything, from
 smart factories to modern, compliant banking, to precision medicine. Azure has
 limitless data and analytics capabilities, enabling our customers to apply the power
-of quantum computing today and has the most comprehensive portfolio of AI toolsFINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 10 of 18so developers can embed the ability to see, hear, respond, translate and reason into
+of quantum computing today and has the most comprehensive portfolio of AI toolsso developers can embed the ability to see, hear, respond, translate and reason into
 their applications. Those of you who are watching today can use those capabilities
 for real-time translation of my remarks in 6 languages. In a world where every
 company is a digital company, developers will play an increasingly wider role in
@@ -359,9 +341,7 @@ Xbox Game Pass. None of this progress and impact is possible without trust, both
 trust in our technology. And more importantly, trust that our customers have a
 partner whose business model is fundamentally aligned with their success.
 We believe privacy is a human right. We are investing to protect customers in today's
-zero trust cybersecurity environment. We are building AI responsibly, taking aFINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 11 of 18A - Michael Spencer
+zero trust cybersecurity environment. We are building AI responsibly, taking aA - Michael Spencer
 A - John Wendell Thompsonprincipled approach. And we are working to create a more sustainable future where
 everyone has access to the benefits and opportunities created by digital technology.
 In closing, we will continue to innovate boldly, invest in the right secular trends. And
@@ -396,9 +376,7 @@ We look for a diverse set of skills, experiences and perspectives. And we active
 seek qualified women and individuals from minority organizations who can truly help
 build a stronger Board. The Board has 8 members, of which -- most of which are
 backgrounds in technology. And we have a number of other Board members who
-are from other very, very important areas of the industry.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 12 of 18A - Michael Spencer
+are from other very, very important areas of the industry.A - Michael Spencer
 A - Satya Nadella
 A - Michael Spencer
 A - Amy E. HoodThe slate today has 38% women, more than 54% gender and ethnic diversity. And 2
@@ -441,9 +419,7 @@ with 4 priorities. The first and most important for us is continuing to invest i
 term innovation and product differentiation. And so our first priority is always to
 invest in ourselves for long-term growth. The second priority is to think through
 inorganic options to help accelerate or expand our TAM and addressable market,
-again, for long-term shareholder return. Then we think about the 2 otherFINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 13 of 18A - Michael Spencer
+again, for long-term shareholder return. Then we think about the 2 otherA - Michael Spencer
 A - Bradford L. Smith
 A - Michael Spencer
 A - Satya Nadelladistributions, either through dividends or shareholder buyback. We've done both of
@@ -484,9 +460,7 @@ computing business be for Microsoft?
 That's -- Amy talked about how we're investing across the entire length and breadth
 of the tech stack with the opportunity ahead, which is about increasing digitization
 everywhere. If you look at it in our own context, whether it's xCloud or Azure
-infrastructure, to us, that's a one continuous sort of spectrum of opportunity.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 14 of 18A - Michael Spencer
+infrastructure, to us, that's a one continuous sort of spectrum of opportunity.A - Michael Spencer
 A - Bradford L. Smith
 A - Michael SpencerBut perhaps one way for investors to think about what's happening with cloud
 computing at large is to think about what the total spend in technology today is. It's
@@ -528,9 +502,7 @@ organization is putting out the news you're reading.
 
 Great. Thanks, Brad. John, this next question is for you. So if you could help address.
 Courtney W. asked about the CEO compensation ratio of 249:1 and why there is such
-a large wage gap between Satya and the median of employees' compensation.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 15 of 18A - John Wendell Thompson
+a large wage gap between Satya and the median of employees' compensation.A - John Wendell Thompson
 A - Michael Spencer
 A - Satya Nadella
 Well first and foremost, the Board believes that Satya, as well as many of our
@@ -568,9 +540,7 @@ So one of the fundamental things that I think about. And in fact, it goes back t
 very origin of the company, is we build tools for developers. We are very passionate
 about it, from Visual Studio to GitHub to Azure DevOps to Azure PlayFab, we believe
 we have the best tool chain for any developer to be able to build their applications
-on any cloud.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 16 of 18A - Michael Spencer
+on any cloud.A - Michael Spencer
 A - Satya Nadella
 A - Bradford L. Smith
 A - Michael Spencer
@@ -613,9 +583,7 @@ as well.
 
 Great. Thank you, both. This is our last question for Brad. Claire W. asked, how are we
 factoring in the impact of climate change into our business planning?
-FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 17 of 18It's maybe the question of the next 3 decades, if not beyond. And in reality, we've
+It's maybe the question of the next 3 decades, if not beyond. And in reality, we've
 already taken a number of steps to factor climate issues into our business planning,
 whether it's where we locate data centers, how we access renewable energy, access
 to water and the like. But that's really just the beginning.
@@ -655,9 +623,7 @@ can use to address their own environmental footprint.
 It may start with something as straightforward as helping them move to the cloud
 and moving to a clean cloud that is using renewable energy with something like
 Azure. But fundamentally, it is about unleashing the power of digital technology. It is,
-if you will, something that I think builds on our mission statement.FINAL TRANSCRIPT 2019-12-04
-Microsoft Corp (MSFT US Equity)
-Page 18 of 18A - Michael SpencerOur goal for the next decade needs to be to create digital technology that will
+if you will, something that I think builds on our mission statement.A - Michael SpencerOur goal for the next decade needs to be to create digital technology that will
 empower every organization to build a more sustainable planet that humanity needs.
 And I think for all of us, frankly, for all of our employees, this is a cause that we
 embrace.

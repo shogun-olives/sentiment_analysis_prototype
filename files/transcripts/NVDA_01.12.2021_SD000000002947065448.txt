@@ -23,9 +23,7 @@ and build up a speed of the light response system.
 As devastating as the virus is, it's really created this extreme focus on the healthcare
 industry. Of course, in pharma and healthcare delivery, but government, academia,
 start-up and the tech industry like ourselves have all joined together and trying to
-create a response.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14So today, I'm really excited to be here, and I'll share some of the critical role, really, of
+create a response.So today, I'm really excited to be here, and I'll share some of the critical role, really, of
 artificial intelligence and computing across healthcare and what we think could be
 truly 2020 was the beginning of what I'm calling the AI healthcare era.
 So if we could advance just quickly, let me remind you of our safe harbor statement
@@ -61,9 +59,7 @@ challenges.
 The fact that it takes about 10 years to bring a drug to market is far too long. So
 accelerated computing can serve that. The fact that our success rate and the cost to
 discover these things is far, far too high of a cost and too low of a success rate, this is
-where artificial intelligence can come in.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14And so without a doubt, this is -- artificial intelligence is the most powerful
+where artificial intelligence can come in.And so without a doubt, this is -- artificial intelligence is the most powerful
 technology force of our time. And 2020 really ushered in breakthroughs in
 biomedical research driven by artificial intelligence.
 AI (inaudible) achieved experimental accuracy in a lot of domains for the first time
@@ -101,9 +97,7 @@ and understanding text, they use those algorithms to make a truly breakthrough i
 This is just a tremendous breakthrough that could be very, very transformational to
 the industry.
 All the way through to a recent (inaudible) price, which is essentially the Olympics, if
-you will, of accelerated computing and supercomputing, (inaudible) in the HPCFINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14COVID-19 consortium, they really put their heads together to say how can we use
+you will, of accelerated computing and supercomputing, (inaudible) in the HPCCOVID-19 consortium, they really put their heads together to say how can we use
 artificial intelligence to drive molecular dynamic simulations. And essentially, they
 were able to create what they call a computational microscope.
 In computation, being able to see the coronavirus and how it enters the cell at
@@ -141,9 +135,7 @@ healthcare and the practice of medicine incorporates many different domains that
 are all incredibly domain specific.
 And that brings us into what is the mission of NVIDIA healthcare. And our mission is
 to bring the state-of-the-art computing approaches into the domain of healthcare,
-and we've done that over the last several years with a computing platform we'veFINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14called NVIDIA Clara. It's named Dr. Clara (inaudible). She was the inventor of the
+and we've done that over the last several years with a computing platform we'vecalled NVIDIA Clara. It's named Dr. Clara (inaudible). She was the inventor of the
 American Red Cross. It's a platform to help people.
 And this platform is domain specific, and it's really in the center there -- visualized in
 the center of this chart where you can see that pretrain models that are fit for
@@ -181,9 +173,7 @@ And we've expanded into 3 other also very critical areas, natural language
 processing, where tremendous breaks that have gone to super [ph] human levels of
 performance to be able to -- and we made a specific biomedical version of natural
 language processing, domain specific, so that it can be much more understanding of
-the lexicon of healthcare, diseases, proteining [ph], all things that we just studiedFINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14Wikipedia or Reddit, we wouldn't have that deep understanding on a biomedical
+the lexicon of healthcare, diseases, proteining [ph], all things that we just studiedWikipedia or Reddit, we wouldn't have that deep understanding on a biomedical
 level.
 This is going to be critical for taking some of the dark data in healthcare such as our
 unstructured clinical notes or even the structured data on electronic health records
@@ -219,9 +209,7 @@ So introducing NVIDIA Clara Discovery, just at the tail end of last year, it's a
 computational drug discovery platform. Again, it really builds upon the last 10 years
 of NVIDIA Healthcare. Everything that we're working on, whether it be in imaging or
 genomics, is truly in service of drug discovery because it's such a multidisciplinary
-and such a complex problem.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14We partner with the industry leaders, whether it be in 3D structure prediction,
+and such a complex problem.We partner with the industry leaders, whether it be in 3D structure prediction,
 applications and platforms or whether it be in simulation. We partner where the
 applications are being built to make sure that they can scale, run as fast as they can,
 be as accurate as possible. Where no solutions exist, we've gone off and built them.
@@ -258,9 +246,7 @@ machine.
 Relay Therapeutics has used NVIDIA's GPU data science platform to really be able to
 interactively explore the chemical space to be able to look at millions of compounds
 in an interactive manner such that they can make better decisions into the rest of the
-compound discovery and lead optimization hit to lead process.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14And it's just an amazing accomplishment to say something that would have taken
+compound discovery and lead optimization hit to lead process.And it's just an amazing accomplishment to say something that would have taken
 hours or days and turning that into seconds, which really transforms the way that we
 are going to work, and it allows us to open our aperture where we have 10 of the 60
 chemical (inaudible). Continuing to open our aperture is going to allow us to feed
@@ -299,9 +285,7 @@ for AI healthcare called Cambridge 1 [ph] and AI supercomputer in the U.K. The U
 is known for discovering the structure of DNA.
 I mean, they are pioneering in so many forms of healthcare, one of the world's
 largest healthcare systems, home to some of the most important pharmaceutical
-companies in the world and even amazing technology companies like OxfordFINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14Nanopore who are reimagining genomics in incredible ways. And we're building the
+companies in the world and even amazing technology companies like OxfordNanopore who are reimagining genomics in incredible ways. And we're building the
 supercomputer so that we can partner with these industry pioneers on very large-
 scale AI research.
 Artificial intelligence requires this new computational instrument. This computational
@@ -339,9 +323,7 @@ cardiac exam. FDA approved. So critical, actually, on the front lines of COVID-1
 where a nurse is treating a COVID patient can now also administer a cardiology
 exam because we know that this virus affects the cardiac behavior.
 And so being able to capture that as a front-line worker instead of having to move
-the patient around or have it being done by another healthcare professional, justFINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14incredible, and dozens of industry first just got AI. The first application to be
+the patient around or have it being done by another healthcare professional, justincredible, and dozens of industry first just got AI. The first application to be
 reimbursed by CMS. So, so many dozens of industry first. This is just an incredible
 breakthrough year.
 And the practice of medicine and AI in the practice of medicine is what is the future.
@@ -377,9 +359,7 @@ at the chart, the first leap they had in performance came from adopting deep
 learning in the first place.
 And then through models and training -- different architectures and training, they
 were able to achieve some incredible breakthroughs. So not only is it high
-throughput at 10 terabasis and can do 100 human genomes per run.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14A - Harlan SurBut through deep learning, they're base calling, Bonito [ph] is able to reach an
+throughput at 10 terabasis and can do 100 human genomes per run.A - Harlan SurBut through deep learning, they're base calling, Bonito [ph] is able to reach an
 overall accuracy of 98.3%. And AI-driven single nucleotide variant calling gets them
 to 99.9% accuracy.
 And here's a technology and instrument that truly touches on the entire practice of
@@ -413,9 +393,7 @@ than 50% of the team's data center business. So maybe can you just give us a
 snapshot of your healthcare franchise?
 How large is your healthcare franchise relative to the size of your overall data center
 segment? How many professional support the healthcare segment? And how fast
-has the business been growing over the past few years?FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14A - Kimberly Powell
+has the business been growing over the past few years?A - Kimberly Powell
 A - Harlan Sur
 Yes. Sure. Let me talk to you about it, Harlan. So number one, Ampere is absolutely
 the most incredible technology NVIDIA has ever brought to market. And it has
@@ -454,9 +432,7 @@ based high-performance compute cluster, like the Cambridge 1 [ph], for example,
 your team also leverages its entire portfolio like the Jetson [ph] platform for medical
 instrumentation, your EGX platforms for edge computing, describe how your team
 leverages this portfolio to increase your share of your customers wallet over time
-and maybe give us a few examples if you have them.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14A - Kimberly Powell
+and maybe give us a few examples if you have them.A - Kimberly Powell
 Yes. Absolutely, I can. And I think, Harlan, you kind of just touched on it. Because we
 build on the shoulder of the giant core of NVIDIA, where we can -- that is our mission
 statement at NVIDIA to take the state of the art and bring it to the domain, we get to
@@ -492,9 +468,7 @@ And the same application can go into a desktop into the very ultra-high end and
 high throughput device that we just talked about. So they're a perfect example of
 how we can see that. You can innovate. You can -- you penetrate in the market. You
 can access new customer bases altogether by leveraging a single architecture and
-compute platform like NVIDIA.FINAL TRANSCRIPT 2021-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14A - Harlan Sur
+compute platform like NVIDIA.A - Harlan Sur
 A - Kimberly Powell
 A - Harlan Sur
 Great. Well we're just about out of time, Kimberly. I want to thank you for the -- we

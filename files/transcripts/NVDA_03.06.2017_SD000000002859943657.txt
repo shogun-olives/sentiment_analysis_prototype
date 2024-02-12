@@ -17,9 +17,7 @@ been and where we stand today.
 So keep in mind NVIDIA's business model is focused on four market segments that
 we participate in. The first one that we participate in is our gaming business. Our
 gaming business has been with us for since the beginning of time where we focused
-on creating the best high-end graphics that we can for an overall PC platform.FINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11Steve Smigie
+on creating the best high-end graphics that we can for an overall PC platform.Steve Smigie
 Colette KressAdditionally, we also have our pro visualization business. Pro visualization is
 essentially taking those high-end graphics to the enterprises and to very key
 workloads in terms of design, product design and building where those graphics are
@@ -58,9 +56,7 @@ about how we should be thinking about growth in each of those. Because it seems
 some of them are hyper growth and gaming seems very solid and growing much
 faster than I would've anticipated but maybe not the same rate for various reasons as
 the other businesses. So any color on growth would be great.
-FINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Yes. So each of our businesses, each of those four businesses are definitely in
+Yes. So each of our businesses, each of those four businesses are definitely in
 different stages of maturity rather than actually saying different stages of growth. If
 you think about our overall gaming business, the gaming business for at least the
 last five years type of CAGR has grown about 30% and in this last year even grew
@@ -98,9 +94,7 @@ deep learning training, which is one of the key frameworks to solve some of thos
 problems and we are at the forefront. Both the forefront in terms of the GPU being
 extremely well-positioned in terms of its performance and capabilities. But also the
 strength of our overall development platform and software solutions that we are
-working to teach many of the different places around the world to use. And weFINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Steve Smigie
+working to teach many of the different places around the world to use. And weSteve Smigie
 Colette Kresscontinue to probably consider ourselves to be in the first innings of our data center
 business as we move forward.
 So that leaves us our last one in terms of automotive. Two different pieces in there.
@@ -137,9 +131,7 @@ about an add-in card market or adding in the underlying platform to improve your
 overall performance.
 We sell most of the time an add-in card and we are not actually selling a true PC. So
 that evolving business has really been where we have concentrated on that platform
-in terms of the sale.FINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Steve Smigie
+in terms of the sale.Steve Smigie
 Colette KressBut some other evolutions of what has happened over the last couple of years. One
 of them is really the mobility, the mobility of the gamers. The gamers love their high-
 end cards that gives them the best type of performance with the AAA production
@@ -178,9 +170,7 @@ this point?
 
 Absolutely. So virtual reality is definitely coming to life and has over this last year.
 Virtual reality, one of the key things to make it a successful experience is the
-performance power of a high-end GPU.FINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Steve Smigie
+performance power of a high-end GPU.Steve Smigie
 Colette KressIf you want to do the high-end virtual reality, the ones that make it look tremendously
 realistic, that needs that processing power or the overall frame rate refresh that a
 GPU can overall provide. We have come out with Funhouse, Funhouse is our own
@@ -217,9 +207,7 @@ essentially where the answer is known but using a GPU as an accelerator taking w
 off the CPU enables the overall workload to be enhanced and complete sooner.
 We are still in that business. It is still thriving, it is still growing very well within our
 business. But now that has expanded uniquely into other areas of our data center
-business.FINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11Number two, we have been focusing on the work in terms of with hyperscale
+business.Number two, we have been focusing on the work in terms of with hyperscale
 companies, companies like the Microsofts, the Amazons, the Googles, the Baidus,
 the Facebooks, where they are focusing on applications that you and I see every
 single day and use that are GPU AI accelerated. What we mean by this is think about,
@@ -258,9 +246,7 @@ the different AI frameworks that are out there and the overall development libra
 and components for them to start right off the bat in terms of with their DGX. It is
 essentially just a plug-in and begin a lot of that AI work.
 So those are our five businesses. All of them extremely important and strongly
-growing across. But it's a combination of focusing on the cloud with the hyperscalesFINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11Steve Smigie
+growing across. But it's a combination of focusing on the cloud with the hyperscalesSteve Smigie
 Colette Kressas far as the outreach that we also are doing with higher education, enterprises and
 many of the different industries focused on AI.
 
@@ -297,9 +283,7 @@ A GPU's performance capability is very, very high and its overall performance to
 is also a very important thing to keep in mind there. The downfalls of all the other
 ones is the ability to how do you get started, how do you actually do that
 programming in AI without that programming language and the amount of work that
-we have focused on in terms of the frameworks?FINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Steve Smigie
+we have focused on in terms of the frameworks?Steve Smigie
 Colette KressWe keep an eye on every single framework in deep learning and deep learning
 training that is out there, TensorFlow Caffe to continue to find new areas for us to
 focus in terms of libraries to help them. But also making sure we understand what is
@@ -335,9 +319,7 @@ DRIVE PX. And that is, again, a customized solution, scalable solution depending
 any level that you want to do in driving.
 We have heard level 3, level 4 types there. Level 3 could probably be completed
 with an SOC in terms of the car. Keep in mind they have in their data centers of those
-automotive companies DGX servers that are also working in terms of our platformFINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Steve Smigie
+automotive companies DGX servers that are also working in terms of our platformSteve Smigie
 Colette Kress
 Steve Smigie
 Colette Kressback in their data center to train the data that will eventually be in the car, as well.
@@ -374,9 +356,7 @@ with all that cash now? You seem to be very good at doing stuff with what you ha
 already got. But is there anything out there that makes sense for you to go buy?
 
 So when we think about the cash that we have generated from the Company, the
-number one focus is going to be making sure we have invested that appropriately inFINAL TRANSCRIPT 2017-03-06
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11Steve Smigie
+number one focus is going to be making sure we have invested that appropriately inSteve Smigie
 Colette Kressterms of into our business going forward. Our investments in there is very key.
 Investment in growing many of the markets that we just talked about.
 There can be from time to time areas that we believe bolting on teams, early growth

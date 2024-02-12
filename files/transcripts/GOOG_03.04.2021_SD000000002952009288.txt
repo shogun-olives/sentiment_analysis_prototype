@@ -19,9 +19,7 @@ cause actual results to differ materially.
 Any forward-looking statements made by Alphabet today are based on assumptions
 as of today, and Alphabet undertakes no obligation to update them.
 Please refer to Alphabet's Form 10-K for a discussion of the risk factors that may
-affect actual results.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 19Ruth Porat
+affect actual results.Ruth Porat
 Brian Nowak
 Ruth Porat
 A - Brian Nowak
@@ -57,9 +55,7 @@ Well, thank you for the way you framed it. I do feel like the changes we've made
 the past six years have really enhanced our overall execution. At the core, we still
 remain very focused on prioritizing investments for long-term value creation. And I
 would say that if there are 2 themes that we keep coming back to, first is the
-importance of AI.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 19A - Brian Nowak
+importance of AI.A - Brian Nowak
 A - Ruth PoratYou can see it in everything from what we're doing in search all the way through to
 cloud. Our view is that it enhances our ability to deliver free users, to deliver value. A
 couple of years ago, Sundar talked about the fact that we had moved to AI-first, and
@@ -97,9 +93,7 @@ store presence better connect with the consumers, really address what is it
 consumers need, whether you're looking at search or maps, some of the changes
 you've seen, like, what about curbside pickup or what about hour changes, any of
 the delivery issues. How can we make our product ever more useful and helpful,
-both for consumers and for merchants.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 19A - Brian Nowak
+both for consumers and for merchants.A - Brian Nowak
 A - Ruth PoratOn the cloud side, we've similarly seen a real acceleration and some exciting
 innovations coming out as a result of COVID. Most recently, we talked about our
 intelligent vaccine platform. And -- which we're looking at how to help states with
@@ -138,9 +132,7 @@ reporting.
 And in our view, that was consistent with the way we were really trying to focus
 people internally. And in fact, there was as much benefit internally as I think there
 was externally because it just put a real spotlight for every leader on the full set of
-resources that they were using.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 19A - Brian Nowak
+resources that they were using.A - Brian Nowak
 A - Ruth PoratAnd last year, when we move to revenue disaggregation, really breaking apart within
 Search and Cloud revenues. I think it was, again, reﬂecting how we're running the
 business and helpful to put sort of greater transparency and spotlight on the
@@ -178,9 +170,7 @@ And I would say the key one starts with data and analytics. It's clearly a criti
 the transformation that a company goes through. And our solutions are helping
 customers just get better insight, which helps them better understand what their
 customers want, how to respond, how to improve their products. It's just these real-
-time predictive analytics.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 19A - Brian Nowak
+time predictive analytics.A - Brian Nowak
 A - Ruth PoratI think the second thing is multi-cloud. Companies want to work with multiple cloud
 providers. We hear it time and time again, whether it's for risk management or other
 reasons, they want to benefit from the best technology, and we've made it easy to do
@@ -217,9 +207,7 @@ driving. It's about the leadership team. It's the specialized industry sales tea
 globally that I mentioned. And it's, frankly, the sheer scale to be able to cover all of
 the ground.
 And we're on track to meet our near-term goal of tripling the sales team. We're also
-seeing a real strength that comes from our broad network of partners. We've talkedFINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 19A - Brian Nowak
+seeing a real strength that comes from our broad network of partners. We've talkedA - Brian Nowak
 A - Ruth Poratabout that quite a bit.
 We've really been growing the channel partner ecosystem. And then I would say that
 -- so it all starts with that, but we have to be able to offer the tailored solutions and
@@ -255,9 +243,7 @@ helping improve natural language understanding, making our responses so much
 more relevant, more profound. We now have near-human understanding of queries.
 And then you take at the other end, still complex, but hum, which is very much sort
 of the Google-y fun, quirky, you can hum a song and even if you can't hum, and I
-can't hum very well, we can tell you what song it is that you're humming. And so it'sFINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 19A - Brian Nowak
+can't hum very well, we can tell you what song it is that you're humming. And so it'sA - Brian Nowak
 A - Ruth Porat
 A - Brian Nowakthat kind of keep it fun -- keep it fun and keep it fresh and keep it relevant that's
 driving the engineering team.
@@ -295,9 +281,7 @@ queries is helpful. So our AlphaWise survey data show that 50% of people who are
 doing in their e-commerce research process still start on Google Search.
 Now it shows your strong position in the retail category. But I think if we would have
 done that a few years ago, we probably would have found that the number was
-about 70% of people start on Google Search in the retail category.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 19A - Ruth Porat
+about 70% of people start on Google Search in the retail category.A - Ruth Porat
 A - Brian Nowak
 A - Ruth PoratSo I guess my questions are: Number one, your reaction to those numbers and that
 trend. And then secondly, how do you think about the e-commerce search product
@@ -336,9 +320,7 @@ that YouTube is doing. We've talked a lot over 2020 and prior about direct respo
 and the extraordinary growth of direct response.
 And as I recall, Philipp said on the last earnings call, that was essentially nonexistent
 three years ago. And now it's one of the largest and fastest-growing ad offerings on
-YouTube. And it provides precisely what people want, the sort of tailored call toFINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 19A - Brian Nowak
+YouTube. And it provides precisely what people want, the sort of tailored call toA - Brian Nowak
 A - Ruth Porat
 A - Brian Nowakaction right at the right time. And it's enabling us to unlock opportunities to reach
 audiences with great video campaigns.
@@ -376,9 +358,7 @@ evolve the product.
 
 Stay tuned. I'll post my own YouTube Shorts. The other aspect of YouTube is sort of
 the debate between subscription and ad-supported. And I think there's been some
-pivoting and subscription versus ad-supported products over the years. Now youFINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 19A - Ruth Porat
+pivoting and subscription versus ad-supported products over the years. Now youA - Ruth Porat
 A - Brian Nowakhave 30 million Music and Premium subscribers, 3 million YouTube TV subscribers.
 I'm one of the happy subscribers to that product -- actually to both products.
 I guess the question is, sort of how are you thinking about philosophically,
@@ -415,9 +395,7 @@ screen TV.
 I know my -- when my kids run up to the television and bang on the ﬂat panel to try
 to skip the ad, they think it's touchscreen, it just tells you how the next generation is
 just being conditioned differently about how they consume video, and YouTube is
-driving that.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 19A - Ruth Porat
+driving that.A - Ruth Porat
 A - Brian Nowak
 A - Ruth Porat
 Yes. And to your point, I mean, TV is the biggest -- that's the biggest growth area that
@@ -454,9 +432,7 @@ go to, for example, what we did in real estate. So the CapEx line overall, there
 real pullback in 2020.
 We started actually right at the front end of the year, really turned -- slowed down
 any acquisitions. And then as COVID hit, we had to slow down the pace of even our
-ground-up development and fit-outs just with the lock down everywhere.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 19A - Brian Nowak
+ground-up development and fit-outs just with the lock down everywhere.A - Brian Nowak
 A - Ruth Porat
 A - Brian Nowak
 A - Ruth Porat
@@ -496,9 +472,7 @@ hasn't been ﬂipped.
 We're working on it.
 
 You're working on it.
-FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 19A - Brian Nowak
+A - Brian Nowak
 A - Ruth Porat
 A - Brian NowakKeep asking.
 
@@ -537,9 +511,7 @@ based compensation. It's a great start.
 The question is, Alphabet has $135 billion of cash on the books. By our math, $50
 billion to $60 billion in free cash ﬂow to be generated the next couple of years.
 Philosophically, just talk to us about how you're thinking about capital returns and
-continuing to return capital through buybacks or dividend, et cetera.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 15 of 19A - Ruth Porat
+continuing to return capital through buybacks or dividend, et cetera.A - Ruth Porat
 A - Brian Nowak
 A - Ruth Porat
 Yes. No, so we are very mindful of the fact that it does help create incremental value
@@ -576,9 +548,7 @@ investment, as you said, in Jio -- Reliance Jio. We're excited about it because 
 we're doing is we're jointly developing an entry-level affordable smartphone that will
 better serve the millions of users in India, and we believe this unlocks new
 opportunities and really help support the ecosystem of applications and supports
-innovation in India and supportive of the Indian economy.FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 16 of 19A - Brian Nowak
+innovation in India and supportive of the Indian economy.A - Brian Nowak
 A - Ruth Porat
 A - Brian Nowak
 A lot of growth. It would be exciting to watch it develop over time as you really drive
@@ -616,9 +586,7 @@ a Waymo -- the press had a Waymo capital raise in it. You were somewhat ahead of
 the curve there as you often are. Where now there's a lot of excitement around
 autonomous in the overall markets.
 When we look at GM, GM Cruise has raised. Uber selling its autonomous group to
-Aurora, pull up the Tesla share price. In my mind and in my model, Waymo stillFINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 17 of 19A - Ruth Porat
+Aurora, pull up the Tesla share price. In my mind and in my model, Waymo stillA - Ruth Porat
 A - Brian Nowak
 A - Ruth Poratseems to be underappreciated from a valuation perspective.
 So I guess the 2 questions are: How do you think about potential further capital
@@ -657,9 +625,7 @@ four years.
 
 So no change on our thinking. We're trying to make sure we're investing with the
 lens of how do we create shareholder value over the long term. We're increasing our
-investments in some areas where it makes sense. We're pulling back or even shuttingFINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 18 of 19A - Brian Nowak
+investments in some areas where it makes sense. We're pulling back or even shuttingA - Brian Nowak
 A - Ruth Poratdown, as in the case of Loon, where it makes sense. We have established what are
 the milestones that will help guide us and test us as we're going through it.
 Bringing in external capital has been helpful, as you said, in Waymo and Verily. And
@@ -695,9 +661,7 @@ And it's an exciting opportunity for our team to say, you know what, we'll be in
 hybrid work environment. That doesn't really work well unless we've got the right
 technology that can bring us all together.
 Now you look at what's going on with cloud. So I think there's a lot to be excited
-about. And a lot of responsibility that comes with it, which we're very focused on,FINAL TRANSCRIPT 2021-03-04
-Alphabet Inc (GOOGL US Equity)
-Page 19 of 19A - Brian Nowak
+about. And a lot of responsibility that comes with it, which we're very focused on,A - Brian Nowak
 A - Ruth Porat
 A - Brian Nowakwhich is why, again, to your first question, when you said, how do we think about
 investment priorities?

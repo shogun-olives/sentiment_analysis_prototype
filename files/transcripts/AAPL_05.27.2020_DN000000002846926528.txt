@@ -24,9 +24,7 @@ we will talk about the iPhone-12 launch, about the effect of 5G. We think pricin
 going to change in 2021. We'll talk about that.
 And the second golden egg in this case would be the services business. And within
 the scope of the services business, we will talk about not only the subdivisions of
-services that we have laid out that we have spread out. We have estimated each ofFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 2 of 17those businesses, but we will talk about the outsides opportunities. In media, both
+services that we have laid out that we have spread out. We have estimated each ofthose businesses, but we will talk about the outsides opportunities. In media, both
 on the streaming side as well as on the music side, we will talk about FinTech which
 we think principally [ph]. We will also discuss extensive the Apple's chip ambitions.
 And last but certainly not least will address valuations and leave some time in the
@@ -68,9 +66,7 @@ be discounted is the financing angle. And also the trade-in program. We help
 potentially drive a higher ASP product dramatically (Technical Diﬃculty) to grow than
 they would have had they not been financing didn't have a trade-in program.
 So we have estimated sort of a small bleed in iPhone installed base but shockingly
-after the last quarter's trend, we are surprised that the impact of COVID is muchFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 3 of 17shallower than we had anticipated. As a result, we have dramatically changed our
+after the last quarter's trend, we are surprised that the impact of COVID is muchshallower than we had anticipated. As a result, we have dramatically changed our
 March and June numbers prior to the print. So they printed roughly about 37 million
 units. This is an estimate from IDC. We think that it goes down to sort of the 28
 million units in the June quarter, but the rebound through the calendar third and the
@@ -113,9 +109,7 @@ learned from that and I don't think that the ﬂagship prices are going to incre
 2020. The introduction of the iPhone SE or the rebranding or the re-launch of the
 iPhone SE, actually brings in a new lower ASP product into the mix and the -- if you
 look at the bar bell curve of price distribution of the iOS from 2007 to current, yes, it
-has two peaks. One is in the 750 to 800 range and the other one is in the thousandFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 4 of 17plus range. We think that the -- regardless of how the iPhone SE increases the first
+has two peaks. One is in the 750 to 800 range and the other one is in the thousandplus range. We think that the -- regardless of how the iPhone SE increases the first
 bump, we think that it has the potential or the -- raise prices in 2021 have the ability
 to push the second peak of the barbell at pretty aggressively. The interesting thing
 about the chart that you're looking in front of you is that if you look at the white and
@@ -158,9 +152,7 @@ across each of those.
 The first is AppleCare. AppleCare is we think were modelled around roughly at
 about 26% of the of the services business. It's a substantial piece of the pie. Number
 one. Number 2, it's a sticky piece of the pie and it's substantially different than any
-maintenance program that we have seen. This is -- a strong attach, and it's gotFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 5 of 17Geetha Ranganathanmonthly fee of somewhere in the $6 to $15 would conservatively assume the $12 to
+maintenance program that we have seen. This is -- a strong attach, and it's gotGeetha Ranganathanmonthly fee of somewhere in the $6 to $15 would conservatively assume the $12 to
 $13 price point but the fact that it brings out roughly about a fifth of the attach rate of
 new phones, that's pretty staggering and so we think that this is a business that is a
 steady-eddie business and we think as phones get more and more expensive the
@@ -201,9 +193,7 @@ HBO Max, which went live today. Apple TV plus actually launched back in November
 of 2019 with a fairly ambitious goal. They wanted to create Apple's own HBO. But
 what's happened is a little over six months later, Apple TV plus is really not part of
 the streaming conversation. So I kind of want to give you a sense of where we are in
-terms of subscribers.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 6 of 17So most signs indicate that the Apple service is off to somewhat of a slow start, a few
+terms of subscribers.So most signs indicate that the Apple service is off to somewhat of a slow start, a few
 reports suggest about 10 million subscribers, which actually seems like a decent
 number. The caveat there is that nobody is really paying for the service. Even though
 it is a compelling 499 price point, which is one of the cheapest services out there,
@@ -245,9 +235,7 @@ haven't made that much of headway. So the question is what do they do, what do
 they do next? And again, here I just kind of wanted to give you a sense of what the
 big media operators are spending annually on content.
 So if Apple really wants to be taken seriously in the media space, it's -- we're looking
-at anywhere from about $20 billion to $25 billion for some of these biggerFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 7 of 17Anand Srinivasan
+at anywhere from about $20 billion to $25 billion for some of these biggerAnand Srinivasan
 Geetha Ranganathancompanies by 2023. So rather than spending on shows that don't necessarily have a
 proven track record and with uncertain ROIs, I guess the big question is why not
 invest in a library and this has kind of been the eternal question with investors, where
@@ -288,9 +276,7 @@ nothing is working right now. In terms of owning content, I think, they ultimate
 to be able to own that library, because what's happening for them is if they really
 want to be a media player as such, they really need to be able to have their own
 shows, they need to be able to have a huge licensed library and because that hasn't
-happened so the TV plus service itself, hasn't really taken off. So in terms of being aFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 8 of 17Anand Srinivasan
+happened so the TV plus service itself, hasn't really taken off. So in terms of being aAnand Srinivasan
 Geetha Ranganathan
 Anand Srinivasan
 Amine Bensaidmedia powerhouse themselves. I don't think that's really going to happen, unless
@@ -329,9 +315,7 @@ experiencing. So but what I mean by that is the narrative is going to change, no
 it's going to be focused on music, but it's going to be focused on audio, in general.
 That means -- meaning only content is probably going to get focused in the next few
 years. So -- and the reason for that if we can shift to the next slide. When we look at a
-traditional audio versus digital, we see that the declines on traditional audio wereFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 9 of 17Anand Srinivasan
+traditional audio versus digital, we see that the declines on traditional audio wereAnand Srinivasan
 Amine Bensaidalready expected to happen this year. And the chart on the left, this is basically radio
 versus digital audio and what's interesting here is this was done pre-COVID-19.
 So we expect this actually works and what's key here and speaking to maybe at the
@@ -371,9 +355,7 @@ the audio meaning like the other shows like for example, SiriusXM has great show
 with Spark and Howard Stern.
 So if you think of those shows starting to shift to digital, that's when we see the
 content margins really improving at the bottom line for Spotify and also for the major
-players like Apple and Amazon.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 10 of 17Anand Srinivasan
+players like Apple and Amazon.Anand Srinivasan
 Julie Chariell
 Got it. Thank you, Amine. Now within the services piece of the pie, FinTech where
 Apple Pay, Apple Cards or associated businesses that could be and currently exist
@@ -415,9 +397,7 @@ spending, which was a bigger bump, but a temporary one right. To keep that going
 we need to re-openings to kick in -- to come online without a second wave of the
 virus really shutting things down again and perhaps even some more stimulus which
 the Republican and the Senate are now talking about and getting behind to keep
-that going.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 11 of 17Anand Srinivasan
+that going.Anand Srinivasan
 Julie ChariellInternationally, we see, not so much stimulus yet some on the way apparently with
 EU making some moves today, but the improvement in the international markets
 have been a bit slower, because it's just been about very slow and gradual re-
@@ -458,9 +438,7 @@ advantage of this. So we'll see some loan loss reserves, but ultimately, we thin
 there's lots of opportunity with the card. They are already offering incentives for
 holders of the Apple Card to use the Apple Card in their mobile wallets. So with
 Apple Pay, right and give it in extra cash back as incentive to use it. So that's the way
-to start, it can use Apple Pay to driving more usage of an Apple Pay.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 12 of 17Anand Srinivasan
+to start, it can use Apple Pay to driving more usage of an Apple Pay.Anand Srinivasan
 Julie Chariell
 Anand Srinivasan
 Julie Chariell
@@ -498,9 +476,7 @@ Exactly. And it's a closed ecosystem.
 
 Keeping, keep along ecosystem, right on the users of Apple keeping the stickiness
 and use on the platform. Yes, thanks.
-FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 13 of 17Got it. Thank you, Julie. We're going to dive deep a little bit and go into the supply
+Got it. Thank you, Julie. We're going to dive deep a little bit and go into the supply
 chain, little bit and talk about Apple's chip ambition. The interesting is very quietly
 Apple is already a top 10 semiconductor revenue company with only one customer.
 It's a closed ecosystem. It's a captive silicon provider, $8.5 billion of revenue in 2019
@@ -544,9 +520,7 @@ has a process where it changes suppliers, once every two to three years, and tha
 dramatic consequences to the supply chain because those suppliers over the course
 of a year or two have become substantially wedded to the Apple business to the
 point where it's nearly 80% of Cirrus, it's 20% of Broadcom, it's substantially 7% of
-Intel.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 14 of 17Woo Jin HoSo it has substantial consequences but for Apple, Apple is starting to either be very
+Intel.Woo Jin HoSo it has substantial consequences but for Apple, Apple is starting to either be very
 specific about the design or is going in for a cheaper price. And as a result, makes
 that swap, which has consequences. The one critical partner for Apple in our minds
 is TSMC, and even though it's a small partner, it enables the manufacturing of
@@ -589,9 +563,7 @@ these services. Think of their audio chips as Anand said an amplifiers in the ph
 EarPods and AirPods to complement their music services or to the camera image
 sensor to complement their video and photo applications. So these -- Apple is
 always going to invest in these kind of chips. And then the last bucket is bringing in
-new technologies to support existing or upcoming services.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 15 of 17Now some of the specs on the iPhone may lag. Some of what Samsung may provide,
+new technologies to support existing or upcoming services.Now some of the specs on the iPhone may lag. Some of what Samsung may provide,
 but they also introduced some really cool things and newer chips that other vendors
 did not provide. Number one, think about the near field communications for Apple
 Pay that helps. Think about the Touch ID for a single touch and that evolved over to
@@ -636,9 +608,7 @@ Apple already has roughly $30 to $32 in its 4G devices. If you add sub 6 as well
 way as middleware content that's going to yield roughly $45 or more right in RF
 content in a 5G phone. Now we're just talking about inside the phone because of
 the radio propagation properties of phone, your all class phone will actually need to
-have less aluminum on the housing and that's going to create opportunities forFINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 16 of 17Anand SrinivasanCorning as well because you do need more glass to help the radio propagation
+have less aluminum on the housing and that's going to create opportunities forAnand SrinivasanCorning as well because you do need more glass to help the radio propagation
 around the phone.
 So you -- there are incremental dollars to provide that premium connectivity
 experience for your devices. I'll stop right there. Anand??
@@ -678,6 +648,4 @@ shared and feel free to ping us directly with questions, we'll be happy to answe
 them. Thank you very much for your time and if you look at BI GO all of the
 information discussed can be found on there and you have our analyst emails as
 well. Thank you very much for your time, and have a great week. With that, Angela
-can we close up the call, please.FINAL TRANSCRIPT 2020-05-27
-Apple Inc (AAPL US Equity)
-Page 17 of 17
+can we close up the call, please.

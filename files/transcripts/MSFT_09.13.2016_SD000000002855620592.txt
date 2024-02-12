@@ -24,9 +24,7 @@ dialog.
 I think one of the things that we see in the industry that's happening right now and I
 think pretty much everyone is seeing it is, what we call the journey to the cloud,
 which is really a generational shift in computing that's happening right now and
-really is impacting every organization and every company out there in prettyFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15meaningful ways. And I think every enterprise out there, in particular right now, is
+really is impacting every organization and every company out there in prettymeaningful ways. And I think every enterprise out there, in particular right now, is
 trying to figure out a path from how they go from where they are now to take
 advantage of what the cloud has to offer.
 And when we think about the cloud and Microsoft, we often think about it not just in
@@ -68,9 +66,7 @@ basically in a matter of seconds deploy and run their own code and deliver their
 set of applications and solutions to their employees and their customers.
 And we have more regions than AWS and Google combined and in particular, we
 don't just have broad coverage of regions. But also meet unique data residency
-promises that no other cloud vendor delivers, whether those are in China, whetherFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15that's in Germany, whether that's for US government and Department of Defense, we
+promises that no other cloud vendor delivers, whether those are in China, whetherthat's in Germany, whether that's for US government and Department of Defense, we
 can make guarantees around who has access to the data in for example Germany
 and China, we make promises, which is no American and no Microsoft employee has
 any operational control over those data centers or that data to be able to meet those
@@ -112,9 +108,7 @@ for cloud than all the other cloud vendors combined. And we're seeing tremendous
 uptake and adoption of our cloud. With about 85% of the Fortune 500 companies,
 now taking advantage of the Microsoft Cloud and more than 70% taking advantage
 of at least two elements of our cloud, for example, Azure and Oﬃce 365 or Azure
-and Dynamics 365 as an exampleFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15And I think the thing that we're also seeing in this industry is as people look to take
+and Dynamics 365 as an exampleAnd I think the thing that we're also seeing in this industry is as people look to take
 advantage of the cloud, the real economic opportunity here is far beyond the
 traditional IT boundaries that we thought of before because a lot of these used cases
 aren't about internal IT, it's not around payroll applications, it's not around
@@ -157,9 +151,7 @@ of ours take advantage again both of our data products on-prem as well as some o
 our Azure services in terms of running their SaaS service.
 And collectively, all these customers are driving huge amounts of adoption. We've
 got more than 120,000 new customer subscriptions being created every month,
-about 1.6 million production database is now being hosted in Azure alone, moreFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Q - Karl Keirstead
+about 1.6 million production database is now being hosted in Azure alone, moreQ - Karl Keirstead
 A - Scott Guthriethan 2 trillion IoT messages each week, more than 5 million organizations that have
 sunk their identity server and integrated their user employee security as part of our
 cloud, 4 million developers. And the thing we always like to emphasize is as much as
@@ -200,9 +192,7 @@ see, I would say in particular last 12 to 18 months more traditional IT organiza
 starting to move and plan. And so that we are starting to see that now, which I think
 is new in the last two to three years versus where we were earlier. But I'd say still the
 majority of the usage, in particular, the biggest growth is often around those net new
-scenarios.FINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15Q - Karl Keirstead
+scenarios.Q - Karl Keirstead
 A - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrie
@@ -246,9 +236,7 @@ and billions of dollars a year, building out data centers, buying private fiber,
 servers. And that immediately creates a pretty big barrier to the market. The second
 thing you need to have is thousands of engineers that can write distributed systems
 code. You can't just buy into this market, because none of the servers that we use
-now are off the shelf servers.FINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Q - Karl Keirstead
+now are off the shelf servers.Q - Karl Keirstead
 A - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrie
@@ -292,9 +280,7 @@ able to have a human on the end of the line who will pick up the phone. That end
 of being kind of a non-starter for that conversation. And so I do think that they're
 going to struggle a little bit certainly over the next couple of years in terms of
 building up that enterprise credibility and being able to get to that point.
-FINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15A - Scott Guthrie
+A - Scott Guthrie
 Q - Karl KeirsteadMake sense. So if there are two vendors on the right side of that moat, yourself and
 the other little company in Seattle, it's maybe an unfair question because this as we
 just described earlier, the TAM is so enormous that there's going to be room for two
@@ -337,9 +323,7 @@ customer target which is enterprises and the ISVs targeting enterprises is sort 
 maybe the center of our bulls eye.
 
 That makes sense. And Scott, I think another question a lot of investors have is, when
-they hear about a market emerging where there's massive CapEx, there's only two orFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15A - Scott Guthrie
+they hear about a market emerging where there's massive CapEx, there's only two orA - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrie
 Q - Karl Keirsteadthree viable vendors, one could be led to a conclusion that we're into a sort of a race
@@ -383,9 +367,7 @@ unit costs. So you could pass on those savings to your clients. So you touched o
 little bit with respect to your comment that Microsoft is leaning a little bit more to
 custom and ODM versus off-the-shelf. But can you elaborate on the other things that
 Microsoft is doing in its cloud infrastructures to get leaner, meaner cheaper so that
-you can pass those savings on to your clients.FINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15A - Scott Guthrie
+you can pass those savings on to your clients.A - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrie
 Yes. You'll see, you'll see some announcements later this month at our Ignite
@@ -428,9 +410,7 @@ hey, use my stuff and you'll be perfectly secure, then run away from because you
 don't get security or they're lying. And we often when we talk to our customers say,
 there is multiple layers of security that we need to worry about.
 There's -- our responsibility, which is how do we run the infrastructure and how we
-provide a cloud environment, where we do everything we possibly can to make sureFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15Q - Karl Keirsteadit's secure. And that the core capabilities there are secure. Then also there's
+provide a cloud environment, where we do everything we possibly can to make sureQ - Karl Keirsteadit's secure. And that the core capabilities there are secure. Then also there's
 responsibility for their customer, which is at their code level is they're building their
 application. How do they do responsibility to make sure they also invest in the
 security of their app and how can we provide for them features and services that can
@@ -475,9 +455,7 @@ been scaling. Your on-prem server product business has actually been hanging in
 there like champ. That's not the case for a lot of other large technology firms that
 have seen great cloud growth. But their on-prem business is actually in steady decel,
 yours is still growing. So can you talk a little bit about that and how long that can
-last?FINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15A - Scott Guthrie
+last?A - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrie
 I think there is -- we've seen our on-prem business stay pretty healthy, despite a lot
@@ -521,9 +499,7 @@ developer space, which I think it has been great from a revenue. But from a usag
 perspective it's kind of been roughly ﬂat for a couple years -- going back a couple of
 years. And we've seen now our actual number of developers using the Visual Studio
 family of products more than doubled in the last 18 months and we're reaching now
-new developers doing Mac development, doing iOS development, doing AndroidFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15Q - Karl Keirstead
+new developers doing Mac development, doing iOS development, doing AndroidQ - Karl Keirstead
 A - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrie
@@ -567,9 +543,7 @@ lighter weight OS? Maybe you could offer some comments on the Windows server
 part of your business.
 
 Yes in terms of, that has, that is an important part of our portfolio today. And the
-other thing that we've been hard to work on and have a really great product comingFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15Q - Karl Keirstead
+other thing that we've been hard to work on and have a really great product comingQ - Karl Keirstead
 A - Scott Guthrie
 Q - Karl Keirstead
 A - Scott Guthrieout later this month is our Windows Server 2016 release. And that is specifically
@@ -613,9 +587,7 @@ CRM in particular enterprises are sweet spot. Other parts of the Dynamics, this
 maybe a little bit more mid-market in European states. But in particular for customer
 engagement solutions, I think we've got a very strong enterprise product and we are
 growing very, very fast. I think we've kind of talked about the cloud growth that
-we've had, obviously with Azure and Oﬃce 365. Dynamics has been on an absoluteFINAL TRANSCRIPT 2016-09-13
-Microsoft Corp (MSFT US Equity)
-Page 15 of 15Q - Karl Keirstead
+we've had, obviously with Azure and Oﬃce 365. Dynamics has been on an absoluteQ - Karl Keirstead
 A - Scott Guthrietear as well. And we see a huge upside with that and the exciting part -- we
 announced plans to acquire LinkedIn, it's not complete yet. So kind of all the
 standard caveat there. But the other interesting thing, assuming regulatory approval.

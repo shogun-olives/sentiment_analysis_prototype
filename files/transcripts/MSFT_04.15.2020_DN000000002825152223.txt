@@ -24,9 +24,7 @@ and response. So we've been around from 2009, and these are our product suites
 that we produce.
 In terms of the topic in hand today, like you brought up Anurag, hundreds of millions
 of people are now working from home as a result of ongoing COVID-19 outbreak.
-Now the challenges that we see is number one, the VPN, remote access, Cloud andFINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13Anurag Rana
+Now the challenges that we see is number one, the VPN, remote access, Cloud andAnurag Rana
 Nanda SanthanaBYOD devices are opened up overnight for employees and contractors, right.
 Especially, VPN and collaboration tools are pushed to their maximum bandwidth.
 What that basically means is we have kids at home. There is a lot of virtual schooling
@@ -65,9 +63,7 @@ employees' contractors, we also put them in the attackers' bracket, because to u
 damage -- cybersecurity damage done to an organization whether it's by an
 adversary outside or by your own employees or contractors, in some scenarios, we
 even saw terminated employees. Essentially that's what constitutes towards this
-entire metrics that we are starting to gather across our engagements.FINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13Now, to your second question, if I break this thing down. I think the key things that
+entire metrics that we are starting to gather across our engagements.Now, to your second question, if I break this thing down. I think the key things that
 we see here is, for some reason, I think the PDF when this entire excel spreadsheet
 got converted into a PDF, it lost the metrics, but I can speak through this. The biggest
 challenge that we see is, we see a ton of phishing campaigns, that's on the rise for
@@ -112,9 +108,7 @@ Zoom attacks. I think this is something that I definitely want to double-click o
 move along. Everybody is using Zoom today and I think, while Zoom starting to
 address some of the security concerns, what we have seen already is there is a lot of
 automated tools that can actually find your meeting IDs and a lot of academia, a lot
-of virtual schooling have been hacked via this method, folks have joined randomFINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13meetings, lot of privacy concerns have started to showing up, and most importantly,
+of virtual schooling have been hacked via this method, folks have joined randommeetings, lot of privacy concerns have started to showing up, and most importantly,
 when we have been doing some research in dark web, we see close to 500,000
 accounts that are on the dark web. So there are some recommendations that I'll
 follow through in the end and how to basically make sure that you don't become a
@@ -156,9 +150,7 @@ plot, a plot that's much thicker that it directly attack you, pay me a ransom an
 release your computer back to you, those days are behind us. And to that extent, in
 one particular scenario, there is a weaponized document again, it actually runs a lot
 of malicious process and these processes are connecting across different parts and it
-was kind of interesting to see how this phishing campaigns turned out.FINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13The last thing that I'll -- couple of things that I want to touch on in cybersecurity
+was kind of interesting to see how this phishing campaigns turned out.The last thing that I'll -- couple of things that I want to touch on in cybersecurity
 space when we talk about bad things, when we talk about attackers or hackers, we
 often associate them to a malware group. We often associate them to an hacktivist,
 right. What we don't see is the possible damage that an insider and insider is
@@ -203,9 +195,7 @@ way of doing business is different right now. Users and their laptops, the new
 perimeter, because what used to be inside the organization, which is employees,
 which is contractors, now we are all outside, we're working from home. I think the
 boundaries that we know off is completely stretched out, so the new perimeter is
-users and their laptops, and because some folks are also using their BYOD which isFINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13Bring Your Own Device, they're using their personal devices to connect the
+users and their laptops, and because some folks are also using their BYOD which isBring Your Own Device, they're using their personal devices to connect the
 corporate network.
 The first thing that I'll talk about is, I think the traditional way of monitoring needs to
 change, we need to monitor a user behavior monitoring because whether it's a
@@ -247,9 +237,7 @@ actually who that person is claiming to be who that person is. So some sort of
 multiple response framework is absolutely required, so that they don't fall for these
 scammers.
 And but -- last but not the least, the confidential data is still confidential. Today folks
-are taking some of these documents out. The reasons are justified. BandwidthFINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13Q - Anurag Rana
+are taking some of these documents out. The reasons are justified. BandwidthQ - Anurag Rana
 A - Nanda Santhana
 Q - Anurag Ranagetting clogged up, data loss, whatnot. But once this whole pandemic is gone. How
 do we have an inventory of all these documents that have gone out, and I think this
@@ -291,9 +279,7 @@ they both have been home schooling, they need to have multiple laptops. So in
 some organizations, we also see these users disabling all the security controls on a
 corporate issued laptop which is actually adding on more pressure, more
 vulnerabilities in some of these scenarios.
-FINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13A - Nanda Santhana
+A - Nanda Santhana
 Q - Anurag RanaNow that makes a lot of sense. So now let's talk a little bit about the pre-COVID
 world and the post COVID world. Now when we looked at security, security products
 in a pre-COVID world, we -- one of the things we observed was why is it that the
@@ -338,9 +324,7 @@ So perhaps explain to me that, I mean I understand that larger companies that th
 are very diﬃcult to move some of the critical applications. But if I'm a small to mid-
 sized company, why don't I just go to AWS and Microsoft and just move everything
 to them and let them worry about so many of these things and get out of this
-heterogeneous IT infrastructure that I have and let them worry about spending onFINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13A - Nanda Santhana
+heterogeneous IT infrastructure that I have and let them worry about spending onA - Nanda Santhana
 Q - Anurag Rana
 A - Nanda Santhanasecurity and not me. How do you -- will that help or even with those companies that
 are risks involved?
@@ -383,9 +367,7 @@ you brought up, Anurag, which is privacy is a main driver. And so for which what
 they're trying to do is they're trying to see if they can do some sort of an analytical
 work on the cloud or any point computation work on the cloud which is what some
 of these vendors really specialize in. And they want to see if they can have the data
-in-house within their data center, because privacy is still a big question mark. All ofFINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13Q - Anurag Rana
+in-house within their data center, because privacy is still a big question mark. All ofQ - Anurag Rana
 A - Nanda Santhana
 Q - Anurag Rana
 A - Nanda Santhanathese evolution in cloud just happened in the last five to six years. Only now things
@@ -426,9 +408,7 @@ big rise in managed security service providers, definitely times like this right
 That's good. You did bring up a couple of verticals in between, is there any of the
 sense you're seeing over the last few months or even over the past few weeks,
 industries or verticals that are spending more on security products now that they did,
-let's say, a couple of years ago? Are there any industries that came back to you?FINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13Q - Anurag Rana
+let's say, a couple of years ago? Are there any industries that came back to you?Q - Anurag Rana
 A - Nanda SanthanaYeah, for sure. Prior to the COVID-19, the financial institutions were always the first
 adopters, if you will. Now post the COVID-19 what we see is in the space, the life
 sciences, especially the healthcare teams, they are forced to invest the lot. And I'll tell
@@ -472,9 +452,7 @@ solutions are focused in patching the vulnerabilities. The key challenge is not 
 actually patching goes vulnerability, in identifying them and that's why it's called a
 Zero-day vulnerability, meaning, nobody else has discovered that. That's the
 challenge. And as long as that challenge exists, taking humans out and taking
-cybersecurity professionals out is going to be a challenge, I don't know, for sure.FINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13Q - Anurag Rana
+cybersecurity professionals out is going to be a challenge, I don't know, for sure.Q - Anurag Rana
 A - Nanda Santhana
 Q - Anurag Rana
 A - Nanda Santhana
@@ -517,9 +495,7 @@ No. I think, first of all, thank you for having me in this webinar. I definitely
 thank all the front-line heroes. I hope everybody is safe at home. First outside of the
 digital world there -- washing their hands and making sure that they're continuing to
 do whatever the CDC is advising them to do. And big thanks to, like I said, the front-
-line heroes. I also want to thank Bloomberg for this opportunity for inviting me here.FINAL TRANSCRIPT 2020-04-15
-Microsoft Corp (MSFT US Equity)
-Page 13 of 13Q - Anurag Rana
+line heroes. I also want to thank Bloomberg for this opportunity for inviting me here.Q - Anurag Rana
 A - Nanda SanthanaSome of the threats that we are seeing is absolutely real, and from Securonix
 standpoint, we now have ready to go packages that we are ready to offer to a lot of
 our customers and prospects, and we would love for them to take advantage of it.

@@ -20,9 +20,7 @@ about both the reception from reviewers as well as from the overall gamers. As
 mentioned, there is an increase in terms of performance just in less than a year from
 the original cards that we came out for the overall ray tracing Turing architecture. It
 allows people to continue to enjoy what we believe is the snowballing effect of ray
-tracing in the overall industry.FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12Atif Malik
+tracing in the overall industry.Atif Malik
 Colette Kress
 Atif Malik
 Colette KressWe have now a significant amount of ecosystem partners, all of the game
@@ -64,9 +62,7 @@ gaming. We have this opportunity to take ray tracing also to a key part of our
 enterprise customers and also key important part in terms of what we refer to as the
 prosumer. When we think about one of the largest markets that we're focused on
 leading into the second half of the year is our focus in terms of mobility and our
-focus in terms of ray tracing laptops. Beginning early in terms of CES, we had startedFINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Atif Malik
+focus in terms of ray tracing laptops. Beginning early in terms of CES, we had startedAtif Malik
 Colette Kress
 Atif Malik
 Colette Kressthe launching of specific gaming laptops for this overall market featuring overall ray
@@ -107,9 +103,7 @@ looking for, the reliability. Cloud gaming really allows us to open up to a mark
 we have not been exposed to in the past, exposed to people that don't have the
 opportunity to have a dedicated PC or a dedicated laptop solely to just overall
 gaming, gives them an opportunity to purchase an overall service that they can be
-with their friends, be online in overall gaming.FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12Atif Malik
+with their friends, be online in overall gaming.Atif Malik
 Colette Kress
 Atif Malik
 Colette KressIt opens up in terms of that probably already do not have access to that gaming. So
@@ -149,9 +143,7 @@ The training market is still a very important market, a very large market, and w
 here definitely in the future. We also had the opportunity to expand in an area that
 we really didn't have a presence with, as it had been focused primarily by other
 types of processors. And that is inference. Inference is an ability for us to take many
-of the learnings what we had built in terms of the training and apply it to many otherFINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Atif Malik
+of the learnings what we had built in terms of the training and apply it to many otherAtif Malik
 Colette Kress
 Atif Malik
 Colette Kressdifferent workloads that we're seeing. Much of this conversational AI will take place
@@ -190,9 +182,7 @@ Great. And then we had Intel here yesterday and they talked about strength in cl
 or hyperscale with some weakness in the enterprise segment. You mentioned GPU is
 little bit different, it's early in its adoption curve. Are you seeing weakness in
 enterprises as well?
-FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Atif Malik
+Atif Malik
 Colette Kress
 Atif Malik
 Colette KressWhat we're seeing in terms of our work, in terms of GPUs in this market. We've had
@@ -232,9 +222,7 @@ Yeah. So there's a lot of discussion about whether in this case a smaller form f
 or maybe even a smaller node change really, really inﬂuences what is necessary
 needed in the market. What we have been able to do over so many different years,
 even in this last year, you've seen us continue to improve performance with our
-overall GPUs by just concentrating on what we have available, looking at the overallFINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Atif Malik
+overall GPUs by just concentrating on what we have available, looking at the overallAtif Malik
 Colette Kress
 Atif Malik
 Colette Kress
@@ -273,9 +261,7 @@ network that is out there to how to inﬂuence overall performance and connectiv
 across many of these different workloads. It's not going to be just about a workload
 on a single server, but a workload, for example, on a super pod, a full DGX or a full
 system. So that layer of networking is going to be a key component as well.
-FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Colette Kress
+Colette Kress
 Atif Malik
 Colette Kress
 Atif Malik
@@ -316,9 +302,7 @@ now.
 
 Great. Colette, can you map for us how you expect your auto ASP opportunity to
 grow over time?
-FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Atif Malik
+Atif Malik
 Colette Kress
 Atif Malik
 Colette KressYeah, our overall ASPs in this market are largely inﬂuenced by the type of overall
@@ -358,9 +342,7 @@ see over time bringing new and new capabilities from our overall software for th
 that are possibly already in the car or already in the data center. This will again allow
 us an opportunity to continue to improve, even though we've already had the
 platform inside the car. So you'll see this more and more as we go forward of the
-importance of that software.FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Atif Malik
+importance of that software.Atif Malik
 Colette Kress
 Atif Malik
 Colette Kress
@@ -399,9 +381,7 @@ not only on the gaming, but a very important part in terms of what we're seeing 
 the enterprise.
 Everything from the overall studio line, in terms of the film industry, the design
 industry, as well as also what we're seeing in terms of AI.
-FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Colette Kress
+Colette Kress
 Atif Malik
 Colette Kress
 Atif Malik
@@ -438,9 +418,7 @@ It's a good balance for us to really understand the processes around the world i
 terms of the foundry. So we'll continue to do that going forward.
 
 Great. Let me pause here and see if there're any questions in the audience. If you
-have a question, please raise your hand. Over here.FINAL TRANSCRIPT 2019-09-05
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12Unidentified Participant
+have a question, please raise your hand. Over here.Unidentified Participant
 Colette KressThank you. Colette, when you presented during a year ago, you unveiled two
 technologies. You talked about ray tracing at the beginning, but also DLSS. Can you
 give us a little bit more color about how this technology has been making progress

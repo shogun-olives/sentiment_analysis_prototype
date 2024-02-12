@@ -27,9 +27,7 @@ both MediaTek and Intel. The whole point of the NXP transaction was to diversify
 away from handset-related sales. So auto sales where NXP is heavy was intended to
 be -- to support that trend. Apple and Samsung combined to make up roughly about
 40% of Qualcomm sales, if we include the Huawei, contract manufacturer, and they
-were trying to offset that through auto content and shipment growth.FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 2 of 16Jennifer RieIf you look at the specifics of the Apple litigation as well as the regulatory agency
+were trying to offset that through auto content and shipment growth.Jennifer RieIf you look at the specifics of the Apple litigation as well as the regulatory agency
 litigation, number one, the key point is, this is going to take years. Both from the
 Apple perspective, the Apple-Qualcomm litigation perspective, as well as the
 regulatory agency focus, it's not going to be resolved anytime soon. There might be
@@ -70,9 +68,7 @@ keep these things independent. Now, it doesn't mean that the EU couldn't conside
 the Qualcomm conduct that they're looking at in their investigation as they're by
 their quite possibly crash remedies in an NXPI deal, but in general, I don't see the
 EU's investigation of Qualcomm conduct affecting -- ultimately affecting their
-blocking the deal or affecting the outcome of that deal.FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 3 of 16Anand Srinivasan
+blocking the deal or affecting the outcome of that deal.Anand Srinivasan
 Jennifer Rie
 Anand Srinivasan
 So, what is the outcome, a potential outcome on the EU side as a result of the
@@ -111,9 +107,7 @@ Having said that, you were right, Anand, about looking at the long-term here,
 because Qualcomm does tend to fight these things, they have a lot of success when
 they fight antitrust actions. They are likely to fight this and keep fighting, and this
 could continue to drag on.
-FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 4 of 16Jennifer Rie
+Jennifer Rie
 Anand Srinivasan
 Matt LarsonSo nothing, no resolution in the near term, so from a timeline perspective, we
 shouldn't look at any of the regulatory actions from US, China or Taiwan, Korea, as
@@ -153,9 +147,7 @@ which gets incorporated into the tech that everybody is going to use, some of th
 technology is covered by patents.
 And so, as part of participating in these groups, companies agree to license their
 patents to other participants and people who use those interoperability standards
-on so-called FRAND terms. FRAND is an acronym for fair reasonable and non-FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 5 of 16Anand Srinivasandiscriminatory. It basically means that everybody agrees to license patents on what is
+on so-called FRAND terms. FRAND is an acronym for fair reasonable and non-Anand Srinivasandiscriminatory. It basically means that everybody agrees to license patents on what is
 effectively roughly the same relatively low rate, the idea is we want to promote the
 use of the standards and at the same time we want to compensate people who've
 done the R&D in order to build out the standard.
@@ -195,9 +187,7 @@ Got it. It's important to note, for those of us who have covered Qualcomm
 extensively in the past, we've seen these before, but one of the things that we have
 to remember that very often this is actually decided by a bunch of lawyers trying to
 interpret the potential technical specs of a particular design to see who has a right of
-way if you may and therefore eligible for enforcing royalty. So roughly right now,FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 6 of 16Matt Larson
+way if you may and therefore eligible for enforcing royalty. So roughly right now,Matt Larson
 Anand SrinivasanQualcomm's royalty rate on a weighted average handset basis on the devices it
 licenses is about 2.3%. It's important to note that the difference between Qualcomm
 and others, and that Qualcomm -- Qualcomm's royalty fees are based with cap
@@ -237,9 +227,7 @@ We did some back of the envelope Matt and we came up at in the low two's as a
 weighted average handset, royalty that Hon Hai pays Qualcomm. But what's -- is
 there any precedent with respect to rates, what's -- what is an acceptable royalty rate
 in such a sort of a scenario? Is zero the best rate that Apple is going forward? And
-any precedent here would be helpful.FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 7 of 16Matt Larson
+any precedent here would be helpful.Matt Larson
 Anand Srinivasan
 Matt Larson
 Yeah. There are a couple of decisions to take a look at. As Anand mentioned earlier,
@@ -279,9 +267,7 @@ language is interpreted. There is language about the royalty. The appropriate ro
 is the smallest salable unit. And so, Apple commonly interprets that, as well the
 smallest salable unit is the chips. So royalty should be based on the chip, whereas
 practice in FC and among most companies has been, you know, the royalty base is
-the handset, it's not the tiny chip, it's a larger value. So there's a little bit of that legalFINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 8 of 16Anand Srinivasan
+the handset, it's not the tiny chip, it's a larger value. So there's a little bit of that legalAnand Srinivasan
 Matt Larson
 Anand Srinivasan
 Jennifer Rietheme that's playing out here, Apple is trying to minimize royalties and Qualcomm is
@@ -321,9 +307,7 @@ Qualcomm, which is sort of related -- the issues are related to those in the App
 lawsuit that Matt just talked about. It's related to the way that Qualcomm has
 licensed its standard essential patents, and a 2007 agreement with Apple. That
 lawsuit has -- there is some controversy around that lawsuit right now in the timing,
-because it's an FTC lawsuit, and the commissioners vote to bring those suits and atFINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 9 of 16Anand Srinivasanthe time they voted, there were three commissioners, and it was a two to one vote,
+because it's an FTC lawsuit, and the commissioners vote to bring those suits and atAnand Srinivasanthe time they voted, there were three commissioners, and it was a two to one vote,
 need to be a majority vote to bring a suit.
 One has left and we have two commissioners left, and of the one -- one of the
 commissioners left was quite against opposed to bringing the suit. She actually
@@ -364,9 +348,7 @@ formalized in the next month, and there seem to be some news, if that is imminen
 think they have a great chance of getting that close and meeting the deadline.
 
 Got it. So again to recap, just from an equity analyst perspective not being a lawyer
-by trade, 34 private cases consolidated hearing was a couple of days ago and theFINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 10 of 16Jennifer Rie
+by trade, 34 private cases consolidated hearing was a couple of days ago and theJennifer Rie
 Anand Srinivasandecision on that will be in four weeks.
 
 Right now, let me just clarify, the hearing is about whether all those cases should be
@@ -406,9 +388,7 @@ won't everyone else wanted. And if you look at that, if it is substantial, if it
 substantial and everybody else can and does partake of it, that's when you have a
 substantial hit to the royalty model at Qualcomm. And that's when earnings power
 really comes down in fiscal '18. That is a scenario that most people are worried about
-and justifiably so.FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 11 of 16Jennifer Rie
+and justifiably so.Jennifer Rie
 Anand Srinivasan
 Jennifer RieBut they've done this in the past with the NDRC when royalty rates were reduced
 Qualcomm did in fact appeal or approach all of its customers saying, hey, this is the
@@ -446,9 +426,7 @@ So I think possibly eight to nine months from let's say November 1st, 2016.
 
 Got it. And then I remember that Qualcomm has said that their expectation is --
 
-End of '17.FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 12 of 16Anand Srinivasan
+End of '17.Anand Srinivasan
 Jennifer Rie
 Anand Srinivasan
 Jennifer Rie
@@ -486,9 +464,7 @@ that those royalty schemes would change unless there has been a material impact
 from a litigation perspective.
 And then, Matt Larson, have you seen this before where there is an interim change as
 a result of a regulatory review or -- I mean some litigation from another OEM?
-FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 13 of 16Anand SrinivasanYeah, yeah. We've definitely seen that. Let me answer in two parts. Kind of
+Anand SrinivasanYeah, yeah. We've definitely seen that. Let me answer in two parts. Kind of
 piggybacking off of on response for when do people start to renegotiate their rates.
 Licenses typically last anywhere from three to seven years. So, thinking about
 individual licenses, three to seven years with the skew to a three to five year term is
@@ -527,9 +503,7 @@ so far as wanting to make its own chips.
 You can see a runway where it wants to take in more and more in-sourcing, the move
 from Qualcomm, partially to Intel demonstrates that, so this could all be prep ahead
 of the 5G window. So in the 5G timing 2020, 2021, it could be very, very interesting.
-So, that's another data point that you might want to consider. When --FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 14 of 16Matt Larson
+So, that's another data point that you might want to consider. When --Matt Larson
 Anand SrinivasanSo can you please -- here's another question. Can you please clarify whether
 Qualcomm is more negotiating power with OEMs who are making handsets to be
 shipped out of China or those that build are sold within China? So if you look at the
@@ -569,9 +543,7 @@ I'll add that to cover Anand's comments.
 
 Got it. Thanks. And we have another question as it does in the large number of
 Chinese licensees calculate on the value of the device, service, strong precedent of
-the Apple lawsuit. And the answer is, yes. And remember, that everybody there wasFINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 15 of 16Matt Larson
+the Apple lawsuit. And the answer is, yes. And remember, that everybody there wasMatt Larson
 Anand Srinivasanoffered a China NDRC deal, but many of the handset makers they are making
 product not only for consumption in China but for consumption overseas. So, the
 NDRC doesn't necessarily have the purview to address that.
@@ -610,9 +582,7 @@ licensing agreements from pretty much everybody in the industry, sort of the jud
 to compare and see where these FRAND rates are lining up.
 So that's a long answer but short term yeah, I think that the Chinese licenses will bear
 pretty heavily in the dispute.
-FINAL TRANSCRIPT 2017-04-03
-Apple Inc (AAPL US Equity)
-Page 16 of 16Got it. Thank you, Matt. Again another seamless plug here for Bloomberg
+Got it. Thank you, Matt. Again another seamless plug here for Bloomberg
 Intelligence. You can see the diversity of our research and the different kinds of
 people bring into the equation when looking at a situation like this. Matt Larson is an
 intellectual property attorney, Jen Rie is an Antitrust lawyer by training and by

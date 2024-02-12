@@ -16,9 +16,7 @@ Yes. So this is actually our first in-person conference after three years. So it
 
 It's my first conference in three years. That's a lot of you.
 Questions And Answers
-FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13A - Jensen Huang(Question And Answer)
+A - Jensen Huang(Question And Answer)
 Yes. So maybe, Jensen, let's start with the high level. So in the field of AI, why is it an
 important problem to solve? Why is it a hard problem to solve? And why do you
 think the GPU is the right way to solve it? Because we see a number of other
@@ -58,9 +56,7 @@ create some model from it, predictive model from it. And this AI has the ability
 into that data and figure out what are the predictive features, a predictive feature so
 you guys know, no different than an equation of -- a force and you know that mass
 and acceleration are predictive features. It's no different than Maxwell's equation has
-predictive features.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Inside your company, there's a whole bunch of data, and there's no way for you to
+predictive features.Inside your company, there's a whole bunch of data, and there's no way for you to
 figure out what the predictive features are. Finally, machine learning comes along
 and it figures out what the predictive features are all by itself. And it could create a
 model that could then make predictions from. So information automation.
@@ -100,9 +96,7 @@ another pixel, computer vision. It could be over time, one sound versus another
 sound, speech recognition. Or it could be over time and space, video. And so the
 finding relationship across -- and it could be in the frequency domain, for example,
 FFTs. It could be in physical domains. It could be information spatial domains. And
-so, there's a lot of different dimensions that you could learn from.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13So I think the first part is you have to create a computer that can suﬃciently learn
+so, there's a lot of different dimensions that you could learn from.So I think the first part is you have to create a computer that can suﬃciently learn
 from the data that it's presented, all these different types of data that's presented a
 predictive model. That piece of software, so that it can learn from the data because it
 could be -- the number of predictive features could be in the hundreds of millions,
@@ -142,9 +136,7 @@ be clicking once every second. In computer time, that's a very long time. On the
 other hand, you have an edge device like a self-driving car that has to make
 predictions in completely real time. If it doesn't make a prediction in real time all the
 time, something terrible could happen. And so I've just described the two ends and
-how the computing model is radically different.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13And then lastly, why GPUs? There's several reasons why NVIDIA GPUs. First of all,
+how the computing model is radically different.And then lastly, why GPUs? There's several reasons why NVIDIA GPUs. First of all,
 NVIDIA's GPU is not a graphics chip. About 20 years ago, we started the journey of
 making it a general-purpose parallel accelerator. And the parallel accelerator
 created -- we created a new programming model called CUDA, which is the most
@@ -186,9 +178,7 @@ the system software to the compilers, graph analyzers and graph optimizers, all 
 way up to the algorithms itself. And so I think the answer to your incredibly hard
 question is that machine learning is the most impactful computing science problem
 that we've ever challenged. It has tremendous and profound impact on all the
-industries that we've mentioned. But you can't do that by just designing a chip. YouFINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Q - Vivek Arya
+industries that we've mentioned. But you can't do that by just designing a chip. YouQ - Vivek Arya
 A - Jensen Huang
 Q - Vivek Arya
 A - Jensen Huanghave to do -- you can only do this well by reinventing the whole computing science
@@ -231,9 +221,7 @@ In fact, if you look at one of the most popular applications in the world and
 potentially the most disruptive new Internet application in the world, TikTok. There is
 a factory that is refining the AI model continuously. It's gigantic, utterly gigantic,
 potentially one of the largest data centers in the world. We're building many, many
-of those all over the world. In my opinion, there are 115,000 large factories ofFINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Q - Vivek Arya
+of those all over the world. In my opinion, there are 115,000 large factories ofQ - Vivek Arya
 A - Jensen Huangtraditional industrial revolution times. Now you're going to see 150,000 giant
 factories, and their job is just to refine data, create models, AI factories. We're in the
 beginning part of that.
@@ -273,9 +261,7 @@ to healthcare or life sciences, physical sciences, astrophysics to weather simul
 And so the tail of algorithms is really, really long, thousands of applications. And
 that's why for certain supercomputing centers, you can move fast because they're
 pioneering ones. For the vast majority of the Top 500, it takes a long time. And we've
-been at it for 15 years, right? And so now after 15 years, we're at 80%.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Now in the case of hyperscalers, that's a little faster. I think that every single
+been at it for 15 years, right? And so now after 15 years, we're at 80%.Now in the case of hyperscalers, that's a little faster. I think that every single
 hyperscaler will be GPU-accelerated or will have some kind of accelerator in their
 computers. And the reason for that is because the vast majority of the hyperscalers
 write their own software. And we contribute a lot of software to open source. We
@@ -317,9 +303,7 @@ Vivek. But here's my prediction, I predict that you'll have data retrieval syste
 your company, and they'll continue to be enterprise data centers like today. But
 every single company, ours has and every other company will too, will want to invest
 in an intelligence generation data center. And that intelligence data center will be
-100% GPU-accelerated.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13Q - Vivek Arya
+100% GPU-accelerated.Q - Vivek Arya
 A - Jensen Huang
 Jensen, what do you see as the next phase for NVIDIA? Because at the last GTC,
 right, and other events, you have described the move into software and
@@ -359,9 +343,7 @@ automation, but also build a foundation for the largest of all the opportunities
 I think is going to be industrial automation and putting AI literally everywhere. And
 so everything that moves will be automated. There's no question about it. It will be
 safer. It will be easier to manage. And so the thing that we're working on now which
-is related to Omniverse is that.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13Q - Vivek Arya
+is related to Omniverse is that.Q - Vivek Arya
 A - Jensen HuangWe also want to make it possible for companies, whether they have internal
 computer science organizations and IT organization, large engineering organizations
 like clouds or enterprise, to be able to adopt AI inside the company the way we
@@ -404,9 +386,7 @@ an impact on our consumer product -- consumer gaming business. It's impacted our
 Q2 by about $400 million. China is a significant market. Russia is a meaningful
 market for our gaming business. However, gaming remains solid even in the face of
 China and Russia. Q1 sell-through was -- grew year-over-year over last year, which
-was a really fantastic year. And so gaming sell-through remains solid.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Vivek Arya
+was a really fantastic year. And so gaming sell-through remains solid.Q - Vivek Arya
 A - Jensen Huang
 Q - Vivek Arya
 A - Jensen HuangWe are working on the single-greatest opportunity in the history of computing.
@@ -446,9 +426,7 @@ chips, Wi-Fi chips, USB chips, if we're a component maker, a chip maker, it does
 matter at all that we have software. It doesn't matter at all that we are full stack. And
 the reason for that is because it's industry standard, and Wi-Fi is Wi-Fi, 802.11, right?
 Video chip, AV1. And so you name it, okay, USB 3. So industry standard is industry
-standard. X86 is an industry standard.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13Q - Vivek AryaIf you build an ARM SoC for mobile devices and embedded systems, you're good to
+standard. X86 is an industry standard.Q - Vivek AryaIf you build an ARM SoC for mobile devices and embedded systems, you're good to
 go. The ecosystem is there. However, if you want to build a new chip or a new market
 that, that architecture has never been, you have no hope without an ecosystem. And
 so that's number one. If you build an ARM chip for data centers, you have no hope
@@ -488,7 +466,5 @@ automation and AI and things like that, in each one these, we create the whole s
 so that we can open markets. And those markets are important. We're really
 passionate about it. We're very good at it, and that's what really makes our company
 special.
-FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13Great. Terrific. Thank you, Jensen. Really appreciate your time. Really appreciate your
+Great. Terrific. Thank you, Jensen. Really appreciate your time. Really appreciate your
 insights. Thanks, everyone, for coming.

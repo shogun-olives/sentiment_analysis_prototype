@@ -11,9 +11,7 @@ Questions And Answers
 (Question And Answer)
 Great to have you back here. Maybe you could just brieﬂy introduce yourself and
 describe some of the teams and some of the products that you oversee within your
-role and maybe size that business for us.FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 2 of 12Q - Mark Murphy
+role and maybe size that business for us.Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'HaraSure. So I'm the CFO for the Commercial business, and sometimes people ask me,
@@ -56,9 +54,7 @@ products are going to blow people's minds, by some of the people that have been
 in the private previews. Where do you think we're going to see the greatest AI value
 creation among all of these products?
 Yes. I mean, blow their minds is always an interpretive thing, but I do think they're
-very impressive. And to me, having been there watching them be developed to --FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 3 of 12Q - Mark Murphy
+very impressive. And to me, having been there watching them be developed to --Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphyamazing thing to me is the speed with which they were developed. So when we
 started out with OpenAI, the logical place to start was with being, for all the reasons
@@ -98,9 +94,7 @@ up in others and others will just be services on demand.
 Okay. So it's a pretty broad range. The other question we tend to get very frequently
 from the investors is what is this upfront investment profile going to look like? First
 you have to train these large language models, right? And then you're going to bear
-the cost of actually operating them as you embed them into all these products. HowFINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 4 of 12A - Dave O'Hara
+the cost of actually operating them as you embed them into all these products. HowA - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
@@ -140,9 +134,7 @@ think everybody is going in with an open mind that we need to make sure that we
 have some guardrails on how we think about growing the business.
 With regard to hallucinations, et cetera, we're all very aware, we want to eliminate
 that to the degree possible at all. And so we're very focused on that. And then from
-an responsible AI perspective, making sure we're managing people's data, makingFINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 5 of 12Q - Mark Murphy
+an responsible AI perspective, making sure we're managing people's data, makingQ - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Harasure we're abiding by our privacy regulations, making sure that we're doing things
@@ -184,9 +176,7 @@ better products. So there's a lot of goodness that comes with it.
 
 Yes. Yes. And especially in Oﬃce, you have the potential to get this out there in front
 of we could dream the dream of putting this in front of 1 billion people pretty rapidly,
-right?FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 6 of 12Q - Mark Murphy
+right?Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Hara
@@ -228,9 +218,7 @@ some combining here and extrapolate that a bit? Is it logical to conclude that A
 services are going to become a pretty meaningful boost to Azure growth if we're
 looking out, let's say, 12 to 24 months? So in other words, could this where it's
 actually contributing 2, 3, 4, 5 points of growth and is truly moving the needle for
-Azure?FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 7 of 12A - Dave O'Hara
+Azure?A - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
@@ -271,9 +259,7 @@ It's a good trend to have.
 
 Yes . Okay. Let's switch gears a bit and talk about Oﬃce. So by our estimates, this is
 approaching $50 billion in revenue. This is a massive business, even out of the $150
-billion that you're responsible for. The O365 Commercial is the bulk of that. AndFINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 8 of 12A - Dave O'Hara
+billion that you're responsible for. The O365 Commercial is the bulk of that. AndA - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
@@ -312,9 +298,7 @@ good runway in all those growth opportunities as we move forward.
 And I want to try to drill into, you're hinting at the algorithm there, right? The growth
 algorithm on the Oﬃce side. So as we drilled into that to that 18% growth for Oﬃce
 365, seats grew 11%, and then ARPU would have driven something like six or seven
-points on top of that. And then you mentioned some of the ARPU drivers, right, E5 isFINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 9 of 12A - Dave O'Hara
+points on top of that. And then you mentioned some of the ARPU drivers, right, E5 isA - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphya big one. There were some pricing changes. Maybe you're going to have some
@@ -356,9 +340,7 @@ they can get it. I think that ﬂexibility adds a lot of value, too. But I do th
 above maybe all others will just continue to see growth as long as there's threats in
 the world, I think security will be a growing market.
 
-Above maybe all others.FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 10 of 12A - Dave O'Hara
+Above maybe all others.A - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'Hara
 Q - Mark Murphy
@@ -398,9 +380,7 @@ do to increase productivity is going to help. And so I think GitHub just got at 
 forefront of that. Again, these things -- when you're not sort of in the middle of it, it
 seems like it just showed up and we've been working on GitHub Copilot for several
 years, and I feel like now it's just sort of manifesting itself.
-FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 11 of 12A - Dave O'Hara
+A - Dave O'Hara
 Q - Mark Murphy
 A - Dave O'HaraYes. It was. Again, we were hearing about it 18 months ago and so I'm sure it was
 making a difference then. I'm sure you had been developing it for a while. Okay. So
@@ -442,9 +422,7 @@ prevalence or the introduction of apps that were smaller and more functional and
 very pointed. Two is, we did focus a lot on ease-of-use there. We just really had to
 get it so that people felt comfortable using it. And that they felt like it's applicable.
 Then three is we just had to get the pricing and packaging right, which we worked
-hard on that too.FINAL TRANSCRIPT 2023-05-23
-Microsoft Corp (MSFT US Equity)
-Page 12 of 12Q - Mark Murphy
+hard on that too.Q - Mark Murphy
 A - Dave O'HaraSo it's sort of all three had to come together. Like if there wasn't -- we were still just
 writing big long software packages, Power Apps wouldn't have any applicability, but
 these micro apps make it applicable. And we made it easy to use. And I think we've

@@ -19,9 +19,7 @@ And one of the toughest environments for mobile. I think at this point last year
 year versus now, I mean, we started last year with a ﬂood in Thailand. We had supply
 issues with our 28-nanometer with TSMC. The Android market was in a -- had a very
 rough start, I would say. So at that time, there really wasn't a low-price point, $199, for
-a quad-core tablet. And all those things, basically, developed over the year.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 16So I think we're very proud. We're very proud that we were able to execute through
+a quad-core tablet. And all those things, basically, developed over the year.So I think we're very proud. We're very proud that we were able to execute through
 that. I think one of the things that we don't often do and we'd like to do is to just
 highlight and showcase the fact that we've been executing pretty well through some
 pretty tough headwinds over the last four years.
@@ -60,9 +58,7 @@ on April 11th.
 And of course, in terms of our core business, I would say for this year the status of
 our business going forward to this year, I think we have Kepler this year, PC gaming
 continues to be strong and robust, I think notebook, the notebook market we see as
-declining. But we're looking forward to another year of good share on notebook.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 16Q - Joe Moore
+declining. But we're looking forward to another year of good share on notebook.Q - Joe Moore
 A - Rob CsongorThe Quadro business, which had declined last year some amount, is finally
 transitioning to Kepler. So you may noted in Q4 that our Quadro business was up
 10% after several quarters of relative weakness.
@@ -97,9 +93,7 @@ this year.
 Now, having said that. And people always ask about AMD, we've been telling people
 that AMD doesn't -- AMD is there. And we expect them to fight just as hard as they
 ever have. So as far as we're concerned, we said it last year and we said it -- we're
-saying it this year, we expect nothing different, nothing different.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 16Q - Joe Moore
+saying it this year, we expect nothing different, nothing different.Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
@@ -141,9 +135,7 @@ And so, we know that there's lots of questions about these new businesses.
 Sometimes it's better for us to get -- make a little headway into the market, establish
 some customers and stuff, before we roll it out to you guys and say, hey, guess what
 we think.
-FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 16A - Rob Csongor
+A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
@@ -180,9 +172,7 @@ competitive.
 
 But you have announced partners. And they're interesting partners, because they're
 actually working with carriers on actual implementations, right?
-FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 16Q - Joe Moore
+Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
@@ -220,9 +210,7 @@ offering modem support, basically, as a family plan thing. You basically throw i
 opposed to you get a new bill every month now.
 So let's see, what else? Well we were talking about the idea of --?
 
-Yes, I mean, it's worth noting just how high your market share was and how last year.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 16A - Rob Csongor
+Yes, I mean, it's worth noting just how high your market share was and how last year.A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
@@ -261,9 +249,7 @@ year as you get closer to production.
 Then, the big news, obviously, for us this week is the Tegra 4i.
 
 Right.
-FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 16Q - Joe Moore
+Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
@@ -301,9 +287,7 @@ They have 95 different carrier qualifications in a large number of countries. So
 they're very, very familiar with the process and this is not their first modem.
 
 Okay.
-FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 16Q - Joe Moore
+Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
@@ -341,9 +325,7 @@ Yes.
 Which was the data modem qual.
 
 And is the voice qualification, does that take longer, or is it harder to get carriers
-comfortable with that?FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 16A - Rob Csongor
+comfortable with that?A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
@@ -381,9 +363,7 @@ just tell us your view of what this is?
 Yes. That's because your email just that we just kind of super-glued the two of them
 together and that's it. It's just -- I was never going to show --
 
-No harm --FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 16A - Rob Csongor
+No harm --A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
 I was never going to show our engineering department your email, because it would
@@ -420,9 +400,7 @@ firms look at it, they -- anything above, like, $200, $299, is a super phone. We
 address that with our discrete GPU. But the large segment of the market that we
 believe is opening up for us now is that $99 to $199 range of the market, which is not
 quite at the low end, the low end that's kind of currently addressed by companies
-like MediaTek. But the $99 to $199. And at that segment, it's us and Qualcomm.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 16Q - Joe Moore
+like MediaTek. But the $99 to $199. And at that segment, it's us and Qualcomm.Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
 Q - Unidentified Participant
@@ -458,9 +436,7 @@ our time to do this.
 So I think, in general, if you look at our profile, OpEx as a percentage of revenue, I
 think over the last four years you'd see that we're pretty consistently right around
 31%. But during that time, we've grown our operating income considerably. So
-operating income four years ago was at -- OpEx was 31% as a percentage of revenue.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 16Q - Unidentified Participant
+operating income four years ago was at -- OpEx was 31% as a percentage of revenue.Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified ParticipantBut operating income was at 8%. That grew to 20%. So we -- yes, we've spent more
 every year, in terms of a percentage of revenue, it stayed pretty ﬂat. And we've
@@ -495,9 +471,7 @@ Typically, we're going to go find a diﬃcult problem and build something very c
 to solve that problem. And it's typically very diﬃcult to do.
 So other than that, I don't -- there's just not a whole lot that we're talking about yet.
 But hopefully we will soon.
-In April, with this other stuff, would that come up or is it post-April?FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 16A - Rob Csongor
+In April, with this other stuff, would that come up or is it post-April?A - Rob Csongor
 Q - Joe Moore
 A - Rob Csongor
 Q - Unidentified Participant
@@ -533,9 +507,7 @@ I don't know. Intel showed some interest --
 Oh, in the Tesla business.
 Yes.
 
-Oh, the -- yes. Okay, sorry, I thought you said Quadro.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 16Q - Joe Moore
+Oh, the -- yes. Okay, sorry, I thought you said Quadro.Q - Joe Moore
 A - Rob Csongor
 Q - Joe Moore
 A - Rob CsongorSo your question is about Tesla, right? Okay. We continue to believe that the Tesla
@@ -568,6 +540,4 @@ Okay.
 
 Thanks very much, Rob. I appreciate.
 
-All right. Thanks a lot. Thanks, Joe.FINAL TRANSCRIPT 2013-02-26
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 16
+All right. Thanks a lot. Thanks, Joe.

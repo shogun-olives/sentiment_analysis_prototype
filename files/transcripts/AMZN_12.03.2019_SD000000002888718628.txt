@@ -21,9 +21,7 @@ very dramatically changed their view of the cloud and have adopted AWS in the
 cloud in every imaginable vertical business segment: so in financial services, you see
 it with Capital One, in Goldman Sachs, in Barclays, in HSBC, in Intuit, in the
 Commonwealth Bank of Australia; in life sciences and health care, you see it with
-Merck, with Pfizer, in Bristol-Myers Squibb, Johnson & Johnson, Novartis,FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 2 of 46AstraZeneca; in manufacturing, with GE and Schneider Electric and Siemens and
+Merck, with Pfizer, in Bristol-Myers Squibb, Johnson & Johnson, Novartis,AstraZeneca; in manufacturing, with GE and Schneider Electric and Siemens and
 Philips; in energy, with Shell and BP and Hess and Halliburton. Every imaginable
 vertical business segment is using AWS in the cloud in a very meaningful way. And
 you also see it in the public sector where we have 7,000 government agencies
@@ -63,9 +61,7 @@ And so if you think about it, these start-ups have disrupted long-standing indus
 that had been around for a long time and really from a standing start. And it's why
 when we thought about what we should choose as a theme for the keynote today,
 we kept coming back to the same topic, which is the question and the topic we talk
-most about with companies, which is how should we think about transformingFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 3 of 46ourselves. How can we reinvent our business and our customer experience so we
+most about with companies, which is how should we think about transformingourselves. How can we reinvent our business and our customer experience so we
 can be meaningful and sustainable over a long period of time. And transformation
 can mean transforming yourself, or it can mean transforming to meet new
 technology situations or opportunities.
@@ -108,9 +104,7 @@ I've never met him before. But we had this connection. And I got to the meeting.
 they were a little bit late coming out to see us. And they were in with their CEO. And
 the CIO came out and said, "I'm going to grab you." I think because he felt bad
 because we had this friend of a friend connection. And he said, "Before my
-infrastructure leader gets in the room, tell me how we're doing together." And I said,FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 4 of 46"Well we're doing fine. But you're not doing very much with us." He said, "Oh, it's
+infrastructure leader gets in the room, tell me how we're doing together." And I said,"Well we're doing fine. But you're not doing very much with us." He said, "Oh, it's
 definitely not true. Like I know we're doing a lot. I heard we've got all kinds of
 workloads running. We're experimenting. We're kicking the tires." I said, "Well you're
 using 3 EC2 instances." He said, "Oh, that can't be right." Then his infrastructure
@@ -153,9 +147,7 @@ possible capabilities. And you don't want to be slowed down.
 Last year, we talked about "I want it all and I want it now." This year, we're talking
 about "Don't stop me now. I'm having such a good time. I don't want to stop at all."
 And once you decide as a company that you're going to make this transformation to
-the cloud, your developers want to be able to move as fast as possible. They don'tFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 5 of 46want to be constrained. They want all the capabilities they need to move everything
+the cloud, your developers want to be able to move as fast as possible. They don'twant to be constrained. They want all the capabilities they need to move everything
 that they want to move and to build anything they can imagine. And so they want the
 broadest possible capabilities. And there's nobody who has the capabilities that
 AWS has. We have over 175 services. Nobody is close to the same number of
@@ -198,9 +190,7 @@ more powerful capabilities within each of those instances. We have the most
 powerful GPU machine learning trading instances, the most powerful GPU graphics
 rendering instances, the largest in-memory instances for SAP workloads with 24
 terabytes, the fastest processors in the cloud with the z1d. You've got the only
-standard instances at 100 gigabits per second network connectivity, the onlyFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 6 of 46instances that have all the processor choices from Intel and AMD and ARM base,
+standard instances at 100 gigabits per second network connectivity, the onlyinstances that have all the processor choices from Intel and AMD and ARM base,
 very different set of capabilities on the instances side. And if you look at the pace of
 innovation in AWS, on the number of instances that we've built, it's totally
 accelerated in a very significant way. We have 4x more instance types today than we
@@ -243,9 +233,7 @@ wanted to push the price performance envelope for you, it meant that we had to d
 some innovating ourselves. And so we took this Annapurna team. And we set them
 loose on a couple chips that we wanted to build that we thought could provide
 meaningful differentiation in terms of performance for you on things that really
-mattered and that we thought people are really doing it in a broad way.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 7 of 46And so the first chip that they started working on was an ARM-based chip that we
+mattered and that we thought people are really doing it in a broad way.And so the first chip that they started working on was an ARM-based chip that we
 called our Graviton chip, which we announced last year as part of our A1 instances,
 which were the first ARM-based instances in the cloud. And these were designed to
 be used for scale-out workloads. So containerized microservices and web tier apps
@@ -287,9 +275,7 @@ game changer. And that's really around machine learning. And we've talked a lot 
 a group over a few years about training with machine learning. It gets a lot of the
 attention. And they're hefty loads. And we have the instances that perform the best
 and are most powerful on machine learning trading with our P3 and P3D instances.
-But if you do a lot of machine learning at scale and in production like we have. And aFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 8 of 46lot of you inside the room have done, you know that the majority of your costs is
+But if you do a lot of machine learning at scale and in production like we have. And alot of you inside the room have done, you know that the majority of your costs is
 actually in the predictions or the inference.
 And just think about an example, I'll take Alexa as an example. We train that model a
 couple of times a week. It's a big old model. But think about how many devices we
@@ -331,9 +317,7 @@ because we control the development of ECS -- with a lot of help and a lot of inp
 from all of you, thank you very much and keep it coming, please. Because we control
 the development of ECS, it means that we can launch new features where they
 integrate with ECS right from the get-go. So if customers want the most deeply
-integrated container service out there, they choose ECS. But not surprisingly, asFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 9 of 46Kubernetes became very popular, lots of customers wanted us to do something
+integrated container service out there, they choose ECS. But not surprisingly, asKubernetes became very popular, lots of customers wanted us to do something
 there. And if you look today, 84% of the Kubernetes that runs in the cloud runs on
 top of AWS. So we have a lot of Kubernetes customers. But they understandably
 wanted a managed service there. So we built the Elastic Kubernetes Service, or EKS,
@@ -376,9 +360,7 @@ the most powerful GPU rendering instances, the biggest in-memory instances for
 SAP workloads, 100 gigabit per second connectivity with standard instances, the
 access to all the different processor options. They want not just one container, they
 want multiple containers at both the managed level as well as the serverless level.
-Then they want the network with the most capabilities, the most functionality, theFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 10 of 46David Michael Solomonbroadest footprint, the best performance and then the capabilities with things like
+Then they want the network with the most capabilities, the most functionality, theDavid Michael Solomonbroadest footprint, the best performance and then the capabilities with things like
 transit gateway that make it much easier to set up your global network. That is the
 bar for what people want with compute. And the only ones that can give you that are
 AWS. And it makes it, by the way. So much easier, not only to move all your existing
@@ -419,9 +401,7 @@ of the best engineers in the world working on some of the most interesting
 problems. And everything we are building is trying to make finance work better.
 Cloud technology allows us to do our job in a way that's simple, all while accounting
 for the complexity of our industry and helping us ensure that our work is safe, secure
-and responsible.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 11 of 46While we work with a few cloud providers, AWS was the first because of their
+and responsible.While we work with a few cloud providers, AWS was the first because of their
 immense capabilities and the astounding pace of their innovation. A few years ago,
 my colleague, Roy Joseph, was on this stage here to talk about how we work
 together to develop the Bring Your Own Key solution for AWS' Key Management
@@ -463,9 +443,7 @@ your balance sheet, you have to send an e-mail and ask for a meeting. It doesn't
 have to be this way. We can do better. But we're not there yet.
 Finance is the perfect place to take new technologies and have an immediate real-
 world impact. Our data scientists have been using AI and machine learning
-techniques for years. And we're already pushing the research community to considerFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 12 of 46Andrew R. Jassywhat's possible when you apply quantum power -- quantum computing power to
+techniques for years. And we're already pushing the research community to considerAndrew R. Jassywhat's possible when you apply quantum power -- quantum computing power to
 financial problems. Well Goldman Sachs, there's corporations, governments,
 institutions and individuals, we're also building for developers. The same way you go
 to AWS for their best-in-class cloud services, we want to be your first choice to
@@ -505,9 +483,7 @@ years.
 When they compare it to the cloud and it costs more capital; it's more expensive on
 a variable basis; you don't get the elasticity; it doesn't have near the capabilities of
 the cloud; it's launching 2,500 new services and features a year; you have to spend
-your scarce resources, which are engineers, on the things that are undifferentiatedFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 13 of 46heavy lifting; and you don't have the same security posture, when you objectively
+your scarce resources, which are engineers, on the things that are undifferentiatedheavy lifting; and you don't have the same security posture, when you objectively
 look at whether you want to toil away at refining your on-premises infrastructure for
 the next several years, most companies are saying, "No. Thanks. If that's moving up,
 then I'm moving out."
@@ -549,9 +525,7 @@ because they're expensive, they're proprietary, they have high amounts of lock-i
 and the licensing terms are just downright punitive. And I think that we don't meet
 customers that aren't looking to ﬂee Oracle. But one of the things that we've seen
 over the last couple of years as a change is people are trying to get away from SQL
-server pretty quickly as well. And one of the reasons is just you see this return to theFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 14 of 46ways of old from Microsoft where they're not prioritizing what matters to you guys
+server pretty quickly as well. And one of the reasons is just you see this return to theways of old from Microsoft where they're not prioritizing what matters to you guys
 and to customers.
 So let me give you an example. For many years, you were able to take the SQL server
 licenses that you'd bought yourself and then bring your own license and run them
@@ -593,9 +567,7 @@ new versions of Windows can run on dedicated instances in other cloud providers,
 trying to stranglehold those workloads back to their platform. Again, I don't think
 customers are so keen about having one company own that operating system
 they're building their business on, which is why you continue to see people moving
-from Windows to Linux.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 15 of 46The fourth area of modernization that we see is around the partners you choose. And
+from Windows to Linux.The fourth area of modernization that we see is around the partners you choose. And
 so if you look at most ISVs and SaaS providers, they will adapt their technology
 infrastructure platform to work on a technology infrastructure platform. So they'll
 doubt their software will work on a technology infrastructure platform. Some will do
@@ -639,9 +611,7 @@ era versus what you're going to leave behind. But there are also transformations
 are really about meeting new environments or new technical challenges. And I think
 if you look at the age we're in with respect to how much data that we are trying to
 store and process and analyze, it's like nothing we have ever seen before. This is a
-very different era than what's existed in the past.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 16 of 46You're not in the world where you're storing mostly gigabytes of data and
+very different era than what's existed in the past.You're not in the world where you're storing mostly gigabytes of data and
 sometimes terabytes. We're in a world where you're consuming petabytes of data
 and sometimes exabytes. And there's lots of reasons for it, some of it has to do with
 the borderless Internet and all the applications that can reach everywhere in a much
@@ -683,9 +653,7 @@ the most ways to get your data into it. And that turns out to matter a lot becau
 have data coming from everywhere. So you can get it in through the wire. You can
 get it in through our Direct Connect, through our backbone, through streaming and
 through IoT, a storage gateway, through SFTP if that's what you want to do, through
-the Snowball appliances, even through a 45-foot container with Snowmobile. AlmostFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 17 of 46every magical way you can imagine getting your data from wherever it is into your
+the Snowball appliances, even through a 45-foot container with Snowmobile. Almostevery magical way you can imagine getting your data from wherever it is into your
 data lake, you can do in S3 significantly more ways than you'll find elsewhere.
 The other thing is that AWS actually gives you the ability to automate more of your
 actions which, again, if you think about the era we're in, a very large data matters.
@@ -727,9 +695,7 @@ better. You're going to make way fewer mistakes, much, much easier. This is a ve
 unique and helpful feature when you're building a broad data lake.
 Now as companies are moving to these data lakes. And we have tried for a couple
 years now and we'll continue to try to make it easier and easier for you to manage
-these very large-scale data lakes. And S3 Access Points is an example of that lakeFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 18 of 46formation which we announced last year in the Keynote which makes it much faster
+these very large-scale data lakes. And S3 Access Points is an example of that lakeformation which we announced last year in the Keynote which makes it much faster
 to build a data lake from scratch is another example of that. But as you have those
 things, at the end of the day, if you don't have the right analytic services, it doesn't
 matter.
@@ -770,9 +736,7 @@ called Spectrum but we now refer to as the lake house, which is really about bei
 able to query not just the data that you have stored locally in nodes in Redshift. But
 also across your data lake in S3. And not surprisingly, as people start querying across
 both Redshift and S3, they also want to be able to query across their operational
-databases where a lot of important data sets live. And so today, we just releasedFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 19 of 46something called Federated Query, which now lets you query across Redshift, S3 and
+databases where a lot of important data sets live. And so today, we just releasedsomething called Federated Query, which now lets you query across Redshift, S3 and
 our relational database services, including Aurora Postgres.
 Then when you're doing this querying across all these data stores and getting these
 aggregated data sets in Redshift, customers want to move those data sets back to
@@ -814,9 +778,7 @@ about separating storage from compute and letting people scale separately that w
 as well as how you're going to do this large-scale compute where you move the
 storage to a bunch of awaiting compute nodes, there are some issues with this that
 you got to think about. The first is think about how much data you're going to -- at
-the scale that we're at but then just fast forward a few years, think about how muchFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 20 of 46data you're going to actually have to move over the network to get to the compute.
+the scale that we're at but then just fast forward a few years, think about how muchdata you're going to actually have to move over the network to get to the compute.
 And we have very, very large-scale networking capacity, multiple petabits per
 Availability Zone. We have 100 gigabits per second instances. We have a very large,
 scalable network.
@@ -858,9 +820,7 @@ make the migration simple and easy. And it will be available for you in mid-2020
 we're really excited about this.
 And I think it's also a pretty good example of something that we see all the time,
 which is when you build something new, it's only new for a period of time. And when
-you build something that's shiny, it's shiny until something's shinier. But the greatFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 21 of 46products and the great companies find a way to carefully listen to customers and
+you build something that's shiny, it's shiny until something's shinier. But the greatproducts and the great companies find a way to carefully listen to customers and
 relentlessly keep innovating on their behalf. And you've seen this not just in the
 Redshift space. But in compute, in storage, in database, analytics and machine
 learning from AWS in our first 13 years and you should expect it to continue.
@@ -900,9 +860,7 @@ are being frequently accessed or not frequently accessed. And the ones that are 
 being frequently accessed, we move to S3 so you can save money. And by the way,
 we think with UltraWarm, if you use it right, you'll save about 90% on your storage
 costs versus what you do in Elasticsearch today and 80% less expenses than any
-other warm tier you'll find out there for an Elasticsearch service in the cloud.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 22 of 46Then, again, leveraging Nitro and unique instances that we built with fast bandwidth,
+other warm tier you'll find out there for an Elasticsearch service in the cloud.Then, again, leveraging Nitro and unique instances that we built with fast bandwidth,
 we allow you, if it turns out that you need to make a query that pulls data from S3, we
 have this very high bandwidth instance that makes that much faster so you get the
 snappy, interactive performance that you need and that you expect when you use
@@ -944,9 +902,7 @@ And so a lot of our developers look at this list of purpose-built database and s
 "This is pretty awesome. You have a selection unlike others. But there's one obvious
 missing one that I don't understand why you don't help us with." And that obvious
 one is Cassandra. And people say, "Well look, we manage Cassandra on-premises."
-And what I'd tell you what it's like to manage Cassandra on-premises, it's kind of theFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 23 of 46same story on all these things and why we're trying to move into the cloud. It's hard
+And what I'd tell you what it's like to manage Cassandra on-premises, it's kind of thesame story on all these things and why we're trying to move into the cloud. It's hard
 to manage the hardware. It's hard to manage the software. It turns out it's really
 diﬃcult to scale up and down. So we all scale up for the peak. So we're sitting on a
 lot of wasted costs. The rollback features in Cassandra are pretty clunky. So people
@@ -989,9 +945,7 @@ understood walks. And some of those are a little bit further and less well under
 journeys. This has been the case in machine learning for the first several years, which
 is that developers and data scientists and companies are so passionate and so
 excited about getting value out of their data with machine learning that they've been
-willing to deal with clunky tools and walk those 500 miles to get there. However, asFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 24 of 46David Brent Shafermany of you know, most people aren't willing to walk 500 miles. And so a lot of what
+willing to deal with clunky tools and walk those 500 miles to get there. However, asDavid Brent Shafermany of you know, most people aren't willing to walk 500 miles. And so a lot of what
 we've tried to do in machine learning over the last few years in AWS. And continues
 to be our mission, is to allow you to get what you want to get done and get value
 from your data using machine learning much easier than ever before. And we have a
@@ -1032,9 +986,7 @@ communication among care teams and, overall, the quality of care.
 But as you know, health care is a journey of continuous improvement. And we have a
 lot more to do. Globally, if you think about it, there's more than $7 trillion spent on
 health care each year. And the United States alone accounts for roughly half of that.
-So -- and recently, the American Medical Association estimated that up to 1/4 of U.S.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 25 of 46spending on health care, that's nearly $1 trillion, is wasted. And that waste comes in
+So -- and recently, the American Medical Association estimated that up to 1/4 of U.S.spending on health care, that's nearly $1 trillion, is wasted. And that waste comes in
 many forms. It comes in variation of care delivery. It comes sometimes in overtreating
 patients. And we know for sure, we have data gaps that lead to challenges as
 patients age and receive care from different doctors and different facilities spread
@@ -1077,9 +1029,7 @@ deploy their predictive model. Now with that prediction, the caregiver can now
 change their approach before discharging the patient. And that's really the key to
 preventing second episodes of care. And these are often very significant for patients
 that have traumatic brain and spinal cord injuries, stroke and other neurological
-conditions and many more.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 26 of 46Andrew R. JassySo this model is creating the knowledge, skills and capabilities of both the health
+conditions and many more.Andrew R. JassySo this model is creating the knowledge, skills and capabilities of both the health
 care system and Cerner. And the collaboration was really made possible through the
 cloud infrastructure provided by AWS. And as a result, the health care system
 reported its lowest readmission rate in more than a decade while simultaneously
@@ -1120,9 +1070,7 @@ machine learning continues to evolve. And we continue to believe that there are 
 macro layers of the stack of machine learning. The bottom layer is for expert
 machine learning practitioners who are very comfortable with the framework level.
 And this group deals with the 3 primary frameworks: TensorFlow, PyTorch and
-MXNet. And TensorFlow has the most residents and the largest community today,FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 27 of 46continues to do so. And we have a lot of TensorFlow experience. If you look at the
+MXNet. And TensorFlow has the most residents and the largest community today,continues to do so. And we have a lot of TensorFlow experience. If you look at the
 amount of TensorFlow that runs in the cloud, 85% of the TensorFlow in the cloud
 runs on AWS. So we have a lot of customers running it. And we have a team that
 does nothing but work on optimizing TensorFlow performance on AWS. And they
@@ -1167,9 +1115,7 @@ train, tune and deploy machine learning models.
 And it's incredible how many customers have started using SageMaker already. We
 have tens of thousands of customers. And we have thousands who are standardizing
 on top of SageMaker: Avis and Bristol-Myers Squibb and Chick-fil-A and CondÃ©
-Nast, Dow Jones and GE and Hurst and Liberty Mutual, Panasonic and Siemens, veryFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 28 of 46broad group. And this SageMaker team has gotten a lot of great input from all of our
+Nast, Dow Jones and GE and Hurst and Liberty Mutual, Panasonic and Siemens, verybroad group. And this SageMaker team has gotten a lot of great input from all of our
 developers. Thank you. Keep it coming, please. And they have been hard at work.
 They have launched over 50 features just in the last year. And just a few I'll touch on.
 About a year ago, we launched Ground Truth, which makes it much easier for you to
@@ -1212,9 +1158,7 @@ tell us, the CPU, that you want with that notebook and we manage that compute fo
 you. And we do all the heavy lifting of transferring all the contents from that first
 notebook to the second notebook. And then shutting down that first notebook, if
 that's what you want. So a much easier way to manage notebooks. And people said,
-"Well that's great. Notebooks are such an important part of doing machine learning.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 29 of 46But let me tell you about another problem we have, which is when you're doing
+"Well that's great. Notebooks are such an important part of doing machine learning.But let me tell you about another problem we have, which is when you're doing
 machine learning, you're trying all kinds of experiments and you're iterating like
 crazy across lots of different parameters and dimensions. And as you iterate a lot, it
 creates all these artifacts and they live all over the place. I can't find them and I can't
@@ -1257,9 +1201,7 @@ experiments, the debugging and profiling capability.
 And people say, "How can you help me when I have models that have been working
 for a long period of time. And all of a sudden, it looks like the predictions aren't
 relevant anymore?" And this happens sometimes, like if you take an overly simplified
-example, let's say that you built the model in 2016, the estimated housing prices.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 30 of 46Well the model worked well in '16. And it worked well in '17 primarily because the
+example, let's say that you built the model in 2016, the estimated housing prices.Well the model worked well in '16. And it worked well in '17 primarily because the
 conditions were the same. But then in 2018, as interest rates changed and housing
 prices went up, the model stopped making accurate predictions. And this is a
 concept in machine learning that people call concept drift. And it's actually, there -- if
@@ -1301,9 +1243,7 @@ the nature of your application. You're out of luck. You have just this one simpl
 box model. And so customers have said, "We want AutoML. But we want more
 visibility."
 So I'm happy to announce SageMaker Autopilot, which is AutoML with full control
-and visibility. And so with AutoML, here's what happens. You send us your CSV fileFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 31 of 46Matt Woodwith the data that you want to model for or you can just point to the S3 location. And
+and visibility. And so with AutoML, here's what happens. You send us your CSV fileMatt Woodwith the data that you want to model for or you can just point to the S3 location. And
 Autopilot does all the transformation of the model to put into format so we could do
 machine learning. It selects the right algorithm. Then it trains 50 unique models with
 little bit different configurations of the various variables because you don't know
@@ -1346,9 +1286,7 @@ the price. And we're going to go ahead and collect this.
 So machine learning learns by examples. And so the more examples you have, the
 better. We can collect all of this sales information from across the U.S. Then we
 simply take it, wrap it up into a CSV file and drop it into S3. Now we can move into
-SageMaker Studio. And in just a few clicks from inside the IDE, we can launch a newFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 32 of 46autopilot job. We simply just tell SageMaker where the model, where data is. What
+SageMaker Studio. And in just a few clicks from inside the IDE, we can launch a newautopilot job. We simply just tell SageMaker where the model, where data is. What
 SageMaker Autopilot does at this point is it starts to spin up multiple different
 models, each with a different set of algorithms, data sets and parameters. The dirty
 secret of machine learning is that you don't just train a single model, you train
@@ -1390,9 +1328,7 @@ environment and model monitoring will continue until it detects any deviation go
 forward.
 So for the first time, SageMaker Studio starts to pull together the tools that
 developers are used to using with traditional software, debuggers, profilers,
-automation, management into a single pane of glass which can be used to build,FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 33 of 46Andrew R. Jassytrain, deploy and manage our machine learning models in a way which is way easier
+automation, management into a single pane of glass which can be used to build,Andrew R. Jassytrain, deploy and manage our machine learning models in a way which is way easier
 and way more accessible for even more developers and even more data scientists.
 And with that, I'll hand it back to Andy. Thanks.
 
@@ -1432,9 +1368,7 @@ launch of a new service, which is called Amazon Fraud Detector, which is a new
 machine learning service that does fraud management for you.
 And so here's how it works. Transaction data, we take that data , along with the
 algorithms that we have built to detect fraud in Amazon's Consumer business. And
-we build a unique model for you. And what we also do is we have a set of dataFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 34 of 46detectors that we've developed for our Consumer business in Amazon. And we take
+we build a unique model for you. And what we also do is we have a set of datadetectors that we've developed for our Consumer business in Amazon. And we take
 those data detectors, overlay them on top of the base model that we built for you
 and we create your own unique model that we exposed to you through a private
 endpoint API. And so what then happens is as you have new activities where there's
@@ -1479,9 +1413,7 @@ recipients to this pull request. Then what CodeGuru does is it goes through mode
 and algorithms that we've built from millions of code reviews that we've done in
 Amazon over the last 20 years along with the training we've done in the 10,000 most
 popular open source projects. And it provides you an assessment of your code. And
-where we see there's a problem, we'll give you a human readable comment that willFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 35 of 46tell you what the issue is and point it out down to the line of code. And so what are
+where we see there's a problem, we'll give you a human readable comment that willtell you what the issue is and point it out down to the line of code. And so what are
 some of the things that will let you detect?
 So the first is AWS best practices, if you're missing a pagination or if you're not --
 having error handling it right, or if you're using the APIs or the SDK features in a way
@@ -1524,9 +1456,7 @@ exchange for getting 80% of the way there faster." They want a different level o
 abstraction. And the same is true in machine learning. We have loads and loads of
 customers that are using all those building blocks I talked about at that top layer of
 the stack. But we also have customers who say, "Look, I would actually like to have
-you stitch some of these together. So I don't have to do as much of the work."FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 36 of 46So let me give you an example. If you look in our service called Amazon Connect,
+you stitch some of these together. So I don't have to do as much of the work."So let me give you an example. If you look in our service called Amazon Connect,
 which is our call center in the cloud service, which is off to an unbelievably fast start,
 one of the fastest-growing services in the history of AWS with customers like Intuit
 and Capital One. And GE and Citigroup and John Hancock, Best Western and
@@ -1572,9 +1502,7 @@ capability. In mid-2020, we'll also give you the ability to see these transcript
 happening in real times. And they'll call out for you whether or not you have a
 problem so that you can take action in the middle of that contact. Very excited to
 give customers this capability. Some of the customers that we have shared this with
-privately have said, well, this is awesome. I love that you can make sense of myFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 37 of 46Matt Woodcustomer service contacts. But if you can provide this level of understanding for all
+privately have said, well, this is awesome. I love that you can make sense of myMatt Woodcustomer service contacts. But if you can provide this level of understanding for all
 my customer service phone calls, why can't you provide this level of understanding
 with data that lives inside my own enterprise? And if you think about it, if you have
 an enterprise that's anything like ours. And Amazon is a reasonably technically savvy
@@ -1614,9 +1542,7 @@ Next, you simply provide optionally a set of FAQs, some frequently asked questio
 These are really common in things like knowledge bases and support workloads or
 just new hire documentation when you have a set of questions and a set of answers.
 So you can provide those and the locations of your documents from S3. And we
-index those separately using our machine learning models under the hood.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 38 of 46The next step, you just sync and index your data. Kendra goes ahead, pulls in all of
+index those separately using our machine learning models under the hood.The next step, you just sync and index your data. Kendra goes ahead, pulls in all of
 your data and builds an index. And we're not just indexing the keywords inside the
 document here. We're using machine learning, natural language understanding in
 order to be able to identify the concepts and the relationships between the
@@ -1656,9 +1582,7 @@ service, the machine learning models can get better and better and better. And s
 without your teams lifting a finger and going into all of the machine learning models,
 we can take feedback, smiley faces and upside down smiley faces to show whether
 those relationships and whether those results were useful. And we'll also
-automatically track what links your end users are clicking on and use that toFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 39 of 46Andrew R. Jassycontinually improve the models under the hood without you having to do any of the
+automatically track what links your end users are clicking on and use that toAndrew R. Jassycontinually improve the models under the hood without you having to do any of the
 custom labeling or training yourself.
 So Amazon Kendra is incredibly easy to set up. It allows you to combine your data
 sources to provide accurate answers to natural language queries and, using our
@@ -1698,9 +1622,7 @@ you help me do that?" And this is kind of how we got started with the very unusu
 and deep partnership that we have with VMware and the joint offering that we spent
 a bunch of time together working on and launching called VMware Cloud on AWS,
 which allow customers to use the same software and tools they've used to manage
-their infrastructure via VMware on-premises. But also to use it to manage theirFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 40 of 46infrastructure in AWS. And this has been something that customers have been very
+their infrastructure via VMware on-premises. But also to use it to manage theirinfrastructure in AWS. And this has been something that customers have been very
 excited about. This is the only managed service that VMware runs of this sort like this
 and has a fair bit of traction. We have now 4x more customers than we had a year
 ago at this time, 9x the number of VMs that were there. And a number of companies
@@ -1743,9 +1665,7 @@ you'll be able to see your new AWS Outposts in your AWS management console and
 be able to use it to provision resources into your Outposts. So very excited that this is
 available today.
 It comes in 2 variants. If you're somebody who is used to and wants to use the AWS
-APIs and control plane to operate your Outposts alongside what you're doing in theFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 41 of 46rest of the AWS public regions, then you'll use the AWS native Outposts. And that's
+APIs and control plane to operate your Outposts alongside what you're doing in therest of the AWS public regions, then you'll use the AWS native Outposts. And that's
 available today. If you're somebody that wants to still use the VMware control plane,
 like you're using for VMware Cloud on AWS as a number of customers are, you'll use
 the variant of Outposts that's our VMware Cloud on AWS Outposts. And that will be
@@ -1788,9 +1708,7 @@ need that latency to get their job done. The first one is available in L.A. toda
 you can expect more from us moving forward.
 So we solve for workloads that have to stay in on-premises data centers, we solve for
 workloads in certain geographies where your end users need single-digit
-millisecond latency there. But you don't want to have data centers.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 42 of 46Hans E. Vestberg
+millisecond latency there. But you don't want to have data centers.Hans E. Vestberg
 Andrew R. Jassy
 Hans E. VestbergThe third barrier that we're increasingly hearing from customers is that as they have
 more and more mobile and connected devices all over the world that have to be
@@ -1832,9 +1750,7 @@ you can connect. Today, we can connect 100,000 devices per square kilometers, in
 with other currencies. But I think the most important is that when you can slice this.
 And you give them to individuals, applications and things, you have a transformative
 technology that's going to transform consumer behavior. It's going to transform
-businesses. It's going to transform society.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 43 of 46Andrew R. Jassy
+businesses. It's going to transform society.Andrew R. Jassy
 Hans E. Vestberg
 Andrew R. JassyYou need to build this in a certain way. You need fiber to basically load the radio
 base stations, you need high-frequency spectrum. You need SDN, software-defined
@@ -1878,9 +1794,7 @@ about it, if you're a customer, what you want to do, you can't walk up to a telc
 say, "Can I be at your edge?" Then, because no one telco can serve the entire world
 geographically, you'd have to go to lots of telcos and say, "Can I be at your edge?"
 Then you'd have to manage all the work between these different telcos and how
-they manage it with some kind of abstraction. And you'd still want all the same APIFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 44 of 46Hans E. Vestbergtools and APIs and control planes and things of that sort. And so this has been a hard
+they manage it with some kind of abstraction. And you'd still want all the same APIHans E. Vestbergtools and APIs and control planes and things of that sort. And so this has been a hard
 problem for people to try and solve.
 About 18 months ago, Hans' team and my team started working on this and have
 collaborated very deeply. And excited to announce a new AWS service for you now
@@ -1922,9 +1836,7 @@ collaborate with the best and greatest cloud company in the world and bring thes
 to you as innovators out there.
 And if you really want to see it today, you can go into our booth because Verizon has
 a booth in here, where you can actually start to experience these 8 currencies. But as
-the year progress in 2020, we're going to deploy much more real estate when itFINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 45 of 46Andrew R. Jassy
+the year progress in 2020, we're going to deploy much more real estate when itAndrew R. Jassy
 Hans E. Vestberg
 Andrew R. Jassy
 Hans E. Vestberg
@@ -1964,9 +1876,7 @@ that that's not necessarily true. I think a lot of people get nervous about chan
 they don't know what it means for them and whether they have the skills to be
 successful in that change. And what it means for the scope of their job and all the
 things they spend a lot of time working on and the suppliers they built relationships
-with.FINAL TRANSCRIPT 2019-12-03
-Amazon.com Inc (AMZN US Equity)
-Page 46 of 46And as such, a lot of times, when there's a big change and transformation like this,
+with.And as such, a lot of times, when there's a big change and transformation like this,
 the first reaction is to dismiss it. Then when it becomes hard to dismiss it because
 people are moving to it because there's value, then the reaction oftentimes is "Well
 we can do it better. We can do it less expensively. We can do it more performantly.

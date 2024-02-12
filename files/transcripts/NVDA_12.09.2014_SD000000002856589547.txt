@@ -17,9 +17,7 @@ looked at -- was a chip company attached to the overall PCs. We saw this as a re
 opportunity to really expand our offerings and our offerings in very key platforms
 that we thought would be growth drivers for the overall future. One of those being
 the overall PC platform and the overall gaming platform and really taking a hold of
-we're not a general purpose chip for all PCs. We really think about the overallFINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 10Ambrish Srivastavaecosystem of PC gaming where we believe we have a very, very strong hold, a very
+we're not a general purpose chip for all PCs. We really think about the overallAmbrish Srivastavaecosystem of PC gaming where we believe we have a very, very strong hold, a very
 strong presence around the world in terms of that PC gaming market and it's done
 very well for us.
 And what that entailed is us being very close to that end customer, the end gamers
@@ -57,9 +55,7 @@ measure that by operating income, net income or diluted EPS is probably around
 Good. Good introduction. Let me just switch to something I'm sure that's closer to
 your heart, capital allocation. And also, if you don't mind starting off on sharing your
 perspective as a CFO. NVIDIA has done a pretty decent job in returning capital to
-shareholders and it started before you got there. But just help us understand howFINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 10Colette Kress
+shareholders and it started before you got there. But just help us understand howColette Kress
 Ambrish Srivastava
 Colette Kressyou look at that and kind of some of the changes that you are trying to instill within
 the organization.
@@ -98,9 +94,7 @@ about a year and a half, the Company came forth and indicated our business
 strategy is to have an IP business.
 Now, what is good or bad about an IP business is sometimes it takes an offensive or
 a litigation move to actually move forward on that. We've had the overall Intel license
-that we signed in 2011 and that will come to an end in our First Quarter of fiscal yearFINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 10Ambrish Srivastava
+that we signed in 2011 and that will come to an end in our First Quarter of fiscal yearAmbrish Srivastava
 Colette Kress
 Ambrish Srivastava2018. It will be the last quarter in which we will recognize revenue. And we can think
 about where we want to go in terms of renewal on that or nonrenewal on that. It's
@@ -137,9 +131,7 @@ there was infringement or not.
 Right. That is just the hearing and then we'll hear shortly after that whether or not --
 how the courts have ruled in terms of that. But that's correct, it is only about
 infringement. Valuation will come at a later time.
-FINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 10Colette KressOkay. Great. Thank you. Thanks for that.
+Colette KressOkay. Great. Thank you. Thanks for that.
 And so maybe we can now move into the business and we can start with the GPU
 and maybe focus on the PC related. Your market share gains accelerated and with
 Maxwell came more share gains. So if we look at the roadmap and share gains within
@@ -178,9 +170,7 @@ You also spoke about our share gains and what we have seen in terms of the overa
 discrete share on GPUs. We just received from Mercury about a month ago that our
 share is now probably up over 70% of the overall discreet market. So maybe over the
 last two quarters that has grown more than 5, 6 points, mainly due to the launch of
-Maxwell. But we'll continue to see how this does in terms of going forward.FINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 10Ambrish Srivastava
+Maxwell. But we'll continue to see how this does in terms of going forward.Ambrish Srivastava
 Colette KressSo we're really pleased in terms of both the acceptance of Maxwell, the adoption of
 the discreet GPUs, again for the overall gaming market and how important that is.
 And as we go forward we'll continue to see gaming to be a very strong driver of our
@@ -220,9 +210,7 @@ may do, they want gaming everywhere. They want gaming on that PC. That want it
 (inaudible) to that mobile environment. And we've really been able to serve that as
 we've had a good understanding of the ecosystem and how they play the games,
 which games are important to us. And so we're using the virtualized GPU
-experience, our overall Shield, as well as what they have in terms of their PC and theFINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 10Ambrish Srivastava
+experience, our overall Shield, as well as what they have in terms of their PC and theAmbrish Srivastava
 Colette KressGPUs as well. So it's a very intriguing business and we're in the early stages. But
 great reviews, great feedback from the customers in terms of that experience.
 
@@ -262,9 +250,7 @@ of that is so important. So we're seeing a lot of the internet service providers
 areas of research, higher education, really focusing on machine learning and I think
 we're just in the initial stages of how big that overall opportunity can be. But the last
 two quarters that we've announced, both in Q3 and in Q2, we've announced record
-quarters again for Tesla, really associated with these large projects that we're seeing.FINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 10Ambrish Srivastava
+quarters again for Tesla, really associated with these large projects that we're seeing.Ambrish Srivastava
 Q - Unidentified Participant
 Q - Ambrish Srivastava
 A - Colette Kress
@@ -299,9 +285,7 @@ So right now, yes, it may be overall legalized, which I just mean more gaming is
 occurring. But the PC gaming market is still extremely strong. And we continue to
 see the industry move up to a better and better or higher-priced GPU in terms of a
 higher mix, in terms of what we're selling as they see that experience being
-extremely important to them.FINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 10Q - Ambrish Srivastava
+extremely important to them.Q - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastava
 A - Colette Kress
@@ -341,9 +325,7 @@ doubled year over year and the first two quarters of the year were also quite st
 growing about 60% to 70% in those first two quarters. So I'd say we're well on track.
 We talk quite openly about our overall pipeline of deals in the future. And really,
 that's about designs that we've already won for the car and we just know that those
-cars just have to hit the road and the timing in terms of when they purchase that. SoFINAL TRANSCRIPT 2014-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 10Q - Ambrish Srivastava
+cars just have to hit the road and the timing in terms of when they purchase that. SoQ - Ambrish Srivastava
 A - Colette Kress
 Q - Ambrish Srivastavawe've got probably near a $2 billion pipeline of additional revenue over the next five
 years or so that will come into the P&L.

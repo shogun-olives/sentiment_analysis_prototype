@@ -18,9 +18,7 @@ mobility management. I mean these are things we touch every day. These are part 
 all of our lives.
 Can you give us a sense of your journey over the years? I don't want to say all those
 years. But you clearly have seen a lot of Microsoft in that time.
-FINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 2 of 12Q - Brad Alan Zelnick
+Q - Brad Alan Zelnick
 A - Rajesh JhaYes, sure. I mean, it's been a privilege to be on this journey. I came to Microsoft
 straight out of school and have worked with now all the 3 CEOs, Bill and then Steve
 and, more recently, with Satya. And my experience mostly has been on the
@@ -61,9 +59,7 @@ and identity and knowledge management. So that's the vision, starts with the use
 the center. And it goes from there. Whereas in the past, it really was around
 application silos.
 So if people ask me what are we doing, how does this help users, it helps because
-no matter what application you're on, no matter what device you're on, weFINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 3 of 12Q - Brad Alan Zelnickunderstand your context, we can be intelligent on your behalf. So that's definitely the
+no matter what application you're on, no matter what device you're on, weQ - Brad Alan Zelnickunderstand your context, we can be intelligent on your behalf. So that's definitely the
 user-centricity.
 The cloud has also helped us to be much more customer-centric in the pre-cloud
 world when we had packaged software. We used to build stuff for multiple years,
@@ -102,9 +98,7 @@ A quick follow-up in terms of the development process and development team. It
 would seem that the cloud and other factors have served to compress the
 development life cycle today, where things are so much more iterative and having a -
 - so much more of a collaborative design and iterative process. I mean, this is a very
-different model than maybe 5 or 10 years ago.FINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 4 of 12A - Rajesh Jha
+different model than maybe 5 or 10 years ago.A - Rajesh Jha
 Q - Brad Alan Zelnick
 A - Rajesh Jha
 Q - Brad Alan Zelnick
@@ -144,9 +138,7 @@ world's productivity cloud. Why are we hearing so much about Microsoft 365 latel
 
 Our vision with Microsoft 365 is to really have an integrated service that powers a
 modern workplace, that powers modern education, that powers a small business,
-nonprofit. And we want to bring the same vision to consumers we always have. AndFINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 5 of 12let me just talk a little bit about what our investment pillars are for Microsoft 365,
+nonprofit. And we want to bring the same vision to consumers we always have. Andlet me just talk a little bit about what our investment pillars are for Microsoft 365,
 maybe that will help concretize it.
 So first, of course, is the delivery of productivity and collaboration services, whether
 it be Oﬃce or the newer services like Microsoft Teams, Microsoft Stream. So that's
@@ -183,9 +175,7 @@ Microsoft 365, you go to admin microsoft.com. It's a one way to administer itsel
 So Microsoft 365 is really an integrated product or service that underlies the dial
 tone for modern work, from communication collaboration to automation, business
 process, connectivity, knowledge management and, of course, security
-management.FINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 6 of 12Q - Brad Alan Zelnick
+management.Q - Brad Alan Zelnick
 A - Rajesh JhaNow financially, of course, as you would expect, customers who buy into our vision
 of Microsoft 365 tend to use more of our services. They tend to have higher revenue
 per user, they churn less. And what we offer to our customers is integration, best-of-
@@ -223,9 +213,7 @@ together as a means to go do that.
 And so that's another path we see. So Oﬃce to Microsoft 365. We see broadening of
 the coverage of the employees that are covered with Microsoft 365. Then we still
 have customers continue to move at a healthy clip from on-prem to the cloud
-directly into Microsoft 365, from older versions of Oﬃce or Windows.FINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 7 of 12Q - Brad Alan Zelnick
+directly into Microsoft 365, from older versions of Oﬃce or Windows.Q - Brad Alan Zelnick
 A - Rajesh JhaWe are excited about the Microsoft 365 beyond just the enterprise, the SMB value
 proposition where you give them integrated security, integrated collaboration,
 productivity is as compelling. And traditionally, with Oﬃce, we haven't had that much
@@ -267,9 +255,7 @@ to their search terms.
 I talked about security and compliance. I think, our unique value proposition on
 security and compliance, one of the pillars, is the fact that we have 6.5 trillion, 7
 trillion signals coming every single day in the graph. Then we have AI that actually
-really is trying to think about threat and protection on those signals. So AI permeatesFINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 8 of 12Q - Brad Alan Zelnick
+really is trying to think about threat and protection on those signals. So AI permeatesQ - Brad Alan Zelnick
 A - Rajesh Jha
 Q - Brad Alan Zelnick
 A - Rajesh Jha
@@ -310,9 +296,7 @@ continue to have enterprise-grade security and compliance features for them. And
 we continue to add those. And you've seen recently Bank of Canada has moved
 over, as a recent example, as a couple of the capabilities they were looking for is
 now available in the cloud.
-FINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 9 of 12A - Rajesh JhaGot it. Just to switch topics to cybersecurity. Recently, we've just been hearing so
+A - Rajesh JhaGot it. Just to switch topics to cybersecurity. Recently, we've just been hearing so
 much about security from Microsoft. Obviously, a huge area of opportunity in a large
 and expanding market. And in fact, in the last earnings call, Satya talked about
 Sentinel and Microsoft Defender, Threat Protection and over 100,000 organizations
@@ -352,9 +336,7 @@ categories. But we also want to be deeply integrated because you go back to the
 fragmentation. It's not just enough to be best-of-breed. We want to be best-of-breed
 and integrated.
 Second thing is we want to build security close to the data, close to the applications.
-But we want to also extend that to the fact that there is heterogeneity in a customer'sFINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 10 of 12Q - Brad Alan Zelnick
+But we want to also extend that to the fact that there is heterogeneity in a customer'sQ - Brad Alan Zelnick
 A - Rajesh Jha
 Q - Brad Alan Zelnick
 A - Rajesh Jhaenvironment. So for example, data leakage protection is built in the core workﬂows
@@ -394,9 +376,7 @@ important?
 Maybe 10 years ago, the atomic unit of productivity was what we, as individuals,
 could go do. Not true anymore. The atomic unit of product right now is group. None
 of us do anything meaningful just by ourselves. We do this in the context of working
-with others. So the Microsoft Teams -- our vision with Teams is like a meta operatingFINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 11 of 12Q - Brad Alan Zelnick
+with others. So the Microsoft Teams -- our vision with Teams is like a meta operatingQ - Brad Alan Zelnick
 A - Rajesh Jhasystem is (fish). It's something that is centered on a group and the applications come
 to the group, the right applications come to the group.
 Today, the way we compute is we -- whether on your phone or your tablet or your
@@ -437,9 +417,7 @@ million users, its margin profile is going to be different than the margin profi
 something like mail or documents where the storage, there's a real cost of the
 storage. So O365 or M365 is such a broad set of services across so many users, that
 it's -- I don't think you can compare SaaS services with a couple of million users
-against that aggregate of usage patterns.FINAL TRANSCRIPT 2019-12-03
-Microsoft Corp (MSFT US Equity)
-Page 12 of 12Q - Brad Alan Zelnick
+against that aggregate of usage patterns.Q - Brad Alan Zelnick
 A - Rajesh Jha
 Q - Brad Alan Zelnick
 A - Rajesh JhaWith that, I feel very -- I feel we are hard at work on the engineering side, with our

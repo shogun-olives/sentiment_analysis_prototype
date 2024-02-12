@@ -20,9 +20,7 @@ us frame that in the context of Microsoft's larger vision and mission statement 
 empower everyone and every organization to achieve more?
 
 You bet. Yes. Microsoft 365 for us is a key pillar of the overall Microsoft strategy. As
-you indicated, world's productivity cloud is the way that we've talked about it and itFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13Q - Brad Alan Zelnick
+you indicated, world's productivity cloud is the way that we've talked about it and itQ - Brad Alan Zelnick
 A - Jared Spatarois this comprehensive solution, in so many ways, we've taken a different tact than a
 lot of the market and we have tried to bring in what we would call workloads,
 different services and integrate them together to essentially provide a platform for
@@ -65,9 +63,7 @@ of the year and it has been an incredible 12 months, that's for sure. We kind of
 this way, and Satya has used this framing and we used it very early on when the
 pandemic kind of sent everybody home in the March time frame (inaudible), we
 talked about respond, recover and reimagine. What we meant by that is that we
-anticipate and this is the way it largely played out that there'd be such a big shock toFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13Q - Brad Alan Zelnick
+anticipate and this is the way it largely played out that there'd be such a big shock toQ - Brad Alan Zelnick
 A - Jared Spataro
 Q - Brad Alan Zelnickthe system as everything went digital, that the first thing that our customers would
 want to do is to just to respond, to essentially scramble and say, we've got to keep
@@ -107,9 +103,7 @@ opportunity?
 Yes. Let me take a step back actually and try and parse out the way we are seeing the
 demand signals and then go into that TAM question.
 
-Sure.FINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13A - Jared Spataro
+Sure.A - Jared Spataro
 Q - Brad Alan Zelnick
 A - Jared Spataro
 Of course, right now, the immediate demand signal that has been strongest most in
@@ -153,9 +147,7 @@ that we're doing, and the reason we're so excited is, as everything moves digita
 have this opportunity to stop this escape of the digital exhaust, if you will. Everything
 that you do digitally, it kind of creates signal is the way that we talk about it. That
 signal can be as rich as a document that I write, but it can also just be simply the fact
-that you and I meeting together one time, two times, three times over time. ThatFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13Q - Brad Alan Zelnicksignal is incredibly valuable. And today, most of that signal really does dissipate out
+that you and I meeting together one time, two times, three times over time. ThatQ - Brad Alan Zelnicksignal is incredibly valuable. And today, most of that signal really does dissipate out
 into the ether.
 So the basis for a lot of our innovation is this idea that we should stop letting that
 signal escape and start capturing and aggregating that signal, then reason over that
@@ -197,9 +189,7 @@ coming from.
 
 Very helpful, and really helps to better appreciate the underlying foundation of
 innovation that's driving so much, which we, as a knowledge worker, sitting in front
-of a computer look forward to taking more and more advantage of and hopefullyFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13A - Jared Spataro
+of a computer look forward to taking more and more advantage of and hopefullyA - Jared Spataro
 Q - Brad Alan Zelnick
 A - Jared Spatarobeing able to get my pivot tables. I'm usually relying on people on my team these
 days. But in any case, can we -- Jared, can we dive a little bit deeper into Teams.
@@ -239,9 +229,7 @@ getting some sort of like mechanical task done. So Together Mode is by far one o
 my favorites. We actually use that same tech by the way to power the NBA, National
 Basketball Association. We had 60,000 fans that attended more 170 NBA games
 together, including Shaq and President Obama, and we were just proud as could be
-to see that tech used in that way to connect people.FINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13Q - Brad Alan Zelnick
+to see that tech used in that way to connect people.Q - Brad Alan Zelnick
 A - Jared SpataroBut from there, what I would say is in addition to those types of things, we've seen
 whiteboard as an example, and the integration of a whiteboard into Teams where
 people could do creative work really be a differentiator for us, that is becoming
@@ -287,9 +275,7 @@ place you go, it's a set of activities that we need you to do no matter where yo
 And I thought that that was a great way to kind of frame up this telephony
 opportunity for us. When we are all-in to telephony, we don't think of it as just a
 single workload, we think of telephony integrated into that ﬂow of work that I just
-brieﬂy mentioned. We think work gets done through several activities that weaveFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13Q - Brad Alan Zelnick
+brieﬂy mentioned. We think work gets done through several activities that weaveQ - Brad Alan Zelnick
 A - Jared Spataro[ph] through one-on-one interactions, personal focus time, meetings, phone calls,
 recorded events, all sorts of different types of work. And Teams is built to support
 that.
@@ -332,9 +318,7 @@ that we're doing with power platform all on a single app.
 So users definitely feel drawn in that because of the simplification for them of their
 own workﬂow. So that's one thing. And then as we start to talk with decision makers
 within an organization, I think we have a great value prop. Cost savings immediately
-comes up from our perspective. There is a gravitational pull to a platform. We thinkFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13Q - Brad Alan Zelnick
+comes up from our perspective. There is a gravitational pull to a platform. We thinkQ - Brad Alan Zelnick
 A - Jared Spatarothere's a lot of economic value in that platform, and we can offer that combination of
 calling and meeting and chat for a much cheaper price than you could if you're
 going to try and go out and assemble those things by pulling together these other
@@ -378,9 +362,7 @@ that particular case apps that, we're able to take advantage of the capabilities
 platform.
 We think the same thing is happening right here right now and we think Teams is the
 greatest example we have of it. We think of it as a scaffolding. We think of it as a
-platform. We certainly love what we would call those built-in first-party workloads ofFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13Q - Brad Alan Zelnick
+platform. We certainly love what we would call those built-in first-party workloads ofQ - Brad Alan Zelnick
 A - Jared Spatarochat, meet, collaborate, call. But we're even more excited as people continue to use
 it as a platform and use things like Power Platform to build process automation, their
 own customized apps, do some really interesting things. So yes, I think we're going
@@ -425,9 +407,7 @@ Europe with this wave of COVID kind of moving through. So in general, if I recap
 just feel like trials have been very good for us, we're pleased with the early signal
 that we're seeing on those trial conversions but a lot of that will come to fruition this
 quarter and even into next quarter and we're looking at using it more broadly as we
-think about how to transform our own sales motion.FINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13Q - Brad Alan Zelnick
+think about how to transform our own sales motion.Q - Brad Alan Zelnick
 A - Jared Spataro
 Q - Brad Alan Zelnick
 Cool. I think we got time for maybe a couple more. Maybe just on security,
@@ -471,9 +451,7 @@ Yes, in our investor conversations we're amazed and it's sometimes
 underappreciated how much Microsoft is investing and just the amount of
 technology and value that you're able to offer to customers. I always like stat that as
 we've done the comparison, Microsoft is spending over 2x the R&D that you see
-from some of the best-known security pure plays out there in the market. Maybe oneFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13A - Jared Spataro
+from some of the best-known security pure plays out there in the market. Maybe oneA - Jared Spataro
 Q - Brad Alan Zelnickfinal question, if I could, Jared, Teams is obviously emerged as a really strong winner
 in the shift to more distributed work. But where do you go from here? How do you
 continue to differentiate? I mean, there's so much more to do, there's all these
@@ -517,9 +495,7 @@ not just thinking about commercial opportunities but about opportunities across
 someone's whole life, and there'll be some great things coming.
 
 Awesome. Well, Jared, with that, we are at a time. This is really been fantastic. I think
-we've got -- we compressed a lot into about the last half hour or so. And I thank youFINAL TRANSCRIPT 2020-12-01
-Microsoft Corp (MSFT US Equity)
-Page 13 of 13A - Jared Spataro
+we've got -- we compressed a lot into about the last half hour or so. And I thank youA - Jared Spataro
 Q - Brad Alan Zelnickvery, very much for making the time to spend with us today at this year's Credit
 Suisse Tech Conference virtually. All right?
 

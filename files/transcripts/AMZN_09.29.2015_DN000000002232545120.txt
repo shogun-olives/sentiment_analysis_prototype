@@ -22,9 +22,7 @@ data providers. Our analysts average over 20 years of buy and sell side research
 experience. We are neutral. BI research does not provide buy or sell
 recommendations, we give our clients the information they need to make a
 knowledgeable investment decision. Please note, those of you that have terminals,
-you can explore Bloomberg Intelligence by typing BI GO in the command line.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 2 of 16Anurag Rana
+you can explore Bloomberg Intelligence by typing BI GO in the command line.Anurag Rana
 Seema ShahAnd with that, let me turn it into Anurag to give us a quick overview of the topic and
 heads. Anurag?
 
@@ -62,9 +60,7 @@ how different merchandising color combinations would fit in their home. Wayfair,
 online home furnishings company recently, I think, yesterday partnered with a
 company called roOomy to display 3D images on two of its websites, so their
 customers can experiment with textures, fabrics and get a good look at how this type
-of furniture what they're buying would look in their home.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 3 of 16Anurag Rana
+of furniture what they're buying would look in their home.Anurag Rana
 Chen GrazutisAnd I think these technologies allow the customer, particularly for big purchases to
 get a better feel about what they're buying, they may be less hesitant to purchase
 such a big item if they can see how it look in their home, so that may drive
@@ -103,9 +99,7 @@ obviously the demand is there.
 I believe this is just the first step when it comes to wearables. I think the big
 opportunity and lead time is the technology advances we are going to start seeing
 the closing itself become what we call smart, the closing articles actually
-communicate with other components of the system.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 4 of 16Anurag Rana
+communicate with other components of the system.Anurag Rana
 Poonam GoyalOne of the first versions of this we saw a couple of weeks ago, and it's kind of a
 surprising player in this market, the PoloTech shirt by Ralph Lauren. The shirt actually
 has a built-in device that records work-out in real time and give you some
@@ -143,9 +137,7 @@ customized coupons, or even payments through the system. So that is becoming a
 mainstream item.
 This topic, I think is applicable for all of our retail analysts on the call. I'm going to
 start off with Poonam who covers Department stores.
-FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 5 of 16Seema ShahThanks, Anurag. So as you said, mobile is obviously very important for retailers. And
+Seema ShahThanks, Anurag. So as you said, mobile is obviously very important for retailers. And
 any retailer that isn't or haven't already started investing in mobile is at risk of losing
 market share.
 So how are retailers investing in mobile? It's about 15% of more retail spending, and
@@ -184,9 +176,7 @@ and physical store presence, it has is at Williams-Sonoma, and last year I think
 saw an 80% jump in their mobile revenue as they focus on improving the
 functionality and personalization of their mobile app.
 Other retailers in the space like Home Depot, Tractor Supply and Auto-Beauty have
-also improved their -- and refined their mobile app. With the push, then the idea atFINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 6 of 16Anurag Ranathe end of the day is that the customer will have a better experience, will have more
+also improved their -- and refined their mobile app. With the push, then the idea atAnurag Ranathe end of the day is that the customer will have a better experience, will have more
 personalized content, better functionality. So wherever and whenever they want to
 shop, they'll be able to see the content, get the content in their car and close the
 purchase.
@@ -226,9 +216,7 @@ are in different parts of the companies. When I say companies, it could be the
 difference between your Internet store, your retail store, your store that's part of a
 department store. All of these inventory that's lying it on, you need to have a very
 good handle on it before you can you give out this level of service to your
-customers.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 7 of 16Seema ShahSo, now with that in mind, a lot of companies are completely overhauling at IT
+customers.Seema ShahSo, now with that in mind, a lot of companies are completely overhauling at IT
 infrastructure and spending a lot of money on it. And again, from the tech side, this
 is for good for the IT services companies as well as the software vendors that are
 giving us -- and selling the software. But I want to get some comments from our retail
@@ -268,9 +256,7 @@ Mattress Firm is also working with Wayfair to offer same-day delivery of mattres
 So basically using mattresses for -- Mattress Firm over 2,000 stores as distribution
 centers, so that went away from make the sale on mattress. Mattress Firm will deliver
 it in the same day. So this, so what you're seeing is not just online, it's not just the
-store, it's a combination, even Amazon has experimented with physical stores andFINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 8 of 16Poonam Goyal
+store, it's a combination, even Amazon has experimented with physical stores andPoonam Goyal
 Chen Grazutishas their Amazon Locker. So customers like the idea of having multiple -- have
 choice, having a physical store, buying online, and that also makes the return
 process easier, necessary. So, Poonam, do you have any other thoughts on omni-
@@ -309,9 +295,7 @@ They're able to do much better data mining of their entire customers behavior
 records, and as -- in addition that, the data that they already own, plus the data that
 they can mine from third-party areas such as Facebook or Twitter.
 So the manage[ph] of structured and unstructured data is creating great
-opportunities both for the retail industries in order to better understand theirFINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 9 of 16Poonam Goyal
+opportunities both for the retail industries in order to better understand theirPoonam Goyal
 Seema Shahcustomer or the technology industry to sell their new solutions, which is driving
 growth for both the areas. In fact, we can comfortably say that retailers that are not
 investing in analytics would find themselves a disadvantage going forward.
@@ -351,9 +335,7 @@ Anurag, do you want add some more thoughts? Or Seema?
 Thank you. I just wanted to add we know that data analytics are being used as
 Poonam and Anurag mentioned, and also I'm seeing increasingly in the hard space,
 mind space, people are linking their loyalty program, they're becoming more hi-tech
-I should say their loyalty programs, that they can learn more about the customer andFINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 10 of 16Anurag Ranasegment their data, and as Poonam mentioned, have personalized direct marketing
+I should say their loyalty programs, that they can learn more about the customer andAnurag Ranasegment their data, and as Poonam mentioned, have personalized direct marketing
 messages.
 GMC for example is able to send personalized promotions and messages to each of
 its members of its GMC Gold card, and based on how the consumer is shopping or
@@ -394,9 +376,7 @@ they do some predictive analytics, also called cognitive software. IBM's Watson 
 very good product over there or an area that is catching a lot of attention. It can go
 through a lot of text based data and try to predict what could happen in the future.
 It's this kind of technology that's emanating from a lot of software and services
-vendor that's been included in a particular retailer's sales strategy or futureFINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 11 of 16Poonam Goyalmarketing area. So, lookout for companies that are across the ecosystem all the way
+vendor that's been included in a particular retailer's sales strategy or futurePoonam Goyalmarketing area. So, lookout for companies that are across the ecosystem all the way
 from data mining to visualization, and it's becoming increasingly important.
 Segmentation of one, this is just part of something Seema just brought up about
 GNC sending emails to each and every customer. What used to happen previously
@@ -432,9 +412,7 @@ The breach cost Target, and I think the counting is still going about $250 milli
 that includes insurance proceeds, if you strip those that's about $160 million, that's
 still a lot of money, but not only the money that it cost Target, it left shoppers astray, I
 mean shoppers were forced to go somewhere else as they were concerned about
-their data and it being breached.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 12 of 16Seema Shah
+their data and it being breached.Seema Shah
 Chen GrazutisAnd we saw a similar example, not too long ago with other retailers even markets
 was also privy to this data breach. And while it didn't impact it's sales as much,
 because it didn't occur in the peak holiday season. Retailers are now investing more
@@ -473,9 +451,7 @@ to the Under Armour apps, but yesterday they mentioned the interaction that thei
 app is going to have. And they give an example, when we talk about health tracking
 apps, there is the opportunity to connect health insurance companies like they did
 with Wellness Management providers and there when we get to that level of
-interactions between all those companies using a mobile app.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 13 of 16Anurag Rana
+interactions between all those companies using a mobile app.Anurag Rana
 Poonam GoyalIt's one thing to have your credit cards stored and where you can actually cancel it,
 but you get to a different level with hackers can get access to your actual health data.
 So I'm guessing as we get more and more of those interaction between all those
@@ -514,9 +490,7 @@ have any insights on this questions, Poonam?
 
 Yeah. I think, what you're seeing right now is basically -- as you just asked the
 question, what's happening and what are we seeing, it's really the integration of
-technology that I think is most are in. Hello, can you hear me?FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 14 of 16Anurag Rana
+technology that I think is most are in. Hello, can you hear me?Anurag Rana
 Poonam Goyal
 Seema Shah
 Chen Grazutis
@@ -553,9 +527,7 @@ a different blue off of Amazon, you want to go into the store. And I would say, 
 stores are so important because people still return items and the fact that you don't
 have to pay for shipping to return an item and you can do it, that also may drive
 some consumers to certain retailers over others.
-FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 15 of 16Poonam Goyal
+Poonam Goyal
 Chen GrazutisI think also instead of fighting that e-commerce threat, I think a lot of us have to
 embrace that, then I would give that example of the shoe store that -- and I haven't
 personally many times encourage that problem, when you go in and you look for a
@@ -597,9 +569,7 @@ quarters, and those are some of the better areas to pick it out from what exactl
 customer is spending on. We will see, if we have any other questions.
 We have one question, asking if we're going to have the transcripts? The answer is
 yes. And I believe the link is going to be mailed to you in a couple of days. It seems
-like there are no other questions at this point.FINAL TRANSCRIPT 2015-09-17
-Amazon.com Inc (AMZN US Equity)
-Page 16 of 16Anurag Rana
+like there are no other questions at this point.Anurag Rana
 Poonam Goyal
 Chen Grazutis
 I just want to thank everybody for their time. Please email us if you have any

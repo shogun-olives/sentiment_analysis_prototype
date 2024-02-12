@@ -13,9 +13,7 @@ their business. And that's true whether you are here in person or listening on t
 Web.
 How'd I do?
 Great.
-FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 2 of 16Dave O'Hara
+Dave O'Hara
 Mark Murphy
 Dave O'HaraSo Dave, do you want to start with any type of opening comments? Or any type of
 quick introduction, opening comments you want to make, or do you want to just dive
@@ -49,9 +47,7 @@ Then he was running what's now C&E. So I feel like Satya is bringing both a
 considerable breadth of understanding of the business, because he's worked in so
 many different parts of it. And I think he can -- it's easier for him maybe to see all the
 connected pieces. And he just brings a new openness, as you mentioned, with some
-of the partnerships that we have.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 3 of 16Mark MurphyBut if you look at where the company has come in the last couple years, I think it's
+of the partnerships that we have.Mark MurphyBut if you look at where the company has come in the last couple years, I think it's
 fairly instrumental in showing where we're going, which is some of the Oﬃce on the
 iPad, for example, SQL on Linux. Both of those are just examples of where we're
 really more focused on embracing what the customer wants. And when they want it.
@@ -84,9 +80,7 @@ When you look at the composition of the list below that, everyone else from Orac
 to SAP to EMC and IBM lost ground from the prior survey.
 So I want to ask you: How would you interpret that? When you consider that
 (technical diﬃculty) change happening below the level of Microsoft? What is it
-showing us?FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 4 of 16Dave O'Hara
+showing us?Dave O'Hara
 Mark Murphy
 Dave O'HaraWell I think it is certainly showing a trend in the cloud. AWS showing up on the list is
 a business that didn't even exist 10 years ago, barely existed five years ago. So the
@@ -119,9 +113,7 @@ material recalibration of the market share as it stands today, right? What is it
 would enable that type of recalibration?
 Well I would step back for a second and just say from a cloud perspective we really
 see the cloud as being -- the cloud overall, the cloud business overall -- we really see
-that as being even bigger than the existing IT business today. So I think just movingFINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 5 of 16Mark Murphy
+that as being even bigger than the existing IT business today. So I think just movingMark Murphy
 Dave O'Harato the cloud, there is an inherent growth rate in how you think about cloud versus
 previous IT setups.
 So I think it's going to be a bigger pie. Hopefully we'll get our share of the pie. We're
@@ -154,9 +146,7 @@ that's a core part of the offering; but really we feel like the ultimate value i
 services that are offered on top of the infrastructure.
 But you need the infrastructure to make all that work. So we do believe that
 infrastructure will continue to be a critical part of it. But we think it's about the bigger
-cloud picture and less about how we think about infrastructure.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 6 of 16Mark Murphy
+cloud picture and less about how we think about infrastructure.Mark Murphy
 Dave O'HaraFrom a pricing perspective, the last couple years or the last 18 months have been
 more sane maybe than the first couple years that preceded that. There's a lot of
 question about how big it will be. And who is going to get what share.
@@ -191,9 +181,7 @@ year perspective. So we feel like there is a lot of runway in Oﬃce.
 The other thing I would mention is with our E5 offering which we just launched there
 is an opportunity to provide additional SKUs in Oﬃce that provide additional
 functionality with that. It's got Power BI and security and voice in the cloud. And
-those are all new offerings for us.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 7 of 16Mark Murphy
+those are all new offerings for us.Mark Murphy
 Dave O'HaraI think sometimes people look at it and say Oﬃce has really high penetration. And
 it's at the upper end of its market. But we really believe, one, there is a lot of cloud
 runway left; and, two, there is an opportunity through Oﬃce and through (technical
@@ -228,9 +216,7 @@ think partners see it as an opportunity for them to break into new categories.
 I also think the third thing is that there's new stuff for them to bring to customers,
 rather than maybe they've been (technical diﬃculty) the same solutions for the last
 few years and maybe it's getting a little stale. There is something new for them to talk
-about.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 8 of 16Mark Murphy
+about.Mark Murphy
 Dave O'Hara
 Mark Murphy
 Dave O'HaraSo I think it's the combination of all those things. They see us as viable, they see us as
@@ -265,9 +251,7 @@ that we acquired. A lot of times what we would do for an acquisition would be
 considered in Microsoft terms a tuck-in. But it's super-strategic. I think that security is
 an example (technical diﬃculty)
 It is hard for any one company to catch up. So we always have a good, solid, organic
-growth strategy and we'll continue to do that.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 9 of 16Mark Murphy
+growth strategy and we'll continue to do that.Mark Murphy
 Dave O'Hara
 Mark Murphy
 Dave O'HaraBut I do think there are select acquisitions we can do that will augment the offerings
@@ -300,9 +284,7 @@ So some of this is a natural transition. Those get accounted for a little differ
 think there's been a move somewhat away from non-annuity to annuity, which we
 see as goodness.
 There was also some weakness for the reasons that you mentioned, Mark. It's Brazil,
-Russia, etc. Those markets are less annuity.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 10 of 16Mark Murphy
+Russia, etc. Those markets are less annuity.Mark Murphy
 Dave O'Hara
 Mark Murphy
 Dave O'Hara
@@ -334,9 +316,7 @@ we're working closely with them on that.
 I would say that our guidance reﬂects what we see as trends in the transactional
 business. But we'll see how it plays out. But we feel good about the business. We
 feel good about where we're at.
-FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 11 of 16Dave O'Hara
+Dave O'Hara
 Mark Murphy
 Dave O'HaraOkay. Now I want to come back to -- because you had made a comment around
 Oﬃce 365. Going back to our partner survey, again looking at it through that lens,
@@ -370,9 +350,7 @@ in the future.
 Any quick comment on the decision point to make your ﬂagship database, SQL
 Server, available for the first time on the Linux platform? That's been a tremendously
 successful product. It's in the upper right-hand corner of the Gartner quadrant --
-Yes.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 12 of 16Mark Murphy
+Yes.Mark Murphy
 Dave O'Hara
 Mark Murphy
 -- for the first time. So it is being assessed as the world's number one database.
@@ -406,9 +384,7 @@ to E5, because you've already mentioned it a couple times this morning. So you h
 this new E5 option for licensing Oﬃce 365. It's your top-of-the-line plan. It's the
 primo plan.
 I think our understanding was that E4 was not a really heavily adopted SKU. Perhaps
-there is a misperception on that. I think E3 was very heavily adopted.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 13 of 16Dave O'Hara
+there is a misperception on that. I think E3 was very heavily adopted.Dave O'Hara
 Mark Murphy
 Dave O'HaraSo you're early on; you're very early on in this. What do you expect out of E5? Is
 there anything you've observed so far in the early innings in terms of just how
@@ -442,9 +418,7 @@ I would describe it this way. Voice is complicated, as anybody who runs voice
 infrastructure knows. It's something that you don't just throw it out there.
 I think even with the cloud and on-prem there is -- the question we get is: Do you
 think the world is going to ﬂip to cloud? It's not going to ﬂip. It's all about a transition
-and it's all about an orderly transition.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 14 of 16Mark Murphy
+and it's all about an orderly transition.Mark Murphy
 Dave O'Hara
 Mark Murphy
 Q - Unidentified Participant
@@ -477,9 +451,7 @@ Recent? Recent growth, okay; thank you. I do feel -- if you define SQL as strict
 license database I think that we look at that as being upper-single-digit growth. We
 felt -- we feel good about, to Mark's earlier (technical diﬃculty) about where we're
 positioned in the market. We feel good about SQL. We feel good about how we're
-positioned relative to competitors.FINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 15 of 16Q - Unidentified Participant
+positioned relative to competitors.Q - Unidentified Participant
 A - Dave O'Hara
 Q - Unidentified Participant
 A - Dave O'HaraSo I think there is an opportunity for us to go take some share from existing
@@ -512,9 +484,7 @@ estimate of how much that is.
 We say: How much is due to things like geo-specific issues? We have an estimate of
 how much that is.
 I would say that if you say transactional slowdown, I would also put it in context,
-which is our transactional slowdown was around $100 million in a $12 billionFINAL TRANSCRIPT 2016-05-24
-Microsoft Corp (MSFT US Equity)
-Page 16 of 16A - Mark Murphy
+which is our transactional slowdown was around $100 million in a $12 billionA - Mark Murphy
 A - Dave O'Harabusiness. So we don't see it as -- it's not Armageddon by any stretch.
 But -- so we would say some of that is shift, some of that is geo weakness, some of it
 is probably just a little bit of an unknown. And we tried to build all of that into how

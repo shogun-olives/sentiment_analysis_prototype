@@ -16,9 +16,7 @@ to be -- you’re going to be shocked where we’re going to be in, again, Micro
 Cloud.
 So maybe just start at a high level for us. Kind of talk us through sort of the vision that
 the company has for Microsoft Cloud. Obviously, that’s a very expansive vision but --
-and the products that, how they create value for customers in your mind.FINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Dave O’Hara
+and the products that, how they create value for customers in your mind.Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
 That’s great. So thanks, Phil. Thanks for having us down here. Happy to be here and
@@ -56,9 +54,7 @@ Well, I think they see the value prop. They certainly -- there’s a few things 
 going as a company. I think one is that we’re the most global cloud, and there’s a lot
 of companies that want that assurance that if they’re going to move into a new geo
 that there’s a cloud there to support them. So I think the global nature of it helps us a
-ton and has helped us land some big deals even in countries like China, where it’sFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14A - Phil Winslow
+ton and has helped us land some big deals even in countries like China, where it’sA - Phil Winslow
 A - Dave O’Harahard to break in, but we have the cloud infrastructure there to support it. So that’s a
 big benefit for us.
 I think we also have some of the best security in the world in some of our security
@@ -98,9 +94,7 @@ had very specific questions. This isn’t some sort of ethereal idea. This is li
 need to make this real. How are you going to make it real? How does your industry
 cloud help us make it real? And so there’s a ton of interest in those industry clouds.
 I also think it’s just the beginning. When we launched those industry clouds, it’s not
-like we check the box and called it done. We’re going to continue to build those out,FINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14A - Phil Winslow
+like we check the box and called it done. We’re going to continue to build those out,A - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslowand we’re going to continue to make them more specific to customers. And the
 more specific they get, the more value-add they have.
@@ -141,9 +135,7 @@ to be safe, secure, that it’s reliable, that it’s global and that it has the
 they need. And I think that’s where we’re at.
 
 Got it. And then once again, another kind of high-level question here, but when you
-think about existing customers, where is the growth coming from? Is this newFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14A - Dave O’Hara
+think about existing customers, where is the growth coming from? Is this newA - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslow
@@ -186,9 +178,7 @@ about building out data centers and infrastructure that we basically said we nee
 good, long-term contracts because we need to be able to build out a viable
 business, and we’re willing to commit to you. We need you to be willing to commit to
 us. And we still work with customers on long-term contracts, but we’ve also built in a
-lot more ﬂexibility.FINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14A - Phil Winslow
+lot more ﬂexibility.A - Phil Winslow
 A - Dave O’Hara
 A - Phil WinslowIf somebody says I don’t know how much I’m going to consume, then we can go do
 a PayGo deal with them, and they can consume what they consume. And we have
@@ -230,9 +220,7 @@ getting better at each of them.
 So okay, expanding products that it’s like increased consumption, frankly, the secular
 shift -- accelerated secular shift for the cloud. One of the questions I get is that,
 frankly, can Microsoft keep up the sales hiring to essentially -- on the go-to-market
-side to support all this innovation and these trends?FINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14A - Dave O’Hara
+side to support all this innovation and these trends?A - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
 Yes. I’d say knock on wood, but there’s no wood up here. I would say right now we
@@ -274,9 +262,7 @@ that evolution came Teams. And so I think we’re in a pretty good position for
 communications. And some of the Team’s usage numbers we’ve published lately
 again, very pandemic-driven, but we just happen to be in a good business and take
 advantage of that. So the comm stuff is landing. Security is always a big issue. I think
-people are getting smarter about how they think about analytics.FINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14A - Phil Winslow
+people are getting smarter about how they think about analytics.A - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
@@ -320,9 +306,7 @@ just say, look, I don’t want the whole thing. I’ll just take this piece. And
 we’ve seen over time is that customers go, okay, I’ll start with one. Start with security.
 Hey, I’ll add comms. Hey, this analytics stuff is kind of not bad. And so maybe I’ll go
 do that. And then they go, you know what, we’ll just buy E5. And so we do think it’s
-allowing people to consume what they really need at the time. But over time, in theFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14A - Phil Winslow
+allowing people to consume what they really need at the time. But over time, in theA - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslowspirit of the Microsoft Cloud, I think they see the benefit of all that. And at some
 point, we just make it attractive for them to go the whole way on that piece of it. And
@@ -366,9 +350,7 @@ think there’s plenty of ways to monetize even if it’s not directly.
 Yes. Just sort of just the engagement of living in Teams, so to speak. I mean just at
 Credit Suisse, one of the things that -- a path we’re going down, we signed these like
 10-year contracts with these PBX guys, these telephony folks. But it’s like, actually, we
-want to terminate in Teams. So even though we’re not using a hosted PBX becauseFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14A - Dave O’Hara
+want to terminate in Teams. So even though we’re not using a hosted PBX becauseA - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslow
@@ -410,9 +392,7 @@ of use, but also just the ﬂexibility and the ability to create apps quickly.
 We’ve had customers that would come to us. Again, as you think about the evolution
 of the cloud, it used to be lift and shift and then optimize. And now we’re getting to
 the point to where we’ve had customers that have 10,000, 12,000 apps, and they’re
-trying to figure out, geez, how can I cost-effectively migrate all these apps to theFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14A - Phil Winslow
+trying to figure out, geez, how can I cost-effectively migrate all these apps to theA - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
@@ -454,9 +434,7 @@ We’ve answered them all. We’ve answered them all.
 
 We’re killing the Q&A, but I actually want to double-click on AI/ML because I think
 that’s one of the, obviously, I’d say, artificial intelligence could be the most impactful,
-call it, technology innovation before -- any others before it. The -- but where -- walkFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14A - Dave O’Hara
+call it, technology innovation before -- any others before it. The -- but where -- walkA - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslow
@@ -498,9 +476,7 @@ And the people. And the people, of course.
 I would say for the finance team because I think it’s natural for people to say some
 computer is going to knock me out of my job. And with our finance teams, we just
 said, hey, we’re going to do that. You’re still going to be involved, but we’re also
-going to free up time for you to go work with customers and show them how itFINAL TRANSCRIPT 2021-11-30
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14A - Phil Winslow
+going to free up time for you to go work with customers and show them how itA - Phil Winslow
 A - Dave O’Hara
 A - Phil Winslow
 A - Dave O’Hara

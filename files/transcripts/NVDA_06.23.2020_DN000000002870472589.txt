@@ -4,9 +4,7 @@ of Mercedes-Benz. Good evening to you, Ola Kallenius.
 Hello, Yasmine. Great to be here.
 Hi, Ola. Nice to see you again. Great to have you, gentlemen. Now, today, Ola, I
 would like to stick with you for now. Mercedes-Benz is known for finely engineered
-luxury vehicles. But as I understand, you are about to add new layers, so to speak toFINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11Ola Kallenius
+luxury vehicles. But as I understand, you are about to add new layers, so to speak toOla Kallenius
 Yasmine Blair
 Jensen Huang
 Yasmine Blair
@@ -44,9 +42,7 @@ company. We were one of the first pioneers more than two decades ago that starte
 working on driving assistant systems. And this is a field that has so many
 opportunities. It will make driving much safer in the future, all the way to
 autonomous drive. So, I would like to describe this partnership for us at Mercedes-
-Benz, really hitting two dimensions. One is the customer.FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Yasmine Blair
+Benz, really hitting two dimensions. One is the customer.Yasmine Blair
 Ola Kallenius
 Jensen HuangWith regard to the customer through the technology that we're going to put on the
 road together with NVIDIA, it will be endless possibilities in driving assistance and
@@ -86,9 +82,7 @@ power is of NVIDIA's processors. And we did it. And I think we put the MBUX on t
 with the help of NVIDIA. So to go to a now much deeper, much broader
 collaboration and in an even more technically sophisticated domain, I think it was a
 natural fit for us.
-FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Yasmine BlairYeah. This is the biggest partnership of its kind in the transportation industry that's
+Yasmine BlairYeah. This is the biggest partnership of its kind in the transportation industry that's
 ever happened. And I can't imagine a better company to do this with. This is a
 gigantic endeavor. And this partnership breaks grounds in several different fronts. Of
 course, the first part is the technology and we're leveraging NVIDIA's multi-billion,
@@ -127,9 +121,7 @@ many different levels the news is groundbreaking. And I keep on using the term
 market changer in my mind. What do you think? This is a question that goes out to
 both of you. What do you think this co-operation between your two companies is
 going to change for perhaps the entire automotive market in the future.
-Ola, would you like to go first on this one?FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Ola Kallenius
+Ola, would you like to go first on this one?Ola Kallenius
 Yasmine Blair
 Jensen HuangFor us, this is such a crucial part of our strategy. As I mentioned in the analogy of a
 smartphone on wheels, we are developing a full-scale operating system for the
@@ -167,9 +159,7 @@ actually -- is actually better than the car that you bought because the software
 better, the capability was better, it was more personalized to you, it's smarter. All of
 these capabilities are simply not possible in the past. But for the very first time, the
 combination of circumstances of technology availability that we have now and a
-great partnership we have with Mercedes, we can now revolutionize the car industry.FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Yasmine Blair
+great partnership we have with Mercedes, we can now revolutionize the car industry.Yasmine Blair
 Ola Kallenius
 Yasmine Blair
 Jensen HuangAll right, gentlemen. We have received a number of questions throughout the day.
@@ -206,9 +196,7 @@ coming to earth. And over time, there will be more miles driven. All of those mi
 eventually will be autonomous or autonomously assisted. We would like to see this
 tech capability adopted by a large number of companies over time. And Ola would
 like, too, as well. This is -- this is one of the capabilities you would like the industry to
-be able to standardize on.FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11Yasmine Blair
+be able to standardize on.Yasmine Blair
 Ola Kallenius
 Yasmine Blair
 Ola KalleniusHowever, being the first mover has great advantages. And this is the opportunity that
@@ -245,9 +233,7 @@ download all sorts of different features. If it's live traﬃc, music, different
 are primarily but not only in the infotainment area, that we launched already a
 couple of years ago with the first generation of MBUX. And the second generation
 that is coming in the new S-Class later this year will open that up. So let's say, the
-story is getting bigger.FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11Yasmine Blair
+story is getting bigger.Yasmine Blair
 Jensen Huang
 Yasmine Blair
 Ola KalleniusIn the area of driving assistance, we haven't done this so far. So, this new
@@ -284,9 +270,7 @@ have on their minds. And Ola, I would like to begin with you again. It's about T
 seems like Tesla for years have offered the ability to update software in their cars.
 And the question here is, what will Mercedes offer that is fundamentally different?
 Ola?
-I usually don't speak about competitors.FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Yasmine Blair
+I usually don't speak about competitors.Yasmine Blair
 Ola Kallenius
 Yasmine Blair
 Jensen HuangI know.
@@ -322,9 +306,7 @@ time. And then, of course, lastly, just a incredible scale of Mercedes. Ola runs
 organization that's gigantic and manufactured, and sales and markets and have loyal
 customers all over the world. This level of scale has never been achieved before.
 And so I think the combination of all those things will be able to really make a
-difference.FINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Yasmine Blair
+difference.Yasmine Blair
 Ola Kallenius
 Yasmine Blair
 Jensen HuangJensen, thank you for mentioning the customers because the last question we're
@@ -361,9 +343,7 @@ architecture and this new way of providing products and capabilities and
 applications to customers, the long tail -- the long tail of customers that are able to
 enjoy Mercedes-Benz will still continue to be able to get the latest capabilities and
 software, the latest enjoyment, the latest refreshes and Mercedes-Benz, of course will
-be able to benefit from that larger and growing and growing installed base. And soFINAL TRANSCRIPT 2020-06-23
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11Yasmine Blair
+be able to benefit from that larger and growing and growing installed base. And soYasmine Blair
 Ola Kallenius
 Jensen Huang
 Yasmine Blairthis is a great advantage for Mercedes-Benz in my opinion, because of their beautiful

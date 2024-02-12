@@ -17,9 +17,7 @@ The first market to talk about would be gaming. Gaming is our largest part of ou
 business. It represents more than 50% of our overall revenue and it's grown quite
 nicely in the first part of this year.
 So after three quarters our gaming business is actually growing about 42% year on
-year, largely inﬂuenced by the excitement about PC gaming, the production value ofFINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12the new games that are coming out, the underlying technology and just the entire
+year, largely inﬂuenced by the excitement about PC gaming, the production value ofthe new games that are coming out, the underlying technology and just the entire
 social platform surrounding about PC gaming. We've been really, really pleased with
 the adoption of our platform, the full ecosystem surrounding gaming that we have
 spent a lot of time working to produce a better and better gaming experience for
@@ -58,9 +56,7 @@ new things to you. That overall training environment has been so key in the use 
 GPU to speed up the time, to actually train the overall underlying applications
 through that overall server experience. So we have many web service providers all
 across the world that you would recognize using artificial intelligence in that training
-environment with GPUs to expand those.FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Blayne CurtisWe've also announced a new set of cars that will be able to take that training
+environment with GPUs to expand those.Blayne CurtisWe've also announced a new set of cars that will be able to take that training
 environment, also use it in terms of a production environment in true inference of
 that same type of work processing images, processing video, processing voice
 recognition, voice processing in all types and the use of a GPU in the right form
@@ -98,9 +94,7 @@ about the growth rate and you broke the gaming versus OEM out at Analyst Day,
 you've updated it for several quarters since. We have a good picture of what the
 growth rate has been.
 Can you talk about what is really driving this? And if you can talk about what the right
-long-term growth rate is?FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12Colette Kress
+long-term growth rate is?Colette Kress
 Blayne Curtis
 Colette KressAnd it's interesting at Computex you go to some of these PTAMs and they are
 struggling, half their business is gaming laptops now as well. So how big is laptops
@@ -137,9 +131,7 @@ gaming which now looks like movies almost in terms of their production value.
 What's the right way to think about the cadence of upgrades and has that changed?
 
 When you think about why we have surrounded this overall industry we've
-surrounded it because we see a full ecosystem around the gaming platform that hasFINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Blayne Curtis
+surrounded it because we see a full ecosystem around the gaming platform that hasBlayne Curtis
 Colette Kresscontinued to evolve. Those production value of games, our work has been
 continuous with software developers in those games to make them more realistic.
 When a gamer receives or goes out and purchase an add-in card that experience
@@ -174,9 +166,7 @@ devices that will enable that VR experience.
 Virtual reality is now becoming an experience based on the underlying technology a
 great experience. Really is solving some of the really hard problems of the latency in
 order to put you into an encapsulated position so that you can have a great
-experience has been very key.FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Blayne Curtis
+experience has been very key.Blayne Curtis
 Colette Kress
 Blayne CurtisNow there are many different types and forms of VR that you'll probably see coming
 out in 2016. But the key ones that we're concentrated on are those that would be
@@ -212,9 +202,7 @@ And I do want to change gears, obviously a lot to talk about here. Auto is proba
 easier to handicap you know your wins, you know how big the platforms could be,
 maybe timing could move around.
 Today the bulk of your revenue is consoles dash applications. Obviously the interest
-is in the autonomous applications. Can you talk about how to think about the rampsFINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Colette Kress
+is in the autonomous applications. Can you talk about how to think about the rampsColette Kress
 Blayne Curtis
 Colette Kressof those wins and then talk maybe competitively where you see the opportunities to
 gain some more share?
@@ -251,9 +239,7 @@ Frankfurt at the International Car Show the next piece is essentially a virtual
 dashboard. No buttons, nothing. And key companies demonstrating what they see
 as their future concept cars.
 So we'll continue to stay in the high-end parts of those overall graphics. But what
-we're able to benefit right now when we think about those additional cars andFINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Blayne Curtis
+we're able to benefit right now when we think about those additional cars andBlayne Curtis
 Colette Kress
 Blayne Curtis
 Colette Kressdesign wins is landing at a really luxury lines in the really high-end cars, they are able
@@ -289,9 +275,7 @@ on ADAS.
 But our focus is the center compute for all of those different types of needs and
 technology to assist ADAS but really talking about the underlying supercomputer
 inside of the car, not necessarily focused on a single function or focused on
-eliminating any of those. Those are also going to be necessary car.FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Blayne Curtis
+eliminating any of those. Those are also going to be necessary car.Blayne Curtis
 Colette Kress
 Blayne CurtisOur strategy is really providing the underlying platform that all of these things can
 coexist such that if you remove the driver who do you replace the driver with? That
@@ -328,9 +312,7 @@ It gets to be a little bit lumpy in terms of how that can look. We are confident
 data center business will continue to add in terms of strong growth as we go
 forward. But these large projects have probably produced a little bit of lumpiness
 right now.
-FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Colette Kress
+Colette Kress
 Blayne Curtis
 Colette Kress
 Blayne CurtisI did want to ask you on the gross margins as you look into next year lots of moving
@@ -366,9 +348,7 @@ disruptive trends and I think you just answered it. As you look into next year y
 actually involved in many disruptive trends.
 
 That's correct.
-FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Unidentified Participant
+Q - Unidentified Participant
 A - Colette Kress
 Q - Blayne Curtis
 A - Colette Kress
@@ -405,8 +385,6 @@ capability the human being has and the years and years of driving that we have. 
 think you look at it more as that's a very hard amount of thing to replicate. Not
 necessarily replicated with one simple little microprocessor, that's a significant
 supercomputer that's probably necessary.
-FINAL TRANSCRIPT 2015-12-09
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12A - Colette KressThe clock says zero. I appreciate the time, Colette.
+A - Colette KressThe clock says zero. I appreciate the time, Colette.
 
 Great, thank you.

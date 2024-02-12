@@ -12,9 +12,7 @@ AirPods are one of the most popular music products we've ever created. Combined
 with the revolutionary iPhone, they bring an industry-leading wireless music
 experience wherever you go. Our powerful Mac and iPad multi-speaker sound
 systems bring incredible audio to any space. HomePod mini is the best way to enjoy
-your music throughout your home.FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 2 of 15Zane Ward
+your music throughout your home.Zane Ward
 Tim Cook
 Unidentified SpeakerApple Watch is a fantastic way to enjoy music right from your wrist, providing the
 soundtrack you need to stay active and fit. And of course, there's Apple Music, which
@@ -50,9 +48,7 @@ for everyone and one of the best ways to experience it is with HomePod mini. To 
 you more, here's Dave.
 HomePod mini is a powerful smart speaker that delivers amazing sound, the
 intelligence of Siri and it's the foundation for your smart home. All while ensuring
-your privacy and security are protected. We've packed incredible innovation into aFINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 3 of 15Tim Cook
+your privacy and security are protected. We've packed incredible innovation into aTim Cook
 Sushmita Chowdhurycompact elegant design. And today, we're excited to introduce more ways,
 HomePod mini can complement your home.
 HomePod mini in yellow, orange and blue is bold, fun that's a pop of color in
@@ -83,9 +79,7 @@ immersive listening, spatial audio embeds you deeper into the mix than ever befo
 Spatial audio brings music to life with sounds that surround you to create something
 truly multi-dimensional. It's a whole new way to experience your favorite music. Every
 day, top artists like James Blake and Doja Cat are releasing more songs in Dolby
-Atmos. Spatial audio goes beyond music when watching TV shows and movies, itFINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 4 of 15enables an immersive theater-like experience placing you right in the middle of the
+Atmos. Spatial audio goes beyond music when watching TV shows and movies, itenables an immersive theater-like experience placing you right in the middle of the
 action.
 You can enjoy a spatial audio with dynamic head tracking on AirPods Pro and
 AirPods Max across all of your devices from iPhone to iPad to Apple TV and Mac. We
@@ -123,9 +117,7 @@ EQ and the magical experience that our customers love. We took the best-selling
 headphones in the world and made them even better. All of this for $179. We will
 start taking orders today and they will be available next week. The next generation
 AirPods joined the world's most popular family of headphones. This is our new
-AirPods line-up starting at just $129. Now, back to Tim.FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 5 of 15Tim Cook
+AirPods line-up starting at just $129. Now, back to Tim.Tim Cook
 Unidentified Speaker
 Johny Srouji
 We can't wait for you to try the next generation of AirPods. And with this great line-
@@ -165,9 +157,7 @@ and forth over a slower interface. No one has ever applied a system on a chip
 designed to ecosystem until today and we did this by scaling of M1's ground-
 breaking architecture to create a far more powerful chip with M1 Pro. We started by
 rearchitecting the chip fabric to inhibit this obviously to scale, while doubling the
-width of the memory interface and using faster DR.FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 6 of 15This lets M1 Pro deliver up to 200 gigabytes per second of memory bandwidth,
+width of the memory interface and using faster DR.This lets M1 Pro deliver up to 200 gigabytes per second of memory bandwidth,
 nearly three times M1. And its custom package supports up to 32 gigabytes of
 unified memory. The M1 product is built using the industry-leading 5-nanometer
 process technology and features a massive 33.7 billion transistors. That's more than
@@ -209,9 +199,7 @@ To put that in perspective, here is the latest 8-core PC laptop chip. M1 Pro and
 Max have higher performance at every power level. At their peak, they deliver 1.7
 times the performance of the PC chip in the same power envelope. And at the peak
 performance of the PC chip, they deliver the same performance at 70% less power.
-That's a big deal.FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 7 of 15Craig FederighiNow, here's the GPU performance versus power curve of M1. And here is the
+That's a big deal.Craig FederighiNow, here's the GPU performance versus power curve of M1. And here is the
 integrated graphics in that 8-core PC laptop chip. M1 easily outperforms it while
 using significantly less power. So, when we add an M1 Pro, it's a whole different class.
 At its peak, it's more than seven times faster. Now, many PC laptops added discrete
@@ -252,9 +240,7 @@ charge and macOS is designed to take advantage of the unified memory
 architecture in these new chips.
 So, Pro apps can manipulate huge images or video streams, and move them
 between the CPU and GPU with zero copies for breath-taking performance.
-Technologies like Metal let apps automatically scale with our new chips for evenFINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 8 of 15Rohit Gupta
+Technologies like Metal let apps automatically scale with our new chips for evenRohit Gupta
 Nick Rapp
 Meagan Keane
 Jules Urbach
@@ -289,9 +275,7 @@ Hi, I'm Nick.
 My name is Meagan Keane.
 Jules Urbach.
 
-My name is Philip Losch.FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 9 of 15Jules Urbach
+My name is Philip Losch.Jules Urbach
 Philip Losch
 Rohit Gupta
 Philip Losch
@@ -327,9 +311,7 @@ There's never been a GPU with 64 gigs ever in a notebook. And it changes our ent
 workﬂow, for example that 100 gigabytes starship enterprise loading it all into
 memories, slicing through it, seeing every detail of that, it just hasn't been possible
 in any other piece of hardware.
-FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 10 of 15John Ternus
+John Ternus
 Shruti HaldeaIf I had to summarize what M1 Pro and M1 Max means to me, I'd say they are life
 changing.
 When we put all of this together, great apps, macOS, and these new chips were able
@@ -367,9 +349,7 @@ leading Force Touch trackpad that's perfect for pro applications.
 Now, let's talk about connectivity. Having a wide range of ports can make life a lot
 easier for pros. So, I'm excited to share that we're adding ports to the new Macbook
 Pro. On one side, there's an HDMI port for conveniently connecting to displays and
-TVs, a Thunderbolt 4-port which connects to high-speed peripherals and an SD cardFINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 11 of 15Kate Bergeronslot enabling fast access to media. On the other side, the headphone jack now has
+TVs, a Thunderbolt 4-port which connects to high-speed peripherals and an SD cardKate Bergeronslot enabling fast access to media. On the other side, the headphone jack now has
 advanced support for high-impedance headphones. And there are two more
 Thunderbolt 4 ports for a total of three in the system. And yes, MagSafe is coming
 back to the MacBook Pro. MagSafe 3 has a new design that supports more power
@@ -408,9 +388,7 @@ inspired by the capability of the pro display XDR, and it features the mini LED
 technology, used in iPad Pro which we've built into the impossibly thin display
 enclosure of the new MacBook Pro. We did this by integrating the custom design,
 mini-LED backlight, optical films and diffusers and a cutting edge LCD panel into the
-display housing and the display is uncompromising in its performance.FINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 12 of 15Trevor McLeod
+display housing and the display is uncompromising in its performance.Trevor McLeod
 Shruti HaldeaThe state-of-the-art backlit features thousands of many LEDs arranged in individually
 controlled local dimming zones. This enables up to an astonishing 1,000 nits of
 sustained, full-screen brightness. 1,600 nits of peak brightness and a staggering 1
@@ -450,9 +428,7 @@ can do. The 16 inch model with M1 Pro and M1 Max has up to 2x faster CPU
 performance than the previous generation with the Core I9. This is a tremendous
 performance boost for compute heavy tasks, like, compiling a project in Xcode. And
 when it comes to graphics, M1 Pro is up to 2.5x faster than the prior 16 inch model
-with the fastest GPU and M1 Max is up to 4x faster. This boost is dramatic for graphicsFINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 13 of 15intensive tasks, like, rendering scenes in Cinema 4D. And when it comes to machine-
+with the fastest GPU and M1 Max is up to 4x faster. This boost is dramatic for graphicsintensive tasks, like, rendering scenes in Cinema 4D. And when it comes to machine-
 learning, you'll get up to 5x faster performance. So things like selecting the subjects
 within images in photoshop are faster than ever.
 Now, let's look at the 14 inch model, which is also configurable with M1 Max, our
@@ -494,9 +470,7 @@ recycled aluminum, which brings us a step closer to our goal of using only recyc
 and renewable materials. And it is free of numerous harmful substances,
 manufactured using even more renewable energy and meets Apple's high standards
 for energy eﬃciency. The new Macbook Pro is simply extraordinary. It has a
-combination of phenomenal performance, incredible battery life, andFINAL TRANSCRIPT 2021-10-18
-Apple Inc (AAPL US Equity)
-Page 14 of 15John Ternus
+combination of phenomenal performance, incredible battery life, andJohn Ternus
 Tim Cookgroundbreaking features that set it apart from every other notebook. Now, before I
 hand it back to John, let's take another look at this beast of a machine.
 (Audio-Video Presentation)

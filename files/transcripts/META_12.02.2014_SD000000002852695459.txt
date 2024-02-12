@@ -20,9 +20,7 @@ Now, for the last five years really eﬃciency has a top priority at the Company
 initially I would say that it was really about necessity. We were facing a huge uptick in
 adoption of Facebook and usage. And eﬃciency has always been core just to be
 able to scale. And as we reached a large-scale it became necessary just for long-term
-financial viability and also just our ability to build platforms that scale well.FINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 2 of 9Now, from a cost perspective really eﬃciency breaks down into three areas. For data
+financial viability and also just our ability to build platforms that scale well.Now, from a cost perspective really eﬃciency breaks down into three areas. For data
 centers, heat management is really one of the most important things that we do in
 terms of core eﬃciency. In a poorly designed facility, a facility that doesn't
 concentrate on heat very much, you could easily pay 50% or 90% additional
@@ -61,9 +59,7 @@ HHVM is our core PHP web server. It is, ballpark, five to six times more eﬃcie
 traditional Apache stack.
 Flashcache is the service that we use on databases that trades off ﬂash caching and
 access to slower hard drives. Presto is one of our data processing/data warehouse
-pieces of software. Rock Stevie [ph], Proxy, Thrift and Folly is a general library we use.FINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 3 of 9So in all cases we really try to, as we are able to support open sourcing a project, we
+pieces of software. Rock Stevie [ph], Proxy, Thrift and Folly is a general library we use.So in all cases we really try to, as we are able to support open sourcing a project, we
 try to keep it out there.
 And the reason for this is that we really believe that the entire industry can benefit
 from eﬃciency work that we do and that we can benefit from the industry feeding
@@ -102,9 +98,7 @@ so the more homogeneity you can keep in your infrastructure, the easier it is to
 optimize, the better supply chain you have, better eﬃciencies up and down the stack
 in terms of operating an understanding servers.
 And so at Facebook each year we have -- we only have five types of servers. So
-there's web, which is our main compute workhorse. Database, over the years it hasFINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 4 of 9evolved from purely a disk thing to entirely ﬂash. Hadoop is main data warehouse for
+there's web, which is our main compute workhorse. Database, over the years it hasevolved from purely a disk thing to entirely ﬂash. Hadoop is main data warehouse for
 data processing. And that's a lot of compute and a lot of disks. Photos -- it's all about
 the lowest dollars for gig. We certainly store a lot of media at Facebook. And so
 optimizing for dollars per gig is really important. Then that last feed rack, that's the
@@ -144,9 +138,7 @@ bunch of servers and you think about, well, what is it really? You've got a bunc
 compute, you've got a bunch of RAM. And you've got some ﬂash. Now, exactly
 where the computer is and where the RAM is you shouldn't matter if it's all within the
 rack and if you got a nice healthy network. And so if you break down this
-disaggregated rack idea into a few major components, you got processors orFINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 5 of 9compute servers. You've got RAM or just kind of RAM servers. You might have
+disaggregated rack idea into a few major components, you got processors orcompute servers. You've got RAM or just kind of RAM servers. You might have
 storage server and you might have Flash.
 So rather than put all of that in one server, where at any time you are going to hit a
 weakest link, you are going to have not enough computer or not enough RAM, let's
@@ -186,9 +178,7 @@ might discover -- they might have an eﬃciency win. The index might grow over t
 And the best thing to do would be to just give that service more ﬂash. And so rather
 than allocate an entire separate rack, thereby doubling the cost, you just allocate that
 one resource and you just slam in another Flash sled. And that kind of ﬂexibility
-really leads to some pretty nice eﬃciency wins.FINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 6 of 9So we still maintain all of our core strength -- our volume pricing, custom
+really leads to some pretty nice eﬃciency wins.So we still maintain all of our core strength -- our volume pricing, custom
 configuration, all of those sorts of things. But what it really allows us to do is much
 smarter technology refreshes and the hardware, the resources -- because we are
 thinking on that rack level we can evolve the hardware with the service.
@@ -229,9 +219,7 @@ denser ﬂash sleds and realize nice benefits there.
 So we think that in the ﬂash there's always going to be a nice market for high-
 performance ﬂash. But we think in the data center world a lot of the ﬂash interest is
 going to shift towards lower and lower ﬂash. Last year we did a talk and asked the
-industry for the -- please make the worst ﬂash possible. And really, we can work withFINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 7 of 9Q - Stephen Ju
+industry for the -- please make the worst ﬂash possible. And really, we can work withQ - Stephen Ju
 Q - Unidentified Participantvery -- not necessarily low-quality ﬂash but lower-endurance ﬂash, TLC or even
 beyond in terms of bit-density.
 Now, there's also a number of RAM alternatives we think are coming up and are very
@@ -266,9 +254,7 @@ Yes. We probably have time for a couple of questions here. So poll for questions
 from the audience.
 There's a lot of talk about Mesos and its implications for computing and software
 infrastructure stack. What is your perspective on how Mesos gets adopted and the
-implications of the change there?FINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 8 of 9A - Jason Taylor
+implications of the change there?A - Jason Taylor
 Q - Unidentified Participant
 A - Jason Taylor
 Q - Unidentified Participant
@@ -308,9 +294,7 @@ And the expansion of 100-gig fiber within that footprint.
 
 Sure. So I can say that when I have talked about 100-gig fiber and 400-gig fiber, all
 of that is within the data center. So what has happened is that the
-telecommunications industry has delivered fantastic technology over the last bunchFINAL TRANSCRIPT 2014-12-02
-Meta Platforms Inc (META US Equity)
-Page 9 of 9Q - Stephen Ju
+telecommunications industry has delivered fantastic technology over the last bunchQ - Stephen Ju
 A - Jason Taylorof years in what you talked about, dark fiber, major facility two major facility, running
 hundreds of miles.
 Well when you look at that core technology, it is ready to be adopted into the data

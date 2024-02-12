@@ -22,9 +22,7 @@ Those pressures to modernize and be competitive maybe come from different
 places, depending on what industry you're in or where you are around the world. But
 the process that we have -- I think, sort of, call digital transformation for a lack of a
 better term for it, I think sits at the bottom of the demand curve, and we feel good
-about the signals, the conversations with customers remain very consistent on thatFINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 2 of 17Q - Keith Weiss
+about the signals, the conversations with customers remain very consistent on thatQ - Keith Weiss
 A - Amy Hood
 Q - Keith Weissfront. Maybe taking on different levels of urgency depending on what industry you're
 in, where you feel like you are in that competitiveness curve.
@@ -65,9 +63,7 @@ Got it, got it. There is just a broader concern amongst investors of contingent,
 resource crisis are going higher, consumers could get scared out of spending. In
 your view, we talked about these digital transformation initiatives. We've seen your
 bookings do really well in the back of these digital transformation initiatives, which
-tend to be multi-year endeavors by these enterprises.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 3 of 17A - Amy Hood
+tend to be multi-year endeavors by these enterprises.A - Amy Hood
 Q - Keith Weiss
 A - Amy HoodHow do you feel about the durability of those digital transformation projects even in
 a more disruptive sort of macro environment or even with the threat of potential
@@ -108,9 +104,7 @@ It sounds like you're talking a lot about -- you said, to get the most out of --
 out of it is productivity enhancing types of technologies. It reminds me of what Satya
 has been saying about software being a deﬂationary technology in an inﬂationary
 environment.
-FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 4 of 17Q - Keith Weiss
+Q - Keith Weiss
 A - Amy HoodI think that's, yes. He's -- I think that is, in a summary, how he thinks about it. And then
 when you think about deﬂationary pressure and I think productivity is a way of saying
 it. I think in our world, where people say productivity, they think about the Microsoft
@@ -151,9 +145,7 @@ be easier for me. So back to users. There's really -- I think in some ways, if I
 a decade almost, to how long we've been talking about Oﬃce 365 or Microsoft 365
 and our ability to land a solution, I think we probably underestimated the number of
 people for which this was applicable, and our ability to build new solutions to
-address them.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 5 of 17Q - Keith Weiss
+address them.Q - Keith Weiss
 A - Amy HoodSo what you've heard talk about recently, and you've seen that in our seat growth,
 especially over the past, I would say, two years where people have been surprised
 with this durability is that, the ability of that solution set to reach into two places
@@ -192,9 +184,7 @@ people have an understanding of how big that opportunity is for us.
 Beyond that I think compliance and there's a lot of room, I think, to continue to move
 people as we've said E5. So, security, compliance, analytics value, power of BI is
 really the default tool for analytics and it's to come that, we've seen great growth, I
-feel really good about our progress on that.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 6 of 17Q - Keith Weiss
+feel really good about our progress on that.Q - Keith Weiss
 A - Amy Hood
 Q - Keith WeissAnd then finally one we've been talking about a little more lately, Teams Phone,
 which we've talked about as voice and telephony. We've seen really strong growth
@@ -235,9 +225,7 @@ too narrow for what that cloud opportunity and footprint can be.
 Got it. What came into my head, did not in necessarily E7 offering, but like a natural
 extension of what we've seen, Power VI is going to be in E5 suite, the power of
 platform more broadly. There are two other legs of that stool that we're hearing
-good indications on that. There is a lot of customer demand for that are automatingFINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 7 of 17A - Amy Hood
+good indications on that. There is a lot of customer demand for that are automatingA - Amy Hood
 Q - Keith Weiss
 A - Amy Hood
 Q - Keith Weissthose processes. Can you dig in a little bit in terms of the sort of the opportunity
@@ -277,9 +265,7 @@ about the certain processes are easier to apply it to, it's more about the desir
 organization to effect change.
 So I might answer that with more of a culture comment than necessarily certain
 products or industries or more. It's easier or not. It's just more I think a world view.
-FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 8 of 17A - Amy Hood
+A - Amy Hood
 Q - Keith Weiss
 A - Amy Hood
 Q - Keith WeissGot it. I want to touch on two other of the more kind of user base products. One is
@@ -320,9 +306,7 @@ find the exact right talent regardless, maybe of some of the other more historic
 to find talent. So I'm pretty optimistic about LinkedIn business.
 
 Excellent. I wanted to talk about Dynamics 365. And I think it's a under-appreciated
-part of the story. I math sort of the growth trajectory of Dynamics 365 versus theFINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 9 of 17A - Amy Hoodother sort of big SaaS companies that we think about ServiceNow, Salesforce and
+part of the story. I math sort of the growth trajectory of Dynamics 365 versus theA - Amy Hoodother sort of big SaaS companies that we think about ServiceNow, Salesforce and
 Workday, Dynamics 365 is right along with the leader ServiceNow within that, as I
 said it passed through $4 billion kind of annualized run rate has been as good as
 anything we've seen in SaaS.
@@ -361,9 +345,7 @@ Sales, often says it's applicable in every room of your house and I think that's
 way of thinking about it. Meaning it's applicable at every component of the business,
 every budget and so the ability for us to address those needs to really focus on
 customer solutions, focus on customer problems, it's been a focusing point for the
-cloud story even beyond just the Dynamic story.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 10 of 17Q - Keith Weiss
+cloud story even beyond just the Dynamic story.Q - Keith Weiss
 A - Amy Hood
 Q - Keith Weiss
 A - Amy Hood
@@ -401,9 +383,7 @@ solve a problem.
 So I think it's absolutely fair for people to have thought that's the market. I think we
 actually even told people that was the market. I think at this point the market is, if
 there is a problem that can be solved by a module that this best does, then that's a
-good customer for us. And we should help them do that.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 11 of 17Q - Keith Weiss
+good customer for us. And we should help them do that.Q - Keith Weiss
 A - Amy Hood
 Q - Keith Weiss
 A - Amy Hood
@@ -444,9 +424,7 @@ start with, I like to grow faster. I'd like to win more. I'd like to better serv
 I'd like to improve customer state. I'd like to reduce churn. I'd like to grow price. I'd
 like to retain margin. I mean it's just not about cost in the way that the questions
 raised. It's much more about like the problem to be solved. And the problem to be
-solved, hence they take about language to it.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 12 of 17Q - Keith Weiss
+solved, hence they take about language to it.Q - Keith Weiss
 A - Amy HoodThe implementation is generally and can be Azure, Dynamics or Oﬃce 365 or other
 security, it can be a bucket of good to that problem. But it tends to not start there.
 And so when people say, okay, well, how does it get paid for? It may be, to your
@@ -489,9 +467,7 @@ it to show up on the P&L. So whether you contracted it and it's sitting at book 
 sitting in the RPO, it only really really counts, if it gets deployed use loved and adds
 value, which is revenue. And so the contracting language far more important to just
 make sure you're getting workloads deployed and the customer is getting value far,
-far more than it is two years, three years, five years, seven years, two weeks.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 13 of 17Q - Keith Weiss
+far more than it is two years, three years, five years, seven years, two weeks.Q - Keith Weiss
 A - Amy Hood
 Q - Keith Weiss
 A - Amy Hood
@@ -532,9 +508,7 @@ think about or how do you think about price performance. Right. How much price
 performance are you looking to push that to the end customer, so they consistently
 see sort of increasing value from the platform. How much sort of price performance
 and eﬃciencies that you've garnered from Azure become better gross margins?
-FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 14 of 17Q - Keith Weiss
+Q - Keith Weiss
 A - Amy HoodI'm trying to think which of your questions, I'll start with. I think number one, we --
 this is a competitive market, where prices are set by the market. So I don't tend to
 think of it as, hey, wait, we have all these eﬃciencies. We've gained where do they sit.
@@ -574,9 +548,7 @@ want to run -- where frankly they want to run it.
 The enablement of that ﬂexibility is what we call the hybrid program. And so for us,
 and I really do believe this, as why I focus on the overall KPI even though everybody
 really just doesn't want to do that, it's because that's how customers purchase. And
-so if you want to -- and that so I'm always saying like listen, adopt ﬂexibility.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 15 of 17Q - Keith Weiss
+so if you want to -- and that so I'm always saying like listen, adopt ﬂexibility.Q - Keith Weiss
 A - Amy Hood
 Q - Keith Weiss
 A - Amy HoodIf you don't know when you want to move workloads, if you don't know, but you're
@@ -616,9 +588,7 @@ And so there are just jobs to be done and it plays a great role in many jobs to 
 done. Windows 11, I think it's a great investment and having a modern beautiful user
 experience for Windows. We're seeing good response to it. But people love
 Windows 10 too, and that's great. I'm thrilled, in fact, that what you're seeing is a
-more holistic version of what Windows and the experience should be for user.FINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 16 of 17Q - Keith Weiss
+more holistic version of what Windows and the experience should be for user.Q - Keith Weiss
 A - Amy HoodThe difference that that world view is made is evident, I think in many places. It's
 evident in the strength of the Microsoft 365 Consumer subscriptions. It's evident in
 browser share grant games. It's evident in the search numbers. It's the simplicity of
@@ -660,9 +630,7 @@ the right bets on the table.
 If you don't move it, ask yourself, I mean I love it. I mean, that's like. I mean. Okay,
 second to excel, I love headcount budgets. Because to ask about asking yourself
 every day can you do better? Can you do better for customers? Can you do better
-for the engineering team? Can you make their process work differently? Can youFINAL TRANSCRIPT 2022-03-08
-Microsoft Corp (MSFT US Equity)
-Page 17 of 17Q - Keith Weiss
+for the engineering team? Can you make their process work differently? Can youQ - Keith Weiss
 A - Amy Hood
 Q - Keith Weisschange your customer acquisition costs? If I move this team, would they get
 something shift faster? Like it's just, I don't know to yeah, nobody is also hooked you,

@@ -14,9 +14,7 @@ let's roll the video to show you what happened.
 Yeah, that's my -- me saving my life. Yeah, I learned a lot about Demo Bargains, but
 really, in fact, that entire exhibit was created, as I said, by a group of people from
 Universal, who came together and use some amazing tech. Azure Kinect is at the
-edge. So this is a great example of the intelligent edge and the Intelligent cloud andFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 2 of 34action. Azure Kinect on the edge did the skeletal understanding, environmental
+edge. So this is a great example of the intelligent edge and the Intelligent cloud andaction. Azure Kinect on the edge did the skeletal understanding, environmental
 understanding, then they had speech reco right on that walkie-talkie. Natural
 language understanding for the dialog as well as Neural TTS.
 And so that in some sense captures the spirit of what we want to talk about. The Tech
@@ -58,9 +56,7 @@ the sustainability.
 Now -- yeah, you can clap for that. Now, when we talk about the cloud, it doesn't end
 in the cloud. In fact, the cloud in the edge form that distributed computing fabric.
 That's been at the core of our vision, our design point, for how we built Azure. And
-we want to make sure that there is consistency in the management control plane.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 3 of 34Natalia Mackevicius
+we want to make sure that there is consistency in the management control plane.Natalia Mackevicius
 Satya NadellaThere is consistency in the development environments, as well as the infrastructure
 across the cloud and edge. It's so critical. When you're building distributed
 applications, you need that consistency. And of course that has been our competitive
@@ -101,9 +97,7 @@ Back to you, Satya.
 Thank you so much, Natalia. It's great to see the innovation on the Azure Edge. And
 in fact, we see tremendous customer momentum already. If you look at GOJO
 Industries, the creators of Purell. They're already using Azure IoT to build, in fact,
-standardization solutions for hospitals. They're in fact, going to use Azure SphereFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 4 of 34Aaron Ogusgoing forward for even better detection and control loop. We have Johnson
+standardization solutions for hospitals. They're in fact, going to use Azure SphereAaron Ogusgoing forward for even better detection and control loop. We have Johnson
 Controls building out a complete new bad solution for smart buildings that uses
 facial recognition and some of the cognitive capabilities in Azure IoT with the
 container on the edge, as well as Hong Kong Stock Exchange, which is obviously
@@ -142,9 +136,7 @@ select. I'm going to choose to deploy it to that Orlando data center I just crea
 click creates.
 Now what we're deploying is the same Evergreen version of SQL available only in
 Azure. Typically, deploying a DB into a VM on-premises is a lengthy process that can
-take hours. But as you can see in a matter of seconds, I was able to install Azure SQLFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 5 of 34DB to my data center. Even better, I now have access to all of Azure's unique security
+take hours. But as you can see in a matter of seconds, I was able to install Azure SQLDB to my data center. Even better, I now have access to all of Azure's unique security
 capabilities. So I can enable advanced data security and that risk management
 database can take advantage of Azure capabilities like advanced threat detection
 and vulnerability assessment. And I can enable this by default with the policy. This is
@@ -184,9 +176,7 @@ is the worlds computer and its innovation is available at my fingertips. And thi
 one example of how Azure's innovation is empowering customers to achieve more
 across on-premises and multi-cloud at the infrastructure and data services layer.
 Now let's take a look at another example. This time at the application layer, where
-we're simplifying the programming model and deployment of cloud nativeFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 6 of 34Satya Nadella
+we're simplifying the programming model and deployment of cloud nativeSatya Nadella
 Rohan Kumardistributed applications. A great example of a distributed system is the railway
 system with millions of kilometers of railway track around the globe, creating a
 complex network of interconnected parts that almost work seamlessly. It's really
@@ -224,9 +214,7 @@ please imagine that I'm a product manager at a gaming company. We've recently
 launched a new mobile game, and I'd like to analyze our telemetry to significantly
 enhance user engagement. No matter what the public cloud platform building end-
 to-end analytic solutions, it's really hard and project timelines are measured in
-several months.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 7 of 34Welcome Azure Synapse analytics. Synapse is the next generation of the Azure SQL
+several months.Welcome Azure Synapse analytics. Synapse is the next generation of the Azure SQL
 data warehouse, which blends together with data analytics, data warehousing and
 data integration into a single unified service that provides end-to-end analytics at
 cloud sale. As you see on the screen, synapse makes building. These complex end-
@@ -268,9 +256,7 @@ offerings in the market. Now what's backing this dashboard is a system that allo
 me to issue concurrent user access using industry standard benchmark queries. Let's
 start with 50 concurrent users. As you can see even with this fewer user said,
 Synapse, based on the query response times is three times faster than Amazon's
-Redshift, and five times faster than Google's BigQuery.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 8 of 34How about raising the stakes a little bit. Let's go to 150 concurrent users. As you see
+Redshift, and five times faster than Google's BigQuery.How about raising the stakes a little bit. Let's go to 150 concurrent users. As you see
 on the screen, while Synapse continues to do great, we've head the limits with both
 Amazon's Redshift and Google BigQuery. The Redshift starts queuing request at
 around 100, resulting in significantly increased query response time and a vastly
@@ -312,9 +298,7 @@ I'd like to predict the propensity or the likelihood of our user base actually b
 game add-ons, filtered by age demographic. Synapse enables me to do this by
 actually writing a pretty -- modeling a simple query that also includes native scale out
 machine learning based scoring on the Synapse nodes. Let's see how the query
-works. As you saw, the response times was near instantaneous and I got myFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 9 of 34Satya Nadellapredictive analytics within Synapse. Synapse makes AI and ML really simple for our
+works. As you saw, the response times was near instantaneous and I got mySatya Nadellapredictive analytics within Synapse. Synapse makes AI and ML really simple for our
 data professionals. Azure is the only public cloud that empowers users with limitless
 performance scale and insights. Analytics in Azure is simply unmatched. We can't
 wait to see how our customers use Synapse to digitally transform themselves.
@@ -357,9 +341,7 @@ this synthetic data and these machine teaching labels in order to be able to tra
 these models and then ultimately to be able to pick the right model to drive the
 autonomy. Recently DARPA had a challenge a subterranean challenge and Carnegie
 Mellon University along with Oregon State were the ones who won this
-championship using the Azure autonomous system, and it was pretty fascinating.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 10 of 34There was a mine in Pennsylvania where you had to have this autonomous system go
+championship using the Azure autonomous system, and it was pretty fascinating.There was a mine in Pennsylvania where you had to have this autonomous system go
 find object in fact they won because they found two times the number of objects
 compared to their competition and they were able to find objects within 20
 centimeter distance of where they were located right completely autonomously and
@@ -402,9 +384,7 @@ First, it is about open hardware, we are very excited to have partners, two ion 
 IONIQ and Honeywell, so this is, they make machines that trap ions and then a
 superconducting partner QCI joins us with in fact, our own quantum effort with
 topological qbits, which is also super conducting machine. So we'll have a variety of
-hardware solutions that are going to be all opened in Azure. Now of course, if youFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 11 of 34have a variety of hardware, the first thing you want to do is build and open software
+hardware solutions that are going to be all opened in Azure. Now of course, if youhave a variety of hardware, the first thing you want to do is build and open software
 ecosystem on top of it. And so we have built that, with Q Sharp which is open source,
 QDK that's open source and so we have built that with Q#, which is open source, and
 QDK, that's open source.
@@ -443,9 +423,7 @@ announcements of Ignite is going to be the Microsoft Endpoint Manager that bring
 together the comprehensive management control planes for all endpoints. In Azure
 Arc, you know can really deploy the security policies. Not only can you find the
 vulnerabilities, but you can deploy the remediation, to all end points, all
-infrastructure, and all data. That's what we mean by the end-to-end architecture.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 12 of 34There are a couple of use cases. There was an attack on 10 smaller pharma
+infrastructure, and all data. That's what we mean by the end-to-end architecture.There are a couple of use cases. There was an attack on 10 smaller pharma
 companies. And it was a phishing attack. It was a social engineering attack. First of
 all, in most cases, 95% of the time, the ATP capabilities in Oﬃce 365 were able to
 catch it, and even if it went to the endpoint, the Microsoft Defender was able to catch
@@ -487,9 +465,7 @@ who joins a team and wants to have some code reviewed, or goes -- consult with a
 mentor, Live Share changes the dynamic because no development project is a solo
 sport; it's always a team sport.So it's really bringing that next level of innovation with
 GitHub and Live Share, changes the dynamics and culture of organizations. We see a
-fantastic adoption of this tool chain from companies like Stripes, to the VeteransFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 13 of 34Charles LamannaAffairs, to Cargill, to Comcast, and to give you a ﬂavor for how cultural dev
+fantastic adoption of this tool chain from companies like Stripes, to the VeteransCharles LamannaAffairs, to Cargill, to Comcast, and to give you a ﬂavor for how cultural dev
 organizations are changing, using these tools, let's roll the video from Comcast.
 (Video Presentation)
 And as we talk about developers, it's not just the professional developers who are
@@ -524,9 +500,7 @@ customers is with the TruGreen websites.
 And in the past, if a customer wanted to schedule an appointment for a TruGreen
 agent to come out their homes, they had to call the 1-800 number during business
 hours, a very lengthy and painful process. However, with Power Virtual Agents,
-TruGreen has been able to completely transform how they engage their customers.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 14 of 34Their customers can now just walk up and report the actual issue that they're facing,
+TruGreen has been able to completely transform how they engage their customers.Their customers can now just walk up and report the actual issue that they're facing,
 and this will go use Power Virtual Agents on the backend
 To identify common issues that can be causing that problem and it even integrates
 with the TruGreen knowledge base so that it can pull back all of the relevant
@@ -567,9 +541,7 @@ background as part of my standard Power Automate workﬂows. Just to show how
 easy that is, I can launch the TruGreen contact management application. I can go
 take an input from the virtual agent, or the email for the user, paste that in there, and
 I can then go and click "search" after I do that, and that will actually make it so that I
-can go search that particular record, in that contact management system.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 15 of 34Satya NadellaSo, I switch over to the "save the activities" tab, and then what I want to do is, I want
+can go search that particular record, in that contact management system.Satya NadellaSo, I switch over to the "save the activities" tab, and then what I want to do is, I want
 to capture all of the outputs from that chat experience because that information will
 be useful for the TruGreen agent when they go out to the home. That makes it
 possible for the customer to have a complete end-to-end experience with TruGreen,
@@ -606,9 +578,7 @@ how well do you harness the power of all of the data that is there in your enter
 to drive the transformational outcomes for your company.
 It's not about other people using your data; it's about how good are you at driving
 your business process using the data you have. That's core to what we are trying to
-do with Dynamics 365.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 16 of 34Dina ApostolouIn fact, today, when you think about the amount of data there is, one of the sad facts
+do with Dynamics 365.Dina ApostolouIn fact, today, when you think about the amount of data there is, one of the sad facts
 is 73% of the data is not analyzed. That means you're not able to drive that next level
 of automation, creating that next level of predictive power or analytical power,
 because that's going to define competitive advantage.
@@ -646,9 +616,7 @@ eﬃcient and sustainable.
 The challenge is that they don't have a holistic view of their customers because data
 is residing in disparate sources. The foundation to deliver an exceptional customer
 experience lies in the ability to have a unified view of your customer. AEP is using
-Dynamics 365 Customer Insights to create a 360 degree view of their customers andFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 17 of 34re-imagine how they're servicing them by infusing the insights into their business
+Dynamics 365 Customer Insights to create a 360 degree view of their customers andre-imagine how they're servicing them by infusing the insights into their business
 processes.
 Let's go take a look. Today, energy managers are unable to provide real-time
 recommendations to their customers. With Customer Insights, the new customer
@@ -687,9 +655,7 @@ product, creating a more confident purchasing experience at the real world scale
 using mixed reality. This notation feature allows us to quickly highlight in context with
 data, as well as existing marketing materials, like this note here about polycrystalline
 wafer, which, when compared to monocrystalline, absorbs sunlight better in partially
-cloud climates like Columbus.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 18 of 34Satya NadellaNow, all of this information is linked in the Common Data Service, so that allows us to
+cloud climates like Columbus.Satya NadellaNow, all of this information is linked in the Common Data Service, so that allows us to
 use predictive data modeling to get an accurate estimate of the customers' cost
 savings over the next five to 10 years. What makes AEP unique is their consultative
 approach to helping customers make the best energy decision. Microsoft and AEP
@@ -727,9 +693,7 @@ time in one user experience scaffolding, chat, meetings, collaboration, as well 
 business process. And 350 organizations with over 10,000 users are using Teams
 already, so it's really amazing to see the momentum around Teams.
 And today, at Ignite, we're taking that even a step further. Some of the features that
-you all have been waiting for -- our private channels are now generally available,FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 19 of 34Melissa Grant
+you all have been waiting for -- our private channels are now generally available,Melissa Grant
 Sonia Dara
 Melissa Grantmultiwindow chats to pop out chats and meetings into separate windows, new
 integrations into Yammer and Outlook. It's fantastic to see all of this come together.
@@ -764,9 +728,7 @@ the power of the Microsoft Graph with AI, people, content and apps into an
 interactive knowledge repository. It sounds complex, but we've made it incredibly
 simple to use. I'll show you.
 Here in this message, I see a reference to a code name that I'm not familiar with, but
-Project Cortex has recognized it as a known topic within my organization andFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 20 of 34Sonia Daraproactively highlighted it for me. When I hover over it, I get a topic card. Clicking in
+Project Cortex has recognized it as a known topic within my organization andSonia Daraproactively highlighted it for me. When I hover over it, I get a topic card. Clicking in
 brings me to an AI-generated knowledge network that pulls together experts on the
 topic, as well as content, like presentations, videos and conversations, all curated for
 me in this pattern map. This is a great way to ramp up new team members or share
@@ -802,9 +764,7 @@ But we know not every conference room has a Surface Hub yet. We have some
 teammates who are joining on a call in a conference room with a physical white
 board, so we're not really able to easily follow along with their notes. But fortunately,
 they're in a Teams room with a dedicated Whiteboard camera. Using AI, the camera
-detects the edges of the white board and zooms in. But the real magic is that it alsoFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 21 of 34Melissa Grant
+detects the edges of the white board and zooms in. But the real magic is that it alsoMelissa Grant
 Sonia Dara
 Melissa Grant
 Sonia Daradetects him and makes him transparent, so when he walks in front to write
@@ -839,9 +799,7 @@ I love Fluid because I can continue to collaborate even while on the go. Here, w
 the same table on my mobile phone. Now, notice there's the missing data here. I'm
 going to add that in. Now look at the PowerPoint and watch as it is instantly updated.
 Fluid is truly breaking down the barriers between applications. I know you're going
-to love it.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 22 of 34James D Balshi
+to love it.James D Balshi
 Unidentified SpeakerAll right, that was a whirlwind tour of 12 AI and hardware experiences. But we have
 two more to show you for next year's wish list. A few weeks ago, we announced our
 vision for a new category of dual-screen devices: Surface Neo with two nine-inch
@@ -876,9 +834,7 @@ or even video calls right from their phones. They can easily use a smart camera 
 take a photo of something like a patient's skin condition. They can mark up the
 image right in Teams so the Care Team knows exactly what to follow up on.
 Next, they can ﬂag the message as urgent so that the right specialist who might be
-miles away at a different hospital can respond at the right time. Now, the best part isFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 23 of 34that the image is not stored on their personal device; rather, it's saved on the secure
+miles away at a different hospital can respond at the right time. Now, the best part isthat the image is not stored on their personal device; rather, it's saved on the secure
 M365 cloud, which enables the Care Team's HIPAA compliance.
 Now, in addition to improving internal communication, St. Luke's has looked for ways
 to transform clinical processes to better patient care outcomes. To ensure doctors
@@ -918,9 +874,7 @@ They can book a consultation by inputting relevant notes, like leading notes and
 consult-type. Once done, they just click "send." At that point, the patient receives an
 email with a customization and Teams meeting link to join. The best thing is that they
 don't even need a Teams account to participate. They just need a web browser and
-they can join in one click. So before the meeting, the doctor can turn on aFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 24 of 34Satya Nadella
+they can join in one click. So before the meeting, the doctor can turn on aSatya Nadella
 Yusuf Mehdicustomized background so they can hide any sensitive patient information behind
 them. And once they're in the meeting, they can engage with a patient, who may be
 at home, or they may be at a different hospital quite all together.
@@ -959,9 +913,7 @@ separate from the operating system, so we ship at internet scale every four to s
 weeks we're doing innovation. Second is we're going to run now on all platforms
 that you have in your company -- iOS, Android, Mac, Win 7.
 And last and most importantly is, about a year ago, we moved to the Chromium
-browser. What that has allowed us to do is now deliver for you world-classFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 25 of 34performance and compatibility. These are the two key things.
+browser. What that has allowed us to do is now deliver for you world-classperformance and compatibility. These are the two key things.
 Let's start with performance. Here on the left side of the screen, you'll see the old
 Edge, and on the right, you see the new Microsoft Edge. We are over twice as fast.
 We now rival Chrome in terms of performance for rendering web pages. Second, on
@@ -999,9 +951,7 @@ So what you see here is this is the configuration page, which you don't have to 
 but we give you three options now: Basic, which is how the web works; Strict, which
 is we really control all tracking and we reduce personalization; or Balance. Balance is
 what we do by default. This is more protection than you get from any other browser.
-So if you want to really have your data and your privacy secure, you're going to wantFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 26 of 34to go with Microsoft Edge. The other example of what I want to show you is
+So if you want to really have your data and your privacy secure, you're going to wantto go with Microsoft Edge. The other example of what I want to show you is
 Incognito. So if you search today and you use Chrome, Chrome's got a great feature
 called Incognito that keeps your browsing safe and private. But what you don't know
 is you can be accidentally logged in if you're on Gmail, and your search is on private.
@@ -1043,9 +993,7 @@ one click, I get taken right to the Microsoft -- in this case, my travel site --
 the SharePoint URL. Take a look at that green URL. I'd have never remembered it.
 Today, we go one step further, though. So 76% of the information in companies is in
 unstructured data, but we now can read that data just like you can read on the web.
-So if you've ever used Bing to say, "Hey, how tall is the Empire State Building, orFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 27 of 34What's the weather today?" and we answer at the top, what if you could do that
+So if you've ever used Bing to say, "Hey, how tall is the Empire State Building, orWhat's the weather today?" and we answer at the top, what if you could do that
 within Bing today? Watch this. Let's say I want to find out how many days can I take
 off for jury duty. I can just type that in, and as I type that in, up will come not just the
 website but the actual answer, 10 days at Microsoft, and you can see it. So, we can
@@ -1086,9 +1034,7 @@ And best of all, if I want to prepare for the meeting, I can come in and look at
 that she's shared with me, so I don't have to go and search my emails to say, hey,
 what were those files? They're all right there with one click of a button. And if you
 look closely, the files aren't just from Microsoft sites, there's one there from Box, and
-that's because today we're making a bunch of announcements to create newFINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 28 of 34Satya Nadella
+that's because today we're making a bunch of announcements to create newSatya Nadella
 Saxs Perssonconnectors, so you can not only search the intranet but you can search all of your
 other content in there like Box and SAP and Salesforce and ServiceNow.
 In fact, today, I'm pleased to announce that over 100 connectors are coming online
@@ -1125,9 +1071,7 @@ Thank you, Satya. We're excited to be here today to talk about Minecraft Earth, 
 brand new Minecraft in augmented reality. We've been wanting to bring Minecraft to
 the real world for some time now, but the problem is like how can we give players
 the same experience no matter where they are or what they do, and doing that at
-scale is a pretty hard problem.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 29 of 34Neena Kamath
+scale is a pretty hard problem.Neena Kamath
 Saxs Persson
 Neena Kamath
 Satya Nadella
@@ -1157,9 +1101,7 @@ You'll get to play in just a second.
 Okay.
 So, here we see like an anchor that we made a couple of days ago, and here onstage
 like wherever I go, I get directed back to where the shared experience is going to be
-right there. So, why don't we place it and invite Satya in here?FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 30 of 34Satya Nadella
+right there. So, why don't we place it and invite Satya in here?Satya Nadella
 Neena Kamath
 Saxs Persson
 Neena Kamath
@@ -1186,9 +1128,7 @@ Oh, you have some carrots in your hand.
 
 There you go. Those are the carrots.
 I'm going to put some carrots in mine and see if I can get the rabbit to like me more,
-but apparently not. I think you've got more carrots than me.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 31 of 34Saxs Persson
+but apparently not. I think you've got more carrots than me.Saxs Persson
 Satya Nadella
 Neena Kamath
 Saxs Persson
@@ -1214,9 +1154,7 @@ Are you guys repairing it or do you need help?
 I think we can repair it ourselves. Satya looks like he's started already.
 Uh-oh. We need to break this one and get it ﬂat again. There you go.
 All right, perfect. I'll add this one here.
-There you go.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 32 of 34Neena Kamath
+There you go.Neena Kamath
 Saxs Persson
 Neena Kamath
 Satya Nadella
@@ -1239,9 +1177,7 @@ Get your bows out.
 Oh, bows.
 All right, I might need some help. I'm really bad at getting the skeletons.
 Trying to shoot you. Maybe if you move over here, Satya, we can see you.
-There you go.FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 33 of 34Satya Nadella
+There you go.Satya Nadella
 Saxs Persson
 Neena Kamath
 Satya Nadella
@@ -1268,9 +1204,7 @@ That's fantastic. This is fun. We can play all day.
 Well, unfortunately, we don't have all day for this. I think you've got some other
 things on your calendar.
 
-That's right. So, what's next?FINAL TRANSCRIPT 2019-11-04
-Microsoft Corp (MSFT US Equity)
-Page 34 of 34Saxs Persson
+That's right. So, what's next?Saxs Persson
 Satya NadellaSo, as you can see here, with Azure Spatial Anchors we were able to set up this
 common anchor and jump in and play. Azure Spatial Anchors is in public preview
 and it creates a real world canvas for your business, whether it's in enterprise or

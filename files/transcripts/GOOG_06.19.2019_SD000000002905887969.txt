@@ -1,9 +1,7 @@
 Good morning, everyone. Welcome to Alphabet's 2019 Annual Shareholders
 Meeting. I'm John Hennessy, Chairman of the Board of Directors of Alphabet. And I'll
 be presiding over this meeting. Each of you should have registered as you arrived. If
-anyone has not registered for this meeting, please register with us before you leave.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 40Sundar PichaiEach of you should've also been presented with an agenda. On the reverse side of
+anyone has not registered for this meeting, please register with us before you leave.Sundar PichaiEach of you should've also been presented with an agenda. On the reverse side of
 the agenda is a list of rules of procedure for this meeting. Failure to abide by these
 rules is grounds for removal from the meeting. We'll provide a question-and-answer
 period after we have finished the formal business of the meeting.
@@ -40,9 +38,7 @@ and as a company. And now I'd like to turn the podium over to Sundar.
 
 All right. Thank you, John. Good morning, everyone. It's good to be here. I've been
 traveling a bit lately. Last week, I was in Pryor, Oklahoma to announce an expansion
-of our data center there. It was amazing to see how Google's investment over theFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 40Unidentified Speakerlast decade has helped transform an entire community. I left Oklahoma feeling
+of our data center there. It was amazing to see how Google's investment over theUnidentified Speakerlast decade has helped transform an entire community. I left Oklahoma feeling
 inspired by our work and the impact it can have. And it all starts with our mission: to
 organize the world's information and make it universally accessible and useful.
 I feel fortunate to have a mission that feels as relevant today as ever before. But the
@@ -81,9 +77,7 @@ We've also launched features like salary range estimates, filtering by precise l
 and even a way for U.S. veterans to find jobs matching their military experience. And
 of course, we're working on bringing more tools to job seekers in the future. For
 example, we're working on a new initiative called Pathways, which connects users to
-job training opportunities, apprenticeships and occupation-oriented education. OurFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 40approach is to make upskilling and reskilling programs available directly on Google,
+job training opportunities, apprenticeships and occupation-oriented education. Ourapproach is to make upskilling and reskilling programs available directly on Google,
 alongside important information such as salaries. So that people can make the best
 decisions about their future. Pathways will launch in Virginia in just a few weeks. And
 we plan to expand rapidly from there.
@@ -122,9 +116,7 @@ the day. I have (Andrew) here to help me with the demo.
 Okay. So first scenario. Imagine you're at a restaurant, that happens. And you are
 trying to figure out what you want to order, right? Instead of going back from
 different apps on the phone, back to the menu and so on, now what you can do is
-you can simply point the camera at the menu. And what happens here is that it'sFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 40Unidentified Participant
+you can simply point the camera at the menu. And what happens here is that it'sUnidentified Participant
 Unidentified Speakerhighlighted automatically the most popular dishes at this restaurant. And what's
 interesting here -- okay, now what do you want to do next? You want to know more
 about, say, any particular dish. You can tap on any dish. And you get to see what it
@@ -162,9 +154,7 @@ What's energizing for us here is, of course, this is a sign that you can read. B
 the power to read. And the power to read is the power to buy a train ticket, follow
 news, shop in a store, a lot of everyday things that we all take for granted, many of us
 take for granted. But this is the barrier to accessing information for many people
-across the world.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 40Sundar PichaiSo we want to make this feature accessible to as many people as possible. So we're
+across the world.Sundar PichaiSo we want to make this feature accessible to as many people as possible. So we're
 launching it in Google Go. So this is our search app that we made it work on phones
 that cost as little as $35. We also made it work so that it can work in many languages,
 including English, Hindi, Indonesian, Portuguese, Spanish, et cetera. So those are just
@@ -203,9 +193,7 @@ access. For example, making your Google account just one tap away in all our maj
 products. And order delete controls, which make it easier to manage your data in a
 way that works best for you. Privacy and security are the foundation for all that we do.
 And our work is never done. And we'll continue pushing the boundaries here to do
-more for our users with less data over time.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 40Ruth PoratBuilding for everyone also means that everyone can access and enjoy our products,
+more for our users with less data over time.Ruth PoratBuilding for everyone also means that everyone can access and enjoy our products,
 including the 1 billion people around the world living with a disability. We believe
 technology can help us be more inclusive. And advances in AI are providing us with
 new tools to dramatically improve experiences for people with disabilities. We have
@@ -243,9 +231,7 @@ Now as Sundar previously announced, in the United States alone, we're investing 
 billion this year. And just last week, we announced further data center expansion in
 Oklahoma and Texas. We're also investing meaningfully outside the United States,
 including our recent announcements that we will spend more than EUR 1.2 billion to
-expand our data centers in Belgium and in Finland.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 40And as we continue to grow our business, we're really focused on remaining a
+expand our data centers in Belgium and in Finland.And as we continue to grow our business, we're really focused on remaining a
 leader in sustainability. And we're proud of our key metrics. Google has been carbon
 neutral since 2007. We're the largest purchaser of renewable energy. And in 2017
 and in 2018, we matched 100% of our energy consumption with renewable energy.
@@ -285,9 +271,7 @@ Now as the CFO, I love numbers. So I'm going to end with one more data point. In
 2018, our search and advertising tools helped create $335 billion in economic
 activity for millions of businesses, websites, publishers and nonprofits. And that's in
 the U.S. alone. We're really proud of the economic impact from our products and
-services. So I love the statistic.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 40Kathryn W. HallI want to thank you all for your support. I'm now going to turn this over to Kathryn
+services. So I love the statistic.Kathryn W. HallI want to thank you all for your support. I'm now going to turn this over to Kathryn
 Hall, who is our VP of Legal and the Assistant Corporate Secretary. And she will call
 the formal portion of this -- today's meeting to order. Thank you, all very much
 
@@ -324,9 +308,7 @@ individuals: Larry Page, Sergey Brin, John L. Hennessy, L. John Doerr, Roger W.
 Ferguson Jr., Ann Mather, Alan R. Mulally, Sundar Pichai, K. Ram Shriram. And Robin
 L. Washington.
 Our bylaws require that stockholders provide advance notice of their intent to
-nominate persons as directors. No such notice was received. Accordingly, I declareFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 40Christine Joann Jantzthe nominations for directors closed.
+nominate persons as directors. No such notice was received. Accordingly, I declareChristine Joann Jantzthe nominations for directors closed.
 The next matter being submitted to our stockholders today is the ratification of the
 appointment of Ernst & Young LLP as our independent registered public accounting
 firm for the 2019 fiscal year. Our Board of Directors has recommended that our
@@ -362,9 +344,7 @@ and insiders to appoint a Board that only serves the CEO and management, not
 shareholders.
 We think that the growing number of shareholder proposals is indicative of a
 corporate governance problem, which needs to be addressed through providing
-one vote per share so that there will be appropriate shareholder oversight.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 40Kathryn W. Hall
+one vote per share so that there will be appropriate shareholder oversight.Kathryn W. Hall
 Max KapczynskiWhen Alphabet went public, the shareholders already lacked the opportunity to give
 substantive input into company policies. Alphabet's voting structure is heavily
 weighed to favor insiders given that Class B shares are granted 10x the voting rights
@@ -403,9 +383,7 @@ Good morning, Mr. Chairman, members of the Board. And fellow Alphabet
 shareowners. Before I get started, I'd like to spend a little time sharing my story and
 why I'm here. My name is Max Kapczynski. And I'm a full-time employee at Verily.
 Last fall, 20,000 of us, employees and TVCs at Google and Other Bets, walked off
-our jobs. And I walked with them. Our first demand was to remove forced arbitrationFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 40Kathryn W. Hallfrom our employment contracts. After months of continued pressure from my fellow
+our jobs. And I walked with them. Our first demand was to remove forced arbitrationKathryn W. Hallfrom our employment contracts. After months of continued pressure from my fellow
 workers, you did remove forced arbitration for Google's own full-time employees.
 But you did not extend this legal right and protection to me, my coworkers at Verily,
 or the many contractors at Alphabet.
@@ -444,9 +422,7 @@ Systems, I urge shareowners to vote for proposal 5. Thank you.
 
 Thank you very much. The next stockholder proposal is being brought by the
 sustainability group of Loring, Wolcott & Coolidge on behalf of W. Andrew Mims
-Trust. W. Andrew Mims and Christine Chow will be presenting this proposal.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 40W. Andrew MimsYou'll have a total of 3 minutes to make a statement about the proposal. I'll advise
+Trust. W. Andrew Mims and Christine Chow will be presenting this proposal.W. Andrew MimsYou'll have a total of 3 minutes to make a statement about the proposal. I'll advise
 you when your time is about to expire.
 
 My name is Andy Mims. And I am the lead proponent of proxy item 6. I'm a partner
@@ -485,9 +461,7 @@ astutely points out, control the company. And while the 2 controlling shareholde
 have avoided this meeting. And therefore, the chance to address concerned
 stakeholders, it's my hope that they still value the long-term importance of aligned
 interests.
-In the words of both Spike Lee and Chair Hennessy, do the right thing.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 40Kathryn W. Hall
+In the words of both Spike Lee and Chair Hennessy, do the right thing.Kathryn W. Hall
 Christine Chow
 Kathryn W. Hall
 Peter Flaherty
@@ -524,9 +498,7 @@ Government Integrity Project. I'm from Washington. But please don't hold that
 against me.
 I can't figure out why the company opposes this proposal on sexual harassment after
 pledging to do all it can about sexual harassment. Well maybe it's because there is
-not one ounce of sincerity in any of the reasons Alphabet cites. The real reason isFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 15 of 40Kathryn W. Hall
+not one ounce of sincerity in any of the reasons Alphabet cites. The real reason isKathryn W. Hall
 Peter Flahertythat this company. And most of the rest of corporate America, is not governed by
 what is in the interest of shareholders or even society as a whole. Instead, it's
 governed by what the left-wing mob demands.
@@ -565,9 +537,7 @@ Your time has expired. Could you please wrap up your comments, please?
 
 Well yes, I know you're good at silencing conservatives. But the previous liberal
 people who stood right here got over 4 minutes. So I'm going to take at least 4
-minutes, okay?FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 16 of 40Kathryn W. Hall
+minutes, okay?Kathryn W. Hall
 Christine Joann JantzBut that's just the start of the controversy. Just think of how it will play in other parts
 of the world. And how could anyone trust Google Search results on this topic when
 the company itself is a combatant in the fight over it.
@@ -606,9 +576,7 @@ It is all the more important to adopt this one corporate governance reform since
 Alphabet operates essentially as a dictatorship. Under our company's multi-class
 voting structure, each share of Class A common stock is one vote. Meanwhile, each
 share of insider Class B common stock has 10 votes. Mr. Page and Mr. Brin control
-over 51% of voting power, while owning less than 13% of Alphabet's stock.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 17 of 40Kathryn W. Hall
+over 51% of voting power, while owning less than 13% of Alphabet's stock.Kathryn W. Hall
 Sky KelleySince the interest of public shareholders can be subordinated to those of the
 cofounders, it is critical that shareholders elect directors using a majority standard
 when they stand for an election unopposed. It's all the more important to adopt this
@@ -645,9 +613,7 @@ to a vote. And while we commend Google for taking a first step last year when it
 published statistically-adjusted equal pay for equal work numbers, we request more.
 Because those numbers only tell half the story.
 It's time that you do for your company worldwide what you are already obligated to
-do in the United Kingdom: Release the data about median pay for women andFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 18 of 40Kathryn W. Hall
+do in the United Kingdom: Release the data about median pay for women andKathryn W. Hall
 Sonamtsopeople of color who work at Google. Now TIME'S UP as an organization emerged
 out of the global reckoning sparked by the abuse of women by powerful men across
 industries. We insist on a world where work is safe, fair and equitable. And we will
@@ -683,9 +649,7 @@ Today, I ask you to think and act with these people in mind. Today, I ask you to
 for proposal 10, which calls on Alphabet's Board of Directors to retain advisers to
 study strategic alternatives and empower a committee of independent directors to
 evaluate those alternatives, which may include unification of Class A and B shares or
-sale or other disposition of assets.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 19 of 40Kathryn W. Hall
+sale or other disposition of assets.Kathryn W. Hall
 Emma BayesWe believe that Alphabet has grown to a size and complexity that is unmanageable,
 as evidenced by numerous failures of oversight in management. It is to the
 advantage of shareholders to be proactive in determining the company's next steps
@@ -721,9 +685,7 @@ An employee director will help restore employee confidence in Alphabet's
 leadership, an imperative given its heavy reliance on intellectual capital and the
 extraordinary competition for talent in the industry. Alphabet has repeatedly stated
 that employees are its most valuable asset. But it's currently embroiled in a cultural
-crisis stemming from its ethical conduct and treatment of employees, placing thisFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 20 of 40Kathryn W. Hallcritical asset in jeopardy. Employee confidence in management decreased 18% last
+crisis stemming from its ethical conduct and treatment of employees, placing thisKathryn W. Hallcritical asset in jeopardy. Employee confidence in management decreased 18% last
 year. Much of this decrease stems from failures in communication between senior
 leadership and employees. Employees increasingly feel that they have no voice and
 are concerned that the employee is no longer being steered by its "Don't be evil"
@@ -759,9 +721,7 @@ Therefore, we urge you to support proposal 11.
 Thank you for presenting this proposal. The next stockholder proposal is being
 brought by John Chevedden. Christine Jantz will be presenting this proposal.
 You'll have a total of 3 minutes to make a statement about this proposal. I'll advise
-you when your time is about to expire.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 21 of 40Christine Joann Jantz
+you when your time is about to expire.Christine Joann Jantz
 Kathryn W. Hall
 Proposal 12, simple majority vote, sponsored by John Chevedden of Redondo
 Beach, California.
@@ -798,9 +758,7 @@ these 3 directors received such high negative votes even though they probably
 received 100% support from the insider shareholders who have 10x as many votes
 per share as regular shares.
 Please vote yes, simple majority vote, proposal 12.
-FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 22 of 40Irene KnappThank you for presenting this proposal. The next stockholder proposal is being
+Irene KnappThank you for presenting this proposal. The next stockholder proposal is being
 brought by Zevin Asset Management LLC as a lead filer on behalf of (Carol A. Resin),
 along with a number of other co-filers. Irene Knapp will be presenting this proposal.
 You'll have a total of 3 minutes to make a statement about this proposal. I'll advise
@@ -838,9 +796,7 @@ transparency and accountability fundamentally hurts the quality of products
 Alphabet can deliver.
 With the advent of modern machine learning, our industry stands at a crossroads. To
 be a leader in this area, Alphabet must credibly integrate diversity and sustainability
-into its strategy. A growing group of Alphabet shareholders is listening toFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 23 of 40Kathryn W. Hall
+into its strategy. A growing group of Alphabet shareholders is listening toKathryn W. Hall
 Tyler Holsclawemployees, contractors and communities. Together, we are sending a strong
 message to Alphabet's leadership that they must prioritize transparency and
 accountability in the interest of people, products and long-term investor value.
@@ -874,9 +830,7 @@ Google employees.
 "I'm a Googler who grew up in China. And I am afraid. This past year, I watched my
 colleagues debate the subject of doing business in China. They drew hypotheticals,
 debated (systems and) morality. And balanced concepts of access, truth, control and
-profit. I stayed silent.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 24 of 40Kathryn W. Hall
+profit. I stayed silent.Kathryn W. Hall
 David HuertaI was born as a second child under the one-child policy. I was born as evidence of a
 crime. I remember my mother's retelling of her government-forced abortion of her
 third child. Her voice is emotionless. But her words are vivid. If I could make myself
@@ -912,9 +866,7 @@ Sexual harassment is a major problem in workplaces across the country. The Me To
 Movement has shed light on the impact it has on working women every day. It also
 poses significant risk for investors. This is why Alphabet should adopt an executive
 compensation clawback policy in the wake of the financial and reputational damages
-the company suffered last year due to its handling of sexual misconduct allegations.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 25 of 40Kathryn W. Hall
+the company suffered last year due to its handling of sexual misconduct allegations.Kathryn W. Hall
 Renaye Manley
 Kathryn W. HallLast November's walk out of 20,000 Alphabet employees and contract employees,
 by one estimate, accounted for more than 20% of Alphabet's global workforce.
@@ -949,9 +901,7 @@ the State of New York, Thomas P. DiNapoli, as the trustee of The New York State
 Common Retirement Fund and the Administrative Head of the New York State and
 Local Retirement System; and Arjuna Capital on behalf of Lisa Stephanie Myrkalo
 and Andrea Louise Dixon as co-lead filers. Patrick Doherty will be presenting this
-proposal.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 26 of 40Patrick Doherty
+proposal.Patrick Doherty
 Kathryn W. Hall
 Unidentified ParticipantYou'll have a total of 3 minutes to make a statement about this proposal. I'll advise
 you when your time is about to expire.
@@ -987,9 +937,7 @@ proposal.
 You'll have a total of 3 minutes to make a statement about this proposal. I'll advise
 you when your time is about to expire.
 My proposal concerns Alphabet's activities related to entities sanctioned by the U.S.
-Treasury's Oﬃce of Foreign Assets Control, the OFAC. A request that the companyFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 27 of 40Kathryn W. Hallestablish a sanctions compliance program, an SCP, as recommended by the OFAC to
+Treasury's Oﬃce of Foreign Assets Control, the OFAC. A request that the companyKathryn W. Hallestablish a sanctions compliance program, an SCP, as recommended by the OFAC to
 identify and close accounts held by sanctioned entities.
 This proposal does not concern limiting any particular services, removing any type of
 content, enforcing general community standards or the like. It's about closing the
@@ -1028,9 +976,7 @@ considering this proposal. If you're inclined to vote on it, the form looks like
 Thank you for presenting this proposal. The persons named as proxyholders, Larry
 Page, Ruth Porat, David Drummond, Kent Walker and myself and any of us, have
 discretionary authority in voting the proxies under Rule 14a-4(c) under the Exchange
-Act and intend to exercise such discretion to vote against this proposal.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 28 of 40Unidentified Participant
+Act and intend to exercise such discretion to vote against this proposal.Unidentified Participant
 Kathryn W. Hall
 Unidentified Participant
 Kathryn W. Hall
@@ -1059,9 +1005,7 @@ We rely on our inspector of elections to properly...
 There's no way that (we'll have to do that). (inaudible)
 We forgot to put -- that we have to put our name and address in the top part
 because they were the ones that were mailed to us with the name and address in
-(inaudible).FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 29 of 40Kathryn W. Hall
+(inaudible).Kathryn W. Hall
 Unidentified Participant
 Kathryn W. Hall
 Unidentified Participant
@@ -1094,9 +1038,7 @@ of these proposals has been approved by our stockholders.
 I have also been advised by the inspector of elections that a majority of the shares of
 our Class A and Class B common stock entitled to vote and present at the meeting in
 person or by proxy voted against proposals 4 through 16 described in our proxy
-statement and against the ﬂoor proposal presented by (Joel Miller) today. Therefore,FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 30 of 40John L. Hennessy
+statement and against the ﬂoor proposal presented by (Joel Miller) today. Therefore,John L. Hennessy
 Q - Unidentified Participanteach of these stockholder proposals has not been approved by our stockholders. As
 soon as possible after the meeting, we'll complete the final vote tabulations. And
 we'll provide the final vote results on our Investor Relations website and in a filing
@@ -1133,9 +1075,7 @@ reminiscent of what I felt back then, that same intolerance for someone who is
 different from them."
 Shame on Google and every single person involved in ending the AI Board and
 giving into this mob. The company's intolerance is staggering. From working with a
-racist, bigoted and discredited Southern Poverty Law Center...FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 31 of 40A - John L. Hennessy
+racist, bigoted and discredited Southern Poverty Law Center...A - John L. Hennessy
 Q - Unidentified Participant
 A - Kent Walker
 A - John L. Hennessy
@@ -1173,9 +1113,7 @@ single Board meeting. I certainly meet with him along with the other Board membe
 frequently. And...
 But this is our only chance to do it as shareholders.
 
-I understand that.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 32 of 40A - Ruth Porat
+I understand that.A - Ruth Porat
 A - John L. Hennessy
 Q - Unidentified ParticipantThank you. I'm (Andreas). And I'm representing the investment corporation for long-
 term investors situated in Bonn, Germany. We are a 200 -- or roughly 230 family
@@ -1218,9 +1156,7 @@ and their own responsibility in that reality. We're told we can't simply choose 
 workers with respect and end this artificial caste system of TVCs and FTEs because
 that would violate U.S. co-employment law. We're told that we can't take dramatic
 action to halt climate change because we need to sell tools that allow the fossil fuel
-industry to extract fuels more eﬃciently so we can meet quarterly sales. But when weFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 33 of 40A - John L. Hennessy
+industry to extract fuels more eﬃciently so we can meet quarterly sales. But when weA - John L. Hennessy
 Q - Unidentified Participantrespond this way, it's disingenuous. It's not that we, Google, are powerless to behave
 differently. It's that we're choosing to use our immense power to solve the wrong
 problems. And we can do better.
@@ -1255,9 +1191,7 @@ kids.
 (foreign language)
 (Interpreted) Yesterday's announcement that Google recognizes its responsibility to
 act on the housing crisis in the Bay Area is a positive sign that the community -- that
-the company is listening to the community.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 34 of 40A - Ruth Porat
+the company is listening to the community.A - Ruth Porat
 Q - Lisa A. Lindsay(foreign language)
 (Interpreted) Nonetheless, we have a few questions.
 (foreign language)
@@ -1293,9 +1227,7 @@ housing. Thank you for your question.
 Hi. My name is Lisa Lindsay from SumOfUs. And I'm here to deliver the petition that
 was mentioned previously by Sonamtso of already 6,000 people who have asked
 Google to stop Project Dragonﬂy, including 1,400 shareholders and 1,300 people
-who wrote to their pension funds. And my question is, you mentioned over theFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 35 of 40A - Kent Walker
+who wrote to their pension funds. And my question is, you mentioned over theA - Kent Walker
 Q - Lisa A. Lindsay
 A - Kent Walker
 Q - Lisa A. Lindsay
@@ -1338,9 +1270,7 @@ base. And working together, I think that's how we'll establish that. Kent?
 And if I could add to that, John. The -- we have tried to be very public in the work
 that we're doing here and talking about the progress we've made. We have
 published a handbook with regard to ideas on AI not just responsible practice --
-principles. But also responsible practices for practitioners in the area. We're workingFINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 36 of 40Q - Unidentified Participant
+principles. But also responsible practices for practitioners in the area. We're workingQ - Unidentified Participant
 A - Ruth Porat
 Q - Unidentified Participantwith many different groups, the Partnership on Artificial Intelligence, a number of
 NGOs to make sure we move forward not just at Google. But throughout the sector
@@ -1379,9 +1309,7 @@ up to go into education or playgrounds, creates new opportunities that have not 
 been addressed. But it's still early days. Thank you.
 (foreign language)
 (Interpreted) Good morning. My name is (Juan Salceldo). And I'm a shareholder
-representative for the International Brotherhood of Teamsters.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 37 of 40A - Kent Walker(foreign language)
+representative for the International Brotherhood of Teamsters.A - Kent Walker(foreign language)
 (Interpreted) I've lived 44 years in the United States. It's my second homeland. And
 I've spent the greater part of my life working in fast food restaurants.
 (foreign language)
@@ -1411,9 +1339,7 @@ We take the issue of digital skilling and making sure that there are new paths f
 next generation very seriously. A lot of the work that Google.org, our philanthropic
 subsidiary, does is very much focused on the notion of economic empowerment and
 bringing skills, not just coding. But a range of different skills to the next generation
-of workers and learners. So we are doing that effort in the Bay Area. Even this week,FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 38 of 40Q - Tejal Patel
+of workers and learners. So we are doing that effort in the Bay Area. Even this week,Q - Tejal Patel
 A - John L. Hennessy
 A - Eileen Naughton
 Q - Tejal Patel
@@ -1456,9 +1382,7 @@ May I ask one clarifying question? Is -- the supplier Code of Conduct, does that
 to all of your vendors or you said a large portion of...
 
 It's applied to all of our vendors.
-FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 39 of 40A - Eileen Naughton
+A - Eileen Naughton
 A - John L. Hennessy
 Q - Unidentified Participant
 A - Kent Walker
@@ -1498,9 +1422,7 @@ and we made to the point that, that collusion constituted an inconsistency with 
 company-stated values. Subsequently, the company concluded that it could not
 continue to operate in China under these conditions. And we, in New York, hope that
 the company continues to remember that commitment that was made and its own
-values in this context. Thank you.FINAL TRANSCRIPT 2019-06-19
-Alphabet Inc (GOOGL US Equity)
-Page 40 of 40A - John L. Hennessy 
+values in this context. Thank you.A - John L. Hennessy 
 Thank you. Well we are ready to adjourn the meeting. Thank you, all for attending
 and thank you for your support of Alphabet. Have a great day.
 (Portions of this transcript that are marked (Interpreted) were spoken by an

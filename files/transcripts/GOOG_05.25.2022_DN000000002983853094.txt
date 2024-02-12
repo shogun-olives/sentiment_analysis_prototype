@@ -3,9 +3,7 @@ So, I touched on your background a little, but would love for you to tell us a l
 
 Sure, yes. Well, again, thanks for having me here. And yeah, I think, you hit me the
 high points there. Joined Google in January of 2020 to lead Commerce, and I also
-lead Payments in our Next Billion Users, which you can think of as emerging marketsFINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 12Doug Anmuth
+lead Payments in our Next Billion Users, which you can think of as emerging marketsDoug Anmuth
 Bill Ready
 Doug Anmuth
 Bill Readyeffectively. And yeah, prior to that 20-plus years building FinTech and commerce
@@ -41,9 +39,7 @@ sessions per day across Google. So we think there is a really significant opport
 to help enable an open ecosystem, help consumers connect with all the many places
 that they may want to buy and help the broader retail ecosystem engage with the
 consumer as they're shifting to digital as a much more significant portion of their
-overall shopping engagement. And we've seen really great progress in those things.FINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 12Doug Anmuth
+overall shopping engagement. And we've seen really great progress in those things.Doug Anmuth
 Bill ReadyI mentioned the 1 billion-plus shopping sessions per day. We've also had really good
 success in building up the merchant and supplier side of that -- you get suppliers
 within the travel space, building up that side of the equation as well as we've done
@@ -85,9 +81,7 @@ make sure that we're really clear that we're not a retailer, we're not trying to
 retailer, we're here to help empower the retail ecosystem. And so, with Buy on
 Google, we try to make it very clear that that is an experience they can help solve for
 what I think of as in-context purchasing. But it's still helping to connect a consumer
-and a merchant directly, right, where a retailer think about not just gaining aFINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 12Doug Anmuth
+and a merchant directly, right, where a retailer think about not just gaining aDoug Anmuth
 Bill Readytransaction, but gaining a customer. And I think this is something that is quite
 important in the way that we're approaching an open commerce ecosystem is that
 making sure that the consumer fully understands who they're buying from and
@@ -130,9 +124,7 @@ to opportunities for merchants and sellers to promote their business. And so tho
 things end up having long-term benefits to our businesses as well, but this has been
 consistent with our model from the very beginning of supporting a lot of free
 experiences, but then of course have opportunities for people to pay to promote as
-well.FINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 12Doug Anmuth
+well.Doug Anmuth
 Bill Ready
 Doug Anmuth
 Bill ReadyYou've talked about the 24 billion-plus listings in the Shopper Graph. How is that
@@ -174,9 +166,7 @@ Okay. Great. So, something that gets discussed a lot Mr. Cross [ph] discussions 
 investors. We've seen pretty significant changes happening in retail over the last few
 years. Curious what trends you think will stick and which ones are you really most
 excited about going forward.
-FINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 12Yeah. So I think there is a number of things that are quite interesting. I think, first and
+Yeah. So I think there is a number of things that are quite interesting. I think, first and
 foremost, yes, the consumer has shifted their behavior to digital significantly. And I
 think there is a lot of, obviously, everyone is sort of watching to understand, like,
 okay, how is that going to continue to evolve, what's happening as users are coming
@@ -219,9 +209,7 @@ progress on doing more for the users' digital shopping journey. I think the firs
 years of e-commerce was solving much more for buying, but not as much for
 Shopping. And so the distinction between those things, if you look at how Shopping
 has always existed in the in the real-world, there is a big element of shopping that
-was not just about how do I get a thing the cheapest and fastest, but how am I -- itFINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 12was -- there was a joy to it, right, there was a past time to it, there was a -- people
+was not just about how do I get a thing the cheapest and fastest, but how am I -- itwas -- there was a joy to it, right, there was a past time to it, there was a -- people
 relished walking the bazaar and discovering the new thing they wouldn't have found.
 If you think about your own shopping journeys, right, you walk into a grocery store
 and you probably had 5 or 10 things on your list that you needed, but when you
@@ -266,9 +254,7 @@ Google Lens for a while, we've talked about how Google Lens helps you shop what
 you see, where you can point your phone at anything and will tell you what that
 product is, information about it, where you can buy it or if you see an image -- you
 see an image of a celebrity that has an outfit on that you like, you can screenshot that
-and then Google Lens will tell you, oh, well, here's what those shoes are, here'sFINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 12Doug Anmuth
+and then Google Lens will tell you, oh, well, here's what those shoes are, here'sDoug Anmuth
 Bill Ready
 Doug Anmuthwhere you could get them, or okay, well, I like that look, I'm not going to pay what
 that celebrity paid for that thing, how can I get that look for less, so these kinds of
@@ -310,9 +296,7 @@ we're getting more into the shopping side. So we've seen some of our payment
 companies, Bill, starting to talk about advertising, which is completely new for me,
 I'm not a advertising guy, you know that. And then both more digital and more omni,
 it's easier for software companies, platforms to monetize payments as well. So how
-does it fit for Google and Commerce?FINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 12Bill Ready 
+does it fit for Google and Commerce?Bill Ready 
 Yeah. So, I've spent many years in payments and commerce. And I think the
 interesting thing is that every commerce journey ultimately ends in a payment. Some
 point, it's a commerce journey when it ends in a payment. That also means every
@@ -354,9 +338,7 @@ fast-forward straight into the merchants' checkout. But then once you get to tha
 checkout, one of the things that has been quite apparent is that even as there's been
 a rise in Buy buttons and we have our own, there are other good ones out in the
 ecosystem, you still have for most retailers, many, if not most retailers, the majority of
-the checkout is still somebody putting in a card and a credit card entry form, andFINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 12Doug Anmuth
+the checkout is still somebody putting in a card and a credit card entry form, andDoug Anmuth
 Bill Readythose are high friction. There is things that are left to be desired around safety and
 security and those kinds of things. So the things we've done with like virtual cards
 that we talked about at Google I/O, where right within Chrome autofill across any
@@ -398,9 +380,7 @@ what you're doing in more traditional retail?
 
 Yeah, it's a very common strategy or very similar strategy to what we're doing in retail
 and what I just talked about in payments, where we think we can do a lot to bridge
-the consumer with a whole range of suppliers and have an open ecosystem ofFINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 12Doug Anmuth
+the consumer with a whole range of suppliers and have an open ecosystem ofDoug Anmuth
 Bill Readysuppliers, whether those suppliers are airlines or hoteliers or OTAs, we think we can
 do a lot to create deeper connections there. And just as we're doing in Shopping,
 where we're pairing great free experiences with great opportunities to promote
@@ -442,7 +422,5 @@ that information to bear, again, we think is a pretty unique role that we can pl
 help bridge a lot of connections.
 All right. Great. We are out of time, so we're going to leave it there. But thank you,
 Bill. Really appreciate you being here.
-FINAL TRANSCRIPT 2022-05-25
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 12Doug AnmuthYeah. Absolutely. Thank you for having me.
+Doug AnmuthYeah. Absolutely. Thank you for having me.
 Thank you, Bill.

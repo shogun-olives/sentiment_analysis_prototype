@@ -21,9 +21,7 @@ graphics? One of the first things I always point to is, well, you can't build a 
 the special effects of a movie like Gravity using integrated graphics. So that is just an
 example, of course.
 But across all of these different segments there is really vertical segments we focus
-on that are things like gaming, PC gaming, professional visualization, design, high-FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 16performance computing and big data analytics. I will touch on some new
+on that are things like gaming, PC gaming, professional visualization, design, high-performance computing and big data analytics. I will touch on some new
 announcements we made this week at Supercomputing specifically for that market.
 Then we have an OEM business.
 And the OEM businesses are basically products manufactured by other companies
@@ -61,9 +59,7 @@ the data center and streaming graphics. So these are -- I will touch on some of 
 things going on there. Also in Q3 we announced our intent to return $1 billion in
 capital to shareholders in fiscal 2015.
 Okay, the first item that I talked about and this is one of the fundamental questions
-that we always get, which is, how is it possible for NVIDIA's GPU business to beFINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 16growing when the PC market is in decline? The answer starts with NVIDIA doesn't
+that we always get, which is, how is it possible for NVIDIA's GPU business to begrowing when the PC market is in decline? The answer starts with NVIDIA doesn't
 and hasn't ever addressed the bottom 70% of the market.
 For a lot of applications if you're doing email, browsing, those kinds of things, using
 the integrated graphics that comes inside of your notebook or your PC is just fine.
@@ -102,9 +98,7 @@ market.
 One of the surprises for us has been the emergence of gaming notebooks. So
 gaming notebooks, even though the overall notebook market is declining, gaming
 notebook revenue for NVIDIA, our GPU business, has more than doubled the last
-two years and is now a pretty significant component of our notebook business.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 16So these are essentially very thin and light notebooks. But they have a GeForce GPU
+two years and is now a pretty significant component of our notebook business.So these are essentially very thin and light notebooks. But they have a GeForce GPU
 in them that operates at zero power when you are using it for most of the time
 during the day, they use integrated graphics. But then you can launch a game and at
 that point it switches to the GeForce GTX GPU and you get the best of both worlds.
@@ -143,9 +137,7 @@ requires software applications to take advantage of that technology. So this is
 basically a great early indicator.
 NVIDIA Tesla GPU's are also -- we announced power Europe's number one
 supercomputer and we launched CUDA 6. So one of the things that we have been
-working on is to come up with ways to facilitate programming, making it easier to doFINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 16parallel programming in CUDA 6 with Unified Memory is a big step forward to
+working on is to come up with ways to facilitate programming, making it easier to doparallel programming in CUDA 6 with Unified Memory is a big step forward to
 achieving that.
 The other growth opportunity that we are very excited about. And I know a lot of
 people on the Street are also, is a product called GRID. And what GRID does is take
@@ -182,9 +174,7 @@ while to go through trials at some of these large companies.
 When we were asked on Q3 earnings call, in addition to Tesla and to GRID, what are
 the big growth drivers for the Company the number one biggest growth driver for
 us at this point is Tegra. So I don't think right now there is a single business unit at
-NVIDIA that does not have Tegra on its roadmap.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 16Tegra is a essentially taking the GPU. You can look at NVIDIA's business as visual
+NVIDIA that does not have Tegra on its roadmap.Tegra is a essentially taking the GPU. You can look at NVIDIA's business as visual
 computing, the GPU that we sell is matched with an x86 to go into a PC or a server.
 What we have done is take a GPU and put it into a system on a chip and then we
 market that to the Android world.
@@ -222,9 +212,7 @@ variety of other devices coming. So that is the other thing.
 When you say the word Android I think a lot of people automatically come back and
 think, well that means phone. And today the phone market is the most mature
 segment of the Android market. But we know that Android is revolutionizing a lot of
-different markets other than just phone. So whether it is set-top boxes, displays,FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 16clamshells, all-in-one PCs, automobiles, there is just a variety of new devices coming
+different markets other than just phone. So whether it is set-top boxes, displays,clamshells, all-in-one PCs, automobiles, there is just a variety of new devices coming
 and we believe that there will be segments of those markets where visual computing
 matters and that is basically where our strategy is.
 This year we know that the other component of this is that this year we were late with
@@ -263,9 +251,7 @@ revenue for GRID.
 Another key component again for us is Tegra revenues ramping back. So Tegra 4 is
 now shipping in over 15 devices. Android, as I mentioned, is not just about phones,
 that is going to drive our growth. We had another record automotive quarter, I didn't
-talk much about automotive. But automotive just continues to ramp steadily for us.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 16Q - Stephen Chin
+talk much about automotive. But automotive just continues to ramp steadily for us.Q - Stephen Chin
 A - Rob Csongor
 Q - Stephen Chin
 A - Rob Csongor
@@ -300,9 +286,7 @@ Is there a customer concentration issue there at all?
 
 Meaning -- sorry, what do you mean?
 Where it's disproportionately -- the revenues that you are getting right now from
-automotive, is it disproportionately skewed toward a particular OEM?FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 16A - Rob Csongor
+automotive, is it disproportionately skewed toward a particular OEM?A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
@@ -337,9 +321,7 @@ I can talk about some of this just because it has been announced.
 You are going to see Tegra's used for rendering instrument panels. So physical
 gauges disappearing and being replaced by rendered panels, which are able to
 convey a lot more information and they are safer. Then the third area has to do with
-advanced driver systems.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 16Q - Unidentified Participant
+advanced driver systems.Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
@@ -376,9 +358,7 @@ Tesla, GRID and Tegra as being driven by not just design wins but I the buildup 
 this run rate business.
 Thanks.
 
-Rob, maybe a couple of -- sorry.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 16Q - Unidentified Participant
+Rob, maybe a couple of -- sorry.Q - Unidentified Participant
 A - Rob Csongor
 Q - Stephen Chin
 A - Rob Csongor
@@ -419,9 +399,7 @@ that if you are a company that cares about centralized data, for example you guy
 right, the financial world. You have centralized data, you don't necessarily want to put
 all that data out locally onto clients everywhere where it can be lost or stolen or
 whatever. So you want a virtualized desktop on a tablet or on a notebook or
-something like that and then you want to be able to access it.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 16Q - Stephen Chin
+something like that and then you want to be able to access it.Q - Stephen Chin
 A - Rob Csongor
 Q - Stephen ChinSo in fact the financial world uses VDI, you use Citrix, you use VMware, Bloomberg,
 FactSet -- all of these guys will use Citrix or you'll use virtual desktop clients. In the
@@ -462,9 +440,7 @@ stuff.
 
 Okay. And just two questions on Tegra. First of all in the automotive market is
 basically any sort of infotainment and driver assistant aid systems, are those all
-targeted by Tegra? Or is there a certain price range? Is it only luxury cars or does itFINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 16A - Rob Csongor
+targeted by Tegra? Or is there a certain price range? Is it only luxury cars or does itA - Rob Csongor
 Q - Stephen Chin
 A - Rob Csongor
 Q - Stephen Chin
@@ -505,9 +481,7 @@ example. So NVIDIA has never been a price competitive supplier, it is just not -
 is not how we are structured. You obviously get integrated graphics for free. So
 whatever we provide and when we sell a GPU to the PC it is obviously at a premium.
 And in the markets we serve that premium is potentially thousands of dollars.
-FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 16A - Rob Csongor
+A - Rob Csongor
 Q - Stephen Chin
 A - Rob Csongor
 Q - Stephen Chin
@@ -546,9 +520,7 @@ service providers such as NTT or Vodafone?
 We think -- I mean the biggie is done. We do have certification on others, some of
 them just haven't been disclosed yet.
 
-Okay.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 16A - Rob CsongorRob, there is in my mind confusion out there about your licensing agreement with
+Okay.A - Rob CsongorRob, there is in my mind confusion out there about your licensing agreement with
 Intel. Could you articulate what exactly the agreement is and isn't? Some people
 think I think in 2017 you are going to hit this waterfall and others have said, no, no,
 no, there are aspects of the technology that go on in perpetuity.
@@ -587,9 +559,7 @@ But in the meantime we've announced a number of initiatives that I would say you
 are certainly seeing enough early indicators of things that can drive profits for
 NVIDIA beyond where we are today. GRID, Tesla, IP patent licensing, IP core
 licensing, there is just a number of things -- a number of irons in the fire that you see.
-So we will see.FINAL TRANSCRIPT 2013-11-21
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 16Q - Stephen Chin
+So we will see.Q - Stephen Chin
 A - Rob Csongor
 Actually we are out of time, Rob. So maybe you can take any other questions off-line.
 So appreciate your time today and thanks for the updates.

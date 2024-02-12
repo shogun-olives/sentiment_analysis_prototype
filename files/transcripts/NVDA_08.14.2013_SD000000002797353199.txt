@@ -21,9 +21,7 @@ models where people will actually pay in-game purchases or downloadable content.
 And so a lot of the revenue happens almost invisibly and it's actually quite diﬃcult to
 track. But organizations that do tell us it is growing about 10% a year and that maps
 to the growth of PC gaming hardware as near as we can estimate it from figures we
-have and figures from the industry.FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 15Rick Schafer
+have and figures from the industry.Rick Schafer
 Chris EvendenSo overall, the whole market is growing, ASPs are growing. Then, the other
 interesting thing about GPUs if we do generalize the question to GPU growth, of
 course, we've got Quadro and Tesla and GRID in there as well. And these are three
@@ -66,9 +64,7 @@ doing right now, we can scale much better that way. It's great getting business 
 Oak Ridge National Labs there, marquee wins, they generate a lot of other wins as
 well, because a lot of other people when they're developing quota tight on the
 supercomputer, Oak Ridge National Labs, they'll want to develop it and test it on
-their own systems.FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 15Rick Schafer
+their own systems.Rick Schafer
 Chris Evenden
 Rick Schafer
 Chris Evenden
@@ -110,9 +106,7 @@ discrete graphics space has been making noise recently about potentially taking
 some share this year and next in desktop and notebook, I think. How credible is that
 claim that they would -- and where would that come from if you think it is credible, is
 it mostly kind of low-end desktop and kind of competing with some of the
-integrated graphics stuff or --?FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 15Chris Evenden
+integrated graphics stuff or --?Chris Evenden
 Rick Schafer
 So share is interesting because you can't get market share data. Right now
 (inaudible) publishes market share data and data is good. But you have to bear in
@@ -154,9 +148,7 @@ much more rational for a few years, yes, actually it's been good. Good.
 
 That leads me to the gross margin question. I mean, you guys have done a great job
 expanding gross margins, I think 400 basis points, 500 basis points, just in the last
-four quarters, five quarters. But my math is right, maybe five quarters or six quarters.FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 15Chris Evenden
+four quarters, five quarters. But my math is right, maybe five quarters or six quarters.Chris Evenden
 Rick Schafer
 Chris Evenden
 Rick Schafer
@@ -198,9 +190,7 @@ contribute meaningfully. And on the ﬂip side, I don't think netbook growing an
 soon, it'll probably be ﬂat at best. And that's our worst gross margin business. So
 what we're seeing structurally point to margins that will be maintained. Now, if Tegra
 grows, is that what you --?
-FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 15Chris Evenden
+Chris Evenden
 Rick Schafer
 Chris Evenden
 Rick Schafer
@@ -240,9 +230,7 @@ guess, I'm curious, what do you -- like is there a piece of the puzzle that's mi
 mean, it's like gaining more a full suite of like connectivity or some more pieces of
 that puzzle will help sell it or is it that you're relatively new to that channel, historically
 you were a big player?
-FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 15Rick Schafer
+Rick Schafer
 Chris Evenden
 Rick Schafer
 Chris Evenden(multiple speakers) actually. So I think the one you miss as we tend to -- we've done a
@@ -281,9 +269,7 @@ happening, in parallel, you're getting the chip qualified at carriers effectivel
 chip level and then the phone or handset OEM takes the phone and builds and if
 they decided they want to take it to market, they will then start qualifying that as a
 device-level qualification as well and then they can bring it to market. So it's a
-lengthy process, right. And the chip starts sampling (mid of) February. So it's at leastFINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 15Rick Schafer
+lengthy process, right. And the chip starts sampling (mid of) February. So it's at leastRick Schafer
 Chris Evenden
 Rick Schafer
 Chris Evenden
@@ -321,9 +307,7 @@ manufacturers actually. And so you have to find -- clearly, again, we (can't) ha
 sales and engineering team.
 
 (inaudible).
-FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 15Rick Schafer
+Rick Schafer
 Chris Evenden
 Rick Schafer
 Chris Evenden(inaudible), okay. So the number I most recently read was the 100, 200. But yes, the
@@ -363,9 +347,7 @@ what you guys do some of the stuff and I think you've done a lot of innovation a
 you just mentioned one thing right there with stylus. But would you ever be able to
 go in and license to an Apple or you know what I mean or get some revenue that
 way.
-FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 15Rick Schafer
+Rick Schafer
 Chris EvendenWe'd love to. Yes. Absolutely. I mean. So we have this licensing business now. But
 we've formalized the technology. We've kept our designs in such a way that makes it
 a licensable call. And (future course) Maxwell and so on will be similarly licensable.
@@ -408,9 +390,7 @@ them, the big cable that goes inside, if you like, that's the constraint. And so
 much performance can you get out of the megawatt (we're just throwing into the
 side of the placement). So everything we do is power constrained. And so that
 means the power consumption is important, whether we're developing a Tegra chip
-or whether we're developing a GeForce chip. And so all these synergies mean a GPUFINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 15Rick Schafer
+or whether we're developing a GeForce chip. And so all these synergies mean a GPURick Schafer
 Chris Evenden
 Q - Rick Schafer
 Q - Unidentified Participant
@@ -448,9 +428,7 @@ Market, what's been going on there and what kind of attach rates, market share a
 with the PC unit growth doing what it's doing, in general, what do you think the
 outlook is for that?
 
-Yes. So I did address that right at the beginning actually.FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 15Q - Unidentified Participant
+Yes. So I did address that right at the beginning actually.Q - Unidentified Participant
 A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evenden
@@ -487,9 +465,7 @@ gaming is growing 10% a year. I know there's a third question I forgotten.
 Share and ASP.
 
 Share and ASP. So share at the moment is probably pretty stable; ASPs are growing.
-Okay. So net-net, that business grows for you?FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 15A - Chris Evenden
+Okay. So net-net, that business grows for you?A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evenden
 Q - Unidentified Participant
@@ -529,9 +505,7 @@ weight is on the GPU. So you might not see it. So if you -- if we have a custome
 tomorrow that license the chip, the code, they would then build a chip with that
 code, they would then take that chip, put it into device and bring that device to
 market. So it could be two years before even if I will ask someone tomorrow it could
-be raising (inaudible) it could be two years before you hear about that.FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 15Q - Unidentified Participant
+be raising (inaudible) it could be two years before you hear about that.Q - Unidentified Participant
 A - Chris Evenden
 Q - Rick Schafer
 A - Chris Evenden
@@ -571,9 +545,7 @@ a typical IT project implementation is a 12-month to 24-month proposition. But a
 early indicators are pretty good. The VMware Show is later this month I think actually
 and so we're working very closely with them as well to get it and supported it
 natively the way it supported natively in Citrix. So that's another growth initiative for
-the Quadro there.FINAL TRANSCRIPT 2013-08-14
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 15Q - Rick Schafer
+the Quadro there.Q - Rick Schafer
 A - Chris Evenden
 Q - Rick Schafer
 A - Chris Evenden

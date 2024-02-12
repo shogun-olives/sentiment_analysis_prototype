@@ -13,9 +13,7 @@ new 15-inch MacBook Air. And the reaction has been fantastic. Tom's Guide said, 
 said, the 15-inch MacBook Air is going to instantly rocket to the top of the lineup to
 become the most popular 15-inch laptop. We love the new MacBook Air and the
 entire Mac lineup. It's the best and most capable lineup in the history of the personal
-computer.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 2 of 22Jeff Williams
+computer.Jeff Williams
 Deidre CaldbeckWe also unveiled Apple Vision Pro, an entirely new spatial computing platform,
 where your digital content seamlessly blends with your physical space. Everything
 looks better on Vision Pro, including your favorite TV shows and movies, like the new
@@ -51,9 +49,7 @@ detection. Apple Watch Series 9 has been redesigned on the inside with the all-n
 S9 SiP, giving it a big boost in performance and capabilities. It's our most powerful
 watch chip yet.
 The S9 CPU has 5.6 billion transistors, 60% more than Series 8, and its GPU is 30%
-faster. The new S9 chip makes the animations and effects in watchOS 10 look super-FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 3 of 22smooth. S9 also has a new four-core Neural Engine that can process machine
+faster. The new S9 chip makes the animations and effects in watchOS 10 look super-smooth. S9 also has a new four-core Neural Engine that can process machine
 learning tasks up to twice as fast. This powerful custom silicon is what allows us to
 maintain all-day 18-hour battery life, while adding new features and systemwide
 improvements to Series 9.
@@ -92,9 +88,7 @@ Series 8. The display is also better in very dark situations like a movie theate
 morning wake-up because it now goes down to just 1 nit. These features will be
 useful every time you put on your watch.
 But that's not all, the powerful SiP also enables an incredible new capability. Back to
-Jeff to tell you about it.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 4 of 22Jeff Williams
+Jeff to tell you about it.Jeff Williams
 Deidre Caldbeck
 Jeff Williams
 Deidre Caldbeck
@@ -125,9 +119,7 @@ completely new way. It uses a machine learning algorithm to detect the unique
 signature of tiny movements and changes in blood ﬂow when your hand and fingers
 perform a Double Tap.
 Check out Double Tap in action.
-(Audio/Video Presentation)FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 5 of 22Lisa JacksonDouble Tap makes interacting with your watch faster, easier and more convenient. It
+(Audio/Video Presentation)Lisa JacksonDouble Tap makes interacting with your watch faster, easier and more convenient. It
 will be available next month, and we can't wait for you to start using it, because once
 you do, it will become one of those magical experiences you rely on every day.
 Series 9 will be available in a gorgeous new pink aluminum case, plus starlight, silver,
@@ -162,9 +154,7 @@ year, all Apple Watch manufacturing is powered by 100% clean electricity.
 Charging is another source of emissions. While it's a small amount per person across
 millions of watch wearers, it adds up. So we decided to do something about it. For
 Series 9, Apple will match 100% of your expected electricity use by investing in
-renewable energy projects around the world.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 6 of 22Jeff WilliamsFinally, we looked at how Apple Watch gets from the factory to you. To cut emissions
+renewable energy projects around the world.Jeff WilliamsFinally, we looked at how Apple Watch gets from the factory to you. To cut emissions
 from transportation, we started by redesigning Series 9 packaging to be 100% fiber-
 based and more compact. It has a new smaller shape that lets us ship up to 25%
 more watches per trip. And more of those trips will be made with low-carbon
@@ -201,9 +191,7 @@ Radial, a modern take on their classic watch face complements these innovative n
 styles.
 We also worked with Nike to design new bands that repurpose excess materials and
 waste, reducing the use of virgin material. The new Nike Sport Band includes colorful
-ﬂakes of recycled material. They create a randomized pattern that makes each bandFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 7 of 22Daniela Deschampsunique. For the Nike Sport Loop, we repurposed yarn from previous seasons to make
+ﬂakes of recycled material. They create a randomized pattern that makes each bandDaniela Deschampsunique. For the Nike Sport Loop, we repurposed yarn from previous seasons to make
 the same soft material with a fun new space-dye look. Both bands come in a range of
 dynamic colors.
 And there's a new Nike watch face that shows each passing second on the lines of
@@ -242,9 +230,7 @@ power. Apple Watch also helps you get the most out of your training with Power
 Zones. And if you start a cycling workout on your watch, it automatically shows up as
 a live activity on your iPhone. Ultra 2 is designed for extremes and has been tested
 across the largest range of altitudes for any Apple product, from the lowest valleys to
-the highest peaks.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 8 of 22Jeff Williams
+the highest peaks.Jeff Williams
 Tim CookUltra is also great for your underwater adventures. The Depth app now saves a log of
 each session, so you can review your dives right on Ultra and in the Fitness app on
 iPhone. From Alpine peaks to deep water to the open road, we can't wait to see
@@ -280,9 +266,7 @@ I'm really proud of the Apple Watch team for delivering our first carbon-neutral
 product 7 years ahead of our company-wide 2030 goal.
 Now let's talk about iPhone. Since the very first iPhone, we focused on giving our
 users a device that's incredibly powerful, remarkably easy-to-use and beautifully
-designed. Every year, we've built on this foundation to create experiences that makeFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 9 of 22Kaiann Drancea real difference in our users' daily lives. Today, we're pushing what users love about
+designed. Every year, we've built on this foundation to create experiences that makeKaiann Drancea real difference in our users' daily lives. Today, we're pushing what users love about
 iPhone even further, and I'd like to show it to you now.
 (Audio/Video Presentation)
 iPhone 15 is absolutely incredible. To tell you all about it, here's Kaiann.
@@ -317,9 +301,7 @@ textured matte finish that feels incredible.
 iPhone 15 has ceramic shield, tougher than any smartphone glass, and water and
 dust resistance, so it's built to last. And iPhone holds its value longer than any other
 smartphone. This is good for our users and good for the environment since it helps
-conserve finite natural resources.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 10 of 22Maryam Azimi HashemiAnother key part of reaching our goal of carbon-neutral products by 2030 is
+conserve finite natural resources.Maryam Azimi HashemiAnother key part of reaching our goal of carbon-neutral products by 2030 is
 maximizing our use of recycled content. As you heard from Lisa earlier, the enclosure
 uses 75% recycled aluminum. For the first time, we're using 100% recycled cobalt in
 the battery and 100% recycled copper foil in the main logic board and MagSafe
@@ -358,9 +340,7 @@ easier to get stunning portraits of your friends and family. Portraits will get 
 color and great low-light performance, like this one. It's full of vivid color and detail,
 and it uses a rich depth map to create a beautiful bokeh effect.
 In this portrait of a very good dog asking for a treat, iPhone cut the perfect moment
-with zero shutter lag. A split second later and it just wouldn't be the same. And it'sFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 11 of 22Kaiann Dranceeasier to take your portrait because now you don't have to remember to switch to
+with zero shutter lag. A split second later and it just wouldn't be the same. And it'sKaiann Dranceeasier to take your portrait because now you don't have to remember to switch to
 portrait mode. Using machine learning, we can detect when there's a person in the
 frame and capture rich depth information automatically. So you can turn it into a
 stunning portrait right away or later on in the Photos app. It even works with dogs
@@ -396,9 +376,7 @@ are faster and use 20% less power than A15 Bionic. The 4 high-eﬃciency cores c
 handle most daily tasks, so even with all of the new features, iPhone 15 still has all-
 day battery life. And iPhone 15 Plus has a bigger battery that lasts even longer for
 those days when you forget to charge or just want to spend more time gaming,
-browsing the web or on FaceTime with your friends.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 12 of 22Deniz TeomanNow let's talk about connectivity. IPhone 15 uses powerful wired and wireless
+browsing the web or on FaceTime with your friends.Deniz TeomanNow let's talk about connectivity. IPhone 15 uses powerful wired and wireless
 technologies. To tell you about the exciting new wireless features coming to iPhone
 15, here's Deniz.
 iPhone uses wireless technologies to make everyday activities easier, like streaming
@@ -434,9 +412,7 @@ say, you have car trouble and no cellular or Wi-Fi service. For those times, we'
 introducing Roadside Assistance via satellite. It's built on the same advanced
 technology as our existing satellite service, and it's so easy to use. Just text Roadside
 Assistance and select what kind of help you need. Then, the intuitive interface will
-guide you to connect to a satellite and share that information with a RoadsideFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 13 of 22Kaiann DranceAssistance provider. They'll message you directly and dispatch help to your exact
+guide you to connect to a satellite and share that information with a RoadsideKaiann DranceAssistance provider. They'll message you directly and dispatch help to your exact
 location with the right equipment to get you moving. It's launching in the U.S. with
 AAA, the country's largest Roadside Assistance provider. Roadside service is covered
 by AAA membership and is also available separately for non-members. This is yet
@@ -472,9 +448,7 @@ you.
 (Audio/Video Presentation)
 iPhone 15 and iPhone 15 Plus are a huge leap forward. They're full of new industry-
 leading capabilities. They still start at just $799 for iPhone 15 and $899 for iPhone 15
-Plus with carrier activation. We also have excellent offers from Apple and ourFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 14 of 22Tim Cook
+Plus with carrier activation. We also have excellent offers from Apple and ourTim Cook
 Greg Joz Joswiak
 Isabel Yangpartners, including up to $800 off in the U.S. when you trade in an iPhone 11 or
 newer. And at Apple, you'll find the latest carrier offers, so you can buy and activate
@@ -508,9 +482,7 @@ materials in the industry, including the Ceramic Shield front, which is only ava
 on iPhone. And there are two great display sizes to choose from: 6.1 inches for
 iPhone 15 Pro and 6.7 inches for iPhone 15 Pro Max.
 Now to tell you more about this incredible titanium design, here's Isabel.
-FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 15 of 22Greg Joz JoswiakEvery material we choose for iPhone is meticulously considered. For iPhone 15 Pro,
+Greg Joz JoswiakEvery material we choose for iPhone is meticulously considered. For iPhone 15 Pro,
 we re-evaluated every structural component, inside and out, optimizing our alloy
 selection and creating a breakthrough innovation in manufacturing and materials
 design. The new enclosure uses Grade 5 titanium, an alloy that has even higher
@@ -549,9 +521,7 @@ haptic feedback for each state. And you can choose from a set of actions and eas
 switch between them.
 For example, with a simple press, you can start Voice Memos to quickly record a new
 idea or launch camera to capture that important moment, activate a favorite
-accessibility feature like Live Speech, or you can use shortcuts to open up an evenFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 16 of 22Sribalan Santhanamwider set of options from simply launching your favorite app to running your own
+accessibility feature like Live Speech, or you can use shortcuts to open up an evenSribalan Santhanamwider set of options from simply launching your favorite app to running your own
 custom shortcuts.
 The action button delivers even more convenience and versatility to the iPhone
 experience. And every interaction gives you visual feedback with the Dynamic Island
@@ -586,9 +556,7 @@ of the competition. These are critical to iPhone, as your most typical tasks run
 these cores.
 The Neural Engine is now up to twice as fast for machine learning models, allowing it
 to process up to 35 trillion operations per second. The Neural Engine uses machine
-learning on device without sending your personal data to the cloud, poweringFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 17 of 22Greg Joz Joswiakfeatures like typing more accurately with autocorrect, lifting a subject from a photo
+learning on device without sending your personal data to the cloud, poweringGreg Joz Joswiakfeatures like typing more accurately with autocorrect, lifting a subject from a photo
 background, or creating a personal voice for users at risk of speech loss.
 A17 Pro has dedicated engines that enable Pro features. Those include the ProRes
 codec, and a display engine that powers ProMotion and the Always-On display. We
@@ -624,9 +592,7 @@ the GPU and Neural Engine to enable high-quality graphics, while using much less
 power.
 With the fastest chip ever on any smartphone, we are excited for iPhone 15 Pro to
 change mobile gaming. Back to Joz to tell you more.
-FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 18 of 22Fabrice Navrez
+Fabrice Navrez
 Fish Ling
 Meng Wang
 Tsuyoshi Kanda
@@ -661,9 +627,7 @@ franchise, to iPhone 15 Pro in early 2024. This is the first time the console ve
 Assassin's Creed will be natively available on a smartphone.
 Now let's talk about the camera. The Pro camera system is a big reason why users
 choose our Pro models. Built on a powerful foundation of hardware and software, it
-captures the most amazing photos and videos, with the incredible versatility ofFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 19 of 22Misha Scepanovicmultiple lenses; iPhone 15 Pro has our best camera system yet. Users will get even
+captures the most amazing photos and videos, with the incredible versatility ofMisha Scepanovicmultiple lenses; iPhone 15 Pro has our best camera system yet. Users will get even
 better photos and videos, powerful new features, and the equivalent of seven
 camera lenses in their pocket.
 To tell you how we achieved this, here's Misha.
@@ -701,9 +665,7 @@ Now let's talk about our zoom range. iPhone 15 Pro features a great 3X Telephoto
 camera at 77-millimeter focal length, ideal for classic portraiture. For iPhone 15 Pro
 Max, we're using the extra size of the larger iPhone to introduce something unique,
 our longest optical zoom yet, 5X optical zoom at 120-millimeter focal length. We
-designed a state-of-the-art Telephoto camera. Compared to iPhone 14 Pro Max, it hasFINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 20 of 22Greg Joz Joswiaka 25% larger sensor, 100% Focus Pixels and an F/2.8 aperture, the largest of any
+designed a state-of-the-art Telephoto camera. Compared to iPhone 14 Pro Max, it hasGreg Joz Joswiaka 25% larger sensor, 100% Focus Pixels and an F/2.8 aperture, the largest of any
 smartphone at this optical range.
 120-millimeter is a very useful focal length, great for close-ups, wildlife photos, and
 getting closer to the sports action. 120-millimeter lenses are typically long. So
@@ -741,9 +703,7 @@ Pro users, enabling more range and ﬂexibility for visual effects and color gra
 post-production. With Log encoding, iPhone 15 Pro will be the first smartphone in
 the world to support the Academy Color Encoding System, or ACES, a global
 standard for color workﬂows, making it easier for filmmakers to use iPhone in their
-production.FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 21 of 22Tim CookThe iPhone 15 Pro camera system pushes the limits of what you can capture with a
+production.Tim CookThe iPhone 15 Pro camera system pushes the limits of what you can capture with a
 smartphone. The precious memories you capture on iPhone look incredible when
 viewing with Apple Vision Pro. Photos and videos look lifelike, and panoramas
 expand to create an immersive experience that wraps around you.
@@ -779,9 +739,7 @@ This is by far our best iPhone lineup ever, with Dynamic Island across the iPhon
 lineup, incredible new camera systems and powerful features that you'll use
 throughout the day. And the iPhone lineup starts at just $429 with iPhone SE.
 Now back to Tim.
-FINAL TRANSCRIPT 2023-09-12
-Apple Inc (AAPL US Equity)
-Page 22 of 22Thank you, Joz. Thanks to all of our presenters, and thanks to everyone who worked
+Thank you, Joz. Thanks to all of our presenters, and thanks to everyone who worked
 on these amazing products that are so indispensable in our daily lives. Apple Watch
 Series 9, with our most powerful chip ever in Apple Watch, a brighter display, and a
 convenient new way to interact with your watch. And it's our first carbon-neutral

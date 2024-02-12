@@ -24,9 +24,7 @@ Management Software. I've been in the IT industry for over 40 years. Spent part 
 that time as a programmer-consultant, much of that time as a software development,
 building database management software and as a Product Manager and as a
 Marketing Product Manager and for the past 21 years, I've been working at IDC,
-analyzing and researching the market.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 2 of 18So over that time course, we've seen a lot of change and you'll be seeing some of
+analyzing and researching the market.So over that time course, we've seen a lot of change and you'll be seeing some of
 those changes reﬂected in my remarks today. Why don't we begin by talking about
 the overall state of the market?
 So in general terms, we're just going to -- just some high level revenue observation
@@ -63,9 +61,7 @@ of the data exists in program codes rather than in any form of definitions withi
 database management system.
 The overall market growth for this space from 2016 to 2017 was 62% with the
 dominant vendors being Microsoft with HDInsight and Cosmos DB and Amazon with
-EMR and DynamoDB.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 3 of 18Most of the new development is on-prem at present, but cloud revenue drives
+EMR and DynamoDB.Most of the new development is on-prem at present, but cloud revenue drives
 growth and now why is that? Why would most -- you would think if you were doing
 most of the development and implementation on-prem, why would cloud be driving
 the growth and that's because most of these products are open source. So people
@@ -103,9 +99,7 @@ dominant vendor is Microsoft with access, followed by IBM with IMS -- which is a
 mainframe hierarchical database and then you see InterSystems at 14%. That
 company has been growing steadily. In other words 10 years ago, it was sort of next
 to other and now it's got 14%. It's actually become the third largest vendor in that
-space. So important one to continue to watch.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 4 of 18In the dynamic data management software market, which is in the middle, we see
+space. So important one to continue to watch.In the dynamic data management software market, which is in the middle, we see
 Microsoft has the largest share by a little bit with -- as I've mentioned before,
 Dynamo, or sorry, Cosmos DB and HDInsight and Amazon following with EMR and,
 DynamoDB, that's going to continue to be a battle or a while.
@@ -143,9 +137,7 @@ leading-edge customers have moved data to the cloud -- their production data to
 the cloud, but most have not. So that's a thing to watch out for.
 Non-relational database is expected to decline by 2.2% compound annual growth
 rate by 2022. That's a five-year compound annual growth rate by the way. The
-customers -- the users are looking to move to the cloud -- users who are looking toFINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 5 of 18move to the cloud who are using mainframe, hierarchical and navigation databases
+customers -- the users are looking to move to the cloud -- users who are looking tomove to the cloud who are using mainframe, hierarchical and navigation databases
 are considering rewriting their applications.
 For years, they wouldn't consider this, this is what kept them on those systems, but
 now they're seeing that the total benefit of moving to the cloud supersedes the cost
@@ -183,9 +175,7 @@ continue, but it's unclear as to how much of the rest of the Hadoop cluster
 management, file management technology will actually come into play, especially as
 people move their Data Lakes to the cloud and look to see the data on cloud native
 object storage and run Spark directly against that, which seems to be a raising
-model for use.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 6 of 18This also means that the Cloudera Hortonworks combination will need to basically
+model for use.This also means that the Cloudera Hortonworks combination will need to basically
 rise above the general den of confusion with respect to Data Lakes by offering very
 comprehensive enterprise-friendly packages of capability that make it
 straightforward to deploy and manage.
@@ -223,9 +213,7 @@ It's important to maintain account control, which has always been the key to Ora
 success and it's largely for this reason Oracle came out with the autonomous
 database service versus the Oracle autonomous data warehouse service and now
 they've been talking a lot about our transactional service, which will be -- which we'll
-learn more about at Oracle OpenWorld.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 7 of 18These things are necessary in order to do two things. One is to demonstrate the
+learn more about at Oracle OpenWorld.These things are necessary in order to do two things. One is to demonstrate the
 value of the cloud as a place where you no longer have to assume responsibility for
 the physical management of the database, but also because you don't have to apply
 your own patches. You don't have to do any of those things, which means that the
@@ -265,9 +253,7 @@ in order to get -- to justify the cost of sale that's embedded in using such a s
 force, that sales force is concentrated on the largest users, which means that smaller
 users really don't get the attention.
 And therefore Oracle has had a hard time attracting them. Oracle has tended to
-respond to this problem by working with third parties with ISPs and with consultantsFINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 8 of 18who can bring in smaller customers, but that sometimes gets in the way of their own
+respond to this problem by working with third parties with ISPs and with consultantswho can bring in smaller customers, but that sometimes gets in the way of their own
 product strategy and historically, they haven't done a real good job of managing all
 that together.
 So moving to the cloud alleviates the essential problem because the Oracle cloud
@@ -305,9 +291,7 @@ implications of switching to a subscription.
 We think that over time, they will switch to a subscription model because it gives
 them more ﬂexibility. Obviously, Oracle likes it because it gives them more of a
 guaranteed revenue stream, but for the time being there is some reluctance and so
-the BYOL policy in general, the policy of reporting perpetual used licenses in theFINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 9 of 18Cloud are necessary to overcome the objections I mentioned and get more people
+the BYOL policy in general, the policy of reporting perpetual used licenses in theCloud are necessary to overcome the objections I mentioned and get more people
 on the cloud sooner.
 So in comparing Amazon, Oracle and Microsoft in the relational database sphere,
 they really represent very different -- their backgrounds are very different. Amazon
@@ -346,9 +330,7 @@ So Microsoft is taking steps to change that so that the same applications can ru
 either platform. It seems like that should help in moving Microsoft-based
 applications on to seek Azure SQL database and therefore into Azure, which is what
 they hope to do. And of course they have a lot of client, I'm sorry, they have a lot of
-third-party vendors, providing software. Most of those existing Windows-basedFINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 10 of 18vendors have been reluctant to move to Azure until they feel that it is a frictionless
+third-party vendors, providing software. Most of those existing Windows-basedvendors have been reluctant to move to Azure until they feel that it is a frictionless
 process.
 So that hasn't happened a lot. There are lot of new vendors who have been
 developing on Azure and been quite happy with that. But -- so it's quite possible that
@@ -386,9 +368,7 @@ community because it is an important prospect base for them.
 So as I mentioned here, the one issue that Oracle has in moving customers to their
 cloud is that many customers are reluctant to increase their dependence and
 investment in Oracle because of past experience. Oracle's hoping that the changes
-they've made will address that.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 11 of 18So at alternative database technologies, there's been a lot of excitement over the
+they've made will address that.So at alternative database technologies, there's been a lot of excitement over the
 past 10 years, regarding so called Big Data Systems and no sequel databases and
 the result -- there are a lot of -- there are a lot of breathless explanations of how
 these systems are going to make relational databases absolutely as we've seen that
@@ -427,9 +407,7 @@ database needs to know the organization of the data before you put data into it.
 Whereas the new class of Dynamic Data Management service that are out there
 including no sequel and they do operate on the basis of the idea that you put the
 data in first and then discover how it's organized. So that capability is supported by
-things like graph databases, in some cases people use key value stores, documentFINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 12 of 18databases and object-oriented databases, which are actually also schematic, but
+things like graph databases, in some cases people use key value stores, documentdatabases and object-oriented databases, which are actually also schematic, but
 different, can also serve some of those jobs and is used, especially when their
 relationship is very close with a language such as Java.
 So the alternative technologies include Data Lakes and what has been called no
@@ -467,9 +445,7 @@ make changes to their applications at will. The applications right, documents ou
 document database and the database will support it and so they can address
 constantly shifting requirements, they can fulfill the agile development model. And
 the operational constraints are not there, which gives you a greater -- required by
-asset are not there, which gives you greater scalability and ﬂexibility in their casesFINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 13 of 18where because the data that you're putting is unrelated to the other data that you're
+asset are not there, which gives you greater scalability and ﬂexibility in their caseswhere because the data that you're putting is unrelated to the other data that you're
 putting in the database, consistency isn't really an issue.
 Now, when it is an issue when there are formal relationships, then you need to be a
 little more worried about those things. Document databases are key on the
@@ -506,9 +482,7 @@ warehouse functionality like Snowﬂake out there. Interesting to see how that a
 works out and in fact Teradata has a cloud called Intellicloud as well recently
 developed. Data Lakes and NoSQL are primarily served new workloads and those
 for which a relational database is historically ill suited. Oracle needs broad
-acceptance to the Oracle cloud to thrive long term critical requirement/.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 14 of 18Anurag Rana
+acceptance to the Oracle cloud to thrive long term critical requirement/.Anurag Rana
 Carl OlofsonMicrosoft jumped out in front with this -- with Azure and people -- when they first
 came out of Azure, people were scratching their head and said why do they even
 need to do this, but it turns out to have been a really smart thing for them to do.
@@ -543,9 +517,7 @@ shift to Oracle cloud?
 
 So part of the problem, is this. They are largest customers and they really need their
 largest customers to come to the Oracle cloud. Also I have the most complex
-situations in their data centers and they just can't move -- they can't turn on a dime.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 15 of 18Anurag RanaIn other words, they need to -- not only do they have complex Oracle installations,
+situations in their data centers and they just can't move -- they can't turn on a dime.Anurag RanaIn other words, they need to -- not only do they have complex Oracle installations,
 they have a lot of other technology in their data centers. They need to make a lot of
 decisions. Once they've made those decisions, some of that technology can't be
 moved for various reasons.
@@ -583,9 +555,7 @@ you can start the process of Cloud icing parts of your data center while actuall
 keeping those elements in the data center physically connected through your
 internal network to the other systems. So that -- those are two things that Oracle is
 doing to try to accelerate that process.
-FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 16 of 18Carl OlofsonFair enough and we have seen now your stock works in a similar way and use a
+Carl OlofsonFair enough and we have seen now your stock works in a similar way and use a
 hybrid methodology. But let's talk about those legacy enterprises. So if I'm a very
 large customer that I'm an Oracle shop that I've been using Oracle databases for
 several years, and I'm a fairly big customer. I am one of your the most high paying
@@ -624,9 +594,7 @@ So the questions, I would ask are how heavily customized is your Oracle environm
 to use lots of PL sequel? Two, are you using lots of Oracle applications? Are you
 dependent ib Oracle applications? If either of those is the case, you're likely to go
 with Oracle and to go the Oracle cloud. If neither of those is the case, then there are
--- there is a variety of options you might consider.FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 17 of 18Anurag Rana
+-- there is a variety of options you might consider.Anurag Rana
 Carl Olofson
 Anurag Rana
 Carl Olofson
@@ -663,9 +631,7 @@ the friction that presents itself in making such a conversion.
 Fair enough. One last question and we'll call it off, given that we've almost close to 1
 o'clock. One of the clients -- one of the questions is about is Google Cloud platform
 even in the running or it's a completely irrelevant in your view?
-FINAL TRANSCRIPT 2018-10-09
-Amazon.com Inc (AMZN US Equity)
-Page 18 of 18Anurag Rana
+Anurag Rana
 Carl OlofsonOh, no. I don't think it's a relevant at all. Google is of course a late-comer in terms of
 presenting a cloud platform that is considered suitable for enterprise data
 management but -- and I think that spanner is too new a product to build a

@@ -21,9 +21,7 @@ here. Once that railroad was finished, it took a week. And almost everybody who
 stepped on the train in New York knew with certainty that they would step off the
 train here in San Francisco. But technology, the railroad, changed every aspect of
 society. It changed every field of law. It unleashed public debates that actually took
-several decades to resolve.FINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 2 of 9And when Henry Ford invented the Model T 105 years ago, we saw the same thing
+several decades to resolve.And when Henry Ford invented the Model T 105 years ago, we saw the same thing
 ensue, decades of important debate with the public about the role of regulation and
 the role of innovation and safety for technology.
 Meeting here today, we are the latest generation. And we're here to talk and think
@@ -62,9 +60,7 @@ believe we all are. We need to reﬂect on that aspect too. We see it in the oth
 of our lives. We saw it last November, on the 13th in Paris. When on a Friday evening,
 people started the way they start every weekend in Paris, by going out. But at 9:30
 that evening, a man walked into a café on the Boulevard Voltaire, he sat down at the
-counter. He calmly ordered a meal. And nine minutes later, he blew himself up.FINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 3 of 9Within moments, the streets of Paris were filled with the sounds of sirens and the
+counter. He calmly ordered a meal. And nine minutes later, he blew himself up.Within moments, the streets of Paris were filled with the sounds of sirens and the
 sights of police cars. And the next morning, the sights at the Boulevard Voltaire and
 other streets were filled with ﬂowers mourning the victims of the previous evening.
 And of course it was just a couple of weeks later, when on another part of the world
@@ -102,9 +98,7 @@ person we all now recognize, Edward Snowden, got on an airplane, took four
 laptops with him, and began to tell the world things that the world was not aware of
 before.
 And all of this is leading to a fundamental question, what's to be done? That's the
-fundamental question for those of us in this room. It will be the fundamentalFINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 4 of 9question later today at a hearing in Congress. It is the fundamental question for this
+fundamental question for those of us in this room. It will be the fundamentalquestion later today at a hearing in Congress. It is the fundamental question for this
 country. And it's the fundamental question for the world.
 I think whenever you have a question that is this important, it's always worth starting
 by reﬂecting on the fact that no one person has all the answers. We need to have a
@@ -140,9 +134,7 @@ of intentions, one thing is clear, the path to hell starts at the back door. And
 to make sure that encryption technology remains strong.
 But we – there may be no part of the debate that is more important than the debate
 about encryption. But it is not the only part of the issue or the work or the debate
-that matters. And we need to remind people of that as well.FINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 5 of 9Certainly as a company, we're striving to take a holistic approach, an approach that
+that matters. And we need to remind people of that as well.Certainly as a company, we're striving to take a holistic approach, an approach that
 focuses on strengthening our platforms, Windows and Azure and Oﬃce 365, an
 approach that recognizes perhaps as many – as much as anything else – intelligence.
 Big data is a game changer here.
@@ -180,9 +172,7 @@ Because as much as ever, these issues are being defined not only by our investme
 and steps in technology and engineering, but by the commitments we need to back,
 by our legal resources as a company and an industry as well.
 In this area, as in others, we need to step up and we need to stand for things. But I
-also think we need to be broadminded. We need to constantly remind the world ofFINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 6 of 9all of the things that we are thinking about. Clearly as an industry we not only have a
+also think we need to be broadminded. We need to constantly remind the world ofall of the things that we are thinking about. Clearly as an industry we not only have a
 role, we have a responsibility, I believe, to help keep the public safe. That's one of
 the points that Apple is making in Congress today.
 It's why we at Microsoft for years have had a Digital Crimes Unit. It's why we've been
@@ -220,9 +210,7 @@ Now this was an unusual lawsuit. It was before what's called the Foreign Intelli
 Surveillance Court. Most courts of the United States have a courthouse, they have an
 address, they have a phone number. You call, someone answers. This court is
 different. When you call the phone number, this is what you hear.
-[Audio Presentation] (22:18 – 22:24)FINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 7 of 9Litigating before this court was different from anything we'd ever experienced.
+[Audio Presentation] (22:18 – 22:24)Litigating before this court was different from anything we'd ever experienced.
 Typically, you file your brief, you hand it in, you wait for the brief to come back from
 the other side, then you can read what they're arguing against you. When we
 received the brief back from the government, we opened it up, and it was little hard
@@ -260,9 +248,7 @@ Ultimately, I think we also need to reﬂect upon the fact that we need a world 
 technology is governed by the rule of law and not simply the laws of physics. We
 need good law. But this is not about creating a world where technology is above the
 law. Just as it is not about creating a world where any government or any person is
-above the law.FINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 8 of 9It's important for us always to keep in mind that this is an issue that poses timeless
+above the law.It's important for us always to keep in mind that this is an issue that poses timeless
 values that we need to move forward together. Public safety and personal privacy
 and freedom of expression are all values and principles that matter. And there will be
 some days when a balance will need to be struck. And that balance should be struck
@@ -300,9 +286,7 @@ technology – 21st century technology with laws that come from the era of the a
 machine. We can do better than that.
 So in conclusion I would say this. We need to be thoughtful. We need to be
 broadminded. But as much as anything else, we need to use our voice and we need
-to act. We should come together as a community. We should heed those values thatFINAL TRANSCRIPT 2017-02-14
-Microsoft Corp (MSFT US Equity)
-Page 9 of 9truly are timeless. We should support fundamental rights. We should keep
+to act. We should come together as a community. We should heed those values thattruly are timeless. We should support fundamental rights. We should keep
 technology secure. We should continue to help keep people safe.
 We should always keep in mind technology has moved forward. Technology needs
 to keep moving forward. It is our job to advance and innovate in technology. But we

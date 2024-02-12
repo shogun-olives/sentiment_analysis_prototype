@@ -17,9 +17,7 @@ background from when we started Xbox five years ago to kind of what gaming is at
 Microsoft today that's kind of very different?
 
 Oh, yes. Yes. Well said. Especially over those 20 years, a lot has changed in the
-console space and in the gaming space writ large around the world. Over the last 20FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 2 of 11A - Catherine Gluckstein
+console space and in the gaming space writ large around the world. Over the last 20A - Catherine Gluckstein
 A - Raimo Lenschow
 A - Catherine Glucksteinyears, we've really seen a growth and we talk about a lot of content services, think
 subscriptions, think games, think digital distribution. A lot have changed over the last
@@ -57,9 +55,7 @@ What cloud gaming does is it takes all of that and it renders the games literall
 cloud. So you have any amount of compute. Then you take the games from the
 cloud and you literally stream them to any device, which allows us as Xbox to stream
 our high-fidelity games from our consoles in the cloud right to Android phones as
-we're doing today with Xbox Game Pass Ultimate.FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 3 of 11A - Raimo Lenschow
+we're doing today with Xbox Game Pass Ultimate.A - Raimo Lenschow
 A - Catherine Gluckstein
 A - Raimo Lenschow
 A - Catherine GlucksteinEssentially, it's just a video stream. The way that everybody should think about it is if
@@ -100,9 +96,7 @@ allows us to innovate in really interesting ways because, obviously with first p
 we can look to do things that we wouldn't look to do with other types of content. We
 went day-and-date with first party in Game Pass, which was an inﬂection point for
 Game Pass. And even as we learn in the cloud, we've been working with the team of
-Minecraft Dungeons to build native touch controls.FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 4 of 11A - Raimo Lenschow
+Minecraft Dungeons to build native touch controls.A - Raimo Lenschow
 A - Catherine GlucksteinWe also -- because we've been in gaming a long time, we've built a community. We
 think a community is absolutely key for gaming. You play games together, you play
 with your friends. We have more than 100 million people on Xbox Live. Then, of
@@ -141,9 +135,7 @@ The way to think about it is that we've optimized our stack to basically run at 
 how Netﬂix runs. So if you can -- as I said before, if you can run Netﬂix, if you can run
 video, you can run these games.
 Then what we did as part of Preview is we took a whole selection of different types of
-games. Some of the most demanding sort of Twitch-type games, from Killer InstinctFINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 5 of 11A - Raimo Lenschow
+games. Some of the most demanding sort of Twitch-type games, from Killer InstinctA - Raimo Lenschow
 A - Tim Stuartto Destiny, and we tested them. Interestingly, what we found is they worked really
 well. I think the way we can tell that they worked really well is, yes, we did tests and
 we benchmarked it. But more than that, Destiny, during Preview, was our most
@@ -183,9 +175,7 @@ friends online. They're really your most actively engaged consumers. So having
 consoles in their hands out of the gates to really jump-start the generation is really,
 really key.
 And I may add on that one. We've seen in the past something like 50% of console
-generation units come at $299 and below. So what we do with Xbox Series S is reallyFINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 6 of 11A - Raimo Lenschow
+generation units come at $299 and below. So what we do with Xbox Series S is reallyA - Raimo Lenschow
 A - Tim Stuart
 A - Raimo Lenschow
 A - Tim Stuartfind a price point that resonates with that consumer group, which resonates with the
@@ -225,9 +215,7 @@ Yes. Okay okay. That makes sense. Okay. Then from a -- now I'm the Wall Street g
 who cares about numbers. Let's -- and numbers were -- the thinking has changed in
 our industry as like, "Oh, I want subscriptions." So talk a little bit about Game Pass as
 the way to have a different monetization model.
-FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 7 of 11Yes. That's great. Yes. So for the audience, what Game Pass is, is it's a monthly
+Yes. That's great. Yes. So for the audience, what Game Pass is, is it's a monthly
 subscription to access to hundreds of great games. Depending on the region you're
 in or SKU, it's $14.99 with Game Pass Ultimate, which gives you streaming, which
 Catherine talked about earlier; or $9.99, which is you get it for Xbox on the console
@@ -266,9 +254,7 @@ missions as downloadable content. So they reach a new content or new customer
 pool and then they find the ability to go engage and monetize that pool as well. So
 they're seeing revenue growth as well from a third-party side. Then the Microsoft
 heritage as a platform when our partners do well, we do well. So it's all about driving
-that ecosystem.FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 8 of 11A - Raimo Lenschow
+that ecosystem.A - Raimo Lenschow
 A - Tim Stuart
 A - Catherine Gluckstein
 A - Raimo Lenschow
@@ -308,9 +294,7 @@ acquisition. You were like, no, no, no, we kind of feel really comfortable about
 content. And now we saw like -- I mean it looks like a very interesting deal coming in,
 in the last couple of months. How do you think about more broader terms? How
 much content do you need? How much -- like how do you solve that puzzle?
-FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 9 of 11Yes, yes. Well said. Yes, so we -- you're referencing the ZeniMax acquisition, which is
+Yes, yes. Well said. Yes, so we -- you're referencing the ZeniMax acquisition, which is
 one of the bigger ones Microsoft has ever done. It really hits on a key strategic point.
 We think Game Pass -- or we know Game Pass is one of our core bets. We have
 announced 15 million subscribers in Game Pass.
@@ -347,9 +331,7 @@ gamers in the world? How do you leverage Azure to go reach those gamers? And to
 get to scale that big, again you have to have that content differentiation. ZeniMax has
 a great piece of portfolio. They have some awesome mobile IP. That's really -- as you
 think about that kind of expansion into new users and the new audiences where
-acquisitions like that are going to be so critical. So when we think about, again thatFINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 10 of 11A - Raimo Lenschow
+acquisitions like that are going to be so critical. So when we think about, again thatA - Raimo Lenschow
 A - Tim Stuart
 A - Catherine Gluckstein
 A - Raimo Lenschowconsole space going to billions of gamers for Microsoft growth, Microsoft scale,
@@ -389,9 +371,7 @@ telco partners as we look to continue to refine that experience when you have th
 rollout of 5G. It's really -- this is so exciting when you bring the content together with
 the technology, with the business models and the product, we create a Microsoft
 scale future.
-FINAL TRANSCRIPT 2020-12-09
-Microsoft Corp (MSFT US Equity)
-Page 11 of 11A - Tim Stuart
+A - Tim Stuart
 A - Catherine Gluckstein
 A - Raimo LenschowYes,. Yes. Yes. I mean yes. We haven't even talked 5G. That's another whole session.
 That comes off -- yes. It's for next time. Yes. Hi. Tim, Catherine, thank you. Thank you,

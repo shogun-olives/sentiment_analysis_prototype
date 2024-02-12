@@ -18,9 +18,7 @@ the gaming segment. The gaming segment has had a tremendous amount of growth
 in 2021, is the most recent quarter was up about 42% year-over-year. And the
 demand was pretty much strong across the board, desktop and laptop computers.
 On the most recent call, you mentioned that only about 25% of your 250 million
-GeForce installed base is on the latest Ampere GPU architecture.FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13A - Colette Kress
+GeForce installed base is on the latest Ampere GPU architecture.A - Colette Kress
 Q - Rajvindra Gill
 A - Colette KressSo that implies a kind of a significant upgrade cycle that's underway over the next
 couple of years. So I wanted to get a sense of what percentage of your consumers
@@ -62,9 +60,7 @@ helpful and useful for industries even outside of gaming.
 It's important for those that are broadcasting games, those that are training others in
 terms of on the use of GeForce for their games, but more importantly, it's also
 moving to enterprise. Enterprise applications using Ray Tracing can also really assess
-both the production of products, that overall true visible view in real-time has beenFINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Q - Rajvindra Gill
+both the production of products, that overall true visible view in real-time has beenQ - Rajvindra Gill
 A - Colette Kress
 Q - Rajvindra Gill
 A - Colette Kresshelpful. So Ray Tracing is an important piece today. But again, we'll see more and
@@ -107,9 +103,7 @@ of new two initiatives? Have you been able to better distinguish between the
 demand, between the gamers and the crypto? And have you also been able to take
 advantage of that understanding to allocate supply a bit more eﬃciently as we go
 into 2022?
-FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13Q - Rajvindra Gill
+Q - Rajvindra Gill
 A - Colette KressYeah, so let's first start with our first part of our process, the CMP product, which
 stands for Crypto Mining Processor. This is specifically enabling the ability to do hash
 rates on a product that does not have overall video capabilities, or another way of
@@ -153,9 +147,7 @@ plus inferencing, at the same time. So we just won't have that perfect understan
 But our work with customers, helping them with their inferencing solutions, helping
 them in terms of training, training models, as well as all of the different software that
 we have enabled for these industries, really speak to the growth that we're going to
-see in terms of the industry going forward.FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13Q - Rajvindra Gill
+see in terms of the industry going forward.Q - Rajvindra Gill
 A - Colette Kress
 Q - Rajvindra Gill
 A - Colette Kress
@@ -198,9 +190,7 @@ split it about 50/50. 50% is focused on those hyper scales, 50% is our enterpris
 industry verticals that we're seeing. Keep in mind the hyperscale, some of that can
 be used for their internal use, in terms of building applications that they monetize.
 But the other portion of it is setting up cloud instances. Those cloud instances are an
-important area for us to bring on developers, researchers, higher education, but alsoFINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Q - Rajvindra Gill
+important area for us to bring on developers, researchers, higher education, but alsoQ - Rajvindra Gill
 A - Colette Kresssome of the first places where the enterprise industry has gone to also test those
 places. They may be there permanently.
 And then yes, we have a small percentage that is also on supercomputing. But our
@@ -243,9 +233,7 @@ So when we look at our process right now of securing supply, I don't think there
 anybody in the semiconductor industry and/or the systems that is not focused on
 long-term supply, long-term supply, as well as what we need every single quarter for.
 So if you've watched our overall focus in terms of supply even over this last year, yes,
-we continue to try and get more supply for the latest and greatest quarter. But at theFINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Q - Rajvindra Gill
+we continue to try and get more supply for the latest and greatest quarter. But at theQ - Rajvindra Gill
 A - Colette Kress
 Q - Rajvindra Gill
 A - Colette Kresssame time we are procuring supply commitments for longer-term. Many cases they
@@ -289,9 +277,7 @@ that supply. In the second half of calendar '22, we believe we'll be in a great 
 with our overall supply in terms of our estimations of what we will need going
 forward. So still some time to be assured that we can work through supply. We do
 still have a plan to grow, of course, through these quarters going forward. But in the
-second half of fiscal year '22 -- in the second half of calendar '22.FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Q - Rajvindra Gill
+second half of fiscal year '22 -- in the second half of calendar '22.Q - Rajvindra Gill
 A - Colette Kress
 Q - Rajvindra Gill
 A - Colette Kress
@@ -331,9 +317,7 @@ So wanted to get your thoughts in terms of who are you seeing as the early adopt
 of this Omniverse platform, the Avatar platform? Are there any undergoing testing
 deployment at this time? And I'll just stop there, and we can kind of maybe delve a
 little bit deeper into that. I just want to get a sense.
-FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13Q - Rajvindra Gill
+Q - Rajvindra Gill
 A - Colette KressSure. Let's talk about the Omniverse products that we have available. It is a both
 software and hardware offering with services as well. So the Omniverse software
 opportunity can be looked at in two main ways that we will plan to directly monetize.
@@ -375,9 +359,7 @@ framework into this new opportunities?
 We've been working on Omniverse for several years, if you've watched our DTC,
 some of those early motion things that we had displayed was Omniverse coming to
 life. But one of the other things that we do, whether it be any software development
-kit or Omniverse, is we are here to connect with existing applications. There areFINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13Q - Rajvindra Gill
+kit or Omniverse, is we are here to connect with existing applications. There areQ - Rajvindra Gill
 A - Colette Kress
 Q - Rajvindra Gill
 A - Colette Kressmany applications that are used in the design world, from Adobe to Autodesk, to
@@ -420,9 +402,7 @@ So moving into the second half of this calendar year, we will start to begin wor
 into that pipeline. That pipeline will focus a lot in terms of the new energy customers
 that are building cars, electric cars, and are starting with a platform from grounds up.
 They understand and truly appreciate what we can provide with DRIVE and provide
-with our high carrier platform that enables them to continue to build in a new way forFINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Rajvindra Gill
+with our high carrier platform that enables them to continue to build in a new way forQ - Rajvindra Gill
 A - Colette Kressthe cars going forward. So you'll see that and you will also see some of the starts of
 other types of companies advancing there.
 
@@ -462,9 +442,7 @@ technology, and an Omniverse Avatar. They work together with DRIVE Chauffeur, fo
 example. The Concierge serves as everyone's digital system, as you're inside of the
 car, making recommendations, booking reservations, making phone calls and
 providing alerts. The key thing of the AI is it uses natural language understanding
-together for that solution.FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13Q - Rajvindra Gill
+together for that solution.Q - Rajvindra Gill
 A - Colette Kress
 Q - Rajvindra Gill
 A - Colette Kress
@@ -504,6 +482,4 @@ you, everyone for joining us and best of luck for the rest of the year.
 
 So thank you so much for having us. Appreciate it.
 
-Anytime. Thank you.FINAL TRANSCRIPT 2022-01-10
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13
+Anytime. Thank you.

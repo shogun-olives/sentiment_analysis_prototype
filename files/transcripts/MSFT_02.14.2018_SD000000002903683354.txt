@@ -18,9 +18,7 @@ kind of what brought the 2 companies together?
 
 So when Satya and I first sat down to talk about ways in which Microsoft and LinkedIn
 could work together, there were a number of commercial areas that we thought
-might make sense. And as the conversation continued, it became clear that...FINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Q - Heather Anne Bellini
+might make sense. And as the conversation continued, it became clear that...Q - Heather Anne Bellini
 A - Jeffrey Weiner
 This was a partnership, though, right? You started out --
 
@@ -65,9 +63,7 @@ scale and scope. And he said, "I want to try things differently. And I'd like fo
 LinkedIn, if it's going to materialize, to remain independent." And I half-jokingly said,
 "You had me at independent." And the model was really -- you take a look at success
 that Facebook has had with Instagram, that Google has had with YouTube. And those
-companies and organizations have operated almost entirely independent. I think,FINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Q - Heather Anne Bellini
+companies and organizations have operated almost entirely independent. I think,Q - Heather Anne Bellini
 A - Jeffrey Weinertoday, many, many years later, YouTube is probably a bit more integrated into the
 way Google is overseen. But for years, it operated as a completely independent
 entity. And that's still the case today, for the most part, with Instagram. And they both
@@ -111,9 +107,7 @@ Yes. This was a page out of a playbook that I was not familiar with, to put it m
 we've done a lot of M&A at LinkedIn. And I started at Yahoo! in core dev. So I'm fairly
 familiar with different M&A models and integration models. But about a week after
 the announcement back in June of 2016, Satya sent me an e-mail and said, "I've
-been giving a lot of thought to how we're going to handle the integration." AndFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14Q - Heather Anne Bellini
+been giving a lot of thought to how we're going to handle the integration." AndQ - Heather Anne Bellini
 A - Jeffrey Weinerwhile traditionally, there are 2 integration teams, one from the acquired company,
 one from the acquiring company and the acquired company's integration team will
 typically answer to the acquiring company. It's just how it works, no surprise there.
@@ -159,9 +153,7 @@ and some gaps that we were open to close. But it was the Third Quarter calendar 
 where we started to see some upticks. And our CFO, Steve Sordello, said, "You know,
 my instincts tell me there may be some possibilities here for acceleration. And
 anything that would stabilize that growth rate and then any uptick, even a few
-hundred basis points, I think would have been welcome." And sure enough, weFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14Q - Heather Anne Bellini
+hundred basis points, I think would have been welcome." And sure enough, weQ - Heather Anne Bellini
 A - Jeffrey Weiner
 Q - Heather Anne Bellini
 A - Jeffrey Weinerstarted to see acceleration. It started with engagement. And we are essentially an
@@ -204,9 +196,7 @@ On top line, also with regard to engagement. Engagements got big enough where
 even a few hundred basis points of downtick is still wildly..
 
 Just for the audience. How do you measure engagement? How are you measuring...
-FINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14Q - Heather Anne Bellini
+Q - Heather Anne Bellini
 A - Jeffrey Weiner
 Q - Heather Anne Bellini
 A - Jeffrey WeinerSessions. And that's a great question. So historically we had measured via unique
@@ -251,9 +241,7 @@ quarter. It's inescapable. And so this is an example. It may not be the most mat
 of examples. But where we could focus on what we believe to be best for the
 business. And that has clearly been thematic throughout everything we do. The
 member; value propositions and the way in which we're investing in our platforms;
-our individual business lines, where we can think longer term. And interestinglyFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Q - Heather Anne Bellini
+our individual business lines, where we can think longer term. And interestinglyQ - Heather Anne Bellini
 A - Jeffrey Weiner
 Q - Heather Anne Bellini
 A - Jeffrey Weiner
@@ -296,9 +284,7 @@ Flywheel keeps going.
 And round and round it goes.
 
 So I was going to get into some of the specific things in a minute in terms of the
-opportunities for the 2 companies. But just the strategy obviously hasn't changed forFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14A - Jeffrey Weiner
+opportunities for the 2 companies. But just the strategy obviously hasn't changed forA - Jeffrey Weiner
 Q - Heather Anne Bellini
 A - Jeffrey Weiner
 Q - Heather Anne Bellini
@@ -341,9 +327,7 @@ light up a right rail, a panel on the right side of the stage. And in there, bas
 words that you're using in your resume, we know, for example, what kind of title
 you're seeking, what kind of title you have. And oftentimes, with regard to writing
 your resume, it's a cold start. You don't know what to say. You don't know how to say
-it. I remember when I was in college, I used to look at the resumes of the folks thatFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Q - Heather Anne Bellini
+it. I remember when I was in college, I used to look at the resumes of the folks thatQ - Heather Anne Bellini
 A - Jeffrey Weinerwere older than me and better understand how to do that stuff. And LinkedIn has all
 of that information and data.
 So -- and then leveraging some light AI, we can make some recommendations and
@@ -387,9 +371,7 @@ learn more about. Think about a meeting you're preparing for, whether they're sa
 prospects or business development partnership or a new clientele. Think about
 walking into that meeting with a far greater understanding of exactly who everyone
 is, what you know in common, what you have in common. It just changes the nature
-of that meeting.FINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Q - Heather Anne Bellini
+of that meeting.Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Jeffrey Weiner
 Q - Heather Anne Bellini
@@ -431,9 +413,7 @@ network, one country in the world where we're not the #1 professional network, t
 Germany. And there's a company called XING there that's been doing well.
 Thankfully, we're growing in Germany pretty quickly, which we're excited about.
 International has actually been a big part of the acceleration that we're seeing. Our
-membership, 70% international at this point. And we're seeing business lineFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Q - Unidentified Participant
+membership, 70% international at this point. And we're seeing business lineQ - Unidentified Participant
 Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Jeffrey Weiner
@@ -473,9 +453,7 @@ product to be more successful?
 Yes. So thank you. It's a really important question. So Talent Solutions is still our
 largest business, especially when you consider our learning solutions business post
 the acquisition of Lynda. Increasingly we think about those 2 as one solution set. And
-where we're taking Talent Solutions has 2 components really, a marketplace, you'veFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14got people seeking the jobs and you've got people offering the jobs. In terms of the
+where we're taking Talent Solutions has 2 components really, a marketplace, you'vegot people seeking the jobs and you've got people offering the jobs. In terms of the
 job-seeking experience, we have dramatically increased the number of jobs made
 available on LinkedIn. About 4-plus years ago, we were at roughly 350,000 jobs
 available on LinkedIn. And we thought that was the immediate addressable
@@ -517,9 +495,7 @@ It was largely a consumer offerings and consumer subscription. We were able to
 leverage our existing enterprise sales force. And we're starting to see meaningful
 traction with regard to the enterprise. And we think this is a pretty big opportunity
 for all the reasons I cited earlier in terms of both secular trends and the need
-increasingly for companies to not only source the best talent. But to develop theFINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Q - Heather Anne Bellini
+increasingly for companies to not only source the best talent. But to develop theQ - Heather Anne Bellini
 A - Jeffrey Weiner
 Q - Heather Anne Bellini
 A - Jeffrey Weiner
@@ -562,6 +538,4 @@ it's learning, whether it's our general subscription packages. And that's also a
 interesting area to further explore.
 
 All right. That's great. I think we're about out of time. But thanks, everybody. Thank
-you, Jeff. It's great.FINAL TRANSCRIPT 2018-02-14
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14
+you, Jeff. It's great.

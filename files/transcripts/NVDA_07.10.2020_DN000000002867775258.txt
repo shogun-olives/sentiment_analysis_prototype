@@ -23,9 +23,7 @@ digitize or cloudify or accelerate different industries, whether it be in automo
 retail and social media and all things that we do engage with the Internet or
 engaging in retail. The biggest obvious driver for that was the prioritization and
 commercialization and enablement of AI for those use cases. And it's very
-challenging to AI as a bit -- is a scary word, it was pioneered by the hyperscalersFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14Harsh Kumar
+challenging to AI as a bit -- is a scary word, it was pioneered by the hyperscalersHarsh Kumar
 Ian Buckoriginally because of the fundamental research that had happened in order to
 activate it and obviously they took management first. What the thing that's trending
 now is the shift toward the commercialization of AI into the broader enterprises you
@@ -68,9 +66,7 @@ of understanding that they need to do and the neural networks results are much
 more intelligent and much larger. It's the true human intelligence to be able to
 understand the human language. Bugs, dogs, animals can recognize pictures. That's
 a very actually simple brain function. Understanding language is a much more
-intense one. As a result, those neural networks from like just a few years ago, areFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14Harsh Kumar
+intense one. As a result, those neural networks from like just a few years ago, areHarsh Kumar
 Ian Buckliterally 3000 times more computationally intensive. Layer like a ResNet 50 neural
 network, what it takes to train a network like that, to training some of the modern
 natural NLP natural language processing models like Megatron, which was recently
@@ -113,9 +109,7 @@ expand on this thought process? Is this what you're referring to as sort of
 hyperdriving or sort of putting the turbo on the entire data center?
 
 Yes. The basic unit of compute is moving from a server to the entire data center.
-Now, people today when they think about building an AI data center, they don'tFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14Harsh Kumarthink about just building servers, well make sure they have GPUs in them to get great
+Now, people today when they think about building an AI data center, they don'tHarsh Kumarthink about just building servers, well make sure they have GPUs in them to get great
 acceleration. The AI today is moving from a single server with multiple GPUs in it to
 training across the entire data center where you train a neural network a lot for
 language processing, for example, or for video understanding to understand video
@@ -157,9 +151,7 @@ the difference between a hyperscale today versus a data center for hyperscale
 versus an enterprise data center? And the perception is, well the data centers at the
 guys like Google and Amazon are really savvy, really sophisticated, the ones by
 bigger companies like Walmart, et cetera are pretty good, but not quite the same. Is
-this actually the case? And are you seeing companies like larger, big retailFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14Ian Buckorganizations and others, trying to push their data centers to be more like more
+this actually the case? And are you seeing companies like larger, big retailIan Buckorganizations and others, trying to push their data centers to be more like more
 cutting edge and therefore investing a lot of money into their data centers?
 
 I mean, we are honestly seeing data center growth in both vectors, both in
@@ -199,9 +191,7 @@ So while we are enabling AI across all those channels and vectors, the engagemen
 model for it is a little bit different, but we're a good one AI company that's working
 with every AI company. And by doing that, we can learn across all those industries,
 decide how we can help move the ball forward and then make those technologies
-freely available to help accelerate the whole AI and data science acceleration.FINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14Harsh Kumar
+freely available to help accelerate the whole AI and data science acceleration.Harsh Kumar
 Ian Buck
 Fascinating. It sounds like you guys are able to cut down the time than a lot of these
 organizations would have, just starting from scratch and doing the training they can
@@ -243,9 +233,7 @@ So as a result, those three things are driving more and of course the overall in
 in applying AI technologies and AI technology doing bigger and to deliver all those
 things we have to do them cost effectively and do them with acceleration, to meet
 the latency requirements. So that's really one of the big drivers around our EGX
-platform. We're building accelerators, which have both Mellanox networking, andFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14Harsh Kumar
+platform. We're building accelerators, which have both Mellanox networking, andHarsh Kumar
 Ian BuckNVIDIA GPUs in a single accelerator and working with entire ecosystem edge system
 partners, OEMs and elsewhere to help bring edge acceleration right to where the
 data is being ingested and where intelligence needs to happen. Those devices will
@@ -287,9 +275,7 @@ convincing to get the right breath notes and tones.
 Beyond just the foundation of ASR, NLP and TTS, we've also need to do a higher
 order technologies, like having proper Q&A engines, having proper dialog
 managers. So you can understand a thread of conversation which is going to be
-unique to each domain, whether it be ordered in prescriptions or asking forFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14Harsh Kumar
+unique to each domain, whether it be ordered in prescriptions or asking forHarsh Kumar
 Ian Buckdirections when looking for a restaurant, dialog management is another area where
 we can help the community move forward, and we've actually provided early dialog
 measures. We are working with partners who provide those commercially.
@@ -332,9 +318,7 @@ stack, you need to work with entire ecosystem. As one of the reasons why NVIDIA
 has more software engineers than hardware engineers is because what makes us
 successful is our 20 years of investment in the software platform, software ecosystem
 for accelerated computing wherever we can make a difference and that's the most
-important part of the equation.FINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14Harsh Kumar
+important part of the equation.Harsh Kumar
 Ian Buck
 Harsh Kumar
 Ian Buck
@@ -375,9 +359,7 @@ data. And in fact what they're doing right now is try to figure out how they can
 the GPUs to digest all that data because they've just done all the document
 calculations and simulations in just a day. Now they're trying to figure out which ones
 yielded, interesting results versus I know exciting --- they're actually should be
-published in their work on archive fairly shortly and exciting to see the results.FINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14Harsh Kumar
+published in their work on archive fairly shortly and exciting to see the results.Harsh Kumar
 Ian Buck
 Harsh Kumar
 Ian Buck
@@ -417,9 +399,7 @@ importance of their own data centers and how their own infrastructure can be
 resilient to those things is also important. And NVIDIA ourselves, have figured out
 methods and abilities to keep our data centers operating in these situations and
 growing in order to make sure that our engineers, our own teams have the best
-capabilities and resources to do their work.FINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14Harsh Kumar
+capabilities and resources to do their work.Harsh Kumar
 Ian BuckIn fact, when we first saw COVID happen and everyone started to work from home,
 it's utilization or reducing shot through the roof, not because they are suddenly
 needing them to work from home, they were just, I think people were spending less
@@ -462,9 +442,7 @@ So that speed up in technology can take a lot of the legacy, all these neural ne
 that were traditionally done with 32-bit ﬂoating point calculation. And just without
 any software modification, run them 10 times faster and they experience that out of
 the box, which is without any code changes. That was really only possible because
-we work with every other AI company in the world and helping them optimize theirFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14Harsh Kumar
+we work with every other AI company in the world and helping them optimize theirHarsh Kumar
 Ian Buckmodels, to then test and evaluate what is the right number format for doing AI
 calculations and come up with the next generation one that's going to move the
 whole industry forward.
@@ -504,9 +482,7 @@ available to the rest of the enterprise. And as we worked with many people to he
 develop those recommended technologies, we started to package them up and
 make them activated for the rest of their process. We announced some of the stuff at
 our GTC conference and we call this the Merlin platform. It's only -- only the
-beginning and very exciting.FINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14Harsh Kumar
+beginning and very exciting.Harsh Kumar
 Ian BuckThe other area that's very exciting is data science. Now that accelerated computing
 and data has become so critically important, if not just developing and deploying
 the AI technologies which is to understand the basics of the data itself. Some of the
@@ -548,9 +524,7 @@ area that is super exciting both for the data center as a whole. There are certa
 optimizations that can made while we're doing the computing in the network to
 make things run much more eﬃciently, then pushing the data all the way out to the
 nodes and trying to do the competition there and resolving it there. When you're
-doing AI training or data science in general, if you can -- some of the competitionFINAL TRANSCRIPT 2020-07-10
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14Harsh Kumar
+doing AI training or data science in general, if you can -- some of the competitionHarsh Kumar
 Ian Bucknaturally wants to happen inside the network because that's where all the bits and
 data is transacted, it's moving anyway.
 And as a result can be bandwidth multiplier if you will, on the order of 10x by doing

@@ -27,9 +27,7 @@ before we start. Microsoft may be making forward-looking statements that may
 predict and projections about the future. Actual results could materially differ
 because of risk and uncertainties. Please review the regulatory filings that describe
 these risks and uncertainties.
-FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Unidentified Participant
+Unidentified Participant
 Jeff Teper
 Unidentified ParticipantThank you for saying that so I didn't have to.
 So from just a product development perspective maybe since you were an engineer
@@ -66,9 +64,7 @@ and 365 have come out over the last several months.
 When you look at the commercial business it is a $50 billion business and it is
 growing high single digits to low double digits. When you look at the rest of your
 peers, you are basically left in the dust when you look at the big peer groups of
-mega cap software in terms of the growth rates. I think part of this is you did makeFINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14Jeff Teper
+mega cap software in terms of the growth rates. I think part of this is you did makeJeff Teper
 Unidentified Participantthe pivot to cloud a lot sooner. I don't think people believed you guys and it
 certainly is showing up in the financials. And I am just curious if you could talk about
 the size of investment, how long you have been making this just to give people a
@@ -110,9 +106,7 @@ customers, not behind them.
 I think everyone is kind of curious about Bill Gates' involvement and before we
 started this you mentioned that you were at a recent meeting with Bill and I am just
 curious if you can bring this into the equation of how he is helping you all shape this
-as well. Because he obviously called on Ray Ozzie early on kind to (inaudible) andFINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14Jeff Teper
+as well. Because he obviously called on Ray Ozzie early on kind to (inaudible) andJeff Teper
 Unidentified Participant
 Jeff Teperkind of wake-up the organization around the move to the Internet. What is his
 involvement?
@@ -152,9 +146,7 @@ leadership team works and how they support Satya. One is there is incredible rig
 around the spending that she -- there is a lot of scrutiny about every dollar should be
 spent well but not so -- just from the standpoint of financial performance but for
 freeing up investment for things that need more gasoline if you will like the cloud. So
-one is the financial discipline has been great.FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14Unidentified Participant
+one is the financial discipline has been great.Unidentified Participant
 Jeff TeperTwo is she and Satya are sort of mind melded on the leaner we are the faster we are
 and so there are some things that we have to do at massive scale like build all these
 data centers. There's other things like if we are going to go build some cool new
@@ -195,9 +187,7 @@ Dropbox, the user interface and then the new phone I think we did some very nove
 work. So we really want to make sure the billions of Oﬃce users can get access to
 their content anywhere they go and we have got new versions of Oﬃce, new
 versions of Skype. We have a pretty broad pipeline of new mobile first experiences
-coming out that you will continue to see like the Oﬃce announcement. So I think inFINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Unidentified Participant
+coming out that you will continue to see like the Oﬃce announcement. So I think inUnidentified Participant
 Jeff Teper
 Unidentified Participant
 Jeff Teperthe last year we have done a better job redefining our success in mobile is the
@@ -234,9 +224,7 @@ will happen again.
 I get a lot of questions about Azure. And correct me if I am wrong. But it is a
 collection of I believe over 40 different distinct products, maybe higher now.
 
-I can't keep track anymore.FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14Unidentified Participant
+I can't keep track anymore.Unidentified Participant
 Jeff Teper
 Unidentified ParticipantBut so in terms of just summing up what you are doing there, I think you said what a
 lot of the industry analysts and a lot of what we have seen is it has become a three
@@ -275,9 +263,7 @@ that is very customer friendly but from our business perspective, it really expa
 addressable market versus where we were in just the server world.
 In terms of where Amazon is going versus where you are going and Google, can you
 maybe give us a quick snapshot of how you think directionally you will all coexist or
-where you think your strong suit will be?FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Jeff Teper
+where you think your strong suit will be?Jeff Teper
 Unidentified Participant
 Jeff Teper
 Unidentified Participant
@@ -315,9 +301,7 @@ you think about those investments and where do you want to go with them?
 We have been more focused as a productivity and platform company. We want to be
 careful about not -- just being an enterprise company. We have used this phrase,
 dual use products. So take Skype. Kids Skype with their friends, meetings are
-discussed over Skype. We just rebranded our Lync offering, Skype for Business in theFINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Unidentified Participantlast week or two and we love that model. A free version of Skype that is the best
+discussed over Skype. We just rebranded our Lync offering, Skype for Business in theUnidentified Participantlast week or two and we love that model. A free version of Skype that is the best
 video chat product in the world we are going to continue to make it better, bring it
 to other platforms, lots of innovation.
 We did this Skype translation service which is pretty neat. You can speak in one
@@ -354,9 +338,7 @@ investment is on productivity and platforms with an eye to dual usage because we
 know what people adopt in their personal life is so important to what they want in
 their professional life.
 It makes sense. I have a seven and a nine-year-old and they are addicted to Minecraft
-so --.FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Jeff Teper
+so --.Jeff Teper
 Unidentified Participant
 Jeff Teper
 Unidentified Participant
@@ -395,9 +377,7 @@ buy.
 And we look at those and we literally every two weeks we sit down and walk the list
 and talk about build, buy, partner, compete, cooperate and so forth. And there is an
 enormous amount of rigor on it. This is a tough subject to talk about because I'm not
-going to foreshadow anything whatsoever other than to say we are being reallyFINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Unidentified Participant
+going to foreshadow anything whatsoever other than to say we are being reallyUnidentified Participant
 Jeff Teperthoughtful and we think M&A will have a role in the mix and we are spending a lot of
 time on what would be the opportunity.
 Do you think you are more open to doing things now realizing -- I think everyone
@@ -438,9 +418,7 @@ security, we definitely are open but we know there are some like FAST and Yammer
 that have gone quite well. We have also done some that have not gone well for a
 variety of reasons either this strategy wasn't grounded enough or the execution
 wasn't quite right or the cultural fit wasn't there. And so I think we are a lot more --
-we have more war wounds about the key ingredients of a successful acquisition.FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Unidentified Participant
+we have more war wounds about the key ingredients of a successful acquisition.Unidentified Participant
 Q - Unidentified Participant
 A - Jeff Teper
 Q - Unidentified Participant
@@ -478,9 +456,7 @@ also are getting better and better at upsell and conversion. I think one of the 
 we have that they don't have is a broader set of high gross margin products that we
 can upsell people to. So this enterprise mobility suite that we have to do, systems
 management over all your devices, this is a huge business for us and it is built on the
-backs of System Center which is a $1 billion plus business that we have had for years.FINAL TRANSCRIPT 2014-11-19
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14Q - Unidentified Participant
+backs of System Center which is a $1 billion plus business that we have had for years.Q - Unidentified Participant
 A - Jeff TeperSo we know how to sell enterprise management, you sell it per user and you make a
 lot of money doing that. It is a great business.
 Google doesn't have one of those, Amazon really doesn't have one of those and so

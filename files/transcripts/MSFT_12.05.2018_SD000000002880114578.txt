@@ -13,9 +13,7 @@ Questions And Answers
 
 Maybe start a little bit. So like give us a little bit of your background, how you've
 gotten to where you are today.
-FINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 2 of 11Q - Raimo Lenschow
+Q - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo Lenschow
 A - Phil Spencer
@@ -59,9 +57,7 @@ industry evolved over the last few years?
 Yes. There's really been transformation in 3 important areas in gaming. If you think
 about content transformation, technology transformation and business model
 transformation. And they're all happening simultaneously. I think a really good
-example is a game -- a huge game right now called Fortnite. I imagine most peopleFINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 3 of 11Q - Raimo Lenschow
+example is a game -- a huge game right now called Fortnite. I imagine most peopleQ - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo Lenschow
 A - Phil Spencerhave heard of Fortnite. Fortnite was a game that was born on the PC. Many years
@@ -105,9 +101,7 @@ a great way to sell games both digitally as well as packaged products.
 Yes. Like for us, remember like when Xbox came out like years and years ago, it was
 like, oh, there's Xbox and the hardware sale. And they're losing money. And that
 world has changed. We basically...
-FINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 4 of 11Q - Raimo Lenschow
+Q - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo Lenschow
 A - Phil SpencerYes. We had our highest revenue year last year with over $10 billion in revenue in the
@@ -152,9 +146,7 @@ want to sit down. And they want their experience to span all of those screens
 seamlessly. So our transition over the last few years has been very much from a per
 device, of I'm a PC gamer, I'm a console gamer, I'm a mobile gamer to just I'm some
 somebody who likes to play games across any device. The video we showed there of
-Project xCloud is us really looking at the body of content that we have on ourFINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 5 of 11Q - Raimo Lenschow
+Project xCloud is us really looking at the body of content that we have on ourQ - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo Lenschow
 A - Phil Spencerplatforms today and how do we bring that content to any device that somebody is
@@ -199,9 +191,7 @@ mobile gaming content and now you're going to buy the next big -- that actually 
 world has moved on in a way.
 
 Yes. I mean, it's -- maybe just because I was in North Carolina yesterday. But you can
-sit there. You can look at PUBG. You can look at Fortnite. You can look at Minecraft.FINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 6 of 11Q - Raimo Lenschow
+sit there. You can look at PUBG. You can look at Fortnite. You can look at Minecraft.Q - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo LenschowYou can look at these huge games. And the games do very well on mobile. They're
 incredibly strong on mobile. But that's not to the expense of the other devices where
@@ -247,9 +237,7 @@ think it's important that we make sure gaming is safe and inclusive for everybod
 But it's also a great, great way for us to take the interest that youth have and actually
 show kids how games are built and the stepping stools onto many different career
 paths.
-FINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 7 of 11A - Phil Spencer
+A - Phil Spencer
 Q - Raimo Lenschow
 A - Phil SpencerYes. Okay, good. So as a parent, I can kind of somewhat chill.
 
@@ -295,9 +283,7 @@ third-party content. We know that our system really only works if third parties 
 monetizing well on our platform. Our first parties are important here. But the third
 party relationships are a critical, critical aspect. And we have strong business
 relationships with the EAs, Activision, Take-Two, Capcom. You can go through the
-whole list and we've had long, long relationships and they ship hundreds of piecesFINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 8 of 11Q - Raimo Lenschow
+whole list and we've had long, long relationships and they ship hundreds of piecesQ - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo Lenschow
 A - Phil Spenceror thousands of pieces of content on our platform. Our first-party content capability,
@@ -342,9 +328,7 @@ Okay. That's great. Then just as part of the monetization, let's talk a little b
 Game Pass. So that's kind of -- subscription is kind of the way forward. How do -- and
 I get that part. How do you differentiate that against like what a Sony does or an EA
 does? Like how does that all fit together?
-FINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 9 of 11Q - Raimo Lenschow
+Q - Raimo Lenschow
 A - Phil Spencer
 Q - Raimo LenschowSo for us, it's all about how we reach 2 billion gamers. If you build the market around
 a couple hundred million people that are going to own a game console or a high-
@@ -389,9 +373,7 @@ right now.
 
 Okay. Last question from me. As I think about -- you started to talk about streaming
 next year in the cloud. Talk a little bit of what you do there. Then also how much extra
-commission do you get? Because you must be driving Azure traﬃc like crazy. AndFINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 10 of 11A - Phil Spencer
+commission do you get? Because you must be driving Azure traﬃc like crazy. AndA - Phil Spencer
 Q - Raimo Lenschow
 A - Phil Spencerthe Azure team must love you because there's so much that needs to be coming
 their way if you are successful here.
@@ -437,9 +419,7 @@ continent of Africa. And the average age is, what, about 20, 21. Now that's not 
 gaming market for us today. But if you think over the next decade, the demographic
 works. If you look at India and you start looking where Azure has data centers today,
 they have a lot of data centers in Azure, look at Southeast Asia. These are places
-we're going to be able to deliver content to customers that know what our brandsFINAL TRANSCRIPT 2018-12-05
-Microsoft Corp (MSFT US Equity)
-Page 11 of 11Q - Raimo Lenschow
+we're going to be able to deliver content to customers that know what our brandsQ - Raimo Lenschow
 A - Phil Spencerare. They know what this IP means but they're not able to go play those games today
 on the devices that they have. Putting the data center closer -- data centers closer to
 the players is how we work on latency, among other kind of magic software solutions

@@ -22,9 +22,7 @@ our data center business. We have provided an outlook and guidance for the Q3
 that we're in today that is even stronger at $16 billion, again of what we expect to be
 inﬂuenced by our data center business and for our data center systems that we
 create. Additionally, our revenue is being applied worldwide. However, we also have
-a very strong concentration in the US, which is now near 50%.FINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12We're at the tipping point in the data center. We will likely when you annualize our
+a very strong concentration in the US, which is now near 50%.We're at the tipping point in the data center. We will likely when you annualize our
 Q2 results in terms of our revenue within data center will surpass the summation of
 what you see in terms of CPU servers in the data center if you annualize. That's one
 way to look at it so we probably look at it in terms of a little bit different manner.
@@ -63,9 +61,7 @@ the data enters into a data center is why our purchasing -- Mellanox and our wor
 together is so important for accelerated computing.
 We look at this slide because we give a lot of questions regarding what do we see in
 terms of supply, how are you thinking about suppliers you go forward with the
-demand that's in front of us. Yes, we do want to make sure we can move to supportFINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Q - Atif Malikthe demand that's been presented and we've been working quite effectively with all
+demand that's in front of us. Yes, we do want to make sure we can move to supportQ - Atif Malikthe demand that's been presented and we've been working quite effectively with all
 of our suppliers, all of our different partners in terms of improving supply.
 As this slide shows, we've been fairly ﬂat in terms of the inventory that we have on
 hand at the end of each quarter, but this is really what we are looking at when we
@@ -104,9 +100,7 @@ journey.
 My question is -- are going to based on the acronym you used at the dinner last
 night, which was SAS, S stands for supply, A stands for allocation, and S stands for
 sustainability. I thought that was a very clever acronym to summarize, and most of
-the questions we're getting from investors from here onwards. Obviously, theFINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12A - Colette Kress
+the questions we're getting from investors from here onwards. Obviously, theA - Colette Kress
 Q - Atif Malikdemand outlook is very strong. When we talked to the startups in the Silicon Valley,
 we get a number around $25 billion to $30 billion based on just $250 million in the
 GPU opportunities under 2,000 GPUs. And obviously, the hyperscalers are not
@@ -145,9 +139,7 @@ a really great place in terms of that.
 So as we look forward, our focus right now not only is what do we see in terms of the
 long-term virtue. That's a very big part of our work today, but we do want to make
 sure we're serving our customers as best as we can.
-FINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12A - Colette Kress
+A - Colette Kress
 Q - Atif Malik
 A - Colette KressGreat. So the next topic is allocation. And obviously, you guys are working across
 your ecosystem partners with all the major hyperscalers, and how do you think about
@@ -189,9 +181,7 @@ watching internally?
 
 When we think about the future, we knew there would be at some point, some great
 inﬂection there happen that the understanding of AI would be upon all of us, and
-the simplicity of ChatGPT was really that. There's not a person that couldn'tFINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Q - Atif Malik
+the simplicity of ChatGPT was really that. There's not a person that couldn'tQ - Atif Malik
 A - Colette Kressunderstand possible use cases of what you could do with something such as a
 model that could therefore solve problems of doing things manually or with humans
 to get some of that information across. That though is only the starting point where
@@ -232,9 +222,7 @@ and that has been their goal. Now CoreWeave has also quite some skills in terms 
 just their speed of adoption, their speed in terms of setting things up. We have a
 very small minority passive investment in them, and they have been working not only
 with us but very many other large customers in terms of standing up compute for
-them. They are small. They did have some allocation, but again, it's very small.FINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Q - Atif Malik
+them. They are small. They did have some allocation, but again, it's very small.Q - Atif Malik
 A - Colette Kress
 Q - Atif Malik
 A - Colette Kress
@@ -276,9 +264,7 @@ take a different approach to accelerated computing, start your work of including
 GPUs to really begin that transition to more performance and to more TCO value
 going forward?
 That's the question. Capital is important. Those are things that you want to make sure
-you're getting the best performance, but also the best return on that investment. SoFINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Q - Atif Malik
+you're getting the best performance, but also the best return on that investment. SoQ - Atif Malik
 A - Colette Kress
 Q - Atif Malik
 A - Colette Kresswe'll likely see that how people think about the size of AI. They're beginning to have
@@ -318,9 +304,7 @@ part of inferencing because we think it's a very large market as well in front o
 
 And then how should we think about your system sales versus component sales
 versus software sales as an emerging area for you?
-FINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Q - Atif MalikWhen we think through our sales today, we do laugh a little bit and say, well, we're
+Q - Atif MalikWhen we think through our sales today, we do laugh a little bit and say, well, we're
 not exactly a chip company. If you see in some of these systems, several of us may
 not be able to carry them, and they are enormous. And if you think through our H100
 systems, 35,000 different components are used to make one of those systems.
@@ -358,9 +342,7 @@ workloads that we're going to see.
 
 Another topic that comes across with investors is China. What is the long-term
 impact to NVIDIA's business from continued US government restrictions on China
-and certain countries in Middle East?FINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12A - Colette Kress
+and certain countries in Middle East?A - Colette Kress
 Q - Atif Malik
 A - Colette Kress
 So the US government has been working for decades in terms of working on
@@ -403,9 +385,7 @@ anywhere they are, whether they are in classes, at college, back in their dorm r
 or anytime that they have their laptop with them.
 What we see in some regions is we're actually selling more laptops than we actually
 are in terms of desktop solutions. That changes a little bit of the seasonality. Working
-with our OEMs and what they do to bring laptops to market and the distribution, youFINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Atif Malik
+with our OEMs and what they do to bring laptops to market and the distribution, youQ - Atif Malik
 A - Colette Kress
 Q - Atif Malik
 A - Colette Kresssee strong quarters in your second and third quarter as they get ready for back-to-
@@ -446,9 +426,7 @@ long-term capital allocation M&A strategy?
 Yeah. Capital allocation, all companies want to look to say how do we leverage and
 use that capital that we see. Always it's going to be our number one goal is
 investment back into our business. Investment in that business can be anything from
-our suppliers to our R&D teams to adding more employees is very, very important,FINAL TRANSCRIPT 2023-09-07
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12Q - Atif Malik
+our suppliers to our R&D teams to adding more employees is very, very important,Q - Atif Malik
 A - Colette Kressbut also in terms of M&A. Small and medium M&A will always be an area that we
 research. We take a strong look at these types of companies that we think could help
 bolt-on and bolt-on and assist us in the work that we're doing on accelerated

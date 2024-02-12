@@ -25,9 +25,7 @@ and then, we'll go ahead and kick off the Q&A. So with that Colette, thank you a
 for joining us this morning.
 
 Great. Thank you, Harlan for the introduction. And we're excited to be here and be
-your pick-off. And I think, I'm going on 6 years to 7 years actually. So I think, we'reFINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11forgetting on how many times we've been here, but we've seen a great acceleration.
+your pick-off. And I think, I'm going on 6 years to 7 years actually. So I think, we'reforgetting on how many times we've been here, but we've seen a great acceleration.
 As you know, we are an accelerated computing company. Our focus is in many
 different markets. And let me talk about some of the highlights that we have seen.
 Starting first with gaming, which I think is a great place to start, since we are here at
@@ -70,9 +68,7 @@ overall next generation architecture Orin, which is probably 7x faster than our 
 overall architecture focused on Xavier. These are platforms that are both available for
 -- work with the overall automotives today and we have one of the true end to end
 platforms focused on automotive that takes everybody, all the way from the
-datacenter and focusing on training, simulation of the data for later for it to be inFINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Harlan Sur
+datacenter and focusing on training, simulation of the data for later for it to be inHarlan Sur
 Colette Kressterms of production inside of the car. We've had a lot of other great announcements
 that you'll see here, but I'll just start there with a quick summary.
 
@@ -115,9 +111,7 @@ showing people how they are using a technique to better understand how search
 commands are created and how better to solve this, is an important expansion of
 both natural language processing, not only for the overall hyperscales but for start-
 ups, for consumer Internet companies, but also many of the overall enterprises.
-You've seen now a wave of focus on conversational AI and we're only just beginning.FINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Harlan Sur
+You've seen now a wave of focus on conversational AI and we're only just beginning.Harlan Sur
 Colette KressThis is something that probably takes a 100x more computing performance than
 what we have seen in overall history. It's a focus of not only on the training, but also
 on the overall inferencing side.
@@ -158,9 +152,7 @@ different data center locations in terms of within AWS. And I think with the oth
 hyperscales, we will slowly start to see that also happen but we have broad-based
 adoption of using the overall GPUs for inferencing. This is an important moment of
 something that we knew, we were working on an incumbent, a CPU or a traditional
-type of overall inferencing that a CPU is just fine.FINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Harlan Sur
+type of overall inferencing that a CPU is just fine.Harlan Sur
 Colette Kress
 Harlan Sur
 Colette Kress
@@ -200,9 +192,7 @@ So inferencing, we do believe is probably a larger market than what we have in
 terms of the other pieces. So we are continuing to concentrate on this. Inferencing in
 the overall data center is important, but remember also inferencing at the edge.
 
-Right.FINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Colette Kress
+Right.Colette Kress
 Harlan Sur
 Colette Kress
 Harlan Sur
@@ -242,9 +232,7 @@ overall data that is confidential in nature that you don't want back in terms of
 overall cloud. So these are some of the things that we may see in terms of
 healthcare, in terms of devices, scanning devices or otherwise, that you could do the
 overall scanning and have the results in instantaneous amounts of time rather than
-what we have seen in the past of that entire industry.FINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11Harlan Sur
+what we have seen in the past of that entire industry.Harlan Sur
 Colette KressIn terms of what we see already in use of end-store capabilities. And what you see
 inside of the stores in terms of both check out, you can look at the US Postal Service
 in the same manner. How quickly can I move the overall mail through by using
@@ -286,9 +274,7 @@ significant amount of that out here at CES.
 The overall OEMs have focused on this notebook is in a unique niche for them to
 attract the overall gamers. The gamers that aren't necessarily interested in building
 their own overall desktops, but now can have that high-performance in their overall
-notebook design. Our overall ray tracing even from a desktop standpoint has nowFINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11Harlan Sur
+notebook design. Our overall ray tracing even from a desktop standpoint has nowHarlan Sur
 Colette Kress
 Harlan Sur
 Colette Kressaccumulated to be more than 60% of our overall sales on the desktop and is making
@@ -331,9 +317,7 @@ some slower quarters than we had expected, but where we stand right now, things
 are growing quite well in overall China. China is an important part of our overall
 gaming business, but also very important part of our data center business as you
 inferred. But what we see there is the adoption of our full stack, our full stack not just
-focused on in terms of our ray tracing but we also sell cars into that market that areFINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Harlan Sur
+focused on in terms of our ray tracing but we also sell cars into that market that areHarlan Sur
 Colette Kressimportant just for overall gaming as a whole, but allows them to have both the new
 architecture even if they may -- not the overall ray tracing. It's an important piece
 when you think about the overall iCAFE market there. The iCAFE market is one of its
@@ -375,9 +359,7 @@ passenger cars and looking at Level 4 with removing the overall driver and what
 we'll find is confined overall scenarios. Now, what we're seeing in the overall market
 for automotive is it's taking them a little bit longer, the investment that they need to
 focus on this is something that's going to draw them out, probably closer to the
-2022 time frame versus a little bit earlier than what we have had previouslyFINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Harlan Sur
+2022 time frame versus a little bit earlier than what we have had previouslyHarlan Sur
 Colette Kress
 Harlan Sur
 Colette Kress
@@ -416,9 +398,7 @@ continue to see an opportunity for people to both upgrade and upgrade choosing a
 higher end overall card, but the overall ray tracing capability also allows us to
 appreciate higher gross margins.
 Then you discuss in terms of what data center and/or ProViz does to our gross
-margin as well. Now that we've seen a return in terms of the growth both from aFINAL TRANSCRIPT 2020-01-07
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11Harlan Sur
+margin as well. Now that we've seen a return in terms of the growth both from aHarlan Sur
 Colette Kress
 Harlan Surtraining and/or an inferencing standpoint that can as well overall inﬂuence, our
 overall gross margins. As we move forward, we will continue to concentrate and see

@@ -20,9 +20,7 @@ will serve as the Secretary and conduct the procedural portion of the meeting.
 
 Thanks, Jensen. First, a few housekeeping items. We have opened the online portal
 for stockholders to ask questions during the meeting. If you have a question, please
-enter it into the portal. And we will do our best to answer it at the end of Jensen'sFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 8business update in the time permitted. You can also vote your shares online until the
+enter it into the portal. And we will do our best to answer it at the end of Jensen'sbusiness update in the time permitted. You can also vote your shares online until the
 polls close.
 During the course of this meeting, we may make forward-looking statements based
 on current expectations. These forward-looking statements are subject to a number
@@ -61,9 +59,7 @@ Drell, James Gaither, Jensen Huang, Dawn Hudson, Harvey Jones, Mike McCaffery,
 William Miller, Mark Perry, Brooke Seawell and Mark Stevens to serve as directors
 until our 2018 annual meeting.
 Second, the approval of the compensation of our executive oﬃcers, as disclosed in
-our 2017 proxy statement.FINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 8Jensen Hsun HuangThird, the approval of the frequency of holding a vote on the compensation of our
+our 2017 proxy statement.Jensen Hsun HuangThird, the approval of the frequency of holding a vote on the compensation of our
 executive oﬃcers.
 And fourth, the ratification of the selection of PwC as our independent registered
 public accounting firm for the fiscal year ending January 28, 2018.
@@ -99,9 +95,7 @@ of new technologies like 4K and HDR will fuel its further growth.
 We're in the early days of the next computing era, AI. Sparked and fueled by GPU
 computing, AI has revolutionized every industry. Health care, transportation,
 manufacturing and robotics, AI will automate intelligence and spur a wave of social
-progress unmatched since the Industrial Revolution. We work with the major systemsFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 8Colette M. Kresscompanies and every major cloud service provider to make NVIDIA GPUs available
+progress unmatched since the Industrial Revolution. We work with the major systemsColette M. Kresscompanies and every major cloud service provider to make NVIDIA GPUs available
 in data centers and in the cloud. We advance fundamental research, foster
 universities and start-ups and bring our full capabilities to industries where we can
 have the greatest impact. The automotive industry is one of the biggest. Self-driving
@@ -141,9 +135,7 @@ computing has arrived. Thank you.
 
 Thanks, Jensen. We will now move to Q&A. First, we'll address all question and
 comments that have come through our stockholder forum. And then we will answer
-any questions that come through the virtual meeting portal. We created the forum soFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 8A - Jensen Hsun Huangthat our stockholders would have the opportunity to ask us questions prior to the
+any questions that come through the virtual meeting portal. We created the forum soA - Jensen Hsun Huangthat our stockholders would have the opportunity to ask us questions prior to the
 meeting, allowing for a more effective communication.
 Jensen, I will turn it over to you to answer the initial questions.
 Questions And Answers
@@ -178,9 +170,7 @@ meeting attendance. In fiscal year 2017, my salary was $1 million. And our CFO's
 salary was $775,000. Ensuring that our Board of Directors is composed of leaders
 who exhibit a variety of skills, professional experience and backgrounds, as well as
 bringing diverse viewpoints and perspectives, is a priority of our board and for me.
-Two of our 4 recent added board members, Dawn Hudson and Persis Drell, areFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 8women. We are committed to ensuring that women are included in our pool of
+Two of our 4 recent added board members, Dawn Hudson and Persis Drell, arewomen. We are committed to ensuring that women are included in our pool of
 board candidates in the future.
 The next question is, if Toyota were to bring mass-producing AD cars this fall, how
 much money, gross and/or net, would NVIDIA get per vehicle? Since NVIDIA is now
@@ -222,9 +212,7 @@ with Google to put the NVIDIA CUDA GPU into the Google Cloud so that we can
 make it available to more developers and users. But our AI strategy is really to
 accelerate every framework, from TensorFlow to Caffe to Hi Forge and MXNet and
 CNTK. It's so that we can partner with every single cloud provider and make our
-GPUs available on every single cloud. And I think it's clear now that with theFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 8adoption by Google and Amazon, Microsoft and Facebook and Baidu, Alibaba and
+GPUs available on every single cloud. And I think it's clear now that with theadoption by Google and Amazon, Microsoft and Facebook and Baidu, Alibaba and
 Tencent, NVIDIA's GPU is the only deep learning platform and standard -- de facto
 standard that's available literally everywhere in the world. And so our strategy is
 really about democratizing AI, making it available for every company, every industry,
@@ -267,9 +255,7 @@ alternating current and between NVIDIA and Nikola Tesla. How is NVIDIA's
 management getting advice to ensure NVIDIA's shareholders will not die paupers?
 And so I'm not exactly sure how to answer that question, except for this, AI and the
 work that we're doing in GPU computing is one of the most important works that
-we've ever done. And there's little question now that AI has the ability by virtue ofFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 8the fact that it essentially automates automation just as in the previous Industrial
+we've ever done. And there's little question now that AI has the ability by virtue ofthe fact that it essentially automates automation just as in the previous Industrial
 Revolution, we automated power and before that, we automated the growth of food
 through farming. Now we have the ability to automate automation. And we can
 automate things that are dangerous to do, things that are repetitive to do. And that

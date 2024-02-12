@@ -4,9 +4,7 @@ our amazing developers dream out big ideas and bring those ideas to life in the
 incredible apps they create. It's remarkable to think that this year marks the 15th
 anniversary of the App Store, which changed everything.
 Together with the iPhone developers apps have helped create entirely new
-industries, enrich the lives of our users and change the world. We are committed toFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 2 of 35John Ternus
+industries, enrich the lives of our users and change the world. We are committed toJohn Ternus
 Kate Bergeronproviding developers with resources, tools, and opportunities to help them do their
 amazing work. One of these important resources is our Worldwide Developers
 Conference. We are excited to kick things off with this morning's announcements.
@@ -44,9 +42,7 @@ you can see even more of your content and with up to 500 nits of brightness and
 support for one billion colors, everything looks remarkably rich and vibrant. It has a
 great 10 ADP camera for video calls, along with three micro array. So you come
 through loud and clear. And the new Air sounds awesome with six speakers
-including force canceling wafers, it delivers immersive spatial audio.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 3 of 35John TernusAll of this is enabled by the M2 chip, which delivers amazing performance and
+including force canceling wafers, it delivers immersive spatial audio.John TernusAll of this is enabled by the M2 chip, which delivers amazing performance and
 battery life. In fact, the new Air is 12 times faster than the fastest Intel-based MacBook
 Air and it gets an astonishing 18 hours of battery life. So what makes the new Air the
 world's best 15-inch laptop? Well, 15-inch PC laptops are full of trade-offs between
@@ -86,9 +82,7 @@ Saturday Night Live every week. And at Air Studios where sound engineers use it 
 bring blockbuster movies to life. And at (inaudible), where software developers rely
 on it to create cutting-edge apps, like Halide.
 Today, we're excited to give Mac Studio its first big update. And here is Jennifer, to
-tell you more.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 4 of 35Jennifer Munn
+tell you more.Jennifer Munn
 Users love Mac Studio for its incredible performance and connectivity, and today
 both get even better. First, Mac Studio is getting the immensely capable M2 Max,
 and it's a performance powerhouse. Developers can build new versions of apps at
@@ -130,9 +124,7 @@ with Apple silicon. It combines our most powerful chip with PCI expansion to tac
 the most demanding workﬂows. First, every Mac Pro comes with the outrageous
 performance of M2 Ultra, compared to the fastest Intel base macro many real-world
 pro workﬂows, like video transcoding and 3D simulation are three times faster, a key
-reason is the amount of unified memory, and M2 Ultra, which is up to a gigantic 192FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 5 of 35John Ternus
+reason is the amount of unified memory, and M2 Ultra, which is up to a gigantic 192John Ternus
 Timothy D. Cookgigabytes. It enables the new Mac Pro to do things, simply not possible before, like
 render Disney's Moana Island scene with massive geometry and textures. Another
 reason is M2 Ultra's Media Engine, which accelerates video processing. The Intel-
@@ -170,9 +162,7 @@ computer and I couldn't be more excited about its future. And it's the integrati
 our hardware and software, that brings our amazing products to life. Our software
 platforms enable our developers to do their amazing work, as well as provide
 incredible experiences for our users.
-So to tell you what's new with our software platforms, here's Craig.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 6 of 35Craig Federighi
+So to tell you what's new with our software platforms, here's Craig.Craig Federighi
 Kim Beverett
 Let's start with iOS. This year we looked across the entire iPhone experience to
 provide delightful new features that make the things you do on iPhone more
@@ -212,9 +202,7 @@ someone on FaceTime, and they aren't available, you'll be able to leave a messag
 So whether you're just calling to say, hey, I want to share a precious moment. You can
 record a message, so that they can enjoy it later.
 Next, to tell you about some updates to another way we'd love to share and
-communicate every day, here is Kim.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 7 of 35Messages is the way we stay connected with the people who matter most. To start,
+communicate every day, here is Kim.Messages is the way we stay connected with the people who matter most. To start,
 let's quickly cover some key improvements that make using messages even faster
 and more convenient. First, search is more powerful and precise with the addition of
 search filters. So now you can start to search and then add additional terms to
@@ -256,9 +244,7 @@ how I made these. I'll tap the plus button, I can pick any one of these photos a
 turn it into a sticker. And check this out, when I tap on the live photos tab, I see all of
 the live photos that will make great animated stickers. Why don't we make a sticker
 out of just one? And just like that, it gets added right into my live stickers tab. From
-there, I can send my sticker inline or here in stick like this.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 8 of 35Craig FederighiYou can also add effects to live stickers. When you took your phone and messages
+there, I can send my sticker inline or here in stick like this.Craig FederighiYou can also add effects to live stickers. When you took your phone and messages
 they really come to life. Best of all, you can now react to messages by adding stickers
 directly to any bubble from the tap, back menu. And the fun doesn't stop in
 messages, we've added stickers system-wide, so you can access your full sticker
@@ -298,9 +284,7 @@ intelligence in the keyboard, that improve the experience every time you type. I
 starts with the feature at the core of typing accurately on iPhone autocorrect.
 Autocorrect is powered by on-device machine learning. And over the years, we
 continued to advance these models. The keyboard now leverages a transformer of
-language model which is state-of-the-art for word prediction, making auto-correctFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 9 of 35Adeeti Ullalmore accurate than ever. And with the power of Apple silicon, iPhone can run this
+language model which is state-of-the-art for word prediction, making auto-correctAdeeti Ullalmore accurate than ever. And with the power of Apple silicon, iPhone can run this
 model every time you tap a key. Autocorrect is also getting more capable with
 refresh design to better support you, as you type.
 Sentence-level auto corrections can fix more types of grammatical mistakes. If an
@@ -339,9 +323,7 @@ Let's look at this one of a trip. It includes where you went, the music you list
 photos you took there. You can add these tier journal in one tap. And when you do
 there's even a writing prompt like what was the highlight of your visit? So it's easy to
 get started. As you capture life's precious moments, you can mark important ones
-and revisit them later, to help you find new insights or set new goals. And to stayFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 10 of 35Craig Federighiconsistent you can schedule notifications for the start or end of your day, to remind
+and revisit them later, to help you find new insights or set new goals. And to stayCraig Federighiconsistent you can schedule notifications for the start or end of your day, to remind
 you to write. And to tell you when new suggestions are available. Of course, your
 suggestions and entries are incredibly personal and Journal is designed to keep
 them private. With on-device processing end-to-end encryption and the ability to
@@ -381,9 +363,7 @@ people and now can even recognize the cats and dogs that are part of your family
 too. And that's iOS 17, with big updates to the phone app with new contact posters
 and live voicemail, messages improvements with a new stickers experience, more
 ways to share with AirDrop, and improved typing indication, along with all new
-experiences like journal and standby.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 11 of 35Now let's head downstairs to talk about iPadOS. IPadOS powers iPad, our most
+experiences like journal and standby.Now let's head downstairs to talk about iPadOS. IPadOS powers iPad, our most
 versatile device. And it enables our users to do so many things. Over the years,
 we've added features that make it even more capable from jotting down your latest
 ideas and notes, to working with multiple apps to spreading out your projects across
@@ -424,9 +404,7 @@ cool. The lock screen gets one other feature that makes it even more useful, liv
 activities. So now, right from the lock screen, you can keep track of a food order with
 Uber Eats, travel plans with Flighty, the score with Major League Soccer, or a timer.
 And we're happy to report, that now you can even keep track of multiple timers. We
-truly live in an age of wonders. The new lock screen experience and iPad, combinedFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 12 of 35Jenny Chen
+truly live in an age of wonders. The new lock screen experience and iPad, combinedJenny Chen
 Craig Federighiwith interactive widgets on the home screen. It's a big step forward for how you can
 personalize and use iPad.
 Next, let's talk about an app that we're excited to bring to iPadOS for the first time,
@@ -465,9 +443,7 @@ need to finish later you can use live collaboration from anywhere, it's even gre
 combined with a FaceTime call. With PDFs announced, no taking a markup or going
 to be abrased.
 And now back to Craig.
-FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 13 of 35So that's a look at iPadOS 17, but of course, there's even more. Like improvements to
+So that's a look at iPadOS 17, but of course, there's even more. Like improvements to
 stage manager, where we're adding even more ﬂexibility to position and size of your
 windows, giving you more control over your workspace. And you can now take
 advantage of the built-in camera on your external display for FaceTime and
@@ -509,9 +485,7 @@ without feeling intrusive. If I open a mail, my widgets instantly fade into the
 background, so I can focus on the task at hand. If I switch my wallpaper, you'll see
 the widgets are intelligently tempted based on the color behind them, so they
 maintain ledgeability and the look of my desktop. Even the photos which it adapts
-it's really gorgeous.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 14 of 35Jeremy SandmelTo add more widgets, I can bring up the widget gallery, where I have all the widgets I
+it's really gorgeous.Jeremy SandmelTo add more widgets, I can bring up the widget gallery, where I have all the widgets I
 know and love on my Mac. But I also have some amazing widgets on my iPhone and
 through the magic of continuity, I can now access them all right here on my Mac. So I
 can see my Apollo for Reddit, HiCoffee, and even my car widget. I don't need to
@@ -550,9 +524,7 @@ developers to quickly evaluate just how well their game could run on Mac. A proc
 that used to take months can now be done in days. And they dramatically simplify
 the process of converting the game's shaders and graphics code to take full
 advantage of the powerful features and performance of Apple silicon, significantly
-reducing the total development time.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 15 of 35Hideo Kojima
+reducing the total development time.Hideo Kojima
 Craig Federighi
 Beth DakinAnd there's another big game coming to Mac this year. To tell you all about it, here's
 legendary game creator Kojima-san from Kojima Productions.
@@ -591,9 +563,7 @@ private browsing windows when you're not using them, completely blocks known
 trackers from loading on pages, and removes tracking from URLs as you browse in
 private browsing. Of course, one of the best ways to protect yourself on the web is
 with a strong password, or even better, a passkey. We're now adding the ability to
-securely share passwords and passkeys with the people you're closest with.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 16 of 35Craig Federighi
+securely share passwords and passkeys with the people you're closest with.Craig Federighi
 Ron HuangEveryone in a group can add and edit passwords to keep them up to date. And since
 sharing is through iCloud Keychain, it's end-to-end encrypted.
 We have another exciting update to help you stay organized with profiles. Many of
@@ -629,9 +599,7 @@ let's start off with what's new for AirPods.
 Here's Ron to tell you more.
 AirPods are the most popular headphones in the world, providing the best personal
 audio experience throughout your day. From active noise cancellation, which
-removes unwanted background noise so it's easier to focus, to transparency mode,FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 17 of 35Unidentified Speaker
+removes unwanted background noise so it's easier to focus, to transparency mode,Unidentified Speaker
 Ron Huang
 Unidentified Speakerwhich keeps you connected to the world around you while reducing loud
 environmental noise in real-time. Our users love these features today, and there is
@@ -658,9 +626,7 @@ Look forward to it.
 See you there.
 See you.
 Another AirPods benefit is being able to take calls on the go.
-Hey, there.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 18 of 35Ron Huang
+Hey, there.Ron Huang
 Anne Park ShedloskyAdaptive Audio helps when you're on a call in loud environments as well, by
 proactively reducing the noise around you. And for added convenience, you can
 press to quickly mute or unmute yourself as needed. We're also improving the
@@ -699,9 +665,7 @@ devices to deliver the best of television, along with all of your entertainment.
 things like access AirPods settings, home cameras, system controls, and user profiles,
 all with a touch of the Siri Remote. And for the times when you can't find your Siri
 Remote, you can now use your iPhone to locate it, and get back to watching TV.
-Sometimes what you really want to watch isn't a show at all. It could be your favoriteFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 19 of 35Kevin Lynchfamily photos that fill the room with joy. Now to enjoy these special moments even
+Sometimes what you really want to watch isn't a show at all. It could be your favoriteKevin Lynchfamily photos that fill the room with joy. Now to enjoy these special moments even
 more, you can select memories as your screensaver and see your photos perfectly
 framed with ﬂuid animations and transitions.
 Our home is also where we connect with loved ones. And for times when we're not
@@ -740,9 +704,7 @@ celebrating this huge milestone with a new way to view information quickly from 
 watch face and comprehensive app redesigns across watchOS.
 (Video Presentation)
 This is such an energizing new approach for Apple Watch. Let's take a closer look.
-We're introducing a way for you to enjoy a beautiful watch face, like portraits, whileFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 20 of 35still giving you quick access to information you care about. Now from any watch face,
+We're introducing a way for you to enjoy a beautiful watch face, like portraits, whilestill giving you quick access to information you care about. Now from any watch face,
 you can simply turn the Digital Crown to reveal widgets in a Smart Stack. I can start
 off my day with a glance at the forecast and headlines. And the Smart Stack uses
 machine learning to show you relevant information, right when you need it. So later
@@ -781,9 +743,7 @@ redesigned apps that provide more information at a glance, and new ways to
 navigate and quickly access your content, all powered by the intelligence of
 watchOS 10. And if that wasn't enough, we have more features to keep you active,
 starting with cycling. It's a competitive sport for some and a great way to exercise for
-others.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 21 of 35Eric CharlesHere's Eric to tell you about some new features that will make Apple Watch an even
+others.Eric CharlesHere's Eric to tell you about some new features that will make Apple Watch an even
 more essential companion for cyclists.
 
 Apple Watch has a lot of great cycling features already, like notifying you to start a
@@ -823,9 +783,7 @@ compelling workout experiences. The powerful motion sensors on Apple Watch
 Series 8 and Ultra can detect rapid changes in direction and acceleration, like when
 swinging a golf club or a tennis racket.
 Developers will have access to this high-frequency motion data. For example,
-Golfshot can detect small wrist movements to refine your golf swing. Or to help yourFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 22 of 35Sumbul Ahmad Desaitennis serve, SwingVision can analyze your pronation, which is the twisting motion of
+Golfshot can detect small wrist movements to refine your golf swing. Or to help yourSumbul Ahmad Desaitennis serve, SwingVision can analyze your pronation, which is the twisting motion of
 your forearm, wrist, and hand. And apps like Training Peaks will be able to use a new
 API to create a workout program that you can access directly from the Workout app
 on Apple Watch. These new developer features join the other great experiences in
@@ -866,9 +824,7 @@ your overall health journey.
 The other important area of focus for us this year is vision health, and specifically the
 reduction of myopia, which is nearsightedness that's caused by physical changes in
 the eye. It's the leading cause of vision impairment globally. It's currently estimated
-to affect over 30% of the population. And that's expected to grow to 50% by 2050,FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 23 of 35Kevin Lynch
+to affect over 30% of the population. And that's expected to grow to 50% by 2050,Kevin Lynch
 Craig Federighi
 Timothy D. Cookimpacting five billion people. Myopia typically starts in childhood, and there are a
 few behaviors that can lower a child's risk of developing it. One is to spend more
@@ -908,9 +864,7 @@ to interact with our global developer community.
 Our OS releases will be available as developer betas today, and each of them will
 have a public beta next month. All of these OS releases will be available to our users
 this fall. Now, back to Tim.
-FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 24 of 35Alan DyeThanks, Craig. Today we introduced some amazing new Macs and showed you
+Alan DyeThanks, Craig. Today we introduced some amazing new Macs and showed you
 where we're taking the incredible software platforms that drive our products. It's
 already been a big day, but we do have one more thing. This is a day that's been
 years in the making, one that I've really been looking forward to. I believe that
@@ -950,9 +904,7 @@ Experiences in Vision Pro aren't constrained to the boundaries of a display, the
 freely fill the space around you. It's easy to make apps on any scale, even larger than
 life. And you can place apps exactly where you want them, anywhere in your space. It
 feels natural, like moving real objects. And launching new apps doesn't take space
-from existing ones, they simply occupy a new space, centered around you. There'sFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 25 of 35something truly extraordinary about seeing your favorite apps and experiences right
+from existing ones, they simply occupy a new space, centered around you. There'ssomething truly extraordinary about seeing your favorite apps and experiences right
 there in the room with you. And apps can expand fully into your space, like during a
 mindfulness session, where you can create a private moment of calm.
 And with Vision Pro, apps and experiences can do something else remarkable. They
@@ -992,9 +944,7 @@ nearby, they will appear in your view.
 And Vision Pro will simultaneously reveal your eyes to them. The spatial experiences
 of Vision Pro seamlessly blend the digital and physical worlds, transforming what's
 possible. Whether at home or at work, it unlocks magical new experiences.
-To show you what it's like to use Apple Vision Pro, here's Allessandra.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 26 of 35Allessandra McGinnis
+To show you what it's like to use Apple Vision Pro, here's Allessandra.Allessandra McGinnis
 Let's see Apple Vision Pro in action for work. Vision Pro has the apps you love and
 count on every day. But now, these apps are freed from the confines of a display and
 live in your space, transforming how you use notes, messages, keynote, Safari,
@@ -1036,9 +986,7 @@ now becomes spatial, taking advantage of the room around you. You can join a
 group call and see everyone (inaudible). As new people join, FaceTime simply
 expands. With Spatial Audio built right into Vision Pro, you hear each person's voice
 coming from the location of their tile, making group conversations easier and more
-natural. And within FaceTime, you can share apps with others, and use themFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 27 of 35En Kellytogether with SharePlay. And you continue to see everyone in large video tiles while
+natural. And within FaceTime, you can share apps with others, and use themEn Kellytogether with SharePlay. And you continue to see everyone in large video tiles while
 sharing an app. This is powerful for so many activities, like reviewing a presentation,
 sharing photos and videos or watching a movie together. FaceTime on Vision Pro
 works seamlessly with other Apple devices like iPhone, iPad, and Mac, so everyone
@@ -1076,9 +1024,7 @@ Pro automatically dims the surrounding light, casts a beautiful glow into your s
 and surrounds you with Spatial Audio. And for a super cinematic experience, open
 an environment like Mount Hood to scale your screen beyond the dimensions of
 your room, so it feels 100 feet wide, giving you the most majestic viewing experience
-ever.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 28 of 35Timothy D. Cook
+ever.Timothy D. Cook
 Robert IgerAnd with the Cinema Environment, turn any room into your own personal movie
 theater. This environment lets you focus fully on the movie, and is built to give you a
 fantastic viewing experience that you can take anywhere, like on an airplane. Use
@@ -1118,9 +1064,7 @@ allow us to create deeply personal experiences that bring our fans closer to the
 characters they love and more deeply immersed in our stories. This platform will
 allow us to bring Disney to our fans in ways that were previously impossible. We're
 tremendously excited to give you a sneak peek of just some of the things that we've
-been dreaming up. So take a look.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 29 of 35Timothy D. Cook
+been dreaming up. So take a look.Timothy D. Cook
 Richard Howarth(Video Presentation)
 We're so proud to yet again be partnering the greatest storytelling company in the
 world with the most innovative technology company in the world to bring you real-
@@ -1157,9 +1101,7 @@ the high-precision front of the product, we created a rich combination of soft t
 parts, that provide comfort and wearability. We studied thousands of heads to get a
 detailed understanding of the huge variation in cheek width, face angle, and head
 shape. This led us to design a modular system that allows us to tailor the product to
-fit you perfectly.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 30 of 35Michael RockwellThe LightSeal [ph] comes in a range of different shapes and sizes, and ﬂexes to
+fit you perfectly.Michael RockwellThe LightSeal [ph] comes in a range of different shapes and sizes, and ﬂexes to
 conform to your face, delivering a really precise fit. Extending from the frame are
 ﬂexible straps that conform to the head, ensuring the audio pods remain close to
 your ears. They deliver rich Spatial Audio while keeping you aware of your
@@ -1199,9 +1141,7 @@ result is a display that's everywhere you look, delivering jaw-dropping experien
 that are simply not possible with any other device. It enables video to be rendered at
 true 4K resolution, with wide color and high dynamic range, all at massive scale. And
 fine text looks super sharp from any angle. This is critical for browsing the web,
-reading messages, and writing e-mails.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 31 of 35Now let's talk about audio. What you hear is critical to how you perceive the world.
+reading messages, and writing e-mails.Now let's talk about audio. What you hear is critical to how you perceive the world.
 We wanted sound to feel like it was coming from the space around you, blending
 with the real world. So Vision Pro features an entirely new Spatial Audio system.
 Personalized sound is delivered through the integrated dual-driver audio pods,
@@ -1243,9 +1183,7 @@ techniques, we created a novel solution. After a quick enrollment process using 
 front sensors on Vision Pro, the system uses an advanced encoder-decoder neural
 network to create your digital Persona. This network was trained on a diverse group
 of thousands of individuals. It delivers a natural representation, which dynamically
-matches your facial and hand movement.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 32 of 35Susan PrescottWith your Persona, you can communicate with over a billion FaceTime-capable
+matches your facial and hand movement.Susan PrescottWith your Persona, you can communicate with over a billion FaceTime-capable
 devices. When viewed by someone in another Vision Pro, your Persona has volume
 and depth not possible in traditional video. None of this advanced technology could
 come to life, without a powerful operating system called Vision OS. It's built on the
@@ -1286,9 +1224,7 @@ streamline the preparation of 3D content for spatial apps, we built Reality Comp
 Pro, which makes it easy to assemble complex scenes with realistic objects. The same
 frameworks available in iPadOS and iOS are also included in Vision OS. This means
 hundreds of thousands of iPad and iPhone apps will be available on Vision Pro at
-launch.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 33 of 35Michael RockwellSo you can use apps like Adobe Lightroom on a massive screen and easily control
+launch.Michael RockwellSo you can use apps like Adobe Lightroom on a massive screen and easily control
 these apps with just your eyes and hands. We know there is a community of
 developers who have been building incredible 3D apps for years. And today, we are
 excited to share that we've been working with Unity to bring those apps to Vision
@@ -1328,9 +1264,7 @@ system, two powerful Apple silicon chips, a groundbreaking spatial operating
 system, and a gorgeous design made from aerospace-grade alloys, Apple Vision Pro
 is the most advanced personal electronics device ever.
 In fact, there is so much invention in Vision Pro that we filed over 5,000 patents
-during its development. It's hard to believe all the capabilities Vision Pro delivers areFINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 34 of 35Timothy D. Cookpossible in a standalone spatial computer portable enough to use anywhere. It lets
+during its development. It's hard to believe all the capabilities Vision Pro delivers areTimothy D. Cookpossible in a standalone spatial computer portable enough to use anywhere. It lets
 you replace a desk full of monitors with infinite (inaudible) estate, so you can be
 more productive than ever. It delivers stunning entertainment and Personalized
 Spatial Audio. It provides powerful new ways to collaborate and stay connected. And
@@ -1366,6 +1300,4 @@ and I'd like to share it with you now.
 I hope you're as excited about Apple Vision Pro as we are. You'll be hearing much
 more about it, as well as Vision OS and our other platforms throughout the
 conference.
-Thank you so much for joining us. Have a great week and a great WWDC.FINAL TRANSCRIPT 2023-06-05
-Apple Inc (AAPL US Equity)
-Page 35 of 35
+Thank you so much for joining us. Have a great week and a great WWDC.

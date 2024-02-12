@@ -16,9 +16,7 @@ Well, we're all glad to be here with you. Thank you so much, and really looking 
 learn a lot about Microsoft and its strategy and security. Thank you so much for
 joining us. If you don't mind -- maybe some silence. If that's important, you may want
 to take that.
-I always take a call from my mom, even if she calls while I'm not here.FINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13Charlie Bell
+I always take a call from my mom, even if she calls while I'm not here.Charlie Bell
 Brad Zelnick
 Charlie Bell
 Q - Brad Zelnick
@@ -54,9 +52,7 @@ brilliant woman. You can look her up someday.
 But she said, "You know, you should talk to Satya Nadella." I said, "What?" She said,
 "No, you should talk to Satya. Microsoft is doing a lot in security. And it's a great
 company." And at the moment, I said, okay, fine. So within a week or two, she knew
-Satya, by the way, there's an old story there back in the early 2000s before Satya wasFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13Q - Brad ZelnickSatya. She had tried to recruit him to Amazon and, of course, he was trying to recruit
+Satya, by the way, there's an old story there back in the early 2000s before Satya wasQ - Brad ZelnickSatya. She had tried to recruit him to Amazon and, of course, he was trying to recruit
 her to -- I met her at Amazon. She was one of the senior leaders there.
 And so she called up over there at Redmond and on a Saturday I was talking to
 Satya. And the thing that impressed me is first of all, I didn't know it, he'd already
@@ -96,9 +92,7 @@ there's a lot of learning that goes on there. Microsoft is ground zero for attac
 and so we learn a lot from that. But yes, that's my mandate.
 
 Excellent, Thank you very much for that. And you've touched on a bit of my next
-question, but I'll still ask. I mean, the momentum just in recent years in security hasFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13A - Charlie Bell
+question, but I'll still ask. I mean, the momentum just in recent years in security hasA - Charlie Bell
 Q - Brad Zelnick
 A - Charlie Bellbeen nothing short of impressive. At a high level, can you start by giving us a sense
 for the overarching strategy and the couple of key things that you think really
@@ -140,9 +134,7 @@ grew by 26% last year. Really interesting is that the number of customers who ar
 using more than four workloads, that number has gone up by 33%. So there's an
 intensity, increase in intensity, I think, that's going on.
 I think there was a lot of optimization that people were doing, but typically you see
-that happen over a short period of time. Over the long period of time, the way I thinkFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13Q - Brad Zelnick
+that happen over a short period of time. Over the long period of time, the way I thinkQ - Brad Zelnick
 A - Charlie Bell
 Q - Brad Zelnick
 A - Charlie Bellabout it is what I said like, we're going to a $10 trillion drag on GDPs, and that's
@@ -183,9 +175,7 @@ between things like SIEM and XDR and SOAR, and all the things that you have to d
 really, if you're going to be end-to-end, you've got to blur those lines, and it starts
 with data.
 And so there's a lot of investment in that, and by the way, that's a prerequisite for
-probably the biggest change that we're going to see in security, the one that's goingFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13Q - Brad Zelnick
+probably the biggest change that we're going to see in security, the one that's goingQ - Brad Zelnick
 A - Charlie Bell
 Q - Brad Zelnickto finally, I think, turn the corner. The big part of -- you can have all the data in the
 world, but if you can't see it, and act on it, and use it, it doesn't matter, and we
@@ -225,9 +215,7 @@ so, I think we have a -- we now finally have an advantage with AI.
 That maybe leads to my next question, which is back on a theme that we've touched
 on, which is consolidation, which I feel like, has been a promise of the industry. Any
 newcomer who stumbles upon the problem and the domain naturally would say,
-okay, just -- the customer just wants to make it stop, and they're swimming in allFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13A - Charlie Bell
+okay, just -- the customer just wants to make it stop, and they're swimming in allA - Charlie Bell
 Q - Brad Zelnick
 A - Charlie Bellthese point products, but it's always -- cybersecurity has always been this arms race,
 consolidation along the promise.
@@ -266,9 +254,7 @@ looking at your end user variables. I'm looking at your system variables. I'm lo
 at your IP address, the system you're on, identifiers. I think you're Charlie. You're not
 Charlie, you're not going in." So there's been a lot of capabilities that have been
 built over the years. And that's kind of how technology works, you can tend to layer
-things up. But I think we finally have enough technology to do it.FINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13Q - Brad Zelnick
+things up. But I think we finally have enough technology to do it.Q - Brad Zelnick
 A - Charlie BellAnd I also think, I go back to Satya, his understanding of this being kind of
 fundamental to the human progress on technology. One of the reasons I wanted to
 do it, and he shares this view, is that, if you're a technology company, you win if
@@ -308,9 +294,7 @@ going to do that? Well, you have to have separate capabilities that know how to 
 that. And so it's a systems problem.
 And what was exciting to me is, I came to Microsoft in -- well, it was two years ago. It
 was end of August '21. And we were just getting started on LLMs and security. And
-now when we look at all the things that we can do across the board to stitch thisFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13together, you've got to be able to go after, not just the data that we have, the signals
+now when we look at all the things that we can do across the board to stitch thistogether, you've got to be able to go after, not just the data that we have, the signals
 that we have, you got to be able to let the customer bring signals, it has to be done
 safely.
 One of the challenges I think in the AI space, when you start systematizing large
@@ -348,9 +332,7 @@ GPUs to go spend.
 By the way, the other thing about these security models is, you guys go to the web
 and you start playing with ChatGPT or Bing and you start going back and forth, well,
 each time you do it, you're doing an inference. But you do security models, you're
-doing a lot of inferences. Like in order to do the systems level job we do, it'sFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13Q - Brad Zelnick
+doing a lot of inferences. Like in order to do the systems level job we do, it'sQ - Brad Zelnick
 A - Charlie Bell
 Q - Brad Zelnick
 A - Charlie Bellresource intensive. So this is going to be a -- it's going to have to be a separate
@@ -390,9 +372,7 @@ Microsoft's value prop as you get further away from securing Windows Core and
 Microsoft 365 apps and Azure services?
 
 Well, so first of all, I want to say, one of the parts of the conversation with Satya that
-got me at Microsoft was, I was probing him to understand, is this about protectingFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13Q - Brad Zelnick
+got me at Microsoft was, I was probing him to understand, is this about protectingQ - Brad Zelnick
 A - Charlie BellMicrosoft products? Or how do we think about securing things? Because back of my
 head, my thought was, one of the things I've observed is, you can't say it's my cloud
 or no cloud. It's going to be a multi-cloud world.
@@ -432,9 +412,7 @@ into Azure AD? What's over a multi-year horizon, how do we know that you really
 crushed it? And you achieved your goal, and how do we think about measuring that?
 
 Well, I mean, I do think revenue is a good one because it means customers see value
-in what you're doing. That's sort of an obvious one. And we're really proud ofFINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13Q - Brad Zelnick
+in what you're doing. That's sort of an obvious one. And we're really proud ofQ - Brad Zelnick
 A - Charlie Bell
 Q - Brad Zelnick
 A - Charlie Bellcrossing the $20 billion mark, so that was kind of a big milestone.
@@ -473,7 +451,5 @@ on this, and I'm excited to do it.
 Cool. Well, we're all counting on you. Charlie, thank you so much for being here at
 the Deutsche Bank Tech Conference. This was really, really great.
 
-Thanks for having me.FINAL TRANSCRIPT 2023-08-30
-Microsoft Corp (MSFT US Equity)
-Page 13 of 13Q - Brad Zelnick
+Thanks for having me.Q - Brad Zelnick
 Cheers.

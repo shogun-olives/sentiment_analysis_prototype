@@ -26,9 +26,7 @@ you will hear about today: artificial intelligence and deep learning, next-gener
 compute architectures in automotive and next-generation gaming technology. The
 team had their press conference on Sunday. I've asked Colette to start us off with an
 overview of what Jensen unveiled Sunday night. And then we'll kick off the Q&A. So
-with that, Colette, thank you very much for joining us this morning.FINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11Colette M. Kress
+with that, Colette, thank you very much for joining us this morning.Colette M. Kress
 Thank you. Thank you, Harlan. So welcome. If you didn't get a chance to see our
 press announcements on Sunday night, I'll do a tiny bit -- a quick recap. We did start
 with a summary, what we have seen over this last year, it's been a year since the last
@@ -65,9 +63,7 @@ where we were about a year ago. So we are continuing our work in what is a very
 important area of the transportation transformation as we see forward. This is a big
 area where a business more than $10 trillion is going through a massive
 transformation, a transformation in terms of both the technology but the overall
-ability to use AI in terms of in the car.FINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Q - Harlan Sur
+ability to use AI in terms of in the car.Q - Harlan Sur
 A - Colette M. KressSo those were most of our announcements. We also announced key things with our
 overall gaming. We have big-format gaming displays with our G-SYNC monitors, 65-
 inch that you could probably come to the convention center and see our big screen
@@ -109,9 +105,7 @@ data center. So those expanded quite strongly. It is really not just about the o
 processor or the overall (chip) we have designed in terms of data center. The key
 important part that you spoke there is it is a full stock. It is a full stock, starting with
 the best processor on the planet, the best processor in terms of its overall
-capabilities. But it is uniquely positioned to expand and work in terms of with AI. AI isFINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Q - Harlan Sur
+capabilities. But it is uniquely positioned to expand and work in terms of with AI. AI isQ - Harlan Sur
 A - Colette M. Kressabout significant amount of data. We need a processor to be able to handle that
 (inaudible). But most importantly, there is also the significant amount of
 development work, the development software that is necessary. We keep an overall
@@ -157,9 +151,7 @@ see in terms of key industries. But it's probably the exact same industries that
 very focused right now in terms of the overall training market that we see. We've
 been focused in terms of on manufacturing. We've been focused on robotics. We've
 been focused on health care. We've been focused on the financial industry. These
-are very important things. One of the things that you see that keeps all thoseFINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Q - Harlan Sur
+are very important things. One of the things that you see that keeps all thoseQ - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Surindustries all together is the significant amount of data and their ability to apply AI to
 that to quickly -- (or to some of the answer if needed).
@@ -205,9 +197,7 @@ have an overall exponential growth into the overall value that we can actually
 extrapolate and probably from overall price points. But there's significant amount of
 work in terms of software development between here today and what we'll see into
 the next couple of years.
-FINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11A - Colette M. Kress
+A - Colette M. Kress
 Q - Harlan SurGreat. Why don't we change it up a little bit? I continue to like the core business,
 which is the gaming business. It's near and dear to my heart. My son is a big
 enthusiast gamer. Your gaming business is going to be up greater than 30%
@@ -254,9 +244,7 @@ Combined that with, as you mentioned, the second half of last year, which had a
 number of huge blockbuster games. And obviously, that's driving the strength in the
 GeForce business. But the interesting thing is that if we look at the first half of this
 year, there's actually more -- it's -- we're not seeing the normal seasonal pattern.
-There's actually more AAA blockbuster games coming out in the first half of thisFINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Colette M. Kress
+There's actually more AAA blockbuster games coming out in the first half of thisA - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Suryear: Far Cry 5, for example, hugely popular, launching in March; Metro Exodus,
@@ -301,9 +289,7 @@ generations of your AI and deep learning and HPC-based platforms, Volta was the
 first platform to be adopted by all of the cloud -- all of the major cloud service
 providers in the world. And back in May, again at the Analyst Day, you showed your -
 - the head of your data center business showed a pie chart, right, by customers in
-terms of enterprise, HPC, cloud service provider, where in terms of number ofFINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Colette M. Kress
+terms of enterprise, HPC, cloud service provider, where in terms of number ofA - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kresscustomers, CSPs were the smallest percentage. But my sense is that as it relates to
 the overall revenue contribution, they're much higher than that. And so I'm just
@@ -349,9 +335,7 @@ automotive business, it has been the lion's share of that has been the overall
 infotainment systems. Infotainment systems have been a great addition to the overall
 automotive industry. But it's reached a point in terms of its maturity. Most of the cars
 -- all of the major car companies all are providing infotainment systems, even in
-terms of their mainstream types of cars. Now when you think about the infotainmentFINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Harlan Sur
+terms of their mainstream types of cars. Now when you think about the infotainmentQ - Harlan Sur
 A - Colette M. Kresssystems that we concentrate on, the visual computer is a very key part of what we put
 together. And we will concentrate in terms of those premium types of areas.
 Meaning going in terms of all of the mainstream is probably not the area. But we will
@@ -398,9 +382,7 @@ we would say, "Let's move and create this large investment?" One, I don't think 
 need to, as our ability to support -- it is quite easy for us to do. But two, it still has
 market dynamics but not necessarily a (full payout) that we could see going forward.
 Right now, the current currencies support the use of GPUs. As you recall, going back
-to 2014, some of those currencies moved quite quickly in terms of (inaudible). We'llFINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Harlan Sur
+to 2014, some of those currencies moved quite quickly in terms of (inaudible). We'llQ - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress
@@ -441,6 +423,4 @@ appreciate you kicking off our conference. Thank you.
 
 All right. Thank you.
 
-Thank you.FINAL TRANSCRIPT 2018-01-09
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11
+Thank you.

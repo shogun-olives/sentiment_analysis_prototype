@@ -17,9 +17,7 @@ diversifying some of your market exposure.
 Maybe you can just give us a quick recap to begin with of where the Company
 stands in terms of maybe some of the changes you have implemented. I see you
 guys have reported earnings last week. Maybe just a broad picture of where we are
-at to start with.FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14Colette Kress
+at to start with.Colette Kress
 Steven Chin
 Sounds great. So we did -- we reported earnings about a week ago, indicating our
 Q3 financial results for the fiscal year. And a real strong quarter in terms of we
@@ -55,9 +53,7 @@ think about gaming.
 Or if we think about the datacenter and we think about what we want to provide to
 the consumer on the mobile, really reaching out and establishing the software
 around that and what it means for the ecosystem to grow. So we are very pleased.
-FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14Colette KressOkay. Thanks for that introduction. Maybe we could follow up with some of the
+Colette KressOkay. Thanks for that introduction. Maybe we could follow up with some of the
 comments you just mentioned on the platform strategy.
 In terms of NVIDIA transforming from a chip company into this platform-type
 company, could you tell us where you think we are, using the baseball analogy of
@@ -93,9 +89,7 @@ works seamlessly from generation to generation, that they can continue to use th
 design.
 We move, then, into the datacenter. And there is an extension as well of working with
 the key applications in high performance computing, the parallelism as well as our
-ability to program the overall GPU with our CUDA development platform that hasFINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14Steven Chin
+ability to program the overall GPU with our CUDA development platform that hasSteven Chin
 Colette Kressallowed us that stickiness and being able to solve customers' problems in the
 datacenter.
 We move to our mobile area and really taking what we have learned from the
@@ -132,9 +126,7 @@ has expanded to.
 In those areas, we hold a extremely strong market share in the gaming in Asia Pac,
 China, many of the parts of Europe, as well as in the US. And what we see is what
 they may have started in terms of a GPU and gaming at a price point earlier, several
-years ago, they continue to buy more and more advanced GPUs for better ASPs overFINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14Steven Chin
+years ago, they continue to buy more and more advanced GPUs for better ASPs overSteven Chin
 Colette Kressthat period of time. So we are seeing a mix really to that high end as one of the best
 overall platforms to do their gaming in terms of on the PC.
 Now when we think about the overall PC OEM, a little bit of a different dynamic.
@@ -171,9 +163,7 @@ Now the way we approach this was really certification with each of the OEMs for 
 GRID to take place in those different cloud environments. But more importantly, was
 working with key partners, such as Citrix as well as VMware, as those are some of the
 key virtualization providers across the world on both the client aspect as well as the
-backend server aspect.FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14Steven Chin
+backend server aspect.Steven Chin
 Colette KressSo over this period of time that we have had the GRID product available, we are
 working with each one of those partners to develop the software within their
 offerings that will allow that GRID opportunity to work seamlessly across the
@@ -210,9 +200,7 @@ the focus on machine learning, artificial intelligence. And really training the 
 applications and servers in terms of information. So Internet service provider or
 cloud service providers around the world really focused on the amount of data, both
 voice and video, traveling through their networks and wanting to really get a good
-understanding on how to tag all of that different information.FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14Steven Chin
+understanding on how to tag all of that different information.Steven Chin
 Colette KressAs you see with many service providers the use of voice recognition. And voice
 recognition across many different dialects and many different languages is very
 important.
@@ -249,9 +237,7 @@ know, when you enter into a sport on a gaming, it is something that they want to
 everywhere.
 You see more and more people doing this from a mobile aspect. So taking that same
 experience that they are doing on the desktop in their living room, they do want to
-move to a more mobile experience. As we have seen the expansion of AndroidFINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14Steven Chin
+move to a more mobile experience. As we have seen the expansion of AndroidSteven Chin
 Colette Kressgaming and high-end Android gaming as well, we have really worked on building
 that portfolio of Android games that go along with that experience to really benefit
 from the overall tablet.
@@ -290,9 +276,7 @@ desktop and the notebook all the way to our overall mobile platform. That helps 
 both from the engineering expense. But it also does help us in terms of the costing
 that it takes in order to build across our overall platform. So focusing on the cost
 element as well as our overall ASPs allows us the long-term focus on gross margin as
-healthy as we can possibly get it.FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14Steven Chin
+healthy as we can possibly get it.Steven Chin
 Colette Kress
 Steven Chin
 Okay. Thanks for sharing your thoughts on margins. Maybe just a follow-up on the
@@ -329,9 +313,7 @@ are very pleased with the results we've seen so far.
 Okay. Thanks for sharing that on the R&D investments. Maybe just a follow-up on
 some of that sales growth that you are seeing so far of the 15% year to date. Can you
 maybe share with us how the intellectual property revenues or the licensing business
-kind of fits into the overall business model and financials going forward?FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14Colette Kress
+kind of fits into the overall business model and financials going forward?Colette Kress
 Steven Chin
 Colette KressIt sounds like you will have a pretty balanced product solution business and then
 perhaps the IP licensing business. If you could share some thoughts on that, Colette.
@@ -367,9 +349,7 @@ moving to the balance sheet and some of the capital returns to shareholders. The
 program has been pretty successful so far, in our view. Maybe you can share your
 thoughts of how to balance dividends versus share buybacks and how you think we
 should think about return target as a percentage of free cash ﬂow from NVIDIA.
-FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14Steven Chin
+Steven Chin
 Q - Unidentified ParticipantGot you. So we're in fiscal year 2015. The Company had restarted their capital return
 program at the end of fiscal year 2013. Fiscal year 2014 and 2015 was an intent to
 return $1 billion in capital in each of those two years through a combination of both
@@ -404,9 +384,7 @@ Okay. Great. Thanks for sharing that. Why don't we see if -- we have got a few
 minutes left. Let's see if there is any questions from the audience.
 Questions And Answers
 (technical diﬃculty) Both obviously Tegra but as for the NVIDIA mobile efforts at this
-stage. (multiple speakers)FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14A - Colette Kress
+stage. (multiple speakers)A - Colette Kress
 Q - Unidentified Participant
 A - Colette Kress
 Okay. So when we think about our mobile strategy, tablets -- remember, there were
@@ -443,9 +421,7 @@ also our automobile strategy, which I think is another key aspect of our Tegra.
 So our focus on mainstream phones -- we have been pretty open about this, not
 necessarily our focus of a mainstream, just standard overall phone. We still have key
 design wins on phones that wanted to differentiate from many of the ones that are
-out there. And we do have that optionality if they want an integrated modem or not.FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14Q - Unidentified Participant
+out there. And we do have that optionality if they want an integrated modem or not.Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
 A - Colette Kress
@@ -483,9 +459,7 @@ our fiscal year 2018 or calendar 2017, in that manner.
 At that time, it is a question in terms of will it re-sign, will it re-sign differently, will it
 not re-sign. But at the same time, we have many different other types of agreements
 of those interested in the overall GPU core, those interested in certain aspects of our
-patent as well.FINAL TRANSCRIPT 2014-11-18
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14Q - Unidentified Participant
+patent as well.Q - Unidentified Participant
 A - Colette Kress
 A - Steven Chin
 A - Colette KressSo when we have more of a discussion of when those evolve, we will kind of come

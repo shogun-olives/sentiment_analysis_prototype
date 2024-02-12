@@ -23,9 +23,7 @@ And then we'll jump into questions, John. And talk a little bit about Windows 8 
 give some broader context.
 I mean, as we think about Windows 8 as a Company, it certainly is what we would
 describe as a big, ambitious change and perhaps one of the biggest for Microsoft.
-Certainly from a Windows perspective, it's the biggest change and the biggestFINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13Q - John DiFucci
+Certainly from a Windows perspective, it's the biggest change and the biggestQ - John DiFucci
 A - Tami Rellerendeavor, the biggest project since Windows 95. And it wasn't just a big, ambitious
 change for us. It was something that we needed to and wanted to take the
 ecosystem on that journey with us.
@@ -63,9 +61,7 @@ talk about other things. So if you could just clarify exactly what that means.
 
 Yes. And it is very straightforward and it's similar to -- it's identical, in fact, to how we
 talked about Windows 7 licenses. So it's OEM. It's sell into OEMs for new PCs, as well
-as upgrades. So it's upgrades and OEM licenses.FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13Q - John DiFucci
+as upgrades. So it's upgrades and OEM licenses.Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -105,9 +101,7 @@ So I guess since Steven left, you were there. Julie was there. I mean, has anyth
 below you changed as far as structure?
 
 I mean, there's been some changes because we needed to get things aligned. Less
-so in my world. A little bit more in engineering. But it's the same players.FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13Q - John DiFucci
+so in my world. A little bit more in engineering. But it's the same players.Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -149,9 +143,7 @@ up? What are the usage levels? I mean, we wanted to make sure that we were sort 
 very open to just watching exactly what was happening and evolving what we
 needed to evolve.
 And there's so many interesting things to talk about there. One of them is what --
-where there was demand at retail. And I think we all had a strong sense that uniqueFINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13Q - John DiFucci
+where there was demand at retail. And I think we all had a strong sense that uniqueQ - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -191,9 +183,7 @@ been some reviews that have been sort of negative out there but, at the same tim
 anything that's really very different takes time.
 
 It does.
-FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13A - Tami Reller
+A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
 Q - John DiFucciSo I guess, in your view at this point, I mean, I'm sure you had a different gauge on or
@@ -233,9 +223,7 @@ And it is.
 Trends or historical data. But how satisfied are you with the -- I guess quality of -- I
 mean, do they -- do the products today really exhibit the ability to really put
 Windows 8 forward in the kind of way that you want it to and/or what should we
-expect from the next, like, wave of new products coming out?FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13A - Tami Reller
+expect from the next, like, wave of new products coming out?A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
@@ -276,9 +264,7 @@ have the opportunity to really watch and watch carefully and learn and just get 
 right. And so, that was terrific to be able to do that and it was very rewarding just to
 be able to see customer reaction directly.
 We always had it in our plan to then start conversations with retailers about bringing
-Surface into broader distribution. What we found when we started to have thoseFINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13Q - John DiFucci
+Surface into broader distribution. What we found when we started to have thoseQ - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -320,9 +306,7 @@ corporation would live alongside Windows 8 devices in a fine fashion and that's
 exactly how we built the product. And we believed. And we're seeing that come true,
 that Windows 8 adoption would predominantly happen for two reasons. One is
 Windows 8 apps would be interesting to a corporation and they'd be building on
-the developer platform and therefore bring Windows 8 devices into either scenariosFINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13Q - John DiFucci
+the developer platform and therefore bring Windows 8 devices into either scenariosQ - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -362,9 +346,7 @@ business. And even in the small business, some of those small businesses really 
 like consumers --.
 
 That's right.
-FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13A - Tami Reller
+A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
@@ -402,9 +384,7 @@ That's right.
 
 Okay. Great.
 
-Yes. And essentially any organization with more than 5 PCs.FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13Q - John DiFucci
+Yes. And essentially any organization with more than 5 PCs.Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -444,9 +424,7 @@ changed the piracy dynamic. We definitely think that the value of Windows RT is 
 mostly in other areas other than that business objective. And so, we can -- and I say
 that because we continue to work on a number of programs with our partners, both
 our OEM partners, as well as the retail partners, to make sure that we get genuine
-into the hands of more customers and that's the primary objective.FINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13Q - John DiFucci
+into the hands of more customers and that's the primary objective.Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -486,9 +464,7 @@ $1.11. That was your drop-dead price, right?
 
 I guess the last question here. Microsoft -- I get asked this often. Microsoft as a
 hardware vendor. You've -- there was a lot speculation you might come out with a
-phone at one point. You came out with the Surface tablets. Is there -- should we beFINAL TRANSCRIPT 2013-01-08
-Microsoft Corp (MSFT US Equity)
-Page 13 of 13A - Tami Reller
+phone at one point. You came out with the Surface tablets. Is there -- should we beA - Tami Reller
 Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci

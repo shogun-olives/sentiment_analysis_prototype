@@ -16,9 +16,7 @@ Questions And Answers
 In this sort of setting, we've had sort of a 6; to 7-year unprecedented run in the
 semiconductor industry. And you guys have been right on the top of that
 unprecedented run. So I'm not sure there's many people in the room that aren't sort
-of somewhat aware of NVIDIA and what you do. But I always find it kind of nice toFINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14A - Colette M. Kressstart out a fireside chat by helping to level set everybody in the audience and on the
+of somewhat aware of NVIDIA and what you do. But I always find it kind of nice toA - Colette M. Kressstart out a fireside chat by helping to level set everybody in the audience and on the
 webcast. Maybe you can spend a few minutes just talking about your core IP, the 4
 end markets that you try to exploit and maybe in your own words, help to frame sort
 of the investment opportunity you see at NVIDIA for the audience.
@@ -65,9 +63,7 @@ technology, that same focus of artificial intelligence and applying that to the 
 self-driving cars and autonomous. We believe that is an AI problem in front of us.
 And we're here to solve it using the overall work that we have done with the data
 center as well. So our investments today, our investments in terms of building the
-future are really about continuing to focus on our gaming business, continuing toFINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14Q - John W illiam Pitzer
+future are really about continuing to focus on our gaming business, continuing toQ - John W illiam Pitzer
 A - Colette M. Kressbuild out and democratizing AI for all and also focus on self-driving cars as we move
 forward.
 
@@ -113,9 +109,7 @@ and also maintain continued investment back into the business to build the next 
 of things that we are doing. So that's what the basis of our $30 billion market was. It
 aligns also to Jensen's belief in terms of how many and what percentage of our
 workloads in the data center will probably be AI-enabled. The only question that we
-can't fill in is the time that it's going to take to get there.FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14Q - John W illiam Pitzer
+can't fill in is the time that it's going to take to get there.Q - John W illiam Pitzer
 A - Colette M. Kress
 That's helpful explanation. I think the other kind of question I get, especially from the
 naysayers, is that the GPU was -- has clearly dominated the AI space today. But from
@@ -161,9 +155,7 @@ would have gone and self-built a cluster inside one of those data centers to say
 supposed to get started with AI." Right now, all they have to do is go into the cloud,
 which one is their favorite cloud service provider and get an instance using an
 overall GPU, supporting each and every framework that is out there. We've enabled
-it. So within probably a matter of 15 minutes, you're ready to go.FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14Q - John W illiam Pitzer
+it. So within probably a matter of 15 minutes, you're ready to go.Q - John W illiam Pitzer
 A - Colette M. Kress
 Q - John W illiam Pitzer
 Colette, the other perspective I get, I'm sure you've heard it as well, is that the GPU
@@ -209,9 +201,7 @@ Well going back to your definition of the inference TAM being $15 billion. And I
 that's a best guess today, do you believe that your inferencing portfolio will be able
 to address all of that? Or are you only going to go after the portion of the inference
 market, which is sort of the harder part of the market. And leave the more
-commodity part to other architectures?FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14A - Colette M. Kress
+commodity part to other architectures?A - Colette M. Kress
 Q - John W illiam Pitzer
 A - Colette M. Kress
 Q - John W illiam Pitzer
@@ -257,9 +247,7 @@ guys have been evangelizing CUDA for over a decade. And it's created a good moat
 for you here in the near term. I think there's some skepticism about how sustainable
 that moat is. And the other question I would ask, is there a first movers advantage
 also in this space? And I look at the announcement you made earlier this week with
-GE and your partnership there on the health care side. Is there increasingly a domainFINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14A - Colette M. Kress
+GE and your partnership there on the health care side. Is there increasingly a domainA - Colette M. Kress
 Q - John W illiam Pitzer
 A - Colette M. Kressexpertise that becomes a barrier to entry as you work with these customers and
 specific industry verticals around AI?
@@ -305,9 +293,7 @@ we launched it, there was a tremendous amount of excitement around it. Folks cou
 not help to focus on the 10x improvement in terms of overall Pascal. But our launch,
 as we knew, was still a process of, yes, it's launched. We actually have to get samples
 to customers. Samples actually have to qualify that in terms of their infrastructure and
-give it a good test drive. So when we finished our Q2, we were extremely pleasedFINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14Q - John W illiam Pitzer
+give it a good test drive. So when we finished our Q2, we were extremely pleasedQ - John W illiam Pitzer
 A - Colette M. Kresswith our results of the overall company as a whole as we moved from about a 15-day
 into the quarter to a quarter where we had a material amount of our data center
 business on Volta. That means from launching samples, qualification, shipping and
@@ -352,9 +338,7 @@ on this, on how to do deep learning in terms of how, in terms of the code. And w
 each of our GTCs and then some, we continued to teach deep learning, which that is
 something that I don't think anyone of our competitors can really talk about. We are
 looked at in terms of how can you help us move forward. We're pleased with that
-endorsement. And we take it seriously. And I think it will benefit us going forward.FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14Q - John W illiam Pitzer
+endorsement. And we take it seriously. And I think it will benefit us going forward.Q - John W illiam Pitzer
 A - Colette M. Kress
 Q - John W illiam Pitzer
 But my last question on the data center before moving on into gaming, I know that
@@ -401,9 +385,7 @@ What is that overall TCO improvement that they will receive?
 Let's segue into the gaming part of the market, which is actually your largest single
 business at about 60% of revenue. And despite all the attention and excitement
 around the data center, if you just look at yourself as a stand-alone gaming company,
-you're still the fastest-growing semiconductor company over the last 3 to four years.FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14A - Colette M. Kress
+you're still the fastest-growing semiconductor company over the last 3 to four years.A - Colette M. Kress
 Q - John W illiam Pitzer
 A - Colette M. Kress
 Q - John W illiam PitzerYou've been able to grow this business at about a 20% CAGR, talking about the
@@ -447,9 +429,7 @@ you're doing. So we've been able to both benefit from the higher production valu
 of games that need a higher GPU. We've been able to benefit from the overall
 entertainment. But I think it's important to understand that gaming has also
 transitioned or transformed quite a bit over the last 10 years from what I've seen.
-FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14A - Colette M. Kress
+A - Colette M. Kress
 Q - John W illiam Pitzer
 A - Colette M. Kress
 Q - John W illiam Pitzer
@@ -493,9 +473,7 @@ thought in terms of our guidance of trying to make any statements otherwise, oth
 than, yes, we'll probably grow in total sequentially.
 
 And specifically to Switch, how do we think about the product growth from here?
-FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14Q - John W illiam Pitzer
+Q - John W illiam Pitzer
 A - Colette M. KressYes. I mean, Switch has been a tremendously successful product. We're very pleased
 both with our partnership with Nintendo, the success, the vision that they had, the
 work that we've jointly done together to make that a successful product. And we
@@ -542,9 +520,7 @@ We have the ability to serve that market. We can create a GPU quite easily for t
 market. And it can work out very well for us if we can do that for them. So we'll
 participate from that being easy. But I don't think we believe it has a tail to it or a full
 market but rather some tendencies. And we'll just have to see where this goes,
-meaning this may not be the last currency that we see.FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14Q - John W illiam Pitzer
+meaning this may not be the last currency that we see.Q - John W illiam Pitzer
 A - Colette M. Kress
 Q - John W illiam Pitzer
 Colette, my last question focuses more on the auto business. And if you look, I think
@@ -589,7 +565,5 @@ will be inside a car in 2020, 2021.
 
 Fantastic. I think we've run out of time in this session. But I really want to thank
 Colette and everyone for joining me this afternoon. This was very helpful. Thank you
-very much.FINAL TRANSCRIPT 2017-11-29
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14A - Colette M. Kress 
+very much.A - Colette M. Kress 
 Great. Thank you.

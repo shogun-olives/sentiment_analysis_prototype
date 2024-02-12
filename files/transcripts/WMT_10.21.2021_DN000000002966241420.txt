@@ -18,9 +18,7 @@ So with that, Suresh, thank you very much for joining us.
 Ed, thank you so much for having me. Really excited to be with you virtually.
 
 Yes, that's great. We'd love to hear a little bit about your background. I know, we saw
-you at Analyst Day, and I've heard your background, but maybe for the broaderFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 2 of 13Suresh Kumar
+you at Analyst Day, and I've heard your background, but maybe for the broaderSuresh Kumar
 Edward Yruma
 Suresh Kumaraudience, I think your background as a technologist at heart is super interesting and
 important asset to Walmart, we'd love to hear a little bit about it.
@@ -60,9 +58,7 @@ data, we have actually moved over 150 petabytes of data into the cloud, and this
 allowing us, not just to go a lot faster and to get deeper inside, but it's also allowing
 us to unleash the potential of AI and ML on all aspects of the business.
 So it's very, very exciting, cloud is really the underpinnings off all the digital
-transformation that we are pushing through.FINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 3 of 13Edward Yruma
+transformation that we are pushing through.Edward Yruma
 Suresh Kumar
 Edward Yruma
 Suresh Kumar
@@ -102,9 +98,7 @@ think you highlighted facilities maintenance.
 Right.
 
 I guess just stepping back from that though how can you create a more personalized
-consumer experience with machine learning and then over time, do you think that ifFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 4 of 13Suresh Kumar
+consumer experience with machine learning and then over time, do you think that ifSuresh Kumar
 Edward Yrumathey have a personal experience will drive better sales and profitability for the
 business?
 
@@ -145,9 +139,7 @@ actually drape the clothe on you. It uses similar technology to terrain mapping.
 becomes powerful because you combine that with Walmart data, and I think that is
 the exciting part of it -- it's going to have a very profound effect. Now it's already
 having that and it's going to continue to have that going forward.
-FINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 5 of 13Suresh Kumar
+Suresh Kumar
 Edward Yruma
 Suresh KumarYou know, Doug has always impressed us with his embrace of technology and being
 kind of forward-thinking, but as a technologist is it hard to get by other operating
@@ -189,9 +181,7 @@ technology to go faster, but it's not just over there. It's an areas that normal
 would not think off. We are now closing our financial books in three days, almost half
 time that it used to take us before and you can imagine the amount of complexity
 that we have got across Walmart, right. So being able to pull out that together and to
-be able to -- to close our books basically means that we get better insights into ourFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 6 of 13Edward Yruma
+be able to -- to close our books basically means that we get better insights into ourEdward Yruma
 Suresh Kumarbusiness and we are able to make decisions a whole lot faster. So eﬃciency,
 productivity, and insights, I think ultimately is making us be a lot more nimble, and
 we can react and we can serve our customers a whole lack better than what we were
@@ -234,9 +224,7 @@ very excited about, in not only the brand new recognition for us because we are 
 taking our technology, and we are now offering it for others, but we have done it
 such a way that through the Adobe partnership, not only other retailers can make
 use of that we have build order online pick up inside the store and those types of
-omni-solutions, but that also allows other retailers to quickly come on WalmartFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 7 of 13Edward Yruma
+omni-solutions, but that also allows other retailers to quickly come on WalmartEdward Yruma
 Suresh Kumar
 Edward YrumaMarketplace and to participate in the Walmart marketplace. So it's not just about
 building our technology and it's not just about taking the technology, modularizing
@@ -275,9 +263,7 @@ synthesize it, we've got modules that run over it and that informs us in terms o
 the next thing to do is.
 
 One of the questions we received from the audience and you can talk about your
-data commercialization initiatives and how you can monetize the data, maybe justFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 8 of 13Suresh Kumar
+data commercialization initiatives and how you can monetize the data, maybe justSuresh Kumar
 Edward Yruma
 Suresh Kumarzooming out even a bit more, advertising that was a big deal for the business, even
 Doug talked about that a lot. How does the relationship with Trade Desk work?
@@ -319,9 +305,7 @@ purpose of save money and live better.
 But it's also about the scale, having -- being a technologist at Walmart means that
 you get to work on problems that are very hard, that are -- I keep talking about data,
 ML all of these things, these are not just hard problems, but they are problems where
-working on those can have huge impact and you can have huge impact at scale,FINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 9 of 13Edward Yruma
+working on those can have huge impact and you can have huge impact at scale,Edward Yruma
 Suresh Kumar
 Edward Yruma
 Suresh Kumarright. And you combine that with purpose which is really about save money live
@@ -363,9 +347,7 @@ So again, I think the main thing is really about listening to our customers and
 reducing friction. And as far as checkout is concerned, we are trying to make
 checkout as easy as possible where the customers want it. So taking customer-first
 lens in technology, whether it is in Sam's or in Walmart, one thing became very, very
-clear, customers don't like to stand in long lines -- at the checkout lines. So that's theFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 10 of 13Edward Yruma
+clear, customers don't like to stand in long lines -- at the checkout lines. So that's theEdward Yruma
 Suresh Kumar
 Edward Yrumareason why we deployed -- we built and deployed Scan and Go and it solves a very,
 very big customer pain point that is available in Sam's Club and it is also now
@@ -406,9 +388,7 @@ Blockchain is going to continue to evolve over there.
 
 The questions we got from the audience is about how has digital transformation
 changed your technology choices in data and analytics. (inaudible) databases and
-analytics moving to the cloud or shifting in your types of data architectures?FINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 11 of 13Suresh Kumar
+analytics moving to the cloud or shifting in your types of data architectures?Suresh Kumar
 Edward Yruma
 Suresh Kumar
 Absolutely. I told you right, data is one of the key things that we are actively moving
@@ -452,9 +432,7 @@ is going to be -- to be through voice and voice is going to continue to become a
 very important part of it.
 We are already seeing that with our Sam's, we rolled that out for our associates and
 our associates just allow that feature where they can -- whatever information they
-want, they can just ask, right. So they don't need to go into the back room and findFINAL TRANSCRIPT 2021-10-21
-Walmart Inc (WMT US Equity)
-Page 12 of 13Edward Yruma
+want, they can just ask, right. So they don't need to go into the back room and findEdward Yruma
 Suresh Kumar
 Edward Yrumasomething and try to find an answer for it. On the shop ﬂoor, hey, how many items
 are there in the back room, and it will just tell you, and you know what to do about.

@@ -19,9 +19,7 @@ Thanks, Simona. Good morning. Welcome to our 2022 annual meeting, which will
 now oﬃcially come to order. Jensen will serve as Chairman and I will serve as the
 Secretary and conduct the procedural portion of the meeting. First, a few
 housekeeping items. We have opened the online portal for stockholders to vote
-their shares, and I'll make an announcement when the polls are about to be closed.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13Stockholders may ask questions during the meeting. If you have a question, please
+their shares, and I'll make an announcement when the polls are about to be closed.Stockholders may ask questions during the meeting. If you have a question, please
 enter it into the portal. As stated in our rules of conduct, the meeting is not to be
 used as a forum to present general, economic, political or other views that are not
 directly related to our business, the business of the meeting, or for matters of
@@ -59,9 +57,7 @@ approximately 78% of the shares outstanding which constitutes a quorum for today
 meeting.
 Each share of common stock is entitled to one vote. If you are eligible to vote and
 have not submitted your proxy, or if you want to change your vote, please vote
-online now. You do not need to vote if you have already sent in your sign proxy orFINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Jensen Huangvoted online or by telephone. Your votes will be counted automatically. The time is
+online now. You do not need to vote if you have already sent in your sign proxy orJensen Huangvoted online or by telephone. Your votes will be counted automatically. The time is
 11:07am and the polls are currently open for voting.
 There are five items of business for this meeting. First, the election of Rob Burgess,
 Tench Coxe, John Dabiri, Persis Drell, Jensen Huang, Dawn Hudson, Harvey Jones,
@@ -97,9 +93,7 @@ alternate over to Jensen for business update, following which we will answer
 stockholder questions.
 
 Thanks, Tim. The computer industry is going through the most significant change
-since the invention of the microprocessor. Artificial Intelligence is driving thisFINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13fundamental shift. AI is the most impactful technology force of our time. AI is about
+since the invention of the microprocessor. Artificial Intelligence is driving thisfundamental shift. AI is the most impactful technology force of our time. AI is about
 computers that learn from data to write software. AI is software that writes software.
 AI writes software differently, and the software written by AI is processed differently.
 Nvidia recognized this mean and pivoted the full force of our company to reinvent
@@ -137,9 +131,7 @@ We now serve over 3 million developers. Our products are available from every
 major computer maker and in every cloud. More than two -- more than 25,000
 companies have adopted our platform across $100 trillion worth of industries. Over
 the last year, we expanded our platform in new dimensions and directions as we
-added new chips, systems, and software that open new market opportunities.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13A couple of examples. Our new ORAN robotics processor is the central computer for
+added new chips, systems, and software that open new market opportunities.A couple of examples. Our new ORAN robotics processor is the central computer for
 a new generation of self-driving cars, trucks, Robo taxis, delivery robots, warehouse
 movers, farming robots and more. We created ORAN -- we created ORAN for a near
 future where everything that moves will have autonomous capabilities.
@@ -177,9 +169,7 @@ will be manufacturers of intelligence, and data centers will be their AI factori
 At GTC 2022, we announced the largest rollout of hardware in our history, the Nvidia
 H100 GPU is the new engine of the world's AI infrastructure. The Grace CPU
 Superchip, our entry into CPU, comes packed with one terabytes per second
-memory bandwidth, and twice the energy eﬃciency of high performance CPUs.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Grace moves and processes mountains of data. It's ideal for AI infrastructure, cloud
+memory bandwidth, and twice the energy eﬃciency of high performance CPUs.Grace moves and processes mountains of data. It's ideal for AI infrastructure, cloud
 and scientific computing.
 Grace and Hopper honor Grace Brewster Murray Hopper, a United States Navy Rear
 Admiral and pioneer of computer programming. She conceived a device
@@ -214,9 +204,7 @@ imagine a day when Omniverse connects tens of millions of designers, creators,
 roboticist and AI researchers. Nearly 30 years of Nvidia graphics physics simulation
 AI and computing expertise made Omniverse possible.
 We now have the engine for robotic systems, the next wave of AI. Robots are coming
-to help from stocking shelves and warehouses and retail stores, to deliveringFINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13A - Simona Jankowskigroceries to picking apples. In the future, most things that move will be robotic. That
+to help from stocking shelves and warehouses and retail stores, to deliveringA - Simona Jankowskigroceries to picking apples. In the future, most things that move will be robotic. That
 is they will sense, perceive the environment, reason, act or suggest an action.
 Nvidia Isaac is our platform for industrial robot robots. More than 700 customers and
 partners use Isaac to develop robots for ecommerce fulfillment, retail automation,
@@ -250,9 +238,7 @@ Questions And Answers
 
 Thanks, Jensen. We'll now move to Q&A. Let's start with a question we received from
 shareholders on how we see our growth potential this year and next year. Then a
-related one on how our strategy might change if the economy slows down.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13A - Jensen Huang
+related one on how our strategy might change if the economy slows down.A - Jensen Huang
 A - Simona Jankowski
 A - Jensen Huang
 We grew our revenue by a factor of four in just the last five years. As we look out
@@ -292,9 +278,7 @@ We have a very unique strategy in auto. Building an autonomous ﬂeet requires t
 computer systems; an AI Data Center to develop the AV software and an AV
 computer in the car to run the software. It also requires four major software stacks;
 the data collection and processing, model training, mapping and simulation, and the
-self-driving car application.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13A - Simona Jankowski
+self-driving car application.A - Simona Jankowski
 A - Jensen Huang
 A - Simona Jankowski
 A - Jensen HuangNvidia DGX super pod is our data center AI computer. Nvidia Drive Oran is our in car
@@ -334,9 +318,7 @@ mining activity surged, we worked hard to prioritize our limited GPU supply for
 gamers rather than miners.
 We did that in two ways. First, we create a crypto mining processors or CMP for
 professional miners. Last year, that contributed 2% of our total revenue, though we
-don't expect the meaningful contribution going forward.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13A - Simona Jankowski
+don't expect the meaningful contribution going forward.A - Simona Jankowski
 A - Jensen Huang
 A - Simona Jankowski
 A - Jensen HuangSecond, we implemented light hash rate technology to our GeForce GPUs to reduce
@@ -375,9 +357,7 @@ our chips and products, and those that affect our OEM and ODM products and
 systems, which contain our products.
 Both supply categories are needed for producing products for end-customer
 demand. Both have been a factor over the past few quarters, but only have the
-ability to -- we only have the ability to address the first one. So let me talk about that.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13A - Simona Jankowski
+ability to -- we only have the ability to address the first one. So let me talk about that.A - Simona Jankowski
 A - Jensen Huang
 A - Simona Jankowski
 A - Jensen HuangDemand has been exceeding supply across most of our businesses, particularly in
@@ -417,9 +397,7 @@ our stock buyback program. In Q1, we repurchased 8 million shares of our stock f
 $2 billion.
 Our board recently increased and extended our share repurchase program so that
 we are authorized to repurchase up to $15 billion through December 2023. We are
-committed to maintaining our dividend.FINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13A - Simona Jankowski
+committed to maintaining our dividend.A - Simona Jankowski
 A - Jensen HuangWith respect to the question on splitting our stock. We have split our stock five times
 since inception, most recently last year. We've reviewed this periodically. We
 consider a stock split if it is in the best interest of our shareholders.
@@ -458,9 +436,7 @@ predecessor. Our ampere GPU architecture is up to 20 times faster for AI, and up
 seven and a half times more energy eﬃcient than its previous generation. Our
 newest GPU, the Hopper-based H100, we take yet another giant leap forward.
 And operationally, we have a goal of sourcing 100% renewable electricity for oﬃces
-and data centers by the end of fiscal year 2025. And Voyager and Endeavour ourFINAL TRANSCRIPT 2022-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13A - Simona Jankowski
+and data centers by the end of fiscal year 2025. And Voyager and Endeavour ourA - Simona Jankowski
 Operatornewest headquarter buildings are designed to be LEED Gold certified. Several green
 features will keep energy nearly 30% lower than other facilities of a similar slides.
 

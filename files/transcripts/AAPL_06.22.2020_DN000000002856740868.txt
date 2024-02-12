@@ -9,9 +9,7 @@ whole new way to all of you around the world directly to your home. And we want 
 welcome you to our home here at Apple Park.
 I'd like to first talk to you about two big things that are happening in the world right
 now. To start, I want to address the topic of racism, inequality and injustice, and to
-recognize the pain being felt throughout our nation, especially in our black andFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 2 of 35Craig Federighibrown communities after the senseless killing of George Floyd. And while the events
+recognize the pain being felt throughout our nation, especially in our black andCraig Federighibrown communities after the senseless killing of George Floyd. And while the events
 of this past month are sadly not new, they have caused us to face long-standing
 institutional inequalities and social injustices. This country was founded on the
 principles of freedom and equality for all.
@@ -50,9 +48,7 @@ breakthrough ways.
 With that let's get started by sending it [ph] over to Craig.
 
 Good morning. Great to have you here. As you can see we've got a lot to cover, so
-let's get started with iOS. Together with iPhone iOS is central to how we navigate ourFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 3 of 35lives and stay connected. And now we're making it even more powerful and easier to
+let's get started with iOS. Together with iPhone iOS is central to how we navigate ourlives and stay connected. And now we're making it even more powerful and easier to
 use. Our new release is iOS 14. This year we spent time rethinking some of the most
 iconic elements of the experience on iPhone. And we started here with a carefully
 considered home screen that has truly stood the test of time.
@@ -90,9 +86,7 @@ And below are intelligently curated categories. So I can tap into a category lik
 Apple Arcade and see all of my apps in that category. Well, now let's go back. You
 may notice that in each of these categories the apps I use most are right here at the
 top level. So I can launch one of these directly with just a tap. So that's App Library.
-We think this is going to make it easier than ever to get to your apps.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 4 of 35Next, let's turn to widgets. Today, widgets help me get information at a glance. But a
+We think this is going to make it easier than ever to get to your apps.Next, let's turn to widgets. Today, widgets help me get information at a glance. But a
 lot has changed, since we first introduced these. Now we have Apple Watch, where
 we're able to surface so much information on a small screen that you wear on your
 wrist. Well this year we're taking all that we've learned to create a completely re-
@@ -132,9 +126,7 @@ what's cool if I can also swipe it to the side and the audio keeps playing when 
 screen. Now here on the home screen, I can bring it back out if I want and I have
 controls to get back to full screen playback or I can just tap the X to close it. And
 that's picture-in-picture video. It's a great way to continue enjoying your video while
-tapping into everything else your iPhone can do for you.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 5 of 35Yael GartenAnd that's a quick look at the updates to the core elements of iOS. We think these
+tapping into everything else your iPhone can do for you.Yael GartenAnd that's a quick look at the updates to the core elements of iOS. We think these
 new features are going to make iOS even more hep in a moment. Another iconic
 experience that's getting a major update is Siri. As much as Siri's advanced over the
 years the visual interface for interacting with it has remained largely unchanged.
@@ -174,9 +166,7 @@ They want to have entire conversations and we believe conversations between
 languages should feel natural and easy and have the ability to stay private. That's
 why we are introducing a new app called Translate. It is designed to be the best and
 easiest to use app for conversations and it can work completely oﬄine, keeping your
-conversations private. Using advanced on-device machine learning and the powerfulFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 6 of 35Craig Federighi
+conversations private. Using advanced on-device machine learning and the powerfulCraig Federighi
 Stacey Lysikneural engine, you can translate your text and voice between any combination of
 these 11 languages.
 So I could have a conversation with someone in Mandarin and they could have a
@@ -214,9 +204,7 @@ way of using Memoji is with Memoji stickers. And now we have three brand new
 Memoji stickers that let you send a hug, a fist bump, or even a blush to your friends.
 Last let's chat about groups. When you're talking to a group sometimes there so
 much going on it can be hard to keep track of the conversation. So this year we're
-going to help you bring order to the chaos. First, we're adding in line replies that letFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 7 of 35Craig Federighi
+going to help you bring order to the chaos. First, we're adding in line replies that letCraig Federighi
 Meg Frostyou apply directly to a specific message. You can view replies in the full conversation
 or you can view them as their own thread. So you can focus in on the specific topic.
 To make it even more clear who a message was met for we're introducing mentions.
@@ -255,9 +243,7 @@ places they love and help them get to where they're going in ways that are bette
 the environment. To tell you more, I'll hand it off to Meg Frost.
 Thanks, Craig. First let's talk about finding great places. We've millions of ways [ph]
 to discover great new places, whether they're planning their next big vacation or just
-looking for something to eat nearby.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 8 of 35Craig FederighiIn iOS 14 the Maps team will be working with some of the world's most trusted
+looking for something to eat nearby.Craig FederighiIn iOS 14 the Maps team will be working with some of the world's most trusted
 brands to offer amazing guides; guides for great places to eat, shop, meet friends or
 exploring cities around the world. You can save guides, you can easily get back to
 them later and the best part is that they automatically update when new places are
@@ -297,9 +283,7 @@ Thanks, Meg. And now on to CarPlay, which has transformed the driving experience
 for iPhone owners by being a smarter, safer way to use the apps you love in your car.
 CarPlay is everywhere and it's incredibly popular. Here in the US, it's available on
 basically every new car. And worldwide, it's available on over 80% of new cars sold
-and has quickly become the default in-car experience for so many people. PeopleFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 9 of 35Emily Schubert
+and has quickly become the default in-car experience for so many people. PeopleEmily Schubert
 Craig Federighilove CarPlay and we get some really passionate reactions. Joanna Stern says it
 makes her life infinitely better. We have some great updates for iOS 14.
 First up, we have new wallpaper options, perfect for the car, and we're adding
@@ -338,9 +322,7 @@ of experiences we can truly say that for everything we want to do, there is an a
 that. So now it's time for us to extend the success of the App Store and make apps
 available and accessible in whole new ways.
 What if you could have the right app you needed at just the right moment? Let's
-look at what it would be like if you did.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 10 of 35(Video Presentation)
+look at what it would be like if you did.(Video Presentation)
 An app clip is a small part of an app. It's a light and fast and easy to discover, so you
 can quickly get what you need right when you need it. Everything about App clips is
 designed for speed. They start with this card which quickly pops up and with just a
@@ -379,9 +361,7 @@ widgets right on the home screen and a new way to organize your apps with the ap
 library. It has incredible updates to some of the most popular apps with powerful
 improvements to messages and maps and introduces a whole new way to tap into
 apps with App clips.
-And next up, iPad OS.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 11 of 35Joshua Shaffer(Video Presentation)
+And next up, iPad OS.Joshua Shaffer(Video Presentation)
 Okay. We've made it. All right, well, let's jump right in. iPad OS builds on all the
 amazing features of IOS, while adding unique capabilities that deliver a distinct
 experience for iPad, like using Apple pencil for taking notes, markup, an illustration,
@@ -418,9 +398,7 @@ quick and easy access to all your folders. And files where we've consolidated
 navigation into the sidebar for a streamlined new design. We've also streamlined the
 toolbars adding new drop down menus that consolidate functions into a single easy
 to access button. I can just tap to change views like this. And for even quicker access
-I can just tap and drag to change the sort order all in a single motion.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 12 of 35Craig FederighiYou'll find the same approach across other apps like calendar, where we've brought
+I can just tap and drag to change the sort order all in a single motion.Craig FederighiYou'll find the same approach across other apps like calendar, where we've brought
 controls into a single toolbar at the top providing more space for your content and a
 single unified place to access all the apps functionality. Finally music has been
 updated to take even better advantage of iPad's large screen. The sidebar in music
@@ -460,9 +438,7 @@ and you can get to your web search results with just a tap. And search now makes
 navigating to your favorite websites, just as easy as launching an app. Just type a few
 letters and then tap it will take you right to Safari. So those are some of our updates
 to the iPad experience and of course you get the new widgets and all the other great
-App enhancements from iOS 14.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 13 of 35Jenny ChenNext, we want to push forward your ability to express yourself creatively, with
+App enhancements from iOS 14.Jenny ChenNext, we want to push forward your ability to express yourself creatively, with
 improvements to Apple Pencil. Apple Pencil is a game changing tool that turns iPad
 into a professional drawing canvas, a great way to mark up and sign documents and
 the ultimate note taking device. What many people love most about taking notes
@@ -501,9 +477,7 @@ works in any tax field. So I can easily add a new reminder to my shared reminder
 with my husband. I've also been learning Chinese. So I want to surprise him with
 some of my progress and skills. I use scratch and delete light. And then I can use
 Scribble to write new, and then light fixture in Chinese. You'll notice how Scribble
-recognizes both English and Chinese, in the same line.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 14 of 35Craig Federighi
+recognizes both English and Chinese, in the same line.Craig Federighi
 Mary-Ann IonascuAnd this also means that we can build on this technology to deliver other great
 features like data detectors. We can automatically detect what you write, like phone
 numbers, so I can make a phone call or addresses, so I can look up directions. We
@@ -541,9 +515,7 @@ experience.
 By applying directional audio filters and suddenly adjusting the frequencies each ear
 receives we can play sounds virtually anywhere in space, creating an immersive
 surround sound experience. But to truly deliver on this promise, we had to factor in
-real life situations. First people move their heads. For an authentic surround soundFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 15 of 35Craig Federighi
+real life situations. First people move their heads. For an authentic surround soundCraig Federighi
 Kevin Lynchexperience, you need the sound field to stay fixed. So the voice feels like it's coming
 from the actor and not some random point in space.
 So we used the accelerometer and gyroscopes in AirPods Pro to track the motion of
@@ -580,9 +552,7 @@ for your favorite beach. Or new parents can use Glow Baby to see nap, changing a
 feeding times all in one phase, while Nike run club can display stats like pace from
 your last run and your weekly run goals.
 We're also bringing rich complications to more phases, including a fresh
-chronograph phase with an integrated tech emitter and an updated extra-large faceFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 16 of 35Julz Arneywith a huge rich complication, right in the center. And configuring watch faces has
+chronograph phase with an integrated tech emitter and an updated extra-large faceJulz Arneywith a huge rich complication, right in the center. And configuring watch faces has
 been redesigned, so you can easily select which information you'd like to see. As
 developers with watchOS 7, you can now build your rich complications with native
 SwiftUI.
@@ -620,9 +590,7 @@ the most accurate credit for dance represented a unique challenge. Our movements
 aren't always repetitive or synchronized leg movements, like in running and walking.
 The solution was to use advanced sensor fusion. In dance, we combine data from the
 accelerometer and the gyroscope to detect the difference between dancing with just
-your arms, just your lower body or when you put it altogether and dance with yourFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 17 of 35Kevin Lynch
+your arms, just your lower body or when you put it altogether and dance with yourKevin Lynch
 Vera Carrentire body. Then we add in heart rate data for the most accurate calorie burned
 calculation.
 WatchOS 7 also tracks accurate calories for core training, those exercises for your abs
@@ -661,9 +629,7 @@ screen experience and turns on do not disturb for you. You can also setup shortc
 for simple things you may like to do to help you prepare for bed. These might
 include using your favorite meditation app or playing relaxing music. Once it's time
 for bed, your screen will dim and your watch will go in to sleep mode, which looks
-like this.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 18 of 35Kevin Lynch
+like this.Kevin Lynch
 Craig FederighiThe screen will be off during time of bed, so it won't bother you and a tap displays
 this simple face. When it's time to wake up, you have a selection of gentle and
 effective alarm sounds or a silent tactic only wake up, alarm, so you don't disturb
@@ -702,9 +668,7 @@ First, data minimization. We use innovative technologies and techniques to minim
 the personal data we or anyone else can access. Second on-device intelligence. We
 avoid data collection by processing as much of your information on your device as
 we can, rather than sending it to a server. Third, security, security protections are
-foundational to everything we do in privacy. And finally transparency and control. ItFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 19 of 35Katie Skinner
+foundational to everything we do in privacy. And finally transparency and control. ItKatie Skinner
 Erik Neuenschwander
 Katie Skinner
 Erik Neuenschwanderhelps you better understand the data being collected so that you can make your
@@ -739,9 +703,7 @@ Last, let's talk about app privacy. Today we require that apps have a privacy po
 Wouldn't it be great to even more quickly and easily see a summary of an apps
 privacy practices before you download it. Now where we've seen something like that
 before? For Food you have nutrition labels. You can see if it's packed with protein or
-loaded with sugar or maybe both, all before you buy it. So we thought it would beFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 20 of 35Katie Skinner
+loaded with sugar or maybe both, all before you buy it. So we thought it would beKatie Skinner
 Erik Neuenschwander
 Craig Federighi
 Yah Casongreat to have something similar for apps. We're going to require each developer to
@@ -776,9 +738,7 @@ devices. Already there is a risk ecosystem of devices available, but we want to 
 it even easier to build products that work across more homes. So we formed an
 alliance and partnered with Amazon, Google and other industry leaders to define a
 new interoperability standards for the smart home. We open sourced HomeKit to
-ensure ease of use and privacy are core to this effort.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 21 of 35Cindy LinAnd any accessory using HomeKit or this new standard will work incredibly well
+ensure ease of use and privacy are core to this effort.Cindy LinAnd any accessory using HomeKit or this new standard will work incredibly well
 across all your Apple devices and you control it all in the home app, the most secure
 way to manage your smart home. Adding new devices to your home has never been
 easier. Simply tap or scan to set up an accessory, and in iOS 14 after you add an
@@ -817,9 +777,7 @@ Thanks, Yah. Apple TV is my favorite way to unwind and enjoy entertainment with 
 family. With 4K, HDR, Dolby Vision and Dolby Atmos, you get a theater-like
 experience right in your living room, making all your movies and shows look and
 sound amazing. But Apple TV goes beyond video. You can access the entire Apple
-music collection and even sing along with timed lyrics. You can play an incredibleFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 22 of 35Craig Federighiselection of games, including all the games in Apple Arcade and we're making
+music collection and even sing along with timed lyrics. You can play an incredibleCraig Federighiselection of games, including all the games in Apple Arcade and we're making
 gaming on Apple TV even more personal by extending multi-user support.
 Now you can instantly resume your games exactly where you left off. Just open
 control center to switch between users and you can now see your game progress,
@@ -855,9 +813,7 @@ introduction, macOS has revolutionized the experience of using a computer, by
 combining incredible power with incredible ease of use. And it's loved by all
 different types of users from families and students to creative pros, business people
 and of course software developers. And this year, we're taking the macOS
-experience you love even further.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 23 of 35Alan Dye
+experience you love even further.Alan Dye
 Craig FederighiBut what should we call it. Well, if you're student of macOS, you know this question
 can only be answered by Apple's legendary crack marketing team. Their drug-fueled
 mini driven vision quest have yielded some great names and sadly spawned a host
@@ -896,9 +852,7 @@ unique.
 This OS reﬂects an important history. It's familiar but it's also entirely new in every
 detail. We love the mac, is the tool we use to make all the products that we put out
 into the world and macOS Big Sur is where it starts.
-FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 24 of 35So that's the thinking behind our new design. Now, let me show it to you in action
+So that's the thinking behind our new design. Now, let me show it to you in action
 with a demo.
 As Alan said we've refined some of the most iconic elements of the mac experience.
 Let's start with the dock. It has its elegant new design that ﬂoats along the bottom of
@@ -936,9 +890,7 @@ Notification Centre. You can access it by clicking on the time in the upper righ
 as you see we now have a single view that brings your notifications and widgets
 together all in one place.
 We now group related notifications together. You can easily expand them to take a
-closer look or clear them all out in one step and we're bringing our redesignedFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 25 of 35widgets to the mac. They're really beautiful. And you have all new ways to customize
+closer look or clear them all out in one step and we're bringing our redesignedwidgets to the mac. They're really beautiful. And you have all new ways to customize
 them. I'm just going to click edit widgets down here at the bottom. You can see I
 have a gallery of all my widget and they come in a variety of sizes. I can select
 between them just like this and developers can bring their own widgets as well, like
@@ -977,9 +929,7 @@ coming in the all-new Apple Maps on the mac.
 Next, let's talk about Mac Catalyst. Catalyst gives developers, a big head start in
 creating a mac App from an iPad app. Take for instance our recent release of Swift
 Playgrounds for Mac Catalyst gave us a big head start creating the App and we were
-able to spend our development time crafting a great mac experience.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 26 of 35Today, we have some improvements to Mac Catalyst I'd like to share. This year,
+able to spend our development time crafting a great mac experience.Today, we have some improvements to Mac Catalyst I'd like to share. This year,
 developers will be able to optimize their apps to fully utilize the native resolution of
 the mac screen, providing total control of every pixel. We've also given developers
 new capabilities, including powerful new menu and keyboard APIs and updated
@@ -1019,9 +969,7 @@ other browsers. And we're building an all new category in the Mac app store to
 showcase Safari extensions so users can easily find them. Now extensions are very
 powerful but can introduce privacy challenges.
 In other browsers, extensions can access every page you visit, every tab you open,
-even everything you type. So we're doing even more here. In Safari, you chooseFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 27 of 35Beth Dakinwhich sites each extension can work with. And you can even give them access just
+even everything you type. So we're doing even more here. In Safari, you chooseBeth Dakinwhich sites each extension can work with. And you can even give them access just
 for the day, just for the website or all the time, but improved performance, power
 eﬃciency and privacy protections are only the start. We have a whole slew of new
 features this year from a customizable start page to redesigned tabs that are more
@@ -1059,9 +1007,7 @@ trackers that Safari protected me from on this web page. I can click here to see
 of the known trackers right here in this pop over and the full privacy report is just
 one click away. And that's what we have for privacy in the new Safari.
 Next I'd like to talk about Tabs. If you love tabs, you're going to love the new safari.
-It's easier and more eﬃcient than ever to work with lots of tabs. So I have anotherFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 28 of 35Craig Federighi
+It's easier and more eﬃcient than ever to work with lots of tabs. So I have anotherCraig Federighi
 Tim Cookwindow here and right away, you'll notice that there are icons and tabs which makes
 it so easy to spot what you're looking for. And if I open more tabs, then you'll see
 more of them at once, because the tabs get smaller and uses the space more
@@ -1098,9 +1044,7 @@ forward for the mac. Because today is the day we are announcing that the mac is
 transitioning to our own Apple silicone. When we make bold changes, it's for one
 simple yet powerful reason. So we can make much better products. When we look
 ahead, we envision some amazing new products and transitioning to our own
-custom silicon is what will enable us to bring them to live.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 29 of 35Johny SroujiAt Apple, integrating hardware and software is fundamental to everything we do.
+custom silicon is what will enable us to bring them to live.Johny SroujiAt Apple, integrating hardware and software is fundamental to everything we do.
 That's what makes our products so great and silicon is at the heart of our hardware.
 So having a world-class silicon design team is a game changer. To tell you more
 about Apple's silicon and how it will take mac to the next level, I'd like to send you
@@ -1138,9 +1082,7 @@ performance per watt. And it makes each of them best in class. And we do this at
 enormous scale.
 In fact, adding all of the processors across these three products, we shipped over 2
 billion in just 10 years. And we've designed and shipped billions of additional chips,
-that work together with ours SoCs to enable our amazing products. And now we'reFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 30 of 35Craig Federighibringing all of that expertise and that same focused and disciplined approach to the
+that work together with ours SoCs to enable our amazing products. And now we'reCraig Federighibringing all of that expertise and that same focused and disciplined approach to the
 mac.
 The first thing this will do is give them the mac a whole new level of performance.
 Now when we talk about performance, we have to talk about power, because all
@@ -1179,9 +1121,7 @@ To tell you more about how macOS will earn on Apple SoCs here is my colleague,
 Craig.
 
 Thanks, Johny. Now let's talk about the technologies that we built into macOS Big
-Sur that will make the transition to Apple silicon smooth and seamless for bothFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 31 of 35consumers and developers. These new mac systems will be incredible and users will
+Sur that will make the transition to Apple silicon smooth and seamless for bothconsumers and developers. These new mac systems will be incredible and users will
 want their favorite apps to take full advantage of the capabilities of our custom
 silicon and the best way to do that is with native apps.
 So of course, when we updated our apps for Big Sur, we built everything as native
@@ -1219,9 +1159,7 @@ Creative Cloud to our new macs.
 Here's Lightroom running native on Apple silicon, navigating large libraries of D&G
 images is super-fast and all of Lightroom's editing controls are available right here.
 Let's apply an adjustment to this image. Well, that's much better and we can apply
-that same edit to all of these images in a single step. Looks great.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 32 of 35Next let me show you the App. I know many of you want to see, Photoshop. Here's a
+that same edit to all of these images in a single step. Looks great.Next let me show you the App. I know many of you want to see, Photoshop. Here's a
 5 gigabyte Photoshop filed by photographer Steven Wilkes. Now this is a heavy duty
 document with lots of layers. Now let's add one more bird in there. Not totally
 comfortable with the level of social distancing but let's keep going. And let's check
@@ -1262,9 +1200,7 @@ Rosetta 2 is transparent to users and the performance is amazing. We're also
 introducing new virtualization technologies in macOS Big Sur. So for developers who
 want to run other environments like Linux or tools like DARCO [ph], we have you
 covered. When you put all of these technologies together, Universal, Rosetta and
-virtualization, you will have a system that can run an amazing diversity of apps.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 33 of 35Andreas Wendker
+virtualization, you will have a system that can run an amazing diversity of apps.Andreas Wendker
 Craig FederighiTo show you how this all comes together, I'll hand it over to Andreas Wendker.
 Thanks, Craig. Let's take a look at some existing apps running under Rosetta. Rosetta
 of course works great with all sorts of apps that use her every day, but for our first
@@ -1302,9 +1238,7 @@ support for iPhone and iPad app, giving you just amazing versatility for running
 and other environments this macOS on Apple Silicon. Back to you, Craig.
 
 Thanks, Andreas. As you saw, macs built with Apple silicon will be able to run iPhone
-and iPad apps directly. Starting day one, users can download these apps right fromFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 34 of 35Tim Cookthe mac App Store and most apps will just work with no changes from the developer.
+and iPad apps directly. Starting day one, users can download these apps right fromTim Cookthe mac App Store and most apps will just work with no changes from the developer.
 With everything we're doing, the range of apps that users will be able to run on
 these new macs is truly unprecedented.
 Together, we have all the technologies in place to make this an amazing transition.
@@ -1343,9 +1277,7 @@ Apple silicon, by the end of this year and we expect the transition to take abou
 years.
 We plan to continue to support and release new versions of macOS for Intel-based
 macs for years to come. In fact, we have some new Intel-based macs in the pipeline
-that we're really excited about. What a huge leap forward for the mac and for Apple.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 35 of 35Apple silicon will bring amazing technologies, industry leading performance and a
+that we're really excited about. What a huge leap forward for the mac and for Apple.Apple silicon will bring amazing technologies, industry leading performance and a
 common architecture across all of our products.
 What an incredible day of announcements. As you've seen, we haven't stopped
 innovating. We pushed all of our platforms forward in some amazing new ways. Our

@@ -23,9 +23,7 @@ significant growth opportunity in GeForce and Omniverse.
 First, we've had record PC gamers. If you've seen in the previous part of this week,
 Steam had announced that the concurrent users on Steam had reached record
 levels. Additionally, we have the creator Metaverse economy in front of us. Recently,
-companies such as Nike and Gucci have announcements in the Metaverse, a big riseFINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 10of inﬂuencers and broadcasters. This is aligned to our strategy here with both studio
+companies such as Nike and Gucci have announcements in the Metaverse, a big riseof inﬂuencers and broadcasters. This is aligned to our strategy here with both studio
 and Omniverse.
 But some of the announcements that we did at CES yesterday regarding gaming and
 Omniverse. First, the new laptop inclusive of GPUs. Laptops that we discussed are
@@ -63,9 +61,7 @@ by more than 100,000 creators. Today's there -- today, there is 14 connectors to
 applications like Autodesk and Autodesk Maya, and Epic Games' Unreal Engine.
 So these are important announcements that we've made just here now at CES this
 year, but we also took this opportunity to talk about Auto. Auto has seen an
-important inﬂection in the world of electric vehicle adoption. This will benefit ourFINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 10Q - Harlan Surbusiness as we start shipping Orin this year, as our designs with -- design wins with
+important inﬂection in the world of electric vehicle adoption. This will benefit ourQ - Harlan Surbusiness as we start shipping Orin this year, as our designs with -- design wins with
 Orin in electronic vehicles are significant.
 In China and U.S., they are positioned as tech companies with software-defined
 strategy, these new electronic vehicles. Hyperion 8 adoption opened up the
@@ -101,9 +97,7 @@ their revenues 20%, 25% in calendar '21. If you hit your guidance this quarter, 
 team is set to grow its business 60% plus in calendar year '21. So, quite a bit of
 upside relative to prior expectations and the Street has to team up another 18% to
 20% for this calendar year, which is your fiscal '23. Help us understand the trends
-and product cycles that are going to drive your fiscal '23 and longer term? HowFINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 10A - Colette M. Kress
+and product cycles that are going to drive your fiscal '23 and longer term? HowA - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kressshould we think about the overall growth profile for the different business segments,
 gaming, data center, ProVis and automotive?
@@ -144,9 +138,7 @@ gap?
 
 Sure. Over this last fiscal year, we've been working on our supply chain as well as our
 ecosystem supply chain each quarter to make great progress as right now, we see
-strong demand and we've experienced that across the board. Our demand hasFINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 10Q - Harlan Sur
+strong demand and we've experienced that across the board. Our demand hasQ - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Surexceeded our supply, primarily in our gaming business throughout this year, but we
 were able to continue to grow our gaming business this last fiscal year, each and
@@ -187,9 +179,7 @@ year. It's targeted to be up about 30% year-over-year, which is consistent with 
 view that hyperscalers will be a strong driver of the data center business this year.
 Combine this with continued strong enterprise adoption, strong networking demand
 pull, can the team continue to drive its data center growth profile sort of north of
-30% this year you think?FINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 10A - Colette M. Kress
+30% this year you think?A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress
 Yes. In our data center business, we're at this point dedicated to build the best
@@ -233,9 +223,7 @@ couple months ago. So now as we look at Enterprise AI software, it's available f
 Enterprises to take advantage of our full stack of AI software that we use here at
 NVIDIA, also having it aligned with VMware to enable the easy deployments.
 Omniverse Enterprise is also in general availability. We're seeing 700 companies
-evaluate, we're seeing more than 70,000 downloads as well.FINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 10Q - Harlan Sur
+evaluate, we're seeing more than 70,000 downloads as well.Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress
@@ -277,9 +265,7 @@ We will certainly -- yes, we will certainly through this time be able to help ou
 investors, both to understand our progress that we have made with metrics along
 the way. And at some point in the future, we'll be able to comment in terms of the
 absolute size.
-FINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 10A - Colette M. Kress
+A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan SurGreat. Thank you for that. Let's touch upon gaming. So 45% of your overall business,
@@ -321,9 +307,7 @@ just about an important architecture on the chip, it is about a full ecosystem
 surrounding our overall chip for the consumer industry. Now what we have seen is
 our performance and our overall architecture outperform them and we'll continue to
 work on doing that as we move forward.
-FINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 10A - Colette M. KressPerfect. Let's talk about Metaverse and Omniverse. You know there's been lots of
+A - Colette M. KressPerfect. Let's talk about Metaverse and Omniverse. You know there's been lots of
 discussion obviously on the Metaverse or what NVIDIA terms Omniverse. This is not
 a new concept, right, for the NVIDIA team. You've been helping customers in the
 automotive markets, for example, enable 3D simulations, digital driving
@@ -364,9 +348,7 @@ working group at a higher price point for them to receive the software. But the
 software will have a multiplier -- a multiplier of the systems and the chips that will be
 important for enabling these environments. It could be a multi-billion opportunity
 over time. But as we move into fiscal year '23, we're going to start to see the onsets
-of Omniverse from an infrastructure and the beginning of the software purchasing.FINAL TRANSCRIPT 2022-01-05
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 10Q - Harlan Sur
+of Omniverse from an infrastructure and the beginning of the software purchasing.Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
 Perfect. Well, unfortunately, Colette, we're just about out of time. I want to thank you

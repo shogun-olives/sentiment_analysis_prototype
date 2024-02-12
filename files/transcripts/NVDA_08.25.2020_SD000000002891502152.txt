@@ -15,9 +15,7 @@ Pleasure to talk about today. You just reported earnings last week, it was.
 So maybe we can just start off with the near term real quick. What are you expecting
 for the business in the near term?
 And what is visibility for the various segments?
-If you could please start off with that?FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 19A - Colette KressThank you.
+If you could please start off with that?A - Colette KressThank you.
 
 Yes.
 So let me just start off for the group as a whole that says what has NVIDIA been
@@ -50,9 +48,7 @@ growth for the overall Mellanox platform.
 It also is included in many of our products that we are bringing to market, both our
 A100 DGX or DGX SuperPOD or future EGX as well as our AGX overall product set.
 So even during what we are dealing with here in California, remember, the
-worldwide is dealing to execute within the overall pandemic.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 19A - Ambrish SrivastavaWe did quite well during that, integrating overall Mellanox, overall launching the
+worldwide is dealing to execute within the overall pandemic.A - Ambrish SrivastavaWe did quite well during that, integrating overall Mellanox, overall launching the
 A100, bringing DGXs, producing our Selene DGX SuperPOD as well as a lot of
 different multiple software stacks that were also put to market.
 So we delivered a strong quarter. And keep in mind, most all of our employees
@@ -83,9 +79,7 @@ So that's kind of a summary of what we're seeing or hope to see in the near-term
 future as we look at Q3.
 
 Great. Thank you. I actually then wanted to focus on a few of the longer-term trends
-with the business segment.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 19A - Colette KressSo maybe we will start with gaming. You clearly had a very strong quarter, and the
+with the business segment.A - Colette KressSo maybe we will start with gaming. You clearly had a very strong quarter, and the
 guide is -- that's a big guide, and we can see the benefits from the play from home,
 work from home.
 So a couple of questions in there.
@@ -116,9 +110,7 @@ to provide a great price point to purchase laptops overall but also the ability 
 ray tracing.
 So for example, our ray tracing price points are now down to about $999, including a
 2060. Additionally we've also taken the Turing in our overall laptops to low price
-points, such as $699 for an overall laptop with our GTX 1650.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 19A - Ambrish Srivastava
+points, such as $699 for an overall laptop with our GTX 1650.A - Ambrish Srivastava
 A - Colette KressSo these things continue to fuel the overall laptop growth that we will think will be
 with us for quite some time.
 Additionally you have seen the overall ecosystem support the overall gaming
@@ -153,9 +145,7 @@ about the holiday season this year will be fueled by a lot of possible new conso
 coming to the overall market. That's great for game development. Game
 development continues to spark the need for overall hardware.
 We know that we've had two years or more in the making, working on overall ray
-tracing and working with much of this overall ecosystem to drive those games thatFINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 19A - Ambrish Srivastava
+tracing and working with much of this overall ecosystem to drive those games thatA - Ambrish Srivastava
 A - Colette Kresswill be coming to market.
 
 Okay. Awesome. I wanted to switch to data center.
@@ -185,9 +175,7 @@ recognition there to our Mellanox acquisition and its overall results. In our Q2
 center growth rate, we had great growth, not only on the NVIDIA compute, but also
 the included -- the inclusion of overall Mellanox.
 Our NVIDIA compute side within our Q2 continue to accelerate our growth versus
-the prior quarter.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 19Our Mellanox also reached overall record levels. Maybe it's something that over the
+the prior quarter.Our Mellanox also reached overall record levels. Maybe it's something that over the
 long period of time that it took us to reach regulatory and close. Nobody was
 noticing the great overall work that Mellanox has opened in its product portfolio in
 terms of its work of establishing itself in many of the AI compute clusters that are
@@ -222,9 +210,7 @@ A100 given its tremendous improvement in performance versus the V100 allows
 them to take on any overall size of model.
 We also continue in terms of expanding workloads that migrate to the cloud, and
 that's a key area of overall growth, particularly during this time as the cloud becomes
-very important for the enterprises and the overall hyperscales.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 19A - Ambrish Srivastava
+very important for the enterprises and the overall hyperscales.A - Ambrish Srivastava
 A - Colette KressBut also, we were able to unlock new workloads or new markets, particularly in the
 area of data science. You heard us discuss in terms of our work about the importance
 of the data science and importance of Apache Spark. Now Apache Spark is GPU
@@ -257,9 +243,7 @@ One question on -- you mentioned Azure, the announcement. This is also
 incorporating Mellanox, right?
 It will be.
 
-Yes.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 19A - Ambrish Srivastava
+Yes.A - Ambrish Srivastava
 A - Colette Kress
 Right.
 So the question is, was this -- was it under development or that you're collaborating
@@ -291,9 +275,7 @@ you see us with unique products coming to market. We've announced products
 together, where Mellanox is with inside many of NVIDIA's overall system that we are
 bringing together.
 So more to happen in terms of that road map as we think in the future, but we're off
-to a great start already.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 19A - Ambrish Srivastava
+to a great start already.A - Ambrish Srivastava
 A - Colette Kress
 A - Ambrish Srivastava
 You mentioned Apache Spark. 3.0 was just announced, I think, in June or July.
@@ -324,9 +306,7 @@ But as you mentioned, the run rate is now a $7 billion run rate, and parts of th
 business are in such nascent markets.
 But is there a point that we're reaching a point where we should be thinking about
 some sort of seasonality for the business now that Mellanox is billion-dollar worth in
-there?FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 19A - Colette Kress
+there?A - Colette Kress
 A - Ambrish Srivastava
 A - Colette Kress
 A - Ambrish SrivastavaIf you could just touch on that.
@@ -357,9 +337,7 @@ Mercedes announcement on the automotive side.
 So it sounds like this -- I mean this, longer term, could potentially be really
 transformative for the business as it relates to recurring revenues.
 So can you talk about, A, how are you thinking about it?
-And what kind of timing?FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 19A - Colette Kress
+And what kind of timing?A - Colette Kress
 A - Ambrish SrivastavaAnd then second, more nearer term, when do we get the headwinds from the
 infotainment behind us when we start to see some of the work you've been doing
 with the automotive guys on the AI side or the ADAS side start to kick in?
@@ -394,9 +372,7 @@ in 2024, where we'll see these overall -- head to overall market.
 So we're excited in terms of this very important transformation deal. I think it will
 continue to lead others that are really focusing on how to streamline and think about
 building these very complex overall AV solutions going forward.
-FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 19A - Colette Kress
+A - Colette Kress
 A - Ambrish Srivastava
 A - Colette KressI had a question on capital allocation. Given the current uncertainties around COVID,
 it's understandable that you're being more conservative in paying off the debt,
@@ -430,9 +406,7 @@ We work with TSMC, we work with others. That is an important piece for us as we
 think about the overall enterprise risk of only having one, and we've been for several
 years are working across both overall fab providers.
 But that relationship and bringing overall 7-nanometer for Ampere, we couldn't be
-more pleased with the work together with TSMC.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 19A - Ambrish Srivastava
+more pleased with the work together with TSMC.A - Ambrish Srivastava
 A - Colette Kress
 A - Ambrish Srivastava
 Okay. The second question is how should we think about the impact of the extra
@@ -464,9 +438,7 @@ The seven nanometer, the Ampere chip was really if I put on my engineering hat,
 wow. That's so many transistors back in there.
 So what is the right way to think about with the Moore's law slowing down?
 What is the way to think about the importance of process technology to the NVIDIA
-solution?FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 19A - Colette KressClearly, it is.
+solution?A - Colette KressClearly, it is.
 But the -- when I think about TSMC and there's -- TSMC is committed to making a
 manufacturing location here in the U.S.
 But it is one company that has so much of the foundry capacity for the industry.
@@ -497,9 +469,7 @@ overall Samsung leaders as well as our TSMC leaders.
 It's really about those relationships.
 It's really about understanding their processes that allows us to go market and be so
 successful more than it is about the actual machines or the work that has even done
-afterwards in terms of building those products.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 19A - Ambrish Srivastava
+afterwards in terms of building those products.A - Ambrish Srivastava
 A - Colette KressSo we continue to believe that these relationships are very strong. We're pleased
 with both overall partners, and I think we have a great balance across those fabs
 (inaudible).
@@ -530,9 +500,7 @@ looking at M&A.
 As you know, we haven't been the largest M&A to reach this stage where we are as a
 company.
 We will use it if we believe it will really drive an important strategic change for us as a
-company.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 19A - Ambrish Srivastava
+company.A - Ambrish Srivastava
 A - Colette Kress
 A - Ambrish Srivastava
 Yes.
@@ -567,9 +535,7 @@ cars.
 So we're moving out a couple of years from now to where you'll probably see the
 first production pieces on the road, but that can be both for robotaxis as well as
 passengers.
-FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 18 of 19A - Colette Kress
+A - Colette Kress
 A - Ambrish Srivastava
 A - Colette KressOkay. Thank you. There's another one, again on the ADAS side. The question is, on
 the ADAS side, you are collaborating with many companies across the spectrum
@@ -603,9 +569,7 @@ and overall gaming in terms of -- from a work from home, work from home, play fr
 home.
 It served us well.
 It's gotten us to focus us on more and more as an entertainment medium during this
-period that we are.FINAL TRANSCRIPT 2020-08-25
-NVIDIA Corp (NVDA US Equity)
-Page 19 of 19A - Ambrish Srivastava
+period that we are.A - Ambrish Srivastava
 A - Colette KressWe believe that will take us through the second half of the year as well.
 So I thank you for your interest in NVIDIA and hosting this call.
 

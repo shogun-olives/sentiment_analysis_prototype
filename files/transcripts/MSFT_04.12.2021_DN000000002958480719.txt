@@ -4,9 +4,7 @@ mean for both Microsoft and for Nuance.
 For us, everything starts with our mission to empower every person in every
 organization on the planet to achieve more. Microsoft and Nuance both share a
 passion for ensuring people everywhere and the institutions they build are
-benefiting from the latest advances in digital technology. We are both partner-firstFINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 2 of 8companies and are deeply committed to building ecosystems to ensure customers
+benefiting from the latest advances in digital technology. We are both partner-firstcompanies and are deeply committed to building ecosystems to ensure customers
 have complete solutions they need to address their unique challenges. Together
 with our partners, we will put advanced AI solutions into the hands of professionals
 to drive better decision-making and create more meaningful human connections.
@@ -46,9 +44,7 @@ systems like EHR, Nuance is moving key workﬂows in radiology, healthcare, spee
 recognition and medical coding to the cloud, reducing the burden on clinicians and
 delivering better clinical and financial outcomes. For example, Nuance is creating
 powerful feedback loops across the entire AI layer, connecting workﬂows, care
-pathways, quality reviews and EHR integrations to support critical clinical decisionFINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 3 of 8Mark Benjaminmaking. Think of this as an AI learning loop for continuous improvement for every
+pathways, quality reviews and EHR integrations to support critical clinical decisionMark Benjaminmaking. Think of this as an AI learning loop for continuous improvement for every
 provider.
 And finally, cross-industry enterprise AI, specifically customer engagement and
 biometric security. Nuance is building the next-generation omni-channel customer
@@ -87,9 +83,7 @@ our customers' ability to help others [ph]. From revolutionizing the doctor-pati
 relationship to reinventing the way large organizations connect with their customers,
 Nuance is a leader in conversational AI and ambient clinical intelligence. We have
 pioneered speech technologies, natural language understanding and machine
-learning for more than 20 years. So AI is certainly in our DNA.FINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 4 of 8Over the past three years, we've gone through a transformation to streamline our
+learning for more than 20 years. So AI is certainly in our DNA.Over the past three years, we've gone through a transformation to streamline our
 portfolio, transition to the cloud, and reinvigorate our purpose around healthcare
 and enterprise AI to deliver solutions that shape the future of work and care. We are
 redefining how work gets done in these areas, making our customers more eﬃcient,
@@ -131,9 +125,7 @@ physician to focus completely on the patient by providing clinical documentation
 that writes itself. Nuance's solutions work seamlessly with core healthcare systems,
 including long-standing relationships with electronic health records or EHRs, to
 alleviate the burden of clinical documentation and empower providers to deliver
-better patient experiences.FINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 5 of 8Scott GuthrieBeyond our clinical -- clinician-focused solution, our PowerScribe One solution is a
+better patient experiences.Scott GuthrieBeyond our clinical -- clinician-focused solution, our PowerScribe One solution is a
 leading solution for radiology reports. We continue to expand our portfolio of
 radiology solutions with added intelligence to increase follow-up compliance and
 clinical best practices. And we foresee plenty of room to grow. Our healthcare cloud
@@ -173,9 +165,7 @@ areas of opportunity, both in healthcare and for every industry. Let's take a cl
 look at a few of these scenarios.
 If you visited a doctor's oﬃce in the US recently, chances are good that your
 physician used Nuance solutions to document your visit. After you went home, they
-probably spent time speaking their notes into a solution like Nuance's DragonFINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 6 of 8Medical One, a speech recognition solution built on Microsoft Azure and tailored for
+probably spent time speaking their notes into a solution like Nuance's DragonMedical One, a speech recognition solution built on Microsoft Azure and tailored for
 healthcare. In the future, we can bring Nuance's deep domain expertise and the
 relationships with core healthcare systems like EHR, electronic health records,
 together with Microsoft's advanced AI capabilities. By augmenting Microsoft's Cloud
@@ -217,9 +207,7 @@ Beyond healthcare, Nuance and Microsoft can take their combined AI expertise to 
 industries. By bringing conversational AI solutions, like interactive voice response,
 together with the breadth and depth of Microsoft's cloud portfolio, we believe we'll
 be able to deliver AI-driven digital engagement solutions for any industry scenario.
-Microsoft solutions like Dynamics 365 or Teams, can be augmented with new AI-FINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 7 of 8Amy Hoodpowered capabilities, adding more intelligence to any customer engagement. And
+Microsoft solutions like Dynamics 365 or Teams, can be augmented with new AI-Amy Hoodpowered capabilities, adding more intelligence to any customer engagement. And
 Nuance's biometric security expertise can bring new capabilities to solutions like
 Dynamics 365 fraud protection, enabling true omnichannel end-to-end fraud
 protection for businesses and individuals alike.
@@ -259,9 +247,7 @@ than 1% to EPS in FY '22 and accretive in FY '23. In this context, non-GAAP excl
 the expected impact of purchase accounting adjustments as well as the integration
 and transaction-related expenses. Following the close of the transaction, we expect
 to report results for Nuance in our Intelligent Cloud segment, and Mark Benjamin
-will remain CEO of Nuance, reporting to Scott Guthrie.FINAL TRANSCRIPT 2021-04-12
-Microsoft Corp (MSFT US Equity)
-Page 8 of 8As you've heard from all of us this morning, we're well positioned to be able to
+will remain CEO of Nuance, reporting to Scott Guthrie.As you've heard from all of us this morning, we're well positioned to be able to
 further empower healthcare providers and advance cross-industry enterprise AI with
 differentiated, high-value solutions and a platform to support our customers and
 partners' future innovation. And we're confident that together, our product and go-

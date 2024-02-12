@@ -15,9 +15,7 @@ Sure.
 High level what are you seeing on the macro, what was today's announcement? And
 we also have Brett Iversen, Brett raise your hand, he runs IR here as well. So thanks
 and his team mates. Thank you gentlemen for being here.
-FINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 2 of 10Brent Thill
+Brent Thill
 Christopher C. CaposselaBrett. Thanks for having me, obviously, it's great to get a chance to talk with all of you
 and be here today. As you mentioned, my name is Chris Capossela. I'm the Chief
 Marketing Oﬃcer at Microsoft. I also run -- so I do marketing for all of the products at
@@ -61,9 +59,7 @@ building a culture, people who behave the way we want them to behave and have
 the skillset that like we category creation is a big part of the culture. So rather than
 just shipping features in an existing product, finding ways to create a brand new
 category the world hasn't really discovered yet. Building that category and having a
-Microsoft product in that category, Microsoft Viva would be (technical diﬃculty)FINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 3 of 10Brent Thill
+Microsoft product in that category, Microsoft Viva would be (technical diﬃculty)Brent Thill
 Christopher C. Capossela
 Brent Thill
 Christopher C. Caposselawhere that's an employee experience category and now we have a suite of products
@@ -105,9 +101,7 @@ diﬃculty).
 Second one I'll throw out there that people don't (technical diﬃculty) is the data
 space. For us, I would say it's not just data, but it's also analytics and it's also
 governance, and we put these three things together and what we call the Microsoft
-Intelligent Data Platform and the products themselves, there is a whole variety of it.FINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 4 of 10Brent Thill
+Intelligent Data Platform and the products themselves, there is a whole variety of it.Brent Thill
 Christopher C. CaposselaBut I think the data estate is where so many more companies are now realizing they
 have to start as they digitally transform, start with the State and they're turning to
 fewer and fewer companies for help bringing that to the cloud and modernizing it.
@@ -150,9 +144,7 @@ So, if you just look at infrastructure, you just look at lift and shift (technic
 you just like Tier 1 workloads, then you add data on top, you add gaming on top, you
 add business on top. It is the backbone of the entire Microsoft and we're very bullish
 that we can now grow Azure (technical diﬃculty). We love that it's consumption base.
-I don't think people will be able to build very powerful consumption (technicalFINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 5 of 10Brent Thill
+I don't think people will be able to build very powerful consumption (technicalBrent Thill
 Christopher C. Capossela
 Brent Thill
 Christopher C. Capossela
@@ -193,9 +185,7 @@ My favorite, Microsoft product is (inaudible) Teams.
 So yeah, these guys get tired of me video bombing them in on Teams, but...
 
 I don't think you just goes up.
-FINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 6 of 10Brent Thill
+Brent Thill
 Christopher C. Capossela
 Brent ThillIt's just show up, yeah.
 
@@ -237,9 +227,7 @@ Viva [ph] learning, which is inside of Teams. So taking business processes like
 expense management, like approvals, like training you know, et cetera. And having
 those be built in Teams with third parties bringing thousands of applications, that's
 obviously a new growth opportunity, (technical diﬃculty).
-FINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 7 of 10Unidentified Participant
+Unidentified Participant
 Christopher C. Capossela
 Unidentified ParticipantLet me turn it over to my partner Joe, who we call Cyber Joe, he does a lot of
 security work for us. I'm sure he's going to want to follow up on the Security thread
@@ -280,9 +268,7 @@ position we have as a public cloud to make sure that we're keeping patients safe
 we do that by working hand-in-hand with governments around the world. That's a, I
 guess a third layer to what you asked.
 And what's the next journey for the security business? Is it awareness making your
-customers even aware of what's possible with Microsoft, because maybe five yearsFINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 8 of 10Christopher C. Capossela
+customers even aware of what's possible with Microsoft, because maybe five yearsChristopher C. Capossela
 Unidentified Participant
 Christopher C. Capossela
 Unidentified Participant
@@ -320,9 +306,7 @@ and it's a very rich ecosystem perspective, we love that. Content is certainly
 incredibly important. See us looking to do acquisitions like the Activision, one that
 we've announced, like the Bethesda and ZeniMax when we already did. Content is
 just everything. Community is really important. Most people don't understand that
-gaming is very, very social. The days or somebody sort of playing alone in theirFINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 9 of 10Unidentified Participant
+gaming is very, very social. The days or somebody sort of playing alone in theirUnidentified Participant
 Christopher C. Capossela
 Unidentified Participantbasement are kind of over where people do that, but it's far more of a social
 experience where people want to come home from school, they want to play games
@@ -362,9 +346,7 @@ We're not immune for the impact of the economy has on ads if (technical diﬃcul
 ad companies suffer, but luckily we're incredibly diversified. So we can usually make
 (Technical Diﬃculty) ups and downs on part of our business.
 Same question on the commercial side, maybe outside of Azure where you guys
-shifting investment dollars?FINAL TRANSCRIPT 2022-06-02
-Microsoft Corp (MSFT US Equity)
-Page 10 of 10Christopher C. Capossela
+shifting investment dollars?Christopher C. Capossela
 Unidentified Participant
 Christopher C. Capossela
 Unidentified Participant

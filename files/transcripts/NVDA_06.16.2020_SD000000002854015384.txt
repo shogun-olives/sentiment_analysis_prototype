@@ -22,9 +22,7 @@ overall Ampere architecture.
 Not only is our data center business accelerating quite well with overall Ampere as
 well as just the use of accelerated computing, but we also have the opportunity with
 our other business lines, including gaming, to -- quite well during these very
-challenging times.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 17A - Mark Lipacis
+challenging times.A - Mark Lipacis
 A - Colette KressWe had started off at the beginning of the year focusing on what the impact may
 have been with our overall COVID-19 that was impacting so much of the overall
 world. We were able to manage through both supply and demand challenges
@@ -60,9 +58,7 @@ initial transformation that we were not a chip company, and we were not associat
 with overall PC shipments as being the largest overall correlation to our overall
 revenue.
 After several years of discussing that, yes, we may have an interaction with general
-PCs, we were very specific in terms of the markets that we had chosen and theFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 17markets that we saw in terms of growing. And we were more than just a PC company
+PCs, we were very specific in terms of the markets that we had chosen and themarkets that we saw in terms of growing. And we were more than just a PC company
 or a PC chip company.
 You've seen us today transform, not only what we are doing in terms of with gaming
 and the overall gaming platform, but also what we have seen in terms of many other
@@ -97,9 +93,7 @@ last year, now our focus was on the acquisition of Mellanox as well as several o
 pieces of the overall computing platform to look for acceleration possibilities and
 speed up of the work that can be overall complete in.
 So I think through careful choice, careful choice of the overall markets that we have
-chosen but also a full look at a computing, we can now consider us more of aFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 17A - Mark Lipacis
+chosen but also a full look at a computing, we can now consider us more of aA - Mark Lipacis
 A - Colette Kressplatform play or more of a systems company than we actually look at as a chip
 company.
 
@@ -136,9 +130,7 @@ NVIDIA's ability to be agnostic to all of the different types of computing solut
 that are out there, the different CPUs, the different software stacks, the different
 middleware, all the different other components that may be inside of the data center,
 allows us and the overall user to have the most ﬂexibility in an era where AI is
-changing.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 17A - Mark LipacisSo there was nothing that we did in terms of being specific and the only solution for
+changing.A - Mark LipacisSo there was nothing that we did in terms of being specific and the only solution for
 AI. We are the solution, though, that is the broad-based for overall AI and allows
 from day one of thinking of AI to day 300 to continue to be used as the solution that
 allows them to expand their overall workloads. We're able to continue to work with
@@ -175,9 +167,7 @@ So this is another era where our work and thinking through the future of acceler
 computing continues to evolve. Probably very different since some of those early
 matches that we had seen back in the last 20 years in terms of the decade. It is a new
 world in terms of computing.
-FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 17A - Colette KressWhat are the -- what would you consider the critical elements of the ecosystem
+A - Colette KressWhat are the -- what would you consider the critical elements of the ecosystem
 you're providing to your customers? And what percentage of your R&D is spent on
 things other than chip design?
 
@@ -218,9 +208,7 @@ research and/or lab work, but for everyday use in terms of hyperscales as well a
 enterprises, had us focusing on the ecosystem and the top applications that could
 be overall accelerated. Now we don't build applications.
 But what we do is we work together in both the middleware and creating the ease of
-with frameworks to attach ourselves to that ecosystem of applications so that theFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 17A - Mark Lipacis
+with frameworks to attach ourselves to that ecosystem of applications so that theA - Mark Lipacis
 A - Colette Kressuser doesn't have to think about how that is put together.
 Now our work is essential in this place. It has differentiated us from many of the
 overall players in the market that are really just coming to market with an underlying
@@ -257,9 +245,7 @@ common for developers to not understand the overall stitching together below,
 which we actually encourage. The thoughts that they can focus on their core
 competency in terms of working with the application and the data to solve overall
 problems and they are able to leverage a GPU to take them from workload to
-workload is great.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 17A - Mark LipacisBut it's not necessarily that easy to just lift and switch to some other piece of that, as
+workload is great.A - Mark LipacisBut it's not necessarily that easy to just lift and switch to some other piece of that, as
 you will see that through our overall frameworks as well as our frameworks with
 CUDA and CUDA-X, which is more middleware that's just together, those things are
 updated very, very often. And with the overall current discussion in terms of what is
@@ -298,9 +284,7 @@ are consolidating under seven -- like seven large cloud service providers, let's
 And those CSPs have massive economies of scale like no other end users in the
 computing industry in the past. And they can consolidate or centralize specific
 workloads and then benefit from an application-specific computing model by
-building custom processors or having merchant application-specific processors.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 17A - Colette KressSo the question is, how do you think about this? Why have the general purpose
+building custom processors or having merchant application-specific processors.A - Colette KressSo the question is, how do you think about this? Why have the general purpose
 computing models dominated in the past? And does that apply today?
 
 Yes. A really interesting question. And it's been super interesting to look at history,
@@ -336,9 +320,7 @@ the aspects of building the thermals, all of the different uses and cases of how
 improve the performance of the GPU. They turned to us to create that universal
 capabilities to use a GPU.
 Some of them may have a very specific workload that they may use a custom chip
-that they have.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 17A - Mark Lipacis
+that they have.A - Mark Lipacis
 A - Colette KressBut serving all of the universe of developers out there, a universal platform but also a
 universal development platform, is essential for the breadth of the types of
 workloads that we're seeing that just wouldn't have been capable anybody that
@@ -377,9 +359,7 @@ workloads.
 So they need to be relatively confident in terms of the type of workloads that it will
 be able to be used for.
 Even when you think about the overall A100, many years in the making of
-developing that architecture for it to probably be quite a big surprise for the overallFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 17A - Mark Lipacisindustry. Why? A100, just in three years, is a 20x improvement in performance versus
+developing that architecture for it to probably be quite a big surprise for the overallA - Mark Lipacisindustry. Why? A100, just in three years, is a 20x improvement in performance versus
 the last generation of V100. Our core competency is working on top performance,
 not just top performance in speeds and feeds, but top performance on many of the
 different workloads. We've talked about it on the ability to, with its overall Tensor
@@ -417,9 +397,7 @@ model? And at the end of the day, pick a time -- three, five years from now, ten
 is -- will all your chips be Ampere-like where they do both the inferencing and the --
 offer best-in-class inferencing performance and best-in-class training performances?
 And then your training-specific solutions go away and your inferencing-specific
-solutions go away, and you end up with a single acceleration platform on oneFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 17A - Colette Kresssolution?
+solutions go away, and you end up with a single acceleration platform on oneA - Colette Kresssolution?
 
 Yes. So really, a really important understanding of how we have entered into the
 overall inferencing market. Let's go back in terms of a couple of years ago.
@@ -456,9 +434,7 @@ So our entrance into inferencing was an extension of what we saw in terms of
 training. We have built now inferencing to solidly be in the double-digit percent of
 our overall data center business in just a couple of years. We have it growing more
 and doubling year-over-year in just this last quarter. With the ability to bring
-something like A100 to the market allows us to, again, not have the overall customerFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 17A - Mark Lipacis
+something like A100 to the market allows us to, again, not have the overall customerA - Mark Lipacis
 A - Colette Kresschoosing at purchase what the workload that they want to do and allow them that
 continuation of building their training models to move into overall inferencing.
 As we go forward, it's going to be hard for us to determine specifically and model
@@ -495,9 +471,7 @@ gaming business than they are on the rest of our overall businesses.
 In our overall gaming business, the PC platform, the PC platform is a very integral
 part of the China household and many of the overall workloads across the overall
 nation. What we mean is, again, you kind of stem back to because we were universal
-in nature, people leveraged an overall PC to do much of the work from an overallFINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 17A - Mark Lipacis
+in nature, people leveraged an overall PC to do much of the work from an overallA - Mark Lipacis
 A - Colette Kressconsumer user and is also an important piece of what they do in terms of overall
 business. They were some of the early starts of the high end type of gaming and
 using an overall PC platform. Now the PC platform has become a very important and
@@ -536,9 +510,7 @@ multiple foundries or multiple foundry manufacturers was important for us. It wa
 important to us from an enterprise risk standpoint. Enterprise risk that says,
 oftentimes in many different parts of the world, global conditions change, whether it
 be weather conditions, geopolitical things change and/or just basic oversupply and
-demand with many of them changes.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 17A - Mark Lipacis
+demand with many of them changes.A - Mark Lipacis
 A - Colette KressOur thoughts on creating another foundry was an important part of that. Now keep
 in mind, it wasn't an overnight decision nor was it something that we could put in
 place quickly.
@@ -574,9 +546,7 @@ market?
 Yes. In the past -- and we've probably talked about this quite a bit over the last five
 years. People wanted to know when will we reach seasonality in data center, will it be
 reach seasonality? How can you assure that the growth, as we see, will continue
-quarter after quarter?FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 17But there's nothing that we can guarantee from quarter-to-quarter sequential overall
+quarter after quarter?But there's nothing that we can guarantee from quarter-to-quarter sequential overall
 growth. We've done a pretty phenomenal job, almost consistently having growth.
 But you're correct. There were periods of overall digestion, digestion in our industry.
 Even during that digestion, it was an important era where people wanted to know,
@@ -613,9 +583,7 @@ solid, very similar to the visibility that we've had in terms of Q1. We'll turn 
 as we get closer to Q3 and talk about that over visibility.
 But I think it's important to step back and look that says, A100 is going to be with us
 for a while. And you know that we're not done with everything that we have coming
-on an overall architecture.FINAL TRANSCRIPT 2020-06-16
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 17A - Mark Lipacis
+on an overall architecture.A - Mark Lipacis
 A - Colette Kress
 A - Mark LipacisSo there's great things to see. I think we're very pleased with the -- both the
 performance of the company as we started out today's call. That during COVID-19,

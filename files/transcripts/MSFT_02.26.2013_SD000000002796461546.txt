@@ -18,9 +18,7 @@ do not undertake any duty to update any forward-looking statements.
 And with that, thank you, again.
 
 Thank you. You said that very well.
-FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 2 of 16Kurt DelBene
+Kurt DelBene
 Adam Holt
 Kurt DelBeneWell I've done it before. Why don't I start off with a broad brush question? You're
 standing or sitting, if you will, at the precipice of what I think is the biggest product
@@ -59,9 +57,7 @@ strong momentum for the Oﬃce 365 service overall. We now estimate that one in
 five enterprises are using Oﬃce 365. And the rate at which customers are adopting it
 has really gone -- really accelerated over the last year. We've had 158% increase in
 the number of small and medium business customers that are taking it on. And the
-rate at which new customers are on-ramping has tripled over the last year. So strongFINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 3 of 16Adam Holt
+rate at which new customers are on-ramping has tripled over the last year. So strongAdam Holt
 Kurt DelBene
 Adam Holt
 Kurt DelBenerelease, strong release for traditional customers and very strong release on the
@@ -99,9 +95,7 @@ But we are going to wait and see and see how it does.
 Another element that's different about this release is to Windows 8, you talked a lot
 about betting on touch and how important touch is to the Windows family. You talk
 about how you think through touch. And how that's changed this product release?
-FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 4 of 16Adam Holt
+Adam Holt
 Kurt DelBeneSure. Well we are excited about Windows 8 being the first operating system that
 really takes touch and makes it an integral part of the experience. And we have been
 working with the Windows team from the inception of both of our releases to say we
@@ -141,9 +135,7 @@ about that and what that means over the next two to three years as the product
 portfolio evolves?
 
 Sure. There's a number of things that I think are really key input areas for us. The first
-is just the notion that the workplace overall is dynamic and is changing very quickly.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 5 of 16Adam Holt
+is just the notion that the workplace overall is dynamic and is changing very quickly.Adam Holt
 Kurt DelBeneThat's why you see us make investments in things like Skype and things like Yammer
 to allow people to come together and collaborate effortlessly to create ad hoc
 groups. Those are groups that are beyond the boundaries of your organization. They
@@ -183,9 +175,7 @@ So far, they are going very well. It's always an artform to figure out how do yo
 the value out of an acquisition and not destroy that jewel that you've purchased. And
 I think in both cases, we're doing that. Tony Bates for Skype has come on and is
 leading the Unified Communications Group at Microsoft, a combination of the Lync
-team and the Skype teams coming together to really drive that unification acrossFINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 6 of 16Adam Holt
+team and the Skype teams coming together to really drive that unification acrossAdam Holt
 Kurt DelBene
 Adam Holt
 Kurt DelBenethose two products. So the goal there, of course, is to have a great enterprise
@@ -222,9 +212,7 @@ Yammer becomes an integral part of the Oﬃce 365 service.
 Just one more product question before we get to the enterprise. I want to talk about
 OneNote because I know it is near and dear to your heart.
 
-It is.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 7 of 16Adam Holt
+It is.Adam Holt
 Kurt DelBene
 Adam Holt
 Kurt DelBene
@@ -261,9 +249,7 @@ others is ripe for continued innovation.
 Terrific. Let's shift to the enterprise business. So the 2010 release was a good release
 in terms of penetration and adoption from an enterprise perspective. Is that a gating
 factor at all with the current release will be adopted in the enterprise or not really?
-FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 8 of 16Adam Holt
+Adam Holt
 Kurt DelBeneI don't think so. You are right. The 2010 was a very, very strong release for us. First, on
 the consumer side, I think that will be replaced by the 2013 release and by Home
 Premium -- or Oﬃce 365 Home Premium. And that will just transition over pretty
@@ -301,9 +287,7 @@ think we're going to see that this time, too.
 I think the investments we have made in Unified Communications around Lync have
 driven very strong adoption as well. Those multi-party HD meetings that exist in this
 current version, there has been a ton of interest there, the connectivity of Skype, as I
-mentioned. I think that's has been a driver.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 9 of 16Adam Holt
+mentioned. I think that's has been a driver.Adam Holt
 Kurt DelBene
 Adam HoltThen the third one that I'd really call out is we may not think of it as the sexiest
 feature. But the investments we've made around e-discovery and compliance are not
@@ -343,9 +327,7 @@ service in the industry today in terms of the functionality. And we surely have 
 deepest in terms of it's all of Exchange, it's all of SharePoint and all those features
 that people love. So I think the relationship becomes a much more collaborative one.
 And there's a ton of upsell opportunity.
-FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 10 of 16Kurt DelBene
+Kurt DelBene
 Adam Holt
 Kurt DelBeneSo that's probably a good point to pivot to 365. The release has now been in the
 market for a few years. One of the original premises was you would expand the total
@@ -385,9 +367,7 @@ and some folks in the cloud. We make our enterprise agreements really good at
 supporting that kind of situation. But ultimately we'd love to have everybody in the
 cloud.
 I will say that we love our onpremises business for now. And we can -- every bit of
-functionality that we put in the cloud version we are running those same bits onFINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 11 of 16Adam Holt
+functionality that we put in the cloud version we are running those same bits onAdam Holt
 Kurt DelBene
 Adam Holt
 Kurt DelBenepremises. And so we can offer those capabilities to customers, as well.
@@ -423,9 +403,7 @@ additional functionality via the service, that service connected, we have an
 opportunity to have people who were pirating the software use the service instead.
 But we look closely. We can look geographic-wise as to where the subscription
 offering is going, where it is becoming popular, where it is not. And we can tweak
-things over time.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 12 of 16Adam Holt
+things over time.Adam Holt
 Kurt DelBene
 Adam Holt
 Kurt DelBene
@@ -464,9 +442,7 @@ we have core applications that run on the PC and on Mac that we are very proud o
 We've actually done a lot of work on iOS devices this time around. And so we have a
 brand-new version of Outlook web access that works as an application as well that
 you can download that works off-line that has all the richness of Exchange and
-calendaring and is a super-rich feature set there.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 13 of 16Adam Holt
+calendaring and is a super-rich feature set there.Adam Holt
 Q - Adam Holt
 Q - Unidentified Participant
 A - Kurt DelBeneWe have enhanced the web applications pretty substantially, particularly in
@@ -503,9 +479,7 @@ perspective of how long people have a PC, when they choose to upgrade that PC.
 And when they would choose to buy a version of Oﬃce with that new PC, as well.
 And so what you are talking about replacing, actually, is the purchase of a new PC
 and along with that, Oﬃce. And you are trading that in, essentially, for a subscription
-version. So when you buy the new PC, you know you already have the new Oﬃce. AllFINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 14 of 16Q - Adam Holt
+version. So when you buy the new PC, you know you already have the new Oﬃce. AllQ - Adam Holt
 A - Kurt DelBeneyou do is download that new Oﬃce, deactivate your old PC, activate the new PC.
 And you're off to the races.
 And so I really think -- I think customers are getting that. And they're thinking the
@@ -542,9 +516,7 @@ on the business side or whether that is the consumer service. And I think if you
 to model that with growth of the overall pie, I think it's all going to work out fine.
 I certainly tell my development team, they say, well, how is this going to work with all
 the different price points changing and the subscription sets? I said don't worry
-about it -- build the products that people want. And I think it's all going to work out.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 15 of 16Q - Adam Holt
+about it -- build the products that people want. And I think it's all going to work out.Q - Adam Holt
 Q - Unidentified Participant
 A - Kurt DelBene
 Q - Unidentified Participant
@@ -582,6 +554,4 @@ All right. We're about out of time. Thank you, all very much and thank you.
 
 Well thank you.
 
-That was great.FINAL TRANSCRIPT 2013-02-26
-Microsoft Corp (MSFT US Equity)
-Page 16 of 16
+That was great.

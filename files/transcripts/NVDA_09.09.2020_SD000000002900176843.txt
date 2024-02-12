@@ -18,9 +18,7 @@ please refer to our most recent forms 10-K and 10-Q and the reports that we may 
 on Form 8-K with the Securities and Exchange Commission.
 All our statements are made as of today September 9, 2020, based on information
 currently available to us.
-Except as required by law, we assume no obligation to update any such statements.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 18A - Atif Malik
+Except as required by law, we assume no obligation to update any such statements.A - Atif Malik
 A - Colette KressSo with that, I'll turn it back over to you, Atif.
 Questions And Answers
 
@@ -49,9 +47,7 @@ of the future that we set out with the overall Turing architecture.
 What is also key, which you highlighted, is with the overall 2x increase in the overall
 performance, we also have the same overall band of price points with the launch of
 our products that we have.
-There's also some key features to keep in mind with this.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 18A - Atif MalikWe are on the second generation of the RT cores. This is about 2x the throughput of
+There's also some key features to keep in mind with this.A - Atif MalikWe are on the second generation of the RT cores. This is about 2x the throughput of
 the previous generation of ray tracing cores.
 We're also on the third generation of our Tensor cores, with 2x the throughput from
 the previous generations.
@@ -85,9 +81,7 @@ accelerated AI functions.
 So a lot of different things that we've launched with the overall architecture of
 Ampere for gaming, not just focused on the overall cards, but really about the
 ecosystem, the overall support through software to enable the best experience.
-FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 18A - Colette Kress
+A - Colette Kress
 A - Atif Malik
 A - Colette KressGreat. Colette, if I look at the gaming demand so far this year, a little bit above
 seasonal due to work or game from home effects.
@@ -120,9 +114,7 @@ We saw Nintendo raising its forecast with the supply chain by 20%.
 Obviously you're exposed there. And how committed are you to the console
 business with Nintendo?
 
-Yes.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 18A - Atif Malik
+Yes.A - Atif Malik
 A - Colette KressSo let me first start with how the market has evolved over generations with the
 overall consoles. The ecosystem has also changed there. A key part of the driver of
 the gaming market is just the games. Gamers want to play and overall watch games.
@@ -154,9 +146,7 @@ cards?
 Yes.
 So with the launching of our new gaming architecture, it's always a real fun time.
 As you've actually noticed with each architecture that we have launched, we've done
-something differently. The reviews and the commentary on our Ampere architectureFINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 18A - Atif Malik
+something differently. The reviews and the commentary on our Ampere architectureA - Atif Malik
 A - Colette Kress
 A - Atif Malikgaming cards have been extraordinary, likely the best launch ever.
 We do not have any online orders or preorders at this time.
@@ -188,9 +178,7 @@ Great.
 You have gained share in the gaming market per the latest Mercury report. NVIDIA is
 a generation ahead in ray tracing.
 One common question I get asked is about growing competition with Big Navi from
-AMD and then Intel next year. Any kind of thoughts here?FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 18A - Colette Kress
+AMD and then Intel next year. Any kind of thoughts here?A - Colette Kress
 A - Atif Malik
 Yes.
 So let's first start with how we had focused on differentiating ourselves in the market,
@@ -224,9 +212,7 @@ Great. Let's switch gears to the data center business, now 45% or the largest
 segment of your company. July quarter was the first full quarter of Ampere ramp.
 Mellanox was up huge at 30% sequentially, and you expect compute to be the major
 driver of growth in the October quarter. Where are you in terms of A100 upgrade
-cycle within hyperscale vertical?FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 18A - Colette Kress
+cycle within hyperscale vertical?A - Colette Kress
 Yes.
 So to ground everybody in terms of what we guided for our data center after just a
 great overall Q2 being the First Quarter incorporating Mellanox, we couldn't be
@@ -256,9 +242,7 @@ We're expecting 50 different systems to be available between Q3 and Q4, probably
 about 20 of those systems available in Q2.
 So we're still in the early parts of this upgrade cycle for sure.
 We're just in the initial quarters, and this is an overall upgrade that will be with us for
-several years.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 18A - Atif Malik
+several years.A - Atif Malik
 A - Colette Kress
 A - Atif Malik
 A - Colette Kress
@@ -293,9 +277,7 @@ compute more than just overall general purpose compute.
 
 And when do you see the demand stabilizing on the enterprise on-premise vertical,
 Colette?
-FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 18A - Atif Malik
+A - Atif Malik
 A - Colette KressSo what we have right now is, given the ramp of overall A100 and as we discussed,
 starting first with the overall hyperscales and creating those cloud instances that
 many of our enterprises work, that's a good bridge to begin a quick adoption of the
@@ -327,9 +309,7 @@ That modern data center is really about accelerated using the GPU-enabled
 capabilities, disaggregated using Mellanox-enabled capabilities as well as overall
 software-defined to really take all the pieces in terms of the data center and
 accelerate each one of them piece by piece and not just a focus on the time that is
-overall computing or the GPU is enabling that accelerated computing.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 18A - Atif Malik
+overall computing or the GPU is enabling that accelerated computing.A - Atif Malik
 A - Colette Kress
 A - Atif MalikSo we're excited to see all the great things working together with Mellanox, but
 you're correct. It's off to a great start, and we're excited to have them on board.
@@ -365,9 +345,7 @@ So in the early stages, off to a great start.
 But yes, there is a large TAM and a large opportunity for our data center business as
 a whole going forward.
 
-Okay.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 18A - Colette Kress
+Okay.A - Colette Kress
 A - Atif MalikThis is a tricky one, too. Jensen mentioned on the last earnings call that NVIDIA
 works closely with ARM, and he respects the energy eﬃciency of the ARM
 architecture. Just conceptually, are there advantages or disadvantages, if any, on
@@ -399,9 +377,7 @@ NVIDIA's overall GPU workloads can work effectively and well to accelerate
 everything in the data center.
 
 Okay. Then switching to auto. Ampere architecture powers next-generation auto
-platform called Orin, delivering more than 6x the performance of Xavier and 4xFINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 18A - Colette Kress
+platform called Orin, delivering more than 6x the performance of Xavier and 4xA - Colette Kress
 A - Atif Malikbetter power eﬃciency. How does the improved power management profile on
 Ampere compare with competition?
 Will this significantly help to close the gap on Level two and up?
@@ -436,9 +412,7 @@ over the time.
 So we're really thoughtful in terms of thinking through a supermodel that can be
 leveraged across the overall industry, but our work with Mercedes is definitely
 transformational.
-FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 18A - Colette Kress
+A - Colette Kress
 A - Atif Malik
 A - Colette KressGreat. Then moving to the financial model. Gross margins in second half because of
 the gaming mix are coming down. Do you see it trending back up to 66% as data
@@ -470,9 +444,7 @@ And how should we think about the OpEx growth relative to the sales next year?
 
 Yes.
 So first, talking about our employees and our engineering workforce, both from a
-software side and a hardware side.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 18A - Atif Malik
+software side and a hardware side.A - Atif Malik
 A - Colette KressWe do have more overall software developers than we actually have hardware
 developers. The great thing is our software development is done in many places
 around the world and now is actually done at home as we still have almost all of our
@@ -506,9 +478,7 @@ research and a chip factory. There are geopolitical tensions with China. What do
 all mean for NVIDIA?
 
 So the idea of bringing a high-end fab here into the U.S., we couldn't be more
-excited about it.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 18A - Atif Malik
+excited about it.A - Atif Malik
 A - Colette KressWe work with two of the best overall fab providers on the planet today. Having one
 of those closer into the U.S. would be great for us.
 We deal right now with a worldwide workforce working with those fabs, but having
@@ -536,9 +506,7 @@ forward.
 Now we have focused on very key areas.
 One, we focused on manufacturing.
 We focused on metropolises and building out the overall smart cities.
-You've seen us focus in terms of on Clara.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 18So when you think about our data center platforms, it's not just focused on that
+You've seen us focus in terms of on Clara.So when you think about our data center platforms, it's not just focused on that
 hardware.
 We have built so much of the software libraries, components, compilers and working
 with many of the different frameworks that enable it.
@@ -569,9 +537,7 @@ enterprise, and it's not necessarily industry-specific. The enterprises are out 
 spending time working with their data scientists to understand how to leverage their
 data to make overall decisions. It's a relatively ineﬃcient process. They spend a lot of
 time loading data. They spend a lot of time reanalyzing data, rerunning overall
-queries to get the information that they were looking for.FINAL TRANSCRIPT 2020-09-09
-NVIDIA Corp (NVDA US Equity)
-Page 18 of 18A - Atif Malik
+queries to get the information that they were looking for.A - Atif Malik
 A - Colette KressWe have now been able to stitch ourselves together with Spark, Spark 3.0, which is a
 very key component in terms of the work that they do. Accelerating that entire
 process, from end to end in terms of the data load, the working with the data and

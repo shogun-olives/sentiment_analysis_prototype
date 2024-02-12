@@ -22,9 +22,7 @@ beyond. So we're grateful to be here.
 Questions And Answers
 
 Thanks. So I have a series of questions, a lot of topics to cover. There's always a lot
-going on with Facebook. So I wanted to talk a little bit about the real drivers of theFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 2 of 16A - Sheryl Sandbergbusiness. You had another great year in 2016, with meaningful revenue growth, very
+going on with Facebook. So I wanted to talk a little bit about the real drivers of theA - Sheryl Sandbergbusiness. You had another great year in 2016, with meaningful revenue growth, very
 good community growth, I think the fastest -- the biggest DAU growth you've had
 since you're a public company. How have the drivers of the core business evolved
 over the years. And as you look ahead, Sheryl, would you talk about the big drivers
@@ -64,9 +62,7 @@ the advertiser shift to mobile happen. And it's an incredibly powerful device. S
 phone every single person has in their pocket or their purse, has 100,000 times the
 computing power of the computer that sent the first man to the moon, in 1969, which
 I like to remind people at Facebook is not really that long ago, because it's the year I
-was born. But we have a Super Bowl on that device, on mobile in the US every singleFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 3 of 16A - Dave Wehner
+was born. But we have a Super Bowl on that device, on mobile in the US every singleA - Dave Wehner
 A - Sheryl Sandberg
 A - Brian Nowak
 A - Dave Wehnerday. And so, our job is to get advertisers to make the shift, much as consumers have
@@ -109,9 +105,7 @@ the best possible experiences across all different platforms, including Android,
 has been very important. It's working with partners, with Internet.org, it's working
 also with other carriers who are offering more free promotional data plans.
 So it's really strong engagement growth in terms of daily active users. And then on
-the time spent per DAU which is another metric that we work on and track, we'reFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 4 of 16A - Brian Nowak
+the time spent per DAU which is another metric that we work on and track, we'reA - Brian Nowak
 A - Sheryl Sandbergseeing good, solid growth across the Facebook family and on Facebook in particular.
 So we're pleased with that. And Instagram also continuing to grow very nicely
 especially with ranked feed [ph].
@@ -150,9 +144,7 @@ online.
 But when we say, do you want to spend $3 to boost that post, that's easy. And that
 makes you an advertiser. And as we've gotten better at making more simplified ad
 products, we've onboarded more advertisers. And today we have 4 million
-companies advertising on Facebook and 500,000 advertising on Instagram.FINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 5 of 16A - Brian Nowak
+companies advertising on Facebook and 500,000 advertising on Instagram.A - Brian Nowak
 A - Sheryl SandbergThe other opportunity we have. And I think this is a really big one, is to take the kind
 of tools and targeting and creative tools that only large companies really have access
 to. And make them available to everyone. 3 million small businesses have uploaded
@@ -193,9 +185,7 @@ Because if our goal is to grow our clients' business, to ring the cash register,
 sales, the only way they know that their ads are effective is if we have the right
 measurements. We found a mistake last August in one of our video metrics. It wasn't
 a billable metric. But it's still something we take really seriously. So we really did a
-pretty thorough review of all of our metrics. And we updated a lot of them.FINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 6 of 16A - Brian Nowak
+pretty thorough review of all of our metrics. And we updated a lot of them.A - Brian Nowak
 A - Sheryl SandbergAnd now, we're working hard to make sure we stay at the forefront of what
 measurement is. We're very focused on third-party measurement. We know
 advertisers want it. It enables other people to grade our homework. And now, you
@@ -236,9 +226,7 @@ So we'd like our advertising products to work in all verticals. And our growth h
 been very broad-based across verticals, across regions, across large and small
 advertisers. Our top verticals have been e-commerce, CPG, retail, entertainment.
 And media and gaming. And we build specific products for those. I think we've had
-particular success in our Dynamic Ads product, which really helps you target theFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 7 of 16A - Dave Wehner
+particular success in our Dynamic Ads product, which really helps you target theA - Dave Wehner
 A - Brian Nowak
 A - Dave Wehnerright product. And our goal is of course to show the right product to the right person
 at the right time.
@@ -280,9 +268,7 @@ And we're doing that via revenue share.
 Now, we are kick starting that ecosystem with some experimental budgets to show
 content creators about what can be possible on Facebook. So we're not looking to
 build a massive studio. But we're looking to sort of kick start that ecosystem and
-head towards a self-sustaining revenue share model. And we're going to be doingFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 8 of 16A - Brian Nowak
+head towards a self-sustaining revenue share model. And we're going to be doingA - Brian Nowak
 A - Dave Wehner
 A - Brian Nowakthat from a revenue perspective, with our Ad Break product, which is effectively a
 mid-roll type of ad product, which should work for longer-form content than what is
@@ -322,9 +308,7 @@ But it's one of the dynamics that's coming into play here.
 
 Understood. Sheryl, moving to Instagram, off of the core, it seems like Instagram
 monetization is coming at a relatively measured pace, as you explore the right ad
-products, continue to innovate the overall offering. I guess I'd be curious to hear,FINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 9 of 16A - Sheryl Sandbergwhere are you now in the monetization of Instagram relative to mother ship
+products, continue to innovate the overall offering. I guess I'd be curious to hear,A - Sheryl Sandbergwhere are you now in the monetization of Instagram relative to mother ship
 Facebook?
 
 We're pretty excited about Instagram's monetization path. Facebook and Instagram
@@ -364,9 +348,7 @@ system. But really the engagement we're seeing. We rolled out Instagram Stories 
 five months ago. And people love it. I love it, the feedback is great from people. And
 we already have 150 million people using the product. And we just started testing in
 the last quarter advertising. We've been working with just 30 global advertisers. But
-the feedback we're hearing both from advertisers and consumers is great. So weFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 10 of 16A - Brian Nowak
+the feedback we're hearing both from advertisers and consumers is great. So weA - Brian Nowak
 A - Sheryl Sandbergthink the increased engagement, particularly around Stories, means Instagram has
 pretty broad runway and a pretty clear path to how we execute against it.
 
@@ -406,9 +388,7 @@ bandwidth phones with slideshow.
 We've also thought a lot about how we get the next billion online. The people who
 aren't connected to data at all. And at its core, this is really an economic challenge.
 The World Bank puts global poverty at $1.90 a day, 10% of the world lives below that
-line. The implicit cost of Facebook data for the average US user, for everyone in thisFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 11 of 16A - Brian Nowak
+line. The implicit cost of Facebook data for the average US user, for everyone in thisA - Brian Nowak
 A - Sheryl Sandberg
 A - Dave Wehner
 A - Brian Nowakroom, is $1 a day. So that means that the developed world is -- the developing world
@@ -449,9 +429,7 @@ wouldn't have thought that. So we take a long-term view. We think there's a big
 opportunity across the globe to provide value and also to build a good business.
 
 One of the other platforms you have that also has a billion users, Messenger. Seems
-like you could build a pretty good business off of that, as well. We know that theFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 12 of 16A - Dave Wehner
+like you could build a pretty good business off of that, as well. We know that theA - Dave Wehner
 A - Brian Nowak
 A - Dave Wehnermessaging apps drive a lot of frequency and drive highly dealing [ph] engagement.
 At least, we think. Dave, could you just give us an update on the monetization
@@ -493,9 +471,7 @@ I think at the core, the pedigrees of the products are different. They started d
 graphs, right, phone graph versus your Facebook graph. So that does define how
 you're interacting with people in a lot of markets where there's both used. Certain
 geographies are more prevalent one or the other as well. Then, the character of the
-products is different. WhatsApp is focused on speed. It's always going to work. It'sFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 13 of 16A - Sheryl Sandberg
+products is different. WhatsApp is focused on speed. It's always going to work. It'sA - Sheryl Sandberg
 A - Brian Nowak
 A - Dave Wehnerless focused on as many features as there are in Messenger, where you see more
 focus on things like, how do we innovate around the camera and get more
@@ -537,9 +513,7 @@ that's one of the key drivers. Also, we're investing in non-headcount areas like
 we talked about the content side. Then, other areas like marketing and the like.
 Then finally, we're making a big investment in CapEx. We think that our infrastructure
 is strategic for us to own it. And to operate it. And we're investing $7.5 billion across
-the globe in building up data centers and all of the associated infrastructure toFINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 14 of 16A - Brian Nowak
+the globe in building up data centers and all of the associated infrastructure toA - Brian Nowak
 A - Dave Wehner
 A - Brian Nowak
 A - Dave Wehner
@@ -582,9 +556,7 @@ frame. And we're going to be opportunistic about executing on that.
 Understood. Sheryl, I wanted to close on one of the budding opportunities within
 Facebook. And Facebook Workplace. Where are you now with Facebook Workplace.
 And what are the -- what's the five-year, ten-year vision of Facebook's role in the
-enterprise?FINAL TRANSCRIPT 2017-02-28
-Meta Platforms Inc (META US Equity)
-Page 15 of 16A - Sheryl Sandberg
+enterprise?A - Sheryl Sandberg
 A - Brian Nowak
 A - Sheryl Sandberg
 A - Brian Nowak

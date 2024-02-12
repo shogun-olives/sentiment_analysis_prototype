@@ -23,9 +23,7 @@ of the world's largest markets and the impact on our future business and financi
 results there.
 
 Well, that's about as clear as it can be, Colette. Thank you for that. And then could
-you maybe help us -- one of the questions we're getting a lot this morning is someFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13Colette Kress
+you maybe help us -- one of the questions we're getting a lot this morning is someColette Kress
 Harsh Kumar
 Colette Kress
 Harsh Kumar
@@ -65,9 +63,7 @@ say these statements, our presentation may contain forward-looking statements an
 please do refer to our SEC filings for risks and uncertainties facing our business. So
 with that, we can move to the next slide. So we are here to talk about networks for AI,
 obviously, but when we talking about AI, it's not just a bit of a network, right, it's not
-just design components. You need to look on the entire system. What are weFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13designing the network for and essentially, we want to build or we need to build or to
+just design components. You need to look on the entire system. What are wedesigning the network for and essentially, we want to build or we need to build or to
 design a full accelerated compute network balance system. It's not started at a NIC.
 It doesn't start at a switch. It starts at GPU levels. Memory IO on the GPUs, all the way
 through the network, and then we essentially started application framework, the
@@ -110,9 +106,7 @@ are not just running on a single node, AI workloads needs to run on multiple GPU
 and each one across nodes. And even more important, when we talk about AI and AI
 workloads, we actually start talking about distributed computing.
 And distributed computing is completely different than disaggregated computing,
-it's completely different than hyperscale, it's something new. And that's somethingFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13new in the clouds actually requires elements to support distributed computing. Now
+it's completely different than hyperscale, it's something new. And that's somethingnew in the clouds actually requires elements to support distributed computing. Now
 we started talking about latency needs and day latencies and effective bandwidth,
 those are completely different kind of requirements. So Traditional Internet is still fine
 for the North-South traﬃc of Gen AI clouds. We need to use their access to services,
@@ -157,9 +151,7 @@ performance or networking performance for AI, NCCL is great --great option to te
 the performance with. So you can look on what's my performance for NCCL
 reduction operations, what's my performance for NCCL all-to-all operations for
 example, and that will demonstrate the impact of the network. So it's a good way
-actually to test the network or to measures the network with. Sharp, it's a technologyFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13part of E-network computing, NVIDIA E-network computing. It's a technology that
+actually to test the network or to measures the network with. Sharp, it's a technologypart of E-network computing, NVIDIA E-network computing. It's a technology that
 implemented in the InfiniBand switch ASICs. It's not something that runs on a CPU,
 it's embedded within the switch ASIC. That enable the switch network to perform
 data reduction operations on the data as the data has been transferred within a data
@@ -204,9 +196,7 @@ sensitive to latency, but even more sensitive to Tail latency. In distributed co
 you run application across multiple GPUs, many, many GPUs in a sense. If one GPU
 communication is going to be late, only one, let's say that I'm running on 500 GPUs,
 if one GPU communication is going to be late out of the 400, just one, the entire
-workﬂows will be delayed -- the entire workﬂow will be delayed, so Tail latency is aFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13critical element for AI performance. It's completely not relevant for North-South
+workﬂows will be delayed -- the entire workﬂow will be delayed, so Tail latency is acritical element for AI performance. It's completely not relevant for North-South
 traﬃc, but it's critical for East-West.
 Effective bandwidth is important and you want to provide constant performance, you
 cannot have changes in performance levels and you need to deal with burstiness
@@ -249,9 +239,7 @@ latency. Long-day latency is not something that is very nice for AI workloads. Y
 don't want the buffers. So, now the idea here is combining lossless ethernet, find
 good [ph] adaptive routing and shallow buffers, that's the combination. This
 combination does not exist in traditional ethernet, completely does not exist. This is
-one part of Spectrum-X advantage.FINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Second part is doing congestion control. You need to eliminate hotspots. And we
+one part of Spectrum-X advantage.Second part is doing congestion control. You need to eliminate hotspots. And we
 designed Spectrum-X congestion control which is based on first telemetry
 information, but also have unique capabilities in the network in order to identify
 latency changes, so we can react to hotspots before they can impact performance of
@@ -296,9 +284,7 @@ created things that doesn't exist in traditional ethernet. But InfiniBand, when 
 look at InfiniBand, this is a different kind of architecture. They're not using the same
 architecture.
 InfiniBand was designed from the beginning to support distributed computing. And
-for that reason InfiniBand protocol is very simple. It's lightweight. It's very, veryFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13simple. And because it's very simple, there is no meaning in InfiniBand for leaf and
+for that reason InfiniBand protocol is very simple. It's lightweight. It's very, verysimple. And because it's very simple, there is no meaning in InfiniBand for leaf and
 spine, kind of freaking terms of Ethernet, there is leaf and spine, and in Ethernet you
 try to build two-level of networks, two-level of switches, and don't go beyond that
 two-level switches and stuff like that. It does not exist in InfiniBand. There is no such
@@ -343,9 +329,7 @@ Next slide, please. So this is where we look on the impact of the network. Netwo
 essentially a small part of the data center -- very small part of the data center
 expense. It has a huge impact. A huge impact on AI performance, and essentially, the
 network pays for itself -- the network pays for itself. InfiniBand offers the highest
-scalability out there. Again, you can build any size of system that you want with it, 3FINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13Q - Harsh Kumarlevels, 4 levels, 5 levels, there is unlimited number of GPUs you can connect
+scalability out there. Again, you can build any size of system that you want with it, 3Q - Harsh Kumarlevels, 4 levels, 5 levels, there is unlimited number of GPUs you can connect
 together. And then if you're looking on performance, and we took NCCL here again
 because NCCL is a good indication of the network performance for AI. So first, you
 see Spectrum-X. It's completely different design for Ethernet and its enabled the
@@ -386,9 +370,7 @@ answered a whole bunch of questions that I had before. One of the ones that I do
 get is investor concern around the fact that they already come to NVIDIA for
 compute. And then they come to NVIDIA for networking now based on the merits of
 what you for example just talked about. So we get a lot of questions. We are
-basically tied to NVIDIA a lot and I think, people as you know in semiconductorFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13A - Gilad Shainer
+basically tied to NVIDIA a lot and I think, people as you know in semiconductorA - Gilad Shainer
 Q - Harsh Kumar
 A - Gilad Shainerbusiness, in IT, they always want options. Could you maybe talk about what is -- is
 there a work around to that or are you the only ones that makes InfiniBand, or is it
@@ -430,9 +412,7 @@ inferencing is on the common, that's going to be a huge opportunity, so I wanted
 address that.
 
 No, yeah it's definitely good question, so training -- training requires very large-scale
-clusters right that are tightly coupled and optimized for massive, massive dataFINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Harsh Kumar
+clusters right that are tightly coupled and optimized for massive, massive dataQ - Harsh Kumar
 A - Gilad Shainer
 Q - Harsh Kumarcompute. Inferencing typically required much smaller -- smaller scale clusters. But,
 what's happening now is that generative AI is becoming mainstream. And therefore,
@@ -474,9 +454,7 @@ We've got two minutes, so I'll just ask one final question. In a typical setup, 
 as you guys go and deploy accelerated AI datacenter. Do you typically find the entire
 datacenter to be either or is it all InfiniBand, or is it all Ethernet or is there a
 possibility to mix-and-match some of your offerings, depending on what the lines are
-supposed to do?FINAL TRANSCRIPT 2023-06-28
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13A - Gilad Shainer
+supposed to do?A - Gilad Shainer
 Q - Harsh Kumar
 A - Gilad Shainer
 Yeah. So first obviously there are entire Ethernet systems out there, we all know that.

@@ -25,9 +25,7 @@ is the new baseline of what you need to actually bring change and where you're
 going from an overall perspective.
 When we look at what I cover the areas of enterprise applications, we find that, you
 know, the operating model has really shifted from on-premises and license and
-maintenance support over to the cloud in a subscription standpoint. And as you canFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 20Robert Mahowaldsee, we expect that trend to continue, but we also see that the reason that you're
+maintenance support over to the cloud in a subscription standpoint. And as you canRobert Mahowaldsee, we expect that trend to continue, but we also see that the reason that you're
 going to need that cloud and what you're going to do with it, it's changing as well.
 We really see that the information and what comes from the data sets and the
 information that's out in the external world, the IoT, the Internet of Things, Artificial
@@ -64,9 +62,7 @@ And I'm selling an all-in subscription cloud service, and there are many, many f
 of this from those that are metered by the gigabit or by the minute or even by the
 second. In the case it's in [ph] like AWS Lambda, all the way up to software,
 application software I should say, which is really to most customers looks -- doesn't
-feel so much, but it looks a lot like packaged software, because here, in a way that it'sFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 20paid for, because it's (Technical Diﬃculty) you're paying for perhaps a year upfront,
+feel so much, but it looks a lot like packaged software, because here, in a way that it'spaid for, because it's (Technical Diﬃculty) you're paying for perhaps a year upfront,
 and you might be paying for more than that and then you might be paying a year at
 a time.
 So nothing like -- quite like the granular metered services that we think about when
@@ -106,9 +102,7 @@ different from the IT cloud services market, where you're going to have both lif
 shift, you're going to have a lot of customers saying, you know, we want to move to
 something that's very much the same as what we were doing before.
 There's a lot of lift as well when you've got different categories of software that are
-brought together by one provider and being sold as a service to a customer and thatFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 20customer is getting more than they probably would have gotten otherwise if they
+brought together by one provider and being sold as a service to a customer and thatcustomer is getting more than they probably would have gotten otherwise if they
 had bought those pieces separately, and of course they're paying more for it, and so
 there's more -- more lifts there.
 In the cloud components world, it's really kind of a pie that's slowly turning from one
@@ -149,9 +143,7 @@ I would say on the emerging side, the Industry Cloud Services, Industry Cloud is
 topic that IDC has been covering for about two years. We're putting a lot of time and
 effort into this -- into it this year. I'd just brieﬂy say that it's -- it's centered around real
 center of gravity players in their industries. And if you look at some of the names
-here, you'll see that some of these companies are either early into certain nicheFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 20Mickey North Rizzamarkets or else they're industry leaders in their markets whether it's, you know,
+here, you'll see that some of these companies are either early into certain nicheMickey North Rizzamarkets or else they're industry leaders in their markets whether it's, you know,
 pharma, manufacturing, automotive, raw materials, you know, biotech, et cetera.
 And the notion here is that -- is that, an industry cloud is not only a place to do what
 you would do in a platform-as-a-service, everything from hosting data, doing
@@ -190,9 +182,7 @@ Oracle with seven, Accenture and Google with six, Microsoft with six, Cisco with
 IBM with five, the Amazon with four, and Apple with four.
 So, you know, if I just pick on, you know, a few out of the top 20 there. If I really look
 at this, what you're seeing when you look at the trends here, there's an awful lot of
-the cloud purchases, you see a lot into AI, data sets, anything from the digitalFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 20Robert Mahowaldtransformation world that's taking on beyond that Third Platform, because they've
+the cloud purchases, you see a lot into AI, data sets, anything from the digitalRobert Mahowaldtransformation world that's taking on beyond that Third Platform, because they've
 got the cloud basic or they are adding more cloud infrastructure in there, but now,
 they're getting to the next standpoint to say what are the information pieces we
 need and the other platform pieces we need to round out our offering. And if I think
@@ -231,9 +221,7 @@ If I want to be a complete cloud company, then what that means is, I've got to
 operationalize a set of services. I've got a consumer hardware and software, I've got
 to sort of orient my professional services operation, and I've got to have a full range
 of developer services, application services, and self-service infrastructure services,
-network compute and storage.FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 20And to do that, I need to -- I'm not going to have necessarily a lot of differentiators
+network compute and storage.And to do that, I need to -- I'm not going to have necessarily a lot of differentiators
 by having that, but I need to get to that level of the ability to compete at that total
 cloud level, because, you know, IDC believes that there is a great sense of urgency
 from these customers, and also from these vendors I should say and also from their
@@ -272,9 +260,7 @@ that are most important right now.
 Normalize the balance sheet is also super important, when we report on Oracle's
 quarter -- last quarter 80% growth in the SaaS portfolio, but the organic growth
 around the Fusion portfolio is really below 40%. So, you know, really less than half
-the growth there, and even more than that, when you consider the pipeline.FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 20Mickey North Rizza
+the growth there, and even more than that, when you consider the pipeline.Mickey North Rizza
 Robert MahowaldAnd the message there is that, Oracle figured out, you know, early on that they
 needed to have -- they need to have Taleo and Eloqua and RightNow, and all the
 other companies that they've bought that had a substantial customer stream that
@@ -312,9 +298,7 @@ It's for a -- it's for a market with a lot of variability. We've got some mature
 of cloud software and some immature segments of cloud software and so that makes
 a lot of sense. So cloud software for IDC is Software-as-a-Service, so that is -- that
 includes applications and system infrastructure software, so things like storage
-software, archiving IT service management, security, et cetera, that's all part of SaaS.FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 20And you see because -- if you kind of look at the middle of the slide, applications-as-
+software, archiving IT service management, security, et cetera, that's all part of SaaS.And you see because -- if you kind of look at the middle of the slide, applications-as-
 a-service, SIS as a service and also included in cloud software for IDC is platform-as-
 a-service, and so the platform-as-a-service piece is there. And you can see the
 growth over time and in particular see the importance to these key incumbent
@@ -353,9 +337,7 @@ they're really serving an industry-specific customer, particularly, you know, so
 maybe the point of sales software, they haven't really needed to have any kind of as-
 a- service revenue.
 And so that -- you know, so now that they have some, but we're going to talk about
-what that means for them in the next slide, that's a big deal for them, right, to haveFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 20that. And if you look at some of these stats here, I mean you all can read as well as I
+what that means for them in the next slide, that's a big deal for them, right, to havethat. And if you look at some of these stats here, I mean you all can read as well as I
 can, they enter life with market enablers, you know, there are a whole set of start-up
 companies who've glommed on universities, glommed onto the big ISVs, and
 middleware and database providers, and that isn't a good idea, and they should say,
@@ -393,9 +375,7 @@ This is just for the pieces of the portfolio that are delivered as-a-service, ri
 from all vendors (Technical Diﬃculty) below that you see -- you see that it is a little bit
 lower, right? And so this is from, you know, this could be from companies or list of
 companies who may make only a small amount of their revenue from delivering
-cloud services.FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 20So as I remind people all the time, a company even with substantial as-a-service
+cloud services.So as I remind people all the time, a company even with substantial as-a-service
 revenues like Microsoft, for example, still probably makes less than 7% of their total
 revenue from delivering cloud services. That's just the way it is. And I think it
 represents the relatively slow nature of change in our industry.
@@ -434,9 +414,7 @@ was coming like a fast train; two, we need to get our shops and understand how t
 works in our world; and three, our chance to take some of that growth is greatly
 diminished if we don't do this now and do the hard work now, whether it's through
 merger or whether it's through, you know, through building our own set of services
-and walking our customers through the hard steps to get there.FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 20Mandeep Singh
+and walking our customers through the hard steps to get there.Mandeep Singh
 Robert MahowaldBoards understand this, the C-Suite understands this (Technical Diﬃculty)
 understand that. And so, I think it -- there is very few of our vendor customers who
 don't understand this message now.
@@ -476,9 +454,7 @@ they couldn't bring. That I think instilled some fear in the hearts of the big a
 providers and I think drive some of the pressure to acquire somebody big and
 spend a lot of money as you point out.
 I don't know, I don't really think other than Workday, I don't know of anybody really
-big, real valuable property out there in the core enterprise application space who weFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 20Mickey North Rizza
+big, real valuable property out there in the core enterprise application space who weMickey North Rizza
 Mandeep Singh
 Mickey North Rizza
 Mandeep Singh
@@ -515,9 +491,7 @@ times and on the areas that it needs to be in at this point of time, enterprise 
 management, you're going to see that continue, that has already gone through quite
 a bit, order management has some, and then I guess CRM is a hot topic obviously
 with everything that Salesforce has been doing.
-Robert, did you have any other thoughts, supply chain would you want to?FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 20Robert Mahowald
+Robert, did you have any other thoughts, supply chain would you want to?Robert Mahowald
 Yes. I would say, you know, obviously, we've got some -- we've got a great slide, I
 wish I add in here. We've got some, what we call, functional markets, so the most
 atomic size market that we have. So, for example, you know, treasury and risk is
@@ -557,9 +531,7 @@ applications that are really in -- that really have a lot of functional domain e
 and really were designed for particular industry, that's really an under-penetrated
 segment in terms of the amount of SaaS revenue that is driven by these guys, and
 they sort of started small and they've stayed small, because they're sort of in one
-relatively niche space and I think as they desire to get bigger and to the broaderFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 15 of 20Mandeep Singh
+relatively niche space and I think as they desire to get bigger and to the broaderMandeep Singh
 Robert Mahowald
 Mandeep Singhworld, I think a set of vendors that's above them and does, you know, though it does
 more broad work is poised to buy more and more of that capability and serve their
@@ -598,9 +570,7 @@ Okay. And just a reminder for everyone, you can submit a question through the
 webinar link. So please feel free to do that. We still have 10 more minutes. So, I just
 want to move on to IT services. What kind of deals should we expect over there,
 because Accenture has been very acquisitive in the last one year. So, do you see any
-trends in that part?FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 16 of 20Robert Mahowald
+trends in that part?Robert Mahowald
 Mickey North Rizza
 Robert Mahowald
 Yes.
@@ -638,9 +608,7 @@ not even so important anymore whether you've got customers or whether, you know,
 how you've operationalized, that's not going to matter so much anymore. They don't
 need people who really run physical assets anymore.
 And so I think that's -- I expect to see the order of magnitude and purchases to be
-smaller to buy, just, you know, smaller teams with functional domain experience whoFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 17 of 20Mandeep Singh
+smaller to buy, just, you know, smaller teams with functional domain experience whoMandeep Singh
 Robert Mahowald
 Mandeep Singhhave got coding ability and who understand domains really well, kind of like I -- we
 talked about a little bit in the software side, what's going to be acquired, I think it's
@@ -682,9 +650,7 @@ during this transition will be the ones who create that, that they are there.
 
 We have a question from one of our listeners. He is asking, who is best positioned to
 provide cloud services to the Federal government, not only civilian side but
-especially on the defense side?FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 18 of 20Robert Mahowald
+especially on the defense side?Robert Mahowald
 Mandeep Singh
 Robert Mahowald
 Yes. And I would say, this is an area we've got a whole team of government analysts
@@ -723,9 +689,7 @@ you know, what are the complex customer problems that they don't even really kno
 that they have yet is what they would try to acquire for. I think, you know, I haven't
 talked to the folks at Amazon and at Google and at Microsoft, particularly a lot, I think
 there's a lot of something verging on hubris in terms of what they think that they can
-build.FINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 19 of 20Mickey North Rizza
+build.Mickey North Rizza
 Robert Mahowald
 Mandeep Singh
 Robert MahowaldAnd it's -- I think they're probably right from a technical engineering standpoint, the
@@ -765,9 +729,7 @@ Cognitive team, convinced that it's so much that, that kind of capability will t
 some of the core applications providers particularly way out of the league that we've
 seen from Microsoft and Salesforce and Oracle and SAP, this kind of capability
 announced, I will tell you from -- just, you know, from being out and visiting our
-friends in Waldorf a couple of weeks ago and from talking to Salesforce about thisFINAL TRANSCRIPT 2016-10-06
-Alphabet Inc (GOOGL US Equity)
-Page 20 of 20Mandeep Singh
+friends in Waldorf a couple of weeks ago and from talking to Salesforce about thisMandeep Singh
 Mickey North Rizza
 Robert Mahowaldextensively, there are capabilities that they don't know how that, that they really want
 to have and be able to complete a whole workﬂow for customers around AI and that

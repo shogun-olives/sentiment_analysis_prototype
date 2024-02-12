@@ -10,9 +10,7 @@ are based on current expectations and assumptions that are subject to risks and
 uncertainties. Actual results could materially differ because of factors discussed in
 today's conference call and in the Risk Factors section of our Form 10-K, Form 10-Q
 and other reports and filings with the Securities and Exchange Commission. We do
-not undertake any duty to update any forward-looking statement.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Frank Henry BrodOn our website, microsoft.com/investor, is our slide deck, which is intended to follow
+not undertake any duty to update any forward-looking statement.Frank Henry BrodOn our website, microsoft.com/investor, is our slide deck, which is intended to follow
 today's discussion. Additionally, you can also find today's 8-K filing and our restated
 historical results on our website as well as our fiscal 2017 10-K, which was filed
 yesterday in the current revenue standard.
@@ -46,9 +44,7 @@ software industry is one of the most impacted industries due to the elimination 
 specific rules governing revenue deferrals.
 Under this new standard, software revenue is now recognized upfront. And revenue
 related to the value of ongoing obligations, such as software updates, must be
-estimated and deferred.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Moving on to Slide #6. Under the new revenue standard, recognition for many areas
+estimated and deferred.Moving on to Slide #6. Under the new revenue standard, recognition for many areas
 of Microsoft's business remain unchanged. This includes revenue for cloud services,
 hardware, enterprise services and advertising revenue. Also, our cost of revenue
 does not change. And most importantly, there's no change in our relationship with
@@ -86,9 +82,7 @@ Under the current standard, we provide investors non-GAAP measures that exclude
 the impact from Windows 10 OEM revenue deferrals to aid in their understanding of
 our performance. Under the new standard, we will no longer need to provide this
 revenue adjustment. And we'll report revenue solely on a GAAP basis. And going
-forward, 3% of the Windows 10 OEM revenue will be deferred in the More PersonalFINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14Computing segment. This relates to our obligation to customers to deliver ongoing
+forward, 3% of the Windows 10 OEM revenue will be deferred in the More PersonalComputing segment. This relates to our obligation to customers to deliver ongoing
 security enhancements and the latest features and updates over the life of the
 Windows 10 devices.
 Importantly and as you can see in the example, there is no impact to customer billing
@@ -124,9 +118,7 @@ However, we provide non-GAAP measures to exclude the impact from Windows 10
 OEM revenue deferrals. And so many analysts and investors are also familiar with the
 fiscal year '17 non-GAAP revenue of $96.7 billion, which you will see on the third bar.
 The next 2 bars represent the net impact of moving the license component of our
-on-premises annuity contracts, Oﬃce consumer on-premises licenses in Japan,FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14nonvolume-based patent licensing contracts and some gaming content, such as
+on-premises annuity contracts, Oﬃce consumer on-premises licenses in Japan,nonvolume-based patent licensing contracts and some gaming content, such as
 Halo 5, to upfront revenue recognition under the new standard.
 Of these changes, the largest impact is in our commercial on-premises annuity
 business. Under the current revenue standard, fiscal year '17 included recognition of
@@ -161,9 +153,7 @@ The most impactful change is Windows 10 OEM, the first gray bar on the chart,
 driving a $13.3 billion decrease. The second gray bar represents the license
 component of on-premises annuity contracts that are no longer recorded to
 unearned revenue as well as small amounts related to offer consumer licenses in
-Japan, patent licensing and gaming content.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14Chris SuhAnd lastly, the green bar represents the increase in unearned revenue for the 3%
+Japan, patent licensing and gaming content.Chris SuhAnd lastly, the green bar represents the increase in unearned revenue for the 3%
 Windows 10 OEM deferral. The net impact of these changes is a $17.8 billion
 decrease to the total unearned revenue balance. Again, this was restated to prior
 periods and to retained earnings. Given these changes, on a go-forward basis,
@@ -199,9 +189,7 @@ revenue does not change as the license component of our on-premises annuity
 contracts decreases, over time, the growth rates between the current and new
 standard should be identical.
 Moving to Slide 14. This slide is a quarterly view of fiscal '17. While the full year is
-minimally impacted, as Frank mentioned earlier, the new revenue standard results inFINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14a more -- in more variability quarter-to-quarter and changes the seasonality pattern
+minimally impacted, as Frank mentioned earlier, the new revenue standard results ina more -- in more variability quarter-to-quarter and changes the seasonality pattern
 of our reported revenue within a given year. Here, you can clearly see this impact.
 Revenue has shifted from our first, second and Third Quarters into our Fourth
 Quarter. Our Fourth Quarter typically experiences the highest volume of on-
@@ -241,9 +229,7 @@ highlight. First, the continued innovation across the intelligent cloud and inte
 edge means that our on-premises server business and our Azure cloud both
 contribute to billings growth. From a mix perspective, Azure billings growth has
 been tremendous, far outpacing our on-premises growth, resulting in the mix you
-see here. And second, because of this continued growth of on-premises annuityFINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14contract billings, we see the highest mix of billings that are impacted by in-quarter
+see here. And second, because of this continued growth of on-premises annuitycontract billings, we see the highest mix of billings that are impacted by in-quarter
 sales and inherently, more variable quarter-to-quarter.
 Finally, Windows commercial products and services. This view reﬂects healthy growth
 across transactional, license component and Cloud and Software Assurance billings
@@ -281,9 +267,7 @@ driven primarily by this license component revenue growth as our installed base
 grows and customers increasingly adopt our security solutions.
 And for fiscal '17, gaming revenue has a total impact of $24 million as previously
 deferred gaming revenue, primarily Halo 5, is now recognized upfront under the
-new standard.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Frank Henry BrodMoving to Slide 20, these are our commercial metrics. First, because there's no
+new standard.Frank Henry BrodMoving to Slide 20, these are our commercial metrics. First, because there's no
 change to commercial bookings, commercial billings and cash ﬂow with the new
 revenue standard, those metrics remain unchanged.
 Let's go to the impacted metric, commercial unearned revenue. Frank has walked
@@ -319,9 +303,7 @@ this standard in conjunction with the new revenue standard and providing just on
 set of restated financial statements to reduce the impact on investors.
 To enable this, we've implemented the KPMG leasing tool, which is hosted on Azure.
 Under the lease accounting standard, there are no changes to our income
-statement, to operating cash ﬂow or to free cash ﬂow, nor are there impacts of theFINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Chris Suhmethodology that we use to determine whether a lease is categorized as an
+statement, to operating cash ﬂow or to free cash ﬂow, nor are there impacts of theChris Suhmethodology that we use to determine whether a lease is categorized as an
 operating lease or a financer capital lease.
 There will also be no impact to our debt covenants. The new lease standard does
 drive a change to the balance sheet as the operating leases will now be recorded
@@ -354,9 +336,7 @@ revenue under the new standard to be $7.85 billion to $8.05 billion, including
 approximately $1.1 billion of LinkedIn revenue.
 In Intelligent Cloud, we expect revenue under the new standard to be $6.55 billion
 to $6.75 billion. And in more personal computing under the new standard, there is
-no change to our revenue expectation of $8.6 billion to $8.9 billion.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Operator
+no change to our revenue expectation of $8.6 billion to $8.9 billion.Operator
 Q - Karl Emil Keirstead
 A - Chris SuhThe new revenue standard does not change our expectations for foreign exchange
 impact and the cost of revenue.
@@ -393,9 +373,7 @@ standpoint, from a sales and go-to-market perspective, there is no real change a
 in terms of that engagement. So it really is a revenue recognition timing question.
 And so from that perspective, again, with the new standard, because more revenue
 will be reported -- because revenue for the license component of those on-prem
-annuity contracts will be reported in the quarter that it's signed and that -- theFINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Operator
+annuity contracts will be reported in the quarter that it's signed and that -- theOperator
 Q - Mark L. Moerdler
 A - Chris Suh
 Q - Mark L. Moerdler
@@ -435,9 +413,7 @@ than one year. And if the incentives were previously paid for more than one year
 contract, then we have to differ those and take them over the life of the contract. But
 most of the programs we have in Microsoft actually match to each year's revenue
 billing. So there is not any (technical diﬃculty) so you'll see the numbers as you look
-at the historical change as very modest.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Operator
+at the historical change as very modest.Operator
 Q - Ross Stuart MacMillan
 A - Chris Suh
 Operator
@@ -478,8 +454,6 @@ your best guidepost here. Okay, well, I think that wraps up the Q&A portion of
 today's call. In closing, we hope you found this presentation helpful in
 understanding the impact of the new revenue accounting standard and the new
 leasing standard. And please contact us if you have any additional questions. Thank
-you for joining.FINAL TRANSCRIPT 2017-08-03
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14Operator
+you for joining.Operator
 Thank you. This concludes today's teleconference. You may disconnect your lines at
 this time. Thank you for your participation.

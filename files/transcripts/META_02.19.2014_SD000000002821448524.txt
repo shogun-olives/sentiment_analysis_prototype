@@ -7,9 +7,7 @@ remarks today will include forward-looking statements and actual results may dif
 materially from those contemplated by these forward-looking statements. Factors
 that could cause these results to differ materially are set forth in today's press release
 and our annual report on Form 10-K filed with the SEC. Any forward-looking
-statements that we make on this call are based on assumptions as of today and weFINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 2 of 13Mark Zuckerbergundertake no obligation to update these statements as a result of new information or
+statements that we make on this call are based on assumptions as of today and weMark Zuckerbergundertake no obligation to update these statements as a result of new information or
 future events.
 And now, I'd like to turn the call over to Mark.
 
@@ -45,9 +43,7 @@ monthly and more than 1 million new people are signing up every day.
 Based on our experience of building global services with strong growth and
 engagement, we believe WhatsApp is on a path to reach over 1 billion people
 worldwide in the next few years. Internet services that reach 1 billion people are all
-incredibly valuable and we believe WhatsApp will be as well.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 3 of 13Jan KoumOur focus will remain on connecting more people and increasing engagement but,
+incredibly valuable and we believe WhatsApp will be as well.Jan KoumOur focus will remain on connecting more people and increasing engagement but,
 over the long term, we look forward to seeing what the team can do to build a really
 great business. We expect them to bring the same quality and innovation they bring
 to the rest of the product and the successful subscription model they already have in
@@ -85,9 +81,7 @@ Facebook board and partner with me to shape the future of Facebook as well as
 WhatsApp.
 Thanks again for taking the time to join us today and now I'd like to hand it over to
 Jan.
-FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 4 of 13Thanks, Mark. I'm delighted that WhatsApp is joining Facebook and I'm really
+Thanks, Mark. I'm delighted that WhatsApp is joining Facebook and I'm really
 looking forward to working together. This is an incredible moment for me and the
 entire team and I want to start by just thanking them.
 Over the last five years, our team has grown WhatsApp into a product used by
@@ -125,9 +119,7 @@ moving fast and innovating, even as the Company had scale. And I think this will
 model for the way we think about our future as a company too.
 I'm excited for our future and I'm confident that the combination of WhatsApp and
 Facebook will allow us to do amazing new things together. I'm very gratified for this
-chance to keep our team together to continue building and scaling the product.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 5 of 13David Ebersman
+chance to keep our team together to continue building and scaling the product.David Ebersman
 Operator
 Q - Eric SheridanAnd now I'd like to hand it over to David.
 
@@ -161,9 +153,7 @@ give us some color around the transaction itself? Was this a competitive process
 was this purely a discussion between Facebook and WhatsApp over the last couple
 of weeks and months?
 And second, longer term, Mark, maybe you can help us understand how the
-companies will work together under the Facebook umbrella and how might theirFINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 6 of 13A - Mark Zuckerberg
+companies will work together under the Facebook umbrella and how might theirA - Mark Zuckerberg
 Operator
 Q - Doug Anmuthgoals at WhatsApp be achieved both independently and working more closely with
 Facebook. Thanks.
@@ -201,9 +191,7 @@ And that's going to be the model that we use here too. So whatever services and
 employees that Jan would like to join WhatsApp, we will be able to do and we're not
 going to push very much. And Jan and I are going to continue to be in dialogue
 about the strategies of the overall company and what we want to do.
-Doug Anmuth, JPMorgan.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 7 of 13A - Mark Zuckerberg
+Doug Anmuth, JPMorgan.A - Mark Zuckerberg
 A - Jan Koum
 A - Deborah CrawfordGreat. Thanks for taking the question. Jan and Mark, I'm hoping you can talk a little
 bit more about monetization. You mentioned in the early stages here at WhatsApp.
@@ -241,9 +229,7 @@ So we really, really are excited about the growth today and the potential of whe
 going to be five, ten years from now and we're not really concerned about
 monetization today. We're focused on the growth.
 
-Next question.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 8 of 13Operator
+Next question.Operator
 Q - Mark May
 A - David Ebersman
 A - Deborah Crawford
@@ -281,9 +267,7 @@ increase usage of Facebook or do you even see that as a need? Thanks.
 
 So this is our operational strategy in the Company, not just the acquisitions that we
 do. But we want to keep all of the different apps and experiences, we want the
-people who are running them to have autonomy. We have many different productsFINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 9 of 13A - Deborah Crawford
+people who are running them to have autonomy. We have many different productsA - Deborah Crawford
 Operator
 Q - Ross Sandler
 A - Jan Koumat this point and we have a lot of really talented people running them. And that's just
@@ -321,9 +305,7 @@ Sure, absolutely. I think we will try to not talk about the product roadmap toda
 because we've historically not done it and we don't usually talk about our upcoming
 features or our upcoming releases. But what's important to understand and what
 Mark has mentioned previously is that WhatsApp will stay independent and
-WhatsApp will continue to operate autonomously.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 10 of 13A - Mark Zuckerberg
+WhatsApp will continue to operate autonomously.A - Mark Zuckerberg
 Operator
 Q - Unidentified Participant
 A - David EbersmanWe have certain goals we've set out for ourselves in general at WhatsApp on what
@@ -361,9 +343,7 @@ than for standalone Facebook?
 Hi, Kevin. If you look at the kind of penetration that WhatsApp has achieved, it sort of
 goes without saying that they have good penetration across all demographics, we
 would imagine. But it's not a service that asks you to tell them your age when you
-sign up.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 11 of 13A - Deborah Crawford
+sign up.A - Deborah Crawford
 Operator
 Q - Anthony DiClemente
 A - David Ebersman
@@ -399,9 +379,7 @@ Sure. So let me take the second one first. I mean you can't be growing at a pace
 that without growing pretty broadly around the world and that's what's happening
 with this service. So it's extremely impressive how they're executing.
 In terms of valuation, as we've discussed in the remarks, the sort of primary thing that
-we focused on was just how healthy this network is and how well it's growing andFINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 12 of 13Operator
+we focused on was just how healthy this network is and how well it's growing andOperator
 Q - Brian Weiser
 A - David Ebersman
 A - Deborah Crawford
@@ -438,9 +416,7 @@ Yes, Mark, could you maybe talk a little bit about the competitive dynamics? You
 obviously got other large messaging platforms out there; LIME, WeChat, Kakao, Kik,
 etc. Could you talk about the technological moat around the Company? And have
 you been able to quantify any sort of data sharing and lift you'd get from sharing
-data back and forth? Thank you.FINAL TRANSCRIPT 2014-02-19
-Meta Platforms Inc (META US Equity)
-Page 13 of 13A - Mark Zuckerberg
+data back and forth? Thank you.A - Mark Zuckerberg
 A - Deborah Crawford
 Operator
 Yes. I mean messaging is a very competitive space as you're saying. WhatsApp, I

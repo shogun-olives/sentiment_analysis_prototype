@@ -1,6 +1,4 @@
-FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 1 of 19Alysa Taylor, Corporate Vice President of Azure and Industry Marketing
+Alysa Taylor, Corporate Vice President of Azure and Industry Marketing
 Unidentified Participant, Analyst, UBS
 Unidentified Participant
 Alysa Taylor
@@ -26,9 +24,7 @@ AI services as well as our data infrastructure, digital app, and innovation and
 infrastructure. So, that's the entirety of the Azure portfolio. And then I also have the
 responsibility for our global industry. So, everything from our regulated to non-
 regulated industries including sustainability.
-Okay.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 2 of 19Alysa Taylor
+Okay.Alysa Taylor
 Unidentified Participant
 Alysa Taylor
 Unidentified Participant
@@ -58,9 +54,7 @@ So, business business as usual.
 Okay. Nice to hear. Let's talk about another big event recently and that is, I think you
 played a central role with Guthrie and the team at Ignite, so that was a big event. We
 had one of our team members there to talk with customers and partners and learn.
-But what were the couple of key takes for you coming out of Ignite?FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 3 of 19Alysa Taylor
+But what were the couple of key takes for you coming out of Ignite?Alysa Taylor
 Unidentified Participant
 Alysa Taylor
 Unidentified ParticipantIt was a really exciting event for us, because we introduced a bunch of innovation
@@ -95,9 +89,7 @@ one single source.
 Okay. Let's, I mean, can we unpack the first one a little bit?
 Of course.
 You led with it, so let's go there, the new Maya chips. So, I think, one question on
-everybody's mind is, Microsoft has an enormous and successful partnership withFINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 4 of 19Alysa Taylor
+everybody's mind is, Microsoft has an enormous and successful partnership withAlysa Taylor
 Unidentified Participant
 Alysa Taylor
 Unidentified Participant
@@ -128,9 +120,7 @@ With your customers. So, I think everybody could also benefit from your perspect
 on how those conversations are going, you know, where we are on the adoption
 curve, where customers that are in the use-case discovery process. What are those
 use cases that are coming up in that initial wave? In other words, where are they
-getting the greatest ROI near-term? That might be helpful for everybody.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 5 of 19The use cases that we see emerging, really, we look at it in three dimensions. So we
+getting the greatest ROI near-term? That might be helpful for everybody.The use cases that we see emerging, really, we look at it in three dimensions. So we
 look at it by very specific industry use cases, what are the line-of-business use cases,
 and then what are the individual function use cases? And so I'll give you just a
 couple of examples of some of the more prevalent, that we see. In industry,
@@ -172,9 +162,7 @@ So, if you think about just we've talked for years about digital transformation,
 speed. So, it's just the pervasiveness of the adoption, the speed of adoption. And
 then probably most interesting to this community is that for every dollar -- it was
 reported for every dollar that the organization had spent on average, they were
-seeing a return of $3.5 return on that dollar.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 6 of 19Unidentified Participant
+seeing a return of $3.5 return on that dollar.Unidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -203,9 +191,7 @@ And really the systems approach that I keep talking about is so core to this bec
 that is how we are able to be able to do capacity planning across our GPU
 allotments, whether that be through our partnerships across NVIDIA and others, as
 well as now our own first-party investments in it and then being able to do demand
-shaping by geo. And, you know, we do this all wrappered in our commitments toFINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 7 of 19Unidentified Participant
+shaping by geo. And, you know, we do this all wrappered in our commitments toUnidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -231,9 +217,7 @@ Not only getting your hands on the chips, but the power requirements are differe
 Absolutely. Right.
 The -- literally, the LAN, the data center, the networking architecture, are any one of
 those constraints any greater than the other in terms of standing up that
-infrastructure, or is it a collection of all of those?FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 8 of 19Alysa Taylor
+infrastructure, or is it a collection of all of those?Alysa Taylor
 Unidentified Participant
 Alysa Taylor
 Unidentified Participant
@@ -268,9 +252,7 @@ as how we do capacity and demand planning, is a real benefit and it's paying off
 only in industry benchmarking but also for our customers to have the most
 performant and cost-effective. Okay, let's talk about the pricing a little bit on those
 Azure compute resources. Yes.
-A lot of us watched Sam Altman and the team at the recent OpenAI Developer Day.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 9 of 19Unidentified Participant
+A lot of us watched Sam Altman and the team at the recent OpenAI Developer Day.Unidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -294,9 +276,7 @@ So, my first reaction was, boy, if they could reduce the price per token by 3x,
 knowing that the consumption of Azure resources are a big part of that cost
 structure, does that mean that LLMs are becoming incrementally less compute-
 heavy, compute-centric? Which probably wouldn't be a great thing for Azure. How
-would you respond to that?FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 10 of 19Unidentified Participant
+would you respond to that?Unidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -329,9 +309,7 @@ kind of the different models for different use cases and be able to reason and
 govern over those models.
 So, there's the compute aspect of the models and the inferencing of the models, but
 then there's the data aspect of it. And so more and more, you know, your AI is only
-as good as your data estate. And so, you see it's not just about the compute of theFINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 11 of 19Unidentified Participant
+as good as your data estate. And so, you see it's not just about the compute of theUnidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -365,9 +343,7 @@ commitment is to grow workloads across every aspect of the Azure Cloud while
 making sure that we are working hand in hand with our customers to, you know,
 maximize their price to performance.
 Okay. Can we hit a little bit before we get to data on the optimization side? I think
-there's acute interest in that.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 12 of 19Unidentified Participant
+there's acute interest in that.Unidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -398,9 +374,7 @@ services at the beginning.
 Okay. Got it. Let's talk about data now.
 Okay.
 A number of interesting topics here. So, one that intrigues me a little bit is this notion
-that in advance of, or perhaps concurrent with enterprises moving forward on AIFINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 13 of 19Alysa Taylor
+that in advance of, or perhaps concurrent with enterprises moving forward on AIAlysa Taylor
 Unidentified Participant
 Alysa Taylor
 Unidentified Participantprojects, they need, to, quote, get their data estates in order.
@@ -436,9 +410,7 @@ the pace at which organizations are embracing the cloud? Are they -- is it boost
 the on-prem to cloud data migration effort? Is it causing any acceleration in the pace
 at which you're running your databases in the cloud versus on-prem? Is that
 beginning to happen? I'm sure it's been a constant process. I'm curious if AI is acting
-in any way as an accelerant.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 14 of 19Alysa Taylor
+in any way as an accelerant.Alysa Taylor
 Unidentified Participant
 Alysa TaylorAbsolutely. If you think about there -- when you think about AI in the terms of
 applications, you are either modernizing an application or you are building a net
@@ -476,9 +448,7 @@ This might be a good time to ask you a little bit about the Oracle relationship 
 database on Azure. So, by the way, Alysa, your profile among investors went
 massively up when you were seated in between Satya and Larry for that session. I
 think everybody in the room probably watched you then. How fun must have that
-been, right?FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 15 of 19Unidentified Participant
+been, right?Unidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -505,9 +475,7 @@ Azure. And so, we have a very unique partnership where you can run your OCI
 database directly in Azure, so as you're modernizing and that governance
 management and modernization can happen in a very integrated way. And for us,
 you know, it gives, you know, Oracle's over 400,000 -- over 400,000 customers, the
-ability to bring OCI directly into Azure and run natively in an Azure environment.FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 16 of 19Unidentified Participant
+ability to bring OCI directly into Azure and run natively in an Azure environment.Unidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -537,9 +505,7 @@ world which is, there are more applications being wanting to be built than there
 developers. And so, you -- this is why you see things like the low code tooling come
 online. And so, it is both about making the developers more productive and giving
 them the tools to be able to do that. And so GitHub Copilot has actually been a
-phenomenal productivity gain for developers. So, developers that are using GitHubFINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 17 of 19Unidentified Participant
+phenomenal productivity gain for developers. So, developers that are using GitHubUnidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -569,9 +535,7 @@ M365, it is about enhancing the productivity and both enhancing the productivity
 and what we call unleashing the creativity. So allowing humans to be more creative
 and more satisfied in their work. We at Ignite released our Work Trends Index which
 reported of the Microsoft 365 Copilot users, 70% of them, they indicated that they
-were more -- that they would not give up Copilot, that it had become instrumentalFINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 18 of 19Unidentified Participant
+were more -- that they would not give up Copilot, that it had become instrumentalUnidentified Participant
 Alysa Taylor
 Unidentified Participant
 Alysa Taylor
@@ -597,9 +561,7 @@ Quite key.
 Let's give you a chance to make some closing remarks. I know we're out of time. So,
 maybe, Alysa, but when you think about the next three-plus years managing a
 business as broad as Azure, what are the couple of things that gets you most excited
-in terms of the growth trajectory?FINAL TRANSCRIPT 2023-11-29
-Microsoft Corp (MSFT US Equity)
-Page 19 of 19Alysa Taylor
+in terms of the growth trajectory?Alysa Taylor
 Unidentified Participant
 Alysa Taylor
 Unidentified Participant

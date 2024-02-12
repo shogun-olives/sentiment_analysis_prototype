@@ -19,9 +19,7 @@ responsibilities, key product areas of focus, just to help steer the conversatio
 we can just dive in from there.
 Absolutely. Sounds good. So I head up what we call the business applications and
 platform team, which basically maps to Dynamics 365 and Power Platform as our set
-of products. I lead the product management, as well as the engineering component.FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 2 of 12Michael Turrin
+of products. I lead the product management, as well as the engineering component.Michael Turrin
 Charles LamannaSo basically all from design to implementation to servicing of all of those different
 Cloud offerings. I've been on -- in this area for about 4 years. Before that I worked in
 Azure for 4 years. And I joined Azure in 2013, when a company I founded was
@@ -61,9 +59,7 @@ get value from that data. And this idea of automation helps with things like red
 costs for delivering customer support by 20% or 25% or improving targeting or
 upsell or cross-sell in your e-commerce website by 5%, really top line and bottom
 line moving outcomes for AI, which is very different than just a pure AI platform. It's
-very tied to the business process.FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 3 of 12And the third piece is around collaboration. And it's this idea that in the past, I say,
+very tied to the business process.And the third piece is around collaboration. And it's this idea that in the past, I say,
 Biz app data and Biz app users kind of lived in little islands throughout the company.
 But a big push we want to go do is how do we reimagine a world where data is
 shared across the company and people can work together. So just like you don't
@@ -105,9 +101,7 @@ in the Cloud. And we have new areas like Power Apps, which are growing at right
 around 200% year-over-year growth. So a lot of new exciting and rapidly growing
 products, kind of embracing this idea in the Cloud and embracing this idea of data,
 AI and collaboration. Maybe a little bit longer answer than you wanted, but I think
-that's a good left to right view we're having in our Microsoft.FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 4 of 12Michael Turrin
+that's a good left to right view we're having in our Microsoft.Michael Turrin
 Charles Lamanna
 Now, it sets the stage for planning. And we've heard the intelligent applications in
 Power Platform mantra quite a bit. So it's good to get some -- you know some more
@@ -147,9 +141,7 @@ an advertising infrastructure. It's actually data that our customers owning to m
 themselves.
 So it gives them some degree of independence, which is going to be more and
 more important as we go through all of these fundamental changes and how you
-can track and what can be provided in the browser or on mobile devices. And if youFINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 5 of 12Michael Turrin
+can track and what can be provided in the browser or on mobile devices. And if youMichael Turrin
 Charles Lamanna
 Michael Turrin
 Charles Lamannadon't do this, you're not going to be effective. And we can see the impact already. I
@@ -186,9 +178,7 @@ challenges. This huge demand and insuﬃcient supply by going and teaching
 everybody how to write code. Go teach just random people how to write code, go
 teach people who work in finance to write code, and we've tried that. And it has not
 been successful at scale. I mean, it hasn't. I mean, it gets worse. Like literally, I used to
-have that stat that there's a million developers shortfall.FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 6 of 12Now we got to update, there's a 4 million developer shortfall. So it grows every year.
+have that stat that there's a million developers shortfall.Now we got to update, there's a 4 million developer shortfall. So it grows every year.
 We think though that there is a way to go solve this. And that's through what we call
 low code development. Low code development is just a idea that in a visual
 interactive way, much like how you use Excel and PowerPoint, you can go develop
@@ -229,9 +219,7 @@ And that's actually why Dynamics and Power Platform are together inside of
 Microsoft, because we think they go so closely and so well, when you leverage both
 because it's all about business process transformation, about business value,
 business outcomes. In some cases, an app is great for off the shelf. Sometimes there
-is no app for that, you got to build it yourself, drop into power platform. Tons ofFINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 7 of 12Michael Turrin
+is no app for that, you got to build it yourself, drop into power platform. Tons ofMichael Turrin
 Charles Lamanna
 Michael Turrin
 Charles Lamannaenergy there. And that's something that I'd say definitely worth tracking over the
@@ -268,9 +256,7 @@ really have something unique at Microsoft. And the reason I think that uniquenes
 important is because RPA is going through a little bit of a change. Like internally, we
 call it the move from like RPA to Cloud RPA or RPA to RPA 2.0 or Gartner calls a
 hyper automation, is this idea of automation just being UI macros, is kind of a gross
-simplification of what you really want to do on the go deliver business value.FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 8 of 12Michael Turrin
+simplification of what you really want to do on the go deliver business value.Michael Turrin
 Charles LamannaAnd instead when we talk about Cloud RPA, it's API connectivity. It's deep and
 integrated AI capabilities. It's the ability to also do UI automation, but also to even go
 run manage VMs in the Cloud for unintended bots. So people are deep in RPA.
@@ -311,9 +297,7 @@ so the question is, do you have goals in around the contact center? Is that an a
 that you could see Microsoft investing in more heavily in the future? Or how do you
 think about contact center, especially next to something like teams?
 Yeah. Absolutely. So I'd say, absolutely, that's an area that we look at. And I'd say, like
-contact center is a way that you implement customer support, as well as how youFINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 9 of 12implement things even like revenue generation, like a lot of companies have contact
+contact center is a way that you implement customer support, as well as how youimplement things even like revenue generation, like a lot of companies have contact
 centers just for sales purposes. So, but I'd say, contact center is super exciting for us
 for a few reasons. Number one, we have a lot of great assets in that space already.
 Dynamics 365 customer service is an app module. It has a lot of market share out
@@ -355,9 +339,7 @@ simple. Use our contact center AI capabilities and we can reduce your costs, and
 can prove it because your case volume that goes to agents will drop.
 That is a very, very exciting challenge for us. And at Microsoft, we have such strong AI
 assets across what we already built inside of Oﬃce, inside of Teams, inside of Azure,
-as introducing Dynamics that we really can deliver on this promise in a meaningfulFINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 10 of 12Michael Turrin
+as introducing Dynamics that we really can deliver on this promise in a meaningfulMichael Turrin
 Charles Lamanna
 Michael Turrin
 Charles Lamannaway for our customers. So super bullish in there. And Power Virtual Agent is one of
@@ -397,9 +379,7 @@ long list of things that are underneath that, that you could explore too. So how
 what is the decision process that informs what makes it to the top versus what might
 fall further down? Is it customer feedback? Is it just some of the data that you're able
 to analyze? Maybe you can just give us a sense, because like it's amazing and I can't
-imagine what it looks like from your perspective?FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 11 of 12Michael Turrin
+imagine what it looks like from your perspective?Michael Turrin
 Charles Lamanna
 Michael Turrin
 Charles LamannaYeah, I would say like, first and foremost, we live and breathe the customer both
@@ -437,9 +417,7 @@ kind of chatting through some of the things you're working on. But your time is
 valuable and we've actually run up on what we allocated for here today. So Charles,
 this was fantastic. Really appreciate you joining. I wouldn't normally say this, but best
 of luck to your fighting Irish, given the transition there too. And appreciate the time,
-for sure.FINAL TRANSCRIPT 2021-12-01
-Microsoft Corp (MSFT US Equity)
-Page 12 of 12Michael TurrinAbsolutely. Thanks for having me, Michael and thanks everybody for tuning in. I look
+for sure.Michael TurrinAbsolutely. Thanks for having me, Michael and thanks everybody for tuning in. I look
 forward to additional Q&A in the future oﬄine. So, thanks.
 
 Excellent. Thanks, everyone for joining. Much appreciate it.

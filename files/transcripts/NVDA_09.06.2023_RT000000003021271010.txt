@@ -13,9 +13,7 @@ Questions And Answers
 (Question And Answer)
 
 So, as for format of this chat, I have a number of questions to run through, but we'll
-save some time at the end for audience Q&A. But to start, there are two mainFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 16A - Colette Kress
+save some time at the end for audience Q&A. But to start, there are two mainA - Colette Kress
 Q - Matthew Prisco
 A - Colette Kressbuckets, where we're fielding the most questions today. These are around data
 center sustainability and supply. So, kicking it off on the sustainability side,
@@ -56,9 +54,7 @@ accomplish before without accelerated computing. So, yes, we are working with
 many companies on helping them in terms of their data center builds, helping them
 in terms of the planning as we look in terms of solutions.
 Large language models right now are very front-and-center as they are using our
-products to help them in building those large language models; and then in theFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 16Q - Matthew Prisco
+products to help them in building those large language models; and then in theQ - Matthew Prisco
 A - Colette Kress
 Q - Matthew Priscofuture you'll see the inferencing that is related to the models that they have built. But
 keep in mind that's only a couple of the different use cases, because we also see the
@@ -102,9 +98,7 @@ and training will be important as we go forward.
 Okay. So, 2023 is seemingly the year of the training build, build that comes with
 extreme compute requirements and lofty ASPs. But as these models begin to
 increasingly move into production and mix, skews more towards that inference side,
-how should we think about the impact to NVIDIA? Is there any risk from pressure inFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 16A - Colette Kress
+how should we think about the impact to NVIDIA? Is there any risk from pressure inA - Colette Kress
 Q - Matthew Prisco
 A - Colette Kressthe fall of ASPs or just any type of digestion period from customers as they kind of
 take that training build and leverage it for infrastructure?
@@ -147,9 +141,7 @@ and companies building their own different models. We continue to support them a
 well. They may be supported in many different factors, but one of the things that has
 been very helpful to them are models -- pre-trained models that we either have
 available and/or things such as NeMo, or BioNeMo that helps them in terms of
-optimizing their models as well.FINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 16Q - Matthew Prisco
+optimizing their models as well.Q - Matthew Prisco
 A - Colette Kress
 Q - Matthew Prisco
 A - Colette KressWe have software, we have services that continue to support them as many of these
@@ -193,9 +185,7 @@ So, we highlighted at our earnings our plans for supply. This continued ramp of
 supply for the quarters moving forward even as we go into our fiscal year '25. We've
 been working across the board in all of our different suppliers to help improve our
 supply position and support many of our customers and the demand that they put in
-front of us. That means looking at a lot of different things, adding additionalFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 16Q - Matthew Prisco
+front of us. That means looking at a lot of different things, adding additionalQ - Matthew Prisco
 A - Colette Kress
 Q - Matthew Prisco
 A - Colette Kresssuppliers, adding additional capacity, qualifying, but also looking in terms of the
@@ -238,9 +228,7 @@ Perfect. As we think about the potential supply limitations, is this causing a h
 mix of Hopper overall than you would have expected? And over here, maybe you
 could offer some color on where we stand in that Hopper adoption curve today, how
 that compares to prior cycles and how you think about that moving forward?
-FINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 16Q - Matthew Prisco
+Q - Matthew Prisco
 A - Colette Kress
 Q - Matthew PriscoSo, Hopper; Hopper is our current generation architecture that we have in the data
 center. And it has been in market probably close to a year. It's something that we
@@ -284,9 +272,7 @@ the work is really important from a TCO value to them. So, we're on that journey
 How fast does that get to that 100%, that's going to be really, really hard to
 determine. But again, this is a powerful inﬂection point for us to continue even past
 generative AI to move to accelerated computing.
-FINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 16A - Colette Kress
+A - Colette Kress
 Q - Matthew Prisco
 A - Colette KressAnd on that path to 100% of data centers being accelerated, are there other limiters
 when thinking about the full data center system that could pressure the slope of the
@@ -329,9 +315,7 @@ ASIC.
 But there will be others that may be for a specific workload of size, a very static type
 of workload that you could see customizing some form of accelerator for it. That's
 something that has always existed. There will be possibly other small different types
-of options. But our focus is more of how can we get the adoption of the platform atFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 16Q - Matthew Prisco
+of options. But our focus is more of how can we get the adoption of the platform atQ - Matthew Prisco
 A - Colette Kress
 Q - Matthew Prisco
 A - Colette Kressall different parts of our platform and that gives the customer as much of a choice as
@@ -375,9 +359,7 @@ Yes. Let's talk about we have much versions of software that help many different
 enterprises and help any customer that is using our platform. Keep in mind, there's a
 lot of software that is both just embedded in the systems that we provide to our
 customers. Just from the onset of their ability to have a full development platform, a
-full optimization platform embedded in the systems is extremely helpful. But you'reFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 16Q - Matthew Prisco
+full optimization platform embedded in the systems is extremely helpful. But you'reQ - Matthew Prisco
 A - Colette Kress
 Q - Matthew Priscocorrect, we also sell it separately. This is an important piece for enterprises. As
 enterprises turn towards AI and accelerated computing, having somebody that is
@@ -421,9 +403,7 @@ Perfect. And then before ChatGPT and the build out of these generative AI
 infrastructure took over all of mindshare, Omniverse was a key focus area, and
 theoretically, a killer app for next wave of AI as the collaborative platform for all AI
 tools. So, with that said, I would love an update on just where we stand today in
-terms of adoption and customer interest and maybe as we think through theFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 16A - Colette Kress
+terms of adoption and customer interest and maybe as we think through theA - Colette Kress
 Q - Matthew Prisco
 A - Colette Kress
 Q - Matthew Priscoportfolio as a whole out of the next five years, how meaningful of a contributor is
@@ -467,9 +447,7 @@ for it, but we're still setting up that infrastructure with the cloud providers 
 
 Great. That makes sense. And with the Grace Hopper Superchip shipping this
 quarter, can you give us an update on early customer demand reads and how you
-think about that ramp over the next one to two years? And then maybe how large ofFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 16A - Colette Kress
+think about that ramp over the next one to two years? And then maybe how large ofA - Colette Kress
 Q - Matthew Prisco
 A - Colette Kressa contributor could this be to the data center business over time, given the robust
 growth we've seen on the GPU side of things?
@@ -513,9 +491,7 @@ also that staging position that they need with the DPU. So, it's hard to say wha
 priority of what is important. But we know that often we are moving together with
 what we are doing in data center systems and networking together. So, it's been
 important to us to have both of these options to help the end customers fully build
-out their data centers.FINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 16Q - Matthew Prisco
+out their data centers.Q - Matthew Prisco
 A - Colette Kress
 Q - Matthew Prisco
 Q - Analyst
@@ -556,9 +532,7 @@ this. Why? You can now work with hundreds of different OEM providers in differen
 form factors that this can be inserted in an existing server platform with four different
 L40Ss incorporated in there.
 Now you have the ability to install that in a standard data center configuration, lining
-up with all the different servers that you have. Capabilities also therefore adding theFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 16Q - Matthew Prisco
+up with all the different servers that you have. Capabilities also therefore adding theQ - Matthew Prisco
 A - Colette Kress
 Q - Matthew Prisco
 A - Colette Kresssoftware capabilities to help them, as you discussed, in the initial models, often in
@@ -601,9 +575,7 @@ We've been successful on small or medium ones. And if we find something, that
 would be something that we would do.
 Outside of that, focused in terms of employee equity dilution and making sure that
 we offset that, that is what our stock repurchases are mainly about. Our goal there is
-to make sure that we can limit that dilution. Our authorizations were coming towardsFINAL TRANSCRIPT 2023-09-06
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 16Q - Matthew Prisco
+to make sure that we can limit that dilution. Our authorizations were coming towardsQ - Matthew Prisco
 A - Colette Kress
 Q - Matthew Prisco
 A - Colette Kressan end, and so, we refreshed our authorization for $25 billion that can take us further

@@ -19,9 +19,7 @@ our announcement of the Adobe Experience, this was particularly exciting to me
 because we all need to awaken that experience maker within.
 Yesterday, we talked about being an experience maker and how now is the time to
 change, to evolve, to grow from being an experience thinker to an experience
-maker. So I want you to ask yourself: Are you an experience maker? Well if you're notFINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13Shantanu Narayen
+maker. So I want you to ask yourself: Are you an experience maker? Well if you're notShantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun Huang
@@ -57,9 +55,7 @@ Appreciate it.
 Including giving up on my own conference.
 
 Well...
-FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Shantanu Narayen
+Shantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun Huang
@@ -95,9 +91,7 @@ What an incredible honor.
 Thank you very much. It's just -- I always -- I wonder if he has anything else to wear.
 
 No. I...
-FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13Shantanu Narayen
+Shantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun HuangHere's what a CEO should look like, a wise man.
@@ -134,9 +128,7 @@ And those 2 things combined was the inspiration behind NVIDIA. And I would say
 that, that idea, the idea that 3D graphics is the driving force of computing and that
 video games, the creation of virtual reality, these virtual experiences that allows you
 to be teleported into anything you want to go, that insight, I think, was really great
-and has really driven our company.FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13Shantanu Narayen
+and has really driven our company.Shantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun Huang
@@ -176,9 +168,7 @@ Oh, my gosh.
 
 Yes. Well it's been incredibly successful. But this week, in particular, Jensen, you're
 actually -- given we are so big together in terms of what we do with graphics and
-images, you made a pretty profound announcement associated with what'sFINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Jensen Hsun Huang
+images, you made a pretty profound announcement associated with what'sJensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
@@ -218,9 +208,7 @@ people here, whether you're in retail, whether you're in clothing, you're in tra
 hospitality, I think they're all thinking about what does augmented reality and virtual
 reality mean in terms of the kind of experience they can deliver their customers. So
 what happens with AR and VR?
-FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Shantanu Narayen
+Shantanu Narayen
 Jensen Hsun HuangOne way to think about AR and VR is this. And this is going to sound crazy. But it's
 actually an easier idea, right? AR and VR -- in the case of VR, it's a wormhole for us to
 travel to virtual worlds. VR is simply a path that allows us to telepresence, to
@@ -262,9 +250,7 @@ I've known Adobe my entire career. And the Adobe of today and the Adobe that I
 knew a long time ago has gone through several transformations yourselves. So you
 know the story really well.
 The fact of the matter is there is no alternative to rolling up your sleeves and trying to
-understand yourself, the implications of the new dynamics of the industry. To try toFINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Shantanu Narayen
+understand yourself, the implications of the new dynamics of the industry. To try toShantanu Narayen
 Scott K. Belsky
 Jensen Hsun Huang
 Scott K. Belskyunderstand yourself, you don't have to -- we don't have to understand it deeply. But
@@ -301,9 +287,7 @@ your gameplay in 4K. But it allows you to immerse yourself in the game with a 36
 view.
 So let's just navigate the scene in 360 using the Ansel app. Here, I'm just going to
 zoom in and take a screenshot of this character using Ansel. I think this looks pretty
-good. Then I took the liberty of adding a Sensei panel to this demo app.FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13Shantanu Narayen
+good. Then I took the liberty of adding a Sensei panel to this demo app.Shantanu Narayen
 Jensen Hsun Huang
 Scott K. Belsky
 Jensen Hsun Huang
@@ -341,9 +325,7 @@ things. So let's navigate some more. We found a barrel, a dog and a horse.
 
 So in real time, as he's navigating, we're seeing this is a dog, this is a human, this is a
 horse. So that's actually incredible, the kinds of possibilities that they can do. And
-this was done just by virtue of the fact that you have this open architecture thatFINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13Jensen Hsun Huang
+this was done just by virtue of the fact that you have this open architecture thatJensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
@@ -381,9 +363,7 @@ Yes. That's really good. That's a great model. You guys did a good job.
 
 And Sensei can also actually understand aspects of this character. So we can
 understand his approximate age, the fact that he's masculine. You weren't so sure
-about whether or not he was wearing a hat. But we know that he's not...FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Shantanu Narayen
+about whether or not he was wearing a hat. But we know that he's not...Shantanu Narayen
 Scott K. Belsky
 Shantanu Narayen
 Jensen Hsun Huang
@@ -421,9 +401,7 @@ But how do you think about marketing? How do you think about marketing? Who's
 the audience? And a lot of the companies here are B2C. But there are also a number
 of companies that are B2B as well as specialized marketing for audiences. Maybe a
 little bit about how you think about that.
-FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13Shantanu Narayen
+Shantanu Narayen
 Jensen Hsun HuangWell you guys, you know that we're the world's largest gaming platform. NVIDIA
 GeForce is all over the world. There's 100 million people who are on NVIDIA
 GeForce Experience, which is our platform. And so we're communicating, we're in
@@ -465,9 +443,7 @@ fine." And now several years went by -- so I wasn't wrong, okay? I was in no ris
 getting a tattoo. And so several years later, the stock hits $100 and somebody
 happened to have that placemat where all of us wrote down -- and so the thing I was
 most happy about is that our VP of HR had to get a nipple ring and -- but I got a
-tattoo.FINAL TRANSCRIPT 2018-03-28
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13Shantanu Narayen
+tattoo.Shantanu Narayen
 Jensen Hsun Huang
 Shantanu Narayen
 Jensen Hsun Huang

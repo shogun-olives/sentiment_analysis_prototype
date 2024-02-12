@@ -19,9 +19,7 @@ Windows. So I started fixing bugs in Windows in the core parts of the platform a
 did that for about five years. I moved to Azure in 2009 in the product team and
 designed some of the virtual services, so virtual machines, I actually wrote the first
 spec on virtual machines for Azure, and sort of what it -- it was about 100-page spec
-on sort of how it would work and customers' experiences around it, and ended upFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Q - Mark Murphy
+on sort of how it would work and customers' experiences around it, and ended upQ - Mark Murphy
 A - Corey Sanders
 Q - Mark Murphy
 A - Corey Sandersrunning the compute team actually, for many years back in Azure. And then about a
@@ -62,9 +60,7 @@ It's really important. It's something we really focused hard on last year, actua
 it came to Azure, just being one of the more technically challenging areas, sort of the
 depth of networking and security and compute and past services and so on, making
 sure our sellers could really have those conversations in-depth with customers. So
-that's a big area of focus for us.FINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Q - Mark Murphy
+that's a big area of focus for us.Q - Mark Murphy
 A - Corey SandersIt leads right into sort of our customer success conversation. And one of the big
 things that we have changed and continually focused on is making sure our sellers
 are actually compensated on customers using and being successful with our
@@ -107,9 +103,7 @@ past two months. One of the things that the most important step for digital
 transformation is a sort of passion and energy and excitement top down from
 companies on making the shift. And that can be either deciding that you're going to
 become a much more remote workforce, that you're going to leverage remote-
-based solutions. But it can also be opportunities for productivity improvements andFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14automation, being able to take digital services into your manufacturing plant, using
+based solutions. But it can also be opportunities for productivity improvements andautomation, being able to take digital services into your manufacturing plant, using
 IoT to be able to be smarter about how you approach things that are running for
 many years and whether you need to repair them and so on. So the big set with
 digital transformation is the push from the leadership that it's the right thing to do
@@ -152,9 +146,7 @@ which was sort of what stage are we in, so -- and then sort of how has it impact
 deployment in large-budget discussions. So what stage? We're in the early stages. I
 think that was sort of an important point. I think sort of customers deciding they want
 to do this. Clearly, it's sort of the early stages of the promotion. I think there's a huge
-amount of opportunity that we're going to continue to see growth around this.FINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14Q - Mark Murphy
+amount of opportunity that we're going to continue to see growth around this.Q - Mark Murphy
 A - Corey SandersAnd then just short-term conversations, I think we've seen a lot of gives and takes
 when it comes to deployment in large budget discussions. The energy is there.
 Sometimes, the desire to give a whole lot of upfront money as part of it, may not be
@@ -196,9 +188,7 @@ leverage.
 One of the interesting things that I'll say about that, that we're seeing, again interest
 as customers are taking advantage of some of these remote capabilities, they're
 actually learning benefits of being remote. And this is something that I think has
-shocked some people, and we even talk about it internally as sort of a sales force --FINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14Q - Mark Murphy
+shocked some people, and we even talk about it internally as sort of a sales force --Q - Mark Murphy
 A - Corey Sandersan in-person sales force will actually be at a disadvantage to a remote sales force in
 the future. And this is because of the intelligence that can be brought into it. So with
 a solution like Customer Insights and Dynamics, you can actually bring live
@@ -242,9 +232,7 @@ that is a very common conversation we're having across the board, and certainly 
 opportunity for us. Similarly with Teams, right? Certainly, Teams is a really expansive
 platform. It's chat, collaboration, meetings, voice, application hosting platform that,
 again, becomes an opportunity for consolidation, right, instead of having one
-platform that's really good at meetings and one platform that's really good atFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Q - Mark Murphy
+platform that's really good at meetings and one platform that's really good atQ - Mark Murphy
 A - Corey Sanders
 Q - Mark Murphy
 A - Corey Sanders
@@ -285,9 +273,7 @@ Okay.
 
 But I wanted to ask you as well, going back to the last earnings call, Amy commented
 on seeing some weakness in the SMB market. And we're wondering -- if you think
-about this trend in digital transformation and the IT spend discussion, if I were to askFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14A - Corey Sanders
+about this trend in digital transformation and the IT spend discussion, if I were to askA - Corey Sanders
 Q - Mark Murphy
 A - Corey Sandersyou, how do you think it's going to play out by customer segment in this
 environment?
@@ -329,9 +315,7 @@ of Teams? And how you're thinking about how it stacks up competitively?
 
 Yeah, absolutely. So you covered it quite well, I think, frankly. Look, I think what we're
 seeing from Teams and the way people are using Teams is really quite inspiring. It is
-becoming basically the hub for all collaboration, engagement and work, right? AndFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Q - Mark Murphy
+becoming basically the hub for all collaboration, engagement and work, right? AndQ - Mark Murphy
 A - Corey Sandersso this includes chat, it includes meetings, calling, file collaboration, sharing,
 workﬂows, et cetera. It's also becoming a platform, so it becomes a platform for new
 applications, whether it'd be third-party applications or Power Apps-based solutions
@@ -371,9 +355,7 @@ conferencing, chat collab, et cetera, all into one thing.
 Well, I'd like to yell at my screen, as you described. But I'd love to be able to attack
 people from all angles, including (inaudible)
 
-Exactly. Multitasking, it's a powerful thing, exactly.FINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Q - Mark Murphy
+Exactly. Multitasking, it's a powerful thing, exactly.Q - Mark Murphy
 A - Corey Sanders
 Q - Mark Murphy
 A - Corey Sanders
@@ -413,9 +395,7 @@ types of solutions. So there is actually upsell revenue opportunity from a basel
 just consumption.
 I already talked a little bit there, security opportunities there that also is an upsell
 opportunity. So taking some of that baseline usage of Teams, but being able to add
-whether it be Azure Active Directory-based security solutions, whether it beFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Q - Mark Murphy
+whether it be Azure Active Directory-based security solutions, whether it beQ - Mark Murphy
 A - Corey Sandersendpoint-based security solutions when connecting into Teams or even sort of the
 integration with the Oﬃce-based security solutions as part of Teams, being able to
 secure documents when they're moving around and leveraging them in the
@@ -458,9 +438,7 @@ remote work, even Windows Virtual Desktop. I think we'll continue to see the des
 for disaster recovery solutions to be ready to go in cases they need to use a public
 cloud for that.
 And then I think there's also net new applications that have been built out and
-scaled, whether it be sort of new AI-based solutions, bots, that have been spun up toFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Q - Mark Murphy
+scaled, whether it be sort of new AI-based solutions, bots, that have been spun up toQ - Mark Murphy
 A - Corey Sandersrespond to some needs, things like telemedicine, education. And from -- all signs are
 pointing to that continuing to be used and continuing to be changes that we see
 here for many months, frankly. And so, it's a very interesting time because as sort of I
@@ -502,9 +480,7 @@ single analytics -- security analytics platform between the two, Sentinel has be
 really positive environment.
 A couple of you didn't mention GitHub. This is sort of remote development has really
 picked up, and GitHub has been really an exciting part of this collaborative
-development even remote. And so especially layering against some of the securityFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Q - Mark Murphy
+development even remote. And so especially layering against some of the securityQ - Mark Murphy
 A - Corey Sanders
 Q - Mark Murphy
 A - Corey Sanders
@@ -546,9 +522,7 @@ for?
 
 Yeah. I mean, I think the most exciting thing for me with my team, and this may be
 my perspective, is the opportunity to sell and enable customers across these
-solution areas. I think some of the examples that I gave even today, being able toFINAL TRANSCRIPT 2020-05-14
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14Q - Mark Murphy
+solution areas. I think some of the examples that I gave even today, being able toQ - Mark Murphy
 A - Corey Sanders
 Q - Mark Murphyoffer remote assist with HoloLens, with Azure Analytics and being able to bring these
 components together, these are some of the things that get me really excited

@@ -21,9 +21,7 @@ the Chief Financial Oﬃcer from NVIDIA, here with us today. NVIDIA held their b
 press event on Monday. So I've asked Colette to give us an overview of what NVIDIA
 unveiled on Monday and what they are showcasing here at the Consumer
 Electronics Show. I'll kick it off with the first few questions and then we'll turn it over
-to the audience.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12Colette KressSo Colette, thanks for joining us this morning. And let me turn it over to you.
+to the audience.Colette KressSo Colette, thanks for joining us this morning. And let me turn it over to you.
 
 So we scheduled our press conference on Monday night, where we discussed our
 latest developments in the automotive part of our overall business. We focused on
@@ -62,9 +60,7 @@ components to enable a virtual reality scenario. We are expecting the glasses fr
 both Oculus HTC to come out in 2016. And one of the things that's very important is
 their ability to be behind a high-end PC to enable that experience. So the great thing
 for us is the overall underlying GPUs, that are necessary, are some of our top-end
-GPU's that we actually produce for gaming.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Harlan Sur
+GPU's that we actually produce for gaming.Harlan Sur
 Colette Kress
 Harlan SurSo we have been working with them on not only demonstrating what these GPUs are
 but also working with many of the OEM manufacturers to produce VR-ready types of
@@ -104,9 +100,7 @@ couple this with the technical diﬃculty and the security concerns as it relate
 development of regulatory initiatives in different countries. So the question for you is
 which regions are we most likely to see the initial deployment of self-driving
 vehicles? And when is the earliest that we could see mass deployment of fully
-autonomous vehicles?FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12Colette Kress
+autonomous vehicles?Colette Kress
 Harlan Sur
 Colette Kress
 Harlan Sur
@@ -143,9 +137,7 @@ Great. Great. Then on the DRIVE PX announcement that you made on Monday, as
 you mentioned, a part of the -- and I think the one differentiator with NVIDIA is that
 you always go to market with a platform approach. Right? It's not just the GPU; it's
 the hardware that sits around the GPU, it's the subsystems design, it's the software,
-it's the firmware and so on.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Colette Kress
+it's the firmware and so on.Colette Kress
 Harlan Sur
 Colette Kress
 Harlan SurBut a part of the DRIVE PX platform that you announced includes the DRIVE PX 2 in-
@@ -184,9 +176,7 @@ knowledge of the data center, equipped with our knowledge in terms of the
 programming, to really help the OEM manufacturers.
 
 Great. Then my last question on the automotive before we move on to your gaming
-segment -- your auto segment grew 55% year-over-year through the first nineFINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Colette Kress
+segment -- your auto segment grew 55% year-over-year through the first nineColette Kress
 Harlan Sur
 Colette Kressmonths of your fiscal year; solid growth there. The team has stated that it has 8
 million cars on the road now that are Tegra-enabled. You've got 30 million more cars
@@ -225,9 +215,7 @@ CAGR for your gaming segment appear reasonable?
 Yes. So let's start back in terms of what are the fundamentals, what has been driving
 the overall PC gaming market? Why has it been so robust? What is evolving? PC
 gaming and high-end PC gaming is really an experience that can evolve, depending
-on what type of GPU platform you choose.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Harlan SurWe have a wide range of different GPUs for gaming. You can start with a $100 GPU;
+on what type of GPU platform you choose.Harlan SurWe have a wide range of different GPUs for gaming. You can start with a $100 GPU;
 you can move all the way up to a $1,000 GPU. And your experience in terms of
 gaming can evolve with the exact same game, with a very different GPU, to a better
 and different experience.
@@ -264,9 +252,7 @@ gaming.
 The US market is probably one of the smaller markets for PC gaming. It's estimated
 that there are about 200 million console gamers in the US. But this trend is starting
 to change rapidly with the onset, as you mentioned, eSport, social media, potentially
-things like virtual reality.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Colette Kress
+things like virtual reality.Colette Kress
 Harlan SurDoes NVIDIA view the US market as an emerging growth opportunity? And we were
 talking about this at my breakfast. But I mean, you just mentioned it as well. But I've
 got a 16-year-old son; he's got seven friends. They all got Xbox 1's last Christmas.
@@ -305,9 +291,7 @@ this, I think, will continue and be a driver of our overall business.
 
 Great. Let's move over to virtual reality. So several high-profile manufacturers -- as
 you mentioned, HTC, Oculus -- on the cusp of releasing their VR headsets to the
-market in the first half of this year, gaming companies are all very bullish on the long-FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Colette Kress
+market in the first half of this year, gaming companies are all very bullish on the long-Colette Kress
 Harlan Sur
 Colette Kressterm prospects of the technology. We see that high-profile gaming partners like Epic
 are already helping developers design games in the VR environments.
@@ -346,9 +330,7 @@ And so I guess the question for you is, with Pascal your next-generation archite
 when will the team formally announce the PC gaming version of Pascal? When will it
 be available for the -- and will it be available for the upcoming blockbuster game
 season in October/November timeframe of this year?
-FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Harlan Sur
+Harlan Sur
 Q - Unidentified Participant
 A - Colette KressYes. So we announced our Pascal architecture last year at our GTC conference in San
 Jose, in around the March and April timeframe. And you are correct -- in the CES, we
@@ -384,9 +366,7 @@ So we have different GPU's that are both branded or are marketed for gaming at
 certain price points. And that's what we use generally to look at those overall gaming
 GPUs. There is probably some small percentage that are using it for dual that are
 either aimed possibly programming with them. But the majority use of them is
-definitely for gaming.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Harlan Sur
+definitely for gaming.Q - Harlan Sur
 Q - Unidentified Participant
 A - Colette Kress
 Q - Harlan Sur
@@ -425,7 +405,5 @@ the overall strength in the computing platform is absolutely what the OEMs are
 actually looking for.
 
 I think -- well, we're basically -- sorry, I apologize; we are running a bit over time. So
-maybe we can have the discussions off-line.FINAL TRANSCRIPT 2016-01-06
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12Colette, thank you very much. We really appreciate it. And good luck to the team in
+maybe we can have the discussions off-line.Colette, thank you very much. We really appreciate it. And good luck to the team in
 2016.

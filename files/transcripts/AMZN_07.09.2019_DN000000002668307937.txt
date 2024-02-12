@@ -28,9 +28,7 @@ quarterly metrics, subscriber gains and losses. These are video subscriber gains
 losses by operator. And if you just see that red box there, we had record traditional
 subscriber losses in Q1 of this year. So close to almost 1.3 million losses. But along
 with this whole trend of cord cutting, while this has been in full force, the industry has
-also witnessed the emergence of a new breed of distributors called vMVPDs orFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 2 of 17Michael Greesonvirtual operators who basically aggregate linear TV content and deliver it over the
+also witnessed the emergence of a new breed of distributors called vMVPDs orMichael Greesonvirtual operators who basically aggregate linear TV content and deliver it over the
 Internet. And so the vMVPD, the main attraction there is they're priced really cheaply
 compared to your traditional subscriptions of typically around $40 or $45 a month
 versus the $85, $90 that you shell out for a traditional video subscription.
@@ -69,9 +67,7 @@ be, how deep they will be over the next five years. But we guided our clients in
 we said to focus on the bottom half of these vectors, where you see the red area
 there. And so, we were forecasting a movement from 95 million in 2017 to
 somewhere between 73.5 million and 79.7 million by 2023. The 2018 numbers came
-in at approximately just under 92 million and so that's right between our worse -- orFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 3 of 17our low line and our mid line. So we're tracking at -- currently at the -- in the direction
+in at approximately just under 92 million and so that's right between our worse -- orour low line and our mid line. So we're tracking at -- currently at the -- in the direction
 that we informed our clients we would be.
 Now, the question for many is just how significant -- after a record setting Q1, how
 significant will losses continue to be, will they continue at a 3 million to 4 million
@@ -114,9 +110,7 @@ TV most recently reported in May, they have over 2 million paying subs. So, and 
 particular chart shows Sling TV, DirecTV now and as Geetha said, they've run into a
 wall even experiencing losses late in -- late Q4 and then virtually no growth at all in
 Q1 of this year. And it illustrates Hulu with live TV and then others include -- the
-others include the litany of operators that were on Geetha's list. And we'reFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 4 of 17Geetha Ranganathanmonitoring each and every one of them, but the breakout right now seems to be
+others include the litany of operators that were on Geetha's list. And we'reGeetha Ranganathanmonitoring each and every one of them, but the breakout right now seems to be
 Hulu with live TV and that's a very fertile model for a number of reasons. We'll talk
 more about that when we get to pay TV 3.0, why this particular model might work.
 I did want to make a quick note, and this is something that's not commonly
@@ -157,9 +151,7 @@ progress in the conversation and we'll expand pay TV 3.0 and what that means.
 But in the meantime, I'm going to turn this back over to Geetha and Woo Jin and --
 to talk about cord cutting and who's -- the winners and losers in this space. So
 (inaudible).
-FINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 5 of 17Woo Jin HoThanks, Michael. So before we get into how the industry evolves with pay TV 3.0, I
+Woo Jin HoThanks, Michael. So before we get into how the industry evolves with pay TV 3.0, I
 just wanted to quickly touch on how cord cutting has shaped adjacent industries and
 some of the winners and losers from the whole cord cutting revolution. So one of the
 platforms that has benefited greatly has been Roku. The stock has been
@@ -200,9 +192,7 @@ titles are all opportunities for Roku to insert targeted ads and generate sales.
 Now, we may be getting to the point where there is subscriber redux, where it's
 getting tougher to justify the cost of adding new subscription video on demand
 services. Now, according to Deloitte, on average, US dreamers subscribe to roughly
-three services. Let's just say simply put a Netﬂix, a Hulu and an HBO. Once we getFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 6 of 17Geetha Ranganathan
+three services. Let's just say simply put a Netﬂix, a Hulu and an HBO. Once we getGeetha Ranganathan
 Michael Greesonbeyond three or four services (inaudible) purposes of the cost benefits of streaming
 versus traditional pay TV. And -- but at the same time, the amount of content
 continues to grow, amount of video content continues to grow and some of these
@@ -241,9 +231,7 @@ Very good. Picking up on Geetha's last comments there. These -- the decline in
 subscribers for each of the major networks, the industry, the pay TV industry in
 general. This is trickling down and impacting the bottom lines of the networks that
 are licensing content to these services and is a -- and this is, again, a part of the new
-reality that these companies are having to adjust to. So as she noted, you're -- this isFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 7 of 17precipitating a large number of both vertical and horizontal consolidation. That is to
+reality that these companies are having to adjust to. So as she noted, you're -- this isprecipitating a large number of both vertical and horizontal consolidation. That is to
 say, not only are large content companies buying up other large content companies,
 they're also buying up those that create the -- create other -- create and distribute
 other types of products, so they buy up the technology companies, they buy up the
@@ -286,9 +274,7 @@ has been surprising to most folks. And the Disney+ expectations, you've probably
 seen them from multiple firms, our own -- our only internal research, I will say in a
 very clear voice that this is the most -- this service tested more positively than any
 hypothetical service we've ever tested in TDG's history. The number of consumers
-that are interested in paying $6.99 a month for that particular content combinationFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 8 of 17was astounding. So they're expecting 60 million to 90 million subscribers by 2024,
+that are interested in paying $6.99 a month for that particular content combinationwas astounding. So they're expecting 60 million to 90 million subscribers by 2024,
 two-thirds of those from international viewers. In other words, the domestic subs will
 range from 20 million to 60 million by their own numbers by 2024.
 Now, that's a lot of gray between 20 million and 60 million. Given the enthusiasm
@@ -330,9 +316,7 @@ this model, but I do want to clarify these red boxes around a couple, so we're c
 on what the concepts mean. D2C aggregator -- or these aggregators don't
 necessarily populate the service -- their curated app store, if you will, it doesn't
 contain their own proprietary content, for example Prime channels doesn't have any
-Amazon channels or content collections in it. That's available to Prime videoFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 9 of 17subscribers or Prime members, but they can easily dovetail some of that content into
+Amazon channels or content collections in it. That's available to Prime videosubscribers or Prime members, but they can easily dovetail some of that content into
 their own type of D2C channel if they wished. They still serve as an aggregator,
 there's no doubt about that. In terms of distribution, the -- these aggregators don't
 distribute the content in and of themselves, they provide a gateway to interact with
@@ -373,9 +357,7 @@ lot of people that are watching streaming TV instead of just traditional live li
 Well, while primarily on -- these are primarily on-demand services, you're seeing an
 increasing amount of live content, especially sports come into these portals via
 major league services as well as ESPN+, you'll see DASAN [ph] entering into these
-app stores as well. So it's a mix of on-demand and live channels and we expect thatFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 10 of 17you'll see more and more live sports especially coming into the direct-to-consumer
+app stores as well. So it's a mix of on-demand and live channels and we expect thatyou'll see more and more live sports especially coming into the direct-to-consumer
 space.
 Now, just to give you an idea of the brand power of the folks involved and we've
 already touched on Roku a little bit, let's start with Amazon. 55% of adult broadband
@@ -417,9 +399,7 @@ They're trying to create an ecosystem that combines all the pay TV 2.0 entry poi
 together, so that a user doesn't have to leave the Hulu ecosystem to customize their
 services to their particular needs at a particular time. That's a very strong model.
 Now, for the -- one of the key drivers in our observation about -- prediction about the
-rise of pay TV 3.0 is the amount of research we continue to do on this subject, one ofFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 11 of 17the most fascinating questions we ask is we tested about -- we told consumers
+rise of pay TV 3.0 is the amount of research we continue to do on this subject, one ofthe most fascinating questions we ask is we tested about -- we told consumers
 you've got -- imagine out of these 20 channels we've listed below that you can
 choose five channels to populate a TV service, any five you want and we included in
 that list (inaudible) apps like Netﬂix and premium channels like HBO as well as
@@ -462,9 +442,7 @@ them individually or in bundles. The bundles make a lot more sense when you star
 talking about more than four or five different apps.
 So this was very striking research that we've done on this subject and it led us to
 believe that there is a model here and we believe that especially Amazon and Roku,
-they are looking closely at this model right now, how to aggregate these apps andFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 12 of 17A - Geetha Ranganathan
+they are looking closely at this model right now, how to aggregate these apps andA - Geetha Ranganathan
 A - Michael Greeson
 A - Geetha Ranganathan
 A - Michael Greeson
@@ -501,9 +479,7 @@ encouraging -- fueling the D2C fire. But I certainly don't see them not growing.
 single-digit increases makes sense, given the context.
 
 Next question. Using an analogy from Internet usage, do you view these video
-aggregators like a portal i.e., Netscape or a search engine i.e., Google?FINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 13 of 17A - Geetha Ranganathan
+aggregators like a portal i.e., Netscape or a search engine i.e., Google?A - Geetha Ranganathan
 A - Michael Greeson
 A - Woo Jin HoBoth, both. They'll integrate search and discovery and recommendations across
 multiple apps. Now, this is when they're more mature. Of course, we don't have any
@@ -546,9 +522,7 @@ with you and they're only one of four platforms that you can use in the United S
 and its Amazon, Roku, Apple or -- and even Android TV. So if you win (technical
 diﬃculty) one of those four platforms on a TV or a set-top box, you could potentially
 win it on the smaller form factor side as well. So is it a commodity product by
-definition? Potentially yes. By the level of deployment right now, no.FINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 14 of 17A - Geetha Ranganathan
+definition? Potentially yes. By the level of deployment right now, no.A - Geetha Ranganathan
 A - Michael GreesonAnd the other thing, I think Michael pointed out very elegantly, is that there's a lot
 bigger underlying technology that's helping -- assisting the aggregation here. It's
 not only, number one, the aggregation of the different content, but also the billing.
@@ -588,9 +562,7 @@ is in competition with everybody because of the level of consolidation that's go
 on. Sure, of course. Of course, they'll be in competition. There's an inherent tension
 there again when you -- vertical and horizontal consolidation, you're bound to
 compete with yesterday's partners or today's partners or tomorrow's competitors. So
-absolutely.FINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 15 of 17A - Geetha Ranganathan
+absolutely.A - Geetha Ranganathan
 A - Michael Greeson
 A - Woo Jin Ho
 A - Michael Greeson
@@ -632,9 +604,7 @@ D2C and US -- let's see, it was US -- or USA Network and then the Outdoor Channe
 And the conclusions of that exercise was that this -- if it's a strong niche like the
 Outdoor Channel is, they might do quite -- they may do really well there. But not, if
 they're competing with offering to a -- it won't bring in enough revenue relative to
-what they could have brought in if they were part of a pay TV package. A largeFINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 16 of 17A - Geetha Ranganathannetwork like USA, their reach is substantial and their power is substantial. They could
+what they could have brought in if they were part of a pay TV package. A largeA - Geetha Ranganathannetwork like USA, their reach is substantial and their power is substantial. They could
 do a D2C offering and probably do pretty well with it.
 So if you got scale, you could do well. Or if you're smaller and you've got a really
 legitimate niche, where your linear viewers who are truly dedicated to your content
@@ -676,9 +646,7 @@ on it because that's what I watch on regular TV. And if I can't get it on there,
 of the service is significantly diminished because that niche is not filled for me. And
 this is supposed to be a customizable TV service, in theory. Just big brush strokes
 here. Yeah. So that --
-FINAL TRANSCRIPT 2019-07-09
-Amazon.com Inc (AMZN US Equity)
-Page 17 of 17Got it. Okay. So thanks, Michael. We are actually out of time. Thank you all for joining
+Got it. Okay. So thanks, Michael. We are actually out of time. Thank you all for joining
 us today. If you have any further questions, please feel free to reach out directly to
 any one of us. Our emails are listed here on slide 26. Thank you once again Michael
 for a fantastic discussion and thank you all.

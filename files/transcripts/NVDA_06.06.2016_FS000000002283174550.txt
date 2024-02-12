@@ -18,9 +18,7 @@ We started out as a focus on one of the key applications of use for a GPU, being
 gaming and for graphics. And we've now moved into four unique market specialized
 platforms, the first one being still for PC gaming; the second, pro visualization; the
 third, datacenter; and the fourth, automotive. And I'll kind of break down each of our
-goals within those four markets.FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11But the goal in terms of our strategy is the exact same existing technology under
+goals within those four markets.But the goal in terms of our strategy is the exact same existing technology under
 each four of those markets. The (01:44) technology being the GPU, the GPU either
 used for overall graphics capability or used for overall compute capacity as a
 coprocessor in many of these cases.
@@ -59,9 +57,7 @@ artificial intelligence.
 So, deep learning framework is a new way to think about artificial intelligence from
 what we have seen in the last 20 years, within the use of deep neural nets, and the
 use of significant amount of data being applied to the overall computer to actually
-train it and get it to understand and produce key algorithms.FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Q - Kevin E. CassidySo this has been a big focus of us over the last couple years in terms talking about
+train it and get it to understand and produce key algorithms.Q - Kevin E. CassidySo this has been a big focus of us over the last couple years in terms talking about
 the emergence (5:14) in the field. We've been working with tremendous amount of
 hyper-scale providers around the globe. Have they've also been researching this in
 higher-end research institutions that have fell into the hyper scales. And this is a big
@@ -99,9 +95,7 @@ questions.
 Q&A
 
 Yeah. Sure, Colette. So, that's – I would say NVIDIA is in the sweet spot of all the hot
-topics in technology today, your PC gaming, your virtual reality tied into that. And IFINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11A - Colette M. Kress
+topics in technology today, your PC gaming, your virtual reality tied into that. And IA - Colette M. Kress
 Q - Kevin E. Cassidy
 A - Colette M. Kress
 Q - Kevin E. Cassidy
@@ -143,9 +137,7 @@ We've been continuing to grow that with our work with hyper scales, the beginnin
 of other industries and enterprises over the last six months. And you'll see that all
 come together. So it's a position of increased breadth of the overall customers that
 we're working with, but also the depthness within those customers in terms of the
-projects that they are rolling out.FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Q - Kevin E. Cassidy
+projects that they are rolling out.Q - Kevin E. Cassidy
 A - Colette M. Kress
 Q - Kevin E. Cassidy
 A - Colette M. Kress
@@ -187,9 +179,7 @@ super high-end graphics. Now, when you think about that we still have a signific
 hold of the overall share of the market even in those factors. But what we
 concentrate on is the market that we are focused on is gaming.
 Now, gaming is a subset of the overall PC market and the majority or the lion's share
-of what we sell into PC gaming market that is not necessarily a PC that is sold. What IFINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Q - Kevin E. Cassidy
+of what we sell into PC gaming market that is not necessarily a PC that is sold. What IQ - Kevin E. Cassidy
 A - Colette M. Kress
 Q - Kevin E. Cassidymean by that is, generally, a PC is owned. These are usually self-built types of PCs,
 and they are just improving the overall components as the overall gamers whose
@@ -228,9 +218,7 @@ forward.
 
 Okay. And you had mentioned that the PC gaming market is growing at 30% CAGR,
 your growth within. What about going forward, I guess do you expect the same type
-of growth rates going forward?FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Colette M. Kress
+of growth rates going forward?A - Colette M. Kress
 Q - Kevin E. Cassidy
 A - Colette M. Kress
 So, the overall PC gaming market, there's a couple outside firms that have focused
@@ -271,9 +259,7 @@ types of techniques for autonomous driving, we were actually able to cut the tim
 down significantly on the time that was able to build those overall algorithms. So,
 focused on a platform that they can continue to bring the algorithms that they have,
 continue to write on our DriveWorks developer platform as well for that center
-computing platform going forward is our strategy as we go forward.FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11Q - Kevin E. Cassidy
+computing platform going forward is our strategy as we go forward.Q - Kevin E. Cassidy
 A - Colette M. Kress
 Q - Kevin E. Cassidy
 A - Colette M. Kress
@@ -313,9 +299,7 @@ against each other.
 
 Yeah. So, eSports is a key base of the gaming community. I think it's a key part of the
 overall social platform that has brought more and more to the overall PC gaming
-industry.FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Kevin E. Cassidy
+industry.Q - Kevin E. Cassidy
 A - Colette M. KressIt's brought folks online, brought them together. It brings the friends together. It
 brings the peers together in that type of scenario. They see the equipment that the
 professionals are using. They see what their friends are using in terms of equipment
@@ -355,9 +339,7 @@ experience with a high-end workstation and feel the next car that you may purcha
 in terms of VR (27:12). It's very popular also in terms within the medical field. How do
 you train overall surgeons? And train surgeons in terms of a virtual reality experience
 can also be the future of what we see in terms of virtual reality and not just on
-gaming, but in the enterprise.FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Kevin E. Cassidy
+gaming, but in the enterprise.Q - Kevin E. Cassidy
 A - Colette M. Kress
 Q - Kevin E. CassidyBut our focus in terms of expanding the collaboration of design in enterprise is also
 a very huge focus.
@@ -397,8 +379,6 @@ using acceleration techniques.
 Now, how big will that get or how fast will it move? I think that's hard. I think we're in
 the initial innings of what we're going to see in terms of that movement in the
 computing model, but it's an exciting time to think about acceleration.
-FINAL TRANSCRIPT 2016-06-06
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11A - Colette M. KressIt is great. And that's our – our time is up. Thank you very much, Colette.
+A - Colette M. KressIt is great. And that's our – our time is up. Thank you very much, Colette.
 
 Thank you.

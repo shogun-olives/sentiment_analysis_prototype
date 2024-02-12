@@ -17,9 +17,7 @@ turn the meeting over to Jensen.
 Thanks, Simona. Good morning. Welcome to our 2019 stockholders meeting. The
 meeting will now oﬃcially come to order. I will serve as chairman. And Tim Teter will
 serve as a secretary and conduct the procedural portion of the meeting. Tim?
-FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11Thanks, Jensen. First, a few housekeeping items. We have opened the online portal
+Thanks, Jensen. First, a few housekeeping items. We have opened the online portal
 for stockholders to ask questions during the meeting. If you have a question, please
 enter it into the portal. And we will do our best to answer it at the end of Jensen's
 business update in the time permitted. In fairness to all attendees, we will limit each
@@ -60,9 +58,7 @@ today's meeting. Each share of common stock is entitled to one vote. If you are
 eligible to vote and have not submitted your proxy or you want to change your vote,
 please do so and vote online now. You do not need to vote if you have already sent
 in your signed proxy or voted online or by telephone. Your votes will be counted
-automatically.FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Jen-Hsun HuangThe time is 10:36 a.m. and the polls are currently open for voting. There are 4 items
+automatically.Jen-Hsun HuangThe time is 10:36 a.m. and the polls are currently open for voting. There are 4 items
 of business for this meeting: First, the election of Rob Burgess, Tench Coxe, Persis
 Drell, James Gaither, Jensen Huang, Dawn Hudson, Harvey Jones, Mike McCaffery,
 Steve Neal, Mark Perry, Brooke Seawell and Mark Stevens to serve as directors until
@@ -98,9 +94,7 @@ Please note that given our time constraints, we may not be able to address all
 questions.
 
 Thanks, Tim. This past year, we posted strong growth and made significant advances
-in computer graphics, high-performance computing, artificial intelligence andFINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11robotics. We did this against the headwinds of cryptocurrency and an array of
+in computer graphics, high-performance computing, artificial intelligence androbotics. We did this against the headwinds of cryptocurrency and an array of
 macroeconomic uncertainties. It was a very challenging year.
 But our core belief in our mission to apply the computing model we pioneered to
 solve problems we can uniquely solve remains as strong as ever. NVIDIA is at the
@@ -139,9 +133,7 @@ intelligence capabilities under the hood and inside cockpit. Our data center
 business, which is up 52% to $2.93 billion did not meet our expectations as
 customers slowed their purchases in the Fourth Quarter. This overshadowed what
 was otherwise a landmark year of expansion of our data center portfolio with new
-technologies for inference and data science.FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11As reported in last week's Q1 results, NVIDIA is back on an upward trajectory with
+technologies for inference and data science.As reported in last week's Q1 results, NVIDIA is back on an upward trajectory with
 growth in gaming laptops and RTX adoption leading the way. Accelerated
 computing is a kind of supercharged computing. This year, we made great strides to
 advance it. We introduced Turing, the world's first GPU designed to accelerate ray
@@ -181,9 +173,7 @@ For healthcare, NVIDIA CLARA supercharges medical imaging instruments with AI,
 boosting an essential tool of early-disease detection.
 For robotics, NVIDIA Isaac offers a virtual reality simulator where robots learn skills
 and Compaq Computer for all kinds of robotics, from warehouse bots to delivery
-bots to service bots.FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Unidentified Participant
+bots to service bots.Unidentified Participant
 A - Simona JankowskiAnd for smart cities, NVIDIA's Metropolis delivers tools and technologies to apply AI
 to create services that will make our cities safer and more eﬃcient.
 Cloud to edge AI will further fuel the exponential growth of data and put more
@@ -221,9 +211,7 @@ plan to restore value to your shares and the company as a whole? Do you plan to
 distance manufacturing farther from the crypto market due to a surplus of
 merchandising left in the wake of the unexpected drop-off in crypto markets? What
 are the 3 main factors that are likely to increase the stock price in the upcoming
-quarter? Can you get the stock price back to $250?FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Jen-Hsun Huang
+quarter? Can you get the stock price back to $250?A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski
@@ -267,9 +255,7 @@ shareholders?
 The financial impact of U.S. tax reform has benefited NVIDIA. But our tax rate is
 based on a number of factors, including our geographical mix of profits. We operate
 and are taxed in many different countries. So the 14% U.S. corporate tax -- U.S.
-corporate rate reduction does not directly translate into a corresponding tax savings.FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Simona Jankowski
+corporate rate reduction does not directly translate into a corresponding tax savings.A - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun HuangWe outlined our strategy for use of our cash at our Investor Day in March. Our
@@ -314,9 +300,7 @@ on the board? And why are so many directors necessary? When do you plan to bring
 more diversity to the Board of Directors?
 
 We have 2 women on our board, Dr. Persis Drell and Dawn Hudson. We strive to
-maintain our appropriate balance of diversity, tenure and skills on the board. WeFINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11A - Simona Jankowski
+maintain our appropriate balance of diversity, tenure and skills on the board. WeA - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun Huang
@@ -359,9 +343,7 @@ systems.
 
 Why is there not a live component to this meeting? There is no substitute for a face-
 to-face meeting. Is the management unwilling to spend an hour once a year to meet
-shareholders? It's a terrible way to conduct an important function.FINAL TRANSCRIPT 2019-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11A - Jen-Hsun Huang
+shareholders? It's a terrible way to conduct an important function.A - Jen-Hsun Huang
 A - Simona Jankowski
 A - Jen-Hsun Huang
 A - Simona Jankowski

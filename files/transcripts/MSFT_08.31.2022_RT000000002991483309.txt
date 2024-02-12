@@ -16,9 +16,7 @@ CFO for all of our commercial business. People ask me, what is -- tell me what's
 the commercial business and I say, anything that's not in consumer, which is true and
 it's a fairly accurate framing. So it's all of -- it's Azure, it's Oﬃce, it's Windows
 Commercial, it's SQL, it's all of the commercial stuff and then I also have Corp Dev.
-Questions And AnswersFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Q - Brad Zelnick
+Questions And AnswersQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Hara
@@ -58,9 +56,7 @@ And so we just make that pitch to him.
 I think the other thing is we just have a good lineup of products. Cloud started out as
 infra, but it's much more than that now and we have solutions that all up and down
 the stack. And so I think the reason that they're willing to make commitments is one
-is, if they make a long-term commitment and a big commitment, they're going to getFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Q - Brad Zelnick
+is, if they make a long-term commitment and a big commitment, they're going to getQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Haraa better deal from us, and they know that; and two is, they're just kind of at the point
@@ -102,9 +98,7 @@ feel you have to overall commercial demand?
 Yes. I mean, it's a very different world obviously than we had even five years ago
 because our CapEx number is much more meaningful, much larger. But we also feel
 like we have way better signal into how much we should be spending on CapEx,
-because we have these long-term contracts, we have deep conversations withFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14Q - Brad Zelnick
+because we have these long-term contracts, we have deep conversations withQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnickcustomers, we have the biggest global footprint from a cloud perspective, that's all
 signal, that all tells us where we think the world is going. And so to build a data
@@ -146,9 +140,7 @@ into the planning process and to say where do we think we're going to be. And th
 you have to get smarter about how you provision land and there's -- it's -- I feel like
 we're so much more sophisticated in that process than we were when we started --
 it's been really fun to see.
-FINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14A - Dave O'Hara
+A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Hara
 Q - Brad ZelnickAwesome. Maybe to pivot the industry cloud, I feel like the message we've heard
@@ -189,9 +181,7 @@ for us. And so think about any of them retail, financial services, manufacturing
 whatever, healthcare sustainability. I think the other one is nonprofit, as they look at
 our friends. And so I think all of those are big and broad opportunities for us to
 partner closely with the ecosystem.
-FINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14A - Dave O'Hara
+A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'HaraCool. Dave, maybe to pivot to a different topic, today's Microsoft really embraces
 interoperability and open standards and ultimately, to drive customer benefit. And
@@ -233,9 +223,7 @@ And we just got together and we said, hey we have a common set of customers that
 would like to see this happen, let's make it happen. And it really wasn't a diﬃcult
 conversation to have. We just felt like if you do this and we do that and it all works
 out for the customer, then that's the good thing. The Databricks partnership is a
-pretty deep partnership for us. Our partnerships can run from sort of marketingFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Q - Brad Zelnick
+pretty deep partnership for us. Our partnerships can run from sort of marketingQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Harapartnerships to sort of API partnerships. It's something that's more deeply integrated
@@ -276,9 +264,7 @@ recently. How much of recent seat growth is being driven by SMBs versus larger
 enterprise customers and how much runway is left for each of these customer
 segments to maintain seat growth over the medium term?
 Sure. Well, there's a few things that work with Oﬃce. Oﬃce, obviously, has deep
-penetration into the enterprise. On the other hand, we're continuing to addFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14Q - Brad Zelnick
+penetration into the enterprise. On the other hand, we're continuing to addQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Harafunctionality to Oﬃce that benefits customers. And so even though it might be
@@ -318,9 +304,7 @@ you could sell into that base and the problems you can solve, what might you be
 able to point to that perhaps suggest that investors are just completely
 underestimating how much Microsoft can deliver into that oﬃce space and to new
 customers and solve more and more beyond Teams and some of the things that we
-already know that --FINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Q - Brad Zelnick
+already know that --Q - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'HaraYes. I think if you just look at Teams and Security as two examples of markets that
@@ -361,9 +345,7 @@ noted your feedback, Brad. Thanks.
 I think when I told that to you, I said it was more of a limitation of how we've at
 Deutsche Bank implemented Teams.
 It was you -- I think your exact words were, it's more about how bankers think than
-how Teams work.FINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Q - Brad Zelnick
+how Teams work.Q - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Hara
@@ -403,9 +385,7 @@ about it. And I just think that it's literally an untapped market because it's a
 changing and there's always new threats and we have great signal.
 So I think we'll just continue to build out big, very helpful offering for our customers
 in the Security space. It's going to be -- I wouldn't even try to estimate what the TAM
-will be five years from now.FINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Q - Brad Zelnick
+will be five years from now.Q - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Hara
@@ -446,9 +426,7 @@ And so I think we just got more thoughtful about what filters through. And I thi
 before -- historically, we might have done a lot of product acquisitions, a lot of tuck-
 ins and we still do some of those, but now I think we're probably just looking for stuff
 that differentiated, strategic and impactful. And so we're buying fewer companies,
-maybe slightly larger, but they need to fit culturally and they need to fit strategicallyFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Q - Brad Zelnick
+maybe slightly larger, but they need to fit culturally and they need to fit strategicallyQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Hara
@@ -489,9 +467,7 @@ pricing is being able to provide differentiated value. So to the degree that we 
 continue to build up stack and provide differentiated value, I think customers will be
 willing to pay for that, and I think that will help us with margins. I think margin also
 depends on mix, like as we've seen with some of our SaaS apps that have better
-margins, as Azure grows in proportion to that, maybe the margins get squeezed aFINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Q - Brad Zelnick
+margins, as Azure grows in proportion to that, maybe the margins get squeezed aQ - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 A - Dave O'Haralittle bit but on the other hand, maybe we get better pricing out of some of the other
@@ -533,9 +509,7 @@ transformed, let's start over. And so in that case, we'll start with ideation ab
 do you really need to rebuild your business and what do you mean to be ready for
 the next 20 years. And so I don't know that, that is appreciated maybe as it could be,
 but that's fine too because I think it shows up when customers succeed and do well.
-So we'll get there.FINAL TRANSCRIPT 2022-08-31
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14Q - Brad Zelnick
+So we'll get there.Q - Brad Zelnick
 A - Dave O'Hara
 Q - Brad Zelnick
 Awesome. Well, with that, I think we're about out of time. Dave, thank you so much.

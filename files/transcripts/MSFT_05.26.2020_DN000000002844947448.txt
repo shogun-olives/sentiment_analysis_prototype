@@ -15,9 +15,7 @@ Thank you. Thank you, Brent.
 
 Before we dive into Q&A. Maybe, let's start with a brief description of your
 background, kind of role at Microsoft and maybe what location you're joining us
-from this morning.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 2 of 24Doug Burger
+from this morning.Doug Burger
 Brent Bracelin
 David Carmona
 Brent BracelinDoug, I want you kick things off here.
@@ -54,9 +52,7 @@ that something was changing in the industry and it's that there is a new softwar
 that is called AI. So, I made a transition to AI, and now, I lead the AI Innovation team
 in the business side in Microsoft.
 
-Very good.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 3 of 24Doug Burger
+Very good.Doug Burger
 Brent Bracelin
 Doug Burger
 David CarmonaI forgot -- Brent, I'm sorry, I forgot to mention, I'm in Bellevue, probably just a couple
@@ -91,9 +87,7 @@ particular scenarios and trust, therefore, bringing like state-of-the-art AI to 
 companies, so that's certainly one thing that I would highlight To be on top, and that,
 I ensure you can provide more in there, but before that, let me just mention another
 thing also form last week that I think is very important, and I say concept of
-autonomous systems.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 4 of 24Doug BurgerSo we had this chip, everybody that is also shooting autonomous assistance with
+autonomous systems.Doug BurgerSo we had this chip, everybody that is also shooting autonomous assistance with
 autonomous driving a lot of cases, but we're forgetting that autonomous systems are
 much broader than that. And last week, what we announced our bill was our first
 preview, so every developer now have access to that, to our autonomous systems
@@ -132,9 +126,7 @@ unique things you're doing to create that AI supercomputer, I want to go back to
 comment you made around just the size of the models kind of changing. Is this at
 the bleeding edge where it's kind of 1% of used cases? Or when you think about the
 size of these models and moving from kind of data bound to compute bound
-scenarios, is this more prevalent than maybe we appreciate it as outside looking in?FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 5 of 24David Carmona
+scenarios, is this more prevalent than maybe we appreciate it as outside looking in?David Carmona
 Brent Bracelin
 David Carmona
 Yeah, Doug, I'll take it. So there are two used cases here that I think we have to
@@ -174,9 +166,7 @@ data that are coming in their case, they do things like customer churn identific
 so they only custom train the model with that delta, with their domain, right. So very,
 very interesting.
 And then, the third thing that I would say is compute power, so because the
-customization is using our technical transfer learning, you don't need to train theFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 6 of 24Doug Burger
+customization is using our technical transfer learning, you don't need to train theDoug Burger
 David Carmona
 Doug Burgermodel from scratch, so you don't need that huge amount of infrastructure required
 to train the model initially.
@@ -213,9 +203,7 @@ their business, and then those infrastructure changes that we made to get those
 models out to such a wide group of users that see value, we can then take to our
 infrastructure customers to use. And so, those two halves, I mean I think that's why
 Satya talks about the Intelligent Cloud, it's not enterprise software and cloud, it's one
-thing where benefits can slosh back and forth and empower everyone.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 7 of 24Brent Bracelin
+thing where benefits can slosh back and forth and empower everyone.Brent Bracelin
 Doug Burger
 David Carmona
 Doug Burger
@@ -250,9 +238,7 @@ utility and it has to stay up.
 And then, now, if you go to the AI side and you're trading one of these large models,
 you're running a single program or job over a massive number of -- massive
 collection machines and it's okay for some of those notes to go down, right, because
-you can build resilience into that large deal distributing system and we have a lot ofFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 8 of 24Harsh Kumar
+you can build resilience into that large deal distributing system and we have a lot ofHarsh Kumar
 Doug Burger
 David Carmona
 Doug Burgerexperience doing that, for example, with platforms like Bing, which has to stay up
@@ -288,9 +274,7 @@ your model which is super expensive and then there's ﬂavoring it with specific
 So just like an analogy, you might be -- everyone on the call here are speaking
 English, but we all have slightly different vocabularies and nuances and choice of
 words, hence provide training in English more I could ﬂavor it with some history from
-an individual to customize that model to the individual speech patterns.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 9 of 24Harsh Kumar
+an individual to customize that model to the individual speech patterns.Harsh Kumar
 David Carmona
 Doug BurgerAnd it's a lot, as David said earlier, it's a lot cheaper to do that ﬂavoring than build
 the whole English model from scratch. And that's the training thing and then there's
@@ -329,9 +313,7 @@ we've talked about our engagement with graft core, there is a ton of start-ups a
 across Cloud and Edge, Intel, these are all programmable engines for AI-based
 linear algebra. We have different sets of trade-offs in the eﬃciency of the math units
 and the front end that feeds them and so there is just -- it's a new, what just like we
-had CPUs for many, many years, this is kind of a new class of programmableFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 10 of 24Harsh Kumar
+had CPUs for many, many years, this is kind of a new class of programmableHarsh Kumar
 Doug Burger
 Brent Bracelin
 David Carmonaarchitecture that's emerging in a very rapidly evolving space. And again -- and so at
@@ -370,9 +352,7 @@ down. This applies also, I know, we're talking a lot about NLP, natural language
 processing, but this will apply to every other scenario.
 So again coming back to the previous thing with autonomous systems, very, very
 similar pattern that we see with autonomous system. So would you say that creating
-an autonomous system is very limited to a few companies. Well, if you look at it fromFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 11 of 24Brent Bracelin
+an autonomous system is very limited to a few companies. Well, if you look at it fromBrent Bracelin
 David Carmona
 Brent Bracelin
 David Carmonathe angle of building all the components from scratch like deeper reinforcement
@@ -413,9 +393,7 @@ Azure Connected Services which are there, these AI models that are served as a
 service, right. So they are very easy to use by developers. So with those three things,
 we cover the entire spectrum. And it's not that, hey, today, we are releasing
 everything, right. So, it's that as we move, we make progress in this journey. Things
-are getting infused into three main channels.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 12 of 24Brent Bracelin
+are getting infused into three main channels.Brent Bracelin
 Doug Burger
 Brent Bracelin
 Doug Burger
@@ -451,9 +429,7 @@ could you just walk through that, opening our relationship, you put, obviously, 
 bunch of money there, a lot of really great talented engineers there, kind of
 everything in OpenAI, so maybe just walk through that Microsoft OpenAI
 relationship, what is it, and how does it relate to the AI supercomputer
-announcement?FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 13 of 24Brent Bracelin
+announcement?Brent Bracelin
 David Carmona
 Doug Burger
 Brent BracelinI only say one -- I'll say two things, and I think David should weigh in.
@@ -491,9 +467,7 @@ and where this is likely to be.
 
 Version 1 fifth largest super computer in the world. We're trying to keep up with the
 modeling kind of appetite that's growing 10x a year, very, very, fascinating. Harsh,
-you had a question?FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 14 of 24Harsh Kumar
+you had a question?Harsh Kumar
 Brent Bracelin
 David Carmona
 Doug Burger
@@ -532,9 +506,7 @@ never going back to the previous normal. It's going to be a new situation with a
 economic uncertainty with a lot of care on how do I optimize the revenue, how do I
 optimize my operation, et cetera in my company. So how AI can help me there.
 So in the first one, let me maybe, I think your question was more on the first one,
-right. Is it more today what our companies doing with AI so how is AI helping in theFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 15 of 24Doug Burgerdisruption that we are experiencing and we see three primary scenarios. So, these
+right. Is it more today what our companies doing with AI so how is AI helping in theDoug Burgerdisruption that we are experiencing and we see three primary scenarios. So, these
 are the three used cases that we actually saw our race on the demand from our
 customers, and we see that across the industry, so not for a particular vertical.
 The first one, which is very obvious is of course customer service, so that is the most
@@ -574,9 +546,7 @@ deeper into examples, if you want to, later.
 Yeah, I thought that was super interesting. It was even interesting for me and I mean
 the company, so thank you, David. I would just underscore what David said. What
 we're seeing is that this crisis is accelerating company's desire to do digital
-transformation partially because they need to and partially because if you're goingFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 16 of 24Brent Bracelin
+transformation partially because they need to and partially because if you're goingBrent Bracelin
 Doug Burger
 David Carmona
 Harsh Kumar
@@ -612,9 +582,7 @@ Project Brainwave.
 
 Sure, sure. Why don't -- David or Doug, why don't you give us a 30-second or one-
 minute overview on what you're trying to accomplish with Project Brainwave. And
-then, I can jump into some questions.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 17 of 24Doug Burger
+then, I can jump into some questions.Doug Burger
 David Carmona
 Doug Burger
 Harsh Kumar
@@ -647,9 +615,7 @@ Yeah. You take it.
 So, there is certainly an overlap between the two in the research community looking
 at doing machine learning with quantum algorithms and quantum-capable
 algorithms. What I would say right now, my personal view, I'm not speaking for the
-company here, is that initially the two technologies, AI supercomputers and quantumFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 18 of 24Harsh Kumar
+company here, is that initially the two technologies, AI supercomputers and quantumHarsh Kumar
 Doug Burger
 Harsh Kumar
 Doug Burger
@@ -684,9 +650,7 @@ Yeah, so let's shift gears a little bit maybe and talk about kind of some real w
 used cases. We've covered a lot of ground here, you gave us some scenarios, how
 people are using it, but you just recently announced NDA, you announced all sorts
 of kind of new used cases, I think, at build last week and two weeks coming up to
-build around some new large enterprises, where AI was Microsoft AI, Azure AI. I thinkFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 19 of 24Doug Burger
+build around some new large enterprises, where AI was Microsoft AI, Azure AI. I thinkDoug Burger
 David Carmonathere's like 20,000 enterprises that have deployed Azure AI at some point in the last
 year. But walk through how people are actually using it, other interesting scenarios
 that you come across that you'd like to highlight for us to take the technology in the
@@ -725,9 +689,7 @@ resource, right. So that would be one example that I will bring.
 In business process optimization, we have seen -- I don't know where to start there,
 because again, every company is doing a lot in that area. So one, I think you
 mentioned that one, but one of the ones that we announced last week was FedEx.
-Like FedEx is the perfect example of business process optimization.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 20 of 24So they had this massive amount of data, so they have a very granular data on their
+Like FedEx is the perfect example of business process optimization.So they had this massive amount of data, so they have a very granular data on their
 shipments in FedEx. So, with this agreement, they are going to have AI on top of that,
 so they can have better intelligence on what is going on. So they can not only
 identify trends that are happening or products that are happening, but also to
@@ -769,9 +731,7 @@ are using AI in the response rate.
 But let me just use a couple of examples on their imagine phase, right. Because I
 think that is the big conversation that we should how, what is going on after after this
 health crisis over and it turns into an economic crisis, right. And, we see three key
-things happening in there. So let me use an example in there.FINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 21 of 24Brent Bracelin
+things happening in there. So let me use an example in there.Brent Bracelin
 David CarmonaThe first one that we talk a lot today was AI that scale. So I know that we talk a lot
 about AI scale in the concept of the model. But there is a bigger motion that will
 happen in the enterprise, that is really applying AI at scale in their business. So, it's
@@ -812,9 +772,7 @@ with them where they are basically empowering their 50,000 employees.
 So, almost half of their employees with AI, but don't think of it as using AI, but more
 as applying AI with ﬂexibility with freedom to their processes. So you can have
 researchers that are researching new drugs or new treatments or new vaccines and
-how they can be augmented with AI by using in their processes to drugFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 22 of 24Brent Bracelin
+how they can be augmented with AI by using in their processes to drugBrent Bracelin
 David Carmona
 Doug Burger
 David Carmona
@@ -850,9 +808,7 @@ there in the next year.
 
 Driving those business outcomes for sure for you. Yes.
 Yeah. I'm going to give a little bit of a squishy answer, but it's a true answer. You very
-rarely get the opportunity, and this is a personal view, to work on things that willFINAL TRANSCRIPT 2020-05-26
-Microsoft Corp (MSFT US Equity)
-Page 23 of 24David Carmona
+rarely get the opportunity, and this is a personal view, to work on things that willDavid Carmona
 Brent Bracelin
 David Carmona
 Doug Burger

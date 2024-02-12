@@ -20,9 +20,7 @@ spent 22 years at Oracle building many new product lines and diversifying Oracle
 from being a database company. And Thomas is focused on growing Google Cloud
 and helping accelerate every organization's ability to transform through data
 powered innovation with the best infrastructure platform, industry solutions and
-expertise for digital transformation.FINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 12Thomas KurianThe company is in great traction with large enterprise customers, in terms of market
+expertise for digital transformation.Thomas KurianThe company is in great traction with large enterprise customers, in terms of market
 perception and adoption, that's certainly something that we've seen in the financials.
 Thomas will now walk us through some slides and with that, I'll turn it over to you.
 
@@ -62,9 +60,7 @@ metrics from independent analysts of customers expressing their intent to use
 Google Cloud as a strategic part of their platform and of their infrastructure.
 We offer products in five important categories. Starting with infrastructure, we offer
 through a global network of 24 regions and 73 availability zones, high skill compute
-storage and networking, protected by leading cybersecurity capability and greatFINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 12management tools to make it easy to operate. We offer that in four important
+storage and networking, protected by leading cybersecurity capability and greatmanagement tools to make it easy to operate. We offer that in four important
 configurations. In our public cloud, we support organizations like Nokia, which is
 migrating a large set of workloads to our public cloud from a variety of different data
 centers. We provide mission-critical infrastructure to run complex applications like
@@ -106,9 +102,7 @@ institution as examples. Our enterprise-wide and multi-cloud security tools are 
 by the London Stock Exchange, AT&T, and Lloyds Bank to protect themselves from
 threats that we can accurately detect using our expertise in machine learning and
 security breach detection across multiple environments. And we protect e-
-commerce sites, social platforms, from bots and malware using our recaptureFINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 12solutions, examples include Wayfair, Etsy, and many more. We're seeing strong
+commerce sites, social platforms, from bots and malware using our recapturesolutions, examples include Wayfair, Etsy, and many more. We're seeing strong
 growth in this portfolio, along with our data and infrastructure and we have
 successfully integrated our acquisition of Chronicle for security, Looker in analytics,
 Apigee in infrastructure and we're seeing good growth in those portfolios as well.
@@ -147,9 +141,7 @@ being the IT organization but important buying sectors in different organization
 different industries. And third, providing highly differentiated high-value solutions to
 customers.
 We've invested not just in maturing our products, but over the past 24 months,
-significantly scaling a world-class enterprise software tool. Today, we provideFINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 12services to customers in over 200 countries and territories. We're on track to expand
+significantly scaling a world-class enterprise software tool. Today, we provideservices to customers in over 200 countries and territories. We're on track to expand
 our direct sales organization by more than 3 times. We've certified our products, our
 154 products with 75 compliance certifications, every compliance certification opens
 up a new addressable market for us. We've invested in training the ecosystem
@@ -191,9 +183,7 @@ An example of our strength is our work with all of these customers. And during B
 Friday 2020, we processed more revenue through Google Cloud in support of these
 customers than Amazon.com.
 We're strong not just in retail, but in many other industries serving the largest and
-leading companies in these industries. And as we continue to strengthen our salesFINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 12and distribution we've seen great momentum with these large customers. All of this
+leading companies in these industries. And as we continue to strengthen our salesand distribution we've seen great momentum with these large customers. All of this
 is driving strong growth in our backlog which nearly tripled from 2019 to 2020,
 representing meaningful long-term commitments that customers are making to
 Google Cloud.
@@ -232,9 +222,7 @@ secular shift that's occurring, and as we scale that, we will see improvement in
 just topline, but also operating margin and we're working closely with Ruth to enable
 that.
 Thank you for your time. And with that, let me turn it over to Heath so we can do
-question-and-answer with all of you.FINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 12Q - Heath Terry
+question-and-answer with all of you.Q - Heath Terry
 A - Thomas Kurian
 Q - Heath Terry
 A - Thomas KurianQuestions And Answers
@@ -274,9 +262,7 @@ same time, we've also had great relationships with partners. We focus on what we
 well. For instance, we don't have large professional services teams creating
 opportunities for partners as we grow and we're seeing the partner ecosystem
 recognize that and do a lot of work with us and we're seeing momentum not just
-direct, but also through the channels.FINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 12Q - Heath Terry
+direct, but also through the channels.Q - Heath Terry
 A - Thomas Kurian
 Q - Heath Terry
 A - Thomas Kurian
@@ -318,9 +304,7 @@ revenue and as our backlog converts to revenue, you will see that in our continu
 focus on operating margin with Ruth as well.
 
 And as CEO, how do you prioritize growth over profitability, longer-term?
-FINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 12Q - Heath Terry
+Q - Heath Terry
 A - Thomas Kurian
 Q - Heath Terry
 A - Thomas KurianWe are currently focused on capturing this opportunity. We really believe we have a
@@ -363,9 +347,7 @@ for?
 Customers when they -- two years or three years ago multi-cloud was not even a
 topic people knew what it meant. Today 85% of enterprise CIOs, say need multi-
 cloud. For us, multi-cloud represents three important buying decisions for
-customers.FINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 12Q - Heath Terry
+customers.Q - Heath Terry
 A - Thomas Kurian
 Q - Heath Terry
 A - Thomas KurianNumber one, I need to move fast. Can I get the ability to use the best technology
@@ -406,9 +388,7 @@ those playing in the enterprise decision?
 A lot of customers now are talking to us about using our machine learning platform
 but also increasingly about using our solutions. One of the limitations today in
 enterprises adopting AI and ML is the lack of skills. And so by taking our technical
-expertise in AI and ML and converting that to a solution that a customer can use itFINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 12Q - Heath Terry
+expertise in AI and ML and converting that to a solution that a customer can use itQ - Heath Terry
 A - Thomas Kurian
 Q - Heath Terryhelps us speed adoption, it helps us appeal to a different buyer, it helps us get into a
 door that we may not have been there prior, and it's opening up an addressable
@@ -451,9 +431,7 @@ for. So we see a lot of momentum with the product. We frankly rebranded it and
 brought out new capability in it, and so far we've seen strong growth in the product.
 
 So I know it's not fair to ask you to predict the future. But if we had asked last year,
-we probably would not have said that the biggest story in Cloud would be businessFINAL TRANSCRIPT 2021-02-10
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 12A - Thomas Kurian
+we probably would not have said that the biggest story in Cloud would be businessA - Thomas Kurian
 Q - Heath Terry
 A - Thomas Kuriancontinuity and remote work. But from where we sit right now, from where you sit
 right now, what do you see being the biggest story in Cloud in the year ahead?

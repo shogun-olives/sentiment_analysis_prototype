@@ -21,9 +21,7 @@ gaming business, our pro visualization business, data center and automotive. And
 we (discussed for) each group and grew more than double digits. In the case of our
 data center business, which many people follow quite closely, we reached almost $2
 billion and grew 130% year-over-year. So extremely strong growth for all of these
-overall platforms.FINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11It was a big year for our Volta platform. Our Volta platform (blended) with our data
+overall platforms.It was a big year for our Volta platform. Our Volta platform (blended) with our data
 center and was announced at our GTC last May. But our probably greatest surprise
 and greatest accomplishment of the overall adoption of Volta was across the overall
 industry, starting with our CSTs and moving quite quickly both for internal use in
@@ -65,9 +63,7 @@ one of those to a specific market. And that has benefited us well as we think ab
 the overall investments that we did. So the overall profitability growth growing more
 than 60%, even more in terms of on the overall EPS line.
 So in summary, a really solid year. Taking advantage of great, large market
-opportunities in front of us. We have a very fortunate thing in front of us that we'reFINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Q - Toshiya Hari
+opportunities in front of us. We have a very fortunate thing in front of us that we'reQ - Toshiya Hari
 A - Colette M. Kressnot just concentrating on one large market. We have many large markets. Gaming,
 gaming is here. Tremendously healthy. We'll get to the point where maybe every
 person in the world is an overall gamer. And our platforms are best-of-breed and
@@ -113,9 +109,7 @@ processors to solve many of these more challenging problems that have required s
 much data and so much processing put together. So yes, five years ago when we
 would be up here talking about the PC market, the PC market would be declining or
 would be ﬂat and (our) concerns in terms of our attach rate. It's been a long time
-since we've had that question. And now we really, really talk about, what stage areFINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Q - Toshiya Hari
+since we've had that question. And now we really, really talk about, what stage areQ - Toshiya Hari
 A - Colette M. Kresswe at in terms of AI? How big is this going to be? When will that first self-driving car
 hit the freeway? How can we see that there? So a huge change. It's required the
 company to keep on its toes. I think the company is probably one of the most agile
@@ -162,9 +156,7 @@ capture. Our fourth market is high-performance computing. Not a new business, a
 business that we've probably been in for close to 15 years. Large supercomputers
 around the world. Very, very deep computational type of work being done in high-
 performance computing. And we have now established ourselves in terms of both
-the top supercomputers in the world, probably 1/5 of them; as well as the top 15FINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Q - Toshiya Hari
+the top supercomputers in the world, probably 1/5 of them; as well as the top 15Q - Toshiya Hari
 A - Colette M. Kress
 Q - Toshiya Hari
 A - Colette M. Kressoverall applications for high-performance computing using overall GPU acceleration.
@@ -209,9 +201,7 @@ intelligence. But we've simply come through with an overall focus, which focuses
 enabling AI in as many different platforms and in many different places around the
 world, not focusing on any one framework, not focusing on any one hyperscale, not
 focusing on any one form of computing. Our ability is to create a software stack that
-enables all of that, that allows you a quick start in terms of working through aFINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Q - Toshiya Hari
+enables all of that, that allows you a quick start in terms of working through aQ - Toshiya Hari
 A - Colette M. Kress
 Q - Toshiya Hari
 A - Colette M. Kresssignificant amount of metalware. Not to be confused. But we will always have the
@@ -256,9 +246,7 @@ out there, using a GPU is very beneficial for the work that needs to be done the
 Over the last couple of quarters, we've watched it quite closely. It has some very
 important market dynamics that were popping up, where you had professional
 miners starting to take place. But you also have a case where you have extra time
-and outside of gaming that people can also be mining. So we may have a dualFINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11Q - Toshiya Hari
+and outside of gaming that people can also be mining. So we may have a dualQ - Toshiya Hari
 A - Colette M. Kress
 Q - Toshiya Hari
 A - Colette M. Kress
@@ -303,9 +291,7 @@ constrained. Those GPUs are under a lot of need to meet a lot of different thing
 yes, the overall success of gaming can clearly be seen both by the revenue growth
 that we have. But also if you just think of the overall success and the growth of the
 games that are out there. We can easily see that.
-FINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Colette M. Kress
+A - Colette M. Kress
 Q - Toshiya Hari
 Q - Unidentified Participant
 A - Colette M. KressGreat. Then from a competitive standpoint, you've clearly done really well in gaming
@@ -349,9 +335,7 @@ just the latest NVIDIA drivers so it's hard to differentiate, right? But I think
 thing they still do, is they overclock the memory. Are you able to figure out what
 percentage of GPUs you're selling are like memory overclock versus normal
 overclock?
-FINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Toshiya Hari
+Q - Toshiya Hari
 Q - Unidentified Participant
 A - Colette M. KressOkay. So let me -- for the room, we talked about last year. Yes. We brought to market
 a specific overall GPU card specifically for the cryptocurrency market. Those are
@@ -396,9 +380,7 @@ platform within the year. The Pegasus platform is focused primarily at that Leve
 and Level 5, where you may do Level 5 in a confined type of community area, a
 several block radius, a college campus, a downtown area. That's an area that you
 could actually map quite heavily and you could actually bring your process to the
-market and remove the driver quite quickly and be functioning in that. So thinkingFINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Toshiya Hari
+market and remove the driver quite quickly and be functioning in that. So thinkingQ - Toshiya Hari
 A - Colette M. Kressabout bringing Level 5 that you need a car to drive from San Francisco to New York,
 probably not necessary today. But rather thinking about this (all in the coming days).
 Additionally, Level 3 moving from the advancements of high-end Level 2 and the
@@ -445,9 +427,7 @@ That work is in our overall OpEx. That work is a unified structure to where we c
 support multiple different platforms together and we can focus on one thing,
 (inaudible) to enable that. So that whole combination has allowed us both to grow
 the top line gross margins as people expand to these higher value-added platforms
-while also allowing us to think thoughtfully in terms of our investments that we haveFINAL TRANSCRIPT 2018-02-13
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11Q - Toshiya Hari
+while also allowing us to think thoughtfully in terms of our investments that we haveQ - Toshiya Hari
 A - Colette M. Kress
 Q - Toshiya Hariin terms of OpEx. So the right measure is certainly our overall margins, our overall
 operating profit. We reached probably close to $3.5 billion in profit this year. And

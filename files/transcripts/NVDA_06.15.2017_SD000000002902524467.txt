@@ -20,9 +20,7 @@ over the last 10 years, we were well known as a very big component of the PC
 industry in terms of enabling overall graphics, which built that overall gaming
 market. That was one of the key pieces of enabling high-end graphics. But that
 overall business has evolved. It's a -- the market has substantially grown and the
-market has grown because gaming is everywhere. Gaming is no longer just a sportFINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 8Q - Mark John Lipacis
+market has grown because gaming is everywhere. Gaming is no longer just a sportQ - Mark John Lipacis
 A - Colette M. Kresswith you and the overall computer. It's an entertainment arena, where you have
 people online for the social experience and playing with their friends. So the overall
 growth that we've seen over the last five years is really about that market expansion,
@@ -69,9 +67,7 @@ to consider a GPU for future in terms of workloads. What's happened then over th
 last five years is the focus of AI. AI, for the last 20 years, software-written code, trying
 to get to where you'd have high-enabled AI computing structures. But new form
 factors, new frameworks developed using GPUs, GPUs that were very well
-engineered to design deep neural nets and establish additional frameworks on topFINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 8Q - Mark John Lipacis
+engineered to design deep neural nets and establish additional frameworks on topQ - Mark John Lipacis
 A - Colette M. Kress
 Q - Mark John Lipacisof that, allowing the ability to create AI different workloads, AI different types of
 applications. So our initial work just 10 years ago, that initial investment in terms of
@@ -116,9 +112,7 @@ people are -- a lot of people are of the view that you dominate the training mar
 and there's really no other solution. But the inferencing market, I think there's a
 debate. So are you guys -- how should we think about the competitive environment
 on the inferencing side? And maybe talk to the training side. Would you agree with
-that consensus view?FINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 8A - Colette M. Kress
+that consensus view?A - Colette M. Kress
 Q - Mark John Lipacis
 A - Colette M. Kress
 So on the training side of AI, yes, we do have a good leadership position in that
@@ -165,9 +159,7 @@ moving at a very fast pace, as well as the rest of our data center business. The
 businesses, we talk about what we see in AI, AI for training, AI for specific overall
 inferencing. You can slice and dice that also in the manner of what is being built for
 internal applications, internal applications that we see Internet service providers
-overall building. As you know, their infrastructure is very key to their overall businessFINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 8Q - Mark John Lipacis
+overall building. As you know, their infrastructure is very key to their overall businessQ - Mark John Lipacis
 A - Colette M. Kressmodel and they have been some of the ones that have run probably the fastest, in
 terms of building out AI applications that you and I use every single day.
 Additionally, these same hyper-scale providers are also establishing cloud instances.
@@ -214,9 +206,7 @@ been in that business for 8 to 10 years, focusing on high-end premium infotainme
 centers, whether that be that center console, the digital dashboards. You will see
 many of the high-end European cars that we have around here using NVIDIA. All the
 Tesla motor cars also use our infotainment systems and many other different types of
-brands. Overall, infotainment has now broad strings, I would say, that you see inFINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 8Q - Mark John Lipacis
+brands. Overall, infotainment has now broad strings, I would say, that you see inQ - Mark John Lipacis
 A - Colette M. Kressmost of car manufacturers. We have focused, in terms of those higher-end cars,
 where they truly appreciate the graphic -- high-end graphics that we enable inside of
 those cars. But that has allowed us to continue to focus, in terms of what we think is a
@@ -262,9 +252,7 @@ in terms of product, is a product focused in terms of on the data center. This p
 is, as we've discussed, both accessible to the overall training market but also a very
 key component focused on the tensor core, which is focusing on overall inferencing
 in the overall AI and data center. The overall performance increase is substantial
-versus what we've seen. And we are in production as we speak.FINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 8Q - Mark John Lipacis
+versus what we've seen. And we are in production as we speak.Q - Mark John Lipacis
 A - Colette M. Kress
 Q - Mark John Lipacis
 Q - Unidentified Participant
@@ -306,7 +294,5 @@ think about mobile, we'll think about it more in terms of on the edge and enabli
 terms of platforms in there.
 
 I think that's going to have to be the last word. Colette, thank you very much for
-joining us.FINAL TRANSCRIPT 2017-06-15
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 8A - Colette M. Kress
+joining us.A - Colette M. Kress
 All right. Appreciate it.

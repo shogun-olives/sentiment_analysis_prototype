@@ -13,9 +13,7 @@ something we share and have shared our whole life. And I share it with my son as
 well.
 And I also think it's an amazing community builder. I think in a world like we live in
 today, where there's so much polarization, one of the few places where people from
-every background and every political view come together as one in a community isFINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 2 of 13Roger Goodell
+every background and every political view come together as one in a community isRoger Goodell
 Andrew Jassy
 Roger Goodell
 Andrew Jassy
@@ -51,9 +49,7 @@ remarkable. I remember as a kid growing up, I mean, if you watch TV, you actuall
 didn't know what the score was. You kept waiting until they ﬂash the score. And there
 was no yellow line for the first down mark. Are we just -- it's radically different. And I
 think a lot of that...
-FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 3 of 13Andrew Jassy
+Andrew Jassy
 A - Andrew Jassy
 Q - Roger Goodell
 A - Andrew Jassy
@@ -94,9 +90,7 @@ I agree. One of my very favorite of the Next Gen Stats is that catch probability
 And I love -- as a New York Giants fan, I love that Next Gen Stats is able to use the
 machine learning algorithms created in AWS to project that famous OBJ catch, the
 Odell Beckham Jr. catch, against Dallas had a 0.4% catch probability, which means
-effectively, 4 out of 1,000 times, he would catch the ball, which is pretty amazing.FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 4 of 13Q - Roger Goodell
+effectively, 4 out of 1,000 times, he would catch the ball, which is pretty amazing.Q - Roger Goodell
 A - Andrew Jassy
 Q - Roger Goodell
 A - Andrew JassyAnd as Roger said, we've spent a lot of time together as our organizations and
@@ -137,9 +131,7 @@ who to partner with. And what the process was like?
 
 Well you'd be happy to hear. When we're looking at partnerships, we always look for
 best in class. So that is a compliment to AWS.
-FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 5 of 13Q - Roger Goodell
+Q - Roger Goodell
 A - Andrew Jassy
 Q - Roger Goodell
 A - Andrew Jassy
@@ -181,9 +173,7 @@ Well it's sort of -- I was giggling because you said -- and I know my staff woul
 with you, is that I seem very happy with where we are with the game. I am never
 happy or satisfied with where we are. I always feel like the NFL, in particular, has so
 much more potential. And we have to unlock that potential. And I think that's what
-this relationship can do is unlock all of the work that we've done in building thisFINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 6 of 13A - Andrew Jassy
+this relationship can do is unlock all of the work that we've done in building thisA - Andrew Jassy
 Q - Roger Goodell
 A - Andrew Jassy
 Q - Roger Goodelldatabase and actually work to extend our efforts to, obviously, prevent injuries, to
@@ -223,9 +213,7 @@ NFL; Dr. Matt Wood, who's the VP of AI Services here in AWS; and Dr. Jeff Cranda
 who's the Chairman of the Engineering Committee for the NFL. And they're going to
 share a little bit more detail. Thank you, again.
 
-My pleasure, Andy. It's great to be here. Thanks again.FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 7 of 13A - Andrew Jassy
+My pleasure, Andy. It's great to be here. Thanks again.A - Andrew Jassy
 Q - Jeff Miller
 Q - Jeff Crandall
 Thank you. God bless you.
@@ -263,9 +251,7 @@ the equipment that players are wearing. What are the helmet models? What are the
 cleats? What are the shoulder pads? We know the player injury and their history. We
 know what's happening, how often they practice. We know what they're doing on
 field. We know the surfaces they run on. So we've got a tremendous database
-prepared. And I think on top of all that, one of the most unique resources, if youFINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 8 of 13Q - Jeff Millerlook, is the archives of video. So not only do we have the game characterized with
+prepared. And I think on top of all that, one of the most unique resources, if youQ - Jeff Millerlook, is the archives of video. So not only do we have the game characterized with
 every play where we have multiple views of cameras. Now what we have is every
 player actually tracked with multiple views of cameras and angles. And so building
 on this, we developed a plan called the Engineering Roadmap. And the goal of that
@@ -306,9 +292,7 @@ And one element that I had not anticipated when we started this work was the
 collection of the different data sets, not just the head impacts on field but gameplay
 data, the equipment that players were wearing, the frequency of those impacts, the
 speeds that the players we're traveling, the angles that they hit one another and
-such. And some of that work, which has been very laborious over the last couple ofFINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 9 of 13Q - Jeff Crandall
+such. And some of that work, which has been very laborious over the last couple ofQ - Jeff Crandall
 Q - Jeff Miller
 A - Matt Wood
 Q - Jeff Miller
@@ -349,9 +333,7 @@ Quickly overwhelming.
 Quickly overwhelming. Let's talk to you about -- from your approach, what do you
 see when you hear about the data and the work that we've done so far and what the
 possibilities are?
-FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 10 of 13Q - Jeff Miller
+Q - Jeff Miller
 Q - Jeff CrandallSure. I mean, I think, first and foremost, the thing that I've been impressed most with
 from our partnership so far and the material work that we've done so far is just the
 level of drive and innovation inside the NFL. Working on these biomechanical
@@ -394,9 +376,7 @@ you give your perspective on that for a minute?
 
 Sure. I think if you look, the NFL provides a sort of unique opportunity to look at
 human motion, forces and injury among a population of the world's most elite
-athletes. And so our challenge is how do we protect those athletes. And so thisFINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 11 of 13Q - Jeff Miller
+athletes. And so our challenge is how do we protect those athletes. And so thisQ - Jeff Miller
 A - Matt Wood
 Q - Jeff Miller
 A - Matt Wood
@@ -438,9 +418,7 @@ very, very precise treatments, it leads some far better outcomes for the patient
 it is materially more eﬃcient for a health care system. So if you are looking to
 improve the eﬃciency of health care and provide healthier people, this is a fantastic
 technology.
-FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 12 of 13A - Matt Wood
+A - Matt Wood
 Q - Jeff Crandall
 Q - Jeff Miller
 Q - Jeff Crandall
@@ -479,9 +457,7 @@ listening to us.
 As you can tell, we're incredibly excited about the journey that we're going to start
 here with AWS. As I mentioned, if we're invited back, we will welcome that
 opportunity and give everybody a marker along the way, as we try to create things
-that haven't been created yet for the betterment of football and beyond that.FINAL TRANSCRIPT 2019-12-05
-Amazon.com Inc (AMZN US Equity)
-Page 13 of 13And one thing that we've pledged to do with the NFL is be incredibly transparent, as
+that haven't been created yet for the betterment of football and beyond that.And one thing that we've pledged to do with the NFL is be incredibly transparent, as
 we've gone down this journey around improving the health and safety of our sport in
 doing so with world-class partners like AWS. So it is our responsibility to continue to
 do that. And we will.

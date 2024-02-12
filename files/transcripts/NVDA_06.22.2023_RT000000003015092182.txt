@@ -22,9 +22,7 @@ will now oﬃcially come to order. Jensen will serve as Chairman, and I will ser
 the Secretary and conduct the procedural portion of the meeting.
 First, a few housekeeping items; we have opened the online portal for stockholders
 to vote their share, and I'll make an announcement when the polls are about to
-close. Stockholders may ask questions during the meeting. If you have a question,FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11please enter it into the portal. As stated in our rules of conduct, the meeting is not to
+close. Stockholders may ask questions during the meeting. If you have a question,please enter it into the portal. As stated in our rules of conduct, the meeting is not to
 be used as a forum to present general, economic, political, or other views that are
 not directly related to our business, the business of the meeting, or for matters of
 individual concern.
@@ -62,9 +60,7 @@ Each share of common stock is entitled to one vote. If you are eligible to vote 
 have not submitted your proxy, or if you want to change your vote, please vote
 online now. You do not need to vote if you've already sent in your signed proxy, or
 voted online or by telephone. Your votes will be counted automatically. The time is
-11:04 a.m., and the polls are currently open for voting.FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Jensen HuangThere are five items of business before this meeting: first, the election of Rob
+11:04 a.m., and the polls are currently open for voting.Jensen HuangThere are five items of business before this meeting: first, the election of Rob
 Burgess, Tench Coxe, John Dabiri, Persis Drell, Jensen Huang, Dawn Hudson, Harvey
 Jones, Mike McCaffery, Steve Neal, Mark Perry, Brooke Seawell, Aarti Shah, and Mark
 Stevens to serve as Directors until our 2024 annual meeting; second, the approval of
@@ -103,9 +99,7 @@ math. AI will let anyone be a programmer and democratize the power of computing,
 bridging the technology divide. In the arts, this remarkable tool will both be teacher
 and apprentice, working with creatives to tap into the history of art to make infinite
 drafts and infinite palettes that help the next generation of artists, musicians, writers,
-and filmmakers express their visions.FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11The productivity of our businesses and factories will soar as we oﬄoad the menial
+and filmmakers express their visions.The productivity of our businesses and factories will soar as we oﬄoad the menial
 tasks and optimize the complex processes of the world's objects industries. Our
 transportation system will be radically streamlined with AI at the helm. Autonomous
 vehicles will transform community into leisure time while improving safety. With an AI
@@ -145,9 +139,7 @@ compatible. 4 million developers are working with CUDA, and CUDA has been
 downloaded more than 40 million times. It took 12 years to reach two million
 developers, but we've doubled that number in the last 2.5 years. NVIDIA-accelerated
 computing has reached an inﬂection point and is now a globally adopted computing
-platform.FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11This past year, we had some of the biggest innovations in our company's history,
+platform.This past year, we had some of the biggest innovations in our company's history,
 opening new markets and creating new capabilities for our customers and partners.
 The NVIDIA Hopper architecture is now powering the next wave of supercomputers.
 The Hopper-based NVIDIA H100 packs 80 billion transistors and delivers an order of
@@ -189,9 +181,7 @@ layout and ﬂow and train more intelligent robotic systems. Lowe's used Omniver
 to design, build, and operate digital twins of its stores to optimize operations. BMW
 Group is using Omniverse to build a fully functioning factory digital twin before
 building it in the real world. Mercedes-Benz and Jaguar Land Rover are both using
-Omniverse to generate scenarios to test and validate the next generation ofFINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Tim Teter
+Omniverse to generate scenarios to test and validate the next generation ofTim Teter
 A - Simona Jankowskiautonomous vehicles. Generative AI and digitalization are reshaping the $3 trillion
 automotive industry from design and engineering to manufacturing, autonomous
 driving, and customer experience.
@@ -224,9 +214,7 @@ That concludes the formal portion of today's annual meeting, and I now declare t
 business portion of the meeting adjourned.
 I'll turn it over to Simona for stockholder questions.
 Questions And Answers
-FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Jensen Huang
+A - Jensen Huang
 A - Simona Jankowski(Question And Answer)
 Thank you, Tim. And we'll now move to the Q&A portion. I'll read aloud each
 question or comment. When we receive multiple questions asking about the same or
@@ -265,9 +253,7 @@ continue to advance NVIDIA's business.
 
 Thank you. Next, we received a few questions on how NVIDIA is approaching
 possible artificial intelligence regulation, including how it respects the power of
-artificial intelligence, and how it will be involved in future AI guidelines?FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Jensen Huang
+artificial intelligence, and how it will be involved in future AI guidelines?A - Jensen Huang
 A - Simona Jankowski
 A - Jensen Huang
 A - Simona Jankowski
@@ -310,9 +296,7 @@ competitive moat.
 Thank you. We also received several questions regarding our capital allocation with
 some stockholders asking if we will increase our dividend. We also received
 questions on whether we would consider splitting the stock again.
-FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11A - Simona Jankowski
+A - Simona Jankowski
 A - Jensen Huang
 A - Simona Jankowski
 A - Jensen HuangOur company generates a significant amount of cash. Allocation of our capital is a
@@ -351,9 +335,7 @@ technologies, and strives to achieve the highest level of craft. To achieve this
 we must attract and retain a high-caliber board, executive team, and employees
 while balancing our stockholders' interests. We believe that equity grants align our
 oﬃcers and Board interests with stockholders, creating long-term value in the
-company.FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11A - Simona Jankowski
+company.A - Simona Jankowski
 A - Jensen HuangWe aim to be a top-paying company to attract the world's best talent. For executives
 and oﬃcers and directors, we provide compensation which is competitive with
 market practices, aligns to stockholder interests, and for our executives and oﬃcers,
@@ -393,9 +375,7 @@ Our longer tenure directors are familiar with our operations and business and he
 to oversee our activities in a variety of economic and competitive environments. Our
 newer Directors have brought expertise and brand development and cybersecurity
 and familiarity with technology developments at leading academic institutions that
-are important to NVIDIA as it develops new products and interesting markets.FINAL TRANSCRIPT 2023-06-22
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11A - Simona Jankowski
+are important to NVIDIA as it develops new products and interesting markets.A - Simona Jankowski
 A - Jensen Huang
 A - Simona JankowskiWe have three women currently on our Board and three members, who are
 ethnically or racially diverse. The Board continues to seek highly qualified women

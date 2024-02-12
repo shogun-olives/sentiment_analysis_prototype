@@ -13,9 +13,7 @@ our V100, Volta 100. And moving to 16 GB to 32 GB availability, a tremendous
 increase in terms of overall performance and also available for a lot different
 workloads now that you move to 32 GB.
 Additionally, we had announced our DGX-2, which was our second version of our full
-containerized version system, able to essentially just be plugged in, a full stackFINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 10Unidentified Participant
+containerized version system, able to essentially just be plugged in, a full stackUnidentified Participant
 Q - Unidentified Participantincorporating versus our DGX-1, which was 8 GPUs. DGX-2 incorporates 16 different
 GPUs.
 We also, because of the additional amount of GPUs, incorporated our own
@@ -51,9 +49,7 @@ So I think also at Computex. And I'm not sure if it was -- but I read a quote th
 Jensen said that -- he was quoted as saying that ray tracing is the biggest thing that
 has happened to gaming in 15 years. And for a business that's been growing in the
 over 20% range, I think that's a big statement. So what is ray tracing? And why is it
-important?FINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 10A - Colette M. Kress
+important?A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
@@ -94,9 +90,7 @@ industry by storm. And one concern we've heard expressed by investors is that si
 the graphics on Fortnite seem to be less intense, there's a concern that perhaps
 there's a new era of gaming that requires less-intensive graphics. Is that a legitimate
 concern in your view? How do you think about that as a risk (of business)?
-FINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 10Q - Unidentified Participant
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. KressYes. So an interesting discussion in terms of a new genre of games that have recently
@@ -139,9 +133,7 @@ So over this time that we've seen our overall business grow, I think it was -- i
 like just yesterday when we were talking about a business that was about $25 million
 a quarter. So it's grown astronomically. And that doesn't grow from just one thing. I
 think it's always key to understand the overall breadth and the depth of now what we
-are accomplishing in terms of the data center. You can focus in terms of the keyFINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 10Q - Unidentified Participanttypes of workloads that we see happening in terms of the data center. It's focused
+are accomplishing in terms of the data center. You can focus in terms of the keyQ - Unidentified Participanttypes of workloads that we see happening in terms of the data center. It's focused
 primarily on accelerated computing. That is absolutely front and center. But I think
 there's many different forms of accelerated computing and what is occurring in
 terms of the data center. Number one, the focus in terms of high-performance
@@ -188,9 +180,7 @@ seems you can't turn around without bumping into a new parallel processor
 company with a new architecture. But so far, it seems like your market share is
 extremely high. What are you seeing in the competitive landscape in the data
 center? And why -- can you help us understand why we haven't seen success from
-some of these new architectures?FINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 10A - Colette M. Kress
+some of these new architectures?A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kress
 Yes. So the overall growth that we've seen in the data center was fueled by a couple
@@ -236,9 +226,7 @@ Sure. So CUDA is our software development platform. 10 years ago, started workin
 on it. We're on version #9. That is now available across every single one of our overall
 GPUs. With CUDA and all of our overall developers that we have out there, we have
 close to 850,000 developers focused on NVIDIA overall platforms. That's multiple
-years of us both teaching the overall capabilities of CUDA, how to leverage anFINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 10Q - Unidentified Participant
+years of us both teaching the overall capabilities of CUDA, how to leverage anQ - Unidentified Participant
 A - Colette M. Kressoverall GPU as well as them coming to us in terms of sharing some of their use cases
 so that we can continue to build and support them in that area. CUDA doesn't stop
 just there. There's a tremendous amount of specific libraries that are customized for
@@ -283,9 +271,7 @@ focusing on CUDA, focusing on the frameworks, are hearing from the AI frameworks
 all the time that says, can you build, can you help us in terms of incorporate this
 within CUDA. It is surely a factor, no matter what the framework is, that they know
 that CUDA is behind it. And we have a role in completing that full stack. And we'll
-always be there.FINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 10Q - Unidentified Participant
+always be there.Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. KressOkay, that's helpful. So we're 25 minutes into the conversation. I'm speaking with the
@@ -329,9 +315,7 @@ appreciate these overall products. Additionally, when you think about our market
 terms of data center, we have many different types of price points for the different
 types of workloads that you want. We have those that are specific for inference. We
 have those that are specific in terms of training. And as you know, we have different
-price points in terms of our DGX, which are full end-to-end systems. So we have bothFINAL TRANSCRIPT 2018-06-12
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 10Q - Unidentified Participant
+price points in terms of our DGX, which are full end-to-end systems. So we have bothQ - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kressa combination for almost each and every one of our businesses of a growth in terms

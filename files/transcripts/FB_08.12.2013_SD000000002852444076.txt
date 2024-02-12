@@ -22,9 +22,7 @@ the next few years.
 I will begin by reviewing Facebook infrastructure; talk about eﬃciency so far as
 Facebook, what areas we have been pursuing; talk about something -- an idea that
 we are working on right now, which is disaggregated rack. And I will go through that
-in detail; and then talk about some new components that we think could beFINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 2 of 13designed and brought to market over the next couple of years that could be highly
+in detail; and then talk about some new components that we think could bedesigned and brought to market over the next couple of years that could be highly
 impactful in both the data center space and just IT broadly.
 In terms of scale, we have 1.15 billion users. 84% of our monthly active users are
 outside the United States. And we have data centers in five regions.
@@ -58,9 +56,7 @@ clusters.
 In terms of ads, these are racks and racks of servers -- and when I talk about racks, I
 am talking about what we think of as our unit of capacity, which is a server rack. It is
 about 8 foot tall, it is about 20 inches wide, 26 inches deep. And it contains
-anywhere from 20 to 40 servers.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 3 of 13Now multifeed is something I will get into quite a bit. But this is essentially newsfeed
+anywhere from 20 to 40 servers.Now multifeed is something I will get into quite a bit. But this is essentially newsfeed
 on Facebook. So if you think of the Facebook page and you think of that center
 column of recent activity, we have a service that is dedicated to just serving that
 piece up. And I will talk about that software in a little bit.
@@ -96,9 +92,7 @@ activity of every user on Facebook for the last couple of days.
 So what this is, is this aggregator will receive the request and then ask all of the other
 servers in the same rack, it will ask all of the leaves -- do you have any data for user,
 for this set of users and this set of users and this set of users? Then that subset will
-be sent to the aggregator, the data will be reduced and then sent off to the Web.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 4 of 13So when we say that a rack is our unit of capacity, no one of these servers could
+be sent to the aggregator, the data will be reduced and then sent off to the Web.So when we say that a rack is our unit of capacity, no one of these servers could
 answer the question properly alone and they all do have to work together. This is
 really just out of scale. We needed to put terabytes of RAM online and make it
 accessible in order to just serve this up. And so we needed to adopt something that
@@ -132,9 +126,7 @@ lot of compute and a lot of storage.
 Photos are all about the most gigs for the least number of dollars. So it is all about
 storing lots and lots of photos, lots and lots of data, petabytes of data.
 Then feed is that one which is -- type VI is feed server. This rack is very popular. It is
-that leaf aggregator I talked about. And a lot of services consume it.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 5 of 13So the major advantages to having a constrained number of servers -- and this is
+that leaf aggregator I talked about. And a lot of services consume it.So the major advantages to having a constrained number of servers -- and this is
 standardization -- it is that we get volume pricing, right? If we are negotiating for only
 five different types we can really focus on the negotiation. And we can really work to
 make sure that we are getting the best deal for Facebook.
@@ -168,9 +160,7 @@ where our focus on eﬃciency has been for the last few years. And then get into
 couple of ideas that we think are going to be meaningful for the future.
 In terms of data centers, with data centers, traditional data centers, they are like
 power-dense Walmarts, right? They are just -- it is a ton of power; and you have got
-air conditioners. And they tend to be really cold because servers consume a lot ofFINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 6 of 13power. And then you put them way too much air conditioning capacity. Essentially
+air conditioners. And they tend to be really cold because servers consume a lot ofpower. And then you put them way too much air conditioning capacity. Essentially
 data centers are really energetically ineﬃcient.
 The way that you measure that in the industry is PUE. PUE is the total power
 consumed by a data center at the street, divided by the amount of power consumed
@@ -207,9 +197,7 @@ Getting on to the next opportunities, really we are talking about disaggregated 
 When we talk about disaggregated rack, we are talking about being able to extend
 the useful life of the components that a server is made of. So extending the useful
 life of compute, RAM, drives, ﬂash, all of those sorts of things. And I will get into
-those details.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 7 of 13Then also, we think that essentially the components that we work with today are the
+those details.Then also, we think that essentially the components that we work with today are the
 result of really 20 years of the industry focus on providing solutions for desktop
 computers. If you actually look at large scale, if you look at large infrastructure scale,
 you would probably come up with very different types of components. And I will
@@ -243,9 +231,7 @@ bringing on compute. We think we can build a small server that you can slam into
 the back of a Knox sled and just basically put those four -- those 15 drives directly
 onto the network.
 Flash. Flash is really -- it is a sled, it is an appliance. It is really just about putting a lot
-of ﬂash on a very high network interconnect.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 8 of 13So what we can do with these building blocks is we really have three wins for
+of ﬂash on a very high network interconnect.So what we can do with these building blocks is we really have three wins for
 disaggregated rack. The first is the server/service fit across services. So we can make
 a rack that uses only maybe four commodities, four basic sleds. But fits a lot of
 services much better. The service/server fit over time; I will talk about that a little bit.
@@ -282,9 +268,7 @@ fit-over-time wins happen.
 So again, we have maintained volume pricing and serviceability. We can essentially
 provide custom configurations for each of these services. So if you've got a data
 center full of these kinds of servers, everybody can get a slightly different mix of
-racks.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 9 of 13The hardware can evolve with the service over time. That also allows you to extend
+racks.The hardware can evolve with the service over time. That also allows you to extend
 the lifetime, which is very helpful.
 You get the smarter technology refreshes, which is again better useful life, better
 depreciation.
@@ -318,9 +302,7 @@ And NIC, which have always asked for more but we have never asked for anything
 different. And what I am going to talk about is ways to pose an engineering problem
 for each one of these, where the fundamental components that these manufacturers
 can bring to market could be very different and scale much better for the data center
-and for the infrastructure of scale markets.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 10 of 13Today, server CPUs are you really just compute-dense version of desktop servers.
+and for the infrastructure of scale markets.Today, server CPUs are you really just compute-dense version of desktop servers.
 What we see is really mobile phones are driving the development of lower-power
 processors.
 And one of the neat tricks that they are applying is system-on-a-chip which is, you
@@ -355,9 +337,7 @@ They are fantastic, the technology is great, everything works. But it is also de
 for -- in somewhat desktops, it is also designed for workloads, where you have to do
 a lot of updates.
 What we see at Facebook and what we think we're going to see more and more of in
-the industry is of course there is Big Data and of course there is massive, massiveFINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 11 of 13amounts of media and photo storage. And that is not going to go away. Projections
+the industry is of course there is Big Data and of course there is massive, massiveamounts of media and photo storage. And that is not going to go away. Projections
 put us at going from about 3 zetabytes of data, which is 1 billion terabytes -- that is 1
 billion hard drives from a few years ago; it is amazing -- out to about 40 zetabytes of
 data in 2020.
@@ -391,9 +371,7 @@ endurance and performance.
 And I think that the idea of WORM ﬂash -- we can remember back to WORM drives a
 long time ago. Essentially Write Only Memory, things that -- where you write it once,
 you can't change it again. We think that this is actually a really interesting opportunity
-for ﬂash.FINAL TRANSCRIPT 2013-08-12
-Meta Platforms Inc (FB US Equity)
-Page 12 of 13We think that perhaps ﬂash, perhaps other solid-state medias. But essentially that is a
+for ﬂash.We think that perhaps ﬂash, perhaps other solid-state medias. But essentially that is a
 very different engineering problem to present to a lot of these fantastic engineers at
 these major companies.
 Just one sanity check. If you think of a rack of ﬂash versus a rack of drives, a rack of

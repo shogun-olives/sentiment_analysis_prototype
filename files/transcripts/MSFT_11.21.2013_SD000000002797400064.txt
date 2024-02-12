@@ -19,9 +19,7 @@ Thanks for having me.
 
 I guess maybe walk through in your newly defined role what you're doing, the
 strategy. And how we should think about the devices strategy as a whole coming
-together in the next couple years.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 2 of 17Julie Larson-Green
+together in the next couple years.Julie Larson-Green
 Brent Thill
 Julie Larson-Green
 Brent Thill
@@ -58,9 +56,7 @@ With the mouse in 1983 and now where we are putting a big push into being there
 with the devices that are going to help people in their lives. And it's very exciting.
 And it's really fun for me because I'm focused on the design of the end product,
 which has always kind of been my thing that I like to think about; the delivery of the
-device, what it looks like when you open it up and what it's like when you take it outFINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 3 of 17Brent Thill
+device, what it looks like when you open it up and what it's like when you take it outBrent Thill
 Julie Larson-Green
 Brent Thill
 Julie Larson-Greenof the box, what your first experience is and what your experiences over time. And
@@ -99,9 +95,7 @@ individual business groups with the best of intentions but their own P&L concern
 we've will be able to focus the resources of the Company in a new direction. I think it
 will help us move faster. Of course the acquisition of Nokia helps, as well, to give us
 the engineering muscle and the muscle in inventory management and
-manufacturing to scale quickly.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 4 of 17Brent Thill
+manufacturing to scale quickly.Brent Thill
 Julie Larson-Green
 Brent Thill
 Julie Larson-Green
@@ -138,9 +132,7 @@ I won't be there at midnight tonight. But the last major console was eight years
 How do you think about what's different with One?
 
 Sure. There's a number of different -- I mean the world is a lot different than eight
-years ago. We are moving entertainment beyond just gaming into encompassingFINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 5 of 17Brent Thill
+years ago. We are moving entertainment beyond just gaming into encompassingBrent Thill
 Julie Larson-Greenmore of what you do in your home.
 And so with Xbox One we start a new generation of entertainment console that is
 more than just hard-core gamers. So you will be able to interact in a natural way with
@@ -176,9 +168,7 @@ being used, tell you whether you are using your muscles eﬃciently or not. And 
 you your pulse just from seeing your face.
 So there's all kinds of very cool innovation in there that will really change the way
 you think about it. It's not just sitting on the couch with a controller and playing a
-game; it's so much more than that.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 6 of 17Brent Thill
+game; it's so much more than that.Brent Thill
 Julie Larson-Green
 Brent Thill
 Julie Larson-Green
@@ -215,9 +205,7 @@ Phone I can see when my son is playing or not. And if he supposed to be doing
 homework, I can send him a message from my phone to the Xbox -- because he
 won't answer his phone when is playing -- but he sees a message come up. Mom:
 get off the Xbox. Do your homework.
-FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 7 of 17Julie Larson-Green
+Julie Larson-Green
 Brent Thill
 Julie Larson-Green
 Brent Thill
@@ -252,9 +240,7 @@ you hope to pass for the next year?
 
 Sure. So Surface has been a fun project. Really, when we created it we created it to
 be a stage for Windows 8, to be the representation of the experience that we were
-trying to create. The combination of powerful productivity where you plug in theFINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 8 of 17Brent Thill
+trying to create. The combination of powerful productivity where you plug in theBrent Thill
 Julie Larson-Greenkeyboard. But also the simplicity of a tablet when you don't. And touch interactive
 interaction is a first-class way of interacting with the device.
 We've learned a lot both in the operating system and the changes we made in 8.1 to
@@ -290,9 +276,7 @@ available to OEMs to be able to go in and do things with.
 We thought we would learn a lot about the challenges that they go through, the cost
 structure that they have to build into and deploy devices, that we could automate
 and do things in our system to make that easier for them going forward. And we also
--- when you're developing operating systems like Windows 8, there was no hardwareFINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 9 of 17Brent Thill
+-- when you're developing operating systems like Windows 8, there was no hardwareBrent Thill
 Julie Larson-Greenout there that did the things that we wanted it to do. There was no -- actually, when
 we started planning, there wasn't even the iPad.
 We had the idea of a tablet of a certain size and with edges -- 10-finger touch and
@@ -331,9 +315,7 @@ Even things like I've had questions about the music experience. So Nokia has a n
 music experience, we have a music experience. It turns out we are not in all the same
 countries. That really helps us bring a more worldwide focus to the things that we are
 doing with the distribution channels they have and just the way that they think about
-delivering their products.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 10 of 17Brent Thill
+delivering their products.Brent Thill
 Julie Larson-Green
 Brent Thill
 Julie Larson-Green
@@ -370,9 +352,7 @@ bear.
 I think we've been working on becoming more modern in our thinking, both in the
 cloud infrastructure and how you access that to build applications and run your
 business. And in the operating system itself in thinking about how Windows can
-scale from a small device to large device, up to a server. And the power that givesFINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 11 of 17Brent Thill
+scale from a small device to large device, up to a server. And the power that givesBrent Thill
 Julie Larson-Green
 Brent Thilldevelopers and IT professionals to manage those devices and to give information
 out to people in their business no matter where they are.
@@ -410,9 +390,7 @@ them integrated in.
 The pressure that you kind of face in mobile, there's a lot of questions on can they
 ever get back in? You guys came into the entertainment market with basically
 nothing and got to number one. So you have passed milestones that you can point
-to where you really came around and did a great job.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 12 of 17Julie Larson-Green
+to where you really came around and did a great job.Julie Larson-Green
 Brent Thill
 Julie Larson-Green
 Brent Thill
@@ -449,9 +427,7 @@ Maybe when you think about the power of kind of a one single sign on across all,
 one common platform, it would seem to make it easier for everyone's consumer life.
 It would also make it easier for the developers to have one common platform. Is that
 the idea that we are going to see?
-FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 13 of 17Brent Thill
+Brent Thill
 Julie Larson-Green
 Brent Thill
 Julie Larson-Green
@@ -485,9 +461,7 @@ Now, in device, the world -- fast-forward and Apple has this huge, entrenched
 ecosystem. When you are competing, particularly in device, how are you going to
 change the culture from -- you were the beneficiary and you were the river that was
 going. And you had the cash ﬂow and everything like that, to being the outsider
-looking in? How are you going to overcome that diﬃculty?FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 14 of 17A - Julie Larson-Green
+looking in? How are you going to overcome that diﬃculty?A - Julie Larson-Green
 Q - Unidentified Participant
 A - Julie Larson-Green
 I would say through hardware innovation. My first job was writing an import filter for
@@ -522,9 +496,7 @@ What about all the apps and the iOS ecosystem? How do you overcome that?
 You enable a new kind of app. They were very successful in creating a curated set of
 applications that took what most people were trying to do on the web and made it
 valuable to do it on the device. And created a model for them to get paid and get all
-those things.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 15 of 17Q - Unidentified Participant
+those things.Q - Unidentified Participant
 A - Julie Larson-GreenThere will be another one of those coming, is my belief. You already start to see
 some of it. I think connecting apps to each other, because so many things are
 special-purpose, you will start to see new ways for apps to integrate across.
@@ -559,9 +531,7 @@ over time, it doesn't get viruses.
 It's not as ﬂexible. You can't do as much with it. But it's just more seamless
 experience, even though more simplified.
 Windows can do anything you want it to do. You can write all the way to the metal.
-You can add things into your startup group that will affect your battery life long-term.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 16 of 17Q - Unidentified Participant
+You can add things into your startup group that will affect your battery life long-term.Q - Unidentified Participant
 A - Julie Larson-GreenThere are cool powerful scenarios. But they come with a cost in mobility. So
 Windows on ARM, or Windows RT, was our first go at creating that more closed
 turnkey experience. So where it doesn't have all the ﬂexibility of Windows. But it has
@@ -594,9 +564,7 @@ collaborate to One Microsoft. Can you tell me how your thoughts on that would be
 
 Sure. So we were all part of coming up with the strategy. We've been talking for a
 long time -- when I ran the Windows organization, my job was to really get other
-groups inside of Microsoft to bet on the platform.FINAL TRANSCRIPT 2013-11-21
-Microsoft Corp (MSFT US Equity)
-Page 17 of 17Q - Brent Thill
+groups inside of Microsoft to bet on the platform.Q - Brent Thill
 A - Julie Larson-GreenWe had Bing build apps for us. We had Xbox team build music and video. That
 became the default music and video experience for Windows. We had Oﬃce
 building One Note on our new experience.

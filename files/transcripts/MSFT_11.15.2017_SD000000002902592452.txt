@@ -19,9 +19,7 @@ should refer to their SEC filings to the risk factors relating to their business
 true whether you're here in person or listening on the Web. And those of you that
 are on the Web, thank you as well for joining us.
 So with that, I'll welcome Takeshi up. And thanks so much for coming.
-Questions And AnswersFINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 2 of 17Q - Adam Hathaway Holt
+Questions And AnswersQ - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
@@ -66,9 +64,7 @@ cause me to go back and forth a lot.
 
 Right. We were just -- just thinking about sort of how the partner ecosystem evolved
 before I get specifically in the Azure questions. But it's a very different partner model.
-I mean I remember back in the day when you should think about your 600,000FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 3 of 17A - Takeshi Numoto
+I mean I remember back in the day when you should think about your 600,000A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numotoreseller channels, one of Microsoft's core strengths. But now with the Azure story and
 the cloud story, what partners are doing are very -- it's a very different story. And Red
@@ -114,9 +110,7 @@ Yes. Like of the 3 patterns I mentioned, all 3 are growing. When you think about
 overall customer's journey to the cloud, like the overall journey of the market, I think
 we're still in early innings. And so all of the 3 types of use cases are all growing in its
 own right. And we want to continue to address that. And we're also seeing even in
-sort of the -- what you would refer to as sort of a migration kind of workload, biggerFINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 4 of 17Q - Adam Hathaway Holt
+sort of the -- what you would refer to as sort of a migration kind of workload, biggerQ - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
@@ -157,9 +151,7 @@ conversation in the dialogue.
 
 So in your view then, I mean, if you have SAP, large SAP workloads on Azure, there
 really is no limitation on what you can migrate from on-premise into the Azure
-environment?FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 5 of 17A - Takeshi Numoto
+environment?A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
@@ -202,9 +194,7 @@ you're on pace to outgrow AWS in a similar scale. Some of the biggest difference
 appear to be, one, your positioning around hybrid; and two, your positioning around
 premium services just as we were discussing the ability to move an SAP or an Oracle
 workload ongoing workload into the cloud. Are those principal factors in your view
-that are driving that higher growth?FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 6 of 17A - Takeshi Numoto
+that are driving that higher growth?A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
@@ -248,9 +238,7 @@ technologies. So I'm not talking about somebody that might be using Oﬃce or
 Windows on the desktop side, I'm talking about somebody that is using Microsoft
 Server or Microsoft SQL or Microsoft BizTalk, something in the traditional data center
 stack that is now leveraging Azure services. Is that most of the customers?
-FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 7 of 17Q - Adam Hathaway Holt
+Q - Adam Hathaway Holt
 A - Takeshi NumotoWell if you think about enterprise. So again, I think it will be hard-pressed to find
 enterprise customers that don't have any Windows Server. They have -- they may use
 -- as the mix of their estate, it might be high or low. But there are lots of customers
@@ -297,9 +285,7 @@ And that does lead to -- from people in this room and maybe on the call standpoi
 you might sort of characterize that as a patent expansion in the sense that we're now
 then saying, "Hi. if you had been a Linux customer or an OSS database or a
 MongoDB customer, or a Cassandra customer, we wouldn't have had anything to sell
-you on-prem. Now we support MongoDB or Cassandra APIs on Cosmos DB or allFINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 8 of 17Q - Adam Hathaway Holt
+you on-prem. Now we support MongoDB or Cassandra APIs on Cosmos DB or allQ - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
@@ -342,9 +328,7 @@ But -- so I think that's a terrific strategy. But how does the economics change?
 you have somebody that's running Linux in a virtual environment, what does that
 mean in terms of your revenue opportunity set versus somebody that might be
 running Windows in a Hyper-V environment and running a Windows stack instead of
-a Linux stack? How does that change?FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 9 of 17A - Takeshi Numoto
+a Linux stack? How does that change?A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
@@ -385,9 +369,7 @@ doesn't really matter what language you build in. And that's just a totally diff
 so the whole argument that, hey, new applications are being built on C# is garbage.
 
 We're seeing basically a growing community on .NET.
-FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 10 of 17A - Takeshi Numoto
+A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
@@ -430,9 +412,7 @@ question if you look on every conference call and he tends to talk about AI, he 
 to talk about Cosmos. But I guess, there are 2 questions. How should we think about
 this scale of the premium services relative to the whole? Is that 5% of the business? Is
 it 10% of the business? And secondarily...
-FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 11 of 17Q - Adam Hathaway Holt
+Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
@@ -475,9 +455,7 @@ across PaaS, across IaaS, I think, is what customers want. And I think that puts
 really nice place.
 
 On the management security side, you mentioned Enterprise Mobility, do you think
-you have everything you need on that identity front?FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 12 of 17A - Takeshi Numoto
+you have everything you need on that identity front?A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
@@ -523,9 +501,7 @@ premise business. Does that help?
 It does. It certainly does. And just on that premium story, you all have been -- we had
 a chart in our initiation that looked at sort of the value you get from server has
 steadily increased. What is enabling you -- I mean, what are some of the things that
-people seem willing to pay more for? There's this debate about what should beFINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 13 of 17A - Takeshi Numoto
+people seem willing to pay more for? There's this debate about what should beA - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
@@ -569,9 +545,7 @@ seem to get a lot of airtime, particularly from (Ray), on my team, who absolutel
 it. But the -- should we be thinking about the ramp of that kind of a product being a
 fiscal '19 story? Really, it's going to take a couple of quarters to get into the channel?
 Are we getting to selling motion? Or is there something different about this release
-that could be faster with respect to the impact?FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 14 of 17A - Takeshi Numoto
+that could be faster with respect to the impact?A - Takeshi Numoto
 Q - Adam Hathaway Holt
 Q - Unidentified Participant
 A - Takeshi Numoto
@@ -615,9 +589,7 @@ are showing up in places like cognitive services we offer in Azure. And we also
 support things like TensorFlow in Azure. And it runs really well. And so that's an area
 that we continue to compete furiously in. But also seeing some really interesting use
 cases in Azure that makes us pretty bullish.
-FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 15 of 17Q - Unidentified Participant
+Q - Unidentified Participant
 A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
@@ -660,9 +632,7 @@ aided by customers' appetite that essentially have business applications served 
 the cloud.
 
 Is most of the on-premise Dynamics business at this point just upgrading older
-versions? Or is there any real new business that's being done on-premise?FINAL TRANSCRIPT 2017-11-15
-Microsoft Corp (MSFT US Equity)
-Page 16 of 17A - Takeshi Numoto
+versions? Or is there any real new business that's being done on-premise?A - Takeshi Numoto
 Q - Adam Hathaway Holt
 A - Takeshi Numoto
 Q - Adam Hathaway Holt

@@ -18,9 +18,7 @@ businesses have become really important for the Microsoft story in the last few 
 Let's start with Azure, first of all.
 So when you were starting off that full program, what do you think were the key kind
 of early decisions that Microsoft made around that strategy that have proven to be
-important to the success of that business?FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 2 of 10A - Vikas Mehta
+important to the success of that business?A - Vikas Mehta
 A - Ross MacMillan
 A - Vikas Mehta
 Yes. So I think that (inaudible) Azure and Oﬃce 365 and all of the cloud businesses
@@ -63,9 +61,7 @@ that has no boundaries or no limits. And what that means is that we said we're g
 to address all the different customer segments, whether they are enterprise, whether
 it is charge up, whether it is lees to enable them to build application across any
 operating system, across any data set, across any language or framework. And
-enable it to be used for any device operating system, essentially. And such a broad-FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 3 of 10A - Ross MacMillan
+enable it to be used for any device operating system, essentially. And such a broad-A - Ross MacMillan
 A - Vikas Mehtabased new vision then Steve was the president of the group. And I think it took three
 major steps in that direction.
 The first one was to make it easy for enterprises to onboard to the cloud, that was
@@ -104,9 +100,7 @@ The same holds true for Azure, where we were reinventing the infrastructure for 
 own modern application needs. And as it turns out to be everyone else also needs
 that. So when you think about our first-party applications we have more than 200
 web services at Microsoft. They are diverse and have a very honest skill which makes
-us see this robust platform.FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 4 of 10A - Ross MacMillan
+us see this robust platform.A - Ross MacMillan
 A - Vikas Mehta
 A - Ross MacMillan
 A - Vikas MehtaLet me give you a few examples. If you think about Xbox and Skype, they have
@@ -148,9 +142,7 @@ you now report your commercial license is growing still. And your commercial clo
 businesses are growing obviously very rapidly. But important piece is that
 commercial license business is still growing. Is that sustainable? I mean, I guess that's
 the question I get a lot, is at what point do we actually cannibalize? What's your --?
-FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 5 of 10A - Ross MacMillan
+A - Ross MacMillan
 A - Vikas MehtaNo. I think that's a good question. I'd say that what kept me in the historical tectonic
 shift that happened whether it was as I said, client-server PC revolution or
 virtualization, then there was a lot of consolidation that happened or that was a lot of
@@ -189,9 +181,7 @@ about it. We think about it in three key pillars, the first one is core infrastr
 capability, which essentially drives adoption on the platform.
 The second is with regard to hybrid. And giving enterprises a way to have on-ramp
 to the cloud. And the third is with higher-level services where you essentially
-differentiate.FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 6 of 10A - Ross MacMillan
+differentiate.A - Ross MacMillan
 Q - Unidentified Participant
 A - Ross MacMillan
 A - Vikas MehtaSo then you think about the core infrastructure capabilities. By providing core
@@ -230,9 +220,7 @@ growth in the cloud businesses, given the, it's growth.
 
 Yes, I think that's a great question, it goes back to the first question in terms of the
 challenges that we face as we shifted the business model. It's a very capital-intensive
-business. We have been spending billions of dollars to raise this, build data centers.FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 7 of 10A - Ross MacMillan
+business. We have been spending billions of dollars to raise this, build data centers.A - Ross MacMillan
 Q - Unidentified Participant
 A - Vikas Mehta
 A - Ross MacMillan
@@ -269,9 +257,7 @@ Yes?
 (inaudible)
 
 The question is, more recently you've seen IT spend (inaudible) so how well
-positioned is Microsoft to capture more of the aggregate budget?FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 8 of 10A - Vikas Mehta
+positioned is Microsoft to capture more of the aggregate budget?A - Vikas Mehta
 A - Ross MacMillan
 Q - Unidentified Participant
 A - Ross MacMillan
@@ -309,9 +295,7 @@ betting on your long-term. So that's what we have seen across the board.
 Now, going back to your question, specifically about Windows, it is a big business
 for us, as we last said. It's a $4 billion business for us. And as you rightly pointed it's
 been growing at double digits. I'd say that it is -- again, the investment in the long-
-term and the roadmap, that if we can come up with quick iterations and keep raisingFINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 9 of 10A - Ross MacMillan
+term and the roadmap, that if we can come up with quick iterations and keep raisingA - Ross MacMillan
 Q - Unidentified Participant
 A - Vikas Mehta
 A - Ross MacMillan
@@ -348,6 +332,4 @@ We've run out of time. So thank you so much, Vikas. Great. Great time.
 
 Thanks a lot, Ross.
 
-Thanks.FINAL TRANSCRIPT 2014-11-11
-Microsoft Corp (MSFT US Equity)
-Page 10 of 10
+Thanks.

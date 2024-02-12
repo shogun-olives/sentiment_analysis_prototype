@@ -20,9 +20,7 @@ gaming. And the gaming market is actually very healthy. PC gaming is doing very
 well. We estimate the market's growing around 10% a year. And so, we're growing
 within that. I think we've gained a little bit share year on year.
 In contrast, the OEM market, which is tied to mainstream consumer and notebook,
-largely, is a weak market. And, obviously, that's in decline. But the strength of theFINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 15Hans Mosesmann
+largely, is a weak market. And, obviously, that's in decline. But the strength of theHans Mosesmann
 Chris Evenden
 Hans Mosesmann
 Chris Evenden
@@ -58,9 +56,7 @@ special effects, whatever, what-have-you.
 
 Okay. So staying on the GPU side of things, you've recently disclosed over the past
 year that you're thinking of licensing some of this technology. How does that work?
-What's the timing? Who would the customers be. And so on?FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 15Chris Evenden
+What's the timing? Who would the customers be. And so on?Chris Evenden
 Hans Mosesmann
 Chris Evenden
 Hans Mosesmann
@@ -96,9 +92,7 @@ Why not, says Hans. Last time I ever do a fireside chat.
 But you're coming back (inaudible).
 
 Yes. Always.
-FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 15Chris Evenden
+Chris Evenden
 Hans Mosesmann
 Chris Evenden
 Hans MosesmannOkay.
@@ -134,9 +128,7 @@ to report that. And as we get closer to the March 2017, then, yes, we'll be able
 more about Intel and where that goes.
 
 All right. So before you go to Tegra, the exciting stuff, any questions from the
-audience?FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 15Q - Unidentified Participant
+audience?Q - Unidentified Participant
 Q - Hans Mosesmann
 Q - Unidentified Participant
 Q - Hans Mosesmann
@@ -171,9 +163,7 @@ much change at all in revenue. And, of course, even less change in profit share.
 And in fact, there was one quarter last year where our unit share went down,
 according to the Mercury numbers. But our dollar share clearly went up as we
 continued to perform very well at the high end.
-FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 15A - Chris Evenden
+A - Chris Evenden
 Q - Hans Mosesmann
 A - Chris EvendenAny questions? All right. So let's go to Tegra. So Tegra is -- your average tech analyst
 will have mixed emotions about Tegra in terms of Tegra 1, Tegra 2, Tegra 3, some
@@ -211,9 +201,7 @@ War, for example, was written on a previous version of Unreal Engine.
 So the demos we actually used at CES to show off Tegra, Tegra K1, one of them ran--
 one of them was written for PS4. And one of them was written for PC. But we just
 ported them straight across because they were both written for the Unreal Engine on
-both of those platforms.FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 15Q - Hans Mosesmann
+both of those platforms.Q - Hans Mosesmann
 A - Chris Evenden
 Q - Hans Mosesmann
 A - Chris Evenden
@@ -253,9 +241,7 @@ What's the differentiation? What's the strategy?
 The differentiation has to come back to the visual experience. So gaming or visual
 computing in general. You're right in that there's a lot of talk about LTE modems. But
 I think that's really an artifact of the fact that there's only one player in modems at the
-moment.FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 15Q - Hans Mosesmann
+moment.Q - Hans Mosesmann
 A - Chris EvendenAnd so, two years hence, there'll be a bunch of people with perfectly competent LTE
 modems. We'll be one of them, obviously. And at that point, you won't think twice
 about the modem. We won't be having lots of conversations about the mode,
@@ -293,9 +279,7 @@ And so, these are the three different businesses. So if we want to talk about wh
 they're -- let's just talk about GRID. So GRID -- the main focus right now -- there's a
 number of ways you can monetize that technology. Once you've managed to
 virtualize a GPU and put it on the network, there's a number of ways to make money
-out of that.FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 15Q - Hans Mosesmann
+out of that.Q - Hans Mosesmann
 A - Chris Evenden
 Q - Hans Mosesmann
 A - Chris Evenden
@@ -332,9 +316,7 @@ revenue. So we're somewhere away from that.
 All right, (Ted), here he comes.
 (inaudible) keeps talking about financial software like an addition to the model
 (inaudible).
-FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 15A - Chris Evenden
+A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evenden
 Q - Unidentified Participant
@@ -370,9 +352,7 @@ actually get a discount to the volume-weighted average price over that time.
 And you get 60% of the shares up front. So in theory, everyone wins. We win
 because we get to take the risk out of the equation. Investors win because a lot of
 the shares are taken off the table up front. And whoever executes the ASR assumes
-they can generate profit through the trades.FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 15Q - Hans Mosesmann
+they can generate profit through the trades.Q - Hans Mosesmann
 A - Chris Evenden
 Q - Unidentified Participant
 A - Chris Evenden
@@ -407,9 +387,7 @@ Samsung business is through Tegra. So that will be some percentage of their
 devices, not all of their devices. Now, with the licensing technology, we can compete
 with all of their devices.
 So like I said, that example is for illustration purposes only. But it gives you an idea of
-how we think of the whole market -- the market as a whole.FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 15Q - Hans Mosesmann
+how we think of the whole market -- the market as a whole.Q - Hans Mosesmann
 A - Chris Evenden
 Q - Hans Mosesmann
 A - Chris Evenden
@@ -446,9 +424,7 @@ for compute. And it was frustrating as an IR guy, because there was clearly so m
 excitement around Tesla. And you'd see so many really interesting applications for it.
 But it stuck at sort of $25 million a quarter for a couple years, actually.
 And it's recently burst out of that limit. And I think there's a couple -- there's two
-reasons for that. I think one is that there are enough codes supported now. So theseFINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 15Q - Hans Mosesmann
+reasons for that. I think one is that there are enough codes supported now. So theseQ - Hans Mosesmann
 Q - Unidentified Participant
 A - Chris Evenden
 Q - Unidentified Participant
@@ -483,9 +459,7 @@ So Amazon uses Tesla at AWS. It's a fairly focused application right now. But th
 are other companies, like I say, other consumer Internet companies that are making
 some pretty interesting use of Tesla, on both a smaller and a larger scale.
 So there are a bunch of examples. I was just about to steal some of them from the
-Analyst Day. But I won't. There's a bunch there.FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 15Q - Hans Mosesmann
+Analyst Day. But I won't. There's a bunch there.Q - Hans Mosesmann
 A - Chris Evenden
 Q - Hans Mosesmann
 Okay, we have about a minute. How is it that a graphics company gets into a very
@@ -524,8 +498,6 @@ And so it just steers for you, as well.
 And features like that Audi thinks are going to be in cars before the end of the
 decade. And that's really, again, where the power of a GPU, a real, quote, real GPU,
 can really help us.
-FINAL TRANSCRIPT 2014-03-03
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 15A - Chris EvendenChris, thank you very much. Thank you, everybody.
+A - Chris EvendenChris, thank you very much. Thank you, everybody.
 
 Thank you.

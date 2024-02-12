@@ -17,9 +17,7 @@ high-end data center GPUs. So you can spend 40 minutes on that. Hopefully you
 don't, but if you can kick us off with some opening remarks that will be helpful.
 
 Sure, let me just start off with, we had finished our Q2 results. We did pre-announce
-them and then provided an outlook for our Q3. Our Q3 outlook of $5.9 billion,FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14Q - Toshiya Hari
+them and then provided an outlook for our Q3. Our Q3 outlook of $5.9 billion,Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya Haricorrect, has in there. Can you -- can you hear? Can you hear me? All right, I'll try and
 speak louder. Is this better? Okay. Will try.
@@ -56,9 +54,7 @@ I definitely want to come back to that, but had a couple of questions on the gam
 side, if that's okay. Given what you guided for the October quarter, assuming you
 come in, in-line with your guidance for gaming, implicit guidance, anyways. You will
 have declined around 60% in revenue and gaming peak to trough, which is a
-sharper decline that we saw back in 2019.FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14A - Colette Kress
+sharper decline that we saw back in 2019.A - Colette Kress
 Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya HariSo, the hope is, you've sort of de-risked your gaming business. But on your call, you
@@ -99,9 +95,7 @@ been the normal course of business for you over the past, I don't know how many
 years.
 As we think about this rumored intro of your new product line over the next, call it 12
 months, how should we think about, again, your ability to grow pricing? I guess the
-bear thesis that we hear is, your ASPs were or mix rather, was inﬂated due to cryptoFINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14A - Colette Kress
+bear thesis that we hear is, your ASPs were or mix rather, was inﬂated due to cryptoA - Colette Kress
 Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya Hariover the past two years. That was one time and perhaps next cycle you're in a
@@ -142,9 +136,7 @@ terms of how that will be in that cross-border.
 Got it. The other question I guess the last question on gaming that I often get is on
 crypto and the exposure there, not just for you, but as a broader industry and I
 realize you don't have much visibility in determining or engaging how big or how
-small that part of the business is. But if you had to provide your sort of best guess orFINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14A - Colette Kress
+small that part of the business is. But if you had to provide your sort of best guess orA - Colette Kress
 Q - Toshiya Hari
 A - Colette Kressbest estimate on how significant that market was in 2021, and and what that's doing
 to the channel today, what would be your response there?
@@ -185,9 +177,7 @@ Our full team is ahead in terms of helping them, now, but I think we understand
 exactly what the US government has asked us to do. We will follow all of those
 pieces and we do hope within this quarter, we can mitigate some of that risk. But at
 this time. It's just very unfair how much within the quarter we're going to be able to
-do.FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14Q - Toshiya Hari
+do.Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya Hari
 A - Colette Kress
@@ -230,9 +220,7 @@ chain with commodity types of chips. We refer to this as our work that we're doi
 help keep them and along with selling GPUs, they may be looking for very important
 pieces of our networking products or very important parts in terms of cabling, things
 that seem so simple for their data centers, but are holding up the ability for them to
-establish and roll out new data centers.FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14Q - Toshiya Hari
+establish and roll out new data centers.Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya Hari
 A - Colette KressYou'll see those because it's actually very diﬃcult to get a GPU in the cloud. They're
@@ -275,9 +263,7 @@ surprise, bringing to market. Customers took that opportunity to take it, qualif
 try and bring it up into market and then it was a race to see who could qualify faster
 and bring it to market.
 Things have changed. Things have moved to our bring up and are bringing a
-product is not just about our engineers, it's about our customers engineers. Do theyFINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14Q - Toshiya Hari
+product is not just about our engineers, it's about our customers engineers. Do theyQ - Toshiya Hari
 A - Colette Kress
 Q - Toshiya Harithink the products ready? That's how much work we are doing in terms of scaling for
 the next architecture. They are integral in terms of us bringing this product to market.
@@ -316,9 +302,7 @@ So, a different TAM. Yes, but also a great opportunity for us entering into new
 markets.
 
 Got it. And then I wanted to touch on the software franchise that you're building
-from a pretty low base, but you've been pretty loud about that opportunity, both inFINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14A - Colette Kress
+from a pretty low base, but you've been pretty loud about that opportunity, both inA - Colette Kress
 Q - Toshiya Hari
 Q - Yulia Hofstedeterms of data center as well as the automotive side. But focusing on data center,
 what kind of progress have you made over the past several quarters? And where do
@@ -359,9 +343,7 @@ Got it. I want to pause here and see if you. Okay. There's one in the front row.
 can get a mic please. In the very front.
 
 Hi. Thank you. Yulia Hofstede from Martin Currie. Could you please quantify the
-importance of Chinese hyperscalers in reference to even you previouslyFINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14A - Colette Kress
+importance of Chinese hyperscalers in reference to even you previouslyA - Colette Kress
 Q - Yulia Hofstede
 Q - Toshiya Hari
 Q - Yulia Hofstede
@@ -400,9 +382,7 @@ There has been export controls that we need to follow and it's a serious thing. 
 export controls is broad and wide and in fact, more than just the US or a single
 country. It is worldwide and we're very careful with it, careful to both understand
 what the plan for the intentions are but also very rigorous in terms of following
-through on it.FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14Q - Toshiya Hari
+through on it.Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya HariI think going through this last process as you had seen us published the 8-K and --
 second 8-K after clarification with the US government, helping them understand how
@@ -443,9 +423,7 @@ Right. And on gross margins and operating margins going forward. Despite the
 muted revenue outlook in the near term, the gross margins are extremely healthy.
 You had a big write-down in the July quarter. That was pretty one-time in nature. As
 you think about your profitability going forward, what are the puts and takes at the
-gross margin level? And I think you talked about slowing down your hiring andFINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14A - Colette Kress
+gross margin level? And I think you talked about slowing down your hiring andA - Colette Kress
 Q - Toshiya Hari
 A - Colette Kressmanaging OpEx a little bit more, a little bit more scrutiny there. So if you can kind of
 walk us through those dynamics, that would be helpful.
@@ -486,9 +464,7 @@ the Orin platform before we get to the AI and software, will still be below our
 company average. But once we have the software, these will be quite solid gross
 margins as we move forward.
 Our work there is broad. We have a pipeline that helps us with that visibility. What
-that means is, your automotive are working in terms of their manufacturing lines.FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14Q - Toshiya Hari
+that means is, your automotive are working in terms of their manufacturing lines.Q - Toshiya Hari
 A - Colette Kress
 Q - Toshiya Hari
 A - Colette Kress
@@ -528,7 +504,5 @@ over repurchasing as we speak.
 
 Awesome. On that note, I'd like to close the session. Thank you so much for coming.
 
-Thank You.FINAL TRANSCRIPT 2022-09-12
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14Q - Toshiya Hari
+Thank You.Q - Toshiya Hari
 Thank you, all.

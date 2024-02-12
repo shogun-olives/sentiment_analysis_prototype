@@ -21,9 +21,7 @@ engineering that we're doing to make our cloud work for our most sophisticated
 customers across the industry, the solutions that we're building for industry and that
 ranges from commercial industry through to government.
 Prior to working in the Azure team, I was involved in standing up the Oﬃce 365
-cloud service. And prior to that, I worked on a number of our server products. SoFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15Taylor McGinnis
+cloud service. And prior to that, I worked on a number of our server products. SoTaylor McGinnis
 Tom Keane
 Taylor McGinnisover the last 20 years, I've been busy at Microsoft doing a whole bunch of fun and
 exciting things.
@@ -64,9 +62,7 @@ are seeing greater demand and may drive more cloud usage, while others in travel
 or hospitality, may be looking to downsize. So first, what is the net of this? And how
 durable is existing consumption growth in this environment, given that these pricing
 models have never really been tested at this scale in a downturn. So how hard -- how
-easy or hard is it to scale workloads up and down?FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15Tom Keane
+easy or hard is it to scale workloads up and down?Tom Keane
 Taylor McGinnis
 Tom Keane
 Yeah. We've seen some very interesting behavior from customers, and I'll give you a
@@ -106,9 +102,7 @@ talk about that a little bit later on. But on this topic secondly, are you exper
 any impacts from customers looking to optimize their consumption resources in an
 effort to save money during this time? And just wondering if you can elaborate the
 impact that that's having on Azure growth?
-FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15Taylor McGinnis
+Taylor McGinnis
 Tom KeaneYeah. So of course, the advantage of cloud is that we allow customers to
 continuously optimize. And we want to help customers save money, use resources
 more eﬃciently and ensure that their infrastructure is set up in the right way. And we
@@ -150,9 +144,7 @@ investments. And this offers customers in different industries, prepackaged solu
 products and capabilities that meet their specific needs.
 Now, of course, we'll continue, and Satya and Amy Hood, our CFO, have been clear
 on how we help customers through migrations, ﬂexible contractual models. But the
-consumption trends that we have seen a proof point that the deals are non-linear.FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Taylor McGinnis
+consumption trends that we have seen a proof point that the deals are non-linear.Taylor McGinnis
 Tom Keane
 Taylor McGinnisAnd the consumption models gives them a lot of ﬂexibility. And so we are hyper-
 focused on building the partnership with our customers and helping them adopt
@@ -193,9 +185,7 @@ Intelligent Cloud guide for Microsoft September-end quarter implies less
 moderation in the Azure growth rate than we saw in the July-end quarter. So, how
 much of this is driven by consumption trends normalizing as customers adjust to the
 COVID landscape? And are migrations returning to pre-COVID levels at all or no,
-we're still not there yet?FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15Tom Keane
+we're still not there yet?Tom Keane
 Taylor McGinnis
 Tom Keane
 Look, we're hyper-focused on adoption every single day. And as I look at the
@@ -235,9 +225,7 @@ understand different industries. So, this gives customers confidence to move the
 data into the cloud, knowing that the cloud understands their respective industry
 and then allows them to go and build on cloud more industry-aware applications
 very easily and make use of new technology like predictive analytics or insights and
-visualization.FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Taylor McGinnis
+visualization.Taylor McGinnis
 Tom KeaneSo as we look at that, each customer is a little different, and each industry is a little
 different. But it's very clear that many industries are growing at an incredibly rapid
 pace. And that pace has only accelerated in 2020. Obviously, in retail, the use of
@@ -277,9 +265,7 @@ For example, Microsoft Teams, communication and collaboration experience is buil
 on top of Azure. And so the enormous growth that we saw on Teams was a result of
 being able to expand the Azure platform and drive eﬃciencies into it in real time.
 The physical elements of cloud don't move overnight. The software literally can. And
-what we saw during the initial months of COVID was Azure making significantFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Taylor McGinnis
+what we saw during the initial months of COVID was Azure making significantTaylor McGinnis
 Tom Keaneimprovements to allow Teams to scale to meet that first wave of demand that came
 from COVID.
 As we look inside the data center, we're constantly innovating and driving
@@ -318,9 +304,7 @@ countries.
 We've seen announcements that we've made publicly around building, for example,
 in places like Mexico. We're expanding further in Europe into locations such as Italy
 or expansions in the Asia Pacific region and even growth in Africa and other
-emerging markets.FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15Taylor McGinnis
+emerging markets.Taylor McGinnis
 Tom KeaneAnd so certainly, the cyber sovereignty has allowed us to both grow our existing
 footprint with some of the eﬃciencies that I described. And then also grow our cloud
 around the world for customers who deeply value that data residency and that cyber
@@ -363,9 +347,7 @@ When you look at our global infrastructure, we have hyper-scale hero cloud regio
 not just in North America, in Europe, in Amsterdam and Ireland, but increasingly now
 in more locations, be that, Singapore, Australia, the United Kingdom. And so we've
 been doing a lot of work, both pre-COVID and post-COVID to continue to grow that
-hyperscale footprint in large locations as well as then in emerging locations. And soFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15Taylor McGinnis
+hyperscale footprint in large locations as well as then in emerging locations. And soTaylor McGinnis
 Tom Keane
 Taylor McGinniswith that, we've been delivering capacity to all of those locations. And we've done a
 pretty good job supporting Teams and communication and collaboration, critical
@@ -407,9 +389,7 @@ continue to grow short, medium and long-term across the data center, the servers
 and the software.
 
 Got it. And maybe just to press a little bit further on this. So is there anything that you
-can -- is there any additional color you can provide in terms of these lead times? SoFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15Tom Keane
+can -- is there any additional color you can provide in terms of these lead times? SoTom Keane
 Taylor McGinnis
 Tom Keanewhen you see in your pipeline that you're going to have some increase in usage or
 you're going to see some greater demand, is it really easy to scale up this capacity?
@@ -451,9 +431,7 @@ cloud providers be happy?
 
 Yeah, so first, on the second part of your question, multi-cloud is not new. And as a
 company, we've done a lot of work and we're constantly in a multi-cloud
-environment. In fact, as we look at organizations that may be making use of differentFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15Taylor McGinnispart of technologies, the common thread through a lot of that technology is, in fact,
+environment. In fact, as we look at organizations that may be making use of differentTaylor McGinnispart of technologies, the common thread through a lot of that technology is, in fact,
 Microsoft's cloud. As we look at, for example, Azure Active Directory, that identity
 plane is often used by customers who may not be using Microsoft as their cloud
 provider for communication or collaboration or even IAS or PAS.
@@ -496,9 +474,7 @@ good about the way in which that differentiates us versus other cloud providers.
 Let's talk more about hybrid. So, the server products segment continues to show
 very strong growth. And part of that success is attributed to the Azure hybrid benefit
 program. So can you discuss the progress Microsoft is having, migrating its existing
-Windows server and SQL server installed base to Azure? Are these migrationsFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15Tom Keane
+Windows server and SQL server installed base to Azure? Are these migrationsTom Keane
 Taylor McGinnis
 Tom Keaneinﬂecting? Or are customers purchasing premium additions in preparation for a
 move?
@@ -540,9 +516,7 @@ and then they can move their most important workﬂows over to the cloud. And al
 the work we're doing, these deals, of course, don't happen overnight, but they begin
 and drive success. And that's where we are focused day and night is to go and help
 these customers feel comfortable. And as they feel comfortable, we see them
-making larger commitments to Microsoft. So we think all of those customers that youFINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15Taylor McGinnis
+making larger commitments to Microsoft. So we think all of those customers that youTaylor McGinnis
 Tom Keane
 Taylor McGinnismentioned will continue to scale. They're already running at very large scale on our
 platform. And in fact, every day, every week, we see large essential workloads
@@ -584,9 +558,7 @@ excited about all of them.
 
 Sounds all very exciting and interesting. But we're up against the time, so Tom, thank
 you so much for joining us today, and I appreciate the time you shared with us and
-the insights you provided.FINAL TRANSCRIPT 2020-09-15
-Microsoft Corp (MSFT US Equity)
-Page 15 of 15Tom Keane
+the insights you provided.Tom Keane
 Taylor McGinnis
 Awesome, thank you so much, Taylor.
 

@@ -18,9 +18,7 @@ Microsoft 365 line of products. And so that is a new offering that we introduced
 the market. I'm sure we'll talk a little bit about this morning. That includes Oﬃce,
 Windows, Enterprise, our Enterprise Mobility and Security suite and a whole bunch
 of products associated with that. I've been at Microsoft for, gosh, since 1992. I worked
-in a bunch of jobs, running engineering teams, running project management teams.FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 2 of 18Q - Kasthuri Gopalan Rangan
+in a bunch of jobs, running engineering teams, running project management teams.Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -61,9 +59,7 @@ person can have a tremendous impact.
 One client who is -- again, who will be unnamed, comes up with the best acronyms
 for stock symbols. And MSFT currently is Miraculous Satya Software Company.
 
-I've heard that.FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 3 of 18Q - Kasthuri Gopalan Rangan
+I've heard that.Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -105,9 +101,7 @@ there is incredibly important to us. Then running it in many ways like we've run
 LinkedIn as an independent organization. And that will be a key piece as well. So
 we're really enthusiastic about it. Obviously, it's early days. But we're very, very
 bullish about what it can do.
-FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 4 of 18A - Kirk Koenigsbauer
+A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
@@ -149,9 +143,7 @@ you hear...
 
 And can it be a continued growth business? Because there's a feeling that Oﬃce is
 going to be (topped) out and then it's all like GDP growth, whatnot.
-FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 5 of 18Q - Kasthuri Gopalan Rangan
+Q - Kasthuri Gopalan Rangan
 A - Kirk KoenigsbauerYes. I know. I've heard that for 15 years. It's one of those things where I think when
 people look at the company at the highest level, there are 2 substantive growth
 drivers. Of course, there's lots of important businesses. But the 2 biggies are really
@@ -195,9 +187,7 @@ many of these workloads have been workloads that have moved to cloud first. And
 that's in large part why Oﬃce 365, I think, has been so successful. We've been able
 to leverage the broad installed base that we have sort of in the legacy on-prem
 world and bring that base to the cloud with a workload that's very, very hot for
-businesses right now. And as you're suggesting, Oﬃce has done incredibly well theFINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 6 of 18Q - Kasthuri Gopalan Rangan
+businesses right now. And as you're suggesting, Oﬃce has done incredibly well theQ - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauerlast couple of years with Oﬃce 365 as the forefront, with the next big step being this
@@ -241,9 +231,7 @@ this notion of being always up to date is very, very important, again, both for 
 user value. But also just listening to the Cisco conversation a few moments ago, the
 ability to be able to deliver a secure platform particularly in this world where there's
 just such a vast array of different threats. The most secure environment is in the cloud
-these days. I mean, the number of security professionals that we have. We haveFINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 7 of 18Q - Kasthuri Gopalan Rangan
+these days. I mean, the number of security professionals that we have. We haveQ - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauerthousands of people working on security at scale and being able to deploy that in
@@ -287,9 +275,7 @@ When people want to work on documents with Oﬃce, SharePoint, OneDrive, the
 Oﬃce applications, making those work incredibly well together to do things like real-
 time collaboration to have sort of seamless workﬂow to make it easy for you and I to
 share documents together, to be able to track changes and see what's happening.
-That's a very important collaboration experience.FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 8 of 18Q - Kasthuri Gopalan Rangan
+That's a very important collaboration experience.Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -331,9 +317,7 @@ example, one scenario we just talked about at the Enterprise Connect conference 
 couple of months ago, I guess, now is setting up a three or four-way phone call. For
 most humans, that's actually tricky to do, like how do you -- which buttons do you
 press on your phone? Now you literally, with Teams, can speak into the Teams UI,
-whether it's on your phone or in the shell and you can say, hey, let's set up a callFINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 9 of 18Q - Kasthuri Gopalan Rangan
+whether it's on your phone or in the shell and you can say, hey, let's set up a callQ - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -374,9 +358,7 @@ Oh, yes, for sure. Well gosh, there's a lot in that question. Let me sort of unp
 little bit. So at the broadest level, it's obviously a big business, as you referenced. It's
 complex. There's a bunch of different workloads. But the business model is relatively
 simple. It's basically a P x Q business model. We want to get as many sockets as we
-possibly can. That for us...FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 10 of 18Q - Kasthuri Gopalan Rangan
+possibly can. That for us...Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 I'm glad you said that because I thought I was missing something. P x Q, that totally
 resonates.
@@ -418,9 +400,7 @@ biggest part right now of the mix because there's just such tremendous opportuni
 there. Then as you referenced, there's this thing called E5. E5 is the highest tier of
 our service for folks that aren't sort of steeped on it. And E5 has a value proposition
 around, well, some of these voice services that we talked about around
-communications, analytics services, things like Power BI and some sort of...FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 11 of 18Q - Kasthuri Gopalan Rangan
+communications, analytics services, things like Power BI and some sort of...Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -464,9 +444,7 @@ a PBX and putting in new cloud-based software, that has the longest sales cycle.
 What's wrong with that?
 
 Yes. Well it comes to like when companies are building new buildings, that's a really
-natural time or when their contract comes up. And some of these contracts are 6-, 7-FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 12 of 18Q - Kasthuri Gopalan Rangan
+natural time or when their contract comes up. And some of these contracts are 6-, 7-Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbaueryear contracts. When those come up, that's a great time to go in. So the sales
@@ -511,9 +489,7 @@ technology to make it integrate easily into -- whether it's Outlook or Teams, wh
 it's doing things like compliance capability, security capability, all that, single sign-on
 with the rest of the Oﬃce 365 services. There's a bunch of integration work that
 we've done, too. But a lot of great energy, a lot of great value on mobile devices, of
-course, very, very key. Some are core -- we're pleased with it.FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 13 of 18Q - Kasthuri Gopalan Rangan
+course, very, very key. Some are core -- we're pleased with it.Q - Kasthuri Gopalan Rangan
 Q - Gowrishankar Subramanian
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
@@ -555,9 +531,7 @@ of documents or whatever it might be.
 Then the other important component of it is managing devices. And so we talk
 about modern management with EMS with a service that we have called Intune,
 which can manage devices of all varieties and ﬂavors, including on iOS and on
-Android. It has capabilities around things like conditional access and so forth. So itFINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 14 of 18Q - Kasthuri Gopalan Rangan
+Android. It has capabilities around things like conditional access and so forth. So itQ - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -598,9 +572,7 @@ products. But those are key drivers for us. And we created essentially 2 centers
 gravity for core engineering at the company.
 And one is led by Rajesh Jha. And he runs what's called the Experiences and
 Devices Group, of which I'm a big part of. And that's all about sort of bringing the
-product and product ethos and the experiences of this sort of end-user valueFINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 15 of 18Q - Kasthuri Gopalan Rangan
+product and product ethos and the experiences of this sort of end-user valueQ - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
@@ -641,9 +613,7 @@ about the 3-year time horizon, I guess, 2 questions. One, do you think the mid; 
 high single growth in units is sustainable over that time horizon? Then secondly, if
 you had to force rank the growth that you think you'll get from units versus pricing,
 which one is sort of the bigger driver over that, over that period?
-FINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 16 of 18Q - Kasthuri Gopalan Rangan
+Q - Kasthuri Gopalan Rangan
 A - Kirk KoenigsbauerYes. Interesting. So on the first question, we do anticipate that we'll be able to
 continue to grow our installed base in this sort of range that we've been in. I think
 that's a huge opportunity for us. And I talked about some of the drivers of where we
@@ -686,9 +656,7 @@ and are using Oﬃce-oriented experiences on those devices.
 Rajesh now in his leadership team, there's Windows leaders and Oﬃce leaders
 sitting together and working on the same problems and so forth. So this
 reorganization, I think, is actually so important for the Windows business and the
-Oﬃce business in that it brings these teams together in a way that Satya's really beenFINAL TRANSCRIPT 2018-06-07
-Microsoft Corp (MSFT US Equity)
-Page 17 of 18Q - Kasthuri Gopalan Rangan
+Oﬃce business in that it brings these teams together in a way that Satya's really beenQ - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauer
 Q - Kasthuri Gopalan Rangan
 A - Kirk Koenigsbauerpushing on for years now. But kind of really hardens it in the sense of, hey, there is no

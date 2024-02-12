@@ -5,9 +5,7 @@ SVP of Gaming, Jeff Fisher.
 The format of today's call will be a short presentation followed by Q&A. You can find
 a copy of the presentation as well as the replay of Jensen's virtual launch event from
 earlier today on our Investor Relations website. And after the presentation, we'll
-open it up for Q&A for either Jeff or Colette.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 16Jeffrey D. FisherBefore we get started, I need to read a quick statement. During this call, we may
+open it up for Q&A for either Jeff or Colette.Jeffrey D. FisherBefore we get started, I need to read a quick statement. During this call, we may
 make forward-looking statements based on current expectations. These are subject
 to a number of significant risks and uncertainties and our actual results may differ
 materially. For a discussion of factors that could affect our future financial results and
@@ -47,9 +45,7 @@ So let's talk about the product. NVIDIA RTX is not just the GPU, it is a full st
 starts with the new GPU architecture -- our new GPU architecture, which is RTX. On
 top of RTX, the device, it includes new engine tech for games and for creative apps,
 and a bunch of new rendering algorithms that are invented by NVIDIA research
-team.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 16All the major 3D APIs have extended to include RTX. RTX is supported by all major
+team.All the major 3D APIs have extended to include RTX. RTX is supported by all major
 3D creation tools. RTX Tech is incorporated in all major game engines. There are
 hundreds of games being developed with RTX Tech and there has been thousands
 of research papers written about it.
@@ -89,9 +85,7 @@ Full stack engineering and craftsmanship is the heart of all of our GPUs and Amp
 is no exception. The goal to squeeze every drop of perf and power eﬃciency up and
 down the stack. Ampere delivers 1.9x more power eﬃciency in turing. This extends
 our ability to operate in low-power systems and scale higher performance with
-power.FINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 16So today, we announced our new ﬂagship GPU, the RTX 3080. At $699, it has 10
+power.So today, we announced our new ﬂagship GPU, the RTX 3080. At $699, it has 10
 gigabytes of the world's fastest memory. It's a generational leap, it is super important
 when launching a new GPU. This inspires developers to push realism on a much
 larger footprint, and of course, for gamers, to upgrade. The 3080 is available
@@ -130,9 +124,7 @@ continues to deliver. This is for the tens of millions of streamers, broadcaster
 Esports pros, artists and creators.
 We did this with our new applications for Esports NVIDIA Reﬂex, delivering low
 latency gaming for the millions of Esports gamers, NVIDIA Broadcast for the millions
-of GeForce broadcasters who are streaming their games. And finally, NVIDIAFINAL TRANSCRIPT 2020-09-01
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 16Simona Jankowski
+of GeForce broadcasters who are streaming their games. And finally, NVIDIASimona Jankowski
 Operator
 Vivek Arya
 Jeffrey D. Fisher

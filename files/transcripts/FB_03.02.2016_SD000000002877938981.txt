@@ -19,9 +19,7 @@ innovation efforts that we have.
 The core business which is the Facebook app itself, there's a few different ways that
 we contribute to that through our partnership efforts. One is our media partners who
 publish content to Facebook, whether that is videos or news articles or celebrities
-who are publishing into Facebook.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 3 of 18Unidentified Participant
+who are publishing into Facebook.Unidentified Participant
 Dan RoseWe also distribute our app through mobile platforms obviously. That's the way most
 people get our application. And so our relationship with mobile companies, whether
 it is the carriers or the manufacturers, or the companies that build the operating
@@ -58,9 +56,7 @@ Sure. Video is really exciting. I'm a surfer. So I love to talk about this throu
 of surfing. And I'm not a great surfer, I'm an amateur. But I know -- one thing about
 great surfers if you watch or surf yourself is that they do two things really well.
 Obviously, the first is that they ride a wave exceptionally well. But the other thing
-that's not as obvious is that they're really good at picking which wave to ride. AndFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 4 of 18Unidentified Participant
+that's not as obvious is that they're really good at picking which wave to ride. AndUnidentified Participant
 Dan Rosethe best surfers who win the competitions wait for the right waves and then get up
 on those.
 And I think for Facebook, the story of the last few years has very much been about us
@@ -95,9 +91,7 @@ people want to get out to a large audience. Facebook has a huge customer base
 and they want people to see what they are producing. And typically, the motivation
 for that is going to be that you have something that you want people to see because
 it is going to lead to some other behavior than you can ultimately make money from
-or get some other result from.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 5 of 18Unidentified Participant
+or get some other result from.Unidentified Participant
 Dan RoseSo Jimmy Fallon publishes his clips from his show because they want people to tune
 into The Tonight Show. The NBA publishes highlights from their games because they
 want people to go to the games or watch the games. Celebrities might publish
@@ -133,9 +127,7 @@ At a high level, talk about how Facebook analyzes M&A; what characteristics do y
 look for as you look at potential M&A candidates?
 
 I'll give you kind of the framework that Dave and I and the rest of the corp dev team
-use when we think about buying companies, which is kind of these four differentFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 6 of 18Unidentified Participant
+use when we think about buying companies, which is kind of these four differentUnidentified Participant
 David Wehnerpieces that all really need to be in place for us to feel good about an acquisition.
 The first is rationale. And this is really the critical piece of getting everybody
 internally on our side aligned on why we are doing the deal. And it seems obvious.
@@ -173,9 +165,7 @@ substitutive ad spend.
 Yes, I would start with what Instagram brings to the table from an audience
 perspective. So we've got 400 million people on Instagram that complements the 1.5
 billion people on Facebook. Obviously there's overlap there. But with those, we've
-got the two most important mobile audiences on the planet and I think advertisersFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 7 of 18Unidentified Participantrealize that and they've come to Facebook for good opportunities to reach those
+got the two most important mobile audiences on the planet and I think advertisersUnidentified Participantrealize that and they've come to Facebook for good opportunities to reach those
 large audiences.
 They are also slightly different in terms of how people use the product. So you are
 using Facebook to connect with people that you care about the content that you
@@ -210,9 +200,7 @@ when you -- especially in the near-term when you bring a bunch of supply on from
 something like Instagram, some of the demand is going to shift from Facebook to
 Instagram. And that's how we look at the business and model the business.
 The other sizable M&A was really around WhatsApp. How does WhatsApp kind of fit
-into the core Facebook use case over the next two to three years? And I guess at aFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 8 of 18David Wehner
+into the core Facebook use case over the next two to three years? And I guess at aDavid Wehner
 Dan Rosehigh level what's the difference in the core use case between Facebook Messenger
 and what you are seeing on WhatsApp?
 
@@ -249,9 +237,7 @@ different in that respect.
 And another way that they are different is WhatsApp from a product perspective is
 very utilitarian. There's not a lot of features. It's really just about sending messages,
 whereas the Messenger team has taken an approach of adding a lot of features and
-making it a more robust experience for people. So it's an interesting opportunity.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 9 of 18Unidentified Participant
+making it a more robust experience for people. So it's an interesting opportunity.Unidentified Participant
 David Wehner
 Unidentified Participant
 David WehnerWe didn't really design it this way. But it turns out we have an opportunity to
@@ -288,9 +274,7 @@ and so there's tons of interactions.
 We have seen I think it's 75 million, 76 million people interact on Facebook around
 the election. So there's an incredible amount of engagement going on. And we think
 of Facebook as being the new Town Hall where this kind of conversation, this type of
-activity is taking place. And I think we really just advanced a long way from 2012 toFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 10 of 18Dan Rose
+activity is taking place. And I think we really just advanced a long way from 2012 toDan Rose
 Unidentified Participant
 Dan Rose2016. We have got a lot more authentic raw content coming from the candidates on
 Facebook and I think it's very powerful and quite interesting and engaging.
@@ -325,9 +309,7 @@ Yes. It's kind of like this is the -- the live this year's Ice Bucket Challenge 
 a half ago.
 
 In some ways, although that was a really interesting moment and it certainly
-happened around the launch of autoplay. So that was something I think autoplayFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 11 of 18Unidentified Participant
+happened around the launch of autoplay. So that was something I think autoplayUnidentified Participant
 Dan Rose
 David Wehner
 Dan Rose
@@ -360,9 +342,7 @@ different. People tend to watch it for longer periods of time. It's real time. S
 new aspects of it that we'll have to think about.
 But we are not thinking about that right now. Right now we're just really investing in
 the consumer product and making it useful to people. And if we can get that to scale
-then we'll start exploring how we can monetize it.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 12 of 18David WehnerKeep investing ?; investment is always a big theme at Facebook, Dave. You laid out
+then we'll start exploring how we can monetize it.David WehnerKeep investing ?; investment is always a big theme at Facebook, Dave. You laid out
 OpEx and some guidance and CapEx guidance for this year. Just talk about some of
 the key investment areas for Facebook as we go into 2016 and just kind of even
 longer-term areas where the capital is going to be deployed.
@@ -401,9 +381,7 @@ So when you kind of put everything across, it is a substantial investment progra
 We are very excited about the investments we are making across the core, the
 medium-term and the long-term. And we think we are doing the right thing by
 investing in our infrastructure to be able to handle the potential growth that we see
-out there.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 13 of 18Unidentified Participant
+out there.Unidentified Participant
 Dan RoseSo we've got a big investment program. But we are excited about it. And also we've
 got a business that really puts us in a position to make those aggressive investments.
 The more live -- it just takes a lot more bandwidth in the data center for all the live
@@ -439,9 +417,7 @@ can bring social experiences to that type of a platform.
 And so, we bought Oculus. We have a team that is building some early VR hardware
 and software. We have a PC product called the (RITH) that's going to be shipping
 soon that plugs into your computer. And we have a mobile product that we
-partnered with Samsung on called Gear VR.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 14 of 18Unidentified Participant
+partnered with Samsung on called Gear VR.Unidentified Participant
 Q - Unidentified Participant
 A - Dan Rose
 Q - Unidentified ParticipantAnd so we are excited. We think that there is real potential here. But it is very, very
@@ -476,9 +452,7 @@ So I think you're going to see a lot more innovation around that and we are cert
 motivated to want to encourage and support that as well. But it is at a level right now
 where it's good enough for a lot of this to be happening.
 Maybe another question on video, which is just the completion rates of your video in
-autoplay. Is that a metric that you are optimizing towards or are you trying to maybeFINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 15 of 18A - Dan Rose
+autoplay. Is that a metric that you are optimizing towards or are you trying to maybeA - Dan Rose
 Q - Unidentified Participant
 A - David Wehnerencourage some sort of different behavior there? Thanks.
 
@@ -516,9 +490,7 @@ with establishing good connections between businesses and consumers. But it's a
 lot of work. So we've got to do it, we've got to experiment with it. Like I mentioned
 earlier, one of the big assets we bring to bear is we already have a lot of businesses
 connected via Facebook and we see that as being an intrinsic asset for us to be able
-to bring to bear to help solve that.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 16 of 18A - Dan Rose
+to bring to bear to help solve that.A - Dan Rose
 Q - Unidentified Participant
 A - David Wehner
 A - Dan RoseSo that's what we are doing. I think it's too early for us to kind of update on
@@ -557,9 +529,7 @@ I think we're seeing a lot of growth in the core use case that Facebook has a go
 position with public and group posting. And you are seeing overlap there with
 group messages and the type of functionality that WhatsApp and Messenger enable
 there. Then obviously there's one-to-one which is much more in the camp of
-messaging platforms.FINAL TRANSCRIPT 2016-03-02
-Meta Platforms Inc (FB US Equity)
-Page 17 of 18Q - Unidentified Participant
+messaging platforms.Q - Unidentified Participant
 A - David Wehner
 Q - Unidentified Participant
 A - Dan RoseAnd our view is that sharing -- the desire to share and connect is a universal desire

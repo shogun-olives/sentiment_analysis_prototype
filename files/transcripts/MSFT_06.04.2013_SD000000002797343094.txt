@@ -20,9 +20,7 @@ it's really a big business. It's a $19 billion business for Microsoft with a fiv
 of 11%. That's pretty stunning and if you look at underneath that, the hardware market
 this year, the server hardware market, is going to decline. So growing 11 points in a
 market that's actually declining is really pretty shocking. Very, very strong business
-for the Company.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15Our contribution margin continues to grow year-over-year at nearly 50%. This is a
+for the Company.Our contribution margin continues to grow year-over-year at nearly 50%. This is a
 very, very healthy business and getting healthier every year. There are six separate $1
 billion businesses within the Server and Tools business. That is a remarkable
 statement. Having started on Server and Tools when Windows Server was shipping
@@ -60,9 +58,7 @@ tremendous opportunity to drive new applications and new scenarios around
 insight. And that's how we're viewing it. We think there's actually this really unique
 opportunity where data becomes the new platform and the tools around data, the
 Oﬃce 365 and the BI category, really become very, very powerful for where the
-customers actually derive new value and new scenarios for their own businesses.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15The consumerization of IT. How many of you are carrying a smart phone or an iPad?
+customers actually derive new value and new scenarios for their own businesses.The consumerization of IT. How many of you are carrying a smart phone or an iPad?
 Or maybe even a Surface, dear God. Consumerization of IT is a reality. This is
 something that is so true -- every one of us is bringing these devices into the
 business and expect our applications to be there. This is a huge burden on IT. They
@@ -102,9 +98,7 @@ And finally, this modern platform also enables a whole new class of business
 applications. This cloud OS is really a whole new construct. It's no longer thinking
 about things as a singular machine, it's now this vast distributed fabric that enables a
 whole new class of applications, a whole new case of user scenarios and in fact a
-new way of thinking about IT.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15So what makes the cloud OS unique? Microsoft's approach to this, with this cloud
+new way of thinking about IT.So what makes the cloud OS unique? Microsoft's approach to this, with this cloud
 OS, is to have one consistent platform that spans the customer's data center, our
 own data center and third party service providers. One consistent platform that
 allows the customer to deploy applications or solutions or infrastructure where they
@@ -144,9 +138,7 @@ Directory.
 SQL Azure databases in Windows Azure. Similarly on the 76% of enterprise apps are
 using Windows Server and we have over 100,000 websites hosted in Windows
 Azure. All of these are in. Our core strategy is to deliver a fabric that's cloud OS that
-allows the customer to deploy their solution where they see fit. And that's reallyFINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Q - Kash Rangancritical because the customers tell us every single day that IT cannot get in the way of
+allows the customer to deploy their solution where they see fit. And that's reallyQ - Kash Rangancritical because the customers tell us every single day that IT cannot get in the way of
 them running their business. They must be able to actually do what they see fit,
 based on whatever rules or regulations they have in play.
 We've had a tremendous year of product momentum, tremendous. Whether it was
@@ -183,9 +175,7 @@ Questions And Answers
 Thanks so much, Bob. So I'll ask a couple of questions and feel free to jump in with
 your questions as well.
 We've heard a lot about as the work that Azure -- or you guys have been doing with
-Azure and Amazon Web Services has been talking about their infrastructureFINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15A - Bob Kelly
+Azure and Amazon Web Services has been talking about their infrastructureA - Bob Kelly
 Q - Kash Rangan
 A - Bob Kelly(inaudible) strategy as well. How do you see Azure playing alongside AWS? Is it
 going to be a head-on conversation or are you guys in different segments of the
@@ -227,9 +217,7 @@ and Tools, of the $19 billion, is on software that customers are deploying on th
 premises. But we have very, very, very early signs of very strong momentum.
 Last year I stood up here, I told you that we had 100,000 customers on Windows
 Azure. Today we have 200,000. We're adding 1,000 customers a day. We have
-30,000 customers who have adopted our infrastructure as a service offering thatFINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Q - Kash Rangan
+30,000 customers who have adopted our infrastructure as a service offering thatQ - Kash Rangan
 A - Bob Kelly
 Q - Kash Rangan
 A - Bob Kellywent live in April. We really just have seen tremendous momentum. We have 50% of
@@ -270,9 +258,7 @@ capabilities. So if you could unlock the ability to deliver the backlog of apps,
 huge opportunity there as well. That's what we're seeing. We actually see that this
 cloud thing is additive to our business, not subtractive. And because we have such a
 strong position on premises, with multi-year contracts, we're able to monetize that
-transition to the hybrid world very eﬃciently and very effectively.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Q - Kash Rangan
+transition to the hybrid world very eﬃciently and very effectively.Q - Kash Rangan
 A - Bob Kelly
 Q - Kash Rangan
 A - Bob KellySo with the macro we're playing in a way bigger pool and we believe fundamentally
@@ -313,9 +299,7 @@ If you look at IDC's data, IDC has Hyper-V share just north of 30% and VMware sh
 just about 55%, if my number's correct. We. And as I said, we've grown a point a
 quarter over the course of the last four quarters. Aggressive growth and we will get
 to a point where in essence in the enterprise space it'll be two platforms. Customers
-will have a Hyper-V based world and an ESX based world.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15Q - Kash Rangan
+will have a Hyper-V based world and an ESX based world.Q - Kash Rangan
 A - Bob Kelly
 Q - Kash Rangan
 A - Bob KellyThe money is not in the hyper visor. The money is in the automation and in the
@@ -354,9 +338,7 @@ us. And as applications kind of migrate to that new world of delivering database
 service, the whole notion of tier 1 apps gets disrupted. And the iceberg that Oracle
 holds in the enterprise will start to melt. And it will melt because the market's moving
 to the public cloud as a way to consume and deliver that service, not because we
-were chipping away at it.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15Q - Kash Rangan
+were chipping away at it.Q - Kash Rangan
 A - Bob Kelly
 Q - Kash Rangan
 A - Bob Kelly
@@ -396,9 +378,7 @@ talk with them.
 Apparently eBay has been using (inaudible).
 
 Who's that, eBay?
-FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15A - Bob Kelly
+A - Bob Kelly
 Q - Kash Rangan
 Q - Unidentified Participant
 A - Bob Kelly
@@ -436,9 +416,7 @@ later this year we'll be in general availability there.
 Talk about the growth that you're seeing in Azure an the revenue growing and the
 opportunity for Microsoft. But when I think about it from a customer perspective,
 what is the ROI that customers are getting from going over to Azure and how does it
-compare to other platforms out there?FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15Q - Kash Rangan
+compare to other platforms out there?Q - Kash Rangan
 Q - Unidentified Participant
 A - Bob Kelly
 Q - Kash Rangan
@@ -478,9 +456,7 @@ public cloud, do I have to lay off my IT staff? We rarely hear anything like tha
 
 I had a question on your growth rate in the business is far and above the server unit
 growth rate. Can you just help us break the gap between that growth rate and the
-server unit growth rate? What is that?FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15A - Bob Kelly
+server unit growth rate? What is that?A - Bob Kelly
 Q - Kash Rangan
 A - Bob Kelly
 Q - Kash Rangan
@@ -521,9 +497,7 @@ I'll answer the second question first. It's absolutely for new projects. That's 
 where we see the dollar slowing. Everyone's carrying these devices around, every
 app has to get mobilized, if you will. There's a whole new set of scenarios that are
 coming because of these apps. There's data and BI and just huge scenarios that are
-being unlocked. And customers are saying new apps. That's the first thing.FINAL TRANSCRIPT 2013-06-04
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15Q - Kash Rangan
+being unlocked. And customers are saying new apps. That's the first thing.Q - Kash Rangan
 A - Bob Kelly
 Q - Kash Rangan
 A - Bob Kelly

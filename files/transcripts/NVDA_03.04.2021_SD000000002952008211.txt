@@ -20,9 +20,7 @@ really early in the adoption curve of accelerated compute. But what's going to d
 this year for you after a crazy 2020?
 
 It was a crazy 2020 and certainly from where I'm sitting. NVIDIA launched a whole
-new architecture, their Ampere GPU or A100. We had a launch from our homes. InFINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 16fact, Jensen from his kitchen.
+new architecture, their Ampere GPU or A100. We had a launch from our homes. Infact, Jensen from his kitchen.
 It was -- and I think while other companies slowed down or struggle to execute, I
 think we thrive in that environment. We're already a virtual global company, and we
 knew how to do what we do, and we've launched it from a kitchen virtually. And
@@ -58,9 +56,7 @@ from scratch. We're starting to see a broadening of that.
 So the cloud is starting to consume more and more of our GPUs as the rest of the
 world is learning how to use this technology, either NVIDIA's direct software or
 software partners in the AI stacks that we're working with. And finally, we're -- so on
-the training side for sure and also now increasingly in the enterprise.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 16A - Brett Simpson
+the training side for sure and also now increasingly in the enterprise.A - Brett Simpson
 A - Ian Buck
 A - Brett SimpsonThe bigger companies who maybe need -- who now understand how they can apply
 their business, their decision-making and use this AI technology for things like
@@ -100,9 +96,7 @@ Language and language understanding, however, is a much broader, a bigger --
 challenge, right? You not only need to understand what I am saying right now, but
 also what I mean, my intent and understand it and take action on it and respond to it
 and communicate back to me in the same way that I'm communicating with you.
-FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 16A - Ian BuckYes.
+A - Ian BuckYes.
 
 That's a very more -- much, much more intelligent problem. But the opportunity
 there is very large, right? This is how we interact as humans and we're now going to
@@ -138,9 +132,7 @@ to capture is very large and are getting even bigger.
 So there, we're seeing significant growth in the challenges of AI and also where
 people are buying some of their infrastructures. And it goes right -- obviously,
 they're highly motivated because it often goes right to the bottom line of their
-economics.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 16A - Brett Simpson
+economics.A - Brett Simpson
 A - Ian BuckOne of the examples there, I guess, in conversational AI is Microsoft Oﬃce. So I don't
 know if your audience knows this, but if you turn on grammar checking, Microsoft is
 actually using an AI model based on BERT, which is a famous AI model for doing
@@ -178,9 +170,7 @@ see the traction actually is them going through an ISV partner, a start-up. The 
 community is actually quite rich in this area.
 They find the right partner that understands or has the particular technology and
 working with them to apply it to their particular business use case. I see a huge
-majority of the use cases outside of the big hyperscalers starting that way.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 16A - Brett Simpson
+majority of the use cases outside of the big hyperscalers starting that way.A - Brett Simpson
 A - Ian BuckAnd I think your community probably sees the start-up activity in AI right now, and it
 makes a lot of sense. A lot of smart people with some great ideas that could be
 applied to many different possible business use cases.
@@ -217,9 +207,7 @@ latest A100 GPUs in their cloud, so all the customers can use them or they're
 inferencing on their T4 GPUs. At the same time, we make sure all the major OEMs
 have access to our technology. And we offer the same base for the same GPUs both
 at the same time, so the market can consume it, however they want -- they choose.
-And we remain open that way.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 16A - Brett Simpson
+And we remain open that way.A - Brett Simpson
 A - Ian BuckThe adoption tends to start usually where your data is. So if your data all resides in
 the cloud, it tends to start in the cloud. Or if it needs to be on-prem or your own data
 centers for privacy or security reasons, people start there, too. So that usually is the
@@ -258,9 +246,7 @@ available on our NGC container registry for download, and get the latest certifi
 tested, validated AI software that works, whether it be in the cloud or on-prem.
 We're the only AI company that's working with all the other AI companies, including
 all the hyperscalers and we take all that learning and all that knowledge, all those
-engagements, whether it be a recommender system, a conversational one, we'reFINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 16A - Brett Simpson
+engagements, whether it be a recommender system, a conversational one, we'reA - Brett Simpson
 A - Ian Buckdoing stuff on AI for video chats just like this conversation as well. That informs us.
 We help the customer.
 We make our products better, our libraries and SDKs better and then we make it
@@ -298,9 +284,7 @@ Yes. I think a couple of things. One is there's a -- there's not -- definitely, 
 there's not one way to consume AI, for sure. And there will be services that are going
 to stand up different. AI is a capability. So different services will stand up to and serve
 that capability, and then we fine tune. This is not just one software program that runs
-them all.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 16The models are widely different. And the use cases are different. It's -- some off-line,
+them all.The models are widely different. And the use cases are different. It's -- some off-line,
 some streaming, some more ensemble-based. Some are more -- and their latency
 requirements are wildly different. So I think you'll see a wide variety of different
 services and capabilities, and everyone will compete naturally on those verticals and
@@ -337,9 +321,7 @@ they're basically supercomputers, which we can offer to the community. I also do
 supercomputers, too, but we can offer the community to get that head start. And
 then the clouds are starting to figure out how they can participate in that as well.
 And we are seeing some InfiniBand happen in the CSPs and the cloud providers,
-which is exciting, and some of the different storage options. Obviously, it's a differentFINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 16A - Brett Simpson
+which is exciting, and some of the different storage options. Obviously, it's a differentA - Brett Simpson
 A - Ian Buckchallenge for them to deploy that stuff at scale across multiple regions and making it
 available for rent, and making the economics work for them as well.
 But I think you're going to see a lot more diversification in the kinds of instance types
@@ -376,9 +358,7 @@ of them.
 So a huge portion of the infrastructure we're seeing today is being used for our self-
 driving car initiatives for NVIDIA DRIVE and the work we're doing with our self-
 driving car customers to give them a turnkey solution and partner with NVIDIA to
-deliver a self-driving car capability.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 16A - Brett SimpsonAnd that -- so we had to build the whole pipeline from the data ingestion to the
+deliver a self-driving car capability.A - Brett SimpsonAnd that -- so we had to build the whole pipeline from the data ingestion to the
 labeling to the training to the simulated an environment where we run the car in
 simulation and crash it 100 times without ever hurting anyone and seeing what works
 and doesn't work before we ever put it in the car and have actually test it in real time.
@@ -414,9 +394,7 @@ deploy the technology and see the benefits of it.
 Can I maybe just ask, Ian, if -- I guess if we look back at the V100 cycle for the data
 center division, it was a bit lumpy. You had good times and you had slower times.
 And I guess it takes time for customers to digest what they're buying before they
-need the next amount of compute. Do you think that's going to be the -- is that justFINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 16A - Ian Buck
+need the next amount of compute. Do you think that's going to be the -- is that justA - Ian Buck
 A - Brett Simpson
 A - Ian Buckthe behavior that we're going to see in A100? Or do you think that it will be a
 different type of market this time around?
@@ -453,9 +431,7 @@ If you look out 2 to three years from now, how sustainable do you think your
 position, your market share position and accelerated compute looks like to you?
 There is a lot of start-ups. They've taken a lot longer to get into the market. But if we
 look 2 to three years from now, what's your perspective on market share?
-FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 16A lot changes in 2, three years. I mean if I think about AI 2, three years ago today, it
+A lot changes in 2, three years. I mean if I think about AI 2, three years ago today, it
 continues to evolve and grow. The models and the things we're talking about are
 widely different. We used to talk about ImageNet.
 We used to talk about ResNet. Now that's kind of like table stakes. If you can't do
@@ -490,9 +466,7 @@ And that came from A100. When we designed A100, we started seeing this trend
 where the models are getting bigger because the capabilities want to get smarter.
 And the CPU could not keep up in terms of executing that model at the latency
 necessary for the NLP models or the conversational agents that we talked about,
-particularly in text-to-speech, recommenders and some of the newer models. As aFINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 16A - Brett Simpson
+particularly in text-to-speech, recommenders and some of the newer models. As aA - Brett Simpson
 A - Ian Buckresult, the workﬂow -- people started deploying GPUs for that. We saw it with our T4
 GPU, which is why they're used in all the hyperscalers today for inference.
 With A100, we made the architecture excellent both. It's a great training GPU, but
@@ -529,9 +503,7 @@ So -- and of course, AI is also powering the Internet of Things, which thousands
 items, bigger than the Internet of people at this point. So that makes it very exciting.
 We certainly expand Arm's IP licensing opportunities and allows us to offer NVIDIA's
 technology to large end markets, including mobile and PC and a turbocharger Arm
-server CPU road map by help investing in the road map and advancing Arm andFINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 16A - Brett Simpson
+server CPU road map by help investing in the road map and advancing Arm andA - Brett Simpson
 A - Ian Buck
 A - Brett Simpson
 A - Ian Buck
@@ -569,6 +541,4 @@ No problem. Any time. Thank you.
 
 Our next speaker will be starting in a few minutes. We have Samsung's Network EVP,
 Woojune Kim. So please, can you click through on Zoom for that session. Thanks very
-much. Again, Ian, thanks for your time. Bye for now. Thank you. Thanks, Simona.FINAL TRANSCRIPT 2021-03-04
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 16
+much. Again, Ian, thanks for your time. Bye for now. Thank you. Thanks, Simona.

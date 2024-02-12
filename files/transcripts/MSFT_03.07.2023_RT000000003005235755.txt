@@ -20,9 +20,7 @@ of AI and generative AI capabilities coming into the solution portfolio has real
 impressed people and impressed them to the upside of kind of what our
 expectations are.
 Can you talk to us about how this came together? Because this is something that
-didn't sort of come into the forefront over the last month or two. This is somethingFINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 2 of 12A - Scott Guthrie
+didn't sort of come into the forefront over the last month or two. This is somethingA - Scott Guthrie
 Q - Keith Weiss
 A - Scott Guthrieyou guys have been putting together for years. Can you talk to us about sort of how
 you guys have built out the AI capability within Microsoft? And now how we're
@@ -63,9 +61,7 @@ DAX platform. From what I understand, there's a centralized kind of AI kind of c
 functionality and then it's up to the product teams to figure out sort of how to
 expose that through their own solutions. Is that the correct way to think about it?
 
-A little bit. Yes, I mean, there's a core kind of we call AI platform that we're building.FINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 3 of 12Q - Keith Weiss
+A little bit. Yes, I mean, there's a core kind of we call AI platform that we're building.Q - Keith Weiss
 A - Scott Guthrie
 Q - Keith Weiss
 A - Scott Guthrie
@@ -106,9 +102,7 @@ AI is, as you provide data to that model and it learns, who owns that model, who
 owns that data. And that's why, the trust is so important, I think in this AI age. And
 again our promise is, your data is your data, it's not our data. You get to monetize it,
 you get to control it and the foundation models won't learn from your data. Your
-instance learns, but not the models that are shared by others.FINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 4 of 12Q - Keith Weiss
+instance learns, but not the models that are shared by others.Q - Keith Weiss
 A - Scott GuthrieI think that promise, and frankly the trust that we've earned over the years at
 Microsoft and you earn trust in drips and you can lose it in buckets. So it's really
 important to focus on that trust. But I think that puts us in a good position, I think,
@@ -150,9 +144,7 @@ not very aggressively looking to leverage AI, partly because we also want to get
 signal going. And when you have hundreds of millions of commercial customers
 using your products, that's a lot of good signal, that's going to improve them, and
 that I think is going to further differentiate our models versus others hopefully in the
-market.FINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 5 of 12Q - Keith Weiss
+market.Q - Keith Weiss
 A - Scott Guthrie
 Q - Keith Weiss
 A - Scott Guthrie
@@ -195,9 +187,7 @@ route forward across the entire portfolio?
 I think you're going to see -- I mean, I guess, the way I look at it would be, what is the
 productivity win you're giving to the business, whether it's around making an
 employee more productive or making up the specific business process more
-effective. You take the example of say GitHub Copilot, since that's a product that'sFINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 6 of 12Q - Keith Weiss
+effective. You take the example of say GitHub Copilot, since that's a product that'sQ - Keith Weiss
 A - Scott GuthrieGA today. We're now seeing that the developers using GitHub Copilot are 55% more
 productive with it on tasks and that's sort of measured by independent studies and
 40% of the code they're checking in is now AI generated and unmodified.
@@ -238,9 +228,7 @@ And then I think we're also going to see then the next generation of apps that a
 going to be built on the raw APIs and the services around it, that are going to re-
 envision pretty much every experience that we see. I've told the story a few times
 about e-commerce. We kind of all take for granted you go in a web browser to an e-
-commerce site, there's categories on the left, you click; there is products, you click,FINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 7 of 12Q - Keith Weiss
+commerce site, there's categories on the left, you click; there is products, you click,Q - Keith Weiss
 A - Scott Guthrieyou read the reviews, the price point, is it in stock, you add it to your cart and check
 out. That was kind of codified 30 years ago and it hasn't changed dramatically.
 I think we're going to be in a place probably two holiday seasons from now where
@@ -282,9 +270,7 @@ world that even meant 12 months ago and yet hundreds of millions of people have
 heard of ChatGPT and Bing now, and tried it. And so I think that's -- I think that is
 actually making it much more real, which is giving us an opportunity to then say, hey,
 let's show you how you can use this in customer support, let's show you how we can
-use it with developer productivity, let's show you how we can use it for salesFINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 8 of 12Q - Keith Weiss
+use it with developer productivity, let's show you how we can use it for salesQ - Keith Weiss
 A - Scott Guthrieproductivity, and it's a good conversation starter. And again, I think people are
 looking for solutions that integrate with their workﬂows that they already have and
 help them kind of accelerate even more.
@@ -324,9 +310,7 @@ There's only so much optimization you can do until you're done. And so while
 people are optimizing, it's not like they're going to optimize it down to zero. At some
 point you get done and then you go into the next workload.
 What's happened in the last six months or nine months has been as the macro
-situation has been uncertain, people have been, I'd say, optimizing even more, andFINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 9 of 12Q - Keith Weiss
+situation has been uncertain, people have been, I'd say, optimizing even more, andQ - Keith Weiss
 A - Scott Guthrie
 Q - Keith Weiss
 A - Scott Guthriethey are sometimes holding on to those savings a little bit longer before they
@@ -368,9 +352,7 @@ platforms.
 So is that the case that like because this is more computationally intensive, because
 you have to bring in GPUs to do the training that this is going to be a compressive
 impact on overall cloud gross margins for Microsoft?
-FINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 10 of 12Q - Keith Weiss
+Q - Keith Weiss
 A - Scott GuthrieI think overall, I mean, the thing I would probably point to is going to be the fact that
 these are new workloads and the fact that it really opens up more top line revenue.
 And again, for a lot of these use cases take a developer, if you can make that
@@ -412,9 +394,7 @@ Got it. So both through sort of pricing and volume you can make up for any kind 
 higher compute intensity needed in this type of process?
 
 And we're continuing to just sort of really optimize these models. I think a lot of
-people were surprised last week when OpenAI lowered their prices by a factor of 10,FINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 11 of 12Q - Keith Weiss
+people were surprised last week when OpenAI lowered their prices by a factor of 10,Q - Keith Weiss
 A - Scott Guthriethat's partly because they found a way to lower the cost of inferencing
 correspondingly and they say, we can get a lot more revenue, open up a lot more
 opportunities when it's more effective, and that model that's cost optimized didn't
@@ -457,9 +437,7 @@ of our own apps deeply taking advantage of these models is also giving us real
 signal on what optimization really is going to matter, and how do we continue to be
 on the bleeding edge of optimizations. And I do think that signal for us has helped a
 lot in terms of what we've built. We wouldn't have built it the way we built it without
-the partnership we had and without some of these early applications. And I think thatFINAL TRANSCRIPT 2023-03-07
-Microsoft Corp (MSFT US Equity)
-Page 12 of 12Q - Keith Weiss
+the partnership we had and without some of these early applications. And I think thatQ - Keith Weiss
 A - Scott Guthrieultimately hopefully is going to help again both at the platform layer and at the app
 layer, give us some good differentiation in the years ahead.
 

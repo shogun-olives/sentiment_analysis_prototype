@@ -16,9 +16,7 @@ other formal unveiling of products this week. There was some news from your
 competitors, AMD, also out.
 So if you could just take a step back and give us a sense for the PC gaming market,
 what it has done the last four, five years, what Pascal means. And how does it shape
-what the next few years might look like for that business.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 17Colette Kress
+what the next few years might look like for that business.Colette Kress
 Vivek Arya
 Colette Kress
 Sure. Our representation in the gaming market is a very, very big part of NVIDIA. Our
@@ -55,9 +53,7 @@ expected, those were extremely, extremely popular.
 We'll have supply quite shortly with the AIC card market and those will be here quite
 shortly. But over the short period of time between the founders and the cards, we
 are seeing a lot of other unique price points. But no, we'll have that all ready for the
-AICs very shortly.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 17Vivek Arya
+AICs very shortly.Vivek Arya
 Colette Kress
 Vivek Arya
 Colette Kress
@@ -95,9 +91,7 @@ I believe we've been a big part of expanding those overall TAMs in terms of brin
 gamers to the market. Gamers come to the market based on both the games that
 are available, the better the production value of those games. The better
 accessibility to broadband around the world has brought them on board. But also
-what we've seen is the expansion of eSports.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 17Vivek Arya
+what we've seen is the expansion of eSports.Vivek Arya
 Colette KressThe expansion of eSports has literally put gaming in the same arena of any other
 form of entertainment: a social platform that people are online together. So
 expanding those overall users has been a big part of our overall growth as we've
@@ -135,9 +129,7 @@ As you've seen with some of the additions that are coming out with founders, the
 is also unique components to really bring that at a higher level. High-end
 components in addition to the regular AIC markets in terms of those founders'
 additions. So again, the goal is really to provide that right card for the right type of
-gamer. But you can expect us to earn about the same that we've had historically.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 17Vivek Arya
+gamer. But you can expect us to earn about the same that we've had historically.Vivek Arya
 Colette Kress
 Vivek Arya
 Colette Kress
@@ -174,9 +166,7 @@ right now that a lot of the high-end gamers are doing.
 So we will see that continue to expand in terms of more and more people coming
 online to game, which really feeds the types of games the game developers are
 building for this overall market. So for what we can see, it's a continuation of what
-we've seen, which is a great position.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 17Vivek Arya
+we've seen, which is a great position.Vivek Arya
 Colette Kress
 Vivek Arya
 Colette KressOur Pascal architecture even allows more to come on board and experience the
@@ -215,9 +205,7 @@ landscape?
 
 So if I had to say who was different over the last several years, I think that's NVIDIA. I
 think in the way that we've chosen to approach the strategic aspects of selling into
-the gaming market and how we really transformed to a platform type of approach.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 17Vivek Arya
+the gaming market and how we really transformed to a platform type of approach.Vivek Arya
 Colette KressIt's not about a chip. It's not about a bigger and better chip. We have the resources,
 we have the engineering horsepower to absolutely build some of the best
 technology that's there. But we've surrounded that with a working across the entire
@@ -255,9 +243,7 @@ intelligence with many key applications, primarily right now with a lot of the
 hyperscales and the breadth and depth that the hyperscales are using deep learning
 in many of their different types of applications.
 Then number three, that is also our place where we have our cloud computing. So
-our position where we have a GPU in the cloud that can be leveraged in a streamingFINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 17Vivek Arya
+our position where we have a GPU in the cloud that can be leveraged in a streamingVivek Arya
 Colette Kress
 Vivek Arya
 Colette Kressenvironment or a partitioned things so we can have one to many using the overall
@@ -294,9 +280,7 @@ enabled a lot of this deep learning as well.
 How is your visibility just conceptually in this kind of a business? I understand there
 are a lot of trial, a lot of things going on. But do you already have a somewhat good
 sense of what the next one, two, three quarters might look like for this business?
-FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 17Vivek Arya
+Vivek Arya
 Colette Kress
 Vivek Arya
 Colette Kress
@@ -333,9 +317,7 @@ So taking exactly those algorithms that have been developed in the deep learning
 framework and using it for any new data that is also entering into the overall
 network. That inference has been primarily used with CPUs and other easier forms of
 configuration of maybe ASICs or FPGAs in those manners. But we're also starting to
-see GPUs being leveraged in that piece.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 17Vivek Arya
+see GPUs being leveraged in that piece.Vivek Arya
 Colette Kress
 Vivek AryaSo the overall ability to use a TPU for deep learning training is probably not what
 their overall intention was. It was mainly for the overall inference market. We're
@@ -371,9 +353,7 @@ that business.
 
 So I know it is harder to pinpoint exact growth rates because these are new markets
 that are starting to develop. But if, let's say, somebody were to say that over the next
-three or four years, CapEx by the cloud guys would grow, let's say, 10% or 15% a yearFINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 17Colette Kress
+three or four years, CapEx by the cloud guys would grow, let's say, 10% or 15% a yearColette Kress
 Vivek Arya
 Colette Kressthan this market opportunity, is it fair to think it could grow at or above that kind of
 rate?
@@ -410,9 +390,7 @@ the road with our infotainment systems in there and there's more cars that will 
 hit the road.
 Our strategic focus has been to build upon those relationships, as we saw a very key
 need of taking exactly what we understood from the data center to solve a very
-diﬃcult challenge with automotive companies. They are looking for a way to doFINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 17Vivek Arya
+diﬃcult challenge with automotive companies. They are looking for a way to doVivek Arya
 Colette Kressautonomous driving or self-driving. But that's a significant amount of computational
 power that's going to be necessary to understand everything that surrounds a car
 and serve out the set of instructions. Many form factors have been through ADASes
@@ -451,9 +429,7 @@ if you look at an average car, more than 50 different microprocessors within the
 So all of the competition has a place to overall play and they may be single function
 types of thing.
 Our focus is to say that overall compute power, that central repository is absolutely
-necessary. And it's going to take some time for that to build and scale for the highestFINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 17Vivek Arya
+necessary. And it's going to take some time for that to build and scale for the highestVivek Arya
 Colette Kress
 Vivek Aryalevel of autonomous driving over the next future. But that transformation is in front of
 us and it is necessary.
@@ -491,9 +467,7 @@ businesses, have higher gross margins than the Company average. And our gaming
 being more than 50% has a big inﬂuence definitely in terms of our gross margins. It's
 still going to be our concentration, we just don't know what that perfect mix will be
 and how fast those gross margins may grow.
-FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 17Colette Kress
+Colette Kress
 Vivek Arya
 Colette Kress
 Vivek Arya
@@ -530,9 +504,7 @@ It's the exact same process. It's not about selling the chip inside. It's about 
 lot of the development platform and the development services that we've been
 working on for DriveWorks in terms of autonomous driving. The value of that is a
 huge opportunity for us in both our revenue as well as in terms of our gross margin
-expansion.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 17Q - Unidentified Participant
+expansion.Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
 A - Colette Kress
@@ -570,9 +542,7 @@ So what we've seen is relatively consistent, ﬂat overall expense base for quit
 time. And what that really has been about is making the appropriate investments that
 we see necessary: one bringing Pascal to life as it is today. But also in terms of some
 of the go-to-market paths that we've been for data center and some of our new
-businesses as well.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 17Q - Vivek Arya
+businesses as well.Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -614,9 +584,7 @@ terms of there. But sure, a researcher here or there that's gaming as well as
 researching deep learning using the GPU (multiple speakers).
 
 But you don't see some big cloud guy going to a Best Buy and buying a lot of (end
-products) from there.FINAL TRANSCRIPT 2016-06-01
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 17A - Colette Kress
+products) from there.A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya

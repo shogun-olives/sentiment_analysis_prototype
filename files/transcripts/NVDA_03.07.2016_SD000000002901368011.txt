@@ -19,9 +19,7 @@ on a development layer, a development layer that's both programmable as well as
 developer tools but also a key software component for many of these markets.
 Now the four markets that we're focused on right now is gaming, primarily PC
 gaming; number two, Pro visualization which talks about graphics for the overall
-enterprise; data center, data center including high performance computing, artificialFINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11Hans Mosesmann
+enterprise; data center, data center including high performance computing, artificialHans Mosesmann
 Colette Kressintelligence as well as cloud graphics; and number four, automotive. And two key
 pieces of automotive, both infotainment centers but also autonomous driving going
 forward.
@@ -58,9 +56,7 @@ Virtual reality as we see it is just another bonus opportunity for us in this ma
 expand gaming. The next generation of reality type of gaming is ahead of us. It's a
 little unsure in terms of how fast it will grow in the very beginning but the exciting
 part about it is the high-end gaming with virtual reality will require one of our high-
-end platforms.FINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Hans Mosesmann
+end platforms.Hans Mosesmann
 Colette Kress
 Hans Mosesmann
 Q - Unidentified Participant
@@ -97,9 +93,7 @@ So it's a good question.
 Can you repeat the question?
 
 So the question was regarding what do we do to actually enable VR. Yes we have a
-great chip in terms of its performance, its ability in terms of its frame rate to enableFINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Q - Hans Mosesmann
+great chip in terms of its performance, its ability in terms of its frame rate to enableQ - Hans Mosesmann
 A - Colette Kressthat but what else do we work on?
 Very similar to what we do right now in terms of working with software developers
 worldwide in terms of upcoming games that is a multiyear process for future games
@@ -139,9 +133,7 @@ with deep known network training to train a set of data and information for bett
 use cases for consumer types of applications.
 Let me give you some examples. What you see in terms of the amount of data on
 video, images, voice recognition, voice translation, very, very key large data sets that
-they are able to use a GPU as the coprocessor, in this case to better mine thatFINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Q - Hans Mosesmann
+they are able to use a GPU as the coprocessor, in this case to better mine thatQ - Hans Mosesmann
 A - Colette Kress
 Q - Hans Mosesmann
 A - Colette Kressinformation and serve up a set of instructions. Just by throwing the information at the
@@ -180,9 +172,7 @@ with. The overall performance on GPUs is quite, quite high, quite higher in term
 what we're seeing in terms of FPGAs.
 So in summary, probably when we focus on our hyperscales and the works that we're
 doing on deep learning we haven't seen FPGAs really been talked about in that area.
-Mostly GPUs have been used in most of these environments.FINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Q - Hans Mosesmann
+Mostly GPUs have been used in most of these environments.Q - Hans Mosesmann
 A - Colette Kress
 Okay. Any questions from the audience on data centers, deep learning? Okay, let's
 move along.
@@ -221,9 +211,7 @@ And in intensity of how quickly can we move this technology to real cars that ar
 the road. But our overall platform approach that we did with DRIVE PX and DRIVE
 PX's focus on a scalable open platform that we're enabling to work with the
 manufactures collectively on both that development platform and the software that's
-going to be necessary to take this forward.FINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11Q - Hans Mosesmann
+going to be necessary to take this forward.Q - Hans Mosesmann
 A - Colette Kress
 Q - Hans Mosesmann
 A - Colette Kress
@@ -262,9 +250,7 @@ engaged with or the Tier 1s share that vision right now on the autonomous design
 
 I would say --
 
-Can you repeat the question?FINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Colette Kress
+Can you repeat the question?A - Colette Kress
 Q - Hans Mosesmann
 Q - Unidentified Participant
 A - Colette Kress
@@ -302,9 +288,7 @@ whether with a vibration and/or a light. So step-by-step telling a driver about 
 that are going on around the car. But the driver is still driving.
 So you're assisting the overall driver in the alertness of what is going on. Our
 approach has been on an overall central computing we'll take information from
-around the car all over and take the possibility of a sensor radar and/or a cameraFINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Unidentified Participant
+around the car all over and take the possibility of a sensor radar and/or a cameraQ - Unidentified Participant
 A - Colette Kress
 Q - Hans Mosesmann
 A - Colette Kressand using that information together, not necessarily just from an identification of
@@ -341,9 +325,7 @@ to the ITC.
 Now those cases haven't exactly moved in our right manner so far. But we'll continue
 to see those through and approach anymore IP really as a business case, can we look
 through and ensure that we will have the profitability that we want to if we take any
-more cases forward.FINAL TRANSCRIPT 2016-03-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Hans Mosesmann
+more cases forward.Q - Hans Mosesmann
 A - Colette Kress
 Q - Hans Mosesmann
 A - Colette Kress

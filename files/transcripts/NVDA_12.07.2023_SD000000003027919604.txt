@@ -18,9 +18,7 @@ disclosures and forward-looking statements.
 So Ian, over to you and then we can get started.
 
 Yes. Just really quick. I mean as a reminder, this presentation, what we'll talk about,
-that may contain forward statements.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 17Brett Simpson
+that may contain forward statements.Brett Simpson
 A - Brett Simpson
 A - Ian BuckInvestors are advised to always read the reports filed with the SEC for information
 related to the risks and uncertainties facing our business.
@@ -60,9 +58,7 @@ be GPUs, DPUs, CPUs, to provide that infrastructure and in addition, all of the
 software that goes on to that.
 And NVIDIA as a company has more software engineers and hardware engineers
 because of the opportunity and capability and what we deliver. So certainly, LLM,
-generative AI ramps. From NVIDIA product perspective, I've been extremely thrilledFINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 17A - Brett Simpson
+generative AI ramps. From NVIDIA product perspective, I've been extremely thrilledA - Brett Simpson
 A - Ian Buckabout the progress that we've made on Grace and Grace Hopper. You've seen the --
 we've brought it to market now. You've seen the opportunity that it can provide as a
 single-node inferencing platform.
@@ -103,9 +99,7 @@ row or across the data center because AI is, at scale, training for sure, and in
 cases, inference for large models are happening at scale.
 They are a different kind of compute where you have the -- and as a result, the
 engagement with those enterprise is a little bit different. Instead of renting
-infrastructure, you're training a foundational model for your business. It starts withFINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 17the data. And one thing you may have noticed the leaders is the number of tokens to
+infrastructure, you're training a foundational model for your business. It starts withthe data. And one thing you may have noticed the leaders is the number of tokens to
 train has gone up quite a bit. I need to make that graph.
 But it is -- we used to -- everyone feels satisfied maybe with a few hundred million to
 1 billion, now one trillion token.
@@ -143,9 +137,7 @@ factory (inaudible). And we have a copy of that with our own Eos supercomputer t
 we use for ourselves and for our own research in AI factory. And our DGX Cloud
 business is an AI factory business, make that capability available to the Fortune 500s
 to be able to have access to an AI factory, while the rest of the world continues to
-build up this capability in region or in their clouds.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 17A - Brett Simpson
+build up this capability in region or in their clouds.A - Brett Simpson
 A - Ian Buck
 A - Brett Simpson
 A - Ian Buck
@@ -184,9 +176,7 @@ division these days. How much of that is coming from DGX Cloud?
 Yes. So I'm actually not sure if we've provided up to date or what information we
 provided in terms of number of customers and others. I think Simona and the team
 can provide you more of what's been publicly disclosed in earnings and elsewhere.
-I'd guide there. I focus on many of -- and see many of the lighthouse customers.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 17A - Brett Simpson
+I'd guide there. I focus on many of -- and see many of the lighthouse customers.A - Brett Simpson
 A - Ian BuckAnd the customers are, in some case, obvious in the sense that they have data that
 they want to turn and capitalize on and train on to build the foundational model for
 their service and capability. So ServiceNow, IT data. What better minefield than
@@ -227,9 +217,7 @@ continue to run their business and integrate and scale.
 
 That's driving the software revenue for you guys -- services revenue, yes?
 
-Very much.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 17A - Brett Simpson
+Very much.A - Brett Simpson
 A - Ian Buck
 Okay. Can we talk a little bit about demand, Ian, because I guess we've seen
 obviously great trends in the last 12 months or so. But looking beyond, say 2024,
@@ -269,9 +257,7 @@ We've been talking about AI nations and sovereign AI a little bit, and you defin
 have seen that tick up in 2023 and will continue to tick up moving forward. We
 recently announced a supercomputer in the U.K., Isambard-AI. It's being built with
 Grace Hopper. It is -- it was announced actually by the Prime Minister as an
-opportunity to build -- so that U.K. could have a resource for AI for the -- for itsFINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 17A - Brett Simpson
+opportunity to build -- so that U.K. could have a resource for AI for the -- for itsA - Brett Simpson
 A - Ian Bucknation, its companies, its industries and put itself right in the forefront of being an AI
 nation.
 We obviously see it happening here in the U.S. And we're seeing it happen across
@@ -312,9 +298,7 @@ public Internet or what can be acquired in the market. But really, what the valu
 moving forward is the ability to connect with the proprietary data of the (inaudible)
 enterprises. And that's like 90% of the data. So we're at the very beginning because
 what you have seen has been what the -- internally, those hyperscalers use for their
-own services and the data they have, which obviously they benefited greatly.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 17A - Brett Simpson
+own services and the data they have, which obviously they benefited greatly.A - Brett Simpson
 A - Ian BuckExternally, what you've seen is what's been trained on the public Internet, which is --
 is made of something that the rest of the entire world can now experiencing and
 become part of the zeitgeist of the vernacular of everyone, of every consumer [ph].
@@ -356,9 +340,7 @@ big GPU, what can we do to improve the throughput, looking at the -- running the
 model?
 And so we have a massive effort, and it's codified in the software called TensorRT.
 TensorRT is our run time for optimizing all things inference. And we recently this year
-actually announced TensorRT-LLM, which is an open source, so you don't getFINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 17A - Brett Simpsonencouraged. We push all of our innovations into TensorRT-LLM to make it the best
+actually announced TensorRT-LLM, which is an open source, so you don't getA - Brett Simpsonencouraged. We push all of our innovations into TensorRT-LLM to make it the best
 possible software platform for running inference. When you do inference, you can
 do things even more extreme than you could do in training because you just need to
 make -- training needs to maintain a certain level of computational, numerical
@@ -398,9 +380,7 @@ AI server, just by adding an L4 to L4s and some people put an 8. But it's -- we 
 all of that available to us. And in fact, our gambit of GPUs and form factors continues
 to expand.
 
-And how would Microsoft be doing copilot inference today?FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 17A - Ian Buck
+And how would Microsoft be doing copilot inference today?A - Ian Buck
 A - Brett Simpson
 A - Ian Buck
 You should ask them that question about how they're doing the copilot. I worked
@@ -440,9 +420,7 @@ that have a sense of perspective or know what's going on and be thoughtful about
 the compares and what's being claimed and making sure that the information is --
 that you have all the latest. We've announced H200. We've -- those blogs I talked
 about with TensorRT and NeMo and transformer engines and (inaudible) published
-all the numbers and they're real end-to-end. So we open source all that.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 17A - Brett Simpson
+all the numbers and they're real end-to-end. So we open source all that.A - Brett Simpson
 A - Unidentified Participant
 A - Ian BuckWe provide the full accuracy and throughput with the latest NVIDIA software. And
 that's really important because the innovations are happening so quickly, you always
@@ -482,9 +460,7 @@ H100 and the claims that they make against of superior performance to the H100?
 
 Like I said before, I encourage the community to look very closely at how the end-to-
 end workload is measured and the performance that is delivered. It's why we
-participate in industry standard benchmarks like MLPerf. MLPerf was created byFINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 17A - Unidentified Participant
+participate in industry standard benchmarks like MLPerf. MLPerf was created byA - Unidentified Participant
 A - Ian BuckGoogle and Meta and others in the industry and has an end-to-end benchmarking in
 that, which includes accuracy and throughput both for training and for inference. So
 you can see the work that we've -- and contributing to the basket of models, we've
@@ -523,9 +499,7 @@ compute, it just moves data, you want to densify.
 By densifying, by bringing the compute closer together, you spend less energy, less
 joules, less watts on moving data and you can optimize for costs as well going from
 optics to copper to PCB. That extends even further inside the chip. The cheapest way
-to move data within the piece of silicon.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 17A - Unidentified Participant
+to move data within the piece of silicon.A - Unidentified Participant
 A - Ian BuckChiplets are great in that regard. It does provide for a better form of -- entire form of
 communication. But of course building it would -- it's still better to obviously be able
 to communicate on a chip than be able to drive signs across chip or across multichip
@@ -566,9 +540,7 @@ And you're starting to see that now. So that will grow. The ratio of those 2, pe
 diﬃcult, you're -- I'm trying to compare two exponentials and that's never a good
 idea. But they are both -- we will see the enterprise become a significant portion in
 terms of consuming the factory. It's early days now, but that is definitely a trend that's
-slash on.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 17A - Unidentified Participant
+slash on.A - Unidentified Participant
 A - Ian BuckThe new one, I think is the sovereign and AI nations. The ability for every -- every
 country sees that has learned that AI can be a resource to their domestic industry
 and to help their nation advance, either solving important problems in healthcare or
@@ -608,9 +580,7 @@ allow that, but it is a very small portion of the activation that we do across t
 sustainability system and whether it be the clouds and be sustainability, the on-
 prems or the supercomputers. From a software stack standpoint, the same is true. So
 we -- our NeMo framework, the framework that we use to train the megatron -- the
-megatron models at 530 billion parameters.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 17A - Brett Simpson
+megatron models at 530 billion parameters.A - Brett Simpson
 A - Ian BuckThe same AI framework that Amazon used to do those models and to train some of
 those use cases, we open source. It's all on data. The TensorRT LLM software stack
 provide -- has all of those reference models of the latest Llamas and Falcons and you
@@ -651,9 +621,7 @@ Yes. Unfortunately, I can't go into the road map in that regard. So some of thos
 questions are good questions, but it can't be answered in this forum. I will -- look, the
 opportunity for AI is one that is -- hits every nation, every country, every business and
 be able to meet that demand and obviously stay within the regulation, we'll continue
-to do so. I mean as we have.FINAL TRANSCRIPT 2023-12-07
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 17A - Brett Simpson
+to do so. I mean as we have.A - Brett Simpson
 A - Unidentified Participant
 A - Brett Simpson
 A - Ian BuckSo that is the -- we're adhering to serve the AI market. However we can and we get

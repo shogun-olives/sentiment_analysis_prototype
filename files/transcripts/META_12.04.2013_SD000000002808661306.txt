@@ -22,9 +22,7 @@ upload 350 million photos per day. And we have over 240 billion photos. In terms
 activity, 4.5 billion likes, post and comments. So it's very busy.
 In 2012, we spent $1.24 billion on capital expenditures related to the purchase of
 servers, networking equipment, storage and the construction of data centers. So at
-that scale, eﬃciency has been a high priority for us for several years.FINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 2 of 10Now I want to talk a little bit about our infrastructure. Now here, we have three
+that scale, eﬃciency has been a high priority for us for several years.Now I want to talk a little bit about our infrastructure. Now here, we have three
 different sections. One is called a front-end cluster, a service cluster and a backend
 cluster. That cluster refers to a cluster of servers. And that is the same as the network
 cluster. So we think a lot about the network. We do tons of bandwidth inside of our
@@ -63,9 +61,7 @@ that data together, ranks it via a ranking algorithm and then sends off the top 
 stories. So there is actually many more options. But it just ranks them and gives you
 the top 10.
 Now, if you back up a little bit and think about the life of a hit on Facebook -- so a hit
-is a single request to Facebook -- what you have -- and I've drawn time going down -FINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 3 of 10- is a request starts and that Web server contacts mem cache. So it talks to our
+is a single request to Facebook -- what you have -- and I've drawn time going down -- is a request starts and that Web server contacts mem cache. So it talks to our
 caching servers. It then authenticates the hit, makes sure I am who I say I am.
 It might hit a newsfeed server. The newsfeed server returns a bunch of IDs. Those IDs
 correspond to stories, content that we want to show the user. All of that content is
@@ -100,9 +96,7 @@ Some things are up, some things are down. But across the board, you do very well
 You also get easier operations. So in other facilities, not our facilities, you might have
 a server-to-technician ratio of about 450 servers to 1 technician. Because all of our
 servers are the same, we are able to attain about a 20,000-to-1 server-to-technician
-ratio. So the servers are all very easy to maintain, very easy to operate.FINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 4 of 10Some of the drawbacks. So we do have five major servers -- major services. The
+ratio. So the servers are all very easy to maintain, very easy to operate.Some of the drawbacks. So we do have five major servers -- major services. The
 other 35 services need to conform to that standard. So they might not fit quite
 perfectly. And there is also 200 minor services that all are important for Facebook.
 The other thing happens is the needs of the services change over time. And we will
@@ -140,9 +134,7 @@ think we can stack them in a different way and put them online in that rack in a
 different way that can provide a really nice eﬃciency win.
 So we think our building blocks of compute, which is really just a standard server;
 RAM. So a RAM sled. So a server with a lot of RAM on it; a storage sled, which is
-again just one of our NOC servers. So 15 drives. And you replace that fast expanderFINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 5 of 10with a small server in the back; and then ﬂash, where we have a ﬂash appliance or a
+again just one of our NOC servers. So 15 drives. And you replace that fast expanderwith a small server in the back; and then ﬂash, where we have a ﬂash appliance or a
 ﬂash sled rather than individual PCIe ﬂashcards.
 And the three wins of disaggregated rack are that server/service fit. So when you
 have only five servers, you really want to be able to fit those servers -- -- you really
@@ -181,9 +173,7 @@ crazy; ﬂash can last for a while.
 And so if you think of a disaggregated rack for graph search, rather than have 40
 identical servers, we could have a mix of these building blocks. So, so many
 compute units, a couple, maybe one ﬂash sled, a couple of RAM sleds and a storage
-sled. And the big thing that is different here is that later. So when graph search has aFINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 6 of 10CPU win, right they are more eﬃcient in CPU. What that means is that they can
+sled. And the big thing that is different here is that later. So when graph search has aCPU win, right they are more eﬃcient in CPU. What that means is that they can
 handle more traﬃc with the same amount of ﬂash and RAM.
 Well if they are more eﬃcient, then we want to add more ﬂash or add more RAM and
 get more traﬃc going to that server. And the way to do that is to just add another
@@ -220,9 +210,7 @@ pretty much the same. Architecturally, the servers that we install in a data cen
 no different than a desktop from 20 years ago.
 Now, there has been lots of innovations that have been huge. So the math
 coprocessor, that was great. It turns out if you have a dedicated chip to do math, it is
-much faster than a general processor.FINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 7 of 10SMP allowed two processors per server. So having two processors is better than
+much faster than a general processor.SMP allowed two processors per server. So having two processors is better than
 having one because you can amortize the rest of the server costs over two
 processors, twice as much compute. Multicore processors, that was key in scaling
 Moore's Law. GPU’s do vector math very well. And ﬂash memory is the most recent
@@ -262,9 +250,7 @@ just buy one component? And so system-on-a-chip does that.
 And the non-obvious win with system-on-a-chip is that it simplifies the rest of the
 computer. So when you are building a motherboard, when you are building pretty
 much any modern server, you might have an 8-layer board or even a 12-layer board
-that has a lot of complexity. Well if you pull in a lot of the components into a singleFINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 8 of 10chip, then all of this becomes a much simpler design. And simpler means higher
+that has a lot of complexity. Well if you pull in a lot of the components into a singlechip, then all of this becomes a much simpler design. And simpler means higher
 yields which means much cheaper. So pulling these things together, the stuff we buy
 anyway all the time, onto a system-on-a-chip design is a really nice one.
 So really, SOC processors developed for servers that are derived from either the
@@ -301,9 +287,7 @@ going for better and better ﬂashcards and better and better ﬂash devices.
 We actually think that by looking in the opposite direction towards very poor-quality
 ﬂash, low write endurance, highly-dense ﬂash, low IOPS performance -- so the
 opposite of what computers normally do is bigger, better, faster -- we want to go the
-other way -- we think that a cold ﬂash storage option is possible.FINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 9 of 10A - Stephen JuSo some of our workloads that we see and some of the workloads we think pretty
+other way -- we think that a cold ﬂash storage option is possible.A - Stephen JuSo some of our workloads that we see and some of the workloads we think pretty
 much everyone will see is something where you want to write to it once. But then not
 read it very -- and you want to write to it once, read it all the time. But you don't have
 to update it.
@@ -339,9 +323,7 @@ Questions And Answers
 
 Jason, we probably have time for one short question. But I mean you bring up the
 notion of the cold ﬂash here. I mean, how is that materially different versus the other
-technologies that are already widely available?FINAL TRANSCRIPT 2013-12-04
-Meta Platforms Inc (META US Equity)
-Page 10 of 10A - Jason Taylor
+technologies that are already widely available?A - Jason Taylor
 A - Stephen Ju
 A - Jason Taylor
 Sure. So when we say -- so you asked how is cold ﬂash materially different than

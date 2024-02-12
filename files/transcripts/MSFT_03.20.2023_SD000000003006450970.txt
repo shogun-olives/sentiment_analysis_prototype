@@ -21,9 +21,7 @@ So, I think you've probably heard me say "Data truly is the lifeblood of AI." An
 is, without question, having just an amazing moment right now in the marketplace.
 It's truly a call back to "how is your data organized?" It is a complete get-your-data-
 house-in-order moment as customers get really excited about what these AI
-capabilities can do for them.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 2 of 20A - Brett Iversen
+capabilities can do for them.A - Brett Iversen
 A - Jessica Hawk
 A - Brett IversenWe -- there's some just horror stats out there about data, data growth, data sprawl,
 data lakes everywhere.
@@ -55,9 +53,7 @@ well. Eric, we'll bring you in as well. And also, thank you both for spending th
 today.
 One of the questions we ask in all of these sessions, given our financial investor
 audience, how would you think about the growth opportunity?
-How would you help frame that for folks watching?FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 3 of 20A - Eric Boyd
+How would you help frame that for folks watching?A - Eric Boyd
 A - Brett Iversen
 A - Eric Boyd
 A - Brett Iversen
@@ -93,9 +89,7 @@ It's a -- yes.
 They're excited about it. Jessica, back to you. In terms of data and AI and its
 relevance with the broader Microsoft Cloud vision, how would you help people think
 of all of that together and where we're differentiated?
-FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 4 of 20A - Brett Iversen
+A - Brett Iversen
 A - Jessica Hawk
 A - Brett Iversen
 A - Jessica HawkSure. Well in the halls, you'll often hear me saying, "It's really an all-boats-rise
@@ -129,9 +123,7 @@ starting to really understand, this is unique. This is the biggest innovation in
 lifetime. They're seeing it and experiencing it and benefiting from it in their first-party
 solutions that they're using from Microsoft. And now they can go build their own
 internal or customer-facing applications using our Azure services. It's truly an all-
-boats-rise moment for our customers.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 5 of 20A - Brett Iversen
+boats-rise moment for our customers.A - Brett Iversen
 A - Eric Boyd
 Yes. I have to think it's super comforting for our customers to hear we're using all of
 the same tech that we're wanting them to embrace as well. Moving back to you, Eric,
@@ -162,9 +154,7 @@ OpenAI shows up there. These are models that we've built, that we make available
 that customers can just go and call directly on their own.
 Then, at the top level, we have Applied AI Services, where we look at the most
 common patterns that we see on these cognitive services, and then we package
-them.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 6 of 20A - Brett Iversen
+them.A - Brett Iversen
 A - Eric Boyd
 A - Brett Iversen
 A - Eric BoydSo, Form Recognizer makes it really easy to take this invoice and get it into that
@@ -196,9 +186,7 @@ transformational change that we see really happening across the industry.
 We realized early on that OpenAI had the same vision that we did for how you could
 continue to grow and scale and make these models way more powerful by
 continuing to train.
-So that really formed the bedrock of our partnership.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 7 of 20A - Brett Iversen
+So that really formed the bedrock of our partnership.A - Brett Iversen
 A - Jessica Hawk
 A - Brett Iversen
 A - Jessica HawkAnd so, from there, we just see tremendous advantage. I mean we've renewed our
@@ -232,9 +220,7 @@ that was launched on the Internet last year.
 When I talk about customer imagination getting sparked, I think it used to be that
 technology tended to follow what consumer demand was creating.
 So, an example, pick your favorite app. It used to be, when companies would write
-business requirement documents to go build something, back in the day it was, youFINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 8 of 20A - Brett Iversen
+business requirement documents to go build something, back in the day it was, youA - Brett Iversen
 A - Jessica Hawk
 A - Eric Boyd
 A - Brett Iversen
@@ -272,9 +258,7 @@ Across the board. Yes, right.
 It's just really amazing.
 
 Yes, it's -- on that, I know that we're in the right space when I'm not just getting
-questions from co-workers or friends that are also in tech companies and otherFINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 9 of 20A - Eric Boyd
+questions from co-workers or friends that are also in tech companies and otherA - Eric Boyd
 A - Brett Iversen
 A - Eric Boyd
 A - Brett Iversen
@@ -308,9 +292,7 @@ It's not just because I used to write software.
 But really, it's because I think we should be very grounded in the experience or the
 journey that we're all going through together, which is, this is a true technological
 advancement, and I think folks are waiting a bit to see how it plays out in terms of
-what's going to happen with the developer experience, for example.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 10 of 20A - Brett Iversen
+what's going to happen with the developer experience, for example.A - Brett Iversen
 A - Jessica Hawk
 A - Brett IversenWhen we announced GitHub Copilot at Ignite, we were really excited about the
 capability.
@@ -342,9 +324,7 @@ So, Viva Sales is another one that really jumps out at me as pretty exciting.
 I think it's just like increasing developer capacity, which is a concern for pretty much
 every customer that we talk to.
 
-Right. They're getting out.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 11 of 20A - Jessica Hawk
+Right. They're getting out.A - Jessica Hawk
 A - Brett Iversen
 A - Eric Boyd
 A - Jessica Hawk
@@ -378,9 +358,7 @@ up, and how do we need to really tune these models to work best?
 And so, through that, we're able to offer just much better services on the other end
 to our third-party customers, having proven them at scale, having proven out the use
 cases with them and really made them work great.
-FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 12 of 20A - Brett Iversen
+A - Brett Iversen
 A - Jessica Hawk
 A - Brett Iversen
 A - Jessica Hawk
@@ -417,9 +395,7 @@ They estimated that it would've taken them 11 years to do what they did in just 
 days and weeks --
 
 It's amazing.
-FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 13 of 20-- using the OpenAI Service, and so -- and the team is doing their best work.
+-- using the OpenAI Service, and so -- and the team is doing their best work.
 So CarMax is one example. There's a global Austrian construction company called
 STRABAG, very similar situation. They were already getting the need for digital
 transformation.
@@ -448,9 +424,7 @@ Then, I said I would come back to it. I think this is a -- it's a rallying cry f
 customers who have maybe been looking at digital transformation and getting the
 data house in order. The other part of my portfolio, I've got all the databases.
 There's -- customers are trying to make it a priority. There's no question that there's
-massive capability and advantage that comes from getting your data house in order.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 14 of 20A - Brett Iversen
+massive capability and advantage that comes from getting your data house in order.A - Brett Iversen
 A - Jessica Hawk
 A - Brett Iversen
 A - Jessica Hawk
@@ -487,9 +461,7 @@ how we think about that, et cetera.
 Sure.
 
 Maybe you can help us with that piece as well.
-FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 15 of 20A - Brett Iversen
+A - Brett Iversen
 A - Jessica HawkWell I'd start with what you just said there, which is, there's an education journey --
 
 Yes.
@@ -519,9 +491,7 @@ So, we did something that I think is somewhat unusual for us.
 We took all of the learning that we developed between our engineering and our
 legal team that's really focused on helping think through these issues, and we made
 that experience and the standard with which we operate against those principles
-available to the market.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 16 of 20A - Brett Iversen
+available to the market.A - Brett Iversen
 A - Eric Boyd
 A - Brett Iversen
 A - Eric Boyd
@@ -558,9 +528,7 @@ into the finance group for a minute to help us think about this, what would you 
 with our audience?
 
 I was a math major, so I can do some math.
-FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 17 of 20A - Eric Boyd
+A - Eric Boyd
 A - Brett Iversen
 A - Eric BoydI have no doubt.
 
@@ -592,9 +560,7 @@ So, I think we'll see a lot of benefit from that.
 The other interesting thing to think about as you think about sort of this, the cost
 associated with it. AI has gravity to it.
 So being able to really have these models, and then they need to run on data, the
-closer you can sort of bring that data to the model, the speed of light is a factor.FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 18 of 20A - Brett Iversen
+closer you can sort of bring that data to the model, the speed of light is a factor.A - Brett Iversen
 A - Eric Boyd
 A - Brett Iversen
 A - Eric Boyd
@@ -629,9 +595,7 @@ accelerate the work that they've been doing?
 One -- before I close this out, one last question maybe for both of you. Yes, just final
 thoughts and/or kind of what do you think about in terms of what's next?
 Like, what would you -- where would you leave our audience in terms of closing
-thoughts on this topic?FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 19 of 20A - Eric Boyd
+thoughts on this topic?A - Eric Boyd
 A - Brett Iversen
 A - Jessica Hawk
 Yes. I mean, I opened with, I think this is one of the most significant technological
@@ -663,9 +627,7 @@ business-and-IT-together moment, which is, I think personally pretty satisfying 
 folks that work in this. Lots of conversation around, "We see the opportunity. The use
 cases are really quite broad. Let's get excited and focused on, where do we want to
 start.
-Then let's just go."FINAL TRANSCRIPT 2023-03-20
-Microsoft Corp (MSFT US Equity)
-Page 20 of 20A - Brett IversenSo, a lot of our partners are getting super engaged in the conversation in terms of
+Then let's just go."A - Brett IversenSo, a lot of our partners are getting super engaged in the conversation in terms of
 helping customers continue with their digital transformation and then prioritize,
 where do we start with all the opportunity?
 So, I think us continuing to support our partners as they build up those practices is

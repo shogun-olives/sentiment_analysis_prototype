@@ -16,9 +16,7 @@ Form 10-K, filed with the SEC on January 28, 2016. In addition, please note that
 forward-looking statements that Brad makes are based on assumptions as of today.
 And Facebook undertakes no obligation to update these statements as a result of
 new information or future events.
-So maybe with that, just quick intros. Thanks, Brad. How do you follow that?FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 2 of 18Andrew Appel
+So maybe with that, just quick intros. Thanks, Brad. How do you follow that?Andrew Appel
 Dave Morgan
 Steve Hasker
 Brad Smallwood
@@ -58,9 +56,7 @@ digital in general. So all of our data partnerships and measurement partnerships
 we have is run through my team.
 
 Terrific. Well I think we've been fortunate enough to get some great presentations
-during the course of today from a number of the world's largest media companies,FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 3 of 18Dave Morgan
+during the course of today from a number of the world's largest media companies,Dave Morgan
 Craig Mineard
 Dave Morgan
 Craig Mineardmany of which are somewhat concerned with remaining relevant in an industry
@@ -100,9 +96,7 @@ currency.
 
 Steve, what are you doing specifically around changing the currency? As someone
 that's really been at the forefront of currency over the years, how do you view the
-landscape today and how will it evolve?FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 4 of 18Steve Hasker
+landscape today and how will it evolve?Steve Hasker
 Andrew Appel
 So Craig, there are two things we're doing. The first is we have developed a total
 audience measurement system which measures any piece of content, be it
@@ -143,9 +137,7 @@ consumer is exposed to.
 That is the challenge that I think is going on in media around viewability, is as it
 fragments, it becomes increasingly diﬃcult to figure out who's exposed to what. And
 you can try and come up with another proxy metric with a sample as one
-mechanism. And that may work; it may work. Or the system just may outgun it. AndFINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 5 of 18Craig Mineard
+mechanism. And that may work; it may work. Or the system just may outgun it. AndCraig Mineard
 Andrew Appelin the end, you come down to -- hold on, Steve -- you come down to -- from our view
 it's about what exposures does each and every person have. And then more
 importantly, what impact does it have on their behavior?
@@ -185,9 +177,7 @@ sample-based or metric-based -- you know, you'll end up buying the inventory
 based on did it actually change the behavior of the consumer in my product? And I
 think someday Facebook will move. You know, if they could get measurement and
 scale, I think -- I don't know, I can't speak for Brad. But I would imagine that you
-would sell inventory based on --FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 6 of 18Steve Hasker
+would sell inventory based on --Steve Hasker
 Craig Mineard
 Brad Smallwood
 Before Brad jumps in, I suppose we have a slightly different point of view on how this
@@ -226,9 +216,7 @@ coaching to maybe guys that are more focused on linear?
 Well maybe we could take a slightly different slant. Instead of focusing on the
 measurement answer, we'd focus on the actual problem, which is how our
 advertisers, like how should they be buying media? What's the most effective way for
-them to be mining media? And if you look back many years ago, their only choiceFINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 7 of 18Craig Mineard
+them to be mining media? And if you look back many years ago, their only choiceCraig Mineard
 Brad Smallwood
 Craig Mineard
 Steve Haskerwas to buy large television shows. It made total sense to do what they're doing,
@@ -265,9 +253,7 @@ across all media, is that as people are exposed to media across different platfo
 actually makes both forms of media a lot more impactful.
 
 So a rising tide lifts all boats.
-FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 8 of 18Dave MorganYes, one of the things you've got to look at in that sort of study like that e-Marketer is
+Dave MorganYes, one of the things you've got to look at in that sort of study like that e-Marketer is
 study is who are the respondents? I think there are digital publishers. And
 Facebook's not one of them. But there are digital publishers who like to tell a story
 about their size based on, to Andrew's point about based on views or uniques or
@@ -306,9 +292,7 @@ And we've got Turner, NBCU, Viacom, each with their own new efforts, which is gr
 There's probably going to be five more companies by this upfront that will have
 press releases out, because there's about eight paid companies. So five more. And
 the three that have them out will have five more press releases. And we're going to
-see a lot of different ﬂavors of innovation that will lead to some more change.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 9 of 18Andrew Appel
+see a lot of different ﬂavors of innovation that will lead to some more change.Andrew Appel
 Dave Morgan
 Andrew Appel
 Dave Morgan
@@ -345,9 +329,7 @@ At a granular individual level?
 Name and address.
 
 And you group it up and evaluate it across platforms? Well why is it that none of the
-advertisers that we touch have a clue about that? Because my sense is that there's --FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 10 of 18Dave Morgan
+advertisers that we touch have a clue about that? Because my sense is that there's --Dave Morgan
 Craig Mineard
 Andrew Appel
 Dave Morgan
@@ -384,9 +366,7 @@ well, which is these big datasets have, as Andrew said, tremendous precision for
 those who actually are producing the data. So in other words, what about the people
 who purchase products using cash? What about the 20% of Americans who don't
 have cable or satellite? You have to include them. If you're going to be
-representative of the population, you have to include them.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 11 of 18Brad Smallwood
+representative of the population, you have to include them.Brad Smallwood
 Craig Mineard
 Brad Smallwood
 Andrew AppelIf you're going to produce analytics to show what happens when a particular person
@@ -426,9 +406,7 @@ And they have a portfolio of exposures. And the analytics need to be fast enough
 and sophisticated enough to be able to model out how that portfolio of exposures
 and experiences changes their behavior. But in the end, the datasets today are
 fragmenting so quickly, it's becoming diﬃcult just to figure out the portfolio of
-exposure.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 12 of 18Brad Smallwood
+exposure.Brad Smallwood
 Dave Morgan
 Craig Mineard
 Andrew Appel
@@ -469,9 +447,7 @@ Well I can't speak to a specific thing. But I keep coming back to the fragmentat
 viewability and what people, what audiences and what exposures they see. So
 there's a company out there. And maybe it's yours, that is able to pull together at
 scale across all the platforms what exposures. And then what impact it has on the
-actual behavior. Because in the end, the behavior change, the sales lift, or the brandFINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 13 of 18Dave Morgan
+actual behavior. Because in the end, the behavior change, the sales lift, or the brandDave Morgan
 Steve Hasker
 Brad Smallwood
 Craig Mineardmeasures are what matters. That's what you do it for. And all the data that we look at
@@ -513,9 +489,7 @@ We don't comment on specific competitors. I will say the concept of buying acros
 all different forms of media is a very interesting space. And I think there's a lot of
 development there.
 
-Great, thank you. Let's jump to Q&A.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 14 of 18Unidentified Participant
+Great, thank you. Let's jump to Q&A.Unidentified Participant
 Brad Smallwood
 Steve Hasker
 Unidentified Participant
@@ -551,9 +525,7 @@ because it didn't have to prove itself.
 Unidentified Participant (inaudible ? microphone inaccessible) should be held to the
 same standard as digital guys. That's all.
 No, no, they're not, because in most cases, it's done for channel, channel driving and
-management. And if McDonald's takes the spend down in Milwaukee by 20 pointsFINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 15 of 18Unidentified Participant
+management. And if McDonald's takes the spend down in Milwaukee by 20 pointsUnidentified Participant
 Andrew Appel
 Steve Hasker
 Unidentified Participanton TV, they lose three points of market share that week. And they get yelled at and
@@ -588,9 +560,7 @@ So they're not captive metrics. They're not grading their own homework. And that
 where the market needs to go. And when we get everybody to that point, the same
 reach metrics and the same accountability metrics, then this whole conversation
 goes away.
-Privacy.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 16 of 18Craig Mineard
+Privacy.Craig Mineard
 Brad Smallwood
 Andrew Appel
 Craig Mineard
@@ -626,9 +596,7 @@ third parties come in and leverage some of our assets in order to do the third-p
 measurement, because people don't want us measuring ourselves. And so that's
 really been our strategy, is using, like enabling third-party measurement by using our
 data assets.
-Just one last one there. And then we should wrap.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 17 of 18Steve Hasker
+Just one last one there. And then we should wrap.Steve Hasker
 Andrew Appel
 Craig MineardMost of the conversation has been about affecting or causing transactions, yet at
 least in some of the businesses I've been in, there's an awful lot of advertising that's
@@ -668,6 +636,4 @@ it in real time. And to do that, you've got to aggregate data in one platform to
 able to measure it in real time. And then adjust, optimize against it.
 
 Well thank you to the panel. I'm delighted that we could get such a terrific group
-here today. I really thank you for the support. And thanks to the audience.FINAL TRANSCRIPT 2016-02-23
-Meta Platforms Inc (META US Equity)
-Page 18 of 18
+here today. I really thank you for the support. And thanks to the audience.

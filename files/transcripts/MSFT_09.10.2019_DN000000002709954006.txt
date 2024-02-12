@@ -23,9 +23,7 @@ EVP of the division at the time.
 And at this point, my team does everything from datacenters to all the software
 involved, plus silicon all the way out to crazy stuff like quantum computing. So, it's
 kind of a dream job for a systems engineer in the middle of a big inﬂection point, so
-lots of fun.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 2 of 19Karl Keirstead
+lots of fun.Karl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zander
@@ -64,9 +62,7 @@ capabilities that we've got, allows you to run those workloads. I can run them a
 cheaper benefit. I can actually start having the cloud do task that I'm otherwise
 paying my own personnel to do. That actually frees them up and that budget, you
 can apply it towards the innovation agenda. So, we're definitely benefiting from that
-continued growth that comes through with that.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 3 of 19Karl Keirstead
+continued growth that comes through with that.Karl Keirstead
 Jason ZanderI think you're also seeing us land quite a number of very large kind of mega deals.
 You've seen us do the announcements, Fortune -- top Fortune 50 companies that,
 again, are looking at Microsoft as their trusted partner to be able to carry forward
@@ -105,9 +101,7 @@ the hiring for software engineers has continued to grow rapidly, and it's not ju
 like us. It's automotive companies, it's Fin sector, it's basically healthcare. All these
 folks are hiring more and more engineers as the technology becomes more and
 more a core part of their business. So again, I think you need that kind of structural
-advantage of the cloud and the edge. And then, frankly, in some cases, you mightFINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 4 of 19Karl Keirstead
+advantage of the cloud and the edge. And then, frankly, in some cases, you mightKarl Keirstead
 Jason Zanderactually wind up competing against the cloud vendor, in which case having a
 hyperscale cloud vendor like us to partner with, it's a necessity.
 
@@ -146,9 +140,7 @@ we're doing IoT for upstream oil and gas expiration, looking at seismic and othe
 things, as well. So again, moving beyond kind of like your SAP portfolio and a bunch
 of those things, which were the first round, into this kind of innovation side. So, that's
 an awesome journey, and the cool thing is we actually did it together along the way.
-So, the teams and the companies both came along for that ride.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 5 of 19Karl Keirstead
+So, the teams and the companies both came along for that ride.Karl Keirstead
 Jason Zander
 Karl Keirstead
 Yeah. And Jason, I'm sure this happens, but when we talked to some large Fortune
@@ -188,9 +180,7 @@ hockey stick. The ﬂoodgates just open. When the first few workloads go, and yo
 got people that are trained and they know how to do it, all of a sudden, they're kind
 of like, why isn't the rest of the stuff running here? And we see the usages start to
 spike.
-FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 6 of 19Jason Zander
+Jason Zander
 Karl KeirsteadSo maybe just a little bit further on this migration pace because everybody, and this
 was affecting talks certainly yesterday, and the last few weeks, they're worried about
 things like slowing economic growth, or recession, et cetera. Azure has never been
@@ -231,9 +221,7 @@ migration activity, you're doing in terms of partnerships with vendors that othe
 vendors that are important parts of their stacks. So to the extent that firms are sort of
 wedded to VMware technology. You've signed a partnership with VMware to make it
 easier to port. You've introduced Azure Stack to create a similar environment on-
-premise.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 7 of 19Jason Zander
+premise.Jason Zander
 Karl KeirsteadWhat the kinds of things Microsoft can do like that to accelerate growth? I suppose
 what you're also doing is making it easier and potentially cheaper to migrate existing
 SQL Server, Windows Server on-prem workloads into Azure. That's probably an
@@ -274,9 +262,7 @@ it to the latest version, or maybe -- and this is the spirit of the question -- 
 catalyst, actually, to get you thinking about Azure instead of a version upgrade. So
 can you talk a little bit about what you're seeing on those kinds of upgrade
 decisions, and sort of, I don't know, you probably can't give us an exact number, but
-what portion of them results in customers just saying, let's go to Azure?FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 8 of 19Jason Zander
+what portion of them results in customers just saying, let's go to Azure?Jason Zander
 Karl Keirstead
 Yeah. There's a huge interest in this. As you point out, so end of service, the 2008 R2,
 and the first thing I would tell you, I actually own SQL Server. I own Windows Server.
@@ -314,9 +300,7 @@ it's an awesome place to go. It's financially viable, and I think it's actually 
 run rate and the maintenance perspective for the teams. I mean, that's what's most
 appealing.
 
-Okay. Can we talk a little bit about the competitive environment, Jason?FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 9 of 19Jason Zander
+Okay. Can we talk a little bit about the competitive environment, Jason?Jason Zander
 Karl Keirstead
 Jason Zander
 Certainly.
@@ -356,9 +340,7 @@ And it's going to have to be that case because why would I go pump my money, it'
 a weird boardroom conversation. Yeah, I spent hundreds of millions of dollars on this
 vendor, and yeah, they are number one competitor, going forward, like we're just not
 going to do that, in which case there is this kind of opportunity for us to come in,
-again, as a trusted vendor that you probably have been working with for, again,FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 10 of 19Karl Keirstead
+again, as a trusted vendor that you probably have been working with for, again,Karl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zanderprobably 20 years or more, with all the technology, with all the investments. We
@@ -397,9 +379,7 @@ whatever. And it's really shifted significantly. As you point out, over the last
 as we've seen the growth, it's generally not a question of, if cloud, it's really like
 when and how should I approach it. That's been more the way that it's worked.
 And I mention that because, in a lot of ways, that cost conversation went away
-reasonably early on because, A, when you're making these decisions, you're actuallyFINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 11 of 19Karl Keirstead
+reasonably early on because, A, when you're making these decisions, you're actuallyKarl Keirstead
 Jason Zanderlanding in the cloud where it's already a lot cheaper to go run in your environment.
 And so, the first comparison to start off with is not even how are the cloud vendors
 duking it out, but also like, well, what's the cost between what I'm already doing and
@@ -438,9 +418,7 @@ Generally, what I've seen is when you go to the hyperscale cloud, there's a sign
 amount of infrastructure work that you need. And so, typically our competition is
 often a Seattle competition. It's a northwest cloudy city kind of competition, often.
 From an Oracle perspective, we did announce our partnership with Oracle, which
-we're happy with. We've got additional things coming up, so you see that greatFINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 12 of 19Karl Keirstead
+we're happy with. We've got additional things coming up, so you see that greatKarl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zandercombination. Obviously, a lot of Fortune 100 firms heavily bet on Oracle. They've got
@@ -480,9 +458,7 @@ was a growth. So from my perspective, yeah, I'm still spending CapEx. And it's l
 we've guided that we're going to continue to spend CapEx.
 
 Over $5 billion this coming quarter.
-FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 13 of 19Karl Keirstead
+Karl Keirstead
 Jason Zander
 Karl Keirstead
 Jason ZanderYes. Exactly. So, I mean, and Amy's kind of discussed and disclosed all that. So, that
@@ -521,9 +497,7 @@ so, we can do better jobs on densities. I can host more workloads on the existin
 that I've already bought that gives us even more eﬃciency there, as well. And we can
 essentially do that, plus, we do a lot of innovation across a lot of different parts of the
 work. And so, I think, you've seen we are spending CapEx and continue to chase the
-TAM. The TAM is huge. So, we're continuing to grow. You've seen our growth comeFINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 14 of 19Karl Keirstead
+TAM. The TAM is huge. So, we're continuing to grow. You've seen our growth comeKarl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zanderthrough. And then, we're working very hard on the eﬃciencies part of the house, and
@@ -561,9 +535,7 @@ I can start actually tuning the ﬂeet. So, the ﬂeet isn't 100% uniform SKUs w
 single node that you pull out looks exactly the same. We wind up with the right kind
 of balance, and at the end of the day, our job is to really improve the silicon and then
 the utilization and then figure out how to get great adjacencies across workloads so
-that we can actually share those resources in a very eﬃcient manner.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 15 of 19Karl Keirstead
+that we can actually share those resources in a very eﬃcient manner.Karl Keirstead
 Jason Zander
 Karl Keirstead
 Jason ZanderI mean, this is part of what it means to be hyper scale and it's one of the things that's
@@ -603,9 +575,7 @@ single year just on security. There's over 3,500 people that work on that. We've
 a significant amount of work to protect Oﬃce, protect the documents that are in
 there. And we take all of this thing, like a trillion signals go through the system, and
 we apply it not only to that but to Windows, we apply it into the Oﬃce ecosystem,
-and then we actually make it available for our third parties as well.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 16 of 19Karl Keirstead
+and then we actually make it available for our third parties as well.Karl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zander
@@ -643,9 +613,7 @@ built into Azure. And we get to leverage the same tech and we've built even more
 top of it. We have put in the best practice analyzers and the sort of things that frankly
 we've had for Windows Server and SQL Server for 20 years.
 And just to be objective, I mean, Microsoft, we have faced our own security crises in
-the past, a long time ago. That was kind of a trial by fire and we had to change a lotFINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 17 of 19Karl Keirstead
+the past, a long time ago. That was kind of a trial by fire and we had to change a lotKarl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zanderof the practices in the work that we did in order to be able to protect our ecosystem.
@@ -684,9 +652,7 @@ Imagine what happens when we get more and more edge compute and protocols
 and devices that can go handle that.
 You've seen the line-up that we announced at E3, all the cool streaming that's
 coming even on your phone but mounted on controllers. That one's pretty freaking
-awesome. If I look at things we're doing with all of the online streaming, the gamingFINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 18 of 19Karl Keirstead
+awesome. If I look at things we're doing with all of the online streaming, the gamingKarl Keirstead
 Jason Zander
 Karl Keirstead
 Jason Zandercommunity, I think you're seeing more of that as well. So, there's a lot of content, a
@@ -726,7 +692,5 @@ Thank you, Jason, for coming. We're honored that you were able to ﬂy down and 
 us and meet our clients and help them think through Azure and this cloud business,
 and what a fun ride you've had. Keep it up.
 
-Perfect. Thank you so much.FINAL TRANSCRIPT 2019-09-10
-Microsoft Corp (MSFT US Equity)
-Page 19 of 19Karl Keirstead
+Perfect. Thank you so much.Karl Keirstead
 Thank you.

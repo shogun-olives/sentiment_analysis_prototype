@@ -16,9 +16,7 @@ Absolutely. So if you know Microsoft, we are functionally aligned. So we have
 engineering leadership, sales leadership, product marketing leadership, finance
 leadership, that really is organized by our commercial solution areas. And so, I have
 the pleasure of being responsible for product -- global product marketing for three
-of our business units.FINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 2 of 10Q - Brad Zelnick
+of our business units.Q - Brad Zelnick
 A - Alysa TaylorSo our data and AI business, our business applications division, as well as our global
 industry. And we'll talk a little bit more about, I know, specifically about business
 applications. But if you think about the world in which we live in today with so much
@@ -60,9 +58,7 @@ finance, operations, supply chain that an organization needs to run their busine
 And so that's the intentional journey that we've been on, and we've grown from,
 back in the day, we were a single-digit largely on-prem business to now we are
 predominantly cloud with consecutive growth quarter-over-quarter and we just
-announced last quarter 49% cloud growth.FINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 3 of 10Q - Brad Zelnick
+announced last quarter 49% cloud growth.Q - Brad Zelnick
 A - Alysa Taylor
 Q - Brad Zelnick
 (Multiple Speakers) great [ph]. It's been an amazing journey in just about five years,
@@ -104,9 +100,7 @@ business cycle and understand the spending patterns and a common investor
 debate this past year has been around the relative priority of front oﬃce versus back
 oﬃce application investments and you're in a great position to see what customers
 are doing. So, what are you seeing across the Dynamics portfolio in that regard? And
-maybe can you speak about why it's so important that Microsoft has an integratedFINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 4 of 10A - Alysa Taylor
+maybe can you speak about why it's so important that Microsoft has an integratedA - Alysa Taylor
 Q - Brad Zelnick
 A - Alysa Taylorvalue proposition that spans from both? And I know you touched on that a little bit
 already, but I'd love to hear more.
@@ -147,9 +141,7 @@ The app gap is one, which is every organization has a unique set of needs and yo
 start with the base functions. But the reality is to run a business every day, you have
 very specific applications that you need to run that business. And the rate in which all
 industries are evolving and the market is evolving, you don't have years to build
-enterprise applications anymore. It's just too -- the landscape changes too quickly.FINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 5 of 10Q - Brad Zelnick
+enterprise applications anymore. It's just too -- the landscape changes too quickly.Q - Brad Zelnick
 A - Alysa TaylorAnd so, plus there is the scarcity of resources in terms of the number of developers.
 And so what you see is this term citizen developer but though it's really those that
 are closest to the problem, how do you empower them with the tools to be able to
@@ -192,9 +184,7 @@ tasks that where you have systems that were -- it's very diﬃcult to be able to
 that data out of those systems. And so we think RPA and a Power Automate, which is
 our Microsoft Cloud service, just has huge potential to make individuals more
 productive and also help organizations win, back to the comment I made about the
-scarcity of resources really being able to help organizations adapt where they mightFINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 6 of 10Q - Brad Zelnick
+scarcity of resources really being able to help organizations adapt where they mightQ - Brad Zelnick
 A - Alysa Taylornot have frontline workers to be able to take on some of those tasks. And so it's just -
 - it's a really nice way for organizations to become more eﬃcient and to become
 more productive.
@@ -233,9 +223,7 @@ expertise to round out the portfolio.
 And then also investing in our customer success and making sure that our -- the
 organizations, all the way that we serve, all the way from pre-sales to post-sales feel
 very supported by Microsoft in our ecosystem. So there is just -- there has been
-equal investment on the engineering side and building out the product strategy asFINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 7 of 10Q - Brad Zelnick
+equal investment on the engineering side and building out the product strategy asQ - Brad Zelnick
 A - Alysa Taylorthere has been on the go-to-market side to make sure that we're serving our
 customers in the best way possible.
 
@@ -276,9 +264,7 @@ talked about automation and making sure that employees are as productive and as
 eﬃcient as they possibly can be. And so I think the investments in automation will
 persist.
 And then how quickly supply chains were disrupted and continue to be disrupted,
-and so we are making sure that you have a supply -- you have supply chain visibility,FINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 8 of 10Q - Brad Zelnick
+and so we are making sure that you have a supply -- you have supply chain visibility,Q - Brad Zelnick
 A - Alysa Tayloryou have very responsive commerce systems. These are all things that we continue
 to see organizations invest in because it's just -- I don't think we go back to the world
 that we were two years ago and so organizations are having to adopt and having to
@@ -320,9 +306,7 @@ Dynamics is just another way for us to do, we talked about data-first. Using all
 of data, whether that be operational data, transactional data, observational data,
 bring all of that data together to be able to create those -- create an understanding
 of your customers, of your supply chain, of your employees and really using that data
-in a way to be able to analyze it and then garner insights from it. And so it's all formsFINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 9 of 10Q - Brad Zelnick
+in a way to be able to analyze it and then garner insights from it. And so it's all formsQ - Brad Zelnick
 A - Alysa Taylor
 Q - Brad Zelnick
 A - Alysa Taylorof data and that's why mixed reality is part of -- a very strategic part of our portfolio,
@@ -363,9 +347,7 @@ having a common data model that allows that data to either be in an operational
 structured form, but then also be able to have unstructured data in Synapse and
 have this data kind of all be part of the Microsoft Cloud data services.
 
-That makes perfect sense. And that was...FINAL TRANSCRIPT 2021-09-09
-Microsoft Corp (MSFT US Equity)
-Page 10 of 10Q - Brad Zelnick
+That makes perfect sense. And that was...Q - Brad Zelnick
 A - Alysa Taylor
 Q - Brad Zelnick
 A - Alysa Taylor(Multiple Speakers) We'll talk more and you'll hear us talk more and more about the

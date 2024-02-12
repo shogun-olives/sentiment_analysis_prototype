@@ -14,9 +14,7 @@ stock is at 110. To me, that's amazing. I'm sure behind the scenes, it took a lo
 to make that happen. From the outside, it's just been a fun story to watch, Amy.
 
 Yes, I would describe it as work. Yes. That's -- so it didn't just happen. But yes, I agree.
-FINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13Amy E. Hood
+Amy E. Hood
 Karl Emil Keirstead
 Q - Karl Emil Keirstead
 A - Amy E. HoodYou've got to be proud of the change that's happened at Microsoft.
@@ -58,9 +56,7 @@ markets we've chosen. They are amongst the highest growers in the overall market
 called IT or GDP or whatever spend buckets you want to put it in. And secondly, I
 feel quite good about our execution within each of those, both product portfolio,
 competitive positioning and then the day-to-day execution in the market. I think for
-most of us, the most important thing we can do is set a great example of focusing onFINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13Q - Karl Emil Keirstead
+most of us, the most important thing we can do is set a great example of focusing onQ - Karl Emil Keirstead
 A - Amy E. Hood
 Q - Karl Emil Keirsteadthings you can control. And that tends to be, I think, how we all manage inside the
 company.
@@ -106,9 +102,7 @@ base has gotten larger and larger.
 Got it. And Amy, as we think about trying to model Azure, all of us are trying, one
 thing that we can look to, increasingly now, before, it felt like Azure was, in the early
 days, a pay-as-you-use model. Now as a lot of large enterprises have become Azure
-customers and they make large upfront commitments, a lot of those commitmentsFINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13A - Amy E. Hood
+customers and they make large upfront commitments, a lot of those commitmentsA - Amy E. Hood
 Q - Karl Emil Keirstead
 A - Amy E. Hooddon't sit on the intelligent cloud revenue piece, they sit on the balance sheet, on
 unearned revenues and in your backlog. It's certainly tricky to know how much of
@@ -153,9 +147,7 @@ you just put up a terrific quarter. So as you think about the variables for that
 in fiscal '19, what are they? And what gives you the confidence maybe that, that big
 enterprise server product business can hang in there at something close to the, call
 it, low to mid-single-digit growth rates that you just put up?
-FINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13Q - Karl Emil Keirstead
+Q - Karl Emil Keirstead
 A - Amy E. Hood
 Q - Karl Emil KeirsteadIn general, people really want to decomponentize the KPI that I would prefer. The
 server KPI that we talk a lot about, the server and products and services KPI, is really
@@ -198,9 +190,7 @@ that's been another big success story, where I don't think many people years ago
 given the size, maturity of that business, would have thought that the commercial
 Oﬃce growth rate could be 10%-plus and staying at that level. So congratulations on
 that. And I think that you spent part of your career at Microsoft in that unit, didn't you
-Amy?FINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13A - Amy E. Hood
+Amy?A - Amy E. Hood
 Q - Karl Emil Keirstead
 A - Amy E. Hood
 Yes, I did. I did. I've spent a long time at Microsoft. So I've almost been in every unit
@@ -247,9 +237,7 @@ call the first-line or front-line worker scenarios, which allows us to even grow
 installed base inside enterprises. You've seen us talk about the possibilities for
 HoloLens in that scenario. I think of HoloLens or many other extensions as just
 another endpoint for Oﬃce, where we can reach a new user, a new experience. And
-some of those will also be mobile-only, which is also a really good opportunity for us,FINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13Q - Karl Emil Keirstead
+some of those will also be mobile-only, which is also a really good opportunity for us,Q - Karl Emil Keirstead
 A - Amy E. Hood
 Q - Karl Emil Keirstead
 A - Amy E. Hoodespecially in emerging markets, products like Kaizala, which we tend to think of as a
@@ -294,9 +282,7 @@ different from Dynamics or Oﬃce, (technical diﬃculty) (sims), that's made di
 and more viable and more expressive by being built on a cloud that is intelligent. It's
 a workload that allows us to build a cloud that's built for different latency
 expectations, different usage patterns, different levels of 3D, with different levels of
-interactivity. It's one of the best expressions of a digital transformation of a business,FINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13Q - Karl Emil Keirstead
+interactivity. It's one of the best expressions of a digital transformation of a business,Q - Karl Emil Keirstead
 A - Amy E. Hood
 Q - Karl Emil Keirsteadthe way transactions occur, in-product, user-led, user-loved. If I said, "Well what do
 we want from every product that we ship at Microsoft," it looks exactly the way
@@ -342,9 +328,7 @@ stage or maybe further along thinking through how that's going to play out. On t
 surface, it seems like Microsoft is actually pretty well positioned. You have Azure to
 leverage. You've got, as you just said, first-party content. You've got long-standing
 relationships with third-party developers. So it does seem you're well positioned. I
-think the uncertainty is the time frame for this to evolve. What are your thoughts onFINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13A - Amy E. Hood
+think the uncertainty is the time frame for this to evolve. What are your thoughts onA - Amy E. Hood
 Q - Karl Emil Keirstead
 A - Amy E. Hoodthat? I know you're not going to tell us it's going to take off next year. But maybe
 what are some of the challenges to getting that liftoff? And any sense for when it can
@@ -390,9 +374,7 @@ you applied, was it -- was LinkedIn going to be an important and growing part of
 professional network and a gig economy or professional identity, as people in their
 professional identities move more and more online? Of course. Of course it was, on
 a global basis. Was Minecraft symbolic of an ability to spread gaming across mobile,
-PC and console in a way that hadn't been possible before? Of course, it was. And isFINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13Q - Karl Emil Keirstead
+PC and console in a way that hadn't been possible before? Of course, it was. And isQ - Karl Emil Keirstead
 A - Amy E. Hood
 Q - Karl Emil KeirsteadGitHub representative of what I believe will be the largest growing and one of the
 largest growing important groups of workers in the world? Yes, developers. Today,
@@ -438,9 +420,7 @@ I kind of think those other ones were, too. But you're welcome to ask me this mo
 
 Perhaps these ones are slightly more so. So I feel like the messaging from you and
 the Microsoft team, as we look into fiscal '19 on the broad question of growth and
-margins, is that it's tilted a little bit more towards the growth camp, where it feels likeFINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13A - Amy E. Hood
+margins, is that it's tilted a little bit more towards the growth camp, where it feels likeA - Amy E. Hood
 Q - Karl Emil Keirstead
 A - Amy E. Hooda lot of your larger businesses are performing well and this is the year to focus on
 that rather than focus on driving material operating leverage. And is that, broadly
@@ -485,9 +465,7 @@ small or any other size, you've seen us use that as well, as a tool. And I feel 
 about the returns we've gotten from especially our larger acquisitions that we've
 made inorganically as a use of cash. I don't see any difference in how we've
 continued to view that. I think it remains an important component that Satya and I as
-well as the management (technical diﬃculty) board focus on. But I don't think it'sFINAL TRANSCRIPT 2018-09-12
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13Q - Karl Emil Keirstead
+well as the management (technical diﬃculty) board focus on. But I don't think it'sQ - Karl Emil Keirstead
 A - Amy E. Hood
 Q - Karl Emil Keirstead
 A - Amy E. Hood

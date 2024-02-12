@@ -1,9 +1,7 @@
 Good morning. And thank you for joining us today. On the call with me today are
 Satya Nadella, Chief Executive Oﬃcer, Jeff Weiner, Chief Executive Oﬃcer of
 LinkedIn; Amy Hood, Chief Financial Oﬃcer; and Brad Smith, President and Chief
-Legal Oﬃcer.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 2 of 21Satya NadellaOn our website, microsoft.com/investor, is a slide deck which follows today's
+Legal Oﬃcer.Satya NadellaOn our website, microsoft.com/investor, is a slide deck which follows today's
 presentation. As a reminder, today's call is being webcast live and recorded. If you
 ask a question, it will be included in our live transmission, in the transcript and in any
 future use of the recording. You can replay the call and view the transcript on the
@@ -42,9 +40,7 @@ It starts with the mission; LinkedIn and Microsoft share a mission. When we talk
 Microsoft mission, we talk about empowering every person and every organization
 and the planet to achieve more. There is no better way to really realize that mission
 than to connect the world's professionals to make them more productive and
-successful. That's really what this merger and this acquisition is about. So let me, withFINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 3 of 21Jeff Weiner
+successful. That's really what this merger and this acquisition is about. So let me, withJeff Weiner
 Satya Nadellathat, turn it over to Jeff to talk a little bit about the vibrancy of the LinkedIn asset, as
 we see it today.
 
@@ -85,9 +81,7 @@ think, are well known to you. We have over 1.2 billion users of Oﬃce, now over
 million active devices running Windows 10; 70 million MAU, or monthly active users
 of Oﬃce 365. Dynamics is 8 million paid seats. Now you take all of that and look at
 LinkedIn, 433 million members, 105 million monthly active users. And all of the other
-data you see on this slide.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 4 of 21Jeff Weiner
+data you see on this slide.Jeff Weiner
 Satya NadellaNow, besides the numbers though, what's underneath that is this rich information
 graph. What we have at Microsoft today is what we refer to as the Microsoft graph
 where people and their relationships, their calendars, their work artifacts, their
@@ -128,9 +122,7 @@ possible.
 
 Great. And so let me now take you through a couple of illustrations to bring this
 home. I want to start, in fact, with talking about more of usage of Oﬃce 365 and
-LinkedIn and how that will get lit up and really help drive engagement on both sides.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 5 of 21Jeff WeinerTake the most obvious one, which is the profile. LinkedIn essentially becomes the
+LinkedIn and how that will get lit up and really help drive engagement on both sides.Jeff WeinerTake the most obvious one, which is the profile. LinkedIn essentially becomes the
 social fabric across all of Microsoft, whether it is in Outlook, in Excel or Skype or
 PowerPoint or Word or SharePoint. Now you have the ability, whenever you're
 looking up a contact, not only to see that contact with the information that's
@@ -170,9 +162,7 @@ value for members.
 I'm going to now turn towards customers. And historically, it's been about several
 different areas of focus. Hire, market, sell and learn. And we think this combination
 has the opportunity to tap new addressable markets that Satya mentioned earlier
-and create true differentiation in the marketplace.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 6 of 21Let's start with Social Selling. It's something we've been focused on now for a couple
+and create true differentiation in the marketplace.Let's start with Social Selling. It's something we've been focused on now for a couple
 of years through our Sales Navigator tool. It provides business intelligence to
 salespeople and enables them to take selling to social selling. What does that mean
 specifically? It means being able to identify exactly the right prospect by virtue of
@@ -213,9 +203,7 @@ certification, have a job for the rest of their lives, that's over, if not comin
 People are going to need -- and that's by virtue of the pace and acceleration of
 innovation. People need access to always on learning and continuous education. So
 they can be trained for the jobs that are and will be and not just the jobs that once
-were.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 7 of 21Satya Nadella
+were.Satya Nadella
 Brad SmithSo how can we expand the LinkedIn footprint here? Through our acquisition of
 Lynda, we picked up a world-class entity and the creation of course work that we
 believe could transform learning development. Now imagine that course work
@@ -254,9 +242,7 @@ Union and Canada before we close the transaction. There will be a small number o
 additional countries where we will need to obtain regulatory approval before
 implementing the transaction in those particular countries. I did want to note that
 we've concluded that regulatory approval is not going to be required in Japan,
-South Korea or China.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 8 of 21Amy HoodThen second, as we noted in the slides we are confident about our prospects for
+South Korea or China.Amy HoodThen second, as we noted in the slides we are confident about our prospects for
 obtaining regulatory approval by the end of this calendar year. We are really
 confident for three reasons. Number one, this merger is what antitrust lawyers would
 term highly complementary. There's not any significant overlap between the
@@ -296,9 +282,7 @@ transaction to be accretive to non-GAAP EPS. In this context, non-GAAP does incl
 stock-based compensation expense, consistent with Microsoft's reporting treatment.
 But excludes the anticipated impact of purchase accounting adjustments as well as
 integration and transaction-related expenses. We'll provide an update on the EPS
-impact after the transaction closes.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 9 of 21Satya Nadella
+impact after the transaction closes.Satya Nadella
 Chris Suh
 Operator
 Q - Brent ThillNow let me turn to the topic of capital allocation. We will continue with our
@@ -333,9 +317,7 @@ Brent Thill, UBS.
 
 Thanks. Satya, you've had a tougher track record in large M&A; why is this deal
 different? And for Jeff, one of key concerns has been the growth rate of the company
-ha been decelerating. Why are you confident in that re-acceleration?FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 10 of 21A - Satya Nadella
+ha been decelerating. Why are you confident in that re-acceleration?A - Satya Nadella
 A - Jeff Weiner
 Thanks, Brent. The way I think about M&A acquisitions, Brent, is those three
 dimensions I talked about. What is the total addressable market opportunities? Any
@@ -377,9 +359,7 @@ contextually are as relevant as it gets in terms of our addressable opportunity.
 you think about bringing that social layer, the power of connections, professional
 identity, to specific properties, specific assets like Outlook, Calendar, Oﬃce,
 Windows, Skype, Dynamics. And we are both very excited about where we can take
-that part of the business.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 11 of 21Q - Brent Thill
+that part of the business.Q - Brent Thill
 A - Chris Suh
 Operator
 Q - Zane Chrane
@@ -419,9 +399,7 @@ Jeff to add, if needed. When I think about the opportunity, when it comes to
 machine learning and analytics, it is tremendous opportunity for us. Think about the
 org analytics that we have today inside of Oﬃce 365, it is one of the big
 differentiators of what we call Oﬃce 365 E5. And this is about being able to take that
-Microsoft Graph and then bring insights at the next level.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 12 of 21A - Amy Hood
+Microsoft Graph and then bring insights at the next level.A - Amy Hood
 Q - Zane Chrane
 A - Chris Suh
 Operator
@@ -461,9 +439,7 @@ strategy that you had at LinkedIn, obviously, before this announcement? And if y
 can talk a little bit about what -- if -- how you're going to leverage Microsoft's
 Enterprise sales force in order to reach the maximum vision. I'm just wondering what
 type of cross-pollinization we might be thinking about. Thank you.
-FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 13 of 21A - Satya Nadella
+A - Satya Nadella
 Q - Heather Bellini
 A - Amy Hood
 A - Chris Suh
@@ -502,9 +478,7 @@ Great. Thanks.
 Thanks, Heather.
 
 We will take the next question, please.
-Mark Marcon, Robert W. Baird.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 14 of 21Q - Mark Marcon
+Mark Marcon, Robert W. Baird.Q - Mark Marcon
 A - Satya Nadella
 A - Amy Hood
 Q - Mark Marcon
@@ -542,9 +516,7 @@ Great, thank you.
 
 Thanks, Mark. We will take the next question, please.
 Ed Maguire, CLSA.
-FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 15 of 21A - Satya Nadella
+A - Satya Nadella
 A - Amy Hood
 Q - Ed Maguire
 A - Chris Suh
@@ -584,9 +556,7 @@ Great, thank you.
 
 We will take the next question, please.
 Kash Rangan, Bank of America.
-FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 16 of 21A - Satya Nadella
+A - Satya Nadella
 Q - Kash Rangan
 A - Amy HoodHi, thank you very much. I've always been dreaming of logging into my workspace
 with a Facebook, LinkedIn type of a landing page and then doing (the work net
@@ -628,9 +598,7 @@ control and that's going to be our core principle.
 
 Very exciting. Thanks a lot.
 
-Thanks, Kash.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 17 of 21A - Chris Suh
+Thanks, Kash.A - Chris Suh
 Operator
 Q - Philip Winslow
 A - Satya Nadella
@@ -667,9 +635,7 @@ Thanks, Phil.
 
 We will take the next question, please.
 Walter Pritchard, Citi.
-FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 18 of 21A - Amy Hood
+A - Amy Hood
 A - Chris Suh
 Operator
 Q - Ross MacMillan
@@ -708,9 +674,7 @@ Yes, no we -- that's a very exciting opportunity for us. We have Dynamics today,
 obviously participates across CRM and ERP and HCM categories in a very light way, I
 would say today. So to me being able to take what LinkedIn has done with the
 Recruiter and Talent Management Solutions. And looking at what are the natural
-ways to expand into Dynamics is going to be the next set of things that we will do.FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 19 of 21Q - Ross MacMillan
+ways to expand into Dynamics is going to be the next set of things that we will do.Q - Ross MacMillan
 A - Amy Hood
 Q - Ross MacMillan
 A - Chris Suh
@@ -750,9 +714,7 @@ run the business going forward?
 
 Actually, we've -- good question, Brad. I feel very confident with the amount of net
 cash that we have in order to continue to aggressively invest on the capital side,
-both in terms of building out our commercial cloud infrastructure and beingFINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 20 of 21Q - Brad Reback
+both in terms of building out our commercial cloud infrastructure and beingQ - Brad Reback
 A - Chris Suh
 Operator
 Q - Michael Turits
@@ -792,9 +754,7 @@ in Northern California talking about empowering professionals, our Xbox teams ar
 in Southern California talking about empowering gamers. We encourage everyone
 to check out their press briefing, which just started on Xbox.com. Thanks again for
 joining us.
-FINAL TRANSCRIPT 2016-06-13
-Microsoft Corp (MSFT US Equity)
-Page 21 of 21A - Satya Nadella
+A - Satya Nadella
 A - Jeff Weiner
 OperatorThanks all.
 

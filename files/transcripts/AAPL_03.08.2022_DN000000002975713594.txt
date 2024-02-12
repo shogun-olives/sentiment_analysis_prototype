@@ -23,9 +23,7 @@ that in mind, we've got something exciting to share. (Video Presentation) Introd
 Friday night baseball on Apple TV+. Tune in on Friday nights for two games you can
 only see on Apple TV+. We're really excited about this. This is going to be the best
 way to watch baseball on your iPhone, iPad, Mac and anywhere that Apple TV+ is
-available. And now, let's turn to our products, starting with iPhone.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 2 of 13Francesca SweetIPhone 13 is incredible. It features our powerful A15 Bionic chip. And together with
+available. And now, let's turn to our products, starting with iPhone.Francesca SweetIPhone 13 is incredible. It features our powerful A15 Bionic chip. And together with
 iOS 15, the world's most advanced mobile operating system, iPhone 13 delivers
 experiences like cinematic mode, ProRes video, provides all day battery life and
 power stunning graphics on the immersive Super Retina XDR display. In addition to
@@ -66,9 +64,7 @@ handle demand and cast smoothly and eﬃciently. It's up to 1.8 times faster tha
 iPhone 8 and even faster compared to older models. This CPU is faster than all the
 competition at any price. The 4-core GPU is great for graphics intensive use cases
 and delivers a monumental improvement for people upgrading. That means when
-you buckle up for race in Apple Arcade's next big release, Gear.Club Stradale, theFINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 3 of 13realistic graphics make you feel just like you're on the roads of Tuscany behind the
+you buckle up for race in Apple Arcade's next big release, Gear.Club Stradale, therealistic graphics make you feel just like you're on the roads of Tuscany behind the
 wheel of your dream car.
 Apps can take advantage of the 16-core Neural Engine perfect from machine
 learning task and capable of 15.8 trillion operations per second, which is 26 times
@@ -110,9 +106,7 @@ materials in the design of iPhone SE, like in the Taptic Engine where we use 100
 recycled rare earth elements and 100% recycled tungsten. iPhone SE is a fantastic
 new iPhone that brings the performance of A15 Bionic, the speed of 5G, better
 durability, better battery life, and advanced new camera capabilities. And it starts at
-just $429. Pre-orders start this Friday and iPhone SE will be available on March 18.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 4 of 13Timothy D. Cook
+just $429. Pre-orders start this Friday and iPhone SE will be available on March 18.Timothy D. Cook
 Angellina KyazikeNow back to Tim.
 
 The new iPhone SE brings the advanced features and exceptional performance of
@@ -153,9 +147,7 @@ megapixel Ultra Wide camera, which means it supports Center Stage. This has been
 hugely popular for connecting with friends, colleagues, and loved ones. And this
 means that now all iPad models feature Center Stage. Next, with its ultra portable
 design, we know users need fast wireless connectivity when they're on the go. That's
-why we're bringing ultra-fast 5G to iPad Air, perfect for when you're doing things likeFINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 5 of 13Timothy D. Cookusing SharePlay to watch movies with your friends wherever you are. And to support
+why we're bringing ultra-fast 5G to iPad Air, perfect for when you're doing things likeTimothy D. Cookusing SharePlay to watch movies with your friends wherever you are. And to support
 fast connection to drives, docks, and cameras, we're increasing the performance of
 the USB-C port. It is now twice as fast, so transferring large photos or videos is even
 quicker. And iPad Air is compatible with amazing accessories that make it even more
@@ -197,9 +189,7 @@ M1.
 And the newest MacBook Pro with M1 Pro and M1 Max has completely redefined
 what pros expect from a notebook. It simply has no equal. Customers are absolutely
 loving these systems. In fact, every quarter since we started shipping M1-based Macs
-has been record-breaking and we've outpaced the industry growth during this time.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 6 of 13John Ternus
+has been record-breaking and we've outpaced the industry growth during this time.John Ternus
 Johny SroujiAnd we're not stopping there. To tell you how we're going to take Mac even further,
 here's John.
 
@@ -241,9 +231,7 @@ It connects over 10,000 signals and provides an enormous 2.5 terabyte per second
 of low latency, inter-processor bandwidth between the two die using very little
 power. That's more than four times the bandwidth of the leading multi-chip
 interconnect technology. The result is an SoC with blazing performance due to low
-latency, massive bandwidth, and incredible power eﬃciency. And thanks to theFINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 7 of 13John Ternusmagic of the UltraFusion architecture, it behaves like a single chip to software and
+latency, massive bandwidth, and incredible power eﬃciency. And thanks to theJohn Ternusmagic of the UltraFusion architecture, it behaves like a single chip to software and
 preserves the benefits of the unified memory. M1 Ultra has 114 billion transistors.
 That's seven times more than M1. It's the most ever in a personal computer chip. And
 when you add it to the M1 family, you can see the huge difference in area between
@@ -286,9 +274,7 @@ deliver an amazing experience for our users. Everything is super fast and incred
 responsive, and the system and user data are protected with industry-leading
 security. The transition to Apple silicon has delivered the largest collection of apps
 ever for Mac, including iPhone and iPad apps, which can now run on Mac, and
-universal apps that unlock the full power of the M1 family.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 8 of 13Colleen NovielliAnd new apps with unbelievable performance continue to be released every week.
+universal apps that unlock the full power of the M1 family.Colleen NovielliAnd new apps with unbelievable performance continue to be released every week.
 We're thrilled with how well this transition is going. And because M1 Ultra looks like a
 single piece of silicon to software, apps will benefit from its extraordinary capabilities
 without any additional work. Let's hear what some of our developers have to say
@@ -328,9 +314,7 @@ unique double-sided blower pulling air into the system, across the entire
 circumference of the perforated aluminum base.
 The air moves over the custom circular power supply and through channels precisely
 placed to guide it to the chip's thermal module. Finally, the air is propelled through a
-low-impedance rear exhaust containing over 2,000 precisely-machined perforations.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 9 of 13And due to the eﬃciency of M1 Max and M1 Ultra, the sound is so minimal. For most
+low-impedance rear exhaust containing over 2,000 precisely-machined perforations.And due to the eﬃciency of M1 Max and M1 Ultra, the sound is so minimal. For most
 workloads, you'll barely even hear it. With this remarkably compact and quiet system
 within arm's reach, you get easy access to essential connectivity throughout the day.
 So next, let's take a look at the high-performance I/O Mac Studio provides.
@@ -371,9 +355,7 @@ you can access up to 64 gigabytes of unified memory. And with M1 Ultra, you get 
 to 128 gigabytes of unified memory for enormous graphics tasks. No other graphics
 card comes close. And when it comes to storage, the SSD in Mac Studio delivers up
 to a super fast 7.4 gigabytes per second of performance and up to 8 terabytes
-capacity.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 10 of 13Nicole KordesToday, more and more cameras are capturing ProRes video, from the iPhone 13 Pro
+capacity.Nicole KordesToday, more and more cameras are capturing ProRes video, from the iPhone 13 Pro
 to the Sony Venice cinema camera. With M1 Ultra's extraordinarily powerful Media
 Engine, Mac Studio can play an unprecedented 18 streams of 8K ProRes 422 video.
 There is no other computer in the world that can do this. To sum up this game-
@@ -415,9 +397,7 @@ Display, to complete the ultimate studio experience. And to tell you more, here'
 Nicole.
 The Studio Display is in a class of its own. Along with a gorgeous screen, it's loaded
 with incredible features that no other desktop display can deliver. And it provides
-that integrated experience Mac users love. Let's start with the design. Studio DisplayFINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 11 of 13has an all-screen design with narrow borders. Its all-aluminum enclosure houses an
+that integrated experience Mac users love. Let's start with the design. Studio Displayhas an all-screen design with narrow borders. Its all-aluminum enclosure houses an
 advanced set of features in a slim profile, and the stand allows you to tilt the display
 up to 30 degrees. To customize Studio Display for your workspace, you can also
 choose a tilt- and height-adjustable stand option, which has a counterbalancing arm
@@ -459,9 +439,7 @@ Finally, to complete your setup, we've added a new silver and black color option
 the Magic Keyboard with Touch ID, the Magic Trackpad, and the Magic Mouse, which
 beautifully complement the design of the display. Studio Display has also been
 designed to minimize its environmental impact. It uses 100% recycled rare earth
-elements in all magnets and is free of numerous harmful substances. It also meetsFINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 12 of 13John Ternus
+elements in all magnets and is free of numerous harmful substances. It also meetsJohn Ternus
 Timothy D. Cookour high standards for energy eﬃciency. So that's the all-new Studio Display. No
 other display has this unique offering of 5K Retina resolution and advanced camera
 with Center Stage and incredibly high fidelity audio, all in a refined, aluminum
@@ -501,6 +479,4 @@ performance, technologies, and advancements, and the seamless integration of
 hardware and software enables us to provide experiences that no one else can. We
 look forward to seeing what our users will do with all of these incredible products
 and the impact they will have on people's lives. Thank you again for joining us. Have
-a great day.FINAL TRANSCRIPT 2022-03-08
-Apple Inc (AAPL US Equity)
-Page 13 of 13
+a great day.

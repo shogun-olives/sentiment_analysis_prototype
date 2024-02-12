@@ -23,9 +23,7 @@ business is now a proven growth business. It's very profitable, growing very str
 Cloud, it's very early days, lots of trials, lots of interest in that business. But revenues
 probably next year sometime.
 Smart devices, we had a slower start, we had a good year last year, we had a slow
-start this year because of a product delay but now we're growing strongly into theFINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12back half of the year. Then finally IP, IP is really a business that we've only just started,
+start this year because of a product delay but now we're growing strongly into theback half of the year. Then finally IP, IP is really a business that we've only just started,
 we've just majorized, if that's actually a verb, the GPU so that we can actually
 package it up and -- so that now is a stand-alone technology to companies building
 their own devices.
@@ -67,9 +65,7 @@ implemented it and we expect that to continue to grow. We have very strong marke
 share there.
 GRID is a brand new business. So I don't have revenue numbers to sort of report to
 you today. What I can report is customer trials. And so the basic, I should have to
-take a step back. And the basic philosophy here is to make virtual desktopFINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12infrastructures such as those of VMware and Citrix work better particularly to
+take a step back. And the basic philosophy here is to make virtual desktopinfrastructures such as those of VMware and Citrix work better particularly to
 improve -- specifically to improve the user experience in those implementations.
 Citrix's industry show -- user show conference in July this year (inaudible) and they
 all said that the user experience is the biggest obstacle to implementation because
@@ -107,9 +103,7 @@ patents. But the most fundamental patents and graphics. We hear from analysts an
 as you can see here we have over 500 key graphics patents and there is no one that
 even comes close. We have about 6,400 patent assets, that's patents and patents
 that have been filed but not yet granted. We have 6,500 engineers working on
-patents.FINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12Q - Ambrish Srivastava
+patents.Q - Ambrish Srivastava
 A - Chris Evenden
 Q - Ambrish Srivastava
 A - Chris EvendenAnd so we're filing, we've actually accelerated the filing rate, we're filing at around
@@ -147,9 +141,7 @@ Company has in mobile. And not just handsets also extending it to tablets, that 
 now committing to guiding to greater than $2.5 billion operating loss next year in
 mobile effort, kind of (pales) your loss that you have so far in terms of (multiple
 speakers)?
-FINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Q - Ambrish Srivastava
+Q - Ambrish Srivastava
 A - Chris EvendenIt is a very competitive market and I think one of the key factors that's going to lead
 to success in that market is having a product that you can -- what actually
 differentiates the user experience, right. So you have to be able to show to a device
@@ -190,9 +182,7 @@ don't know when before Intel has ever found itself to be an interloper in somebo
 else's ecosystem. That's a new game for them. So they're clearly serious about it.
 And I would never -- again, they have got a lot of clever engineers, a very well
 managed company. But they've got to try extra hard because they're moving into
-somebody else's ecosystem.FINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Q - Ambrish Srivastava
+somebody else's ecosystem.Q - Ambrish Srivastava
 A - Chris Evenden
 Q - Ambrish Srivastava
 A - Chris Evenden
@@ -235,9 +225,7 @@ would do the same.
 they said we had 85% share. That was back in July. So I supposed technically that's
 out of date. Intel had 4% and then other was 11%. So that's FPGAs and AMD (and
 things). So Intel obviously has been pretty active in this market. We actually -- I mean,
-if you remember back when they launched Larrabee, they launched it as a graphicsFINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12card and we said at the time no way is that a graphics card. But one day it will be a
+if you remember back when they launched Larrabee, they launched it as a graphicscard and we said at the time no way is that a graphics card. But one day it will be a
 Tesla competitor. And we were very clear about that from the very beginning and
 that's exactly where it ended up, right. They admitted that it wasn't going to be a
 graphics card after all and although Pat Gelsinger went on public (stages and said
@@ -277,9 +265,7 @@ So they just announced a new Chinese super computer and that certainly takes not
 the ratings in some regard. But I don't think they made much money on that
 purchase. I mean certainly ask Intel yourself just how much they made on that. I
 mean it was I think 32,000 Ivy Bridge CPUs and 48,000 Xeon Phis; this is public
-information. So if you charge a $1,000 for one and $1,500 for other, you get a $104FINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Q - Ambrish Srivastava
+information. So if you charge a $1,000 for one and $1,500 for other, you get a $104Q - Ambrish Srivastava
 A - Chris Evenden
 Q - Ambrish Srivastava
 A - Chris Evenden
@@ -321,9 +307,7 @@ revenues that you can say, you know what guys, this is beginning to set the need
 
 That's an interesting question. My best guess is second half of next year. So we
 started trials earlier this year an 18 to 24 months. But the software is maturing all the
-time. And we're supported natively in XenDesktop 7. We have a large degree ofFINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Q - Ambrish Srivastava
+time. And we're supported natively in XenDesktop 7. We have a large degree ofQ - Ambrish Srivastava
 A - Chris Evenden
 Q - Ambrish Srivastava
 A - Chris Evenden
@@ -364,9 +348,7 @@ how does Jen-Hsun or you sort of react to that situation?
 Yes. So we're pretty proud of how we spend on Tegra. And Jen-Hsun also thinks that
 mobile computing is strategically hugely important. We have some great devices out
 there now. We certainly had a diﬃcult first half of this year. But don't characterize it
-by just that six months. I mean it's -- I think the issue there was pretty clearly prettyFINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Q - Unidentified Participant
+by just that six months. I mean it's -- I think the issue there was pretty clearly prettyQ - Unidentified Participant
 A - Chris Evendenwell known. Tegra 4 was later than we we'd liked it to have been. And as a result, we
 weren't in a position to be compete for the major tablet wins and probably weren't
 really in a position to compete so much, would actually ship in the first half of this
@@ -403,9 +385,7 @@ have asked that is -- perhaps was something we should have thought about more
 when we thought about how we allocated costs.
 What is NVIDIA's plan with the SHIELD game device?
 
-What is our intention or --?FINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Unidentified Participant
+What is our intention or --?Q - Unidentified Participant
 A - Chris Evenden
 Q - Ambrish Srivastava
 Q - Unidentified Participant
@@ -443,9 +423,7 @@ I had one last. There is one there.
 (inaudible; microphone inaccessible)
 
 Yes. We've just posted them and they should be available now on our website.
-FINAL TRANSCRIPT 2013-12-10
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12A - Chris Evenden
+A - Chris Evenden
 Q - Ambrish Srivastava
 A - Chris EvendenChris, I had a last question on the core GPU business and you're right most of us
 didn't believe you when you were saying that that's doing better. But now what are

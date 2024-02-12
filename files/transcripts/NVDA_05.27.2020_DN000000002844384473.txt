@@ -22,9 +22,7 @@ growing nearly 40% year-over-year, as well as strong overall sequential growth i
 many of our businesses as well. This also marks the point where we close the overall
 Mellanox acquisition. Mellanox acquisition has been working for more than 15
 months, and we're excited to now almost hit the one-month mark of being together
-as one Company.FINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 10Matt Ramsay
+as one Company.Matt Ramsay
 Colette Kress
 Matt RamsayAdditionally, there were some great announcements right before we did our overall
 earnings. Our GTC, which we normally hold in the March timeframe in San Jose, we
@@ -64,9 +62,7 @@ into Q1 helped us with our overall Q1 results and we see that continuing as we m
 to overall Q2.
 
 Got it. You mentioned also, I mean, the big, the other big news was getting Mellanox
-closed, I know trying to get acquisitions done and over the line in this politicalFINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 10Colette Kress
+closed, I know trying to get acquisitions done and over the line in this politicalColette Kress
 Matt Ramsay
 Colette Kressenvironment is rather interesting, but congratulations on getting that done, and that
 whole business from a revenue perspective, I think holds into the data center
@@ -106,9 +102,7 @@ technology franchise is that -- is that the right way to characterize it and jus
 up on that, can you talk us through OpEx, I know you gave some numbers for the full
 year and they might have been a little higher than some folks that modeled. So, if
 any, any thoughts there would be helpful?
-FINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 10Yeah. So, it's a really good question of what type of M&A is NVIDIA interested into?
+Yeah. So, it's a really good question of what type of M&A is NVIDIA interested into?
 And what was its strategic rationale when it purchased overall Mellanox? It's very rare
 that we would make a decision based on financial engineering. It says, hey, the
 numbers look really great, because our culture is so strong. Our culture is extremely
@@ -149,9 +143,7 @@ overall purchase the overall acquisition. So, in our overall GAAP results in OpE
 well as in COGS, we have the amortization of two things, amortization of intangibles,
 intangible OpEx, as well as intangible overall COGS. That will continue for many
 years. You'll see things in terms of in the 5 years to 7 years, in terms of that
-amortization.FINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 10Matt Ramsay
+amortization.Matt Ramsay
 Colette KressSecondly, we have a step-up of the overall inventory to fair value. And you will also
 find that in our overall COGS. That is one time in nature, one time for overall Q2
 results. Thirdly, we have one-time items and deal costs, and other types of pieces
@@ -191,9 +183,7 @@ fully within the next year, but then any types of investments we see as probably
 something that we can cross invest, and not necessarily have to invest externally. So,
 those are some of the things that we are doing. There's of course, some eﬃciencies
 in the G&A that we'll see over time, after we feel that overall integration that we need
-to do.FINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 10Matt Ramsay
+to do.Matt Ramsay
 Colette Kress
 Got it. Since we've been talking about data center and Mellanox there is one
 question that always pops up and I think a couple of the prominent companies in the
@@ -234,9 +224,7 @@ we had with V100. We have begun overall sampling with them, and if you think
 about our overall development process, it probably incorporated a good point of
 input from the overall hyperscales in terms of what we need.
 A100 is unique. A100 is maybe what you would refer to as a universal platform. It is
-not geared just to training this time. It is not geared just to inferencing. It has theFINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 10Matt Ramsaycapability of a platform to do both. It also has the ability to create multiple instances
+not geared just to training this time. It is not geared just to inferencing. It has theMatt Ramsaycapability of a platform to do both. It also has the ability to create multiple instances
 at the same time, so that you could choose to have part of those instances be overall
 training, part of them overall be inferencing and many other different types of
 combinations around that.
@@ -277,9 +265,7 @@ talk about gaming a little bit, considering it's such a big part of the Company,
 just say that the team at Cowen has done quite a bit of work on Edge Cloud, and I
 think it's very interesting to see Ampere bring inference and training into the same
 piece of hardware that can be virtualized and I think maybe save that conversation
-for oﬄine because I think there's a lot more work to do there, but just quickly divingFINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 10Colette Kressinto gaming that there's a push/pull with COVID there as well, a ton of people stuck
+for oﬄine because I think there's a lot more work to do there, but just quickly divingColette Kressinto gaming that there's a push/pull with COVID there as well, a ton of people stuck
 at home gaming, driving interest in demand for your products, at the same time
 there's the iCafe market remains really challenged in Asia and I think there's been a
 bit of a mixed change between desktop and notebook in your own business.
@@ -319,9 +305,7 @@ around the world are still in a bit of shutdown mode, and slowly improving. Our
 iCafes are still practicing distancing as well in there. So, they may be open, but
 they're not necessary open to a 100%. And that's something that we took into
 account when we thought about our overall guidance, but I think the most important
-thing is the underlying strength, even in the good times, and in probably some ofFINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 10Matt Ramsay
+thing is the underlying strength, even in the good times, and in probably some ofMatt Ramsay
 Colette Kressthe more challenging times, gaming becomes front and center as a great overall
 platform to overall entertain.
 We've increased that over the last 5 years to 10 years as well, that it is probably one
@@ -361,9 +345,7 @@ we do expect the automotive business to be down 40% sequentially. That is really
 associated with our legacy infotainment systems as much of the overall automotive
 industry both as manufacturing was significantly injured during the COVID-19 and
 also the overall demand for the purchase of overall cars. We continue to work with
-them in terms of long-term, on the overall AV solutions and the work in terms ofFINAL TRANSCRIPT 2020-05-27
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 10Matt Ramsayproducing overall AV across a spectrum all the way down to ADAS up to our overall
+them in terms of long-term, on the overall AV solutions and the work in terms ofMatt Ramsayproducing overall AV across a spectrum all the way down to ADAS up to our overall
 robotaxis. Over the last several quarters, we've continued to work even in the
 COVID-19 arena, on thinking through how best they can optimize the auto motive
 spend on building out AV.

@@ -21,9 +21,7 @@ experienced over the course of the last 12 months.
 What that translates into is that we believe every company is going to need an
 organizing layer that allows them to transcend the space and time. And how do you
 bring people together even when they're not physically together. How do you do
-both synchronous and asynchronic collaboration.FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14A - Brent Thill
+both synchronous and asynchronic collaboration.A - Brent Thill
 A - Jared Spataro
 A - Brent ThillSo we'd like to physician Teams as the only app that does it all. It's chat, meet, call,
 collaborate all together. It has the Oﬃce apps. It has business process inclusion and
@@ -62,9 +60,7 @@ One of the things as a user -- we kind of -- you first stumble into is chat. You
 going back and forth, Samad and I will collaborate and communicate on things
 we're working through. The one thing I have really fell into and started to use more is
 telephony and voice, video. We have effectively -- we use it as the standard. I don't
-pick up my Cisco phone. It's collecting dust next to me.FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14A - Jared Spataro
+pick up my Cisco phone. It's collecting dust next to me.A - Jared Spataro
 A - Brent ThillSo can you just talk to how you see this morphing beyond chat and collaboration
 into a broader telephony and video play?
 
@@ -102,9 +98,7 @@ property.
 
 Great. Just turning to the attention that you guys have garnered off of teams. Mr.
 Benioff decided to spend his biggest paycheck on Slack, a $28 billion, a transaction
-that was well outside what I thought most were thinking he would do. And I know forFINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14A - Jared Spataroa fact that they were terrified of what you guys were doing with the solution set. Can
+that was well outside what I thought most were thinking he would do. And I know forA - Jared Spataroa fact that they were terrified of what you guys were doing with the solution set. Can
 you just talk about the differentiation.
 Maybe that was a saw in the back, taken down the Slack trees in the background.
 Sorry if -- that wasn't my saw. But maybe just go through competitively, how you're
@@ -141,9 +135,7 @@ collaboration, but also external.
 The second big place for us has been this idea of being able to use persistent chat
 and workspaces externally. We announced something that we call Teams Connect.
 That allows you to take this idea of portions of teams, in particular, as an example a
-Teams channel, and you can extend that beyond the 4 walls of your enterprise. SoFINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14A - Brent Thill
+Teams channel, and you can extend that beyond the 4 walls of your enterprise. SoA - Brent Thill
 A - Samad Samana
 A - Jared Spataronow it opens up kind of the ecosystem so that we can connect. We're really excited
 about that.
@@ -180,9 +172,7 @@ there to escalate up into either voice, video or both. Widely, widely used.
 Another component of Teams is this idea that we can become your phone system.
 This phone system adds, as you well know, kind of call control type features. It adds a
 lot of sophistication in terms of how you think about your telephony network, how
-you're plugging into your providers.FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14A - Samad Samana
+you're plugging into your providers.A - Samad Samana
 A - Jared SpataroWe talk more about what we're doing there. That phone system requires a separate
 purchase. It can be purchased standalone or purchased as part of what we call our
 enterprise fiber E5 SKU. And we've just seen tremendous, tremendous strength and
@@ -218,9 +208,7 @@ come in and do a bunch of integration pulling them into existing systems, or eve
 integration with, as an example, a telephony provider.
 They're really interested in is there something simple for me there. So in that case,
 we find that simplicity trumps. All the work we're doing on product allows simplicity
-to be kind of the higher base.FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14A - Samad Samana
+to be kind of the higher base.A - Samad Samana
 A - Jared SpataroSo here, in that space, we end up seeing Microsoft as the telephony provider, which
 we can do, being a major draw for customers. Now there are some very
 sophisticated SMBs. We also offer the option for what we call direct routing, and that
@@ -256,9 +244,7 @@ over to this point, but that are now continuing to come down and they're jumping
 over.
 
 Yes, that's a really good one. I would say one of the things that was a hurdle up to
-this point was just this idea of how they were going to manage all of theirFINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14A - Samad Samanacommunication infrastructure, -- communication infrastructure. Pre-pandemic, most
+this point was just this idea of how they were going to manage all of theirA - Samad Samanacommunication infrastructure, -- communication infrastructure. Pre-pandemic, most
 companies actually didn't have a super coherent strategy for that.
 And what we found as we walked into customers is that there is typically, if they're a
 fairly large customer, they would have a department responsible for collaboration, a
@@ -296,9 +282,7 @@ Maybe as I think about -- you segmented the market between SMB and enterprise.
 And it sounds like with SMBs, there's maybe lower barriers because they want life to
 be easier. When you think about the enterprise side, is there anything from a
 scalability standpoint that's preventing them from putting in a PBX or using E5 for
-adding voice functionality? Or is it simply the market hasn't moved there yet?FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14A - Jared Spataro
+adding voice functionality? Or is it simply the market hasn't moved there yet?A - Jared Spataro
 A - Samad Samana
 A - Jared Spataro
 In general, we would say that we've gotten to the place we feel really good about
@@ -336,9 +320,7 @@ organization has changed their approach to voice inside of Teams?
 Yes, you bet. Again, the starting point for most people with voice inside of Teams
 ends up being voice over IP. We're chatting, and then we can quickly escalate up.
 And all of a sudden, you realize, wow, wait a second, I would have called you, but I
-didn't have to call you. That's interesting. And that starts to build into essentiallyFINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14A - Samad Samanademand for, like, why do I have this phone sitting here when I've kind of got an
+didn't have to call you. That's interesting. And that starts to build into essentiallyA - Samad Samanademand for, like, why do I have this phone sitting here when I've kind of got an
 integrated solution.
 So if I kind of build on that particular situation, 50% of oﬃces there in Accenture are
 fully on Teams where everyone uses a softphone instead of actual hardware
@@ -375,9 +357,7 @@ Helpful. And kind of maybe sticking on the partner side. A lot of UCaaS tends to
 sold through master agents and value-added resellers, and I'm curious how
 Microsoft is working with these partners that have been historically at least important
 to distribution. And how much you guys are willing to, I guess, match on some of the
-commission structures, maybe some of the more aggressive vendors are doing?FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14A - Jared Spataro
+commission structures, maybe some of the more aggressive vendors are doing?A - Jared Spataro
 A - Samad Samana
 A - Jared Spataro
 A - Samad Samana
@@ -416,9 +396,7 @@ to Teams, but also then putting telephony into that as well?
 Absolutely. Anytime you have a base, you want to be careful with that base because
 they're going to make a decision one way or the other.
 
-Exactly.FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14A - Jared Spataro
+Exactly.A - Jared Spataro
 A - Samad Samana
 A - Jared Spataro
 So make no mistake that strategically is on our minds, quarters and quarters and
@@ -455,9 +433,7 @@ much sense for people to use Teams, one of those competing companies and then a
 telco provider. So just to clarify that.
 And we would just basically say we see people making decisions about whether they
 will stay with their current UCaaS provider and then the telephony provide, the telco
-operator or if they will go essentially with Microsoft and then have that decision ofFINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14A - Samad Samana
+operator or if they will go essentially with Microsoft and then have that decision ofA - Samad Samana
 A - Jared SpataroMicrosoft being the telco provider or someone in-country doing it. That's our
 approach.
 So we don't see much of a coexistence in accounts if they're going to move
@@ -493,9 +469,7 @@ and what we call collaboration minutes.
 So that synchronous and asynchronous collaboration, including the calling that we're
 referring to here, and we've kind of majored on a part of this call. Every bit of that
 signal helps us to sharpen the services that we're giving again to the individual in the
-organization.FINAL TRANSCRIPT 2021-03-11
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14A - Samad Samana
+organization.A - Samad Samana
 A - Jared SpataroAnd ultimately, if you look at our strategy, that is the strategy. (People) (inaudible) this
 idea that data is the new oil. We think it's not only data. We would say data and
 insights are what will help you improve performance at the individual and the

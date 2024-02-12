@@ -20,9 +20,7 @@ that has evolved over the years as well. Ten years, 12 years ago, when we starte
 Oﬃce 365. Our vision was -- this way before the pandemic, our vision at that time
 was to allow people to work from anywhere, any place, at any time. While delivering
 productivity in communications and collaborations solutions, but at enterprise-grade
-security and compliance.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13Mark MurphyAnd I think the thing that we got right early was really trying to work with our
+security and compliance.Mark MurphyAnd I think the thing that we got right early was really trying to work with our
 customers and get them to make transition to the cloud on their terms. And some
 choose to go all in into the cloud, a decade ago. For the others, it was more of a
 hybrid set-up. Whether, it's some users moved to the cloud, some stayed on PRAM
@@ -63,9 +61,7 @@ It's an amazing vision. Rajesh, when we look back on the March quarter. In aggre
 for Microsoft, a very solid quarter. We came out of that, we raised our forecast for
 Oﬃce. In contrast, there were many software companies who saw a slowdown. And
 investors now are concerned that perhaps this whole demand environment was
-moving forward during the pandemic. We get these questions, if reopening causedFINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13Rajesh Jha
+moving forward during the pandemic. We get these questions, if reopening causedRajesh Jha
 Mark MurphyZoom to slow down, right? Why didn't it cause Teams to slow down, for instance?
 From your perspective, what impact did the pandemic and the lockdowns have and
 as well as the pivot to remote work on this whole Oﬃce business?
@@ -106,9 +102,7 @@ how you balance productivity, wellness, learning, knowledge. And then devices
 become incredibly important, and we try to virtualize devices with Windows 365. So
 the usage has never been higher, and I'm excited about how we can continue to
 serve our customers in this hybrid world.
-FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13Rajesh Jha
+Rajesh Jha
 Mark Murphy
 Rajesh JhaSo, great to hear that usage has never been higher, and I want to come back and
 touch on many of the products you just mentioned...
@@ -148,9 +142,7 @@ groups at the center, people at the center, and bringing the right apps, the rig
 data, the right AI, the right automation to people. So the Viva, and hybrid work,
 you've heard about the triple bump of the day where people took three peeks, one
 before lunch, one after lunch and one in the evening before going to bed. It's like
-productivity has to be balanced with their well-being.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13Mark Murphy
+productivity has to be balanced with their well-being.Mark Murphy
 Rajesh Jha
 Mark Murphy
 Rajesh Jha
@@ -189,9 +181,7 @@ Yeah, I mean, I just as [ph] growth, we think about it in three different dimens
 we can think about it in three different dimensions. The first, let's talk about what you
 said. Seat growth. The seat growth, there are a billion information workers, the
 projections is about 2025 information and knowledge workers; there are a couple of
-billion more first-line workers that are on the front-lines of this transformation ofFINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13Mark Murphy
+billion more first-line workers that are on the front-lines of this transformation ofMark Murphy
 Rajesh Jha
 Mark Murphybusiness processes. There are small businesses, there is industry-specific role
 offerings, there is education. So we think broadly that we have lots to room here to
@@ -231,9 +221,7 @@ system offering, or the analytics offering, they can choose to get out each of t
 separately. But we think the value taken together for our customer with all of the E5
 SKUs, and many of them actually want to get the entire suite, it's incredible value.
 
-So Rajesh. Teams, is a part of that incredible value.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13Rajesh Jha
+So Rajesh. Teams, is a part of that incredible value.Rajesh Jha
 Mark Murphy
 Rajesh Jha
 Yeah.
@@ -274,9 +262,7 @@ have ServiceNow and Workday and Adobe and Monday.com and lots and lots of
 other ISVs. In fact, if you take a look at the number of third-party and custom
 applications that have been built on Microsoft Teams, two years ago to now, it has
 grown 10x. And so, the ecosystem is the real differentiation with Teams. And an
-ecosystem also plays out in the devices side. We have Poly, and Logitech, and Zebra,FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13Mark Murphy
+ecosystem also plays out in the devices side. We have Poly, and Logitech, and Zebra,Mark Murphy
 Rajesh Jha
 Mark Murphy
 Rajesh Jhaand all these folks were building devices that are optimized for Microsoft Teams. We
@@ -315,9 +301,7 @@ is exciting to me is the time to value for customers.
 Once they decide to get off their legacy PBXs on to the phone system, the time to
 value is in weeks. In weeks they can get configured. Because again the backplane is
 the same. Teams is multimodal, you're configured for Teams, you're configured in
-your directory to add the phone is a question of weeks, it's not years in the making.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13Mark Murphy
+your directory to add the phone is a question of weeks, it's not years in the making.Mark Murphy
 Rajesh JhaSo hugely cost effective, ﬂexible, multimodal. And so I think we have a real
 differentiated perspective regarding [ph] phones.
 
@@ -359,9 +343,7 @@ but documents have tended to be somewhat monolithic and users go to documents,
 of course with Teams you can hang all the documents around a group, but with
 Microsoft Loop we allow documents to be decomposed. So for example, I've got a
 project update and there is a table that a bunch of us need to update. Instead of
-telling everybody, hey can you go update the table, I can take that table, that snippetFINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13Mark Murphy
+telling everybody, hey can you go update the table, I can take that table, that snippetMark Murphy
 Rajesh Jha
 Mark Murphyof the document from that in chat or email and send it out. And as people started to
 fill it, it's always live. And when I go back to the document, it shows the same state. If
@@ -401,9 +383,7 @@ So new business models. You had mentioned the theme of citizen developers using
 Teams and power platform at one of the recent build conferences. Personally, I've
 been a bit of a skeptic on this whole topic and citizen developers, I'd say for most of
 my career, right, because we've we never saw convincing signs and traction from any
-other software company.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13Rajesh JhaAnd that is until now, right. So with the power platform that has been ranking
+other software company.Rajesh JhaAnd that is until now, right. So with the power platform that has been ranking
 number two in our product momentum Microsoft partner survey work, right, that
 we've been conducting. The signs are very clear, can you put that into context, why is
 there so much momentum and do you think that you finally cracked the code on this
@@ -442,9 +422,7 @@ customers with the digital transformation. And understand that these power apps
 again -- you know [ph] Teams is an extensible platform. You can write a business
 process in Power Apps, and consume it right in the ﬂow.
 There is an update on your business process, it's posted in the chat of inside the
-Teams. You can consume that on your phone or on the desktop.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13Mark Murphy
+Teams. You can consume that on your phone or on the desktop.Mark Murphy
 Rajesh Jha
 Mark Murphy
 Rajesh Jha
@@ -482,6 +460,4 @@ suite.
 Rajesh, thank you so much for being here with us and sharing all these wonderful
 insights, can't thank you enough for the time.
 
-Well, thank you, Mark. It's great to be here. Thank you.FINAL TRANSCRIPT 2022-05-25
-Microsoft Corp (MSFT US Equity)
-Page 13 of 13
+Well, thank you, Mark. It's great to be here. Thank you.

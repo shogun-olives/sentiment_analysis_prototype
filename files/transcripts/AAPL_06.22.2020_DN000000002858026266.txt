@@ -11,9 +11,7 @@ during emulation. This is especially true for Metal or Rosetta produces natives 
 to the GPUs built into Apple SOCs. So even high-end games execute with incredible
 performance.
 Another major technology is ahead of time compilation. So that nearly all
-applications are translated before you even launched them. And if you use macOSFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 10 of 30packages or the App Store to distribute your software. Rosetta will translate the
+applications are translated before you even launched them. And if you use macOSpackages or the App Store to distribute your software. Rosetta will translate the
 application in the background during the install. All others have translated on first
 launch. And if you dynamically load code yourself, of a JITs like Javascripts, then the
 code will be translated on the ﬂy.
@@ -53,9 +51,7 @@ whereas the graphics commands are sent through to the native GPU. There's simply
 no frame drops or lags on the controls, it's amazing.
 Okay. Now let's look at a Pro App, Aﬃnity Photo, which really helps show off the
 emulation has very little memory overhead. I've got this huge 82-mega pixel image
-loaded here. There is no additional memory overhead for having such a large fileFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 11 of 30open under Rosetta and because the translation cache is filed backed, just like the
+loaded here. There is no additional memory overhead for having such a large fileopen under Rosetta and because the translation cache is filed backed, just like the
 original executable, this little additional overhead here too.
 And we didn't just focus on the speed of translation. The translation cache is also
 secure. Thanks to the codes signatures that are checked before execution, just like
@@ -94,9 +90,7 @@ Apple Hypervisor that's been updated for Apple Silicon.
 This is running on a prototype Mac, with Apple Silicon that supports virtualization.
 Here we have a fully featured ARM version of Debian Linux running on Parallels
 Desktop. Remember, this doesn't require any third-party kernel extensions to be
-installed now. I've installed Swift for Linux and started a new project with Vapor. AFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 12 of 30Ali OzerSwift web framework, you may be familiar with. Let's go ahead and build our new
+installed now. I've installed Swift for Linux and started a new project with Vapor. AAli OzerSwift web framework, you may be familiar with. Let's go ahead and build our new
 project. And then we'll start the server.
 I can go ahead and load the page from this server in Firefox for Linux. I'd like to be
 able to test this in Safari in macOS. And we have Webmin installed to help manage
@@ -133,9 +127,7 @@ Mac version.
 Now let's look at an iPad game. Monument Valley. This app is the exact same on
 available in the iOS App Store. When we launch it, the app appears in the dock like
 any other Mac app, I can minimize and re-open the window. Menu bar is an
-important part of the Mac experience. And iOS apps get a menu bar generatedFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 13 of 30automatically. For instance, the Edit menu here with the usual entries and app menu
+important part of the Mac experience. And iOS apps get a menu bar generatedautomatically. For instance, the Edit menu here with the usual entries and app menu
 as well.
 You will notice preferences here, which puts up and in-app preferences panel
 automatically created from your apps iOS settings bundle. Also high and even quit,
@@ -174,9 +166,7 @@ amazing. Using an extension provided by an iOS app, as is in the Mac Photos app.
 That's a look at iPhone and iPad apps on Macs with Apple SoCs. Users will love the
 ﬂexibility to run these apps at their desktops. And remember that for you the
 developer, it takes just a few extra steps to unlock more customization and
-refinement of your app for the Mac through Catalyst.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 14 of 30Andreas Wendker
+refinement of your app for the Mac through Catalyst.Andreas Wendker
 Kristin ForsterMacs with Apple silicon represented incredibly powerful computing platform. They
 take advantage of the most advanced and power-eﬃcient chip technology offering
 unprecedented power per watt performance and incredibly graphic speed. And
@@ -214,9 +204,7 @@ Finder, we see a new design for document icons. You can customize your own
 document icons by simply providing an image and text. macOS will automatically
 position that elements mask them and apply the page curve.
 Sheets come up in a new way. They no longer rollout of the toolbar, but instead ﬂoat
-above the window in a rounded platter. The parent window is dimmed, reinforcingFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 15 of 30the modality of the sheet. The toolbar in this preview window sits at top of the
+above the window in a rounded platter. The parent window is dimmed, reinforcingthe modality of the sheet. The toolbar in this preview window sits at top of the
 content area, while the sidebar is a visually distinct vertical element. Your windows
 will automatically adopt this new structure, if you are using a toolbar, a full size
 content view and a split-View-Controller with sidebar styling. Mac Catalyst and
@@ -255,9 +243,7 @@ and local mailboxes are till. The combination of color through tinting and shape
 through SS symbols contributes to great sidebar design.
 Notes is another example of app specific accent color. Here the yellow branding of
 notes comes alive in the list selection and text highlighting. We hope you enjoy
-choosing an accident color for each of your apps that expresses its uniqueFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 16 of 30Andreas Wendkerpersonality. As you can tell every little detail of the Mac has been made fresh and
+choosing an accident color for each of your apps that expresses its uniqueAndreas Wendkerpersonality. As you can tell every little detail of the Mac has been made fresh and
 modern and there are many opportunities for your own applications to participate.
 Big Sur feels really fantastic and Mac Catalyst apps also look better than ever before.
 We continue to improve the technology with every release and you continue to
@@ -296,9 +282,7 @@ home on the large screen of the Mac. If you are an iOS developer and have not ye
 considered creating a Mac Catalyst app, now is a fantastic time to do so. So Big Sur
 starting the transition to Apple's Silicon is packed with new features includes a much
 improved catalyst and on top of all of that has a great new look. It's incredibly how
-much has changed in the release, Big Sur is a huge step forward for the Mac. In fact,FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 17 of 30Josh Safferso much of the general architectures are improved and we are giving macOS a new
+much has changed in the release, Big Sur is a huge step forward for the Mac. In fact,Josh Safferso much of the general architectures are improved and we are giving macOS a new
 number.
 Big Sur Next is macOS Version 11. Because it really is a new Mac operating system all
 around. This is such an exciting year for the Mac, there has never been a better time
@@ -334,9 +318,7 @@ items. These new outlines build on API you're already familiar with in both Swif
 and UIKit, which have been enhanced to support these new appearances and
 behaviors.
 It's really easy to add a sidebar that perfectly matches other apps on the system and
-it can help your app take even better advantage of iPad's large screen. You'll alsoFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 18 of 30Sebastien Marineau-Mesfind some great opportunities to improve data entry in your apps. We've added a
+it can help your app take even better advantage of iPad's large screen. You'll alsoSebastien Marineau-Mesfind some great opportunities to improve data entry in your apps. We've added a
 number of new pickers like the brand new date picker that lets you choose a date by
 just finding it on a calendar. It supports this inline style that makes great use of iPad
 screen realistic and if you need to fit it in a smaller footprint, it also has a more
@@ -375,9 +357,7 @@ our custom designed sensor and by measuring how long that process takes, we
 obtain precise distance measurements of your surroundings.
 Now you can access this information through APIs in ARKit. The first is seen
 geometry, which provides you with a 3D mesh of the scene. We also use a neural
-network to identify the planes and surfaces in the scene like the ﬂoors, the walls, theFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 19 of 30doors and the windows. The new depth API gives you access to the precise distance
+network to identify the planes and surfaces in the scene like the ﬂoors, the walls, thedoors and the windows. The new depth API gives you access to the precise distance
 information captured by the LiDAR Scanner. And what we see here is a 3D depth
 map that was created using the output from the depth API.
 Combined, these APIs bring a new level of realism to all AR experiences on iPad Pro.
@@ -415,9 +395,7 @@ assignment quickly. Now under the hood, drawing with pencil uses a new canvas
 API. These new capabilities have been added directly to PencilKit, so if you're
 already using it in your iPad app, you'll inherit all of these great new features for free.
 And this includes the color picker, which makes your apps and this homework, a little
-more fun.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 20 of 30Now one of your biggest request for PencilKit is the ability to get stroke data as
+more fun.Now one of your biggest request for PencilKit is the ability to get stroke data as
 pencil is moving across the screen. And I'm very happy to say that this capability is
 now available in PencilKit. Using the new stroke API, you get access to the important
 attributes of the drawing like angle, pressure, drawing ink and exact location,
@@ -457,9 +435,7 @@ making it easy to share code across iPhone, iPad and Mac. New widgets that works
 seamlessly across all three platforms. Now displaying widgets on the home screen,
 means that they're always visible and always running. So performance and memory
 eﬃciency really matter. The previous approach of using a live running extension, just
-could not deliver the eﬃciency that the home screen requires.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 21 of 30And to solve this for new widgets, we leverage SwiftUIs ability to describe your
+could not deliver the eﬃciency that the home screen requires.And to solve this for new widgets, we leverage SwiftUIs ability to describe your
 widgets appearance, separate from when and how it is rendered. And we've added
 a new method to serialize a SwiftUI view into an archive. Now this archive is very light
 weight and can be rendered asynchronous on the GPU to ensure great performance
@@ -499,9 +475,7 @@ beautifully organized on my home screen. Now this widget was actually created by
 my team. We built this widget so that we can see our character status in the game.
 Now lets dive into Xcode, so they can show you how we created our Emoji Rangers
 widgets. In our iOS game, I define my widget, in my WidgetKit extension. To define a
-widget, all you need to do is conform to the widget protocol. Conforming to theFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 22 of 30Darin Adlerwidget protocol returns of widget configuration to the system, which consists of our
+widget, all you need to do is conform to the widget protocol. Conforming to theDarin Adlerwidget protocol returns of widget configuration to the system, which consists of our
 kind of widget in our timeline provider. Here, I've created a single entry and I can
 return that using the snapshot function.
 Snapshot is used when the system wants to display a single entry and I've also
@@ -540,9 +514,7 @@ You don't need to enter any credit card numbers, because App Clips can use Apple
 Pay for payments. You don't have to manually log into an account, because it could
 take advantage of Sign In with Apple. App Clips won't clutter your home screen and
 will only stay around as long as you need them. But you can easily launch recently
-used App Clips from the new App Library. And discovery is key, App Clips are allFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 23 of 30about getting to a part of the app at the moment you need it. So it's critical that we
+used App Clips from the new App Library. And discovery is key, App Clips are allabout getting to a part of the app at the moment you need it. So it's critical that we
 made them really easy to discover.
 You'll be able to open them from apps you use every day and places in the real
 world. And what a user sees are new Apple designed app clip code they will know
@@ -580,9 +552,7 @@ home. And that's App clips, immediately discoverable in a variety of ways. Built
 a small part of your apps, so they launch fast. And with features like signing with
 Apple and Apple Pay, user privacy is built right in. In fact, privacy is incredibly
 important to our users. With our newest products, we're making it easier to give
-users transparency and control with respect to their data.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 24 of 30Lori Hylan-ChoYou now declare privacy information about your apps, right on the product page in
+users transparency and control with respect to their data.Lori Hylan-ChoYou now declare privacy information about your apps, right on the product page in
 the App Store. To do this, simply go to App Store connect and answer a few
 questions about how you collect share and protect your user's data. The highlights
 will be presented to potential user right on the App Store across all platforms. These
@@ -620,9 +590,7 @@ sighting, when the user taps on it. And I can also use it to provide a different
 template for this complication, then for this station specific ones, while supporting
 the same families. Finally, I'll create a third descriptor from my season data
 complication. With the other complications, I'm supporting all families, but this one is
-more complex. So it only makes sense in the large rectangular space.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 25 of 30Matthew FirlikI'll finish up here by calling the Handler with my descriptors array sorter in the order I
+more complex. So it only makes sense in the large rectangular space.Matthew FirlikI'll finish up here by calling the Handler with my descriptors array sorter in the order I
 want the complications to appear when the user edits their watch face. I mentioned
 that Watch OS 7 now support SwiftUI complications and I have some great options
 here, from the new native APIs for gauges and progress fuse to repurposing SwiftUI
@@ -661,9 +629,7 @@ of our Xcode developer tools. The first thing you'll notice about Xcode 12, it's
 really shows off the new-look and feel of MacOS Big Sur with a cleaner and more
 expressive UI.
 The modernized toolbar puts controls right where I need them and the icons now
-have a fresh new appearance. The font size of the navigator now matches the systemFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 26 of 30sidebar setting. And I can adjust the size separately too, to get the look I like.
+have a fresh new appearance. The font size of the navigator now matches the systemsidebar setting. And I can adjust the size separately too, to get the look I like.
 Documents now show through under the toolbar and inspectors have an updated
 with new spacing and layouts. So Xcode 12 it's really gorgeous. I can get a simple
 and clean layout and more quickly. For example, I can maximize my workspace for
@@ -703,9 +669,7 @@ now interactive. Xcode has a new StoreKit transaction manager that shows details
 app some debugging. Here's my current session running in the simulator. So now I
 can select an item, buy it and confirm the purchase and then review the transaction
 in Xcode. I can even refund it and my app updates live. So now developing apps
-with StoreKit is almost as much fun as purchasing items with it.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 27 of 30Josh SafferOf course, creating an app is way more fun than testing. And we've made working
+with StoreKit is almost as much fun as purchasing items with it.Josh SafferOf course, creating an app is way more fun than testing. And we've made working
 with Swift and SwiftUI, even more awesome. In the source editor with previews and
 especially using both. SwiftUI previews have a new toolbar across the top that speed
 up common actions. Here I can duplicate the preview and then use the inspector to
@@ -744,9 +708,7 @@ components and deep integration with our existing frameworks. The full surface o
 mature frameworks like AppKit and UIKit can't be covered all at once, so we're taking
 our time to get it right.
 We're prioritizing source stability, while making the API more powerful over time. As
-a result, this year's Swift UI API improvements are all completely additive. CodeFINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 28 of 30you've already written will continue to compile and run, but this year's releases with
+a result, this year's Swift UI API improvements are all completely additive. Codeyou've already written will continue to compile and run, but this year's releases with
 no migration required. That's as important to us, as it is for you, because Swift and
 Swift UI are playing a central role across the Apple ecosystem. We're evolving them
 together and creating a set of APIs powerful enough to build everything from the
@@ -786,9 +748,7 @@ to new places. But with Swift and SwiftUI, we know that you will also want to bu
 brand new experiences and deploy them everywhere. So we're also taking the next
 big step, expanding SwiftUI's learn once, write anywhere story with API that lets you
 deliver fully native experiences across Apple's platforms starting from your first line
-of code.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 29 of 30Andreas WendkerSwiftUI now includes an incredibly concise way to describe your app's structure in
+of code.Andreas WendkerSwiftUI now includes an incredibly concise way to describe your app's structure in
 just a few lines of code. It's supports common elements, like windows and toolbars,
 but also platform specific features like menus and preference windows. It's a
 common set of app structure APIs for all Apple platforms that also supports the
@@ -827,9 +787,7 @@ And that concludes our overview of the most important announcements for Apple
 platform developers this year. The new releases are full of new features. There are so
 many new capabilities in APIs that we didn't even have time to talk about here in the
 State of the Union. Such as the new ways Core ML allow you to encrypt machine
-learning models and to deploy them via iCloud.FINAL TRANSCRIPT 2020-06-22
-Apple Inc (AAPL US Equity)
-Page 30 of 30Or tvOS, which continues to be the best platform for the big screen, now with the
+learning models and to deploy them via iCloud.Or tvOS, which continues to be the best platform for the big screen, now with the
 Airplay support for 4K HDR streams, multiplayer support for games and many more
 new and enhanced functionalities. As usual, we are also making develop a previous
 of all our operating system and Xcode releases available to you for download at

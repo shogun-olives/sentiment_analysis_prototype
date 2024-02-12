@@ -24,9 +24,7 @@ solved by any single company, organization, or government. The global community
 needs partnerships, policies, and global commitments to really ensure a healthy
 future for all of us.
 
-Nice. Natasha?FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 2 of 13A - Brett Iversen
+Nice. Natasha?A - Brett Iversen
 A - Melanie NakagawaYeah, this is a great question, Brett. And when it comes to responsible AI at Microsoft,
 it is both a practice and a culture. So in practice, we've been working to advance
 responsible AI for nearly seven years now. We've built an internal governance
@@ -68,9 +66,7 @@ are, it will take focus, planning, and perseverance to reach the finish line. Ou
 sustainability-connected community at Microsoft, they are over 9,000 strong here at
 Microsoft. These members and these employees provide such a vital component to
 how we're collaboratively driving progress on environmental change, both within the
-company and externally.FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 3 of 13A - Brett Iversen
+company and externally.A - Brett Iversen
 A - Natasha Crampton
 A - Brett IversenOn that second basket, the customer sustainability journey, as a tech company, we
 have a role to play with a thousands of corporate customers, who put their trust in
@@ -114,9 +110,7 @@ transparency notes as well.
 
 You both are busy, I'm sure. The trust piece that you mentioned, I have a lot of
 friends on the sales side, and you're going kind of to the cloud portion of our
-business and all the products and solutions we sell there. They -- it's the biggestFINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 4 of 13A - Natasha Cramptonthing. Like you would think it's price and things like this, when we're competing
+business and all the products and solutions we sell there. They -- it's the biggestA - Natasha Cramptonthing. Like you would think it's price and things like this, when we're competing
 against some of the other great companies out there, but that trust piece is the
 biggest portion of the decision that they're hearing consistently. So I'm touched on
 it. Maybe another one for you. You've been involved in the responsible AI work
@@ -157,9 +151,7 @@ made two key changes to our responsible AI ecosystem. First, we made critical ne
 investments in the team responsible for the Azure Open AI service. This is a service
 that has all of the cutting-edge models from open AI available within it. And second,
 we infused some of our user research and design teams with specialist expertise that
-had previously been centered in one particular team.FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 5 of 13A - Brett Iversen
+had previously been centered in one particular team.A - Brett Iversen
 A - Melanie Nakagawa
 A - Brett Iversen
 A - Melanie Nakagawa
@@ -203,9 +195,7 @@ I'll say, tech companies around the world. And part of what brought me here is r
 bringing the nexus of technology, policy and finance all together from a
 sustainability perspective. And how do we leverage those experiences that I've had
 into the role of sustainability all up at Microsoft? And so that was part of the journey
-to get here and what led to it.FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 6 of 13A - Brett Iversen
+to get here and what led to it.A - Brett Iversen
 A - Natasha CramptonAlso, in terms of kind of where we go from here, these past few months has really
 been about learning about Microsoft's journey to get to its 2030 goals and making
 those investments. Every day, I sit with our -- I wake up to our policy team in
@@ -247,9 +237,7 @@ and progress is not always linear. Yet, we know we've got to confront the diﬃc
 questions and make sure that we are driving accountability. The meetings are
 refreshing because there is just this collective energy and wisdom among the
 members of the Responsible AI Council, and I often come away with fresh ideas
-about how we can advance the state of the art.FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 7 of 13A - Melanie Nakagawa
+about how we can advance the state of the art.A - Melanie Nakagawa
 A - Brett Iversen
 A - Melanie Nakagawa
 A - Brett Iversen
@@ -292,9 +280,7 @@ chips. The global manufacturing of semiconductors could probably account for, by
 some estimates, 3% of overall greenhouse gas emissions by 2040. And one big
 challenge is that they are manufactured in countries such as South Korea, Japan, and
 Taiwan, where clean energy is just not abundant to service those types of
-manufacturing facilities. So decarbonizing semiconductors and other hard-to-abateFINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 8 of 13A - Brett Iversen
+manufacturing facilities. So decarbonizing semiconductors and other hard-to-abateA - Brett Iversen
 A - Natasha Cramptonsectors such as concrete and materials really depends on transitioning the world to
 more cleaner energy sources, cleaner grids, cleaner infrastructure.
 In the future, the countries that build and operate the cleanest grids, we really
@@ -336,9 +322,7 @@ practices to get ready for this moment. And there is much from our practice that
 we've been building up all of this time is directly relevant to our generative AI work
 as well. So for our generative AI systems specifically, we do use state-of-the-art
 methods to make sure that we are identifying, measuring, and mitigating their risk.
-And as I said, this does build on this long experience that we've had of operatingFINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 9 of 13A - Brett Iversen
+And as I said, this does build on this long experience that we've had of operatingA - Brett Iversen
 A - Natasha Crampton
 A - Brett Iversenthese large-scale enterprise and consumer services. And of course, our deep
 partnership with OpenAI as well, that's been really critical.
@@ -381,9 +365,7 @@ part of our approach going forward.
 
 I love all the different responsible AI sharing that you've given us. There's this cross-
 discipline element across -- and what I've heard on most of these, it's not something
-we're just doing on the side. It's embedded with all the functions, and it's a veryFINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 10 of 13A - Melanie Nakagawaintegrated cohesive conversation, which I think is critical. So it's come out in all of the
+we're just doing on the side. It's embedded with all the functions, and it's a veryA - Melanie Nakagawaintegrated cohesive conversation, which I think is critical. So it's come out in all of the
 different topics. Given that, I'm still just picturing us injecting concrete, like I need to
 learn on this stuff. Given that we have the of you together, which again, I appreciate,
 how can you -- what can you tell me about how you see AI and sustainability
@@ -427,9 +409,7 @@ sources, like a contract we announced with a fusion energy company called Helion
 back in May. We're also investing in research to measure the energy use and carbon
 impact of AI and working on ways to help make large AI systems more eﬃcient
 through things such as the green software initiative, reducing the energy
-consumption through more eﬃcient compute and network traﬃc.FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 11 of 13A - Brett Iversen
+consumption through more eﬃcient compute and network traﬃc.A - Brett Iversen
 A - Natasha Crampton
 A - Brett Iversen
 A - Melanie Nakagawa
@@ -470,9 +450,7 @@ advocating for favorable clean energy policy to bring more carbon-free energy to
 the grid, and investing in countries that build and operate the cleanest grids.
 Second, we're going to leverage our role as one of the largest purchasers of --
 corporate purchasers of clean energy and renewable energy. We're going to be
-building markets for the things that we need and procure from. And we're going toFINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 12 of 13A - Brett Iversenfind opportunities to diversify and scale up supply, advance the development of
+building markets for the things that we need and procure from. And we're going toA - Brett Iversenfind opportunities to diversify and scale up supply, advance the development of
 sustainability markets for water replenishment, for carbon removal.
 And then third, we're going to be improving corporate governance, sustainability,
 and accounting to ensure that sustainability reporting readiness is really top of our
@@ -516,9 +494,7 @@ accountability, and drive sustainability progress from both the data management
 solution play to also AI integration reporting templates and automation going
 forward.
 
-Nice. Natasha?FINAL TRANSCRIPT 2023-06-13
-Microsoft Corp (MSFT US Equity)
-Page 13 of 13A - Natasha Crampton
+Nice. Natasha?A - Natasha Crampton
 A - Brett IversenFor my part, I'm enormously optimistic about the future of AI and I'm confident that
 Microsoft is uniquely well placed to lead in this moment. We have spent significant
 time and resources to be ready to build and deploy AI responsibly, but we also

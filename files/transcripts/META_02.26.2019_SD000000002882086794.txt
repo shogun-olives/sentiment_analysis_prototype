@@ -14,9 +14,7 @@ Yes, I'll read all the disclosures so you can kind of relax, myself being the to
 list. All important disclosures, including personal holdings disclosures and Morgan
 Stanley disclosures appear on the Morgan Stanley public website at
 www.morganstanley.com/researchdisclosures. They're also available at the
-registration desk.FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 2 of 15David M. Wehner
+registration desk.David M. Wehner
 Q - Brian Thomas Nowak
 A - Sheryl Kara SandbergSome of the statements made today by Facebook may be considered forward-
 looking. These statements involve a number of risks and uncertainties that could
@@ -59,9 +57,7 @@ is, can we do that while continuing to build our community? And I think our last
 earnings showed that we can. So we now have 2.7 billion people using any one of
 our family of app services. So that's Facebook and Messenger and Instagram and
 WhatsApp. This Facebook app growth is strong. We're at 2.3 billion people using it
-monthly, with 66% coming back every day, which has actually been holding nicely.FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 3 of 15Q - Brian Thomas Nowak
+monthly, with 66% coming back every day, which has actually been holding nicely.Q - Brian Thomas Nowak
 A - Sheryl Kara Sandberg
 Q - Brian Thomas NowakAnd a considerable increase from when I started over a decade ago, which was only
 50% coming back. And so the commitment we have going forward is that we are
@@ -107,9 +103,7 @@ sort of a broad expectation for overall revenues throughout 2019. And I know tha
 privacy and regulation is something that you've sort of talked about through that
 lens. So maybe talk to us about how you expect privacy-related headwinds, whether
 it's GDPR, Clear History, any other changes that Facebook may make to the platform
-potentially impacting the business from your perspective.FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 4 of 15A - David M. Wehner
+potentially impacting the business from your perspective.A - David M. Wehner
 Q - Brian Thomas Nowak
 A - David M. Wehner
 Q - Brian Thomas Nowak
@@ -154,9 +148,7 @@ think it better reﬂects the size of the audience that we have. So there's 2.0 
 people using one of the family of apps products daily. So I think -- and we're seeing
 good growth across those developed and developing markets for the family of apps
 products. And Instagram is doing particularly well.
-FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 5 of 15A - Sheryl Kara Sandberg
+A - Sheryl Kara Sandberg
 Q - Brian Thomas Nowak
 A - Sheryl Kara SandbergAnd Sheryl, to bring you back to the Fourth Quarter. So same questions within the
 advertising side. And you -- we have the headlines and yet the advertising results
@@ -202,9 +194,7 @@ person?
 Well I don't know if I'm going to grade us. But I'll tell you where we are in the life
 cycle which is, we've had ads on Facebook for a long time. Instagram is now big and
 growing and very important contributor to our business. Messenger is much more
-nascent. And WhatsApp, we don't have an ad product and that's much further out.FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 6 of 15Q - Brian Thomas Nowak
+nascent. And WhatsApp, we don't have an ad product and that's much further out.Q - Brian Thomas Nowak
 A - Sheryl Kara SandbergBut your point on the right ads for the right products at the right time is exactly the
 right one. And this is where I think we need to do a much better job of
 communicating, because I think one of the things people fundamentally don't
@@ -251,9 +241,7 @@ I think what happens, both because of the way we develop. But also because of th
 nature of things, is that people -- consumers move to a product before advertisers
 do. The consumers were broadly using their phones many years before most
 advertisers were doing mobile advertising. And we had to help those advertisers
-make a shift. I think we're now seeing that with Stories. We now have 500 millionFINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 7 of 15Q - Brian Thomas Nowak
+make a shift. I think we're now seeing that with Stories. We now have 500 millionQ - Brian Thomas Nowak
 A - David M. Wehnerpeople participating in Stories on Instagram, 450 million on WhatsApp, 300 million
 on Facebook and Messenger. Those are big numbers. And Stories are a really
 engaging format. So consumers are there. Then the question is how do we get
@@ -300,9 +288,7 @@ Bringing more format types, especially direct response-type formats to Stories i
 going to be important. That's going to improve the number of advertisers that are
 going to want to bid for that inventory. So that's going to, over time, I think drive up
 the opportunity. In addition, there's some different characteristics around Stories.
-You're seeing stories you tend to spend less time on so you ﬂick through them reallyFINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 8 of 15Q - Brian Thomas Nowak
+You're seeing stories you tend to spend less time on so you ﬂick through them reallyQ - Brian Thomas Nowak
 A - David M. Wehner
 Q - Brian Thomas Nowak
 A - Sheryl Kara Sandberg
@@ -346,9 +332,7 @@ I bought...
 How did that go?
 
 Actually, it's sold in a day.
-FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 9 of 15Q - Brian Thomas Nowak
+Q - Brian Thomas Nowak
 A - David M. Wehner
 Q - Brian Thomas Nowak
 A - Sheryl Kara Sandberg
@@ -388,9 +372,7 @@ you think about the biggest steps you have to take to really capitalize on this 
 commerce opportunity? And what's the monetization method? Is it advertising? Is it
 search ads? Is it transactional? How should we think about e-commerce evolving
 from this platform?
-FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 10 of 15A - Sheryl Kara Sandberg
+A - Sheryl Kara Sandberg
 A - David M. Wehner
 A - Sheryl Kara Sandberg
 A - David M. Wehner
@@ -434,9 +416,7 @@ engagement? And how you think about kind of premium content and really driving
 more users and more time spent on Facebook Watch?
 
 We have 2 products in the market right now. We have Facebook Watch and we have
-IGTV. And what they are, are different ways for people to do longer-form videoFINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 11 of 15Q - Brian Thomas Nowak
+IGTV. And what they are, are different ways for people to do longer-form videoQ - Brian Thomas Nowak
 A - David M. Wehnercontent and creators to put things out there and reach audiences. IGTV came from
 people -- us hearing that the 60-second limit on video in IG was too short and
 people wanted to do longer-form comment -- content. And Facebook Watch was us
@@ -483,9 +463,7 @@ of bringing the world closer together. So that's core. It's part of what we need
 to be successful and to drive value for the people who use the platform. Then we've
 got our innovation investment. So I would call out things like AR/VR. We're launching
 Oculus Quest this year. That's a bit more immersive AR -- sorry, VR experience. Portal,
-obviously, we launched in Q4 of last year so we'll have continued investment in thatFINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 12 of 15Q - Brian Thomas Nowak
+obviously, we launched in Q4 of last year so we'll have continued investment in thatQ - Brian Thomas Nowak
 A - David M. Wehner
 Q - Brian Thomas Nowak
 A - David M. Wehnerin 2019. Then we're also doing other areas. And Sheryl talked about video. So that's
@@ -530,9 +508,7 @@ increasingly seeing growth come from Asia. So whereas four years ago, you had As
 growing. But we're able to serve that capacity sort of off-peak with the U.S. Now
 we're getting a lot of that growth without having to put necessarily capital in the
 ground. Now if you look at our top 3 growth countries for Facebook, it's India,
-Indonesia and the Philippines, which are all roughly on peak with each other. SoFINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 13 of 15Q - Brian Thomas Nowak
+Indonesia and the Philippines, which are all roughly on peak with each other. SoQ - Brian Thomas Nowak
 A - David M. Wehner
 Q - Brian Thomas Nowak
 A - Sheryl Kara Sandbergwe're building capacity more for Asian demand. And so that has different ARPU
@@ -576,9 +552,7 @@ into 2019, what aspect of the company do you think is still most misunderstood,
 either by the press, Wall Street analysts, analysts in the room, what aspect would you
 say that isn't really the way this company thinks about things or functions? And what
 are your 1 or 2 biggest priorities for '19 and '20 for the platform?
-FINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 14 of 15I don't know exactly what's most misunderstood. I think there's different
+I don't know exactly what's most misunderstood. I think there's different
 understandings for different people. But I think our priorities are actually quite clear.
 And we've tried to be very explicit about those. Mark laid them out in the last
 earnings call. And there are 4 of them. And I guess understanding those priorities
@@ -627,9 +601,7 @@ through to the heart of your question, which is, we need to tell our story bette
 working as hard as we can to protect against those harms and protect against the
 future harms we don't yet understand. We understand that's our responsibility. But in
 all that, I think sometimes people forget the good things that happen on Facebook.
-The times I got an e-mail yesterday from someone who a family member diagnosedFINAL TRANSCRIPT 2019-02-26
-Meta Platforms Inc (META US Equity)
-Page 15 of 15Q - Brian Thomas Nowak
+The times I got an e-mail yesterday from someone who a family member diagnosedQ - Brian Thomas Nowak
 A - Sheryl Kara Sandberg
 A - David M. Wehnerher own cancer on Facebook and saved her life. Pretty incredible stuff. And so we're
 working hard to prevent the bad. But also to let the good stories be told so that

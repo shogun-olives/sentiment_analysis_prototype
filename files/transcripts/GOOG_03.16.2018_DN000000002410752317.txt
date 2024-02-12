@@ -25,9 +25,7 @@ framework through which I think it's helpful to analyze a lot of the market tren
 we're seeing, especially the emergence of new technologies and new paradigm in
 enterprise computing and what that means for the legacy technology vendors. And
 as you're thinking about companies and whether they are our secular tailwinds or
-headwinds, I hope that this framework will be useful.FINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 13So from a large picture, what we're seeing is a really remarkable fundamental shift in
+headwinds, I hope that this framework will be useful.So from a large picture, what we're seeing is a really remarkable fundamental shift in
 the way the enterprises are thinking about spending money on technology, and we
 go through this type of shift or transformation about once every 30 years or once a
 generation. And if you look at the macro picture, global technology spend is about
@@ -70,9 +68,7 @@ And the third trend that has been somewhat problematic relative to the first two
 trends, the growth of computing power and the growth of data, that's being
 collected is that, fundamentally storage access speeds or I/O speeds have lagged,
 growing at a modest -- a much more modest rate about 20% compounded annual
-growth rate compared to the 40% compounded annual growth rate that competitionFINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 13speeds are growing. So today a commercially available hard disk drive or even SSD
+growth rate compared to the 40% compounded annual growth rate that competitionspeeds are growing. So today a commercially available hard disk drive or even SSD
 drive can achieve no more than about 550 megabytes per second I/O speed, that
 means the time it takes to read or write data from persistence storage into memory
 of the processor. And, in fact, the fastest data speed that you can get using, for
@@ -115,9 +111,7 @@ However, using legacy scale-up architectures, you had a fundamentally exponentia
 growing soft curves, the cost of storage during managing data grew exponentially
 with the amount of data you had under management, that's the green curve. So then
 the net value, which is the value minus the cost is an upside down curve and you can
-do simple calculation to find out where that curve is maximum, and that's theFINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 13A - Anurag Ranaoptimum value -- that's the optimum volume of data that you should manage in
+do simple calculation to find out where that curve is maximum, and that's theA - Anurag Ranaoptimum value -- that's the optimum volume of data that you should manage in
 order to extract value from that data without incurring too higher cost.
 Today, leveraging next-gen infrastructure, the scale-out infrastructures, the orange
 curve, the value of data hasn't changed, but what we have changed is the cost curve
@@ -156,9 +150,7 @@ business model. Which way do you think the world will eventually evolve, whether
 it's going to be a public cloud model, or a private cloud model or a hybrid cloud
 model? And how do we envision all the legacy technology spending, which you've
 mentioned is about $1.5 trillion? How do you envision that shaping up, let's say, over
-the next 3, 5, 10 years?FINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 13A - Crystal Valentine
+the next 3, 5, 10 years?A - Crystal Valentine
 A - Anurag Rana
 Sure. I think that legacy technology, which is primarily characterized by on-premises
 deployment is indeed in secular decline. I think that the public cloud infrastructure
@@ -201,9 +193,7 @@ and processed on the edge and that will never make its way into the public cloud
 infrastructure, so it's important to keep that in mind.
 
 So that's fairly amazing and perhaps we can start peeling up the public and the
-hybrid area and then maybe we can move to the edge computing. So, when we lookFINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 13A - Crystal Valentine
+hybrid area and then maybe we can move to the edge computing. So, when we lookA - Crystal Valentine
 A - Anurag Rana
 A - Crystal Valentineat -- we can take a look at a legacy bank that has, as you said, a lot of IT baggage that
 they have to deal with. Strategically, what is the best option for them? I mean, should
@@ -247,9 +237,7 @@ even give us a little bit of a basic as to how cloud vendors are charging when d
 leaves or comes in their data center, anything around that would be interesting?
 
 Sure. Yeah. So it's complicated to actually make an estimate of how much you're
-going to be spending once you decide to deploy your application, for example, onFINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 13AWS or Azure. It's a complex analysis, because it's a function of many different
+going to be spending once you decide to deploy your application, for example, onAWS or Azure. It's a complex analysis, because it's a function of many different
 factors and the only real way to know how -- or project how much you're going to be
 spending is to actually run a benchmark, to actually deploy the applications to the
 cloud and then check to see what your monthly bill looks like and then extrapolate
@@ -290,9 +278,7 @@ of them are not particularly cost-effective, which I think surprises a lot of pe
 example, the Amazon data warehousing product, which is known as Redshift. It's by
 no means inexpensive and tends to be a large expense for customers who choose to
 leverage it. And, of course, it has its own lock-in problems, which is very reminiscent
-of the -- some of the problems with the legacy data warehouses.FINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 13A - Anurag Rana
+of the -- some of the problems with the legacy data warehouses.A - Anurag Rana
 A - Crystal Valentine
 A - Anurag Rana
 Yeah. This is -- I mean, this one of the most interesting things that we're seeing as
@@ -335,9 +321,7 @@ has been largely to their benefit, it becomes much easier for them to add new
 features and functionality to integrate modern technologies like machine learning
 and artificial intelligence, because they've embraced this modern next-gen
 application architecture that includes leveraging public cloud.
-FINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 13A - Crystal Valentine
+A - Crystal Valentine
 A - Anurag Rana
 A - Crystal ValentineSo in that same case, one of the more interesting, I would say, examples that came
 across to us recently was Dropbox, I mean, they started their life under with AWS and
@@ -382,9 +366,7 @@ edge is growing at this point much, much faster than even the size of the consum
 Internet.
 So, data being generated on-board cars, autonomous driving vehicles generated
 about three or four terabytes of data per vehicle hour, as I said, that doesn't even
-compared to -- for examples, Pratt & Whitney's Geared Turbofan engines, whichFINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 13A - Anurag Rana
+compared to -- for examples, Pratt & Whitney's Geared Turbofan engines, whichA - Anurag Rana
 A - Crystal Valentinegenerate about 36 terabytes of data per engine hour. That data is actually largely
 never making into any public or private data center. That data is largely being
 generated on-board the vehicle or on-board the planes looking for anomalies,
@@ -426,9 +408,7 @@ their APIs and therefore, lock yourself into that particular public file vendor 
 foreseeable future.
 In practice, the most sophisticated machine learning applications that are being
 leveraged in the enterprise and here I'm talking about things like the deep learning
-models that go into autonomous driving or even the machine learning models thatFINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 13A - Anurag Rana
+models that go into autonomous driving or even the machine learning models thatA - Anurag Rana
 A - Crystal Valentine
 A - Anurag Ranago into making recommendations on Netﬂix. Those are not leveraging any of those
 cloud branded tools. They are typically very much homegrown. They're leveraging
@@ -472,9 +452,7 @@ the legacy world, it's hard to define some of them call themselves more of a VMw
 shop, or a Microsoft shop or more closer Oracle or SAP. As you see the new world
 evolving, are they more prone to go to one cloud provider over the other, given their
 legacy baggage or frankly, doesn't matter, it just a matter of how much money you're
-willing to spend and what your relationship is with those companies?FINAL TRANSCRIPT 2018-03-14
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 13A - Crystal Valentine
+willing to spend and what your relationship is with those companies?A - Crystal Valentine
 A - Anurag Rana
 A - Crystal Valentine
 Yeah. So we are seeing very different sales strategies from each of the cloud

@@ -24,9 +24,7 @@ as unsanctioned apps because they want stuff that works.
 And often, that's what we hear around some of the key technologies that have been
 adopted over the last 10 years. It just works. This also changes who a knowledge
 worker is. Anyone that's connected, if they're recognized by the business is that
-potential knowledge worker and that creates a huge opportunity for enterprises thatFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 14they're realizing now and whether they wanted to digitally transform this quickly or
+potential knowledge worker and that creates a huge opportunity for enterprises thatthey're realizing now and whether they wanted to digitally transform this quickly or
 not, it's what's happening.
 And collaboration is a key area. It is one of the areas that are the huge beneficiary. It
 feels off to say beneficiary at a time like this, but these companies are doing well. The
@@ -66,9 +64,7 @@ want a safe place to work.
 We're all trying to navigate our families in the house or just ourselves then the house.
 Either way, this is new. But we want a safe place when we go to work. A place where
 the ideas are engaging and it's a place for ideas to mature. The mentoring and
-modeling, this is another super power that really helps companies, not only doFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 14better than what you saw in the previous slide as far as results, but really start
+modeling, this is another super power that really helps companies, not only dobetter than what you saw in the previous slide as far as results, but really start
 connecting dollars and time into new results and transforming. When you empower
 your peers to mentor other and model behavior, then all of a sudden, it's much
 better than a boss thing, "Don't do it".
@@ -108,9 +104,7 @@ we are actually just looking at business revenue here, we're looking at enterpri
 revenue. We're not looking at the B2C revenue.
 So still we're looking at a very healthy probably upper 20% CAGR growth over five
 years when this gets redone. Everything is indicating toward that, but I do want to
-see some more data points come in. Conferencing and team collaborationFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 14Q - Mandeep Singh
+see some more data points come in. Conferencing and team collaborationQ - Mandeep Singh
 A - Wayne Kurtzmanapplications won't go away because this is part of transformation. And if the
 transformation is already in place and you're seeing benefits, you can't pull that out,
 you can make it better, but can't pull it out.
@@ -148,9 +142,7 @@ something? Just wanted to get a sense if you had a long-term view on these
 companies.
 Absolutely. And let's take a step back and look at the market itself. The collaboration
 market is very much entering its teenage years. And if we know anything about
-teenage years, they're totally unpredictable. What could go wrong? But what is alsoFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 14Q - Mandeep Singh
+teenage years, they're totally unpredictable. What could go wrong? But what is alsoQ - Mandeep Singh
 A - Wayne Kurtzmanhappening is the longer game is starting to develop. Microsoft and Google are
 starting to talk about knowledge management. The ability to codify and reuse
 management and raise it to the people who need it, when they need it and it comes
@@ -192,9 +184,7 @@ there is -- what -- your needs may not come as soon as you need them. And that's
 true, that's not just a Microsoft thing, that's true with any large enterprise that has a
 suite of products. And I think the longer version, you have to watch out, and IT
 managers have contacted me and saying, is they are fine print? Does it stay free for
-six months, then this or is it just lower price? So there are a lot of dynamics and a lotFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 14Q - Mandeep Singh
+six months, then this or is it just lower price? So there are a lot of dynamics and a lotQ - Mandeep Singh
 A - Wayne Kurtzmanof IT managers are looking at that fine print and don't want to get sucked into a
 limited time only that's where some vendors that have a really generous freemium
 version are benefiting, and in fact many of those premium versions are being turned
@@ -236,9 +226,7 @@ everyone is doing this and every vendor has always wanted to move to the cloud,
 because -- and this is a one thing I hear time and time again, is there a lot of vendors
 with on-prem solutions that don't want to upgrade because things are working. And
 unfortunately that creates issues that are rooted in user experience and often
-security and they need to be.FINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 14Q - Mandeep Singh
+security and they need to be.Q - Mandeep Singh
 A - Wayne KurtzmanSo the cloud solution really enables the customer to get the best user experience
 they can, so I do believe that with the exception of certain security, high security
 issues, you're going to see continued acceleration to the cloud. I'm quite sure I will
@@ -279,9 +267,7 @@ weeks negative. And these people after some more research we found we're
 copying and pasting content from email to the collaboration solution because one
 or two people wouldn't move over to the collab solution.
 So actually Slack and Microsoft when they integrate solve that problem, in a Slack
-Microsoft integration in a rather clever way, Google had it built in from day one, soFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 14Q - Mandeep Singh
+Microsoft integration in a rather clever way, Google had it built in from day one, soQ - Mandeep Singh
 A - Wayne Kurtzmanthey really never had to face that problem with their integrations. But they're getting
 around that, so that over 10% who have to copy and paste between systems have a
 life, that's going to be a feature rolling out in Teams started to rollout as well where
@@ -319,9 +305,7 @@ and in fact it does remove layers of friction. So it does keep things together f
 record, and Microsoft Teams, again brings science [ph] together in different ways.
 Now if -- but is not the best chat tool yet. I don't know if they want to get there, but
 there is -- they're both really good at what they do and they are both getting
-tremendously better, but I do believe they're better together.FINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 14Q - Mandeep Singh
+tremendously better, but I do believe they're better together.Q - Mandeep Singh
 A - Wayne KurtzmanIf you take the Zoom and Google Hangouts meeting solutions, they are different as
 well. Personally, I do miss some of the augmented reality, a little crowns and other
 things that Google used to do that if they didn't put in the business thing, but we
@@ -362,9 +346,7 @@ There were other ways marketing can definitely use products like that. And anyth
 with a good kanban board and a ﬂow and APIs to AI and ML become very, very easy
 to add. If you're in manufacturing, you may actually decide that some of the
 equipment you have needs to be smarter and it can integrate to this. If you're -- It
-really depends on the type of enterprise you're in. But as a generalization, I see workFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 14Q - Mandeep Singh
+really depends on the type of enterprise you're in. But as a generalization, I see workQ - Mandeep Singh
 A - Wayne Kurtzmanmanagement being very big. I see marketing and CRM integrating. I see
 communications to customers, partners and the like becoming huge. So I did say
 that enterprise communities would lag a little bit, but accelerate. In fact, they're
@@ -404,9 +386,7 @@ more front and center as a collaborative platform for many things and they've do
 some very clever work around that.
 So yes, expect that collaboration will be there, will they play in it? I think Adobe has
 made an active decision to be something that you need in your business, but they
-don't have to be the collaborative tool. Salesforce is there, but I don't see them yet.FINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 14Q - Mandeep Singh
+don't have to be the collaborative tool. Salesforce is there, but I don't see them yet.Q - Mandeep Singh
 A - Wayne Kurtzman
 Q - Mandeep Singh
 A - Wayne Kurtzman
@@ -446,9 +426,7 @@ because people want to be able to use the same thing and it should just work. I'
 going back to that first slide with almost every answer. People need things that just
 work and CIOs need things that aren't going to cause some problems. It's just that
 two ended sword and a lot of the products in here do just that. Yeah. Go on.
-FINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 14A - Wayne KurtzmanIs there -- I think people on this call look for numbers and they're trying to figure out,
+A - Wayne KurtzmanIs there -- I think people on this call look for numbers and they're trying to figure out,
 okay, what's the durability of growth? Once this virus situation is under control. I
 mean, and people will return back to oﬃces. Is this more hype and or there is a
 demand that's going to last for a few years, simply because these -- and if there is a
@@ -488,9 +466,7 @@ The tipping point for collaboration is, you're going to see groups where manager
 become facilitators not just command and control, which is a core change in
 collaboration and in those groups, they are going to exceed production
 considerably a big trade is getting things done, getting to market earlier and getting
-projects done ahead of schedule, something we see time and time again where thatFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 14Q - Mandeep Singh
+projects done ahead of schedule, something we see time and time again where thatQ - Mandeep Singh
 A - Wayne Kurtzman
 Q - Mandeep Singh
 A - Wayne Kurtzmantype of adoption happens whether it's done at line of business or enterprise. This
@@ -530,9 +506,7 @@ Let's handle them one at a time. I don't have new installed base numbers because
 those suddenly changed over the last two months, and they haven't been giving out.
 With Microsoft, I'm more interested in the adoption. Stewart Butterfield, CEO of
 Slack did mention yesterday that -- and the numbers look great that yes, Teams has
-about 20% adoption to the Microsoft Oﬃce stack, but I think as they announcedFINAL TRANSCRIPT 2020-04-14
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 14Q - Mandeep Singhnumbers, it will be higher, people will use Teams because they have it, it's not
+about 20% adoption to the Microsoft Oﬃce stack, but I think as they announcedQ - Mandeep Singhnumbers, it will be higher, people will use Teams because they have it, it's not
 diﬃcult to learn. They have some good videos out on that.
 Slack has seen tremendous adoption. I -- they haven't given me numbers to indicate
 just how much they've grown, but one of the things of note is I think that they've

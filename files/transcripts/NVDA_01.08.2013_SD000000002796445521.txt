@@ -16,9 +16,7 @@ Great. Thanks, Chris. So to get things started here we have NVIDIA. We are very
 pleased to have Rob Csongor, who is Vice President of Investor Relations for NVIDIA,
 here with us this morning. Thanks, Rob, for joining us.
 
-Thanks.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13Harlan Sur
+Thanks.Harlan Sur
 Rob Csongor
 NVIDIA held their press event on Sunday and I think that one of the overall sort of
 overarching themes was the untethering of video gaming. Essentially gaming
@@ -54,9 +52,7 @@ and make money off of the content?
 Obviously the first thing we are pointing out is this gaming devices is Android. It is
 pure Android. It is an Android gaming device and that is an open platform. So the
 first thing we demonstrated is you are on Google Play, you could launch any app that
-is on Android.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Harlan SurHowever, it does have other things. You can then go to TegraZone and play some
+is on Android.Harlan SurHowever, it does have other things. You can then go to TegraZone and play some
 amazing games. We showcased Hawken, which is a brand-new game just ported to
 Tegra 4. So at the heart -- by the way, I just want to make it clear -- at the heart of this
 handheld gaming device which we call Project SHIELD is Tegra 4.
@@ -93,9 +89,7 @@ the Project SHIELD device. So it has been very exciting.
 I think I was just showing you -- we turned on Bing this morning and we were listed
 as one of the top five coolest things at CES. So we are pretty happy about it and
 looking forward to hopefully making some money off of it.
-FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13Rob Csongor
+Rob Csongor
 Harlan Sur
 Rob Csongor
 Harlan SurYes, Project SHIELD has certainly generated a lot of interest, as you mentioned. I
@@ -131,9 +125,7 @@ size of the notebook business within two years. As part of that there is a very 
 ecosystem starting to form. Everything from Shanzhai tablets in China, millions and
 millions of low cost units, children's tablets.
 I don't know if you guys saw the -- did you see the Nabi Jr.?
-FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13Rob Csongor
+Rob Csongor
 Harlan Sur
 Rob Csongor
 Harlan SurYes.
@@ -169,9 +161,7 @@ is the reason why not everybody can make a world class --
 
 Absolutely. The Tegra 4, as you mentioned, was well telegraphed to the market -- the
 performance, the specs, the fact that it was probably going to be rolled out at CES. I
-think the other product that I think the market was maybe anticipating would beFINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Rob Csongor
+think the other product that I think the market was maybe anticipating would beRob Csongor
 Harlan Sur
 Rob Csongor
 Harlan Sur
@@ -205,9 +195,7 @@ might see some revenue this year.
 But revenue-wise, it is really a 2014 contributor. This year is mostly Tegra 4 plus i500.
 
 Got it. Any questions in the audience?
-Questions And AnswersFINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Q - Harlan Sur
+Questions And AnswersQ - Harlan Sur
 A - Rob Csongor
 Q - Harlan Sur
 Q - Unidentified Participant
@@ -242,9 +230,7 @@ Is it just to showcase Tegra 4's capabilities or is there still a big market out
 we are unaware of in the future?
 
 No. It is definitely not a reference platform for Tegra 4. It would be a really expensive
-reference design.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Q - Harlan Sur
+reference design.Q - Harlan Sur
 A - Rob CsongorI think the difference, the fundamental difference between this and other, I would call
 them game consoles, is that the game consoles are fundamentally closed platforms.
 So what we believe we are doing is enhancing the gaming market that you just
@@ -281,9 +267,7 @@ No. I think our expectations are pretty much what I think you guys are. There is
 market out there for sure. Our Q4 guidance was based on a couple things. One of it
 was some softness that we see in the market.
 One of the things we have been pointing out recently is that what I think many
-people don't know about NVIDIA is that we do not address the whole PC market. IFINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13Q - Harlan Sur
+people don't know about NVIDIA is that we do not address the whole PC market. IQ - Harlan Sur
 A - Rob Csongor
 Q - Harlan Surthink we have talked about that in the last several conferences. We focus on specialty
 PCs like gaming, like workstations, like high-performance computers. Those are
@@ -321,9 +305,7 @@ all of the various professional applications. So it always just takes a little l
 it is just kind of staggered.
 
 So the Quadro business was weak in Q3. It was weak in Q4. It doesn't sound like
-fundamentals have changed all that much there.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13A - Rob Csongor
+fundamentals have changed all that much there.A - Rob Csongor
 Q - Harlan Sur
 A - Rob Csongor
 Q - Harlan Sur
@@ -365,9 +347,7 @@ about every headwind you can think of. Whether it is ﬂoods or everybody was sa
 attach rate was going to decline and everybody was saying -- anyway, I think we have
 executed pretty well.
 We have come out with -- not only have we kept -- we keep innovating on the
-gaming side, which is what drives gamers. We keep innovating for the workstation.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Harlan Sur
+gaming side, which is what drives gamers. We keep innovating for the workstation.Q - Harlan Sur
 Q - Unidentified Participant
 A - Rob Csongor
 Q - Harlan Sur
@@ -402,9 +382,7 @@ which are the code that you need that calls a multitasking algorithm in to take 
 your code.
 So those applications, those libraries, those directives have been developed for all of
 the key markets, like finance and molecular dynamics and everything. And it took us
-seven years. It has taken us seven years. Intel still has to write all of those.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13Q - Harlan Sur
+seven years. It has taken us seven years. Intel still has to write all of those.Q - Harlan Sur
 A - Rob Csongor
 Q - Harlan SurAnd the issue of easier code is just not what you think it is. When Intel says it's easier
 to do code primarily what that refers to is that if you had x86 code it is x86 code. You
@@ -440,7 +418,5 @@ gaming one. We have disclosed that there is a professional version, what we'd ca
 GRID Pro. So there is the pro version and then there is the gaming. And we still have
 that coming.
 
-Great. Thank you, Rob. Thanks for joining us today.FINAL TRANSCRIPT 2013-01-08
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13A - Rob Csongor
+Great. Thank you, Rob. Thanks for joining us today.A - Rob Csongor
 Sure.

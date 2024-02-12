@@ -20,9 +20,7 @@ A little bit quiet because of COVID. But normally this place is packed -- and wi
 hopefully once again.
 
 Excellent. So Jason, again, thank you for coming to the conference. Azure and cloud
-are definitely super high on the list of topical debates for investors. Azure isFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 2 of 28A - Keith Weiss
+are definitely super high on the list of topical debates for investors. Azure isA - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason Zanderdefinitely core to the investment thesis on Microsoft. So great to have you here.
@@ -59,9 +57,7 @@ areas we're seeing in returns of changes now is a lot more focused around data a
 analytics. Basically, how do I unlock all of the data silos that are out there, get more
 understanding of it, get some insights to say, competitive that one's super important.
 We're also seeing a whole bunch of adoption across areas like IoT. That's an effort I
-started five years ago on the team, but we do trillions of messages a day. And weFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 3 of 28A - Keith Weiss
+started five years ago on the team, but we do trillions of messages a day. And weA - Keith Weiss
 A - Jason Zanderhave just an unbelievably really great set of customers, lighthouse wins, et cetera. So
 a lot of work there. And then AI and ML continues to be a hot trend.
 I'd say one of the other big areas is, again, thinking about more vertical
@@ -97,9 +93,7 @@ teams were able to say, gosh, I just did something in 2 weeks that we had origin
 planned to go spend the next year on. It's like, okay, maybe I can actually move
 faster. Maybe we shouldn't be taking that long. So we see that sentiment in there.
 I also think that as companies have looked forward-looking at how can I also impact
-my cost envelope. And so to the extent that the cloud is helping me get into a betterFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 4 of 28A - Keith Weiss
+my cost envelope. And so to the extent that the cloud is helping me get into a betterA - Keith Weiss
 A - Jason Zanderoperational envelope, essentially, what am I spending, do I need to be doing
 everything myself?
 Could the cloud take care of that for me? Then that's actually helped with
@@ -134,9 +128,7 @@ So we've actually built those things into the product systems itself. And so we 
 that's just the value -- and honestly, what I generally find is that if you help somebody
 save money on their budget, then -- modular of the recession COVID-19 kind of
 related stuff, usually, what happens is they've got more projects on their backlog.
-They'd like to get to them.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 5 of 28A - Keith Weiss
+They'd like to get to them.A - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason ZanderThey may even be more strategic than what they're already doing. So if we can help
@@ -175,9 +167,7 @@ our case, we meant no, you're going to have on-premises and edge, and you're
 going to have the public cloud. You want a combination of both.
 I think that's actually been cemented. And in fact, if you look at even from a
 competitive perspective, you're starting to see even companies that they compete
-with now start to produce what you actually call real hybrid solutions. So they seemFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 6 of 28A - Keith Weiss
+with now start to produce what you actually call real hybrid solutions. So they seemA - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason Zander
@@ -214,9 +204,7 @@ Jason, I'm sorry, your volume just got very low.
 
 Can you hear me, okay?
 
-It's still very low.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 7 of 28A - Jason Zander
+It's still very low.A - Jason Zander
 A - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
@@ -254,9 +242,7 @@ you'll see us do is produce a set of best-in-class technologies around security
 management, deployment, et cetera.
 Then we'll work with everybody, and that helps you at least get that top level, you
 can still be multi cloud. We absolutely will continue to support open source. So if
-you're worried about lock in, great, you use open source, it works with everybody.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 8 of 28A - Keith Weiss
+you're worried about lock in, great, you use open source, it works with everybody.A - Keith Weiss
 A - Jason ZanderAnd of course, we still partner with a bunch of ISVs that are in a particular domain.
 And of course, they run on all the big clouds. And we make sure that they have a
 first-class experience. SAP is a fantastic example of that.
@@ -292,9 +278,7 @@ do IoT.
 Those can be used in any domain that's out there. I would say the big things you see
 there, it's a combination of kind of like your migration. I have those existing
 workloads, but I want to run them in a hybrid/hyperscale cloud. Of course, we get a
-lot of folks that will leverage us for that.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 9 of 28A - Keith Weiss
+lot of folks that will leverage us for that.A - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason ZanderThen there's cases where people are actually modernizing. So I'm taking my Tier 1
@@ -333,9 +317,7 @@ that so I don't cause any confusion. Then to the question...
 
 I have a whole another section on vertical clouds that we're going to dig into, we'll
 be able to come back to that one.
-FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 10 of 28A - Keith Weiss
+A - Keith Weiss
 A - Jason ZanderAll right. We'll be able to come back to that. So I just want to make sure I clarify my
 statements upfront. So then, yes, from a global expansion perspective, our -- my goal
 is to try and make sure that we are serving essentially the bulk of the world's GDP.
@@ -373,9 +355,7 @@ customers to make sure that they can keep growing and always rely on us to provi
 that.
 Then from a -- the other thing about this is when we build software that needs to run
 on any number of hardware SKUs, and who knows what kind of locations. We have
-that. It's called Windows Server, SQL server, we have a set of products that do that.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 11 of 28A - Keith Weiss
+that. It's called Windows Server, SQL server, we have a set of products that do that.A - Keith Weiss
 A - Jason ZanderBut if it's going into my data centers, with my hardware and everything certified, I
 can do significantly more optimizations north, south through the stack from the --
 everything from the silicon, the hardware, up through the hypervisor, et cetera. That
@@ -412,9 +392,7 @@ I really do think that data and analytics is probably one of the biggest ones th
 popping right now as we speak. There's a need for people to be able to break down
 data silos. You have to get into a faster loop of tying your systems of record to your
 operational systems and being able to pull insights out of that to drive your
-business.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 12 of 28A - Keith Weiss
+business.A - Keith Weiss
 A - Jason ZanderAnd the tech's been out there, but I think we now have just awesome solutions with
 Azure Synapse, Azure Purview, Cosmos DB. I mean we're seeing this pattern pop up
 all over the place because it's actually a really great pattern to be able to actually
@@ -453,9 +431,7 @@ front of us, it makes sense, and people are really just coming, you have to have
 plan, you got to move.
 The places I thought were stickier, even a couple of years ago. Financial sector and a
 couple of other, some health care, some other areas like that. And again, it was down
-to the regulatory systems, defense and other areas as well. And oftentimes, becauseFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 13 of 28A - Keith Weiss
+to the regulatory systems, defense and other areas as well. And oftentimes, becauseA - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason Zander
@@ -493,9 +469,7 @@ I think the more surprising part of the equation was Microsoft had, by far, the 
 share of cloud-based databases. Can you talk about kind of what got you into that
 position?
 I think the IDC number was something like $1.6 billion in cloud-based databases. Is
-that SQL server database? Or is it Cosmos? Is it Synapse? Like where are you guysFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 14 of 28A - Jason Zander
+that SQL server database? Or is it Cosmos? Is it Synapse? Like where are you guysA - Jason Zander
 A - Keith Weissseeing the strength? And how do you guys think about the competitive dynamic in
 the cloud versus on-premise?
 
@@ -531,9 +505,7 @@ then I can get the right kind of hybrid solution for that.
 
 Got it. Can you just dig in real quickly on that Azure hybrid benefits. It's something
 that, Amy -- has called out to us a lot as part of the core drivers what kept the on-
-premise serving tools part of the equation growing really nicely over the last coupleFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 15 of 28A - Jason Zander
+premise serving tools part of the equation growing really nicely over the last coupleA - Jason Zander
 A - Keith Weiss
 A - Jason Zanderof years. Can you -- what exactly is hybrid cloud benefits? And why is it so important
 to CIOs? Why is this such a good growth driver for you guys?
@@ -572,9 +544,7 @@ So of course, we want to make sure it's in alignment with us and our partners. S
 we're going to keep doing that.
 Now with respect to the margin, again, there's multiple different ways to think about
 this because like in the end, if somebody has picked Snowﬂake, and that's their
-choice. I'm going to talk about how to best run it on top of Badger and then theFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 16 of 28A - Keith Weiss
+choice. I'm going to talk about how to best run it on top of Badger and then theA - Keith Weiss
 A - Jason Zanderopportunities, like I said, for an extended ecosystem around Snowﬂake, that has
 benefits, and that's complementary to what Snowﬂake is doing.
 If they have any pick no ﬂat yet, and of course, I'm going to pitch them on Azure
@@ -611,9 +581,7 @@ Again, we have solutions that work from a hybrid perspective on the edge but the
 also in the cloud. And so we think that this development pattern, we use it ourselves
 for our own software development. We think it makes a ton of sense.
 And it's a good step towards even doing completely cloud-native and server-less,
-which is another kind of set of technologies that's one step past containers. We'll seeFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 17 of 28A - Keith Weiss
+which is another kind of set of technologies that's one step past containers. We'll seeA - Keith Weiss
 A - Jason Zandersome additional adoption that comes out of those sort of things as well. So yes. The
 modernization, it can be a really good productivity win.
 
@@ -649,9 +617,7 @@ larger organizations is they also need to bridge between them. And so they may s
 have a particular area where one of their partners is really their vertical solution, but
 I've got another department that uses a different one.
 How do you bring those things together. Those are some of the solutions that we're
-optimizing in our vertical cloud. And we think that the approach works pretty wellFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 18 of 28A - Keith Weiss
+optimizing in our vertical cloud. And we think that the approach works pretty wellA - Keith Weiss
 A - Jason Zander
 A - Keith Weissbecause it's no longer kind of a chemistry set where I can -- I could do anything,
 that's kind of hard to do.
@@ -688,9 +654,7 @@ et cetera. A good example. And there are several of those.
 
 Got it. Got it. And then when we think about maybe kind of wrapping this all up. You
 talked about kind of machine learning and AI being one of the core drivers on a go-
-forward basis.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 19 of 28A - Jason ZanderFrom my perspective, I think one of the things that we're learning more and more
+forward basis.A - Jason ZanderFrom my perspective, I think one of the things that we're learning more and more
 we've lean more and more over the past year or couple of years. Is that machine
 learning and AI's so dependent on the data side of the equation, right?
 And I think the software opportunity as much of anything, is being able to make use
@@ -727,9 +691,7 @@ and I don't want to go build my entire whole data center to go do that. I just w
 some simple image recognition.
 This is where we provide PaaS services that just provide those as simple API cost to
 developers. They can just plug in some data, they can actually do some simple
-training. And all of a sudden, I can get off and running. I don't have to have all theFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 20 of 28A - Keith Weissexpenses. I don't have to have hire 18 data analysts to come work for me just to get
+training. And all of a sudden, I can get off and running. I don't have to have all theA - Keith Weissexpenses. I don't have to have hire 18 data analysts to come work for me just to get
 that value. So that's the other end.
 And then of course, when you get it to the top level, we've integrated a lot of the AI
 into our SaaS applications. And so this is cases where -- I mean, you'll see this with
@@ -767,9 +729,7 @@ And on the most recent conference call, we've gone so far the other way to where
 now security is a $10 billion business for Microsoft. It's not just that your underlying
 infrastructure is secure enough for you guys to run your stuff for firms like Morgan
 Stanley to run within Azure. But your security expertise is now productized and
-you're selling it out in the marketplace.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 21 of 28A - Jason ZanderCan you talk a little bit about where Azure security is, both in terms of where you've
+you're selling it out in the marketplace.A - Jason ZanderCan you talk a little bit about where Azure security is, both in terms of where you've
 gotten to in terms of the security of the infrastructure itself. But also, what are the
 solutions that you're selling to the end market? I know we have Sentinel in terms of
 Sim. But what are the security solutions that are now built on Azure?
@@ -806,9 +766,7 @@ You don't have to cobble together some of these solutions. And we build it in by
 default into our own products, Oﬃce 365, Azure, the security things come together.
 So we think it's actually a pretty powerful combination.
 Then we can still plug-in and work with other vendors, other sources of data. You can
-actually look at hybrid environments, too, like cloud based, like I mentioned, alreadyFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 22 of 28A - Keith Weiss
+actually look at hybrid environments, too, like cloud based, like I mentioned, alreadyA - Keith Weiss
 A - Jason Zander
 A - Keith Weissheterogeneous end points, other vendors kind of devices.
 
@@ -846,9 +804,7 @@ that trust also in delivery, that trust of the partnership that we've had for a 
 also goes into some of the competitive evaluations.
 
 Got it. Got it. That's helpful. I've been actually getting a lot of questions about silicon
-and semiconductors. So one here says, are we entering a time where value/IP isFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 23 of 28A - Jason Zandermigrating back to the semi layer to the hardware layer?
+and semiconductors. So one here says, are we entering a time where value/IP isA - Jason Zandermigrating back to the semi layer to the hardware layer?
 Are there interesting things that Azure can enable from a compute side that no
 reasonable company could do on their own. And then there's another question
 about your vision or your road map for ARM. And what portion of workloads do you
@@ -885,9 +841,7 @@ clouds is the first and primary thing. So you get all of that benefit and the fa
 get to run the ﬂeet the way I want to run the ﬂeet means that I can make sure it's fully
 optimized north, south.
 You had -- I can maybe stop there if that makes sense. And then you had asked a
-question about what -- which types of CPUs. So first of all, any other -- the follow-upFINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 24 of 28A - Keith Weiss
+question about what -- which types of CPUs. So first of all, any other -- the follow-upA - Keith Weiss
 A - Jason Zanderon that. Otherwise, I think I can answer your question around the ARM versus x64, et
 cetera?
 
@@ -924,9 +878,7 @@ RAM, there's disks, there's a whole bunch of other components, networking, et
 cetera, that go into a cloud.
 So it's not all dominated by one thing. And I think it's important that as an industry
 we don't hyper conﬂate price performance as just being a CPU thing because that's
-only part of the equation.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 25 of 28A - Keith Weiss
+only part of the equation.A - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason ZanderThere's a bigger broader thing. That's different than trying to go off and drive scale
@@ -964,9 +916,7 @@ hardware, more eﬃcient, supply chain more eﬃcient.
 We'll continue to do all of those. And I -- the bottom line, you should expect that the
 Azure cloud is going to be competitive in this market. We're absolutely going to be
 competitive. There's no other magic in there. Anything that's required, we are
-investing will continue to do that.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 26 of 28A - Keith Weiss
+investing will continue to do that.A - Keith Weiss
 A - Jason ZanderNow that said, from a -- my perspective is that it does become harder and harder
 over time. Are we there yet? No. But it does become harder and harder. So there's a
 bunch of low-hanging fruit. It's just takes a lot of hard work.
@@ -1002,9 +952,7 @@ energy system.
 The fact that you have fjords, you have hydro, et cetera, I have that in my home state
 here in Washington, Washington state. But that actually is the system that's there.
 And so we can, I think, the both green and go after the ESG goals, help with the
-carbon work that's there.FINAL TRANSCRIPT 2021-03-02
-Microsoft Corp (MSFT US Equity)
-Page 27 of 28A - Keith Weiss
+carbon work that's there.A - Keith Weiss
 A - Jason Zander
 A - Keith Weiss
 A - Jason ZanderI think one of the things you'll see is Microsoft, we're trying to take a very deliberate

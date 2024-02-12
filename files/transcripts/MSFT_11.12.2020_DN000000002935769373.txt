@@ -23,9 +23,7 @@ Xbox Series X, the world's most powerful console. And then we have Xbox Series S
 like to call it the world's best value in gaming, really to bring forward a lot of those
 purchasers that would normally wait for price points to come down. We feel like we
 want to remove some of that friction, bring forward a lot of those users, bring
-forward a lot of those people that would come late in the generation. And maybeFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15Brent John Thill
+forward a lot of those people that would come late in the generation. And maybeBrent John Thill
 Tim Stuart
 Brent John Thillthat contributes a little bit to your inability to find a console now. But really, out of the
 gate, launched with the right price point, the right power profile and the right
@@ -65,9 +63,7 @@ be very different than the past.
 
 There's obviously incredible demand. You had a sold-out of all the preorders. And I
 think everyone's kind of asking how you think about the ongoing supply that you
-can bring to the market. Can you just give us a high level -- I know you're not goingFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15Tim Stuart
+can bring to the market. Can you just give us a high level -- I know you're not goingTim Stuart
 Brent John Thill
 Tim Stuartto give specifics, but just high level, how you're meeting this incredible demand
 from your side?
@@ -106,9 +102,7 @@ content pipeline plus Game Pass, plus the cloud, which gives us the ability to s
 games to, I'll say, any end points that can take a signal is going to be massively
 differentiated versus others in the industry. So I love that perspective. And I love
 having kind of that Microsoft drive with our geographic footprint with Azure. So I
-think point one is going to be, that's going to be so great.FINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15Brent John Thill
+think point one is going to be, that's going to be so great.Brent John Thill
 Tim StuartAzure also gives us the ability to reach something like 80% of the gamers in the
 world will be within an Azure-served zone. It allows us to go into Africas and Indias
 and stream games into places that are not console-first and maybe not even PC-first,
@@ -149,9 +143,7 @@ Microsoft, you're in a world where there's much more demand for content pipeline
 and which from a -- I'll say, from a publisher perspective, is great when you think
 about the economics that they can drive. And that's on the point about economics
 on our side, but it's just ability for us for them to go chase high demand from
-platform owners.FINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Brent John Thill
+platform owners.Brent John Thill
 Tim StuartFrom a consumer standpoint, if you're a game creator, games are getting more
 expensive to create. They're driving revenue growth as well, and they're looking for
 opportunities to go create more monetization for the support of that content
@@ -191,9 +183,7 @@ Game streaming and ability to serve up a AAA-quality game to an Android device, 
 a PC without a GPU, to a smart screen is going to be, I think, an unlock for gamers
 unlike what we've seen in the past. The ability for a user who wasn't going to buy a
 console can now participate in the AAA-console-quality game market I think it's
-going to be a really, really unique experience. It's going to create a lot of newFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15Brent John Thill
+going to be a really, really unique experience. It's going to create a lot of newBrent John Thill
 Tim Stuart
 Alexander Joseph Giaimo
 Tim Stuartgamers, too, that may have been used to playing Candy Crush or something on their
@@ -232,9 +222,7 @@ uniquely important about the time that we live in.
 Number two is the partnership that we have with our partners across the industry,
 inclusive of EA Play. I love EA Play coming into Game Pass, and users get it for free.
 They get to be able to participate in EA Play as we build out our content pipeline.
-And this is going to be a little bit of a bridge to the acquisition that -- with Bethesda.FINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Alexander Joseph Giaimo
+And this is going to be a little bit of a bridge to the acquisition that -- with Bethesda.Alexander Joseph Giaimo
 Tim StuartBut my point here is, we will need to have a content pipeline that supports future
 success state. If Netﬂix, of course, they assume success in Netﬂix, but if they looked
 at content pricing or content pipeline today, should or could or would they have
@@ -276,9 +264,7 @@ or our deals. But Game Pass creates a revenue stream from which we can go create
 content pipeline through deals or otherwise through our content creators. But I think
 the specific answer to your question is, we need the Activisions, the Ubisofts, the
 EAS, the Take-Twos, the Epics, all the way down to indie creators to be successful on
-the platform. So we want Game Pass to be net additive to them. And if they chooseFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Alexander Joseph Giaimo
+the platform. So we want Game Pass to be net additive to them. And if they chooseAlexander Joseph Giaimo
 Tim Stuart
 Alexander Joseph Giaimo
 Tim Stuartnot to be in Game Pass, we want to create a platform that finds the maximum
@@ -320,9 +306,7 @@ there?
 
 Yes. I think we're not making specific announcements on first-party pricing yet. So
 we'll do that sort of in due time. But again, if -- I think if publishers can find a price
-point that works for their audience, defines a price point that works for theFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15Q - Alexander Joseph Giaimo
+point that works for their audience, defines a price point that works for theQ - Alexander Joseph Giaimo
 A - Tim Stuartmaximization of, I'll say users and revenue, because you want to drive engagement. I
 talk about engagement equals currency a lot. Engagement is the ability for you to
 drive wholesale monetization, to drive activation of your content, to drive sort of
@@ -363,9 +347,7 @@ have to Azure. It's our ability to go chase that opportunity, to go chase that m
 users shift from console-first to, let's call it, we call it mobile-first, but really what I
 mean is console-unlocked-first. I think that's going to be a more active way that
 people play. Now that being said, if there's an opportunity for another console to
-have local compute under a TV, and that's the best way to play on your 65-inchFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15Q - Alexander Joseph Giaimo
+have local compute under a TV, and that's the best way to play on your 65-inchQ - Alexander Joseph Giaimo
 A - Tim StuartOLED at 120 frames a second, we will continue to look at that. And if that is still the
 right and best way for high-value gamers to play or users that want to play with the
 top fidelity, we'll continue to look at that, of course.
@@ -408,9 +390,7 @@ if you think about something like Game Pass, if it shows up best in Game Pass, t
 what we want to see, and we want to drive our Game Pass subscriber base through
 that Bethesda pipeline. So again, I'm not announcing pulling content from platforms
 one way or the other. But I suspect you'll continue to see us shift towards a first or
-better or best approach on our platforms.FINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15Q - Alexander Joseph Giaimo
+better or best approach on our platforms.Q - Alexander Joseph Giaimo
 A - Tim Stuart
 Q - Alexander Joseph Giaimo
 A - Tim Stuart
@@ -452,9 +432,7 @@ hardware plus Xbox Game Pass Ultimate sort of subscription service for a monthly
 price. So $24.99 a month in the U.S. for Xbox Series S or $34.99 for Xbox Series X.
 And what I love about this is a couple of things. Number one is, it differentiates
 ourselves versus competition. So it's not something that Playstation has in a very
-material way. Game Pass gives us the ability to provide a content bundle that can beFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15Q - Alexander Joseph Giaimo
+material way. Game Pass gives us the ability to provide a content bundle that can beQ - Alexander Joseph Giaimo
 A - Tim Stuartpaid off over time. And it's not a financing deal. It's more of a -- thinking about it like
 a hardware subscription. So I love that perspective from a differentiation lens.
 I love the ability for a customer who may not have wanted to spend $500 or $300, or
@@ -496,9 +474,7 @@ Microsoft has heritage in the video game space, so we know what that partnership
 looks like. Phil Spencer and Scott Guthrie have a great partnership internally at
 Microsoft between the two. And I think it's a good place to be. But we can sell -- sell
 our cloud opportunities for partners that may want to look for that opportunity as
-well.FINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15Q - Alexander Joseph Giaimo
+well.Q - Alexander Joseph Giaimo
 A - Tim Stuart
 Q - Alexander Joseph Giaimo
 A - Tim Stuart
@@ -541,9 +517,7 @@ like to talk about Microsoft-level relevance, and of course, we're relevant toda
 it's the going from what is a console ecosystem to expanding into that billions of
 gamers around the world ecosystem. That's the growth opportunity that we see at
 Xbox within Microsoft. And so of course, we're going to play to win in console. Of
-course, we're going to drive that place. Of course, we're going to make it the bestFINAL TRANSCRIPT 2020-11-12
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15Q - Alexander Joseph Giaimo
+course, we're going to drive that place. Of course, we're going to make it the bestQ - Alexander Joseph Giaimo
 A - Tim Stuart
 Q - Alexander Joseph Giaimo
 A - Tim Stuartplace to place to play for consumers and the best place to monetize for our

@@ -21,9 +21,7 @@ passed the $1 billion mark for the quarter, and we also had record gross margins
 Additionally, before we announced earnings a week prior, we announced our new
 Ampere architecture. We announced the architecture from our kitchen and talked
 about it as the fastest ramp in history of what we produced. It is the largest
-performance leap, our Ampere architecture. It is 20x improvement over our priorFINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13A - Vivek Aryageneration of the A100. It is also the biggest chip on 7-nanometer. It is the highest
+performance leap, our Ampere architecture. It is 20x improvement over our priorA - Vivek Aryageneration of the A100. It is also the biggest chip on 7-nanometer. It is the highest
 performance of anything in the world.
 Unifying, training and inferencing was our goal with the Ampere architecture, which
 allows for multiple inference GPU that allows an elastic overall data center build. We
@@ -56,9 +54,7 @@ whenever there are new game consoles that are launched, they often jump-start a
 new gaming cycle, and we had one start seven years ago. And in the second half of
 this year, there are expectations for new game console launches.
 How should we think about that in terms of driving your GeForce user base to
-upgrade to your newer graphics cards?FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13A - Colette Kress
+upgrade to your newer graphics cards?A - Colette Kress
 A - Vivek Arya
 Sure.
 So the way we look at the overall gaming market and even what we have seen over
@@ -96,9 +92,7 @@ quantification of unit and ASP trends in your gaming business, a very strong dou
 digit kind of growth rates that we saw both in terms of units and ASP or essentially
 your content. As we look at the next two to five years, Colette, what is the right way
 that investors should think about both the unit growth and the content growth
-aspect in your gaming business?FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13A - Colette Kress
+aspect in your gaming business?A - Colette Kress
 A - Vivek Arya
 Yes. So our gaming business, even in the last couple of years versus historical, has
 really added quite a few different form factors in terms of how people can
@@ -136,9 +130,7 @@ feature.
 Sometimes it's good to be early, sometimes it's a little tougher to be early. Give us a
 sense of what is the latest in terms of ray tracing adoption by game publishers?
 Because as I look at some of the announced features of the new consoles, they
-definitely are talking about ray tracing being one of those features.FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13A - Colette Kress
+definitely are talking about ray tracing being one of those features.A - Colette Kress
 A - Vivek AryaSo how is it helping NVIDIA to be early in terms of rolling that technology? And what
 have you seen so far in terms of game developer and game publisher adoption of
 that technology. Just how important is ray tracing to catalyzing faster growth in your
@@ -177,9 +169,7 @@ what the overall gamers will need and working with overall game developers to
 make their games overall top notch.
 
 Got it. Maybe let's move to data center, your fastest growing business. And
-interestingly, about to become your largest segment for the first time in the comingFINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13A - Colette Kressquarter.
+interestingly, about to become your largest segment for the first time in the comingA - Colette Kressquarter.
 Give us the puts and takes on the data center and especially the visibility around
 growth for the next handful of quarters. Because you mentioned in the introduction
 earlier that you have the Ampere product rolling out.
@@ -214,9 +204,7 @@ We expect as we move from Q1 to Q2 that we will continue to have good visibility
 into Q2. We think Q2 from a year-over-year will accelerate growth from what we've
 seen in terms of Q1.
 As we had highlighted with our overall earnings, it is something that we do of
-essentially providing guidance quarter-by-quarter and provided that quarter for Q2.FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13A - Vivek Arya
+essentially providing guidance quarter-by-quarter and provided that quarter for Q2.A - Vivek Arya
 A - Colette KressAs we look in terms of H2, we'll come back to kind of give some highlights in terms
 of what we expect to see in the second half of the year.
 As we look into Q2, Q2 will be a quarter of continuing overall Ampere, but we're also
@@ -252,9 +240,7 @@ sure you have a good read on the capacity utilization of your new products?
 
 Yes. So our data center business probably wouldn't be referred to as a
 semiconductor business. It's definitely referred to more as systems and an overall
-platform put together.FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Our overall systems and platforms are here to support overall accelerated
+platform put together.Our overall systems and platforms are here to support overall accelerated
 computing and some of the most important breakthroughs in accelerated
 computing as it relates to overall artificial intelligence.
 So much of the work that we do in that full stack and software together with the most
@@ -291,9 +277,7 @@ overall accelerated computing will occur in a centralized data center, and edge
 computing and having an edge overall system and architecture is also very clear for
 us.
 So in these times, we know that we are well aligned to the priorities of hyperscales,
-enterprises as well as high-performance computing that is out there. And that is whatFINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13A - Vivek Arya
+enterprises as well as high-performance computing that is out there. And that is whatA - Vivek Arya
 A - Colette Kress
 A - Vivek Arya
 A - Colette Kressis key in terms of driving the overall growth that you see in our overall data center
@@ -331,9 +315,7 @@ one of them, but you'll probably see more and more of that develop from us.
 Got it. Talk to us about Mellanox. It seems like a very important acquisition for
 NVIDIA. How is it expanding your growth opportunity? And when do you think we
 will start to see some revenue synergies, perhaps from the combination?
-FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13A - Vivek Arya
+A - Vivek Arya
 A - Colette KressYes. So you've seen our focus in terms of accelerated computing over the last ten to
 12 years and focusing on overall GPU acceleration and focusing on the overall
 compute.
@@ -369,9 +351,7 @@ nanometer, how should we think about the longer-term trajectory of gross margins
 I imagine as the systems part of your business grows, that perhaps puts a little bit of
 pressure, but the software aspects and just the move into data center helps.
 So just give us some puts and takes on gross margins from here.
-FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13A - Vivek AryaSure. When we look at our overall Q1 gross margins, Q1 gross margins also was a
+A - Vivek AryaSure. When we look at our overall Q1 gross margins, Q1 gross margins also was a
 record quarter for our gross margins. Q2 is what we guided in terms of non-GAAP as
 66% would also be our overall record. Inﬂuencing these record levels really is a focus
 in terms of on mix across our overall platforms. We sell platforms and our platforms
@@ -406,9 +386,7 @@ So quite a different array of different gross margins, but the better and the mo
 inﬂuence that software has in terms of our platforms, the better our gross margin will
 be going forward.
 
-Got it. And just in the last 60 seconds or so that we have available, right.FINAL TRANSCRIPT 2020-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13A - Colette Kress
+Got it. And just in the last 60 seconds or so that we have available, right.A - Colette Kress
 A - Vivek Arya
 A - Colette KressSo we went through all the positives and all the growth drivers and the strong
 execution that NVIDIA has had. What worries you? What are the risk factors that you

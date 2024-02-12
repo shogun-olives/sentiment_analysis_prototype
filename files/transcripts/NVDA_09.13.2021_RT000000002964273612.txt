@@ -19,9 +19,7 @@ the installed base?
 
 Right. So, first starting off, our A100 is our Ampere architecture for the Data Center.
 Our A100 has been in market for approximately a year or so, and it has been widely
-adopted by the major hyperscales, as well as the CSPs. Adoption in terms of use forFINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11Q - Atif Malik
+adopted by the major hyperscales, as well as the CSPs. Adoption in terms of use forQ - Atif Malik
 A - Colette Kressinternal use but also for cloud instances. Our A100 is special. Our A100 comes with
 an HGX platform board and it enables our hyperscales to not have to choose how
 you want to use the A100. It is capable of doing both. Capable of doing both
@@ -63,9 +61,7 @@ So, we have great momentum going forward and we have lots of tools to assist tho
 that want to use GPUs for inferencing, whether that be Triton. Triton adoption has
 occurred through many of our CSPs. This is an inference server that simplifies the
 deployment of AI models and scales into production. It powers open-source
-inference serving software and it also leads teams to deploy AI models from anyFINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11Q - Atif Malik
+inference serving software and it also leads teams to deploy AI models from anyQ - Atif Malik
 A - Colette Kress
 Q - Atif Malik
 A - Colette Kressframework that is out there. Our TensorRT, for example, has been downloaded 2.5
@@ -109,9 +105,7 @@ versus the overall hyperscales, it is very common for them to buy OEM systems or
 what we are seeing right now as NVIDIA-Certified OEM Systems to begin their work
 on AI. What they are used to doing is, using enterprise software such as VMware as
 their underpinnings of system software to help them manage all of their Data Center
-systems.FINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Q - Atif Malik
+systems.Q - Atif Malik
 A - Colette KressWe are coming to market now with standalone software to assist them in their AI
 deployment. NVIDIA AI Enterprise is one of the first. Dozens right now of our
 automotive, education, finance, healthcare, manufacturing and technology
@@ -155,9 +149,7 @@ you in your efforts in Omniverse?
 
 Yes, really good question to think about some of the platforms, whether it'd be
 software and or hardware we bring to market, and how we think about it. We are
-rarely thinking at the full-end use case of how software and or the hardware may beFINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11Q - Atif Malik
+rarely thinking at the full-end use case of how software and or the hardware may beQ - Atif Malik
 A - Colette Kress
 Q - Atif Malik
 A - Colette Kressused. What comes to mind is much of our developers that are on CUDA, developers
@@ -202,9 +194,7 @@ moved to becoming a very important social place for them to connect with their
 friends. But now it is a full entertainment sport. Entertainment that meets all different
 types of users, people that are actually playing the games, professional gamers, first-
 time gamers, people that are training others to be gamers, people that are
-broadcasting, and then, of course, there are those that are just watching othersFINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Q - Atif Malik
+broadcasting, and then, of course, there are those that are just watching othersQ - Atif Malik
 A - Colette Kress
 Q - Atif Malikgame. The ones that are watching for example 500 million Esports of an audience.
 That's more than 700 million live streamers. PC gamers on Steam, very popular
@@ -247,9 +237,7 @@ plans are our plans. If the architecture is ready, we're happy to bring that to 
 
 Good. And then the supply chain, things have been tight across the board. Gaming
 availability has improved since May but remains tight. When can gamers get their
-hands on the RTX cards?FINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Colette Kress
+hands on the RTX cards?A - Colette Kress
 Q - Atif Malik
 A - Colette Kress
 Q - Atif Malik
@@ -291,9 +279,7 @@ long-term of working together has really helped us through this process.
 Great. And then the question on crypto mining. You guys have done a much better
 job this time around in terms of your strategy of offering new hash rate cards as well
 as CMPL as a separate category. Ethereum is moving to a proof-of-stake model, from
-proof-of-work and some investors are concerned this might result in mining demandFINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11A - Colette Kress
+proof-of-work and some investors are concerned this might result in mining demandA - Colette Kress
 Q - Atif Malik
 A - Colette Kressdecreasing substantially. Given that bulk of Ethereum mining is being done by GPUs,
 do you think there is a risk of perhaps oversupply in secondhand GPUs?
@@ -334,9 +320,7 @@ Many of our competitors are really focused on building fixed-function point
 solutions, which is very different from our overall strategy. So, our platform is open.
 We work with partners in many different ways or in any other different way that they
 are looking for. So, working whether or not they want the full end-to-end platform,
-that they want the software, or whether or not they want full options in terms of chipsFINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Atif Malik
+that they want the software, or whether or not they want full options in terms of chipsQ - Atif Malik
 A - Colette Kressor things for the Data Center. We are enabling a 10 trillion transportation industry,
 that will likely all become autonomous in the future. Our architecture and workﬂow
 from the cloud to the car is essential.
@@ -378,9 +362,7 @@ and the PCs. Now, we believe regulators will also see and understand the value o
 Nvidia -- of what Nvidia can bring to Arm, to both the ecosystem and then how the
 customers can benefit from more competition and availability to those customers.
 So, we will be able to update as soon as we have more information, but we're still
-working through the regulatory process.FINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Atif Malik
+working through the regulatory process.Q - Atif Malik
 A - Colette Kress
 Q - Atif Malik
 A - Colette Kress
@@ -424,9 +406,7 @@ is new employees. New employees that we have welcomed through this pandemic
 and all -- many of them still continuing to work from home. Some of our top areas of
 focus in terms of hiring is both hardware and software. I'd say it's a race in terms of
 which one is hiring more. We are hiring software engineers and hardware engineers,
-for so much of our solutions.FINAL TRANSCRIPT 2021-09-13
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 11Q - Atif Malik
+for so much of our solutions.Q - Atif Malik
 A - Colette KressOur solutions, if it was just hardware would not benefit, if we did not have all of the
 software solutions that we need. Keep in mind, remember, we have a unified
 architecture, an architecture that goes across all of our products from a hardware

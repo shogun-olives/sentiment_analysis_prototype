@@ -19,9 +19,7 @@ heart?
 That's the sales effort at Microsoft.
 I think everybody sort of only knows that you took the organization through a sales
 reorg about 1.5 years ago. But I feel like investors totally forgot about this because
-the execution has been so brilliant that they assume that whatever you did was justFINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15A - Judson Althofftinkering, and it didn't really have any discernible impact because the results were so
+the execution has been so brilliant that they assume that whatever you did was justA - Judson Althofftinkering, and it didn't really have any discernible impact because the results were so
 phenomenal. But my guess is that there may be more behind the scenes. So it might
 be a nice opportunity for you to describe the reorg, exactly what you did. And in
 your judgment, how it turned out.
@@ -60,9 +58,7 @@ So there was a bit of a tech renaissance, if you will, by solution area. We comp
 our commercial sector in five main areas: The modern work technologies that you all
 use each and every day; our business applications portfolio; the core apps and
 infrastructure, think lift, shift, modernized to the cloud there; data and artificial
-intelligence; and of course security, which underpins it all. But those five core areasFINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15A - Karl Keirstead
+intelligence; and of course security, which underpins it all. But those five core areasA - Karl Keirstead
 A - Judson Althofffor us were areas where we had to retrain a lot of folks, hire in a lot of new folks, and
 like I said, kind of go back to school.
 The third pillar of it was to invest in a world-class customer success organization. You
@@ -101,9 +97,7 @@ built. So maybe you could elaborate a little bit on how the commercial enterpris
 through SMB sales motion suddenly changed with COVID, besides the obvious that
 all your sales executives and reps are working from home. So how has COVID
 stressed the sales motion at all at Microsoft?
-FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15A - Karl KeirsteadYes. Look, I think it's put pressure on all of us, frankly, Karl. And I would say that first
+A - Karl KeirsteadYes. Look, I think it's put pressure on all of us, frankly, Karl. And I would say that first
 up, we feel very privileged to be in an industry that is, frankly, one where you can just
 ﬂick a switch and pretty well-run the business remotely. We can build the product
 remotely. We can service our customers remotely. We can collaborate effectively as
@@ -144,9 +138,7 @@ the timing of a return to a more normal, call it, pre-pandemic sales motion, ﬂ
 dining again, back in the oﬃce? What's the internal Microsoft messaging about
 when that is likely to happen? It's important because when giants like Microsoft start
 returning to normal, it can be a cue in terms of when, broadly speaking, we might
-enter some recovery scenario. So I'm just curious what you're doing.FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15A - Judson Althoff
+enter some recovery scenario. So I'm just curious what you're doing.A - Judson Althoff
 A - Karl Keirstead
 A - Judson Althoff
 Yes. It's a great question. So look, first and foremost, we are working with
@@ -187,9 +179,7 @@ is just the overall sense of urgency and agility and the ruthlessness of how eve
 investment needs to come back to an impactful outcome, right? And look, any good
 CEO pre-pandemic would have been saying, "Hey, look, newsﬂash, Judson, those
 two things were super important all of the time, pandemic or not." But the criticality
-of, I think, what everyone faces right now is placing increased focus on those twoFINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15A - Karl Keirsteaddimensions. And there's certainly a lot of energy on how do we go faster? How do
+of, I think, what everyone faces right now is placing increased focus on those twoA - Karl Keirsteaddimensions. And there's certainly a lot of energy on how do we go faster? How do
 we make sure everything we do is impactful? The frivolity of anything that was
 interesting or nice to have is often cast by the wayside.
 But one thing that's very clear is that technology is being seen as the answer to
@@ -229,9 +219,7 @@ enterprises stepping back, deciding that they need to change their on-prem/cloud
 mix, make it more cloud? So the planning, whiteboarding phase. And then some of
 them have gone a little bit faster and have actually made deal commitments to Azure
 or Amazon or whomever. And then the third step is those deals actually going live in
-a way that it consumes compute/storage resources, and we on the outside actuallyFINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15A - Judson Althoffsee it in the form of Azure revenue. So where are we in that journey? Because that
+a way that it consumes compute/storage resources, and we on the outside actuallyA - Judson Althoffsee it in the form of Azure revenue. So where are we in that journey? Because that
 would help frame what the Azure outlook might look like.
 
 Yes. I sort of liken these things to sporting events. And I would say if you're a hockey
@@ -268,9 +256,7 @@ The reality of the situation is, if you look at where business processes are evo
 and you come back to this notion that technology should always be the servant of
 the business, application obsolescence and letting go of some of those assets is an
 important pressure point for opening up the economic ﬂywheel for future
-innovation.FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15A - Karl Keirstead
+innovation.A - Karl Keirstead
 A - Judson AlthoffFrom there, there's also a portion of the portfolio that should not just be lifted and
 shifted and modernized per se, but rather thought of in terms of new low-code, no-
 code capabilities and infusing it into the way people do frontline work.
@@ -310,9 +296,7 @@ customers for a very long time has helped. It's certainly in the mindset of a cu
 who's had a fair bit of Microsoft infrastructure in place historically. When pressured
 by upper management to say, "Hey, listen. We need to go to the cloud, and we need
 to go to the cloud now. And so whichever direction you thought you were headed in,
-please just go faster," that is beneficial to us.FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15A - Karl Keirstead
+please just go faster," that is beneficial to us.A - Karl Keirstead
 A - Judson AlthoffI think the investment we've made in hybrid capabilities also helps because it then
 becomes not a zero-sum decision. In other words, it's not all in the cloud or all in
 your data center. There is a logical conclusion that says there's a balance between
@@ -354,9 +338,7 @@ uttered. People were like, "What the heck is the edge? What do you mean?" And
 people, I think understood the edge when you talked about a cell phone in your
 pocket or maybe even a wearable or maybe to get their heads around an IoT center.
 But increasingly, we're putting the ability to compute at scale and reason at scale at
-the edge. We're increasingly making that a reality for customers.FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15A - Karl Keirstead
+the edge. We're increasingly making that a reality for customers.A - Karl Keirstead
 A - Judson Althoff
 A - Karl KeirsteadSo if you look at the announcements we've made on 5G and our Azure stack
 capability, there are scenarios where reasoning at the edge and having compute at
@@ -397,9 +379,7 @@ that is edge expansion, TAM expansion that is pretty material right now because 
 bulk of the way the world's industrial companies operate today is in a nondigitized
 capacity. And so as we continue to learn about the applicability of those hybrid
 intelligent edge scenarios, so goes the expansive nature of our TAM.
-FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15A - Judson AlthoffGot it. Maybe the last broadly demand question I'd love to ask you, Judson. Clearly,
+A - Judson AlthoffGot it. Maybe the last broadly demand question I'd love to ask you, Judson. Clearly,
 Microsoft now, as most big enterprise software firms do, drives a huge portion of
 your revenues from larger enterprises like UBS. But Microsoft in particular has a long
 tail of SMB that are very big Microsoft customers as well. That, unfortunately during
@@ -438,9 +418,7 @@ And so we, of course, are discounting quite a bit to support, just keeping those
 entities aﬂoat. But as they continue to get through this pandemic and come out the
 other side, we expect that sector of our business to thrive. And it's -- like I said, it's
 growing today, maybe not growing quite what it used to pre-pandemic, but we're
-bullish on the future.FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15A - Karl Keirstead
+bullish on the future.A - Karl Keirstead
 A - Judson Althoff
 A - Karl Keirstead
 Got it. So Judson, we've talked a little bit about Azure, which is key to Microsoft story,
@@ -482,9 +460,7 @@ applications platform makes sense, so much so that it's exactly what we've been
 doing for a couple of years now with Teams and our Dynamics offering and
 hundreds of third-party applications, as well as, like I said, there's no-code, low-code
 capability that is so inherent in the citizen dev movement.
-FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15A - Judson Althoff
+A - Judson Althoff
 A - Karl Keirstead
 A - Judson Althoff
 A - Karl KeirsteadGot it. But does a more muscular Slack under the Salesforce umbrella, more
@@ -523,9 +499,7 @@ something that comes over the top is just a market reality. And I think the telc
 that, and so they're looking to monetize outside of the core end-user experience.
 So look, there's no successful Teams strategy or Microsoft strategy that excludes
 telcos. In fact, we see the need for even stronger partnerships there moving forward.
-FINAL TRANSCRIPT 2020-12-08
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15A - Judson Althoff
+A - Judson Althoff
 A - Karl Keirstead
 A - Judson Althoff
 A - Karl Keirstead

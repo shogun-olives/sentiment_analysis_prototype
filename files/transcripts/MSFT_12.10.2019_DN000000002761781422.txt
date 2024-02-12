@@ -19,9 +19,7 @@ Oﬃce 65 and Windows. As well as the what we call the global demand center, whi
 is basically our marketing operations for the commercial business at Microsoft. So
 that's -- I have a sort of a direct product responsibility and then two horizontal
 responsibilities.
-FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Takeshi Numoto
+Takeshi Numoto
 Jennifer Swanson Lowe
 Takeshi NumotoGreat. And maybe before we sort of dig into those areas of responsibility, just
 starting at a high level, one of the biggest questions, I think, all year that people have
@@ -64,9 +62,7 @@ business processes, get into our new business processes or our new -- innovating
 new applications and how do I do that using cloud native technologies.
 And often times, a lot of the conversations that start in the migration sort of lead to
 these, what I think of as the innovation agenda too. And the cost of some customers,
-sort of plan for both at the same time and do it much more of a strategic partnershipFINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Jennifer Swanson Lowe
+sort of plan for both at the same time and do it much more of a strategic partnershipJennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numoto
@@ -108,9 +104,7 @@ that's sort of ongoing, sort of subject of focus for us and something we'll cont
 plug-in at. But we are seeing far larger deals and that I think is also in line with what
 the larger market trends are, as customers look to use cloud in a much more
 aggressive way.
-FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14Takeshi Numoto
+Takeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson LoweAnd maybe within that -- like a year ago or maybe 18 months ago, Satya used to talk
@@ -152,9 +146,7 @@ lift and shift and said, lift and shift doesn't work. You have to bring it over.
 to refactor. Otherwise, you're going to have the same issues. As the provider of
 Azure, how are you seeing companies successfully make that transition as they move
 their own applications over? Is it a lot of lift and shift? Are you seeing new workload
-development? Are they consuming more of those premium services as they rebuildFINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14Takeshi Numoto
+development? Are they consuming more of those premium services as they rebuildTakeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Lowetheir own applications? It just -- this seems like a big focus. So how are you seeing
@@ -197,9 +189,7 @@ customer base now that actually are skilled up enough in Azure, and being able t
 want to extend that skill set to manage other environments.
 
 And that's a good segue because that was one of the things I do want to talk about,
-was in particular Azure Arc. And we've seen Google announced Anthos as well. IFINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14Takeshi Numoto
+was in particular Azure Arc. And we've seen Google announced Anthos as well. ITakeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numotomean just to start and to put context around it, how would you sort of compare and
 contrast what you're looking to do with -- or maybe not compare and contrast. So
@@ -241,9 +231,7 @@ makes people stay? What do you think as the areas of stickiness?
 Actually for us this openness is a key portion of how we want to continue to attract
 customers and trust our platform. And so, even in our support for containers in Arc,
 we support not just one container, we support many containers, whereas Anthos for
-example requires you use just GKE. And so like for us, we think of our ability to beFINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Jennifer Swanson Lowe
+example requires you use just GKE. And so like for us, we think of our ability to beJennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Loweable to be broad and very open-tented is actually a huge customer value
 proposition, and one that enables us to attract more customers.
@@ -284,9 +272,7 @@ a little bit.
 Okay. And maybe just to double-click on the hybrid use benefits, as customers look
 to take advantage of that program or look at that as a way to get comfortable buying
 today and then have a vision for the future, what's sort of the horizon on that? I mean
-are people buying with the view that, hey, maybe in five years as we move to theFINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14Takeshi Numoto
+are people buying with the view that, hey, maybe in five years as we move to theTakeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Lowecloud, but I want that ﬂexibility? Or is it a bit more immediate or spectrum? I'd just
@@ -327,9 +313,7 @@ the deep professional developer capabilities Microsoft provides with Azure.
 And one of -- I think one of the attractive aspects of the Power Platform is it seems
 pretty easy to use, pretty end user-centric. I go to Build and I see a demo, and I think
 I could do it. I probably couldn't but I at least pretend I could. But -- so it is very much
-designed to appeal to the user, but the user may or may not be the ultimateFINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Takeshi Numoto
+designed to appeal to the user, but the user may or may not be the ultimateTakeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numotodecision-maker on whether this is something to be purchased. So can you just -- who
 do you sell to in the organization? Is it -- it's -- well, who is the buyer?
@@ -371,9 +355,7 @@ essentially software perpetuated. The product excitement, I think they can do in
 building dashboards and sharing that. And so that was one way that where it really
 took off. And the fact that we also created an offering with oﬃce 65 and E5 that
 included Power BI also sort of essentially tried to create end user excitement with the
-sales motion that was a little bit in the traditional Oﬃce 65 sales motion piece.FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Jennifer Swanson Lowe
+sales motion that was a little bit in the traditional Oﬃce 65 sales motion piece.Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson LoweAnd then when you think about newer Power Platform products like Power Automate
 or Power Apps, a lot of that is coming from organic usage first and foremost from
@@ -415,9 +397,7 @@ Okay. Great. And I still have a bunch, but I know we've already got a couple of
 questions from the audience. So maybe I'll ask one more, and then if people want to
 send it in, I'll look at these, too. Maybe just around Dynamics. I guess, I assume -- so I
 think just going back to the history of Great Plains in Microsoft way back and the
-history of Microsoft in the application space.FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Takeshi Numoto
+history of Microsoft in the application space.Takeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Lowe
@@ -459,9 +439,7 @@ you could talk a little bit about how -- and this might fall -- so this falls a 
 outside of what you focus on, too. But I -- how you think about the process of the
 CapEx buildout with Azure, any sort of change in how that looks, what you're
 investing in. To the extent that, that falls in areas that you look at, I'd be -- there's
-some interest.FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Takeshi Numoto
+some interest.Takeshi Numoto
 Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Lowe
@@ -502,9 +480,7 @@ that's also highly correlated with the increase in number of large deals. When y
 have a big enterprise deal that's large, oftentimes that is catalyzed by a Tier 1
 workload and our strategic alignment with the customer. And so those all go hand in
 hand.
-FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Takeshi Numoto
+Takeshi Numoto
 Jennifer Swanson Lowe
 Takeshi NumotoAnd maybe a related one to that, SAP is one example, but we've seen Microsoft
 partner with a lot of software vendors. Adobe is one. We have ServiceNow
@@ -546,9 +522,7 @@ see.
 Yeah. We recently announced updated DAU numbers I think from 20 million and we
 continue to see loss momentum. And we also announced a set of new capabilities in
 Ignite to Internet is something that we continue to invest significantly in both in R&D
-and go to market.FINAL TRANSCRIPT 2019-12-10
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14Jennifer Swanson Lowe
+and go to market.Jennifer Swanson Lowe
 Takeshi Numoto
 Jennifer Swanson Lowe
 Okay. And actually just on that, because if I -- just having gone to a lot of industry

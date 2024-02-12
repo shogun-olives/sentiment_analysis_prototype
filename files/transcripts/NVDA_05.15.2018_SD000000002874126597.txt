@@ -23,9 +23,7 @@ Thank you. So much for the introduction. So I would love to start out with our r
 that we just finished our Q1 late last week. And in terms of announcing that, for those
 that weren't aware, let me just kind of start on a high-level summary. That was a great
 summary in terms of where we've been in terms of this last year, in the last three
-years and Q1 was just a continuation of some of those great results that we've seen.FINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11We announced revenue growth of more than 66% year-on-year, topping more than
+years and Q1 was just a continuation of some of those great results that we've seen.We announced revenue growth of more than 66% year-on-year, topping more than
 $3.2 billion for the overall quarter. This was fueled by our growth in terms of our
 gaming business that reached more than $1.7 billion, fueled by our overall Pascal
 architecture available for many of our gamers worldwide. You see a gaming industry
@@ -67,9 +65,7 @@ depending on which version of your overall profitability that you choose. We hav
 unique leveraged model that we are able to leverage an engineering workforce that
 really focuses on one thing, a GPU. That GPU allows us to span across all 4 of our
 different markets and leverage the overall design engineering that it takes to build
-out our platforms for each one of that.FINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11So we're very excited with the overall progress that we made this quarter. That was a
+out our platforms for each one of that.So we're very excited with the overall progress that we made this quarter. That was a
 follow-on to some of the great work in the announcements that we had announced
 at our GTC. Our GTC stands for GPU Technology Conference that we held back in
 March. Now this conference is essential. It's not necessarily a place where we're
@@ -112,9 +108,7 @@ So these were some of our key announcements that we've focused on as well as the
 announcements of our inferencing concentration in terms of in the data center.
 We've talked quite a bit about the use of deep learning training in the data center
 for AI, which is taking extremely large data sets and just through inferring from those
-large data sets millions and millions of images, you can actually train a computer toFINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11Q - Harlan Surunderstand each and categorize those images. Inferencing talks about the overall
+large data sets millions and millions of images, you can actually train a computer toQ - Harlan Surunderstand each and categorize those images. Inferencing talks about the overall
 incremental data that comes on board and what you need to do with that, how you
 need to sort and complete that. It's about a speed factor there. We have
 concentrated on our TensorRT 4 version of our software, which is more about
@@ -156,9 +150,7 @@ sales, there's an expansion of your installed base, there's penetration of new
 platforms into your installed base. And so -- and then you also have as games get
 more complex, your users are motivated to move up the stack to buy your higher
 performance gaming solutions. So you have ASP increase as well. And so as you
-think about growth in your gaming franchise going forward, how do you think aboutFINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11A - Colette M. Kress
+think about growth in your gaming franchise going forward, how do you think aboutA - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kressputting all these vectors together to figure out what are the biggest contributors to
 drive the growth for the GeForce business?
@@ -204,9 +196,7 @@ What continues to drive us in going forward, gamers are coming on. They come on
 in terms of gaming. It is about continuing to upgrade to the latest and greatest
 technology to play your favorite game that's coming. Your favorite game that's here
 or the favorite game that you actually lost to the night before. But you'd actually
-probably play better if you got a new gaming card. We have that ability to have anFINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Q - Harlan Sur
+probably play better if you got a new gaming card. We have that ability to have anQ - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Surinfrastructure that's, that easy to update over time. Additionally, our focus in terms of
 a platform is focused on a gaming card for everybody. As you know, the world
@@ -252,9 +242,7 @@ This next question is for all of the enthusiast gamers in the audience, for all 
 enthusiast gamers worldwide. And my son as well who is an enthusiast gamer. But
 we're coming upon the 2-year anniversary of the launch of your Pascal-based
 gaming architecture, 1070, 1080 graphics processors. You had a hugely successful
-1080 Ti platform, which was launched last year. Typically, the cadence for newFINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11A - Colette M. Kress
+1080 Ti platform, which was launched last year. Typically, the cadence for newA - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kressproducts is two years. We're coming up on that 2-year window this year. So what
 should we expect? Should we expect an extension of the Pascal or the current-based
@@ -300,9 +288,7 @@ fast that these jobs can get done, that leave us with the overall results of the
 So they are highly focused in terms of using accelerated computing. But they are
 interested in accelerated computing in new form factors. Accelerated computing
 with the supercomputers are there. But we are also seeing the adoption of DGX
-systems or end-to-end systems to do that. We also see them focused in terms of theFINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11use of the cloud, in terms of moving these high-performance computing into cloud
+systems or end-to-end systems to do that. We also see them focused in terms of theuse of the cloud, in terms of moving these high-performance computing into cloud
 instances to get the work. So we incorporated that in the first $10 billion. The next is
 another $20 billion type of focus. Focus in terms of our hyperscales and focus on an
 area that we call the consumer Internet companies. The hyperscales we all know well
@@ -351,9 +337,7 @@ programmability of the hardware. It allows the programmability as though you wer
 at the software level. You don't have to be a hardware designer. You have to be a
 software engineer. We began 10 years ago teaching this in institutions worldwide,
 starting with our higher education, starting with the high-end research. Well after 10
-years, you establish a pretty heavy base of overall developers. We have more thanFINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11Q - Harlan Sur
+years, you establish a pretty heavy base of overall developers. We have more thanQ - Harlan Sur
 A - Colette M. Kress850,000 developers with growth astronomical. Growth in terms of our overall CUDA
 downloads in the millions each year, those wanting to focus in terms of what others
 are doing. It's not always just about the hardware. But it is where do the developers
@@ -400,9 +384,7 @@ platform, our platform for autonomous driving. We're on our third generation of 
 platform. And we will continue to work with overall the 380 different partners, tier 1s,
 automotive leads in terms of focusing on the development of these autonomous
 platforms for the safety needs that it needs so that we can bring this to market in the
-next couple of years.FINAL TRANSCRIPT 2018-05-15
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Harlan Sur
+next couple of years.Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress

@@ -2,9 +2,7 @@ Hi, everyone. Welcome to NVIDIA's 2021 Investor Day. I'm Simona Jankowski from
 Investor Relations.
 I'd like to welcome all of you joining us on the webcast and hope to see many of you
 in person for future events. Let me quickly walk through the safe harbor before
-getting to today's agenda.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 37Jen-Hsun HuangWe will be making forward-looking statements regarding our expectations and other
+getting to today's agenda.Jen-Hsun HuangWe will be making forward-looking statements regarding our expectations and other
 future events, which may differ materially from NVIDIA's actual results. Please refer to
 our SEC filings for a description of our businesses and associated risks and other
 factors, which could cause our results to differ materially from these statements.
@@ -40,9 +38,7 @@ BMW simulator factory. Omniverse is the foundation platform of our AR and VR
 strategies.
 Our design and remote collaboration strategies, our med averse virtual world
 strategies and our robotics and autonomous machine AI strategies. You're going to
-see a lot more of Omnibus. It's a really important platform.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 37We announced the new DGX station, the new DGX Superpod, the world's first cloud-
+see a lot more of Omnibus. It's a really important platform.We announced the new DGX station, the new DGX Superpod, the world's first cloud-
 native supercomputer. It is now the world's first cloud-native supercomputer.
 We announced 3 important new. MegaTron to train giant transformer language
 models. And never the #1 internet company in Korea is an excellent example of why
@@ -77,9 +73,7 @@ One of the most important announcements is NVIDIA EGX for enterprise with aerial
 for 5G industrial edge. And with aerial for 5G industrial edge. We believe enterprise
 industrial Edge will be where AI makes the biggest impact. In health care, warehouse
 logistics, manufacturing, retail, agriculture, transportation, the world's largest
-industries.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 37We announced new customers of drive Orin and a new chip called Atlan and a
+industries.We announced new customers of drive Orin and a new chip called Atlan and a
 reference AAV car computer system called Hyperion 8. The announcements feature
 the most powerful dynamics that are shaping the industries today.
 Accelerated computing is the path forward. And not only has it kept computing
@@ -113,9 +107,7 @@ Graviton2 and NVIDIA GPU. We announced that M Ampere Computing and NVIDIA
 are building reference platforms for AI, scientific computing and cloud.
 We announced that Marvell and NVIDIA are building reference platforms for 5G and
 cloud and 5G edge in cloud. And we announced that MediaTek and NVIDIA building
-reference platforms for PC and mobile devices.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 37Our combination will accelerate and expand Arm's opportunities. Arm and NVIDIA
+reference platforms for PC and mobile devices.Our combination will accelerate and expand Arm's opportunities. Arm and NVIDIA
 are great businesses separately. Together, we will create new growth platforms for
 our partners and build a premier computing company for the age of AI.
 We're working with regulators in the U.S., Europe and Asia to explain our vision for
@@ -151,9 +143,7 @@ so that NVIDIA AI can achieve bare metal performance in a VMware virtualized
 environment.
 This is important because 80% of the world's enterprise runs Vmware. We're offering
 NVIDIA AI enterprise, a major software product with enterprise-grade service levels
-for mission-critical AI operations. And to run on top of the NVIDIA AIOS, if you will,FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 37we have the NVIDIA suite of NVIDIA pretrained models, state-of-the-art AI models,
+for mission-critical AI operations. And to run on top of the NVIDIA AIOS, if you will,we have the NVIDIA suite of NVIDIA pretrained models, state-of-the-art AI models,
 designed for production and performance optimized to deploy.
 There are many personas of AIs that we offer, but think of it as site, speech,
 language, animation, understanding and recommendation AIs. If NVIDIA AI is the
@@ -187,9 +177,7 @@ decade-long investment. NVIDIA strategy has 3 central pillars: first, build an e
 end and full stack drive service that we will operate with automakers.
 Second, build an open platform for the drive building blocks for the entire
 transportation industry to build AVs. And third, generalize the learnings from drive to
-create other machine learning applications like robotics and edge AI.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 37On the left is the pipeline. It's an incredible thing that drive -- autonomous driving
+create other machine learning applications like robotics and edge AI.On the left is the pipeline. It's an incredible thing that drive -- autonomous driving
 requires. Hyperion 8 AV system in BBA test car collects data that are data factory
 processes into label training data. Label data and Omniverse synthetically generated
 data trains our models. Then drive AV application runs an Omniverse drive
@@ -224,9 +212,7 @@ software services they invent for years to come.
 This is a giant new observation and is transforming the industry. A few million cars
 installed based on the road -- a few million cars installed base on the road for 15 to
 20 years, even a few hundred dollars of services each year represent an immense
-value creation opportunity.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 37Jeffrey FisherPutting an Orin a few into the car is the best way to build a valuable installed base.
+value creation opportunity.Jeffrey FisherPutting an Orin a few into the car is the best way to build a valuable installed base.
 NVIDIA is an accelerated computing company and innovates across the entire stack.
 NVIDIA is built as an open platform with 3 layers: chips and systems, software
 platforms and application frameworks.
@@ -261,9 +247,7 @@ grown into a social network and more than doubled its active users to 140 millio
 2018 -- since 2018.
 Gaming is a sport. Esports have fueled a new generation of e-athletes who compete
 for bragging rights and has span professional careers. 75% of Gforce gamers play
-esports. Esports inﬂuence is growing, and the world is tuning in.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 37In the past two years, the esports audience has grown by 75 million, totaling 436
+esports. Esports inﬂuence is growing, and the world is tuning in.In the past two years, the esports audience has grown by 75 million, totaling 436
 million viewers. Gaming has offered -- gaming also offers interactive storytelling.
 While watch a movie, when you could play a movie that's a cinematic and rich as
 anything produced in Hollywood.
@@ -301,9 +285,7 @@ GPU CAGR is 21%, with growth in units shipped and ASP.
 Looking forward, RTX represents a huge reset of the installed base. RTX was featured
 in the biggest games of last year, including Cyberpunk and WatchDogs Legion and
 in massive hit titles like Fortnite, World of Warcraft, and the best-selling game of all
-time, Minecraft.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 37And if you haven't seen some of the beautiful RTX worlds that Minecraft gamers are
+time, Minecraft.And if you haven't seen some of the beautiful RTX worlds that Minecraft gamers are
 creating, do a quick Google search of RTX Minecraft.
 Trust me, you will be amazed. With every major operating system, game engine and
 console supporting ray tracing and a strong pipeline of games on the horizon, RTX is
@@ -338,9 +320,7 @@ models from every OEM starting at just $999. This was our best laptop launch eve
 Laptops represent a major growth opportunity. As new buyers are choosing laptops,
 choosing gaming laptops to learn, play and create.
 Fueling this growth is Max-Q. Max-Q is a system design approach that delivers high-
-performance in thin and light gaming laptops. It has fundamentally changed howFINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 37laptops are built.
+performance in thin and light gaming laptops. It has fundamentally changed howlaptops are built.
 Our third-generation Max-Q was introduced with the Ampere architecture. It
 includes dynamic boost 2.0. For the first time, dynamic Boost uses AI to dynamically
 shift power between the GPU, CPU and system memory, depending on where it is
@@ -374,9 +354,7 @@ number of streamers more than doubled over the past year.
 In China, streamers are becoming a new e-commerce channel, selling gaming
 hardware direct to their followers, including GeForce RTX GPUs. Sharing your
 gameplay while streaming requires high-performance hardware. Many enthusiasts
-use 2 PCs, 1 to play and the other to broadcast.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 37NVIDIA broadcast paired with GeForce RTX solves that. Broadcast uses AI to
+use 2 PCs, 1 to play and the other to broadcast.NVIDIA broadcast paired with GeForce RTX solves that. Broadcast uses AI to
 eliminate background noise and to green screen your background. And the
 powerful video encoder in RTX is capable of streaming video without impacting your
 gameplay.
@@ -411,9 +389,7 @@ With a high resolution, low latency requirements of gaming, cloud gaming is the
 killer app for 5G.
 Today, GFN has passed 10 million registered users. And offers 1,000 instantly
 playable games with much more coming online every Thursday in our GFN
-Thursdays, 2-minute and watch for that.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 37Colette KressGFN is offered in 27 countries. And today, I'm excited to sit to announce that we are
+Thursdays, 2-minute and watch for that.Colette KressGFN is offered in 27 countries. And today, I'm excited to sit to announce that we are
 adding South America to the list for 2021, including our most requested country and
 1 I'm most excited about Brazil. Brazil is traditionally a low end hardware gaming
 market, and they are going to love GFN.
@@ -448,9 +424,7 @@ non-GAAP operating income increased 82% year-on-year, and our non-GAAP EPS
 increased 73% year-on-year to $10 a share.
 Let's turn to the performance of our market platforms. Our gaming business grew
 41% year-on-year to record $7.8 billion, in fiscal year '21, with broad based strength,
-driven by growth in our desktop, notebook and console businesses.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 37We reinvented the graphics with the launch of our RTX 30 Series GPUs. And and the
+driven by growth in our desktop, notebook and console businesses.We reinvented the graphics with the launch of our RTX 30 Series GPUs. And and the
 demand has been off the charts, resulting in the fastest launch in the company's
 history, twice as fast as Turing.
 Gaming revenue has seen a 4-year compounded annual growth rate of 18%, driven
@@ -485,9 +459,7 @@ These advances of the A100 combined with the forces of AI and cloud computing
 drove strong demand in fiscal '21 across hyperscales and enterprise customers.
 From a workload perspective, we saw strength across training and inference as
 exponential increase in AI model complexity and compute requirements drove the
-demand for NVIDIA accelerated compute and networking products.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 37Finally, Mellanox had an outstanding year with growth stemming from hyperscale
+demand for NVIDIA accelerated compute and networking products.Finally, Mellanox had an outstanding year with growth stemming from hyperscale
 supercomputing and AI customers. From a product perspective, Mellanox saw
 strength across Ethernet and infiniband offerings. In total, we have seen tremendous
 growth in data set with a 4-year compounded annual growth rate of 69%.
@@ -525,9 +497,7 @@ across the transportation industry, which will create a significant software
 component.
 Today, vocal cars announced that it will build next-generation vehicles on NVIDIA
 drive alone. This further extends our partnership with Volvo to now include more
-software-defined vehicles in its lineup beginning in 2023.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 37Volvo joins other established OEMs, such as Mercedes, Audi and Hyundai, who were
+software-defined vehicles in its lineup beginning in 2023.Volvo joins other established OEMs, such as Mercedes, Audi and Hyundai, who were
 all developing on investment (technical diﬃculty) driving including many trucking.
 The auto we are harnessing the new season GPUs, but also their incredible energy
 eﬃciency.
@@ -562,9 +532,7 @@ Additionally, the gross margin profile of our gaming GPU business has increased
 over time as gamers have bought up our stack, resulting in rising blended ASPs. We
 expect this trend to continue over the coming years as gamers upgrade to Ampere
 RTX continues in its rapid pace of adoption and the overall production value of
-games continues to increase.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 37Overall, our gross margin has increased from 59.2% in fiscal year 2017 to 65.6% in
+games continues to increase.Overall, our gross margin has increased from 59.2% in fiscal year 2017 to 65.6% in
 fiscal year '21. We continue to see uplift to our gross margin profile as our mix shifts
 to higher-value platforms. Furthermore, software is a significant opportunity for
 NVIDIA.
@@ -600,9 +568,7 @@ year 2021.
 It has also allowed us to engage in transformational M&A as seen with our purchase
 of Mellanox and the announced acquisition of Arm. We maintain a disciplined capital
 return possibly with $5 billion returned to shareholders in the form of dividends and
-share repurchases since fiscal 2017.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 18 of 37We remain committed to paying a dividend. We employ a conservative financial
+share repurchases since fiscal 2017.We remain committed to paying a dividend. We employ a conservative financial
 quality and have a healthy balance sheet with $11.6 billion in cash and marketable
 securities and $7 billion in debt.
 Overall, our business is highly cash generative, and we expect continued growth in
@@ -638,9 +604,7 @@ our innovations in this past year when our technologies played an important role
 fighting the pandemic across a wide range of use cases.
 Our Clara platform helped with discovery efforts as community races to develop a
 vaccine and other treatments. Our V100 and T4 GPUs help scientists create the first
-atomic scale map of the corona '19 virus. And our AGX platform helped keep healthFINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 19 of 37A - Simona Jankowski
+atomic scale map of the corona '19 virus. And our AGX platform helped keep healthA - Simona Jankowski
 Q - John Pitzer
 A - Jen-Hsun Huangcare and frontline workers safe with automated technologies that accomplished
 house without human invention.
@@ -677,9 +641,7 @@ computing is really diverse. I mean there are so many segments of computing and
 each one of them are architected slightly differently for good reasons.
 Some of them are optimized for a single-threaded performance. Some of it is
 optimized for many quarters. Some of it is optimized for strong IO performance,
-some of it is really optimized for large amounts of data.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 20 of 37A - Simona Jankowski
+some of it is really optimized for large amounts of data.A - Simona Jankowski
 Q - Christopher Muse
 A - Jen-Hsun HuangWe designed Grace for -- especially for a particular application that is a set of range
 of applications, if you will, that is really dedicated towards giant data scale
@@ -716,9 +678,7 @@ over the next 5, 10 years?
 
 Yes. Thanks, C.J. Well, first of all, Grace next, I'm going to have to save that that
 surprise you. I hate to ruin your surprise, and there's so much stuff that we're working
-on.FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 21 of 37A - Simona Jankowski
+on.A - Simona Jankowski
 Q - Vivek Arya
 A - Jen-Hsun HuangOur strategy as a company, our -- if you will, a core philosophy as a company, are
 really to do things that are uniquely for NVIDIA to do and things that are really, really
@@ -755,9 +715,7 @@ automotive side.
 I'm curious, what is the strategy here? How big are those businesses for you today?
 how big can they be over time? And what impact will they have on the financials of
 the company?
-FINAL TRANSCRIPT 2021-04-12
-NVIDIA Corp (NVDA US Equity)
-Page 22 of 37Yes, Vivek, thanks for the question. The driving -- the driving purpose for the full
+Yes, Vivek, thanks for the question. The driving -- the driving purpose for the full
 stack approach is to pioneer accelerated computing. When you create a new form of
 computing that is brand new, and it doesn't come along very often. And if you take a
 look at the modern way of doing computing, it's running on CPUs. And then, of

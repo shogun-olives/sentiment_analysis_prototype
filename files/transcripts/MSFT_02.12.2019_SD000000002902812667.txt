@@ -21,9 +21,7 @@ of different angles on, I would say, we -- well, it is -- in general, the cloud 
 great. And it's definitely growing. And we're moving into even kind of late-stage
 adopter. The percentage of the IP and the applications being built and migrated, go
 into cloud is still pretty small. And we still have a lot more to go. So while most
-companies today have some workloads that they're migrating to the cloud, they'reFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 2 of 16Q - Heather Anne Bellini
+companies today have some workloads that they're migrating to the cloud, they'reQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
@@ -68,9 +66,7 @@ increased. But it's still early.
 
 So how do you -- I mean, I don't know to the extent you guys kind of talk about this.
 But if you can give us a way to think about, you were just kind of going down this
-path, like IaaS versus PaaS penetration in Azure. So meaning, of Azure workloads,FINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 3 of 16A - Julia White
+path, like IaaS versus PaaS penetration in Azure. So meaning, of Azure workloads,A - Julia White
 Q - Heather Anne Bellini
 A - Julia Whiteright, what percentage of them would be -- or revenue, how much would be PaaS
 versus IaaS? Like how do you think about that like moving higher up?
@@ -115,9 +111,7 @@ really increasing is around trust. And that's trust of our security, our complia
 privacy. We have more accreditations and attestations. I mean, in the public cloud,
 certainly important. But it's pivoted even farther now to a trusted vendor in that we
 are very transparent about what our core competencies are, what businesses we're
-in, we're not going to turn around and compete with our customers. And that'sFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 4 of 16Q - Heather Anne Bellini
+in, we're not going to turn around and compete with our customers. And that'sQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
@@ -158,9 +152,7 @@ would seem like that would be one that's on the come then in terms of what we
 should be.
 (technical diﬃculty)
 a little less EMS maybe just given how well you guys have done there and a bit more
-in this area.FINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 5 of 16A - Julia White
+in this area.A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
@@ -203,9 +195,7 @@ we're entering into, whether it be analytics, you're going to see over the next 
 additional places we're investing, new businesses we're crashing into. I mean, we've
 effectively got an unlimited TAM that we're playing with for the majority of Azure, all
 right? EMS has a per-user cap to it. But from an IaaS and PaaS perspective...
-FINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 6 of 16A - Julia White
+A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
@@ -249,9 +239,7 @@ doesn't see $1 million in their quota. They see it as it gets consumed through t
 year. So 100% true on that. The company will still obviously financially recognize if a
 customer chooses to bill upfront. And we had -- it's interesting, we had pulled and
 done so much field retrainings, they go out of this build motion, get rid of that
-muscle memory and go to consumption. Then we actually found customers are like,FINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 7 of 16Q - Heather Anne Bellini
+muscle memory and go to consumption. Then we actually found customers are like,Q - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White"No, no, I actually kind of like to buy and lock up my dollars." Yes. So there's actually
@@ -293,9 +281,7 @@ aspect of this, too, we have the Azure Hybrid Benefits. But we also have our Win
 and SQL Server 2008 product that's going into extended support. That's 10 years
 old. That means it's going out of mainstream support. So customers are faced with 2
 options. One, they can buy extended security updates for about 75% of the cost of
-license or they can move and run it on Azure and get that for free. So it's a secondaryFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 8 of 16Q - Heather Anne Bellini
+license or they can move and run it on Azure and get that for free. So it's a secondaryQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
@@ -337,9 +323,7 @@ And -- or, "AWS is missing that feature. But they'll probably get it, too." So i
 normalized from a pure technology perspective. There's places that are materially
 different that come up. Hybrid, that category of things, we have a bunch of stuff they
 can't touch. So a few aspects like that. But other than that, it's pretty normalized from
-that perspective. Then it's more into -- AWS, obviously, they were out first, they're theFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 9 of 16Q - Heather Anne Bellini
+that perspective. Then it's more into -- AWS, obviously, they were out first, they're theQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
@@ -381,9 +365,7 @@ When -- taking applications off of a cloud to another one, honestly, is a place 
 we could spend a lot of time. And our competitive nature would want us to. But I'm
 like, the white space and the TAM of this business is so big, I don't actually
 encourage our salespeople to focus a lot of energy on that. If a customer's like, "Hi. I
-can't trust AWS," or "I can find better (business) with you," we'll say switch. But it'sFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 10 of 16Q - Heather Anne Bellini
+can't trust AWS," or "I can find better (business) with you," we'll say switch. But it'sQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 Q - Unidentified Participant
@@ -426,9 +408,7 @@ I think there's a perception that you guys are very strong in large-scale enterp
 for many of the things you've talked about: hybrid, your reliability, your long-scale
 trust. How are you positioning yourself with younger companies, with start-ups. So
 that you're relevant for that next generation of companies?
-FINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 11 of 16Q - Heather Anne Bellini
+Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Julia White
 Q - Unidentified Participant
@@ -471,9 +451,7 @@ really chase customers per se, which Amazon may be competing with. There's a bit
 of mismatch between this. I'm just wondering where and what am I missing?
 
 I'll tell you what I'm seeing and see if that answers your question perhaps, is I would
-say things like retailers and financial services companies now and now into healthFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 12 of 16Q - Unidentified Participant
+say things like retailers and financial services companies now and now into healthQ - Unidentified Participant
 A - Julia White
 Q - Unidentified Participant
 A - Julia Whitecare, seeing Amazon go into those businesses and saying, "Gosh, am I going to give
@@ -516,9 +494,7 @@ plan capacity for, yes, you say you're seeing such strong growth?
 Yes. There's a lot of science in that. So it's a combination of, first of all, where globally
 we see the demand signal. We obviously have lots and lots of models around how to
 predict demand and where it's going to be coming from. But then we also do -- we
-have very good visibility into our sales pipeline, both from our direct field but alsoFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 13 of 16Q - Heather Anne Bellini
+have very good visibility into our sales pipeline, both from our direct field but alsoQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia Whitefrom our partners, of the type of applications and the type of workloads people are
@@ -563,9 +539,7 @@ ignite even more spending, right, be additive and then create new use cases and
 new applications?
 
 Yes. I think you would theoretically say, "Gosh, it's going to be deﬂationary because
-everything's going to shift over there. And then we're going to get supereﬃcient inFINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 14 of 16Q - Heather Anne Bellini
+everything's going to shift over there. And then we're going to get supereﬃcient inQ - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White
@@ -608,9 +582,7 @@ maybe to the CMO from AdWords or G Suite and then kind of buy the GCP usage
 from that. And so it's more of kind of a roundabout way to get into those accounts
 and more by the business. And I think if you're early in trying to get enterprise wins,
 you're going to go by the business. So that's more of what I see come in. And it's not
-frequent, to be honest. It's geographies, I see a few places.FINAL TRANSCRIPT 2019-02-12
-Microsoft Corp (MSFT US Equity)
-Page 15 of 16Q - Heather Anne Bellini
+frequent, to be honest. It's geographies, I see a few places.Q - Heather Anne Bellini
 A - Julia White
 Q - Heather Anne Bellini
 A - Julia White

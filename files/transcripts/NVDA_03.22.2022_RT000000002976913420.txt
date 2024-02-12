@@ -23,9 +23,7 @@ intersection of computing, algorithms and science. With each new SDK new science
 new applications and new industries can tap into the power of NVIDIA computing.
 NVIDIA SDK's connect us to new opportunities, and new growth.
 We launched 60 plus new and updated libraries of nearly 500 at GTC, for millions of
-developers, scientists, AI researchers and tens of thousands of startups andFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 45enterprises. The NVIDIA systems they run just got faster. NVIDIA now offers
+developers, scientists, AI researchers and tens of thousands of startups andenterprises. The NVIDIA systems they run just got faster. NVIDIA now offers
 licensable software products and NVIDIA AI Enterprise and video NVIDIA Omniverse
 Enterprise with enterprise service levels, access to experts and multi-generational
 stability.
@@ -64,9 +62,7 @@ memory bandwidth. Grace is on track for production next year. Grace moves and
 processes mountains of data and is ideal for AI infrastructures, scientific computing
 and Omniverse digital twins. One of Grace's best features is the rich ecosystem of
 servers (inaudible) libraries NVIDIA software platforms, RTX, HPC, AI and Omniverse
-and a world of partners that we will bring to Grace.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 45NVLink will be coming to all to all future NVIDIA chips, CPUs, GPUs, DPUs, and SOCs.
+and a world of partners that we will bring to Grace.NVLink will be coming to all to all future NVIDIA chips, CPUs, GPUs, DPUs, and SOCs.
 We announced NVLink is open for customers and partners to build custom chips.
 NVLink opens a new world of opportunities to build semi-custom chips and systems
 that leverage NVIDIA's platforms in ecosystems. We announced the Spectrum 4 400
@@ -106,9 +102,7 @@ facilities operated by humans and robots working together.
 The warehouse is also a robot, orchestrating the ﬂow of materials and the route plan
 of the AMRs inside. This is the busiest GTC in our history, the largest wave of new
 CPU, GPU, networking chips, new systems, new software products, new AI and
-robotics models. Today's presentations will cover our growth drivers, strategies andFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 45Manuvir Dasopportunities. NVIDIA management will discuss five areas, Enterprise, Hyperscale,
+robotics models. Today's presentations will cover our growth drivers, strategies andManuvir Dasopportunities. NVIDIA management will discuss five areas, Enterprise, Hyperscale,
 Omniverse, Auto and Gaming. Every group builds its products and strategies on one
 NVIDIA architecture leveraging the full platform and all our technologies to serve our
 markets.
@@ -146,9 +140,7 @@ about use cases that change industries either saving money or enabling building
 new business. For example, in retail AI is being used for automated checkout, a new
 experience that simplifies the shopping experience, driving more customers to
 stores. And it is also being used for loss prevention, saving money, in financial
-services for fraud detection, in logistics for optimizing delivery.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 45So this is not just about the envelope of traditional IT spend rather there is an
+services for fraud detection, in logistics for optimizing delivery.So this is not just about the envelope of traditional IT spend rather there is an
 opportunity for an AI provider to participate in the revenue of the industry itself. To
 that end at NVIDIA we have developed a full stack of AI. The best hardware of
 course, that's what makes AL (inaudible) practical in the first place. Then, the
@@ -187,9 +179,7 @@ for a variety of use cases shown on this slide. Cameras on the roads, AI detecti
 traﬃc violations, (inaudible) drive-throughs AI taking orders and recommending
 menu options.
 We've been preparing for this growth for some time now by fostering an ecosystem
-for edge AI, just as we did with AI in the data center. The chart here shows theFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 45Ian Buckgrowth in our ecosystem and also the components we have added to NVIDIA AI over
+for edge AI, just as we did with AI in the data center. The chart here shows theIan Buckgrowth in our ecosystem and also the components we have added to NVIDIA AI over
 time to enable this ecosystem, NVIDIA AI enterprise on every server, data center or
 edge. Along with us the ﬂywheel of the ecosystem has been gearing up to sell
 NVIDIA AI enterprise.
@@ -226,9 +216,7 @@ productivity of AI developers helping them deploy more AI in the cloud and drive
 faster growth for AI infrastructure. Second, by improving the scalability of our
 architecture, we expand the scale and size of AI supercomputers to help our largest
 customers, as well as NVIDIA ourselves to build the next generation of AI
-infrastructure and push the limits of what AI can achieve.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 45And third, by improving AI inference, the production use case of AI, we widen the
+infrastructure and push the limits of what AI can achieve.And third, by improving AI inference, the production use case of AI, we widen the
 aperture to allow, even larger and more powerful AIs to be deployed into
 production. Just as we saw a 3x revenue growth from the launch of the NVIDIA V100
 to the A100 GPU so, to will the Hopper H100 enabled a new wave of AI models and
@@ -268,9 +256,7 @@ on the first try and only a few milliseconds to connect you with the right produ
 article, tweet or advertisement.
 NVIDIA Merlin is an open source framework for building large scale deep learning
 recommender systems. NVIDIA's Merlin is envy tabular library can accelerate feature
-engineering and pre-processing to manipulate the many terabytes of unstructuredFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 45data sets into AI tensors that can be operated on by an AI. In addition, Merlin
+engineering and pre-processing to manipulate the many terabytes of unstructureddata sets into AI tensors that can be operated on by an AI. In addition, Merlin
 supports distributed training with model parallel and bedding tables and data
 parallel neural networks, when across multiple GPUs for these giant models.
 Snap used in NVIDIA GPUs and Merlin software to achieve a 50% increase in the cost
@@ -309,9 +295,7 @@ performance and eﬃciency will allow GPUs to train faster and larger AI models
 without ever letting the CPU get in the way. Furthermore, Grace's configurability for
 new CPU, GPU system configurations optimized -- allows us to optimize AI
 infrastructure for different workloads, leveraging both existing (inaudible) CPUs and
-GPUs attached with the new envy link chip-to-chip interconnect.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 45Ali KaniThe Grace CPU superchip is of course, an amazing CPU all by itself And we're seeing
+GPUs attached with the new envy link chip-to-chip interconnect.Ali KaniThe Grace CPU superchip is of course, an amazing CPU all by itself And we're seeing
 strong interest in scientific computing, data analytics, hyper scale computing
 applications, where absolute performance, energy eﬃciency, data center density
 matter for the CPU applications.
@@ -350,9 +334,7 @@ together create compelling opportunities for NVIDIA. First, advancements and
 electrification have pushed OEM's to re-architect their cars from the ground up into
 software-defined vehicles that use centralized high performance computers, that can
 provide a large and growing list of new features and services over the life of the
-vehicle.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 45Seconds, these services give OEM's an exciting opportunity to transform their
+vehicle.Seconds, these services give OEM's an exciting opportunity to transform their
 business model like we have seen Tesla do with their autopilot software. That is
 grown in price from less than $5000 to $12,000 a car today. It's part of this AV
 software disruption, we're seeing an order of magnitude 10x in compute increase in
@@ -391,9 +373,7 @@ will most differentiate automotive companies is the speed of their end-to-end
 development ﬂow, from finding an issue in a car to root causing it, providing a fixed
 if it's quickly validated, and then securely OTAing better software into every vehicle.
 We estimate Auto to be a large $300 billion market opportunity. And NVIDIA's
-opportunity spans both hardware, software and services in the car and in the cloud.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 45Inside the vehicle, there are nearly 100 million cars sold a year that will each need a
+opportunity spans both hardware, software and services in the car and in the cloud.Inside the vehicle, there are nearly 100 million cars sold a year that will each need a
 high performance computer. We offer these OEMs, our Tegra SOCs and discrete
 GPUs along with our operating system and drive work acceleration SDK and
 libraries.
@@ -432,9 +412,7 @@ drive platform roadmap even better for our future automotive partners. We
 announced last year that our automotive pipeline was $8 billion over the six-year
 period from fiscal 2022 to 2028. Orin has been a huge success with all the wins we
 have announced over the last year we're providing an update that our six-year
-pipeline from fiscal '23 to 2029 is now estimated at $11 billion.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 45Rev LebaredianYou'll start seeing this ramp scale up this year with production of Orin and EVs from
+pipeline from fiscal '23 to 2029 is now estimated at $11 billion.Rev LebaredianYou'll start seeing this ramp scale up this year with production of Orin and EVs from
 partners like Neo, Lee Aut,o X bang and SAIC's R brand. We'll see a bigger ramp in
 the following years as OEMs like BYD, Hhyundai, Volvo ramp up, and we'll even be
 able to scale even further when Mercedes And JLR, as well as our partners in the L4
@@ -473,9 +451,7 @@ that merely look good into a physically accurate simulation of how light interac
 matter.
 Previous techniques based on rasterization had hit a wall in terms of physical
 accuracy. But, with Ray Tracing, we know we can simulate all aspects of the behavior
-of light. Virtual world simulation is always been limited to relatively small computersFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 45at the edge mobile devices, gaming consoles or gaming PCs. With recent
+of light. Virtual world simulation is always been limited to relatively small computersat the edge mobile devices, gaming consoles or gaming PCs. With recent
 advancements in data center GPU computing, we have the opportunity to leverage
 graphics supercomputers in the cloud running simulations that are too large and
 compute intensive for traditional computers.
@@ -514,9 +490,7 @@ video game and inspect any aspect of it reﬂected from the real world. We can a
 run simulations to predict the near future or test many possible futures for us to pick
 the most optimal one. We've built the Omniverse platform to unlock the full
 potential of digital twins, from design and creation, to physically accurate simulation,
-on our super computers.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 45Richard KerrisAnd now, I'd like to welcome my good friend and colleague, Richard Kerris to tell us
+on our super computers.Richard KerrisAnd now, I'd like to welcome my good friend and colleague, Richard Kerris to tell us
 about the growth of the Omniverse ecosystem.
 
 Thank you, Rev. We are super charging a huge ecosystem. Starting with developers,
@@ -555,9 +529,7 @@ There are many other ways to connect to Omniverse as well, not just software
 applications, things like sensors, cameras, light out scanners, many of which are
 essential for digital twins, and we're seeing great growth with connections here as
 well. Over 10x where we were a year ago, with hundreds more on the horizon for the
-year ahead. And lastly, Omniverse is a compute engine is something that can beFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 16 of 45Jeff Fisherlicensed to power the next generation of software products for our NVIDIA partners.
+year ahead. And lastly, Omniverse is a compute engine is something that can beJeff Fisherlicensed to power the next generation of software products for our NVIDIA partners.
 You saw the first one earlier today with the launch of LumenRT by Bentley Systems.
 Bentley is leading provider of software and services to design, build and operate the
 world's infrastructure and they license Omniverse to power their next generation of
@@ -595,9 +567,7 @@ subscription-based model that will provide even more opportunities in the future
 Omniverse software and chips and systems equals a $300 billion market opportunity
 and we're going to go get it.
 Thank you very much. Next up is Jeff Fisher to talk about games.
-FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 17 of 45Thanks, Richard. Hi, everyone, I'm excited to have this opportunity to talk to you
+Thanks, Richard. Hi, everyone, I'm excited to have this opportunity to talk to you
 about our gaming business. Gaming is huge. The industry is on fire, the number of
 gamers, eSports athletes, creators and broadcasters engaged in new shared
 experiences is exploding. With 3 billion gamers, no one is asking if gaming is
@@ -636,9 +606,7 @@ This investment also delivers new technologies, like DLSS, Reﬂex, Max-Q and NV
 Broadcast along with SDKs to enable a broad ecosystem. Our newest architecture,
 Nvidia RTX reinvented graphics, featuring real-time ray-tracing and DLSS AI image
 upscaling. Game developers, creator ISVs, even other GPU suppliers have gotten on
-board.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 18 of 45For eSports athletes, we introduced Reﬂex, removing latency between the game and
+board.For eSports athletes, we introduced Reﬂex, removing latency between the game and
 the gamers. Over 20 million gamers are competing on ReﬂexAlt with Reﬂex on each
 month. There are now over 250 RTX-accelerated games and applications. And this
 comes at a time of strong gaming growth.
@@ -677,9 +645,7 @@ Adobe Premiere. Adobe Photoshop, OBS, the number one broadcast app and
 blender the number one 3D design app.
 And there is a strong connection between gaming and creating. Today, a quarter of
 GeForce gamers are also creating or broadcasting. And they value performance
-investing more in graphics than other gamers. There are also creators andFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 19 of 45broadcasters expanding the reach of our platform, which likely well extends beyond
+investing more in graphics than other gamers. There are also creators andbroadcasters expanding the reach of our platform, which likely well extends beyond
 those who share their profile.
 RTX AI is making creation more approachable for everyone. It is easier than ever to
 create like a pro. Like nache AI pose estimation, you can animate a 3D character or
@@ -718,9 +684,7 @@ will likely require three to four orders of magnitude more than the performance 
 our highest end GPU's, plus continuing advancements in algorithms for rendering ,
 physics AI and animation.
 There are three billion gamers and creators and it's growing. We believe over time a
-quarter of them will spend over $100 a year for high performance GPU's in desktop,FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 20 of 45Colette Kresslaptop, cloud or console. In total, this translates to a $100 billion opportunity. The
+quarter of them will spend over $100 a year for high performance GPU's in desktop,Colette Kresslaptop, cloud or console. In total, this translates to a $100 billion opportunity. The
 fundamental strength of gaming has never been stronger.
 I will now turn it over to our CFO, Colette Kress.
 
@@ -758,9 +722,7 @@ fiscal year '21 with revenue increasing 58% to $10.6 billion and exiting at a $1
 run rate. Strong and broad-based help from the A100 helped fuel strong revenue
 growth in hyperscale and vertical industries, a natural language understanding and
 deep recommendator models are uniquely enabled by our full stack approach. The
-diversity compute intensity and latency requirements of these models also helped toFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 21 of 45drive accelerating growth in inference revenue and widespread adoption of our
+diversity compute intensity and latency requirements of these models also helped todrive accelerating growth in inference revenue and widespread adoption of our
 Triton Inference Server download it by over a million times by 25,000 customers.
 Our data center business has grown at a four year compounded annual growth rate
 of 53% and we entered fiscal year '23 with great visibility into demand and supply.
@@ -798,9 +760,7 @@ and we're on the cusp of an inﬂection. Autonomous driving is a significant
 technological challenge and NVIDIA uniquely enables the entire workﬂow. This
 comprehensive yet ﬂexible approach is helping to drive rapid adoption of our drive
 platform and Orin SOC across the transportation industry unlocking new business
-models for us and our customers.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 22 of 45Our design win pipeline measured over the next six years is now 11 billion, reﬂecting
+models for us and our customers.Our design win pipeline measured over the next six years is now 11 billion, reﬂecting
 our great momentum with new NAVs, traditional OEMs, truck makers and robotaxis.
 This is up from $8 billion a year ago. Our opportunity is large and we expect our
 revenue momentum to build in the coming quarters and hit an inﬂection point in the
@@ -839,9 +799,7 @@ sighs the overall available opportunity based on the number of gamers, designers
 engineers, servers, cars and other devices that we can power with our technology.
 For gaming, we see a total available market opportunity of $100 billion, as we can
 reach gamers, anyway they play. There are 3 billion gamers globally growing every
-year and we believe a quarter of them can be addressable over time. Whether weFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 23 of 45serve them with GeForce GPUs in their systems or GeForce now in the cloud, the per
+year and we believe a quarter of them can be addressable over time. Whether weserve them with GeForce GPUs in their systems or GeForce now in the cloud, the per
 the per-user pricing is similar and analyzes at over $100 per year.
 For chips and systems, we estimate a total available market opportunity of 300
 billion. This spans all 3 processor types, GPUs, DPUs and CPUs, as well as networking
@@ -879,9 +837,7 @@ compounded annual growth rate over this same period of time.
 We have also extended our platform and added talent through a handful of
 acquisitions. Given the wave of new products and offerings discussed today and the
 opportunity ahead of us, we will continue to scale investments to support continued
-strong revenue growth.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 24 of 45Our full stack approach not only is the key competitive differentiator, but enables us
+strong revenue growth.Our full stack approach not only is the key competitive differentiator, but enables us
 to innovate quickly and profitably. We have architected our software to work across
 all products, systems, platforms and applications. This single platform allows us to
 develop and launch new products at a rapid pace and eﬃciently enter new markets
@@ -917,9 +873,7 @@ management team and diversifying our board.
 That wraps up our presentations for today. Please enjoy this short video that we have
 for you and then we'll move to the Q&A portion of our event.
 (Audio-Video Presentation)
-Questions And AnswersFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 25 of 45Operator
+Questions And AnswersOperator
 Q - Aaron Rakers
 A - Jensen Huang
 Operator
@@ -957,9 +911,7 @@ growth factors as we go forward.
 I'll move Jensen if he wants to add more.
 
 Well, Aaron, the thing -- the important thing about our software is that it's built on
-top of our platform, meaning that it activates all of NVIDIA's hardware chips andFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 26 of 45Q - Aaron Rakers
+top of our platform, meaning that it activates all of NVIDIA's hardware chips andQ - Aaron Rakers
 A - Jensen Huang
 Operator
 Q - Christopher Musesystem platforms. And secondarily, the software that we do are industry-defining
@@ -999,9 +951,7 @@ the hardware side. I think you've tripled the size of the TAM there from $100 bi
 to $300 billion. And I'm curious if you can kind of walk us through what you're
 seeing from a core GPU perspective in terms of increasing the size of that TAM as
 well as what kind of assumptions you're making around penetration for both Grace
-on the CPU side as well as on the DPU side? And I guess lastly, the synergies that youFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 27 of 45A - Jensen Huangsee from offering all three pieces of silicon and how that can drive overall revenue
+on the CPU side as well as on the DPU side? And I guess lastly, the synergies that youA - Jensen Huangsee from offering all three pieces of silicon and how that can drive overall revenue
 growth as well? Thanks so much.
 
 Yeah. Thank you, C.J. First of all, remember that or note that we have GPU, CPU, and
@@ -1043,9 +993,7 @@ going to add to that with Spectrum 4, which is a 400 gigabits per second etherne
 switch that in combination with CX-7 and BlueField 3 turns it into an end-to-end 400
 gigabits per second Ethernet platform. That's going to be a major new driver for us.
 We're super successful already with InfiniBand. We're super successful with end-to-
-end InfiniBand. This is going to be a new journey for us, and I'm super excited aboutFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 28 of 45Operator
+end InfiniBand. This is going to be a new journey for us, and I'm super excited aboutOperator
 Q - Vivek Arya
 A - Jensen Huangit. The performance is unrivaled and the software stack on top of it is incredible. So
 we have a new data center driver with CPUs, new data center driver with ethernet
@@ -1085,9 +1033,7 @@ With respect to the target market of Grace, the area we're most focused on and
 we're -- first of all, the CPU core is incredible that as you saw that our estimated spec-
 in performance is off the charts compared to what's available today. And so the CPU
 performance is fantastic. However, what really distinguishes Grace is a couple of
-things. Its memory bandwidth is unrivaled. The memory capacity and the memoryFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 29 of 45Q - Vivek Arya
+things. Its memory bandwidth is unrivaled. The memory capacity and the memoryQ - Vivek Arya
 Operatorbandwidth that available on that capacity is like nothing the world's ever seen. And
 second, the energy eﬃciency of the entire CPU subsystem, which includes the CPUs
 and all of the memories associated with it and all the securities. The energy eﬃciency
@@ -1126,9 +1072,7 @@ market to go after, just and just really, really giant markets to go after. And 
 where our focus is.
 Thank you, Vivek.
 
-Thanks.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 30 of 45Q - Matt Ramsay
+Thanks.Q - Matt Ramsay
 A - Jensen Huang
 Q - Matt Ramsay
 A - Colette Kress
@@ -1169,9 +1113,7 @@ amounts of data, terabytes of data, petabytes of data, just incredible amounts o
 data. You have to find a way to refine that data, process that data, refine the data, get
 clean that data, augment that data. There's just a lot of it's related to sequel when it
 comes to structured data. When it comes to unstructured data, a lot of it is image
-processing, signal processing. You're doing a lot of processing of data. Number one.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 31 of 45Number two, you have to do feature engineering try to figure out what our
+processing, signal processing. You're doing a lot of processing of data. Number one.Number two, you have to do feature engineering try to figure out what our
 predictive features. Number three, whether you're using -- if you're using classical
 machine learning, which is the vast majority of the industry today graph analytics, all
 of that you would like to do 1,000 times faster, 1 million times faster because the
@@ -1213,9 +1155,7 @@ the future, especially as we move on to the edge. But 50 million installed today
 every single server and the way you count a node is the CPU inside and that's why
 we use CPU, but basically a node. For every single node, if you want to run NVIDIA
 AI, we have an engine for you and that engine is proper CPU per node, it's $2,000.
-So 50 million, $2,000.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 32 of 45On top of that is all of the NVIDIA SDKs all of the other AIs and AI frameworks,
+So 50 million, $2,000.On top of that is all of the NVIDIA SDKs all of the other AIs and AI frameworks,
 maybe it's an recom -- it's an AI framework just for recommenders and AI framework
 just for speech or AI framework just for large language models or AI framework just
 for computer vision or robotics or whatever it is, we're going to have a whole bunch
@@ -1258,9 +1198,7 @@ are built up. We had a large number of third-party software developers that are
 hooked into it. And so -- so these two platforms, I think, are going to be -- that's one
 of the reason why we're focused so intensely on these two. And then one more
 thing. With respect to NVIDIA AI, remember, I think, Matt, it was you that in the
-beginning, why now that we're -- and just now we're going into it. Remember,FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 33 of 45Q - Matt Ramsay
+beginning, why now that we're -- and just now we're going into it. Remember,Q - Matt Ramsay
 A - Jensen Huang
 Operator
 Q - John Pitzer
@@ -1302,9 +1240,7 @@ that are built on top of it that the world provisions for their own business. It
 case that when we launch a new consumer product, the transition is rather crisp.
 However, because the world's enterprises and the cloud service providers, they are
 running their business on top of Ampere today, they've got their businesses
-forecasted out for some time and their expansion forecasted out for some time.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 34 of 45A - Colette Kress
+forecasted out for some time and their expansion forecasted out for some time.A - Colette Kress
 Q - John Pitzer
 A - Jensen Huang
 Operator
@@ -1344,9 +1280,7 @@ pop up please and join us in the room.
 Stacy, please join us and unmute.
 Hey. Stacy.
 
-How are you?FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 35 of 45A - Jensen Huang
+How are you?A - Jensen Huang
 Q - Stacy Rasgon
 A - Jensen Huang
 Terrific.
@@ -1387,9 +1321,7 @@ intelligence. And so I believe that kind of data center the DGX SuperPOD type of
 factories are going to continue to grow. It's already been spectacularly successful.
 And I think we're the only company in the world that builds that. We offer the
 blueprint to all of our partners so that everybody could build it, but of course, we
-build it ourselves as well.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 36 of 45Q - Stacy Rasgon
+build it ourselves as well.Q - Stacy Rasgon
 A - Colette Kress
 Q - Stacy Rasgon
 A - Jensen Huang
@@ -1430,9 +1362,7 @@ announcements and you should say status quo always looking fine.
 Got it. That's helpful. Thank you so much, guys.
 
 Thank you. Thanks, Stacy.
-Our next question comes from Tim Arcuri from UBS. Tim, please go ahead.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 37 of 45Q - Tim Arcuri
+Our next question comes from Tim Arcuri from UBS. Tim, please go ahead.Q - Tim Arcuri
 A - Jensen Huang
 Q - Tim Arcuri
 A - Jensen Huang
@@ -1475,9 +1405,7 @@ has the benefit of all of NVIDIA software stack that sits on top of it so that y
 program all of this complicated robotic software. It has the benefit of having other
 four other -- three other pillars aside from the robotics computer inside the car, you
 have NVIDIA's architecture to help you train the model, you have NVIDIA's
-architecture to help you develop synthetic data to train that model. You have theFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 38 of 45A - Colette Kress
+architecture to help you develop synthetic data to train that model. You have theA - Colette Kress
 Q - Tim Arcuri
 A - Colette Kress
 Q - Tim Arcuri
@@ -1517,9 +1445,7 @@ ahead. Ambrish, please unmute yourself and turn on your video.
 Hi, can you hear me?
 
 Yes. Perfectly.
-FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 39 of 45A - Jensen HuangThank you, folks. Glad to Jensen, Thank you. That was very informative. A lot of
+A - Jensen HuangThank you, folks. Glad to Jensen, Thank you. That was very informative. A lot of
 information to digest. I have a question on the software side. I'm -- just pardon me
 for failing to understand the opportunity. And really, it's pretty big, $150 billion in
 both sides of the enterprise as well as the Omniverse. So really, the longer-term
@@ -1562,9 +1488,7 @@ embody into this thing called NVDAI AI.
 Does anybody else do it today, that engine? I think it's reﬂected in our success with
 NVIDIA GPUs in the world's enterprise for data ops, data science, machine learning,
 deep learning, we're quite successful, as you know, and quite singular, as you know,
-engine sits on top of our GPUs. This engine sits on top of our DGXs and servers andFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 40 of 45A - Colette Kress
+engine sits on top of our GPUs. This engine sits on top of our DGXs and servers andA - Colette Kress
 Q - Ambrish Srivastava
 A - Jensen Huang
 Operator
@@ -1603,9 +1527,7 @@ ahead.
 
 Can you guys hear me?
 
-Yes, perfectly.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 41 of 45Operator
+Yes, perfectly.Operator
 Q - Harlan Sur
 A - Colette Kress
 A - Jensen Huang
@@ -1637,9 +1559,7 @@ Okay, Harlan. Please --
 What an amazing management team. I love my team.
 
 Do you guys hear me?
-FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 42 of 45Q - Harlan Sur
+Q - Harlan Sur
 A - Jensen Huang
 Q - Harlan Sur
 A - Jensen Huang
@@ -1678,9 +1598,7 @@ Yup. Thanks.
 We have time for one last question. And our last question comes from Atif Malik
 from Citi. Atif, please unmute yourself and start your video.
 
-Hi, can you hear me?FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 43 of 45A - Jensen Huang
+Hi, can you hear me?A - Jensen Huang
 Q - Atif Malik
 A - Jensen Huang
 Yes. Nice to see you, Atif.
@@ -1723,9 +1641,7 @@ for RTX, Omniverse wouldn't exist. If not for RTX, it would not be possible to m
 something like Omniverse exist, which is a simulation. It's not prebaked art.
 Everything that you see is not prebaked like most video games have a lot of
 prebaking. It's called prebaking. And movies, as you know, is largely prebraking.
-Omniverse is real-time. It's synthesized in real-time. It's simulated in real-time. TheFINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 44 of 45Operator
+Omniverse is real-time. It's synthesized in real-time. It's simulated in real-time. TheOperator
 A - Jensen Huangmaterials, the life, the shadows, all of the really impressive effects that you see that
 makes things beautiful come about because it's just beautiful. The physics is
 beautiful. And so RTX made that possible.
@@ -1763,9 +1679,7 @@ licensable support.
 Auto is on its way to be our next multibillion-dollar business, and I'm super excited
 about the work that we've done. It took us nearly a decade to reach this point where
 the entire automotive industry is now ready to be a software-defined industry and
-become a tech industry.FINAL TRANSCRIPT 2022-03-22
-NVIDIA Corp (NVDA US Equity)
-Page 45 of 45And today, we announced and launched a giant wave of new products, the Hopper
+become a tech industry.And today, we announced and launched a giant wave of new products, the Hopper
 H100, the DGX SuperPod with our brand-new NVLink switch system, our Grace CPU
 super chip and the enabling technology that made it possible, the NVLink chip-to-
 chip incredibly energy-eﬃcient, high-speed world-class link is now open for our

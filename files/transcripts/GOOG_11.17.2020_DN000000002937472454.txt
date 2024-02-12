@@ -11,9 +11,7 @@ achievement to do all three. And certainly, I'm sure, one of the big drivers whi
 you've been so successful in so many roles. You were at Oracle for 22 years, heading
 up product development before you moved over to lead Google Cloud. You're a
 graduate of both Princeton and Engineering and -- your science degree and an MBA
-from Stanford. So certainly enormous credentials to take on the lead of a technologyFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 15Thomas Kurian
+from Stanford. So certainly enormous credentials to take on the lead of a technologyThomas Kurian
 David I. McKay
 Thomas Kurian
 David I. McKay
@@ -55,9 +53,7 @@ you talk about how you brought partners into that whole concept of creating valu
 and bringing more services to the cloud?
 
 Our general view was cloud provider that's going to succeed in the end as the one
-that's differentiated, not just based on their solutions that they offer, but also theFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 15David I. McKay
+that's differentiated, not just based on their solutions that they offer, but also theDavid I. McKay
 Thomas Kurian
 David I. McKayecosystem of partners solutions that are on top of it. And so, we've taken a very
 partner-friendly and partner-focused effort. We've got -- we identify specific places
@@ -99,9 +95,7 @@ together on these.
 
 And that makes complete sense. I guess, your partner strategy would also and
 maybe you can touch on how it would change between trying to use a partner to
-attract an enterprise client versus medium-size and small business client?FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 15Thomas Kurian
+attract an enterprise client versus medium-size and small business client?Thomas Kurian
 David I. McKay
 Thomas Kurian
 David I. McKay
@@ -143,9 +137,7 @@ together or we can think about in helping small business along. I know you're pa
 the solution is the cloud and allowing them to access data and insights and
 capabilities that they can't afford themselves. Is there anything else that's stopping
 them from really competing and being successful in a more digital world?
-FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 15David I. McKay
+David I. McKay
 Thomas KurianSome of them just don't have the physical resources to compete. When I look at
 small retailers for example, one of the big things they struggle with is supply chain,
 delivery capability et cetera. Because large companies have scale and part of what
@@ -188,9 +180,7 @@ deal with that, and support it. And we're very proud of the employees who have
 done that, we focused on making sure they understand how committed we are to
 their success as well.
 So a lot of different parameters, but generally being adaptive, looking ahead and
-planning ahead and then recognizing that purpose is what keeps employees evenFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 15David I. McKay
+planning ahead and then recognizing that purpose is what keeps employees evenDavid I. McKay
 Thomas Kurian
 David I. McKay
 Thomas Kurianduring this diﬃcult time focused on serving the customers. Those are some of the
@@ -233,9 +223,7 @@ to go to a bank branch to do certain things, now they want to do it online. Peop
 used to go to a store to buy things, now they're buying things online. So the first
 phase of change that we saw was this notion of a digital front door in every industry.
 The way that governments distribute unemployment insurance and small business
-loans and benefits have also gone online.FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 15David I. McKay
+loans and benefits have also gone online.David I. McKay
 Thomas Kurian
 David I. McKaySo that was the first phase. The second phase was help me use my data and
 understand how to serve these customers better. What products and services to put
@@ -278,9 +266,7 @@ built to that and the capabilities in the cloud, there is a huge differentiating
 there. But to me, that plays to, as Google's Cloud is as an enterprise solution product
 capability is different than Google advertising, Google mail type capabilities. But
 that's where you bring to meet the two worlds together and leverage that incredible
-horsepower and the original Google capability.FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 15Thomas Kurian
+horsepower and the original Google capability.Thomas Kurian
 David I. McKay
 Thomas Kurian
 And that's a lot of what we're trying to do is apply some of the technology to solve
@@ -321,9 +307,7 @@ management, capital markets and insurance. And there are different requirements 
 each of them. Just to give you an illustration. Our goal is to use large-scale data
 processing to streamline business processes within an organization, to transform the
 customer interface, and to allow people to build new products and sources of
-revenue.FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 15David I. McKay
+revenue.David I. McKay
 Thomas Kurian
 David I. McKay
 Thomas KurianSo when we look at, for example, insurance, we're working with a number of the
@@ -365,9 +349,7 @@ center of a customer has provided a significant benefit in financial services ar
 this notion of concentration risk, which regulators are very concerned about. The
 second is, we put in place operational practices and policies. For example, many
 European financial institutions want their data to be maintained in Europe. Many
-financial institutions have certain access requirements to who has access to theirFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 15David I. McKay
+financial institutions have certain access requirements to who has access to theirDavid I. McKay
 Thomas Kuriandata, and we put in place lots of operational practices to govern the use of data,
 particularly financial services data.
 And then lastly, we go through regular audits with regulators both financial
@@ -410,9 +392,7 @@ your data processing to my data as opposed to the other way around. And we feel
 that, if you do right by customers and give them the choice, it will eventually gets
 you more success as the regulatory landscape has evolved, and the notion of
 sovereignty comes up, you know, of hey, I want to have a regional presence even for
-example in the government -- in the public sector, depending on changes and theFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 15David I. McKay
+example in the government -- in the public sector, depending on changes and theDavid I. McKay
 Thomas Kurian
 David I. McKay
 Thomas Kurian
@@ -453,9 +433,7 @@ something certainly that's omnipresent, but heightened during this pandemic, as 
 see this movement towards public cloud services and more processing capability,
 more data residing as we see a world with more endpoints, in a world of 5G, which
 we'll touch on after. Can you talk about your security strategy and how you're
-protecting data, protecting partners, customers in this omnipresent cyber world?FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 15Thomas Kurian
+protecting data, protecting partners, customers in this omnipresent cyber world?Thomas Kurian
 David I. McKay
 Thomas Kurian
 Our philosophy around security, it boils down to some very basic tenets. Number
@@ -497,9 +475,7 @@ think about capabilities from a world of 5G?
 You know, 5G, given the investments telecommunications companies are making in
 5G in the network itself, 5G networks provide not just lower latency, but also more
 bandwidth. And so, given that it's lower latency, we -- what we're doing is integrating
-what we call out mobile edge computing solution with many different carriersFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 15David I. McKay
+what we call out mobile edge computing solution with many different carriersDavid I. McKay
 Thomas Kurianaround the world into the network. So in the carrier network, you can actually have
 computation that runs in the network. And it allows applications, new kinds of
 applications that have very low latency to be available right in the network. So we
@@ -542,9 +518,7 @@ reduces the risk to the humans having to be on the shop ﬂoor, it also speeds u
 manufacturing line. There are many, many such examples of places where artificial
 intelligence, whether that's image processing, understanding data, helping people
 understand conversations are all going to change the way that organizations
-function and use the value of the data in different ways.FINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 14 of 15David I. McKay
+function and use the value of the data in different ways.David I. McKay
 Thomas KurianNow at the same time, we've also been very careful that the same technology can be
 very powerful in one context can also potentially have negative consequences. So as
 an example, we do work on object detection, object detection is for instance, if you
@@ -587,9 +561,7 @@ evolve the culture of the organization. And so, don't just hire people who make 
 feel comfortable, but hire something that makes our organization stronger because
 it's more representative of the broader community in which we live and work. And
 so, there is a lot of work that we're doing, we constantly are paying attention to it, to
-see if there are ways that we can improve further as an organization and we'reFINAL TRANSCRIPT 2020-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 15 of 15David I. McKay
+see if there are ways that we can improve further as an organization and we'reDavid I. McKay
 Thomas Kurian
 David I. McKay
 Thomas Kurianlearning also by discussing with many universities, with different organizations. And

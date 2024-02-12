@@ -17,9 +17,7 @@ With that, we can get started.
 
 Perfect. It's been a few months since Satya, of course, took over as CEO and certainly
 his First Quarter in that capacity was a very solid one, your fiscal Q3. But really I'm
-just curious, given that you have been at the Company for quite a while now actually,FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15Vikas Mehta
+just curious, given that you have been at the Company for quite a while now actually,Vikas Mehta
 Gregg Moskowitz
 Vikas Mehta
 Gregg Moskowitzjust in terms of how you would sort of characterize the environment today within
@@ -57,9 +55,7 @@ Our unearned revenue balances grew 14% year-over-year, which was higher than
 what we had expected. And our contracted not-built balance is at a very strong $22
 billion-plus at this point of time. So I would say that we are seeing a strong adoption
 from the enterprises and they are investing in our long-term roadmap.
-FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15Vikas Mehta
+Vikas Mehta
 Gregg Moskowitz
 Vikas MehtaPerfect. So let's actually that's helpful. Let's actually turned to Azure, which has just
 been a tremendous success story for Microsoft. When you look at Azure, what
@@ -98,9 +94,7 @@ consolidation with virtualization the low-cost options always drove IT spending.
 And not only that, IT spending as a percentage of GDP has risen through this
 timeframe. The reason is that the contraction that has happened because of these
 low-cost options was more than offset by the newer scenarios. And if you look at the
-cloud, a similar phenomenon is happening.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15Gregg Moskowitz
+cloud, a similar phenomenon is happening.Gregg Moskowitz
 Vikas MehtaCloud accelerates innovation because of speed, scale, ﬂexibility. And cost
 advantages. Even from my personal experience, I stood on the Azure finance team
 four years back. And if I look back, the long-range planning that we had done we
@@ -137,9 +131,7 @@ Similarly, Azure Files is streamlined storage. Think about it as a shared drive 
 applications running on Azure can share files within multiple DMs [ph]. This
 describes a number of hybrids scenarios like SN Dev [ph], lift and shift, or diagnostic.
 So overall I would say that it's very encouraging and pace of innovation has been
-very fast.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Gregg Moskowitz
+very fast.Gregg Moskowitz
 Vikas Mehta
 Gregg Moskowitz
 Vikas Mehta
@@ -177,9 +169,7 @@ actually compete with their offerings?
 Yes. So desktop management strategy from our perspective is to help IT centrally
 manage their top environments where we provide security, reliability. And ﬂexibility
 in a way that IT can be productive and can help its users access data anywhere from
-any device at any particular time.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15Gregg Moskowitz
+any device at any particular time.Gregg Moskowitz
 Vikas MehtaOn the on-premise side, we have been very successful with our remote desktop
 server offering. In fact, it is over $1 billion business for us and our customers have
 been consistently asking us to have a similar service in the cloud. So with Azure
@@ -215,9 +205,7 @@ no need to buy additional hardware or software. The second is there's no need to
 really write any applications, which some of our competitors push you to do.
 Finally, the in-memory capabilities are such that they are compatible with the prior
 technologies as well. So I would say it is the lead shift in the industry and we are
-seeing very good initial customer feedback.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15Gregg Moskowitz
+seeing very good initial customer feedback.Gregg Moskowitz
 Vikas MehtaIf you think from a performance standpoint, it depends on the workload that you are
 running. But what we have seen from our customers is that for their OLTP workloads
 they are seeing up to 30 times performance improvement. And if you think about
@@ -253,9 +241,7 @@ worldwide. It is available in more than 141 markets and we have made it availabl
 through most of the retailers. Think about Best Buy, Staples, Amazon.com.
 We have also been aggressive with our cloud campaigns and our cloud first deal
 promotions. Finally, we have made it available as a second SKU we released called
-Personal, which is available for $70. I would say that it's early days. But there is moreFINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Gregg Moskowitz
+Personal, which is available for $70. I would say that it's early days. But there is moreGregg Moskowitz
 Vikas Mehta
 Gregg Moskowitz
 Vikas Mehtathan 1 billion users of Oﬃce. But the transition is on its way and we feel really good
@@ -292,9 +278,7 @@ turnaround last quarter.
 I would say that, first of all, Oﬃce innovation has been resonating with our customers
 and especially on the Oﬃce 365 side. If you look at the total revenue Oﬃce 365 and
 Oﬃce on-prem, it grew over 28%. If you just look at the Oﬃce on-prem side of it, it
-grew 15% and there were two important drivers here.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15Gregg Moskowitz
+grew 15% and there were two important drivers here.Gregg Moskowitz
 Vikas Mehta
 Gregg Moskowitz
 Vikas MehtaThe first one was we had great performance in our attach and the second one was
@@ -332,9 +316,7 @@ their journey to move to the cloud. And we will help them move at their own pace
 their own terms.
 If you think about the consumer segment, we are as I mentioned earlier, we are
 looking at the compelling options with all the additional services, the cross-
-functional aspects of the service. For the small and medium services, or small andFINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15Gregg Moskowitz
+functional aspects of the service. For the small and medium services, or small andGregg Moskowitz
 Vikas Mehta
 Gregg Moskowitz
 Q - Unidentified Participantmedium businesses we are providing enterprise-grade services at low cost. Again,
@@ -369,9 +351,7 @@ and making the reach easier from that standpoint.
 
 Perfect, that's great. So with that, why don't I pause and take any questions?
 Questions And Answers
-(inaudible)FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15A - Vikas Mehta 
+(inaudible)A - Vikas Mehta 
 I'd say let me take the first part of the question, which is how does and let me repeat
 the question how does the move to the cloud change the Company and how it's
 working. Second is what is the impact on sort of the operating margin, if you may.
@@ -407,9 +387,7 @@ bigger addressable opportunity. Earlier we were able to only address software. B
 now we are able to address hardware and services and monetize that as well.
 It creates newer scenarios. There is a lot of innovation, new innovation that happens.
 So I would say from an operating margin dollar perspective it is definitely accretive
-to us.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15Q - Unidentified Participant
+to us.Q - Unidentified Participant
 A - Vikas Mehta
 Q - Unidentified Participant
 A - Vikas Mehta
@@ -446,9 +424,7 @@ pushing them to a consumer offering is definitely a great opportunity.
 
 Great, other questions?
 (inaudible)
-FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15Q - Gregg Moskowitz
+Q - Gregg Moskowitz
 A - Vikas MehtaThe question is what are the parts around Nokia? We acquired Nokia devices and
 services business and we are excited about the business.
 As a company, our vision is around mobile-first and cloud-first; that is where we see a
@@ -486,9 +462,7 @@ So from that perspective I would say that we have a twofold strategy to create a
 platform for big data and that helps then word [ph] that data into insights with our
 Power BI tools. In addition, we recently announced the SAP deal. In addition to sort
 of running SAP applications on Azure, we also announced the integration of
-Business Objects with Power BI, further democratizing insight for our customers.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15Q - Gregg Moskowitz
+Business Objects with Power BI, further democratizing insight for our customers.Q - Gregg Moskowitz
 A - Vikas Mehta
 Q - Gregg Moskowitz
 A - Vikas Mehta
@@ -528,9 +502,7 @@ Internet of Things, Azure is definitely a big beneficiary.
 The second is around operating system itself, where you can think about Windows
 embedded. We've had a successful business in that side and you see us play in sort
 of think about the automobile market or the other terminals which don't have
-screens. And we have been very successful in that site. So it's extending that.FINAL TRANSCRIPT 2014-05-28
-Microsoft Corp (MSFT US Equity)
-Page 15 of 15Q - Gregg Moskowitz
+screens. And we have been very successful in that site. So it's extending that.Q - Gregg Moskowitz
 A - Vikas MehtaWe talked a lot about that and (inaudible) recently where Windows is the operating
 system that can cater to this Internet of Things revolution. And so if you create across
 both on the devices side with operating systems and with regards to connecting

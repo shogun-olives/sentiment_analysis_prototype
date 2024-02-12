@@ -21,9 +21,7 @@ computing company. Before, we were looking for places, where a GPU, standing for
 Graphics Processing Unit could be leveraged as a component in platforms.
 The main component that we were a big factor on was obviously the PC platform
 and probably our key most important application that we did at that time was
-gaming. And moving towards that. But as we've transformed as a company, weFINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 11John Pitzer
+gaming. And moving towards that. But as we've transformed as a company, weJohn Pitzer
 Colette Kressfocused on very key markets that we felt had tremendous growth potential in front of
 them that were extremely hard problems to solve. And where the GPU would be
 leveraged ever so uniquely for those platforms. Moving away from just being a
@@ -65,9 +63,7 @@ than 300 million. But not necessarily a growth business. What we sell is the act
 gaming platform underneath that PC platform. Rarely, our sales in terms of the GPU
 for this market associated with the PC. What is normal, people have a PC and
 essentially just opening up and change their overall experience for gaming by
-inserting a new GPU for that business. So overall business has been focused onFINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 11providing a gaming platform for every type of gamer. If you think about many of the
+inserting a new GPU for that business. So overall business has been focused onproviding a gaming platform for every type of gamer. If you think about many of the
 other types of platform for gaming, you get one choice.
 When you think about us, if you've got $100, if you've got $1000, we have something
 to sell for you for that overall experience. What that allows us to do is really fine-tune
@@ -109,9 +105,7 @@ And so on average, we are selling a higher price point in terms of that [ph]. Th
 fortunate piece that we're in right now is, we just launched our recent Pascal
 architecture, which is also a very big inﬂuence, probably one of the largest increases
 in terms of performance from the last generation is what you can see in Pascal. What
-that means is gamers' performance per dollar is tremendously higher. It's a greatFINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 11John Pitzer
+that means is gamers' performance per dollar is tremendously higher. It's a greatJohn Pitzer
 Colette Kressopportunity to buy. We exited [ph] the market over the last four to five months with
 more than six, seven different types of gaming cards unavailable and the great thing
 about that is essentially anything above the $200 price point, you get to buy NVIDIA
@@ -154,9 +148,7 @@ on where is the excitement in the market for gaming going forward. So the growth
 that we have seen has been a seamless execution of moving from Maxwell to build
 up in terms of what we have in Pascal.
 I know we don't talk about it a lot. But that's a lot of 20 years of hard work to make
-sure we can manage that very, very effectively both for our channel partners that theyFINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 11John Pitzer
+sure we can manage that very, very effectively both for our channel partners that theyJohn Pitzer
 Colette Kress
 John Pitzer
 Colette Kress
@@ -196,9 +188,7 @@ ceding those SoCs for their upcoming launch.
 The other question I get from gaming from a growth perspective longer term is the
 impact of AR and VR. I'm kind of curious from your perspective, do you guys look at
 this as a separate sub-category within gaming or do you look it as an application that
-continues along this path of higher ASPs over time?FINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 11Colette Kress
+continues along this path of higher ASPs over time?Colette Kress
 John Pitzer
 Colette Kress
 Correct. I think we would look at AR and VR as essentially the next generation of
@@ -239,9 +229,7 @@ OEMs to help us see that market. So right now, I think we have established a ver
 high performance level for what we think is the type of gaming that people want to
 do. And I think we're initially seeing that being well received.
 I think they've got some ways to go. But I think we're excited to be running around
-the track with somebody else. I think it makes you run harder. I think it's more fun.FINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 11John Pitzer
+the track with somebody else. I think it makes you run harder. I think it's more fun.John Pitzer
 Colette Kress
 Perfect, switching gears to data center. 10% to 15% of the business today,
 tremendous growth story. If you go back over the last three years, you've gone from
@@ -282,9 +270,7 @@ make the applications that they provide us to work better. These are things such
 search, these are things in terms of image deduction, this is things in terms of video
 transcoding. These types of things are very important to us.
 As you've noticed, your search command seems to be getting smarter. But the reality
-is there's artificial intelligence behind the scene. The GPU has been uniquelyFINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 11John Pitzer
+is there's artificial intelligence behind the scene. The GPU has been uniquelyJohn Pitzer
 Colette Kresspositioned and available to expand the use of artificial intelligence with frameworks
 referred to as deep learning frameworks. Those deep learning frameworks are
 frameworks working with (inaudible) is allowed to take a significant hundreds of
@@ -324,9 +310,7 @@ The overall use of a GPU has been well positioned because of its overall
 programmability, the openness of accepting every single one of those different
 frameworks that is out there. (inaudible) we will work with them. We've continued to
 not just focus on the underlying hardware in that case, which remember to do AI,
-we're talking about a significant amount of data, a significant amount of processingFINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 11John Pitzer
+we're talking about a significant amount of data, a significant amount of processingJohn Pitzer
 Colette Kress
 John Pitzerand a significant amount of processing that needs to happen at the same time in a
 parallel standpoint for it to be effective. Waiting a week for the information or answer
@@ -367,9 +351,7 @@ But it wouldn't surprise us if there is different types of pieces along there. B
 going to be probably a sizable market for all. But we'll continue to do our expertise
 of bringing the computing platform together for that.
 
-Do you have any questions from the audience?FINAL TRANSCRIPT 2016-11-30
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 11Q - Unidentified Participant
+Do you have any questions from the audience?Q - Unidentified Participant
 A - John Pitzer
 A - Colette Kress
 A - John Pitzer

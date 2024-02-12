@@ -14,9 +14,7 @@ and hotels continue to work. But I think it's also obvious if you watch closely 
 there are new opportunities coming from that product, for example, in the package
 space. These are early thoughts for us. We want to first get this right for the user and
 then worry about the monetization. But I think there are exciting opportunities.
-FINAL TRANSCRIPT 2016-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 12A - Oliver Heckmann
+A - Oliver Heckmann
 A - Elizabeth Harz
 A - Oliver Heckmann
 A - Elizabeth Harz
@@ -58,9 +56,7 @@ issues that are raised around that. Just thoughts for those in the audience that
 think of that more as their data and how that is used on the platform?
 Yes. What we are doing and I showed this earlier when we said Book on Google,
 what we want to do here is we might actually share the user information with the
-supplier so that the supplier has the full information they would get if that userFINAL TRANSCRIPT 2016-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 12A - Elizabeth Harz
+supplier so that the supplier has the full information they would get if that userA - Elizabeth Harz
 A - Rod Cuthbert
 A - Oliver Heckmann
 A - Elizabeth Harz
@@ -102,9 +98,7 @@ on Hawaii? Until which months can my pregnant wife still ﬂy?? Are there good
 hospitals close by? Where can I buy camping equipment after I land in Honolulu? Do
 I need a visa for entering Russia with a German passport? There are all kinds of
 questions. (inaudible) travel planning just means looking up a ﬂight and a hotel and
-clicking on the book links.FINAL TRANSCRIPT 2016-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 12A - Rod Cuthbert
+clicking on the book links.A - Rod Cuthbert
 A - Oliver Heckmann
 A - Elizabeth Harz
 A - Rod Cuthbert
@@ -145,9 +139,7 @@ different expectations on what we need to provide them and if we at Google don't
 move and provide them the answers as quickly as possible as they are looking for it,
 then they will stop using Google and they will be using something else. (multiple
 speakers).
-FINAL TRANSCRIPT 2016-11-17
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 12A - Oliver Heckmann
+A - Oliver Heckmann
 A - Unidentified SpeakerI'm Travis Katz from a company called Gogobot and I wanted to talk about the user.
 So one of the founding principles of Google is put the user first and all else will
 follow and you talked about your goal with travel is to provide users with exactly

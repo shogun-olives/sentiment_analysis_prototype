@@ -21,9 +21,7 @@ or on-prem and on-prem data centers. Specifically, I focus on the hyperscale mar
 and AI as well as HPC and scientific computing and server [ph] computing as a
 result. My team focuses on the product lineup, bringing those new products to
 market for GPUs, also a lot of the software that goes into making that platform
-successful, both in AI as well as more generally accelerated computing.FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12Q - Aaron Rakers
+successful, both in AI as well as more generally accelerated computing.Q - Aaron Rakers
 A - Ian BuckQuestions And Answers
 
 (Question And Answer)
@@ -62,9 +60,7 @@ years to create it. We're now on our 11th generation of CUDA. And it's not just 
 way of programming GPUs at this point, it's that entire platform.
 We have an entire platform of libraries, which we call CUDA-X ranging from signal
 processing to numerics to linear algebra, of course, to AI, to machine learning, to
-computer vision and image processing as well as audio and other things. And in fact,FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Q - Aaron Rakers
+computer vision and image processing as well as audio and other things. And in fact,Q - Aaron Rakers
 A - Ian Buck
 Q - Aaron Rakers
 A - Ian Buckit's expanding now to even vertical workloads in conversational AI, with technologies
@@ -104,9 +100,7 @@ themselves, either programming GPUs directly or using one of the libraries or go
 to vertical stacks or using the AI frameworks.
 
 Yes. Yes.
-FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12Q - Aaron Rakers
+Q - Aaron Rakers
 A - Ian BuckI think that is unmatched. And I think that is something that is truly unique in the
 marketplace. And because of its wide availability and the breadth of innovation has
 now happened, not just that NVIDIA provides, but now all the other people and
@@ -149,9 +143,7 @@ So one of the things that we're doing with the recent acquisition of Mellanox is
 accelerate that -- the networking stack, being able to program and that being a
 programmable part of the entire data center. Our solution for that is DOCA, data
 center on a chip. And it provides a programming platform for our BlueField-
-accelerated networking adapters. That allows people to do that kind of -- to programFINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Q - Aaron Rakers
+accelerated networking adapters. That allows people to do that kind of -- to programQ - Aaron Rakers
 A - Ian Buckand develop for that level of oﬄoad, running security on the chip as well as offering
 a virtualization oﬄoad onto that processor as well as take advantage of the many
 different accelerators that we have inside of our BlueField interconnect NICs [ph] to
@@ -192,9 +184,7 @@ what's driving a lot of that growth is the adoption of those techniques for diff
 markets. It obviously started in the hyperscalers, where they had the talent to invent
 the technology from the ground up, folks like Google and Amazon and Microsoft
 and Alibaba and Baidu, Facebook and then the others, obviously, have the AI talent
-themselves.FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12Q - Aaron Rakers
+themselves.Q - Aaron Rakers
 A - Ian Buck
 Q - Aaron Rakers
 A - Ian BuckWhat we're seeing now is them obviously take all that to market and continue to see
@@ -237,9 +227,7 @@ So I guess, in your responsibility, how deep does NVIDIA go down the path of a f
 system strategy business?
 
 I'm glad you asked that question. A lot of people get confused about why NVIDIA is
-also -- is being a system provider. I think it's important to recognize, like I said before,FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Q - Aaron Rakersthe data center is being reinvented now. And we've -- the business and the
+also -- is being a system provider. I think it's important to recognize, like I said before,Q - Aaron Rakersthe data center is being reinvented now. And we've -- the business and the
 opportunity for accelerated computing has gotten large enough where we can break
 traditional molds or boxes, if you will, for where we can design in and really think of
 the entire data center as our design, our envisioned canvass [ph].
@@ -279,9 +267,7 @@ space.
 
 Yes. And one question that got e-mailed to me, and I just kind of put it out there. I
 mean oftentimes, we're asked a question around the cloud's -- the hyperscale cloud
-internal development efforts as a competitor in the realm of AI. And we've seen whatFINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12A - Ian Buck
+internal development efforts as a competitor in the realm of AI. And we've seen whatA - Ian Buck
 Q - Aaron RakersAWS has done with the Annapurna assets and so on and so forth. So how do you see
 the competitive landscape vis-a-vis the cloud customers evolve?
 
@@ -324,9 +310,7 @@ Arm truly a competitor in the CPU side of the market. How do you think about the
 strategic merits of owning Arm? And whether or not it's all about kind of the better
 together, hey, I'm building a system stack strategy, we're optimizing data movement
 across CPU, GPU, memory interconnects, et cetera, et cetera. What -- how important
-is Arm to what you're doing on the data center side?FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12A - Ian Buck
+is Arm to what you're doing on the data center side?A - Ian Buck
 Q - Aaron Rakers
 A - Ian Buck
 Well, I think Arm is super-exciting. I mean, I think is there's announcements today.
@@ -369,9 +353,7 @@ as the rest of the market. So it will take several months to catch up with the d
 but it's always an exciting time to have on the platform refreshes that we
 experienced when you get the injection of new hardware. In the meantime, we
 continue to improve the software, too. So our value proposition doesn't stop when
-we launch a new GPU.FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Q - Aaron Rakers
+we launch a new GPU.Q - Aaron Rakers
 A - Ian BuckIn fact, we don't even release the ISAs to our GPUs. It's all coming through the
 software that we're constantly updating. My team is responsible for delivering the
 new containers in TensorFlow and PyTorch from the base frameworks as well as the
@@ -414,9 +396,7 @@ tricker.
 For sure, people are very excited about those training capabilities, and I expect that
 to be its first primary use case. And as more people adopt A100 for inference, we'll
 see some of those trends continue. I still expect T4 to run on. There's certainly a
-market for edge and that kind of server, which wants to accept one or two 70-wattFINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Aaron Rakers
+market for edge and that kind of server, which wants to accept one or two 70-wattQ - Aaron Rakers
 A - Ian Buck
 Q - Aaron RakersGPUs for doing more than just the inference capabilities. They obviously have work
 to do on the CPU as well. But that A100, particularly the A100 MIG capabilities, may
@@ -457,9 +437,7 @@ in a data center and electrically, mechanically and through computer technology,
 also the algorithms and numerics to make it work as one. So it's a really hard
 problem. It's super-exciting. We get to work on it here at NVIDIA, but we also get to
 work with our partners in Microsoft, OpenAI and others to figure that out as well.
-FINAL TRANSCRIPT 2020-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12A - Ian Buck
+A - Ian Buck
 Q - Aaron RakersAwesome. Ian, we ran out of time. I could continue to go on, but I have to be -- I have
 to kind of jump. But I really appreciate it. Thank you so much for letting us host this
 conversation. Appreciate it.

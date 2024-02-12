@@ -14,9 +14,7 @@ sense of your roles, responsibilities et cetera at Microsoft?
 Absolutely, so I am responsible for our Azure and our Global Industry business at
 Microsoft. And the division that I run is responsible for working closely with our
 engineering team and what services we're going to build, and then how we bring
-them to market. So how everything from our product strategy to how we price,FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 2 of 10Phil Winslow
+them to market. So how everything from our product strategy to how we price,Phil Winslow
 Alysa Taylor
 Phil Winslow
 Alysa Taylorlicense, package and then all the way through to bringing it to our customers and
@@ -53,9 +51,7 @@ we think about how Microsoft is helping, there's a lot that we do around helping
 organizations migrate to the cloud.
 There's a fair amount of if you think about just IT management, facilities, energy cost
 savings that come from migration. So that's been at the top of your how do we help
-organizations, leverage the assets that they have, but also be able to quickly migrateFINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 3 of 10Phil Winslow
+organizations, leverage the assets that they have, but also be able to quickly migratePhil Winslow
 Alysa Taylor
 Phil Winslow
 Alysa Taylorlegacy assets to the cloud and realize energy savings and overall cost savings. So
@@ -92,9 +88,7 @@ Exactly. That's excellent. Okay, let's drill on this, on the fiscal Q1 conferenc
 can start mainly highlight customers focus on what they were calling optimization of
 their Azure states, and that was going to be impacting your growth in the near term.
 What are you seeing in terms of optimization? I get that question a lot of, sort of like,
-what are they referring to, and like, what are the areas of focus and why?FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 4 of 10Phil Winslow
+what are they referring to, and like, what are the areas of focus and why?Phil Winslow
 Alysa Taylor
 Phil WinslowWell, I think optimization is not a new thing. If you think about the cycle, particularly
 in cloud-based workloads, you migrate them, you optimize them, and then you
@@ -132,9 +126,7 @@ Microsoft now has seven industry clouds available.
 And one of the things we've seen is, like customers sort of increasing wand sort of to
 be agile and future proof themselves particularly sort of on a verticalized basis. Now,
 what industry specific used cases do you see resonating the most with customers?
-And what does the future look like in terms of expanding to more clouds?FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 5 of 10Alysa Taylor
+And what does the future look like in terms of expanding to more clouds?Alysa Taylor
 Phil WinslowThat's a great question. So when we talked about the macro trends that are
 happening. But then if you narrow, Zoom in, every industry has a very specific set of
 both challenges and opportunities that they're facing. So if you take Healthcare as an
@@ -172,9 +164,7 @@ into things like Dynamics 365.
 So it's the - we've taken these very, very specific industry use cases and we've built
 technology that will actually enable those used cases within the existing Microsoft
 Cloud horizontal assets.
-FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 6 of 10Alysa TaylorYes, exactly. It's sort of like a natural progression of software, you start with sort of the
+Alysa TaylorYes, exactly. It's sort of like a natural progression of software, you start with sort of the
 horizontal suite, get all the assets and then you accelerate time to value by
 verticalizing them, the functions of packaging to your point, the first-party
 applications on top of it, so it's great to see that.
@@ -209,9 +199,7 @@ think about carbon emissions and how do you track carbon emissions?
 There are thousands of different data sources. It's about bringing in those data --
 bringing in that data, being able to organize that data and then actually be able to
 report, record and report that data. And so, that's the capability that we have
-enabled with the Microsoft Cloud for sustainability.FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 7 of 10Phil Winslow
+enabled with the Microsoft Cloud for sustainability.Phil Winslow
 Alysa Taylor
 Phil WinslowAnd again, it's using assets like, our data services, our -- being able to have out-of-
 the-box connectors to things like standard ERP systems, and then being able to do
@@ -249,9 +237,7 @@ vertical solutions, and so investing in that and there's new capabilities we bro
 market. Our marketplace is a great example of being able to bring all of our partner
 solutions to our customers very quickly, through an integrated marketplace. So,
 those are some of the new areas of both investment and focus in our go-to-market.
-FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 8 of 10Alysa Taylor
+Alysa Taylor
 Phil Winslow
 Alysa Taylor
 Phil Winslow
@@ -287,9 +273,7 @@ think about being able to blend that physical and digital world in a way that al
 you to do things like replicate entire buildings, replicate entire factory ﬂoors, being
 able to then remotely monitor those factories, as an example. So, being able to
 replicate, monitor and then actually drive eﬃciency. When we talk about the
-Industrial Metaverse that's what we're talking about.FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 9 of 10Phil Winslow
+Industrial Metaverse that's what we're talking about.Phil Winslow
 Alysa Taylor
 Phil Winslow
 Alysa TaylorAnd so it's a Great Coca-Cola -- their Austrian Bottling Company, is a great example
@@ -324,7 +308,5 @@ standpoint.
 Yeah. 100% on both those too. Great. Well, I appreciate the time. Like I said, thank
 you for your coming -- it was great conversation and well maybe check back in 2, 3
 years and we'll check on the Metaverse and sustainability clouds.
-I love it. Right. Thank you. Thank you for having me.FINAL TRANSCRIPT 2022-11-29
-Microsoft Corp (MSFT US Equity)
-Page 10 of 10Phil Winslow
+I love it. Right. Thank you. Thank you for having me.Phil Winslow
 So, thank you very much. Appreciate it.

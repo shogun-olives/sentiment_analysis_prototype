@@ -16,9 +16,7 @@ Excellent, Keith.
 Thank you for joining us this morning.
 
 Nice job.
-FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Amy E. Hood
+Amy E. Hood
 Keith Weiss
 Amy E. HoodThank you. So I wanted to kick off talking about overall commercial demand. I think
 the -- coming out of calendar year '19 was an extraordinary year for Microsoft in
@@ -61,9 +59,7 @@ Let me start on the first half of the question. In general, I think, for me, it'
 about where your invested and feeling good about IT budgets. I think in terms of the
 markets that we participate in, the segments we participate in, our real focus on
 value has always been there. The ability to feel good about every dollar you spend
-with us, and the ability to earn a return on that. The ability to help you transform yourFINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Keith Weiss
+with us, and the ability to earn a return on that. The ability to help you transform yourKeith Weiss
 Amy E. Hoodbusiness in a way that makes sense for you. I feel like that positions you well, no
 matter what the IT budget is or what the percentage growth is year-over-year, the
 people tend to focus on.
@@ -105,9 +101,7 @@ more and more real for people. When you talk about the importance of latency or
 sovereignty or privacy or security. And in terms of the portfolio we have and how
 customers think about it.
 For us that is for the Azure "part of the business". You're right, that number for us is
-best seen in the server and cloud products KPI. And we've talked about that for aFINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14Keith Weiss
+best seen in the server and cloud products KPI. And we've talked about that for aKeith Weiss
 Amy E. Hood
 Keith Weiss
 Amy E. Hoodlong time and I know people really focus on one or the other, but if you think about
@@ -149,9 +143,7 @@ story on both sides of the equation in the cloud and on-premise environments? An
 are the other cloud vendors starting to make any inroads in the competitive
 environment. Are they becoming fuller story via partnerships or some of the new
 products, they have out in on-premise environments?
-FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14Keith Weiss
+Keith Weiss
 Amy E. Hood
 Keith Weiss
 Amy E. HoodI think, this has been incredibly competitive market for a long time and so I'm not
@@ -194,9 +186,7 @@ premium services in particular.
 
 Any of those premium services in particular that you would point to being real hits, if
 you will.
-FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14Keith Weiss
+Keith Weiss
 Amy E. Hood
 Keith Weiss
 Amy E. Hood
@@ -235,9 +225,7 @@ could talk about chips, we could talk about many levels of eﬃciency on the tec
 side and putting not just a hardware eﬃciencies but also software improvements
 take advantage of hardware improvements.
 And I still feel like we have opportunities as the team walked you through to make
-improvements on that front. So in addition to that, of course and Azure, as weFINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Keith Weiss
+improvements on that front. So in addition to that, of course and Azure, as weKeith Weiss
 Amy E. Hoodcontinue to see premium services become a larger portion of the mix, that also
 provides some opportunity. And so overall, I do think on what I would call sort of the
 core Azure IaaS and PaaS consumption. There is still room for gross margin
@@ -280,9 +268,7 @@ feedback frankly from investors in many of our buy-side conversation saying we s
 of lost track of how big each of the Windows components are."And Windows
 Commercial is now 30% of our overall Windows business" to give you a sense of the
 momentum and a lot of that frankly is also because of the integration into the SKU
-and the value in terms of our sales processes. And so this is a place that obviouslyFINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14Keith Weiss
+and the value in terms of our sales processes. And so this is a place that obviouslyKeith Weiss
 Amy E. Hood
 Keith Weiss
 Amy E. Hoodwe're quite optimistic about, more based on customer signal then obviously my
@@ -324,9 +310,7 @@ Qs if you will, of Oﬃce 365. Is there still a lot of opportunity to expand out
 and sort of keep that user count growing very well on a going-forward basis or
 should we be shifting our focus mostly towards ARPU expansion and sort of the E3
 to E5 SKU or the M5 SKU with Microsoft 365?
-FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Keith Weiss
+Keith Weiss
 Amy E. Hood
 Keith WeissLet me try to simplify a bit with all the code names that we use for SKUs a bit. If I
 were to say, how are we thinking about internally our opportunity we are still clearly
@@ -366,9 +350,7 @@ on the Oﬃcer 365 side is really meant to expand what oﬃce workers could do.
 Interesting. I tend to think of it. This -- is I see where your logic is there. For us it's
 almost standalone.
 
-Okay.FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14Amy E. Hood
+Okay.Amy E. Hood
 Keith Weiss
 Amy E. Hood
 For many of the reasons you just mentioned, it really brings together low-code, no-
@@ -412,9 +394,7 @@ reality on a global basis in terms of meeting demand. And this is a place, where
 think we're in the very early parts of the cycle in terms of what reinventing business
 processes will look like for the next decade. So this is certainly a place where I think
 my optimism remains high. We did see Dynamics 365 growth accelerate in Q2 on a
-larger base of business and we feel like that's in part, both due to the engineeringFINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14Keith Weiss
+larger base of business and we feel like that's in part, both due to the engineeringKeith Weiss
 Amy E. Hood
 Keith Weiss
 Amy E. Hoodwork and the product quality, but also our increasing focus in terms of sales
@@ -456,9 +436,7 @@ which is a lower gross margin. But really Xbox is a big one people worried about
 the back half of the year, there's going to be a new console cycle which could
 depress gross margins. How should investors be framing up just like the gross
 margin expansion potential for calendar 20 versus calendar '19.
-FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Keith Weiss
+Keith Weiss
 Amy E. Hood
 Keith WeissThere are two things and I'll walk you. And I think you've mentioned numbers that
 we can walk through from a technically how does it impact margins. But if you step
@@ -499,9 +477,7 @@ executed extremely well to growing OpEx below the radar for us gross profit doll
 growth, which is what I should be focused on.
 
 Yeah. Thank you.
-FINAL TRANSCRIPT 2020-03-02
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Amy E. Hood
+Amy E. Hood
 Keith Weiss
 Amy E. Hood
 Keith WeissAnd a lot of that comes from shifting investments from lower productivity areas into

@@ -18,9 +18,7 @@ And with that said, I'm going to turn it over to Terry, who has a couple of sort
 brief remarks to level set things and then we will get into Q&A and then we will open
 up to the audience later. Terry?
 
-Thanks, Phil. Let me start by complimenting you on your bowtie. It's very nice.FINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 2 of 14Phil Winslow
+Thanks, Phil. Let me start by complimenting you on your bowtie. It's very nice.Phil Winslow
 Terry Myerson
 Phil Winslow
 Terry Myerson
@@ -58,9 +56,7 @@ You know, we've just recently brought these products together into one group. We
 are kind of -- we are very focused on shipping things for this year but our investment
 thesis going forward is really rooted in the fact that we want to have one platform
 that powers all of our devices so that developers can really target the aggregate
-scale of Microsoft with their investments, the one thing that we have incredible scaleFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 3 of 14Q - Phil Winslow
+scale of Microsoft with their investments, the one thing that we have incredible scaleQ - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslowwith these devices today in terms of getting our developers today target one device
 at a time and we see incredible opportunity to make Microsoft the most compelling
@@ -99,9 +95,7 @@ aggregate scale of all those devices. So enabling developers to write a game whi
 can run on both Xbox and Windows is a very interesting opportunity enabling
 productivity apps to run on the workplace but also on the phone and tablets, this is
 just an opportunity we see we can bring to developers and focus on.
-FINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 4 of 14A - Terry Myerson
+A - Terry Myerson
 Q - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslow
@@ -143,9 +137,7 @@ That was a tablet, actually.
 
 Sorry, tablets but then the Asus, the transformer book, these new devices, how is
 Microsoft helping I guess your OEM partners bring some of these new devices to
-market and sort of with the functionality but at the appropriate price points?FINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 5 of 14A - Terry Myerson
+market and sort of with the functionality but at the appropriate price points?A - Terry Myerson
 Q - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslow
@@ -187,9 +179,7 @@ need to participate in and the devices they are focused on. And so we've got a g
 partnership with QUALCOMM and that's yielding some very exciting progress.
 
 All right. So we are talking about sort of the overall platform strategy Windows. One
-more question about Windows before moving on to Windows Phone. But if we thinkFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 6 of 14A - Terry Myerson
+more question about Windows before moving on to Windows Phone. But if we thinkA - Terry Myerson
 Q - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslow
@@ -231,9 +221,7 @@ and a very important -- it is important hardware (inaudible) to get done as well
 the place where excellent hardware engineering -- sorry, excellent software
 engineering where someone can really focus on tuning the experience on a tight
 electrical bond is a place where we've been able to differentiate, take share in
-double digits and outsell the iPhone in many markets.FINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 7 of 14Q - Phil Winslow
+double digits and outsell the iPhone in many markets.Q - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslow
 A - Terry Myerson
@@ -273,9 +261,7 @@ with the context of sort of this total platform perspective?
 
 I thought you were like an enterprise software --
 
-I know. We are mixing it up now. Eventually I will get to the enterprise stuff.FINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 8 of 14A - Terry Myerson
+I know. We are mixing it up now. Eventually I will get to the enterprise stuff.A - Terry Myerson
 Q - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslow
@@ -317,9 +303,7 @@ vibrant ecosystem.
 
 Windows 8 runs over 1 million Windows desktop applications today and so we start
 with a notion of people are buying these Windows PCs. They are happy with these
-Windows PCs because it runs so many of the things they expect to run on aFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 9 of 14Q - Phil Winslow
+Windows PCs because it runs so many of the things they expect to run on aQ - Phil Winslow
 A - Terry Myerson
 Q - Phil Winslow
 A - Terry Myerson
@@ -360,9 +344,7 @@ microphone in the back there ready for the second question.
 Terry. Good morning. Thanks, Phil. A couple of two questions. One has to do with the
 number of new devices that you were talking with the Dell device, two in ones,
 tablets coming. What is exactly the consumer value proposition? There are a lot of
-price points coming out. There are a lot of devices coming out. I walked into BestFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 10 of 14A - Terry Myerson
+price points coming out. There are a lot of devices coming out. I walked into BestA - Terry Myerson
 Q - Unidentified ParticipantBuy, walked through and said wow, there's a lot. But I didn't really -- it was more
 confusion than it was clarity.
 So what exactly is the consumer value proposition of these new devices and how are
@@ -401,9 +383,7 @@ What is that as a consumer, just what is exactly is that value proposition that'
 to push me -- again what I have in Windows and what I have with my PC is what I've
 had for a while, I've had it in a work environment. It was my introduction to
 computing. But it seems like the market is going past that. How do you get the
-thought -- how do you get the consumers back into Windows? What's the valueFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 11 of 14A - Terry Myerson
+thought -- how do you get the consumers back into Windows? What's the valueA - Terry Myerson
 Q - Unidentified Participant
 A - Terry Myersonproposition you are trying to create in the cloud for the consumer that's going to
 draw them?
@@ -441,9 +421,7 @@ different layers of the stack, that's an allocation decision that Steve has made
 time and certainly bringing things together in the way they are now gives us a new --
 a different form of transparency on how we are allocating resources. So it's always a
 discussion we are having about how to deliver the highest return from our
-investments. But from an innovation or customer delight perspective, I thinkFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 12 of 14Q - Unidentified Participant
+investments. But from an innovation or customer delight perspective, I thinkQ - Unidentified Participant
 A - Terry Myerson
 Q - Phil Winslow
 Q - Unidentified Participant
@@ -479,9 +457,7 @@ Personally?
 Well yes.
 
 You're getting good. I think the Company publishes -- I am not an Executive Oﬃcer
-of Microsoft so I think what the Company publishes is what they publish.FINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 13 of 14Q - Unidentified Participant
+of Microsoft so I think what the Company publishes is what they publish.Q - Unidentified Participant
 A - Terry Myerson
 Q - Phil Winslow
 A - Terry MyersonSo just broadly I mean the question -- it's really interesting to delight customers with
@@ -522,9 +498,7 @@ the stage hopefully talking about the deployments, the great deployments of
 Windows 8 point something, 8.1, 8.2. I don't know. I am not announcing a product
 release.
 But through enterprise deployments or this gets back to the enterprise versus the
-consumer question, consumers are in this place where they expect the software toFINAL TRANSCRIPT 2013-12-04
-Microsoft Corp (MSFT US Equity)
-Page 14 of 14Q - Phil Winslowjust upgrade itself. Enterprises are not in that place. Enterprises want to think about
+consumer question, consumers are in this place where they expect the software toQ - Phil Winslowjust upgrade itself. Enterprises are not in that place. Enterprises want to think about
 these deployments as mission-critical infrastructure that they want to manage the
 rate of churn of and that is a way of doing business that we embrace and support for
 enterprise customers.

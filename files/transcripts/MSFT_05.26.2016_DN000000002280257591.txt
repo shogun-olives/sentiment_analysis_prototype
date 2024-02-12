@@ -27,9 +27,7 @@ trust for us is central to our mission of empowering every person and organizati
 And we're taking a principled approach with strong commitments to make sure that
 our customers can trust digital technology that they use.
 We have four pillars to this. When it comes to privacy, we will ensure your data is
-private and is under your control. When it comes to compliance, we will manageFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15your data in accordance with the law of the land. We will also be transparent about
+private and is under your control. When it comes to compliance, we will manageyour data in accordance with the law of the land. We will also be transparent about
 both the collection of data and the uses of data. And lastly, we will ensure that all
 your data is secure. These are the four strong commitments that we will make in
 everything we do, all our products, all of our services, how we work with our
@@ -68,9 +66,7 @@ phones, their own computing end devices into our environment.
 And of course, all this is set to even further explode with the Internet of Things
 because, computing is going to be ubiquitous, it's going to -- general purpose
 sensors are going to be in every room, every conference room, every living room.
-And so therefore, now we live in a world when the attacks can come from anywhere.FINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15The attack vectors can come from anywhere. The attackers themselves are a lot more
+And so therefore, now we live in a world when the attacks can come from anywhere.The attack vectors can come from anywhere. The attackers themselves are a lot more
 sophisticated and lot more organized.
 So it's a perimeter-less world, it's a world that is constantly evolving, it's dynamic,
 and you're under constant attack. That's the environment that we have to deal with.
@@ -108,9 +104,7 @@ prepared. And so that means you have to exercise this operational security postu
 in a continuous basis.
 This framework of protect, detect and respond has been there with us for many
 years. What is new is that posture. For example, what we protect no longer is just
-computing end points or applications. It's all of that. It's computing end points, it'sFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15the applications, which may be inside your premise, it will be the cloud services that
+computing end points or applications. It's all of that. It's computing end points, it'sthe applications, which may be inside your premise, it will be the cloud services that
 you're using, it is all the sensors, the HVAC system and the datacenter infrastructure.
 So everything from sensors to datacenter is part of your environment that you need
 to protect.
@@ -149,9 +143,7 @@ vectors, the mobility of those attack vectors, and then the responses we have co
 up with. So what we want to walk you through today is how we've built this platform
 to be resilient under attack.
 Accidental data loss, this is perhaps one of the biggest issues we have, especially
-with bring your own services and bring your own devices. It's unintended in manyFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15Julia Whitecases, but can be devastating. So how do we help you get to a control plane that
+with bring your own services and bring your own devices. It's unintended in manyJulia Whitecases, but can be devastating. So how do we help you get to a control plane that
 allows you to avoid accidental data loss?
 Phishing attacks, social engineering is perhaps one of the biggest sources of attack
 vectors, so how we deal with that.
@@ -187,9 +179,7 @@ give you, this is actually a password replacement, so it's a very big deal. Now,
 have my Surface Book and it's set up with Windows Hello for facial recognition. I'm
 going to step in front of it and it happens fast, so watch how quickly it authenticates
 me into the system using biometrics. Just like that, incredibly simple user
-experience, and yet more secure than a traditional password.FINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15Now, Microsoft's also working to enable this technology to be an industry standard.
+experience, and yet more secure than a traditional password.Now, Microsoft's also working to enable this technology to be an industry standard.
 We're working with the FIDO Alliance, with support of other companies like AMEX
 and Intel, to be able to have all platforms benefit from this type of technology in the
 future.
@@ -229,9 +219,7 @@ in a detonation chamber, and we conduct analysis on it, behavioral analysis, loo
 for any characteristics that might make it malicious, things like is it an executable or
 are there elevated privileges on the -- looking for elevated privileges on the device.
 And if it sees any of that, it takes me to this user page that lets me know that I've
-been protected and this is important, right, so the employee knows what'sFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15happened, it means that they won't work around the system or take other risky
+been protected and this is important, right, so the employee knows what'shappened, it means that they won't work around the system or take other risky
 actions as well. So I'm actually going to call for James from my demo support team
 here to get my machine set up for my virtual machine, actually, let me switch over
 here. Let's see if I have it here, okay, great, all right.
@@ -266,9 +254,7 @@ again I'll accept that.
 But now Device Guard is actually checking to make sure the digital signature is both
 valid, but also signed by a trusted authority like Microsoft or your own IT
 organizations. And when it shows that it's not, it's blocked. So in this case I'm
-protected from this malware thanks to Device Guard.FINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15Now, speaking of malware, I certainly need to talk for just a second about pass the
+protected from this malware thanks to Device Guard.Now, speaking of malware, I certainly need to talk for just a second about pass the
 hash. Now, if you're not familiar with pass the hash or pass the ticket, this is
 unfortunately what enables a hacker to go from a single compromised device to
 being able to penetrate multiple devices across your environment.
@@ -305,9 +291,7 @@ email and get some work done as many of us do, and I just have to enter my PIN,
 again, because this is a managed and secured app by my company. Now here I'm in
 Outlook, and I have this email from STAR here with an attachment that I want to get
 some work done on. So I'll go ahead and open that. And again, Word is approved by
-my organization to use for business purposes. So open that up.FINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15But maybe in this case, I want to save it to my personal Dropbox account and share
+my organization to use for business purposes. So open that up.But maybe in this case, I want to save it to my personal Dropbox account and share
 it. That would be unauthorized way, but I'm going to try it anyway, maybe I don't
 know better. So I'll go ahead and make a copy there and choose my Dropbox
 account. And when I try and save it into my Dropbox account, I see that I'm blocked,
@@ -347,9 +331,7 @@ some more granular IT controls as well. So first of all, I'll walk this here, so
 you that we can authenticate in, of course, using my Windows Hello. Let's go here.
 Another use of the biometrics, so let me just hold it up here. Looking for me. And
 you see, again, better than passwords, and more secure, too, and a similar
-experience.FINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15So here is my Windows start screen. You see I have a little icons on the corner of any
+experience.So here is my Windows start screen. You see I have a little icons on the corner of any
 of the applications that have been approved for business use. So as a user I see
 what's OK for business use versus what's purely for personal use, making it very
 simple. But if I go into the file explorer, you see that goes down even to the file level,
@@ -388,9 +370,7 @@ we heard from many customers you want the same level of control in your on
 premises environment. And that's where the new Microsoft Advanced Threat
 Analytics capability comes in. Here I'm in my Advanced Analytics dashboard. It
 essentially gives me a timeline view of different identity-based threats that I might
-want to consider and understand. Essentially it lets me know kind of the who theFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15what and the when and lets me get the signal through the noise of a lot of different
+want to consider and understand. Essentially it lets me know kind of the who thewhat and the when and lets me get the signal through the noise of a lot of different
 authentications.
 So let me start here. I see that I have a bunch of guesses in terms of looking for a
 user name. Someone is trying to guess a user name in my organization. As I go up I
@@ -428,9 +408,7 @@ my security posture. I go in here, and you see I have a few things, a few action
 asking me to take. In this case I'm going to choose this adding a web application
 firewall.
 As I go in there I see there is actually a number of web application firewall partners
-integrated right into the security center. So I can just choose the one I like. In thisFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15case I'm going to choose this Barracuda, web application firewall. And you can go
+integrated right into the security center. So I can just choose the one I like. In thiscase I'm going to choose this Barracuda, web application firewall. And you can go
 down and I see that I can actually right here deploy the solution into my Azure
 environment. It significantly streamlines the process of provisioning my partner
 solution, as well as enables you to bring whatever your preferred security vendor is
@@ -468,9 +446,7 @@ other virtual machines in my own datacenter communicating with that same
 malicious IP. I notice that in Azure I can look across the entire organization to find it,
 as well.
 Now I've shown you just a few examples of Microsoft's built-in security technology,
-working in partnership with the security ecosystem across the globe and tappingFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15Satya Nadellainto that intelligent security graph that we have to help make all of our customers
+working in partnership with the security ecosystem across the globe and tappingSatya Nadellainto that intelligent security graph that we have to help make all of our customers
 safer.
 With that I'll turn it back to Satya. Thanks.
 
@@ -506,9 +482,7 @@ We brought together a new control plane which brings identity management, device
 management and data protection together, because that control plane becomes
 critical in handling accidental data loss, conditional data access, conditional
 application access in this current world where we have BYOD devices, as well as
-bring your own SaaS applications.FINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15So EMS perhaps is one of the most strategic security products that Microsoft has had
+bring your own SaaS applications.So EMS perhaps is one of the most strategic security products that Microsoft has had
 that really helps enhance the security posture that you have inside of the enterprise.
 The other side of it is of course, the Operations Management Suite, which is around
 infrastructure, not limited, again, just to the infrastructure that you have with us on
@@ -546,9 +520,7 @@ using both our products as well as this intelligence to help secure your environ
 And as I said, partnership is very key to everything we do here. This is not just about
 Microsoft. This is about us working together as an ecosystem. In fact, in our both
 Digital Crimes Unit as well as in our Cyber Defense Operations Center, we use a lot
-of the third-party technology to defend our own estate. And so we want toFINAL TRANSCRIPT 2015-11-17
-Microsoft Corp (MSFT US Equity)
-Page 15 of 15interoperate with all of the tools. We want to be able to take advantage of what each
+of the third-party technology to defend our own estate. And so we want tointeroperate with all of the tools. We want to be able to take advantage of what each
 one of these partners brings so that we can collectively secure our environment.
 So this is our new approach, our new platform, new intelligence and new
 partnership. And all of that starts with our own new posture with our own operational

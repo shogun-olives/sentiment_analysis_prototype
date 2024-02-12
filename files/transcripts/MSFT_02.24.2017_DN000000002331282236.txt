@@ -27,9 +27,7 @@ transformation, business analytics and Big Data and Business Analytics are to so
 of -- are the pivotal pillars on which people rest their businesses, their business
 models and so the goal is to create greater operational eﬃciency, building deep
 relationships with their customers and then creating new revenue streams, which are
-based on technology enabled products and services, and the underpinning of all ofFINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 2 of 15this is data and so many times in the past, a lot of the business decisions were made
+based on technology enabled products and services, and the underpinning of all ofthis is data and so many times in the past, a lot of the business decisions were made
 based on surveys or user sentiment. These days much of that is based on data and
 the data is either collected in a telemetric fashion through devices or it's collected
 through user sentiment, it's collected through websites, much of that data is diverse,
@@ -70,9 +68,7 @@ about Azure or it's talking about file storage. It is important to know that Big
 requires data persistence, because that's where the data lives. We are not all talking
 about streaming data, so there is data in transit, which is never captured -- never
 stored, it's always analyzed in transit. But then there is the data in storage, which is
-where data persistence comes in.FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 3 of 15Second is data management, so being able to glue all this data together, whether it's
+where data persistence comes in.Second is data management, so being able to glue all this data together, whether it's
 in the form of a database or whether it's in the form of a data fabric bringing the
 data together in a sort of a (Technical Diﬃculty) for analytics is important.
 Next-Gen apps is important, the third one is because it is all about making sure that
@@ -112,9 +108,7 @@ spread out across the entire software spectrum.
 And how do we classify Big Data? So one of the things we need to note is that we
 need to define Big Data, there are a lot of industry terms out there, that talk about
 Big Data in different ways, but for us, really it is the volume variety and velocity. And
-volume means that the data is collected in excess of 100 terabytes [ph], it isFINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 4 of 15generated and growing more than 60% and/or it is received through high-speed
+volume means that the data is collected in excess of 100 terabytes [ph], it isgenerated and growing more than 60% and/or it is received through high-speed
 streaming and then it is deployed on dynamically adaptable infrastructure. This is
 key because a lot of those static applications that are used in traditional business
 analytics use cases. Much of the infrastructure is pretty static and rigid. For Big Data,
@@ -154,9 +148,7 @@ notice that the business analytics market is going to be a $153 billion market i
 again, growing much faster. But as you can see here, the compute side of business
 analytics forms a bigger portion of the infrastructure market.
 Now here's where I need to explain why and how Big Data and business analytics
-are interchangeable or not. So business analytics is the Uber market, it's the biggerFINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 5 of 15market and we think of Big Data as a portion or a segment of the business analytics
+are interchangeable or not. So business analytics is the Uber market, it's the biggermarket and we think of Big Data as a portion or a segment of the business analytics
 of the overall business analytics market. So what you're seeing here in the $153
 billion market, a 100% of that or -- I'm sorry, 100% of the Big Data market is a sub-
 segment of this bigger -- of the business analytics market.
@@ -195,9 +187,7 @@ they were driven by their own market sentiment, but these days data driven
 emphasis is so much that it's pretty big risk, do not base your decisions on data.
 The second is availability of data, there is a lot of democratization -- democratization
 of data and what that means is many companies can get access to social media data,
-they can get access to anonymized machine generated data, anonymized mobileFINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 6 of 15data, anonymized financial data and they can use that to better inform themselves.
+they can get access to anonymized machine generated data, anonymized mobiledata, anonymized financial data and they can use that to better inform themselves.
 So the availability of data makes it easier for your decision making to be superior
 versus having (Technical Diﬃculty) make decisions based on the data you have at
 your disposal.
@@ -236,9 +226,7 @@ So if you are, in fact, the company with a culture of doing it all in-house, the
 developers don't need to go by software, they can just use open-source.
 And finally, I wanted to end a note with some main market trends; first is that public
 cloud providers like Amazon and Google and Microsoft are continuing to
-aggressively invest in Big Data and Analytics, they have sort of building their valueFINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 7 of 15A - Mandeep Singhproposition beyond just the infrastructure service and therefore they are going after
+aggressively invest in Big Data and Analytics, they have sort of building their valueA - Mandeep Singhproposition beyond just the infrastructure service and therefore they are going after
 the Enterprise segment.
 It is -- Big Data is and will be an ecosystem play, there won't be a single company
 that can dominate it. The ecosystem will be, you know, so to give you an example,
@@ -274,9 +262,7 @@ ROI isn't obvious when it comes to Big Data projects and sometimes it can take a
 very long investment cycle to really say, okay, this is what I achieve using my Big Data
 system.
 So would you say that standalone Big Data is that kind of the future or does it have
-to overlay AI and cloud to really drive that ROI?FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 8 of 15A - Ashish Nadkarni
+to overlay AI and cloud to really drive that ROI?A - Ashish Nadkarni
 A - Mandeep Singh
 A - Ashish Nadkarni
 So I think it's the latter, and that's a great question, because this is basically one of
@@ -317,9 +303,7 @@ which is slowly getting attached to an industry or a use case.
 So you mentioned autonomous vehicles, you mentioned healthcare, every so the
 data storage part, which is you talked about the structured and unstructured piece in
 the previous question, the data storage part has not been moving so much meaning
-that the format of the data has not been changing so much.FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 9 of 15A - Mandeep Singh
+that the format of the data has not been changing so much.A - Mandeep Singh
 A - Ashish NadkarniWhat has been changing is the analytics piece. And the analytics piece is slowly
 becoming more specialized, more industry centric, more use case driven, more if
 then, there, that kind of driven. And that's where things like cognitive and artificial
@@ -360,9 +344,7 @@ is going to grow and that's because a lot of these newer Big Data technologies u
 recomputing for, SAP HANA being one of them. So that's kind of you can see as the
 infrastructure market has reached the plateau of speeds and feeds, they are now
 branching off into different types of compute models, if you will, or compute and
-storage models.FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 10 of 15A - Mandeep Singh
+storage models.A - Mandeep Singh
 A - Ashish NadkarniAnd then now let's shift into the software (Technical Diﬃculty) now, I'm not a software
 expert, but from what I can see, there are companies that are becoming more and
 more specialized on industry specific use cases. So to give you an example, the
@@ -404,9 +386,7 @@ of the companies shows to stick with commercial plugins if you will. And so, whe
 did a survey three years ago, the amount of -- the number of companies going with
 Vanilla Hadoop, the whole Hadoop distribution were in a limited minority, because
 Vanilla Hadoop had a lot of problems, it had a lot of single points of failure, it wasn't
-stable.FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 11 of 15A - Mandeep Singh
+stable.A - Mandeep Singh
 A - Ashish NadkarniFast forward three years later, many of those things [ph] have been ironed out, many
 of the issues have been sorted out, Vanilla Hadoop is a lot more stable, it's a lot
 more robust. And so, when something starts off in the open source, it is never as
@@ -448,9 +428,7 @@ Clearly companies like Teradata and Oracle have acknowledged that this is going 
 happen, and therefore they are trying to offer -- so if you are an EDW supplier then
 when it comes to investing in the next-gen data warehouse, they want to maintain
 that installed base. So they will -- they would rather the vendor -- the buyer come to
-them versus go to something else.FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 12 of 15A - Mandeep Singh
+them versus go to something else.A - Mandeep Singh
 A - Ashish Nadkarni
 A - Mandeep Singh
 A - Ashish NadkarniSo they are offering connectors that allow you to oﬄoad (Technical Diﬃculty) the
@@ -492,9 +470,7 @@ to play, does it expedite that transition? And I mean there are certain companie
 are still using mainframe, so obviously they haven't really moved to a Big Data
 environment, they aren't even close. So can cloud help these companies get there
 faster?
-FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 13 of 15A - Mandeep Singh
+A - Mandeep Singh
 A - Ashish NadkarniSo cloud definitely helps, I think helps in two ways; one is, for companies who have a
 very traditionally run IT, which is very rigid, very time consuming, have an alternative
 to go quickly jump on the cloud and start to test their waters with Big Data. The other
@@ -537,9 +513,7 @@ Then there is the mammalian part of the brain, which has the scale and the abili
 think in some basic patterns. That's where artificial intelligence comes in, that could
 be compared as artificial intelligence. And then (Technical Diﬃculty) you could
 almost compare to the human, the human part of the brain, which is what makes us
-different from our amphibian, I am sorry, a mammalian counterparts in the kingdom.FINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 14 of 15A - Mandeep Singh
+different from our amphibian, I am sorry, a mammalian counterparts in the kingdom.A - Mandeep Singh
 A - Ashish Nadkarni
 A - Mandeep Singh
 A - Ashish NadkarniSo, so you could almost think of these three things as staggered and a stacked
@@ -579,9 +553,7 @@ different. It's a lot more custom. It's a lot more specific to how the company t
 mobilize its investments and try to get return on that.
 So, my answer is, I think there are, the studies are emerging, there are a lot more
 commissioned studies out there, which have a bias towards the installed base or the
-bias towards the vendor. There are lot few uncommissioned and neutral agnosticFINAL TRANSCRIPT 2017-02-20
-Microsoft Corp (MSFT US Equity)
-Page 15 of 15A - Mandeep Singh
+bias towards the vendor. There are lot few uncommissioned and neutral agnosticA - Mandeep Singh
 A - Ashish Nadkarnistudies that would truly try to shine light on the challenges of gathering the ROI or
 realizing the ROI in term -- in large investments.
 

@@ -16,9 +16,7 @@ so it's a great opportunity to have you speak to some of the key trends.
 So -- but maybe to levels at Enterprise Computing, it's broad-based, it's increasingly
 more and more diverse. I think you and I talked about the BlueField product in the
 past, but maybe the level set the discussion, just a real quick overview of your
-responsibilities within the Company, and then we'll go in the questions from there.FINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 12Q - Aaron Rakers
+responsibilities within the Company, and then we'll go in the questions from there.Q - Aaron Rakers
 A - Manuvir DasYeah. Thank you so much for having me, Aaron. And on behalf of NVIDIA, it's a
 pleasure to be here. In NVIDIA, we operate as one NVIDIA, one business. There are
 no people other than the CEO who think of themselves as owners of a particular
@@ -57,9 +55,7 @@ an inﬂection point, okay. And I can describe that to you in three different wa
 way of thinking about it is the success we've had with AI to date has been companies
 in particular verticals where there was a clear use case very related to the business
 they're in. For example, I'm on an online shopping site and I need to recommend
-what's the next thing for somebody to buy. I'm a healthcare company and I'm doingFINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 12Q - Aaron Rakersresearch on drug discovery. So very specific to the use case, we've had a lot of
+what's the next thing for somebody to buy. I'm a healthcare company and I'm doingQ - Aaron Rakersresearch on drug discovery. So very specific to the use case, we've had a lot of
 success there, and we'll see that adoption continue.
 I think the inﬂection now is on horizontal use cases. So, for example, conversational
 AI is a way to create chatbots for customer service, and it doesn't matter what
@@ -101,9 +97,7 @@ the application layer, does that necessarily say, hey, that application layer is
 increasingly need a parallel compute -- accelerated compute underneath of it? Or is
 that, hey, this application infused with AI can run on general-purpose processors as
 effectively as a historical application? I'm just kind of curious of that -- you know,
-where that sits?FINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 12A - Manuvir Das
+where that sits?A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir Das
 Q - Aaron Rakers
@@ -142,9 +136,7 @@ change dramatically.
 The reason why it is the way it is today is because there has been a general mental
 model that you need a special kind of server to do AI. A server that you pack it to the
 gills with GPUs. You put four GPUs, eight GPUs in the server, it's a bespoke thing. It's
-not a server that costs $10,000. It's a server that costs $100,000 or $200,000, and it'sFINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 12Q - Aaron Rakers
+not a server that costs $10,000. It's a server that costs $100,000 or $200,000, and it'sQ - Aaron Rakers
 A - Manuvir Das
 Q - Aaron Rakerslike a Ferrari. And when you buy one of those, you better be running AI on it 24/7, or
 you wasted your money. That's been the general model and that's why the
@@ -186,9 +178,7 @@ taught of as another such workload. Your data scientists should just be thought 
 another set of users who can come and access the same pool, and your IT team
 should be able to just expand the pool naturally to these use cases, right, and that's
 why we did the work with VMware.
-FINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 12A - Manuvir Das
+A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir DasSo you've driven a bunch of other questions, I can add on there. But I'm going to
 kind of try and keep with my script here a little bit. So how does that involve, or how
@@ -228,9 +218,7 @@ there. All they can learn from that and build their own.
 So -- and the reason we do this, Aaron, it's important because it is a full-stack
 problem. Accelerated computing is not easy. You have to optimize the different parts
 of the stack together in order to get the best benefit. I'll give you a very small
-example of that. You think about AI and you produce these models, and models canFINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 12Q - Aaron Rakers
+example of that. You think about AI and you produce these models, and models canQ - Aaron Rakers
 A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir Dasbe large, and so you have to split the model up when you actually do the inference.
@@ -270,9 +258,7 @@ Every night, they tweak the data a little bit, they get a better model, they lik
 model now, right, more than the one they had yesterday. On the other hand, you've
 got IT. IT are the people who control the data centers. More importantly, IT are the
 people who are accountable for the software that is running in production that the
-business depends on. Where if something happens to that software tomorrow,FINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 12Q - Aaron Rakers
+business depends on. Where if something happens to that software tomorrow,Q - Aaron Rakers
 A - Manuvir Daswhether it's compromised or not functioning, the Board wants to know what
 happened, right, my company's reputation is suffering.
 So these two distinct entities. And in the early adoption of AI, the data scientists have
@@ -313,9 +299,7 @@ Yeah. Remind me just real brieﬂy how it's licensed?
 Yeah. So we chose to license based on the way that VMware licenses vSphere
 because this product as we've done it today is based on top of VMware vSphere. So
 it's the same licensing model, roughly speaking, it's about $2,000 per year, per
-superior socket, okay, is the license of the model, which -- for those who are familiarFINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 12Q - Aaron Rakers
+superior socket, okay, is the license of the model, which -- for those who are familiarQ - Aaron Rakers
 A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir Daswith VMware will say, that actually looks very much like the pricing for VMware
@@ -355,9 +339,7 @@ about BlueField 2 and BlueField 3 and BlueField 4 because there is a journey her
 This is an inﬂection that the whole industry is going to go through. It's going to take
 multiple generations of the hardware and software for that journey to occur. And
 furthermore, there is going to be a lot of different players in this system, cyber
-security providers, virtualization platform providers, et cetera.FINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 12Q - Aaron Rakers
+security providers, virtualization platform providers, et cetera.Q - Aaron Rakers
 A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir DasAnd this is why we took the same approach with the DPU that we took with the GPU
@@ -397,9 +379,7 @@ you're just shifting the problem.
 Yeah.
 So we're very keen on Monterey, Aaron, because I think that's what's going to drive
 the inﬂection. The next stage of it, as you said, what we are uniquely doing in NVIDIA
-with the addition of GPU and AI capability into the DPU, just takes things to anotherFINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 12Q - Aaron Rakers
+with the addition of GPU and AI capability into the DPU, just takes things to anotherQ - Aaron Rakers
 A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir Das
@@ -439,9 +419,7 @@ sit and say to you in theory conceptually, the hypothesis is everybody is going 
 need it, it's going to change every enterprise company. But I can also say to you that
 in terms of the traction we've seen too far, it certainly seems to match that
 hypothesis. We see great appetite and interest in Omniverse Enterprise. Yeah.
-FINAL TRANSCRIPT 2021-12-01
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 12A - Manuvir Das
+A - Manuvir Das
 Q - Aaron Rakers
 A - Manuvir DasI can keep going on, but I think we are unfortunately out of time, Manuvir. I
 appreciate you helping us understand the story a little bit better and thank you so

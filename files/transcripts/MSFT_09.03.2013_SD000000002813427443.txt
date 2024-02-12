@@ -3,9 +3,7 @@ Steve Ballmer, Chief Executive Oﬃcer; Stephen Elop, Executive Vice President,
 Devices and Services of Nokia; Brad Smith, Executive Vice President and General
 Counsel; Terry Myerson, Executive Vice President, Operating Systems; and Amy
 Hood, Executive Vice President and Chief Financial Oﬃcer. On our website,
-Microsoft.com/investor is a slide deck which is intended to follow today'sFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 2 of 19Steve Ballmerpresentation. As a reminder today's call is being webcast live and recorded. If you
+Microsoft.com/investor is a slide deck which is intended to follow today'sSteve Ballmerpresentation. As a reminder today's call is being webcast live and recorded. If you
 ask a question it will be included in our live transmission, in the transcript and any
 future use of the recording.
 You can replay the call and view the transcript at the Microsoft investor relations
@@ -46,9 +44,7 @@ we call it the recommitment date at which we would each add some options on how
 to move forward. It's quite complicated. But we have been talking for a while about
 where we wanted to go. We think we have made excellent, excellent progress with
 the partnership and yet we also know we have a long way go and felt in balance that
-together this is the best approach for both companies' shareholders.FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 3 of 19Terry MyersonOn slide 5, I show you a sampling of some of the beautiful Nokia phones. Nokia
+together this is the best approach for both companies' shareholders.Terry MyersonOn slide 5, I show you a sampling of some of the beautiful Nokia phones. Nokia
 ships well over 200 million phones a year. The vast majority of those are mobile or
 feature phones that get sold for prices as low as say $25. And are often the first
 connection with technology that people in many places in the word have, with any
@@ -90,9 +86,7 @@ shipped Windows Phone 8, which enabled Nokia to create a full portfolio of
 Windows Phones that spanned a broad array of price points in over 100 countries.
 Today we have the best selling Lumia 520 at an entry level price point, the 620, the
 720, the 820, the 920 which was voted smartphone of the Year by Engadgets
-Readers the same year iPhone 5 and Galaxy S3 launched. And now the best cameraFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 4 of 19Steve Ballmerphone in the world, the Lumia 1020. In just over two years Nokia has gone from
+Readers the same year iPhone 5 and Galaxy S3 launched. And now the best cameraSteve Ballmerphone in the world, the Lumia 1020. In just over two years Nokia has gone from
 shipping no Windows Phones to shipping 7.4 million last quarter.
 As a result of our Windows Phone innovations, combined with Nokia's amazing
 device portfolio, their capability and distribution and retail promotions, Windows
@@ -135,9 +129,7 @@ how this deal strengthens us as a Company in so many ways. So on slide 13, if yo
 will, I want to harken back to themes we have been striking over the past couple
 months, actually the past couple of years, of the transformation of Microsoft. The
 Company I joined 33 years ago was a Company focused in on software for personal
-computers. Software is a great skill and will always be a core strength of Microsoft.FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 5 of 19The PC is an important device, the most productive device on the planet. And will
+computers. Software is a great skill and will always be a core strength of Microsoft.The PC is an important device, the most productive device on the planet. And will
 continue to be so.
 And yet for us to, not only to grow. But for us to really fulfill the vision of what we can
 do for our customers, we have evolved our thinking. We need to be a Company that
@@ -179,9 +171,7 @@ Bing service. The device opportunity is perhaps the best opportunity for pursuin
 users in very, very large numbers.
 The phone as a device is, of course, obvious. It's the most popular device, intelligent
 device, now on the planet. It is important for us to really make sure we have the
-innovative high quality experience that lights up on great devices. We do think thatFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 6 of 19there will be innovation in hardware and in software. And that will give opportunities
+innovative high quality experience that lights up on great devices. We do think thatthere will be innovation in hardware and in software. And that will give opportunities
 for us to build market share in the phone as a device. And that brings with it profit
 opportunities. I continue to believe that there is enough innovation in devices, unlike
 some of our investors, that it will be a growth opportunity in terms of the financial
@@ -223,9 +213,7 @@ actually looks to us to be the best risk-return and upside opportunity for our
 shareholders. Terry talked about why an acquisition is better than continuing from an
 innovation and marketing standpoint and arm's length relationship with Nokia. So
 we think the combination gives us the maximum opportunities and Amy will talk
-some about that from a financial perspective.FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 7 of 19Amy HoodWe absolutely believe this acquisition grows our OEM opportunity. More success
+some about that from a financial perspective.Amy HoodWe absolutely believe this acquisition grows our OEM opportunity. More success
 with phones helps our OEMs and tablets and PCs. I talked to a number of OEMs who
 are more enthusiastic today than they were yesterday about pursuing phones,
 because they know we have a ﬂagship product with which to blaze trails in this
@@ -267,9 +255,7 @@ transaction, we will become a top three customer for Nokia. Those economics are
 outside the acquisition economics that we summarized in the sheet. But they're in
 the analysis that Amy Hood will now share with you. Amy, you want to talk some
 about the smartness. So to speak, of this acquisition?
-FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 8 of 19Absolutely. Hello, everyone. As Steve and Terry have both mentioned, today is a very
+Absolutely. Hello, everyone. As Steve and Terry have both mentioned, today is a very
 exciting day for Microsoft. We feel great about the opportunity that this deal
 represents to drive long-term shareholder value with both top; and bottom-line
 growth.
@@ -312,9 +298,7 @@ and integration expenses, we expect the deal will be accretive on a non-GAAP bas
 in fiscal year '15, driven by both increased smart device unit volumes and cost
 synergies. Cost synergies are expected to occur across both Companies over a wide
 variety of functions. We are committed to operating this business eﬃciently. As Steve
-mentioned, Nokia brings significant expertise in areas such as supply chain andFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 9 of 19Brad Smithdemand planning. And has mature operational systems in place that will be a key
+mentioned, Nokia brings significant expertise in areas such as supply chain andBrad Smithdemand planning. And has mature operational systems in place that will be a key
 asset for the combined entity.
 On slide 22, with this deal we have a real opportunity to materially drive long-term
 shareholder value. The smartphone market is expected to reach over 1.7 billion units
@@ -355,9 +339,7 @@ moved over in terms of ownership.
 Second there is a patent license for which Microsoft is paying EUR1.65 billion. This
 involves the right to, in effect make, use of Nokia's inventions. It doesn't involve the
 transfer or ownership of the patents itself. But what it does give is, it gives Microsoft a
-license for all of Nokia's patents except for the NSN patents. It gives us the option,FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 10 of 19Steve Ballmerwhich we'll exercise, to convert this license from a ten-year license to a perpetual
+license for all of Nokia's patents except for the NSN patents. It gives us the option,Steve Ballmerwhich we'll exercise, to convert this license from a ten-year license to a perpetual
 license, meaning we'll have patent coverage for the life of all those patents. It also
 has a broad five-year, two-way standstill between both Companies including the
 NSN patents.
@@ -400,9 +382,7 @@ Great. Thanks very much, Brad. I am going to turn to slide 26 and talk some abou
 the execution plan. One of the things which I think we are most acutely focused in
 on, is how do Companies really make big acquisitions work? In this case, we have
 two and a half years now of experience in making many aspects of this acquisition
-work. Our partnership provides us with great confidence. We know the people. WeFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 11 of 19Stephen Elopcan produce products together. We know how to go to market together. We can do
+work. Our partnership provides us with great confidence. We know the people. WeStephen Elopcan produce products together. We know how to go to market together. We can do
 it all more eﬃciently. We understand that. More effectively, we understand that. I
 have to say I don't know whether we would be here if we hadn't already operated
 under our current collaborative agreement do so much great work.
@@ -445,9 +425,7 @@ smart devices through faster innovation, through better products and through
 unified branding and marketing. In short, we can reduce the natural frictions in the
 system between our two Companies. We can invest more resources into the effort
 and we can build on the momentum that has already been established. As well, the
-potential for what we can do with mobile phones goes up, as we are presented withFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 12 of 19Steve Ballmerthe opportunity to bring a rich array of Microsoft services to first-time smartphone
+potential for what we can do with mobile phones goes up, as we are presented withSteve Ballmerthe opportunity to bring a rich array of Microsoft services to first-time smartphone
 users. And as we create an on-ramp to Windows Phone for people that are having
 their first smart experiences. Our likelihood of success with Devices & Services goes
 up as a result of this transaction.
@@ -489,9 +467,7 @@ even greater differentiation. We have work do on the so-called application gap. 
 have work do for market success. But we have created absolutely first-rate products
 of which we are all at Nokia and Microsoft incredibly proud. And we will continue
 that as we move into this new space. Brad, why don't you talk a little bit about
-regulatory approval?FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 13 of 19Brad Smith
+regulatory approval?Brad Smith
 Steve Ballmer
 Brad Smith
 Steve Ballmer
@@ -531,9 +507,7 @@ Fantastic.
 Steve, back to you.
 
 Chris, I think that pretty much wraps up. And we would love the chance to take some
-questions.FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 14 of 19Operator
+questions.Operator
 Q - Walter Pritchard
 A - Steve Ballmer
 A - Terry Myerson
@@ -573,9 +547,7 @@ phones that are out there already?
 
 It's definitely a priority for us to bring Windows to as many customers as we can
 around the world. The lower price phone is a strategic initiative for the next Windows
-Phone release. We have nothing more really to say now.FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 15 of 19Q - Walter Pritchard
+Phone release. We have nothing more really to say now.Q - Walter Pritchard
 A - Chris Suh
 Operator
 Q - Mark Moerdler
@@ -614,9 +586,7 @@ today. We definitely have interest from OEMs in the Windows Phone opportunity,
 given that people understand we're going to blaze the trails here with our own first-
 party hardware.
 
-Thank you very much. Appreciate it.FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 16 of 19A - Chris Suh
+Thank you very much. Appreciate it.A - Chris Suh
 Operator
 Q - Brent Thill
 A - Steve Ballmer
@@ -656,9 +626,7 @@ Keith Weiss, Morgan Stanley.
 You guys have talked about the success in the partnership to date and putting out
 some really good products. I was wondering, Steve, perhaps you could give us some
 concrete examples. What does the acquisition enable you to do that you guys
-couldn't do through the partnership? Maybe give us some more concrete examplesFINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 17 of 19A - Steve Ballmer
+couldn't do through the partnership? Maybe give us some more concrete examplesA - Steve Ballmer
 Q - Keith Weiss
 A - Chris Suh
 Operator
@@ -698,9 +666,7 @@ are going go in a few years? I am wondering, to get there one thing you are goin
 need is a lot of developer support. Developers already have IOS Android. You can
 make an argument that HTML size over the next few will grow. That will give them a
 third development platform. How will you guys convince them to develop for
-Windows Phone?FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 18 of 19A - Steve Ballmer
+Windows Phone?A - Steve Ballmer
 A - Terry Myerson
 A - Steve Ballmer
 A - Chris Suh
@@ -741,9 +707,7 @@ Brad, you want to take that?
 The answer is no. You would not expect the Company to disclose material non-
 public information to an entity that doesn't have an appropriate nondisclosure
 agreement. So the answer is no.
-FINAL TRANSCRIPT 2013-09-03
-Microsoft Corp (MSFT US Equity)
-Page 19 of 19A - Chris Suh
+A - Chris Suh
 OperatorOkay. Thank you.
 
 Okay. So that will wrap up our call today. Thank you, again for joining us. We look

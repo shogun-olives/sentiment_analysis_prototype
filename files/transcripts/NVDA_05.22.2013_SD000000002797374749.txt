@@ -20,9 +20,7 @@ it. So I will do my best to explain what some of those strategies are.
 The other thing that we have been focusing on is at the same time as we are doing
 this, I believe that NVIDIA has the ability to make disciplined investments for growth
 by leveraging our core R&D. So there is a lot of common functionality in visual
-computing that you can imagine we have to build regardless of which market weFINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13have to go after and as a result what we are doing is with some incremental
+computing that you can imagine we have to build regardless of which market wehave to go after and as a result what we are doing is with some incremental
 investment we can go after a much larger opportunity but the incremental
 investment is there for much smaller.
 Then finally, we are increasingly committed to returning cash to shareholders and we
@@ -61,9 +59,7 @@ go target the mobile market we are leveraging a lot of R&D investment that we ha
 done in GPU. Does that make sense?
 These new opportunities and where we have extended are into areas like our server
 GPU and new computing devices. These are ramping very rapidly. So last year for
-example Tesla and Tegra combined was about $850 million in new revenue in FY '13FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13and we combined believe that we are just at the beginning of this opportunity.
+example Tesla and Tegra combined was about $850 million in new revenue in FY '13and we combined believe that we are just at the beginning of this opportunity.
 Combined we believe this opportunity is over about $20 billion in new TAM.
 In the process of leveraging our core R&D and doing incremental investments we
 also have been focusing on operational excellence. We believe that we have been
@@ -103,9 +99,7 @@ our products to market.
 We have a number of different brands and we target what we believe are large
 opportunities. So again, earlier I mentioned that we don't target the PC market as a
 whole. We target subsegments so first of all the gaming market. Within the gaming
-market. we have two brands, GeForce which is our card and then GRID, which is aFINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13new product which allows you to deliver interactive gaming over the Internet
+market. we have two brands, GeForce which is our card and then GRID, which is anew product which allows you to deliver interactive gaming over the Internet
 streaming. Together the combination of these markets today is about $6 billion.
 We target the enterprise market so this is our professional workstation, our high-
 performance computing and then GRID. Then finally, new computing devices and
@@ -143,9 +137,7 @@ an x86, it has a Tegra 4 from NVIDIA and the screen detaches, the screen becomes
 tablet and the bottom portion is a keyboard and an extra battery.
 So the line is blurring. It is hard to tell now increasingly what is a personal computer
 and what isn't. But what we do know is that all of these devices demand world-class
-visual computing. What we do is we take the visual computing, we deliver it in theFINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13form of a GPU and this GPU is delivered to this world of devices either in the form of
+visual computing. What we do is we take the visual computing, we deliver it in theform of a GPU and this GPU is delivered to this world of devices either in the form of
 a discrete GPU or in the form of a Tegra device. The line is blurring.
 Now what we have done is focused on taking this visual computing another way to
 represent the previous slide is that you have got the segments of the PC market that
@@ -183,9 +175,7 @@ of GRID that we are going after but one of the components is the entire VDI mark
 so you guys know that there are companies out there, companies like Citrix, VMware,
 people like that who have virtual desktop solutions out on the market. So earlier I
 mentioned that there is some interesting news today so the one thing we just
-announced I think about an hour ago.FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Right now Citrix is holding their big show in Southern California, Citrix Synergy. The
+announced I think about an hour ago.Right now Citrix is holding their big show in Southern California, Citrix Synergy. The
 Citrix CEO and the NVIDIA CEO got on stage and announced NVIDIA GRID vGPU.
 And what this is is the ability to GPU accelerate all of Citrix's XenDesktop and
 XenApp applications. So just imagine the entire world of PLM today, product
@@ -224,9 +214,7 @@ creative designers out there. 50% of them are in small to medium business and th
 product is a reseller type of product, this is branded by NVIDIA and we are taking it
 out to the market. Some of the early indicators of future success of that are that we
 signed the top resellers for each one of those applications already and we are in the
-process of taking that to market.FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Then finally, Enterprise VDI, I talked about some of this but we believe there is a class
+process of taking that to market.Then finally, Enterprise VDI, I talked about some of this but we believe there is a class
 of workers out there, 700 million enterprise workers, 160 million knowledge workers,
 applications that people use that have a level of graphics requirement and by GPU
 accelerating the VDI we believe that creates a big opportunity for us.
@@ -265,9 +253,7 @@ Microsoft is committed to WinRT. It is too important and I think that will be
 something that isn't part of our addressable market.
 We also have automotive in here. It is actually interesting one of the things that I
 don't think many people are aware of. One of the largest backlogs we have in terms
-of orders in the Company is actually from automotive. The bad news on automotiveFINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13is that it takes a long time to get a design win but the good news is when you get a
+of orders in the Company is actually from automotive. The bad news on automotiveis that it takes a long time to get a design win but the good news is when you get a
 design win, it is sticky and it stays for quite a while. So we actually have orders going
 out many years into the future and actually our actual backlog right now in
 automotive for Tegra is $2 billion in revenue. It is really astounding.
@@ -306,9 +292,7 @@ incremental $10 million investment, we developed a device ourselves and we put i
 we just announced preorders for this device. This is the Shield gaming device, it has
 a Tegra 4. It allows you to play any game in the Android market. So in the Android
 market is roughly 600 million gamers any game and in addition to that, you can have
-physical controls and you can project this and play it on your TV.FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13The second thing you can do is you can stream from your PC. Let's say you have a
+physical controls and you can project this and play it on your TV.The second thing you can do is you can stream from your PC. Let's say you have a
 GeForce in your PC you can now stream, connect to your PC wirelessly and then start
 playing on your PC but it is streaming to your controller and then display on a TV.
 By the way just that feature by itself has caused an enormous amount of excitement
@@ -347,9 +331,7 @@ to the shareholders and we recently announced an accelerated share repurchase
 program as well as a commitment to continue those programs. We expect to
 continue the dividend, we expect to continue share repurchase. And so one of the
 things that I think is key is that we have an increasing commitment to return capital
-back to the shareholders.FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13For NVIDIA, upcoming milestones. First of all, I already talked today about the
+back to the shareholders.For NVIDIA, upcoming milestones. First of all, I already talked today about the
 announcement with Citrix so I think this was an important milestone at this point
 right now. We are working together with Citrix, IBM, Cisco, Dell, HP, a number of
 these people and bringing GRID to market. I think the announcement of the vGPU
@@ -387,9 +369,7 @@ outlook is to go up -- roughly 2%. Currently the underlying pieces of our busine
 the PC and GPU business continues to be very strong, robust. We anticipate
 notebook business to be -- to decline somewhat. Overall I think the notebook
 business will be more or less stable for us. We ship into the high-end of the market
-but in general the major portions of our business are that the high-end GPUFINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Blayne Curtis
+but in general the major portions of our business are that the high-end GPUQ - Blayne Curtis
 A - Rob Csongor
 Q - Unidentified Participantproducts are doing well, Quadro and Tesla are doing very well. GRID is starting to
 ship and Q2 represents essentially the trough quarter for us in terms of Tegra.
@@ -424,9 +404,7 @@ Exactly. Maybe just actually --
 I thought he had a question. Yes?
 What happened in the gaming console business? Clearly you guys didn't get any
 business on the three big gaming consoles. Are you guys not focusing on that
-business at all now?FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13A - Rob Csongor
+business at all now?A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
@@ -464,8 +442,6 @@ architecturally do something so much better for certain applications than anythi
 else out there that it doesn't matter what that something else is. If you want an apple,
 you're going to buy an apple. It doesn't matter how good the orange is, how well the
 orange is made. Does that make sense?
-FINAL TRANSCRIPT 2013-05-22
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13A - Rob CsongorI think we are out of time. But thanks, Rob.
+A - Rob CsongorI think we are out of time. But thanks, Rob.
 
 You were going to say something. All right, that is all right. Thank you very much.

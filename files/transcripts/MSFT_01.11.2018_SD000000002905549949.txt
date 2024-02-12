@@ -21,9 +21,7 @@ translate the precision and scale of the immune system to diagnose and treat
 disease. We have a first commercial product in blood cancer. It's called clonoSEQ.
 And that's for measuring minimal residual disease or to be able to predict relapse or
 whether or not that cancer is gone after a treatment. And we have a pipeline of
-diagnostics related to this concept of whether your immune system is competent orFINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 2 of 16A - Peter Lee
+diagnostics related to this concept of whether your immune system is competent orA - Peter Lee
 Q - Tycho W. Peterson
 A - Peter Lee
 A - Chad M. Robinsnot. And I'll save the discussions on the partnership and the antigen mAb after Peter
@@ -68,9 +66,7 @@ realized is that it would take some very, very sophisticated machine learning an
 cloud compute power to truly get at this problem and to be able to impact patient
 care. So we set out and we started talking to a variety of different partners in the big
 data, large market cap, machine learning experts. And I think some of the
-assumptions that we went into in our discussions were change based on the partnersFINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 3 of 16A - Peter Lee
+assumptions that we went into in our discussions were change based on the partnersA - Peter Lee
 Q - Tycho W. Petersonthat we wound up talking to. And Microsoft had this just deep commitment to doing
 this, to really putting resources in. I'm not just talking about the financial resources in
 terms of investment, I'm talking about the resource commitment from an FTE
@@ -116,9 +112,7 @@ months but we got it done.
 
 And maybe let's look ahead a little bit and think what's your vision for the
 collaboration. What do you think it ultimately could mean for patients at the end of
-the day?FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 4 of 16A - Chad M. Robins
+the day?A - Chad M. Robins
 A - Peter Lee
 So let me give you the longer-term vision. And then let's back it up into tangible
 near-term milestones because I think it's important to separate the 2. The longer-
@@ -166,9 +160,7 @@ high throughput way to generate more labeled data, super important. Second is
 algorithms for machine learning. That's something that we're very proud of, our
 capabilities and our contributions. If you go to half the Silicon Valley startups trying
 to do any kind of imaging, by and large, they'll be running REsNet 50, which came
-directly out of our labs. And we have much, much more sophistication in a cloudFINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 5 of 16Q - Tycho W. Peterson
+directly out of our labs. And we have much, much more sophistication in a cloudQ - Tycho W. Peterson
 A - Chad M. Robins
 Q - Tycho W. Peterson
 A - Chad M. Robins
@@ -213,9 +205,7 @@ that we can make significant headway in several disease diagnostics in the short
 term. And short term being a 3; to 4-year time horizon.
 
 And in terms of shipping product, there may be 2 comments to make there. One is
-the scale of the machine learning problem that we're talking about is literally webFINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 6 of 16Q - Tycho W. Peterson
+the scale of the machine learning problem that we're talking about is literally webQ - Tycho W. Peterson
 A - Chad M. Robins
 A - Peter Leescale. And that's a fairly daunting prospect. It's not unknown to us. Our team has
 done a huge amount of machine learning foundational work that is actually present
@@ -261,9 +251,7 @@ system but at a molecular level. That's a challenging concept. I also think -- b
 end of the day, your -- the immune system is a beautiful system to be able to do that.
 And so I think -- again, I think it's the early engagement. And we're encouraged.
 
-We're counting on you guys, too.FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 7 of 16A - Chad M. Robins
+We're counting on you guys, too.A - Chad M. Robins
 Q - Tycho W. Peterson
 A - Chad M. Robins
 A - Peter Lee
@@ -308,9 +296,7 @@ stakeholders who have their own suggestions and thoughts about where we should
 be, how we should be targeting our things early on. Then so all of that is sort of
 input. And I think we'll have an interesting time trying to decide basically what is the
 priority list.
-FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 8 of 16A - Peter Lee
+A - Peter Lee
 Q - Tycho W. Peterson
 A - Chad M. RobinsCan you talk a little bit about the type of data you're going to be collecting? I think
 you're also collecting phenotypic data, outcomes data. How do we think about the
@@ -356,9 +342,7 @@ with blood. We can create these huge pools of naive receptors, transfect and
 challenge them with different antigen presentations, basically the disease or the
 pathogen that they bind to. Then we can use our sophisticated suite of technologies
 and start filling out the map. And we don't need patient consent for that. Then
-secondly, there are...FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 9 of 16A - Peter Lee
+secondly, there are...A - Peter Lee
 A - Chad M. Robins
 Q - Tycho W. Peterson
 A - Chad M. Robins
@@ -403,9 +387,7 @@ think I answered it?
 We'll go back to it. What about the risk of over diagnosis, labeling healthy
 individuals as patients due to false positives? How do you think about that aspect
 where you have situations where the immune system can naturally correct and you
-don't necessarily need intervention? How do you think about that in this process?FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 10 of 16A - Chad M. Robins
+don't necessarily need intervention? How do you think about that in this process?A - Chad M. Robins
 A - Peter Lee
 Q - Tycho W. Peterson
 A - Chad M. Robins
@@ -451,9 +433,7 @@ Again, I think that's a matter of time horizons and breaking it up into kind of 
 milestones over time. I think the goal would be to have it be a checkup at your
 doctor's oﬃce, every time you go in and have your blood drawn that you would have
 your immune system sequenced. If you think about it this way, Tycho, your immune
-system should know what you have -- what diseases you have before your doctorFINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 11 of 16A - Peter Lee
+system should know what you have -- what diseases you have before your doctorA - Peter Lee
 A - Chad M. Robins
 A - Peter Lee
 Q - Tycho W. Peterson
@@ -496,9 +476,7 @@ North America, you may not notice. But your web search results are being ranked
 entirely in the network of our data centers, not in the computing cores, in the data
 center blades. And that just happens for a whole host of technical reasons driven by
 scale. And we're really contemplating the same scale here with Adaptive.
-FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 12 of 16A - Chad M. Robins
+A - Chad M. Robins
 A - Peter LeeAs we think about the way this partnership is structured, is there room to expand it
 over time? How do you think about the partnership evolving? Are there -- is it
 (inaudible) in the disease areas?
@@ -544,9 +522,7 @@ disorders, depressions and allergy and things that you may or might -- may not t
 (remediated), there is mounting evidence across a large body of publication that
 shows that many of these disorders are remediated . So again, I think that we'll let
 the data drive but really interesting problems.
-FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 13 of 16Q - Tycho W. Peterson
+Q - Tycho W. Peterson
 A - Peter Lee
 Q - Tycho W. Peterson
 Q - Unidentified Participant
@@ -590,9 +566,7 @@ Okay. So part of my questions were answered in the last few dialogues. But my fi
 question is, have you thought of looking at it as a biomarker as well? So when you
 start giving the drug once you diagnosed the cancer, can you keep looking at the T
 cell receptors and see if they are going down?
-FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 14 of 16Q - Unidentified Participant
+Q - Unidentified Participant
 A - Chad M. Robins
 Q - Unidentified Participant
 A - Chad M. Robins
@@ -633,9 +607,7 @@ Thank you.
 
 Great.
 
-Anyone else?FINAL TRANSCRIPT 2018-01-11
-Microsoft Corp (MSFT US Equity)
-Page 15 of 16Q - Unidentified Participant
+Anyone else?Q - Unidentified Participant
 A - Chad M. Robins
 A - Peter Lee
 A - Chad M. Robins

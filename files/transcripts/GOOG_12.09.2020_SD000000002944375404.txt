@@ -21,9 +21,7 @@ Questions And Answers
 So Philipp, I wanted to jump right in. You're managing an organization with
 significant global scale. What has it been like in 2020 with the added challenges
 from the global pandemic?
-FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 13Well first, we had to ensure that we adjust actually our own operations. I mean we
+Well first, we had to ensure that we adjust actually our own operations. I mean we
 have to remember we support billions of users; millions of advertisers; over 130,000
 employees, Googlers across the world in over 50 different countries. While we were
 obviously well prepared with disaster recovery plans, they were obviously mostly
@@ -61,9 +59,7 @@ And we really saw this shift. And again a few examples here, shifts toward --
 obviously first, it was hand sanitizers, but then like baking ﬂour and gym equipment
 and puzzles and anything that was basically related to outdoor activities. We've
 really, really tried to help our partners, advertisers, customers here in being
-successful in this transition, and sometimes they were very interesting transitions.FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 13A - Eric Sheridan
+successful in this transition, and sometimes they were very interesting transitions.A - Eric Sheridan
 A - Philipp SchindlerWe had a distillery that managed to actually then move into the business of hand
 sanitizers just as a simple example. We had an auto trading business that there
 wasn't a lot of auto trading going on at the time, that actually moved into becoming
@@ -103,9 +99,7 @@ talked about, the combination and this fine balance of global versus local. We r
 very intense, what we call, spread management. We have a deep understanding of
 the leading and lagging indicators of our business across all of the different
 countries in the world. We actually cannot only go down to country level. We can go
-to a vertical level.FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 13A - Eric Sheridan
+to a vertical level.A - Eric Sheridan
 A - Philipp SchindlerWe can go to team level, and we have it all color-coded in red and in green so we
 can exactly see who's good and who's not so good. If we just focus on closing the
 spreads and make sure we learn from the best and help the other ones to catch up
@@ -146,9 +140,7 @@ Then there's completely different ways of looking at it. You can take a very dif
 vector, for example, and look at commerce penetration in the U.S. And as you all
 know, over -- or somewhere in the 80% range of commerce in the U.S. is still being
 conducted oﬄine. So with this shifting over time, obviously that's a significant
-opportunity I would say.FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 13A - Eric Sheridan
+opportunity I would say.A - Eric Sheridan
 A - Philipp SchindlerAnd in general, if you think about what we do and the market we are in, we're really
 in the business of connecting businesses to consumers or actually businesses to
 other businesses. If you think about it like this, I think as long as we're really driving
@@ -187,9 +179,7 @@ managed to introduce and give a much higher percentage of now what we call
 busyness information, so not business, but busyness, whether merchants, retailers
 and other places, restaurants are busy. Hugely important actually at the moment if
 you think about distance management and all those different things. We've gone, I
-think 5x just since June in the last few months just on that type of information.FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 13A - Eric Sheridan
+think 5x just since June in the last few months just on that type of information.A - Eric Sheridan
 A - Philipp SchindlerIf you look at something like augmented reality, Live View in maps where you can
 actually point your camera at a business and see, for example, the safety information
 about the business or something along the lines, that's actually pretty complex to do.
@@ -229,9 +219,7 @@ So here, our philosophy, as we've stated many times before, is we try to use ads
 are actually -- or any display ads that are helpful to users and when they're helpful to
 users. And an interesting number, again on 80% of our searches, we actually show
 no ads. So most of the ads that you're actually seeing are on searches with some
-form of commercial intent. Whatever it could be anything T-shirts, shoes, Baby Yoda,FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 13A - Eric Sheridan
+form of commercial intent. Whatever it could be anything T-shirts, shoes, Baby Yoda,A - Eric Sheridan
 A - Philipp Schindlerdolls, whatever you take here, right? So the question you have to ask yourselves is,
 are we actually optimized on this? Or is there more room? And can we do better in
 this area?
@@ -271,9 +259,7 @@ examples.
 You have products like responsive search ads, for example. You have new campaign
 types that we just introduced like Performance Max that are heavily built on our
 machine learning capabilities. You have products like smart display campaigns, for
-example, where AI plays an integral role, frankly. Broad match keywords, making it aFINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 8 of 13A - Eric Sheridan
+example, where AI plays an integral role, frankly. Broad match keywords, making it aA - Eric Sheridan
 A - Philipp Schindler
 A - Eric Sheridanlot easier for advertisers to use our AI to basically do the keyword selection versus
 individually picking all of them.
@@ -312,9 +298,7 @@ Got it. I want to stick with this theme of e-commerce for just maybe one more
 question. Google has made a number of interesting announcements in the e-
 commerce and shopping vertical in the past few months, including free product
 listings on the Google Shopping tab, commission-free buy on Google Checkout
-experience.FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 9 of 13A - Philipp Schindler
+experience.A - Philipp Schindler
 A - Eric Sheridan
 A - Philipp SchindlerHow do you see Google's market positioning changing post those announcements?
 And what are the next steps you think are ahead for Google to further capitalize on
@@ -354,9 +338,7 @@ And we see really interesting metrics here as well. Like 60%, for example, of ou
 TrueView for Action customers, which is the integral part of the direct response
 offering here, are actually new to YouTube. We have more than doubled the number
 of active advertisers using TrueView for Action just in the first six months of 2020. So
-there's a lot of metrics really supporting this. Very, very happy with this.FINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 10 of 13A - Eric Sheridan
+there's a lot of metrics really supporting this. Very, very happy with this.A - Eric Sheridan
 A - Philipp SchindlerAnd you see it across the board. And again an example. We have players like
 MasterClass, who basically took advantage of the opportunity and see significant
 uplifts in all of their key metrics. That's a big part.
@@ -392,9 +374,7 @@ path if you think about intense -- or, let's say increased monetization in the f
 It's also really relevant for small businesses. Again that's a theme we're pushing very
 hard because we really feel it's important to support them. So you look at some of
 our small business products here like business profiles, where we've made
-thousands of improvements over the years, and then you think about how this canFINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 11 of 13A - Eric Sheridan
+thousands of improvements over the years, and then you think about how this canA - Eric Sheridan
 A - Philipp Schindlercome together with next-generation discovery areas and improvements on maps. I
 think that's a very, very interesting area for the future.
 Then there's obviously other products. Think about something which we've
@@ -434,9 +414,7 @@ this. We are always trying -- it's a big part of our strategy. We're trying actu
 more with less data, contrary to what many people might be thinking. It's really a big
 focus area for us.
 And we're also trying to balance the needs for privacy on one hand with the needs
-for supporting broader ecosystems on the other hand. That's why we're heavilyFINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 12 of 13A - Eric Sheridan
+for supporting broader ecosystems on the other hand. That's why we're heavilyA - Eric Sheridan
 A - Philipp Schindlerinvesting in new technologies. We have some really interesting things lined up.
 There is a new technology, for example, called FLoC, F-L-O-C, federated learning of
 cohorts, that looks quite promising; and a lot of other things in our different
@@ -476,9 +454,7 @@ intent we're seeing on the YouTube platform and using this in a smarter way so
 everybody can benefit, users can benefit, creators can benefit, advertisers can
 benefit, merchants can benefit. So that's definitely an area to be excited about.
 And the last one I would say is, in general, the innovation we're still seeing in our
-labs in the world of AI and machine learning. If you look at what some of our brilliantFINAL TRANSCRIPT 2020-12-09
-Alphabet Inc (GOOGL US Equity)
-Page 13 of 13A - Eric Sheridan
+labs in the world of AI and machine learning. If you look at what some of our brilliantA - Eric Sheridan
 A - Philipp Schindler
 A - Eric Sheridanteams are working on, it's really mind blowing. You can see where we then use some
 of this innovation and bring it back into our core products not only on the user side

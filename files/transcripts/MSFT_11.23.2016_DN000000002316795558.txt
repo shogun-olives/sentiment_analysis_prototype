@@ -26,9 +26,7 @@ container technology from more of the developer angle. So what we're going to do
 is, I'm going to kick off the presentation in just basically four areas that we want to
 talk about. We want to start by explaining what IDC sees as the -- really the driver,
 which is changing the industry, and we refer to it as digital transformation or DX, so
-we'll talk a little bit about that, what it is and what impact that has on customers.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 2 of 21Mandeep Singh
+we'll talk a little bit about that, what it is and what impact that has on customers.Mandeep Singh
 Al GillenWe'll talk about cloud native applications specifically and why they're so important
 and why they change some of the norms for application development that we've
 had in the past, and then we'll dive into container specifically and give you a little bit
@@ -66,9 +64,7 @@ things that happen as we move through that conversion. One is that, we start to 
 at a scenario where our infrastructure becomes more standardized. And the rationale
 or the reasoning for having standardized infrastructure is simply because you get
 more benefits of eﬃciency if you can have a very, very common set of baseline
-infrastructure servers and services that you're consuming.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 3 of 21And the reality is, as you start to think about a movement to a cloud-based
+infrastructure servers and services that you're consuming.And the reality is, as you start to think about a movement to a cloud-based
 infrastructure, you get a standardized infrastructure when you're in a cloud-based
 environment, you can call up Microsoft or Amazon and say, hey, I want to have a
 special server in my cloud. I mean you get what they make for their base
@@ -106,9 +102,7 @@ and activities that customers are going through. So again that's standardization
 the infrastructure is one piece of it, you will see customers that are starting to make
 sure that all of their systems are interconnected.
 There's more automation, things are managed autonomically or automatically and
-things tend to go through their life cycle in a much more automated fashion.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 4 of 21And the other thing is, we've got data. A big part of the digital transformation
+things tend to go through their life cycle in a much more automated fashion.And the other thing is, we've got data. A big part of the digital transformation
 includes consuming data from a wide variety of sources. We certainly have social
 media and social data that's pulled in and utilized for applications. We've got things
 like weather data and census data, which is not necessarily changing as quickly but
@@ -149,9 +143,7 @@ which means that the applications themselves are able to move around and find th
 infrastructure they need and they're built for an environment where they find a way
 to continue to work. If a particular site or geography becomes unavailable, the
 applications can reconstitute themselves in other areas and continue to function as a
-collection of services.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 5 of 21I mentioned about the notion of having things broken down into small components,
+collection of services.I mentioned about the notion of having things broken down into small components,
 we refer to that typically as microservices. And typically what you do is, you build an
 application component, if you will call the microservice and you front-end that with
 fairly stable -- highly stable APIs or application programming interfaces that will allow
@@ -190,9 +182,7 @@ in terms of how we're going to consume this, we are going to see the industry, o
 the longer term, move away from an Infrastructure as a Service model and move to
 more of a Platform as a Service model or quite probably a Container as a Service
 model. And the rationale for that is that as a developer you don't necessarily need to
-care about the server and that base level infrastructure software.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 6 of 21What you really want is somewhere to place applications and have that function be
+care about the server and that base level infrastructure software.What you really want is somewhere to place applications and have that function be
 made available by basically having -- you can create it to almost like, I have the car
 but you're going to supply the roads and I will just use the roads, I don't need to own
 the roads. That's really what we're talking about when we talk about the PaaS layer
@@ -231,9 +221,7 @@ And below that is what remains of the operating system which will be common to a
 the applications. Generally that's much more of primarily the kernel, the operating
 system itself, whereas all of the add-ons to the kernel, meaning the runtime libraries
 and services that are added on, those are the things that actually get packaged up
-into the container itself.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 7 of 21Gary Chen
+into the container itself.Gary Chen
 Al GillenSo the notion of having a big heavy operating system goes away, and we start to
 have this notion of having a thin operating system and it can potentially have a
 hypervisor involved or might not have a hypervisor involved with it. The most
@@ -273,9 +261,7 @@ can move to the next slide.
 So if you notice on the right chart, we're not showing a hypervisor in place, we've got
 a thinner OS that's sitting literally on the server physically. So moving to the next
 slide, we've taken that same diagram and we've expanded and we've split the
-hypervisor back into the mix, and this was one of the things I think has beenFINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 8 of 21Gary Chensomewhat misunderstood or maybe people jump to the conclusion fairly early that
+hypervisor back into the mix, and this was one of the things I think has beenGary Chensomewhat misunderstood or maybe people jump to the conclusion fairly early that
 container technology was going to effectively replace virtualization.
 There are some similarities in the benefits that you get from containerization and
 virtualization in that you can allow multiple applications to coexist on the same
@@ -314,9 +300,7 @@ segmenting that up. And where the applications were large, that kind of largely 
 but it was, okay, but when you think of microservices, app being decomposed now
 into tens or maybe hundreds, thousands of little pieces, putting one of those into
 each VM becomes kind of impractical, duplicating the OS, which is probably a lot
-larger than the application.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 9 of 21Mandeep Singh
+larger than the application.Mandeep Singh
 Al GillenSo, I think, containers is really kind of more about moving kind of back to kind of
 where we started, where people are using the OS to consolidate, where you're
 running multiple services, multiple apps on the OS. And yeah, it's just -- they really
@@ -355,9 +339,7 @@ wind up focusing on those things, you worry about the life cycle of application,
 monitor the application, you keep the application running eﬃciently, but you don't
 necessarily worry about the infrastructure under it.
 So that notion of multi-tenancy, that's -- frankly that's one of the things you get as a
-benefit in terms of cloud economics are better and you get better density.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 10 of 21And as we just talked about in previous slide, this notion of density versus isolation,
+benefit in terms of cloud economics are better and you get better density.And as we just talked about in previous slide, this notion of density versus isolation,
 that's a trade-off. If you want to go with PaaS, you can get higher density and
 whether you go with a containerized solution or if you go with a pure PaaS solution,
 the level of isolation is different. If you want true -- truthful isolation, you wind up
@@ -396,9 +378,7 @@ dive into this towards the end of the presentation. So I think I'm going to hold
 diving too much on the orchestration piece at the moment. But suﬃce to say, for the
 moment, that this is an area in the market where we haven't necessarily seen the
 winners and the losers emerge here. We think that there's a certain amount of
-Darwinian Evolution that has to take place in the orchestration end of the business.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 11 of 21Gary ChenSo, I'm going to turn it over to Gary. Let him lead on the next couple of slides.
+Darwinian Evolution that has to take place in the orchestration end of the business.Gary ChenSo, I'm going to turn it over to Gary. Let him lead on the next couple of slides.
 
 So we've seen that we kind of talked about some of the differences between
 containers and VMs. And ultimately I think, for the short term, we don't really see
@@ -435,9 +415,7 @@ interest. There is no doubt that there's a lot of hype and there is a lot of int
 when you're actually talking about production usage to data enterprise, it's
 extremely small. Most of it -- of the users, the early adopters, they're really using a lot
 for Text Tab and software development and a very, very small in development -- in
-production.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 12 of 21So, it's the experimental, it's largely unmanaged. They're not buying into that
+production.So, it's the experimental, it's largely unmanaged. They're not buying into that
 clustering orchestration solution today, but that's kind of around the corner as in the
 next step. And lot of the applications are not kind of net new cloud native
 applications, certainly a lot of that is happening, but in enterprise they always come
@@ -479,9 +457,7 @@ container take over a lot of the functions that VMs already took. So a lot of pe
 today use VMs to manage their applications as essentially a packaging technology.
 So when that shifts over to containers, then the VM really just becomes kind of the
 plumbing underneath, it doesn't really do anything with -- in terms of application
-management. So that's certainly going to affect how people perceive the value ofFINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 13 of 21Al Gillen
+management. So that's certainly going to affect how people perceive the value ofAl Gillen
 Gary Chen
 Mandeep Singhwhat a hypervisor does, and so -- there are certainly some splitting of functions that
 can happen there.
@@ -518,9 +494,7 @@ Great. Thank you, Al and Gary, that was a terrific overview on containers. And j
 reminder for everyone, you can send in your questions, there is a Q&A tab, you can
 type in your questions there and send it to us and we can take it up in real-time.
 I'll start it off. And basically I'm very clear on what the value proposition of containers
-is and why we need to care about it. I'm just wondering at what stage are we in termsFINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 14 of 21Al Gillen
+is and why we need to care about it. I'm just wondering at what stage are we in termsAl Gillen
 Mandeep Singhof monetization? So when I look at what VMware did with vSphere and how quickly it
 was able to monetize it, is this something on the horizon or it's going to take a life
 before we can talk about monetization of containers technology. (Multiple Speakers),
@@ -559,9 +533,7 @@ vendors, that a fact that they are supporting Containers as a Service and they a
 trying to embed containers as a technology in their infrastructure. Now Amazon, in
 particular, offers containers, but it also has this vendor service which it offers to
 basically run smaller workloads, temporary workloads, what's the difference? And
-are these competing technologies?FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 15 of 21Al Gillen
+are these competing technologies?Al Gillen
 Mandeep Singh
 Al Gillen
 Mandeep Singh
@@ -600,9 +572,7 @@ software, you worry about the application code.
 
 Terrific. We have audience question here. What are the cyber warfare challenges with
 the containers technology? Will it make it easier for attackers to use the applications
-not normally housed in VMware?FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 16 of 21Al Gillen
+not normally housed in VMware?Al Gillen
 Gary Chen
 Yeah. It's a really interesting question. So I mean, I guess the security challenges
 around containers are kind of at a whole bunch of different levels. I mean, one, it's
@@ -642,9 +612,7 @@ them be relatively mutable, meaning you don't update them, you can't essentially
 spin up brand new instances from a gold master each day or each hour to protect
 the integrity of a particular application. So that if you feel it, is that at risk of being
 compromised, you can just simply replace the code with fresh code as known to be
-secure. But that doesn't stop it from being compromised later.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 17 of 21Mandeep Singh
+secure. But that doesn't stop it from being compromised later.Mandeep Singh
 Gary Chen
 Mandeep Singh
 Al Gillen
@@ -684,9 +652,7 @@ And a couple of things that come to our mind even Microsoft, it's supporting Red
 Hat technology, now they are supporting containers and I guess it just goes to show
 that they want, I guess companies to have the options to move their workloads as
 well from Windows to Red Hat and yeah, so that's I guess more and more we are
-seeing portability is a big criteria when it comes to deploying your workloads.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 18 of 21A - Mandeep Singh
+seeing portability is a big criteria when it comes to deploying your workloads.A - Mandeep Singh
 A - Al Gillen
 A - Gary ChenQuestions And Answers
 
@@ -726,9 +692,7 @@ But yeah, I think basically that people will take the core Docker engine. They m
 take higher parts of the Docker stack, what they call Docker data center and add
 things on to that or modify it or compete with their own completely separate stacks
 with Docker. So yeah, it's going to be quite a varied market with lots of different
-pieces and Docker is both the kind of driver of some of the core, very foundationFINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 19 of 21A - Mandeep Singh
+pieces and Docker is both the kind of driver of some of the core, very foundationA - Mandeep Singh
 A - Al Gillen
 A - Gary Chen
 A - Al Gillen
@@ -769,9 +733,7 @@ will consider once the container is running, it's essentially you get bare metal
 performance if the house is on bare metal.
 Now when your virtualization is different, when you compare it against a virtualized
 application, yeah, there's going to be a lot more latency there. So containers
-improve on latency versus a virtual -- something in a VM. So people that didn'tFINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 20 of 21A - Mandeep Singh
+improve on latency versus a virtual -- something in a VM. So people that didn'tA - Mandeep Singh
 A - Al Gillen
 A - Mandeep Singh
 A - Al Gillen
@@ -813,9 +775,7 @@ And mobile apps generally move faster too. I mean, apps get updated all the time
 they really kind of follow that kind of a CICD kind of methodology. So now
 containers as the back-end is great to support that when you have an app that's
 rapidly changing and new versions are coming out often on a daily basis or
-something like that.FINAL TRANSCRIPT 2016-11-09
-Microsoft Corp (MSFT US Equity)
-Page 21 of 21A - Mandeep Singh
+something like that.A - Mandeep Singh
 Great. That's all the time we have. Thank you so much, Al and Gary. I really enjoyed
 the discussion. And yeah, let us know if any of you have any follow-up questions,
 they will be happy to take those. Thank you for joining us.

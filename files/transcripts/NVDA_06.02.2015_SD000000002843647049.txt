@@ -23,9 +23,7 @@ leadership position that we have with our GPU platform there is probably at a ve
 strong position and it's been at probably one of the very heights of the market over
 the years that we've been there.
 But it's not necessarily just about the overall hardware that we are providing. It's
-really about the ecosystem and supporting the around ecosystem around gaming.FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 14We work tremendously with overall gaming software developers of upcoming
+really about the ecosystem and supporting the around ecosystem around gaming.We work tremendously with overall gaming software developers of upcoming
 games that are going to be launched in the high end to make sure that our GPUs are
 well featured for them. We also work with the underlying community. They have
 phone home capabilities with our GeForce experience to get consistent and new
@@ -65,9 +63,7 @@ computing, a lot of things going on in the market lately about accelerated
 computing in the data center for both now and the future. So we are in a leadership
 position, using accelerated computing not only for parallel computing, high-
 performance computing. But also what we've seen in deep learning which is a new
-and expanding role.FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 14Q - Vivek Arya
+and expanding role.Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette KressOur last key platform is automotive, also something exciting to see, talked about
@@ -107,9 +103,7 @@ been traditionally?
 You are correct that our high performance computing and cloud with our overall
 Tesla platform is extremely strong. We finished last year growing more than 50%,
 approaching nearly a $300 million business. Associated with not just high
-performance computing in parallel but really that expansion into new workloads andFINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 14Q - Vivek Arya
+performance computing in parallel but really that expansion into new workloads andQ - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -150,9 +144,7 @@ much of it is just structural? How much of it is temporary? That's what I think 
 are trying to figure out.
 
 So what we -- we're very pleased with our performance with Q1 given a lot of the
-macro conditions. We were still able to execute to what we had planned to do forFINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 14Q - Vivek Arya
+macro conditions. We were still able to execute to what we had planned to do forQ - Vivek Arya
 A - Colette Kressthe quarter. The macro conditions were quite unique. You saw a tremendous
 movement in the euro currencies over that period of time, that they moved more
 than 20 to 25 points within those four months.
@@ -194,9 +186,7 @@ seven construction arguments that we put forth. I don't think anybody's going to
 deny that's great progress and we're excited to see this play out in the courts later in
 this month.
 I think a lot of different parts of the industry are carefully watching that overall
-hearing because I think it is an important space. We're talking about mobile units.FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 14Q - Vivek Arya
+hearing because I think it is an important space. We're talking about mobile units.Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -238,9 +228,7 @@ die down and die down to nearly nothing? I do believe as we enter into fiscal ye
 we'll start to see that.
 
 And the third of those most frequent questions was on the Icera wind down, you did
-outline I think $100 million, $125 million in restructuring type expenses. But howFINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 14A - Colette Kress
+outline I think $100 million, $125 million in restructuring type expenses. But howA - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
@@ -280,9 +268,7 @@ That is correct.
 Then in PC gaming, if we go back to the end markets, there is more talk of AMD
 coming out with a new product. I think every year there is talk of new products from
 them. Is there anything different this year that we should worry about from a
-competitive landscape?FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 14A - Colette Kress
+competitive landscape?A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
@@ -324,9 +310,7 @@ interest and excitement over some pretty powerful platform from both a
 performance and a user interface. So I think we're hitting the market well on that and
 I think it's too early to indicate what would be the involvement of our current
 partners that we have and where this may evolve. There's still great things to
-appreciate with what we're bringing to market today.FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 14Q - Vivek Arya
+appreciate with what we're bringing to market today.Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -366,9 +350,7 @@ the volatility in the market and just also based on our leadership and technolog
 we've put forth.
 
 You guys are doing a lot of work in terms of taking GPU into the cloud. How do you
-make sure it doesn't cannibalize your existing business?FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 14A - Colette Kress
+make sure it doesn't cannibalize your existing business?A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
@@ -411,9 +393,7 @@ Then maybe one question on the automotive business, again something that used to
 be small and people didn't believe it and now it's turning out to be real numbers.
 How do we think about NVIDIA versus say Texas Instruments or Freescale? There are
 many companies who can provide processors that can go into the automotive
-market. What makes NVIDIA unique? And is it fair to think that you will always be atFINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 14A - Colette Kress
+market. What makes NVIDIA unique? And is it fair to think that you will always be atA - Colette Kress
 Q - Vivek Arya
 A - Colette Kressthe very high end of the market? So you would not go off to the mass market? How
 do you think about the overall strategy in autos?
@@ -453,9 +433,7 @@ the depth of what it can do. And now pulling that together with our relationship
 already very strong in the car, we couldn't be in a better position.
 
 What is NVIDIA's average content in a car? Just ballpark.
-FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 14Q - Vivek Arya
+Q - Vivek Arya
 A - Colette KressIt depends on the car. We have some of the midline cars that are going out that, yes,
 we may have one processor right now in the car. In many of the higher end cars that
 we have, not only do we have one, two, we have up to potentially four different
@@ -498,9 +476,7 @@ These are the things that have added to the overall value our products are
 delivering. The customers have recognized that because we are solving extremely
 challenging problems for them. As we talked in terms of our investor day, when we
 think about our growth opportunities, whether it be gaming, whether or not
-accelerated computing, enterprise or virtualization, all of these have gross margins atFINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 14Q - Vivek Arya
+accelerated computing, enterprise or virtualization, all of these have gross margins atQ - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -543,8 +519,6 @@ are, moving to operating margin on some of these versus the focus on gross margi
 which is more of a semiconductor look at it is really where we want to transform that.
 It is our focus. We just haven't pinpointed it to an exact number and an exact date to
 actually get to it.
-FINAL TRANSCRIPT 2015-06-02
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 14A - Colette KressGreat. Thank you. So much, Colette. We appreciate your time.
+A - Colette KressGreat. Thank you. So much, Colette. We appreciate your time.
 
 Thank you.

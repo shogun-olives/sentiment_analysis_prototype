@@ -2,9 +2,7 @@ Thank you, (Tori) It's a pleasure to be here today to talk about GitHub and Micr
 And our shared goal to empower developers. I want to share what this acquisition
 will mean for our industry and for developers. The era of the Intelligent Cloud and
 the Intelligent Edge is upon us. Computing is becoming embedded in the world
-with every part of our daily life and work and every aspect of our society andFINAL TRANSCRIPT 2018-06-04
-Microsoft Corp (MSFT US Equity)
-Page 2 of 6economy being transformed by digital technology. And developers are the builders
+with every part of our daily life and work and every aspect of our society andeconomy being transformed by digital technology. And developers are the builders
 of this new era, writing the world's code. As every industry is being impacted by
 technology from precision medicine to precision agriculture, from personalized
 education to personalized banking, the developer community will only grow in
@@ -51,9 +49,7 @@ life cycle, from ideation, to collaboration, to deployment, to the cloud and to 
 edge. Going forward, GitHub will remain an open platform, which any developer can
 plug into and extend. Developers will continue to be able to use the programming
 languages, tools and operating systems of their choice for their projects. And will still
-be able to deploy their code to any cloud and any device. Second, we will accelerateFINAL TRANSCRIPT 2018-06-04
-Microsoft Corp (MSFT US Equity)
-Page 3 of 6Chris Wanstrathenterprise developers use of GitHub with our direct sales and partner channels and
+be able to deploy their code to any cloud and any device. Second, we will accelerateChris Wanstrathenterprise developers use of GitHub with our direct sales and partner channels and
 access to Microsoft's global cloud infrastructure and services. Finally, we'll bring
 Microsoft developer tools and services to new audiences.
 To close, I want to share some details of the transaction. Microsoft will acquire
@@ -99,9 +95,7 @@ stands out to me is Microsoft's vision for the future of software, their focus o
 developer-first and how these philosophies match our own. We both believe GitHub
 needs to remain an open platform for all developers, no matter your language, stack,
 platform, cloud, license, device, GitHub will continue to be your home, the best
-place for software creation, collaboration and discovery. We both believe thatFINAL TRANSCRIPT 2018-06-04
-Microsoft Corp (MSFT US Equity)
-Page 4 of 6Nat Friedmansoftware development needs to become easier, more accessible, more intelligent
+place for software creation, collaboration and discovery. We both believe thatNat Friedmansoftware development needs to become easier, more accessible, more intelligent
 and more open. So more people can become developers and existing developers
 can spend more time focusing on the unique problems they're trying to solve. We
 both see the growing need for developers and the growing importance of software
@@ -147,9 +141,7 @@ anyone could upload their code and anyone could extend the platform, Open APIs,
 an open community and an open platform. And we continue that commitment. The
 second is the potential for an even more expanded set of opportunities. We want to
 bring more developers and more capabilities to GitHub because, as a network and
-as a group of people and a community, GitHub is stronger the bigger it is. Lastly, anFINAL TRANSCRIPT 2018-06-04
-Microsoft Corp (MSFT US Equity)
-Page 5 of 6Amy E. Hoodimportant part to all of this is, as Satya said, GitHub will operate independently. I
+as a group of people and a community, GitHub is stronger the bigger it is. Lastly, anAmy E. Hoodimportant part to all of this is, as Satya said, GitHub will operate independently. I
 think it's important to reiterate that here.
 So next, let me share with you a few examples of how we see all this potential
 coming to life and give you a taste for what's possible together with GitHub and
@@ -192,9 +184,7 @@ community. And at a price that supports the long-term shareholder value creation
 GitHub certainly meets those criteria. We have agreed to acquire GitHub for $7.5
 billion in Microsoft stock. The transaction has been unanimously approved by the
 Boards of Directors of both Microsoft and GitHub. We will finance this transaction
-through all stock consideration. We expect that an incremental share buyback,FINAL TRANSCRIPT 2018-06-04
-Microsoft Corp (MSFT US Equity)
-Page 6 of 6Operatorbeyond our recent historical quarterly pace, will offset stock consideration paid
+through all stock consideration. We expect that an incremental share buyback,Operatorbeyond our recent historical quarterly pace, will offset stock consideration paid
 within six months after closing. We will utilize the portion of the approximately $30
 billion remaining in our current share repurchase authorization for the purchase.
 Based on the expected close date and Microsoft's fiscal '19 and '20, we anticipate

@@ -16,9 +16,7 @@ Facebook?
 Yes. As you mentioned, earlier this month we had the 10th anniversary of the
 founding of the Company. So that was an exciting milestone for us. And looking
 back over our first 10 years, clearly the most important thing that we accomplished
-was connecting and building this network of over 1 billion people who use FacebookFINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 2 of 20Heather Bellinito share and interact with one another. And the way we think about it, this is just the
+was connecting and building this network of over 1 billion people who use FacebookHeather Bellinito share and interact with one another. And the way we think about it, this is just the
 beginning. This is the foundation for us to build on looking forward.
 You asked about the next 10 years. And let me sort of work my way out there starting
 with a slightly shorter-term timeframe and working out to ten.
@@ -57,9 +55,7 @@ a big challenge and it's also a huge opportunity for us and a really important p
 All right. And I would be remiss -- I was so excited to introduce them that I did not
 read the safe harbor. So Deborah Crawford, I do not want to have her upset with me.
 So I will just very brieﬂy say that Sheryl and David may make forward-looking
-statements on future events.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 3 of 20David Ebersman
+statements on future events.David Ebersman
 Heather Bellini
 Sheryl Sandberg
 Heather Bellini
@@ -93,9 +89,7 @@ mobile and social device all day long. And that's a big opportunity for us. We g
 from getting 1 in 7 minutes in the US on the desktop to 1 in 5 minutes on the mobile
 phone. And so we're just much more a part of peoples' lives.
 And as we focus on transitioning our product and building our business, we've had 3
-core things we focused on to make the mobile business transition.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 4 of 20Heather Bellini
+core things we focused on to make the mobile business transition.Heather Bellini
 David EbersmanThe first is really capitalizing on that transition. We had opportunities over the last 6
 quarters to prioritize ads that were going into newsfeeds or ads that would be on the
 right-hand side. And we've prioritized the ads that were going into mobile so that we
@@ -133,9 +127,7 @@ increased over 2013. And Mark shared a specific data point that I think is reall
 encouraging, which is one of the things that we do is we survey users. We're
 constantly asking questions, trying to understand how they use our product, what
 they like, what they don't like. And one question that we'll frequently ask is about
-their sentiment about ads.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 5 of 20Sheryl Sandberg
+their sentiment about ads.Sheryl Sandberg
 Heather BelliniAnd if you look at the feedback we got from people who use Facebook on that
 question, who use Facebook on mobile devices, that actually got better over the
 second half of 2013, even as the number of ads went up because we think we were
@@ -174,9 +166,7 @@ know how many posts he actually sees on Facebook that he shows his wife. But I b
 you it's not that many, which meant that that ad was really high quality which is great.
 
 Sheryl, how should we think about public content on Facebook and can you give
-people a ﬂavor of what you're doing here and why it matters?FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 6 of 20Sheryl Sandberg
+people a ﬂavor of what you're doing here and why it matters?Sheryl Sandberg
 Heather Bellini
 Sheryl Sandberg
 Facebook starts as friends' content. And there's a lot of friend content that happens.
@@ -213,9 +203,7 @@ think the reason is for this and what helps accelerate the pace of adoption?
 The brand out of the big market. I don't need to tell this community that. This is $300
 billion plus every year. Very robust. And a lot of the money is not very well spent. The
 old adage which I think comes from the 50s of I'm wasting half my ad budget but I
-don't know which half, people still tell that joke. And it's still kind of true.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 7 of 20And so I think we have a really big opportunity here. We're definitely making
+don't know which half, people still tell that joke. And it's still kind of true.And so I think we have a really big opportunity here. We're definitely making
 progress. Our brand segment is growing as all our segments are. Every one of the
 global ad age 100 advertise with us over the last year. And they're pretty cyclical.
 That said, these budgets move slowly. If 12% of consumer media time is being spent
@@ -253,9 +241,7 @@ Facebook strategy. But if you talk to our early adopters, the people who are goi
 bigger with us, they'll say yes, Facebook's driving real ad sales and we're really
 putting more resources against it. Then you can talk to some of our other clients
 where we're still much more in the introductory phases. But for all of them what's
-going to move them down the spending funnel is measurement.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 8 of 20Heather Bellini
+going to move them down the spending funnel is measurement.Heather Bellini
 Sheryl Sandberg
 Heather Bellini
 Sheryl SandbergIf we can show them that the dollar they invested with Facebook drives in-store sales
@@ -292,9 +278,7 @@ much impact.
 David, all the areas of innovation you've both talked about cost money obviously.
 Being the --
 
-David never asks us about that. He's always like whatever you want.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 9 of 20Heather Bellini
+David never asks us about that. He's always like whatever you want.Heather Bellini
 David Ebersman
 Sheryl Sandberg
 David Ebersman
@@ -330,9 +314,7 @@ sure that even though it's a compute-heavy business, we have an eﬃcient
 infrastructure.
 The second area that we think about is product development, or R&D. And R&D we
 want to invest in. Our future depends on our investing in R&D. But one of the things
-that we feel is very true is that R&D success is not about quantity, it's about quality.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 10 of 20It's about investing in the right things. And R&D for us is really about people. That's
+that we feel is very true is that R&D success is not about quantity, it's about quality.It's about investing in the right things. And R&D for us is really about people. That's
 what we spend our R&D money on.
 So if you look back over the last few years, purely from a financial standpoint we
 could have afforded to grow R&D more quickly than we did. So the rate limiting step
@@ -368,9 +350,7 @@ pleased with the returns we're getting on the spend that we made.
 So if we think about the things we invested in, in 2013 that improved the quality of
 our mobile products, that brought forward new advertising support that helped us to
 bring more demand into the system, that made our infrastructure more eﬃcient. All
-of these things really had a nice return that helped set us up for the future.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 11 of 20Sheryl Sandberg
+of these things really had a nice return that helped set us up for the future.Sheryl Sandberg
 Heather Bellini
 Sheryl Sandberg
 Heather Bellini
@@ -406,9 +386,7 @@ So because it was so nice I'm tempted not to mention that the hack-a-thon starte
 
 True. But I still had to stay up past my bedtime. Like I would have started at 6. But no
 one wanted to start at 6. So it's true. I was only there for an hour and a half. But I
-gave great insight in that hour and a half, really. I was super helpful.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 12 of 20Heather Bellini
+gave great insight in that hour and a half, really. I was super helpful.Heather Bellini
 Sheryl Sandberg
 Sheryl, you have more than a million advertisers using Facebook today and over 25
 million small businesses with Facebook pages. Obviously that speaks to a massive
@@ -444,9 +422,7 @@ they see the returns we believe and we've seen that they'll hopefully continue t
 invest.
 And so the process of getting SMBs online, Facebook's already doing on its own,
 which is fantastic. And now we have the opportunity to make our ad products simple
-enough and clear enough in terms of their return so that people can use them.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 13 of 20Heather Bellini
+enough and clear enough in terms of their return so that people can use them.Heather Bellini
 Sheryl SandbergOne of the happiest things I get to do is when I meet with our clients and I see
 businesses that are really completely grown on Facebook. There's this great
 cupcake, store is not the right word, cupcake company in DC. They have these
@@ -484,9 +460,7 @@ figure out what really matters.
 One of the ways we operationalize this is we run our teams by having goals and non-
 goals. So teams for the half -- we do it usually by half year, have their goals. And then
 often they have a non-goal. And a non-goal is something that's a really good idea
-that we don't have the resources to do to prioritize right now.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 14 of 20Heather Bellini
+that we don't have the resources to do to prioritize right now.Heather Bellini
 David EbersmanNow if a non-goal is a bad idea it doesn't help. But if it's a really good idea. So until
 very recently when we launched our ads test, our non-goal for the ads team was an
 ad network. Ad network's always been a good idea for Facebook. We have great
@@ -525,9 +499,7 @@ What we will also learn as we launch these things is people may not use them exa
 as we predicted. And then we can learn from that behavior as well and sort of take
 that back into our product development effort and capitalize on what we're seeing.
 So an example of a product that's been fun to watch is a products called Groups that
-we have that allows you to share with a sort of semi-permanent group of people. NotFINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 15 of 20A - Heather Bellini
+we have that allows you to share with a sort of semi-permanent group of people. NotA - Heather Bellini
 Q - Unidentified Participant
 A - Sheryl Sandberg
 A - David Ebersman
@@ -564,9 +536,7 @@ and experiencing it. Because when you experience it and see how it can make your
 life richer, more interesting. And more valuable, you want to use it more, in a way
 that I don't think we could describe our market with a price associated with it and
 get to the same outcome.
-FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 16 of 20Q - Unidentified Participant
+Q - Unidentified Participant
 A - Sheryl Sandberg
 Q - Unidentified Participant
 A - David Ebersman
@@ -604,9 +574,7 @@ different kind of communication right now?
 They're going to Instagram Direct.
 
 Yes. So yes, well, Heather had a story about kids she knew going to Instagram Direct
-and explaining why they were using Instagram Direct.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 17 of 20Q - Unidentified Participant
+and explaining why they were using Instagram Direct.Q - Unidentified Participant
 A - David Ebersman
 Q - Unidentified Participant
 A - Sheryl Sandberg
@@ -644,9 +612,7 @@ online. Over here.
 Oh, hi.
 And we do as much advertising as we possibly can on Facebook but sometimes
 have a hard time scaling as a smaller business. And so I like your analogy of the
-Super Bowl and I'm wondering whether long term you see this being kind of theFINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 18 of 20A - Sheryl Sandberg
+Super Bowl and I'm wondering whether long term you see this being kind of theA - Sheryl Sandberg
 A - Heather Bellini
 A - Sheryl Sandberg
 Q - Unidentified Participant
@@ -686,9 +652,7 @@ Facebook within reason that there's an advantage to do it rather than to go to
 Google or Amazon or Expedia or elsewhere?
 
 I mean what we've seen to date is a limited amount of that kind of behavior
-happening with the functionality that the product currently offers. So for example aFINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 19 of 20A - Heather Bellini
+happening with the functionality that the product currently offers. So for example aA - Heather Bellini
 Q - Unidentified Participant
 A - Sheryl Sandbergpage making a post but then saying if you want this product message us, or
 something like that. Or you can do it as an individual.
@@ -725,9 +689,7 @@ But we can then measure results. Because what they're getting from us is here's 
 saw the ad. And what they're getting from the retailer is here's the purchase price.
 So you know, with this we were able to measure with Bud Light that they reached I
 forget. But a good chunk, a large percentage of the US population with 1 ad they did.
-And they increased their purchasing in US households by 3.3%.FINAL TRANSCRIPT 2014-02-12
-Meta Platforms Inc (META US Equity)
-Page 20 of 20A - Heather Bellini
+And they increased their purchasing in US households by 3.3%.A - Heather Bellini
 A - Sheryl Sandberg
 A - Heather BelliniAnyone who's been in the ad business, that's a lot for a product that's very well
 known. And we were able to connect that to who had seen the ads and who wasn't.

@@ -10,9 +10,7 @@ not only drive cost savings, what some might assume, but also and this is probab
 the most important thing, increase revenue and with that, value through customer
 engagement that is fundamentally new for the financial service industry.
 So it will enable a cultural transformation for Deutsche Bank, which goes significantly
-beyond technology. This is an entire mindset for our employees and we want toFINAL TRANSCRIPT 2021-06-01
-Alphabet Inc (GOOGL US Equity)
-Page 2 of 7A - Jennifer Courant
+beyond technology. This is an entire mindset for our employees and we want toA - Jennifer Courant
 A - Robert Enslinlearn and engage a lot from the Google engineers. We want to jointly innovate and
 leverage leading-edge technologies which exist today but which Google will have in
 the pipeline going forward and then provide exciting opportunities for our talent.
@@ -51,9 +49,7 @@ data assets that most of these financial service institutions have locked up,
 leveraging cloud to drive business transformation.
 We are seeing many different forms of this, but generally, the needs are focused in 3
 key areas: growing with existing customers, reach new ones as traditional
-distribution models are changing, being able to bring FSI products and capabilitiesFINAL TRANSCRIPT 2021-06-01
-Alphabet Inc (GOOGL US Equity)
-Page 3 of 7A - Jennifer Courant
+distribution models are changing, being able to bring FSI products and capabilitiesA - Jennifer Courant
 A - Bernd Leukertto wherever customers are and provide richer and more personalized interactions;
 drive cost and operational eﬃciency to address the industry's expertise and expense
 pressures, eliminate paper, automate routine operations, drive more do-it-yourself
@@ -94,9 +90,7 @@ business model.
 And what is the new thing when customers are transitioning from selling products
 towards offering outcome, which is the service the product gives, we want to be the
 financial ingredient in that capability. Another example is contextual banking, so an
-understanding of our customers very deeply through the understanding of the data.FINAL TRANSCRIPT 2021-06-01
-Alphabet Inc (GOOGL US Equity)
-Page 4 of 7A - Jennifer Courant
+understanding of our customers very deeply through the understanding of the data.A - Jennifer Courant
 A - Robert EnslinSo the ability to create a platform that enables our corporate clients to manage their
 order-to-cash process much more eﬃciently, and again of course leveraging
 capabilities like machine learning.
@@ -136,9 +130,7 @@ beyond the reach of fintech start-ups. Banks can provision synthetic data sets
 resembling actual customer data, providing fintech start-ups with better data on
 which to train these models. This creates a ﬂywheel effect, enabling both the bank,
 the fintech start-up to rapidly progress with each other's help. This, I believe, adds
-tremendous value to your customers.FINAL TRANSCRIPT 2021-06-01
-Alphabet Inc (GOOGL US Equity)
-Page 5 of 7A - Jennifer Courant
+tremendous value to your customers.A - Jennifer Courant
 A - Bernd Leukert
 A - Robert EnslinAbsolutely, absolutely. You touched on probably the topic that is nearest and dearest
 to my heart, which is data as the data oﬃcer for DB. I wouldn't let the opportunity to
@@ -180,9 +172,7 @@ data and analytics enables customers to extract unique insights to make real-tim
 decisions. So by partnering with us, you can ensure that you'll remain on the cutting
 edge of world-class tooling and Google-built models.
 We are constantly innovating. Just last week, we launched Vertex AI, a managed
-machine learning platform that empowers companies to more quickly, easy manageFINAL TRANSCRIPT 2021-06-01
-Alphabet Inc (GOOGL US Equity)
-Page 6 of 7A - Jennifer Courant
+machine learning platform that empowers companies to more quickly, easy manageA - Jennifer Courant
 A - Bernd Leukertmodels, allowing them to keep pace with dynamic business needs. Vertex AI
 requires nearly 80% fewer lines of code versus competitive platforms, enabling data
 scientists and machine learning engineers to work more eﬃciently and build and
@@ -222,9 +212,7 @@ concepts, into value, into service offerings to our customers, which we have not
 able to do it at the speed we desired in the past.
 Then second, of course to reiterate that, we want to onboard fintechs. We want to
 partner. That is new for Deutsche Bank. That was a closed shop. And now we want to
-integrate them into our offering.FINAL TRANSCRIPT 2021-06-01
-Alphabet Inc (GOOGL US Equity)
-Page 7 of 7A - Jennifer Courant
+integrate them into our offering.A - Jennifer Courant
 A - Robert Enslin
 A - Bernd Leukert
 A - Robert EnslinWe have a tremendous opportunity on giving them access to our huge customer
