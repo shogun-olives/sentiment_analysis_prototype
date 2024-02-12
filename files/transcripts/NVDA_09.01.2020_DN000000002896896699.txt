@@ -1,0 +1,170 @@
+Thank you. Hi, everyone, and thank you for joining us today. We're very excited for
+this opportunity to discuss with you our big launch today of the GeForce RTX Series
+30-GPU family. On the call with us we have NVIDIA's CFO, Colette Kress; and our
+SVP of Gaming, Jeff Fisher.
+The format of today's call will be a short presentation followed by Q&A. You can find
+a copy of the presentation as well as the replay of Jensen's virtual launch event from
+earlier today on our Investor Relations website. And after the presentation, we'll
+open it up for Q&A for either Jeff or Colette.FINAL TRANSCRIPT 2020-09-01
+NVIDIA Corp (NVDA US Equity)
+Page 2 of 16Jeffrey D. FisherBefore we get started, I need to read a quick statement. During this call, we may
+make forward-looking statements based on current expectations. These are subject
+to a number of significant risks and uncertainties and our actual results may differ
+materially. For a discussion of factors that could affect our future financial results and
+business, please refer to our most recent forms 10-K and 10-Q and the reports that
+we may file on Form 8-K with the Securities and Exchange Commission. All our
+statements are made as of today, September 1, 2020, based on information currently
+available to us. Except as required by law, we assume no obligation to update any
+such statements.
+Okay. So with that, let me turn it over to Jeff, to kick us off.
+
+Thanks, Simona. Welcome, everybody, thanks for joining us today on the call. So it's
+been a very big day. It's really exciting, working up to our launch today. It is our first
+virtual GeForce launch, kind of missed the live events, in-house with gamers. But this
+was certainly a successful event regardless. And the team did an amazing job pulling
+it all together. Everyone working at home, it was a new experience, but it was an
+amazing production. The work was made even easier because we had a great story
+to tell with Ampere. I hope you all enjoyed it. Let's get started.
+I want to go through some of the highlights of the presentation today. You may have
+all seen Jensen's key note, hopefully you did, but I want to go through some of the
+key points in slides and then we'll get on to question and answer. In the wake of
+COVID, it's evident that gaming has become a part of everyday life for billions of
+people. Gaming connects people, it entertains, it tells stories, it's a sport and allows -
+- that allows people to create or even become broadcasters of their own content.
+GeForce PC gaming is large and thriving, it's open, it's scalable.
+Games like Call of Duty and Fortnite have attracted hundreds of millions of gamers
+and are now offering new experiences to participate, like the Travis Scott concert in
+Fortnite earlier this summer, where almost 30 million people were participating and
+watching in the game. 75% of GeForce gamers play Esports titles. Esports has an
+audience of over 500 million people and it's a new competitive genre for most of a
+brand-new generation of gamers.
+Gaming has also opened up a new world for creators who can modify games, create
+their own stories, using game assets to share with their friends, a whole new medium
+for creation. With PC Gamers, anyone can broadcast their gameplay with PC -- with a
+gaming PC, anyone can broadcast their gameplay like a pro, to a wide audience or
+just to a few friends. Today, there is over 20 million streamers globally.
+So let's talk about the product. NVIDIA RTX is not just the GPU, it is a full stack. It
+starts with the new GPU architecture -- our new GPU architecture, which is RTX. On
+top of RTX, the device, it includes new engine tech for games and for creative apps,
+and a bunch of new rendering algorithms that are invented by NVIDIA research
+team.FINAL TRANSCRIPT 2020-09-01
+NVIDIA Corp (NVDA US Equity)
+Page 3 of 16All the major 3D APIs have extended to include RTX. RTX is supported by all major
+3D creation tools. RTX Tech is incorporated in all major game engines. There are
+hundreds of games being developed with RTX Tech and there has been thousands
+of research papers written about it.
+We started designing the RTX architecture over 10 years ago to address limitations
+that we saw coming in traditional rasterization technology. The RTX GPU has three
+dedicated processors, the programmable Shader which we designed over 10 years
+ago, a revolution in graphics in and of itself, and RT Core to accelerate ray tracing,
+and the Tensor Core, which is an AI processing pipeline. The Tensor Core powers our
+graphics AI technology, DLSS, which delivers high performance and image quality in
+games and is now viewed as critical to deliver high performance ray trace gaming.
+RT and DLSS are in a majority of the new generation of games.
+Let me start by showing you how the three dedicated cores work concurrently. First,
+Shader, this is an example of a single ray trace frame of the game Wolfenstein:
+Youngblood, so it's one frame. The Shader could do all the work of ray tracing and
+rasterizing. Some architectures may attempt to do this, even Pascal was capable of
+ray tracing but the perf is bad. This is 51 milliseconds of just using Shader to ray trace
+a Wolfenstein frame, 20 millisecond -- 51 milliseconds is less than 20 frames per
+second. The game will be virtually unplayable. Adding RT Cores gets you 20
+milliseconds per frame. RT Core (inaudible) concurrently with Shaders. But 20
+milliseconds is still not 60 frames per second. That is where AI comes in, adding our
+Tensor cores and DLSS, you are now gaming well above 60 frames per second at 12
+milliseconds per frame.
+It's all about three dedicated cores capable of concurrent operation to deliver high
+performance ray traced gaming.
+Now we get on to Ampere, our second-generation RTX architecture. Ampere has a
+new Shader, at 30 Teraﬂops, it is 2.7x turns performance. It has our second Gen RT
+Core. At 58 Teraﬂops, it is 1.7x the performance of turing and ray tracing. And it
+includes our third-generation Tensor Core with 238 Tensor Teraﬂops for AI and DLSS.
+In all, the three cores deliver 2x perf, three cores, 2x perf. This is our triple double.
+So today, in Jensen's kitchen, we introduced Ampere, our new GPU. It's 28 billion
+transistors, 28 billion. It's in Samsung's 8N Custom Process, connected to the world's
+fastest memory G6X and delivers 2x perf Gen to Gen. Ampere powered on in our
+labs this last May and is now in volume production. It has been an amazing execution
+by the team, proud to be a part of the -- proud to watch in times of COVID, just
+amazing execution.
+Full stack engineering and craftsmanship is the heart of all of our GPUs and Ampere
+is no exception. The goal to squeeze every drop of perf and power eﬃciency up and
+down the stack. Ampere delivers 1.9x more power eﬃciency in turing. This extends
+our ability to operate in low-power systems and scale higher performance with
+power.FINAL TRANSCRIPT 2020-09-01
+NVIDIA Corp (NVDA US Equity)
+Page 4 of 16So today, we announced our new ﬂagship GPU, the RTX 3080. At $699, it has 10
+gigabytes of the world's fastest memory. It's a generational leap, it is super important
+when launching a new GPU. This inspires developers to push realism on a much
+larger footprint, and of course, for gamers, to upgrade. The 3080 is available
+September 17.
+As you know, our first Gen RTX turned, while groundbreaking and setting the stage
+for a revolution in graphics and gaming, did not quite achieve this Gen to Gen perf
+over Pascal. 3080, our second-gen RTX and designed in Samsung's 8N, is designed
+to deliver amazing perf for current and next-generation games and inspire gamers
+that now is the time to upgrade.
+This chart shows a 3080 at $699 stacked above 980, 1080 Ti and 2080 Super, and
+delivers roughly 2x the Perf of our 2080 that was launched just two years ago.
+The second GPU we announced is the RTX 3070. The 70s are some of our most
+important products. The 3070 is priced starting at $499 and will be available in
+October. It has 8 gigabytes of G6 memory. The 3070 at $499 is faster than our 2080
+Ti, incredible value. Once again, the 3070 is designed to inspire developers and
+gamers alike, delivering great perf over turing and a clear choice for gamers to
+upgrade.
+Finally, we launched a big ferocious GPU, what we affectionately call the BFGPU, our
+3090. Realizing that our Titan class products were in high demand, enthusiast
+creators and researchers were using it to power their gaming rigs and workstations,
+we decided to add a 90 class this cycle, our first ever, at the top of the GeForce stack
+and to sell it through our worldwide AIC channels. It is a beast of the GPU and it's
+priced starting at $1,499. It is the first GPU that will support 8-K 60 frames per second
+and with ray tracing on. The 3090 will be available from partners at the end of the
+month, starting September 24.
+So all in all, the key note covered a lot of material. NVIDIA delivers the greatest ever
+generational leap with their 30 series GPUs. Ampere is more than a chip. It's a stack
+that powers the top game engines and creator apps. Ampere is our second-
+generation RTX arch, well ahead of the industry, leading the industry, with three
+dedicated cores that is delivering 2x the perf and power eﬃciency. Three cores, 2x,
+once again, our triple-double.
+We also delivered new tools for the infinite ways that gaming is expanding. As noted,
+gamers are not just gamers anymore, they're creators, they're competitors, they
+connect socially all important elements of gaming, and the GeForce platform
+continues to deliver. This is for the tens of millions of streamers, broadcasters,
+Esports pros, artists and creators.
+We did this with our new applications for Esports NVIDIA Reﬂex, delivering low
+latency gaming for the millions of Esports gamers, NVIDIA Broadcast for the millions
+of GeForce broadcasters who are streaming their games. And finally, NVIDIAFINAL TRANSCRIPT 2020-09-01
+NVIDIA Corp (NVDA US Equity)
+Page 5 of 16Simona Jankowski
+Operator
+Vivek Arya
+Jeffrey D. Fisher
+Simona JankowskiOmniverse Machinima allowing gamers and creators to take in-game assets
+combined with their web camera and other visual effects libraries to create cinematic
+film quality storytelling from game assets. This will be -- we believe Machinima will
+truly be groundbreaking.
+So thank you all for your time today. Hopefully we covered everything, although
+there is one more point I want to make. Sorry. Finally, RTX is on and this is probably
+one of the most important things. When we launched RTX, we wanted to inspire
+developers. RTX real-time ray tracing is now coming to Fortnite. With both Minecraft
+and Fortnite onboard, the number one and two most played games in the world RTX
+on, adding the most anticipated titles this fall, Cyberpunk, Call of Duty, Black Ops
+and Watch Dogs, there is no question that RT is the new standard for games.
+Okay, with that, I wanted to say, thank you all for your attention and we can open it
+up for questions. Simona?
+
+Yeah, thank you very much, Jeff. And operator, let's open up the line for any
+questions.
+(Operator Instructions) Your first question comes from Vivek Arya from BofA
+Securities.
+
+Hello, Jeff and Colette, it's Vivek Arya. Congrats on the launch and thanks for letting
+me ask a question. I actually had two, one for Jeff and one for Colette. Jeff, how large
+do you estimate your deployed base of gamers is, and how do you see this upgrade
+cycle playing out versus what you saw with versus what you saw with Turing and
+Pascal, and do you think this is more of a unit or ASP-driven cycle?
+And if I could just also squeeze in my question for Colette at the same time. Colette,
+you mentioned working with Samsung for this new product launch and I'm
+wondering how do you think about just kind of the cost and benefit of working with
+two different foundries for your Ampere set of products? Thank you.
+
+Should I start?
+
+Yeah, go ahead, Jeff, why don't you start first?
