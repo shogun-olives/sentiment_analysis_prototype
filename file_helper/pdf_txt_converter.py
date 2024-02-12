@@ -102,6 +102,7 @@ def all_pdf_to_txt(dir_name: str, target_dir: str = None, overwrite: bool = None
     # overwrites all files that are not marked to keep
     count = 0
     delim = '\t\t'
+    t0 = timeit.default_timer()
     for item in os.listdir(dir_name):
         if item in exist:
             continue
@@ -119,5 +120,9 @@ def all_pdf_to_txt(dir_name: str, target_dir: str = None, overwrite: bool = None
                 delim = '\t'
             t2 = timeit.default_timer()
             print(f"{count}.{delim}[{txt_fn}] written in {t2-t1} sec")
+
+        t3 = timeit.default_timer()
+        if overwrite is not False:
+            print(f'\nOperation completed in {t3-t0:.2f} seconds')
 
         return None
