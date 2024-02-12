@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 import pandas as pd
 import os
 
@@ -17,7 +17,7 @@ def df_to_db(df, db_name: str, table_name: str, path: str = None) -> None:
 
     # write data to database
     with engine.begin() as connection:
-        df.to_sql(name=table_name, con=connection, if_exists='append')
+        df.to_sql(name=table_name, con=connection, if_exists='replace', index=False)
 
 
 def db_to_df(db_name: str, table_name: str, path: str = None) -> pd.DataFrame:
