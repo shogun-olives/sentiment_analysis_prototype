@@ -53,42 +53,51 @@ def pdf_to_txt(pdf_fn: str, txt_fn: str, overwrite_all: bool = False) -> bool:
     return True
 
 
-def all_pdf_to_txt(dir_name: str, target_dir: str = None) -> None:
+def all_pdf_to_txt(dir_name: str, target_dir: str = None, overwrite: bool = None) -> None:
     # if no target directory, create target directory as txt in the same directory
     if target_dir is None:
         target_dir = os.path.join(os.path.dirname(dir_name), 'txt')
 
     # check for files that already exist
-    exist = []
-    for item in os.listdir(dir_name):
-        txt_fn = item.removesuffix('.pdf') + ".txt"
-        if file_exists(os.path.join(target_dir, txt_fn)):
-            exist.append(item)
-            print(f'{str(len(exist))}.\t{item}')
-
-    # asks users which files to overwrite
-    print("\nOverwrite files? (list indexes of files to keep or 'y' to overwrite all)")
-    delete = input(">>> ")
-    print()
-
-    # if yes, unmarks all files that already exist
-    if delete.lower() in ['y', 'yes', 'confirm']:
+    if overwrite is None:
         exist = []
+        for item in os.listdir(dir_name):
+            txt_fn = item.removesuffix('.pdf') + ".txt"
+            if file_exists(os.path.join(target_dir, txt_fn)):
+                exist.append(item)
+                print(f'{str(len(exist))}.\t{item}')
 
-    # otherwise, if a list of indexes to keep were supplied, overwrites all except the selected indexes
-    elif all(x.isdigit() for x in delete.split(", ")):
+        # asks users which files to overwrite
+        print("\nOverwrite files? (list indexes of files to keep or 'y' to overwrite all)")
+        delete = input(">>> ")
+        print()
 
-        # takes all indexes and removes duplicates then sorts from largest to smallest index
-        indexes = list(set(delete.split(", ")))
-        indexes.sort(reverse=True)
+        # if yes, unmarks all files that already exist
+        if delete.lower() in ['y', 'yes', 'confirm']:
+            exist = []
 
-        # removes all indexes which are out of bounds
-        for i in indexes:
-            if int(i) > len(exist) or int(i) <= 0:
-                print(f'{i} is not a valid index')
-            else:
-                # for remaining valid indexes, removes mark at that index for deletion
-                exist.pop(int(i) - 1)
+        # otherwise, if a list of indexes to keep were supplied, overwrites all except the selected indexes
+        elif all(x.isdigit() for x in delete.split(", ")):
+
+            # takes all indexes and removes duplicates then sorts from largest to smallest index
+            indexes = list(set(delete.split(", ")))
+            indexes.sort(reverse=True)
+
+            # removes all indexes which are out of bounds
+            for i in indexes:
+                if int(i) > len(exist) or int(i) <= 0:
+                    print(f'{i} is not a valid index')
+                else:
+                    # for remaining valid indexes, removes mark at that index for deletion
+                    exist.pop(int(i) - 1)
+    elif overwrite:
+        exist = []
+    else:
+        exist = []
+        for item in os.listdir(dir_name):
+            txt_fn = item.removesuffix('.pdf') + ".txt"
+            if file_exists(os.path.join(target_dir, txt_fn)):
+                exist.append(item)
 
     # overwrites all files that are not marked to keep
     count = 0
