@@ -48,7 +48,10 @@ def get_symbol(line: str) -> str | None:
     words = line.split(' ')
     for word in words:
         if '(' in word:
-            return word.removeprefix('(')
+            word = word.removeprefix('(')
+            if len(word) > 4:
+                word = word[:4]
+            return word
     return None
 
 
