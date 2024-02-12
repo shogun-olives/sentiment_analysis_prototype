@@ -52,7 +52,7 @@ def get_symbol(line: str) -> str | None:
     return None
 
 
-def get_data(fn) -> dict[str: str]:
+def get_metadata(fn) -> dict[str: str]:
     conf_id, company_name, conf_type = extract_from_title(fn)
 
     if any([x is None for x in (conf_id, company_name, conf_type)]):
@@ -76,10 +76,10 @@ def get_data(fn) -> dict[str: str]:
     return data
 
 
-def get_dataframe(dir_name: str) -> pd.DataFrame:
+def get_metadata_df(dir_name: str) -> pd.DataFrame:
     data = []
     for file in os.listdir(dir_name):
-        row = get_data(os.path.join(dir_name, file))
+        row = get_metadata(os.path.join(dir_name, file))
 
         if row is None:
             continue
