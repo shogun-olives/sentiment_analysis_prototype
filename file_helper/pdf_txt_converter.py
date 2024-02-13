@@ -103,9 +103,8 @@ def all_pdf_to_txt(dir_name: str, target_dir: str = None, overwrite: bool = None
     count = 0
     delim = '\t\t'
     t0 = timeit.default_timer()
-    for item in os.listdir(dir_name):
-        if item in exist:
-            continue
+    files = [i for i in os.listdir(dir_name) if i not in exist]
+    for item in files:
 
         # calculates current and destination
         txt_fn = Path(item).stem + ".txt"
