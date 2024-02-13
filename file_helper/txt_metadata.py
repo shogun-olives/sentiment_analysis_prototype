@@ -2,7 +2,7 @@
 This module is used to maneuver data between databases and dataframes
 """
 
-from .shared import find_index
+from .shared import find_index, get_path
 import os
 import pandas as pd
 import datetime

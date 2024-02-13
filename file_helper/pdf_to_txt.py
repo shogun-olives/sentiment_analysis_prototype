@@ -109,7 +109,7 @@ def deletion_prompt(files: list[str]) -> list[str]:
 
     # if yes, un-marks all files that already exist
     if delete.lower() in ['y', 'yes', 'confirm']:
-        exist = []
+        return []
 
     # otherwise, if a list of indexes to keep were supplied, overwrites all except the selected indexes
     elif all(x.isdigit() for x in delete.split(", ")):
@@ -135,7 +135,7 @@ def all_pdf_to_txt(directory: str, dest: str = None, overwrite: bool = None,
     Takes all pdf files in directory and converts them to txt files in target_directory
     :param directory: Directory with pdf files
     :param dest: Directory to store txt files in (defaults to directory\\txt)
-    :param overwrite: Whether to automatically overwrite all values or not. True to replace all, False to replace none, None to prompt user
+    :param overwrite: Bool to overwrite all values or not. True to replace all, False to keep all, None to prompt user
     :param display_progress: True to show process progress, otherwise writing process gives no print statements
     :return: None
     """
