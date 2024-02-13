@@ -2,10 +2,47 @@
 This module is used to maneuver data between databases and dataframes
 """
 
-from .shared import find_index, txt_get_symbol
+from .shared import find_index
 import os
 import pandas as pd
 import datetime
+
+
+def txt_get_symbol(fn: str, directory: str = None) -> str | None:
+    """
+    Gets the stock symbol of a transcript by reading its first two lines
+    :param fn: name of file to extract stock symbol from
+    :param directory: directory to search for file in, if left blank, defaults to current working directory
+    :return: Stock symbol if found, otherwise None
+    """
+    path = get_path(fn, directory)
+
+    # opens file
+    with open(path, 'r', encoding='utf-8') as file:
+        # reads first two lines
+        for _ in range(2):
+            line = file.readline()
+
+        # converts line into list
+        words = line.split(' ')
+
+        # 2nd line of file always contains
+        #   [Company Name] ([Stock Symbol] US Equity)
+        # searching for "(" will reliably find the stock symbol
+        for word in words:
+            if '(' in word:
+                # once "(" is found, remove it from prefix
+                word = word.removeprefix('(')
+
+                # if potential symbol is longer than 4 char, only get first 4 chars
+                if len(word) > 4:
+                    word = word[:4]
+
+                # return constructed symbol
+                return word
+
+    # if no "(" is found, method failed and None is returned
+    return None
 
 
 def txt_get_comp_name(fn: str) -> str | None:
