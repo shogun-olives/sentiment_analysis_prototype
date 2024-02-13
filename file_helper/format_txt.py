@@ -43,7 +43,7 @@ def format_txt(fn: str, dest: str, curr: str = None, overwrite: bool = False) ->
     # create array storing data
     data = {
         'ID': [id_from_fn(curr_fn)],
-        'File': [new_fn]
+        'File': ['.\\' + os.path.relpath(dest_path, os.getcwd())]
     }
 
     # if file already exists, and overwrite is false, don't overwrite

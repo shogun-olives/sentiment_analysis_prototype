@@ -1,5 +1,6 @@
 import file_helper as fh
 import pandas as pd
+import timeit
 
 
 def format_transcript_data(pdf_loc, txt_loc, format_txt_loc):
@@ -18,6 +19,7 @@ def format_transcript_data(pdf_loc, txt_loc, format_txt_loc):
 
 
 def main() -> None:
+    t1 = timeit.default_timer()
     # defining personal file structure
     pdf_loc = './raw/transcripts/pdf'
     txt_loc = './raw/transcripts/txt'
@@ -30,6 +32,9 @@ def main() -> None:
 
     # reading transcript data
     # df = fh.db_to_df(db_name, 'transcripts')
+
+    t2 = timeit.default_timer()
+    print(f'Time elapsed: {t2-t1:.2f} seconds')
 
 
 if __name__ == '__main__':
