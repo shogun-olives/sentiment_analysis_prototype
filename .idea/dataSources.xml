@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="transcript_metadata" uuid="8513807d-08e0-4f65-95e9-2cb5948cfd28">
+    <data-source source="LOCAL" name="sentiment_analysis_data" uuid="5cc484c0-b444-4932-b4c3-b988b43e80ef">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\Oliver\Documents\Pycharm\sentiment_analysis_prototype\files\transcript_metadata.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\Oliver\Documents\Pycharm\sentiment_analysis_prototype\files\sentiment_analysis_data.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>
