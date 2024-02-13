@@ -19,7 +19,8 @@ innovating, marketing teams, sales teams, logistics teams, supply chain, supply 
 tough right now, as we all know, servicing customers, everything is just undergoing a
 really massive shift. And it's been amazing to see.
 I think from customers, what we're hearing pretty consistently, it's actually quite
-consistent across the board, there are a couple of different challenges. And I thinkQ - Raimo Lenschow
+consistent across the board, there are a couple of different challenges. And I think
+Q - Raimo Lenschow
 A - Kirk Koenigsbauerone is really around hybrid, which I'm sure you've been talking about and at the
 conference and other places. But hybrid is a sort of going to be the new normal for
 us. And the interesting thing that we hear and that we find in our research. In fact, we
@@ -58,6 +59,7 @@ Questions And Answers
 (Question And Answer)
 Yes, yes. And it must be fascinating for you because like you're like the overarching
 umbrella, you were kind of touching all these actually in your job?
+
 Q - Raimo Lenschow
 A - Kirk KoenigsbauerYes, it's a fun time to be in this part of the business for sure. No question. No
 question.
@@ -101,7 +103,8 @@ years and how important that is to the economy. And that population has historic
 been kind of left behind in terms of being connected to the rest of the workforce.
 And so lots of CEOs, CIOs, business leaders that we talk to are interested in lighting
 up and being able to connect that population to the rest of the employee base to be
-able to lead with them and communicate and the mission alignment and all that. ButQ - Raimo Lenschow
+able to lead with them and communicate and the mission alignment and all that. But
+Q - Raimo Lenschow
 A - Kirk Koenigsbauerthat's also where a big chunk of digital transformation is happening sort of in every
 one of these industries that I've been referencing. The first line worker, the frontline
 worker experience is really getting digitized in a massive way. And that's a big seat
@@ -144,7 +147,8 @@ opportunity for seat growth, but also for ARPU growth as well. And I would say
 originally, frankly, it was much more of an ARPU play initially because we were
 converting these seats from on-prem or the basic Oﬃce 365 workloads to this
 broader M365 suite. But we see quite a bit of headroom ahead of us. Right now we
-just post this in the last couple of quarters, the E5 offering that we have, think aboutQ - Raimo Lenschow
+just post this in the last couple of quarters, the E5 offering that we have, think about
+Q - Raimo Lenschow
 A - Kirk Koenigsbauer
 Q - Raimo Lenschow
 A - Kirk Koenigsbauer
@@ -187,6 +191,7 @@ get as much airtime anymore, which is kind of I think it's unfair because it's a
 important product for you. What have you seen as you think about the pandemic
 supply chain management constraints that are playing out there, like, what have
 been your observations there?
+
 Q - Raimo Lenschow
 A - Kirk Koenigsbauer
 Q - Raimo Lenschow
@@ -230,7 +235,8 @@ of adoption, but also adoption of the different subcomponents that were sitting
 within Teams?
 
 Yes. Yes. Well, in terms of broad adoption, we announced 250 million monthly active
-users of Teams. And someone who's been on the Teams journey from day one, it'sQ - Raimo Lenschow
+users of Teams. And someone who's been on the Teams journey from day one, it's
+Q - Raimo Lenschow
 A - Kirk Koenigsbauerpretty awesome to see what that growth has been. And no question, the product was
 growing before the pandemic and there's definitely been a lot of acceleration
 through it. We see -- one thing I look at quite a bit is, are we seeing broad
@@ -273,7 +279,8 @@ very good about our position there.
 I think the interesting thing that's happened is that the basic phone call is never
 going to be the same. I mean, people want to now see each other whether they're
 using Teams or Zoom or FaceTime or whatever, like, it doesn't really matter. There's a
-whole new standard for what a calling experience is. And so we feel really quiteQ - Raimo Lenschow
+whole new standard for what a calling experience is. And so we feel really quite
+Q - Raimo Lenschow
 A - Kirk Koenigsbauerfortunate to be in a position where Teams in and of itself is not just a voice-over-IP
 solution, but it's a solution that can integrate in these great collaboration
 experiences and deep integration with Oﬃce and so forth, whether you're doing a
@@ -317,7 +324,8 @@ our first four core workloads which are around learning, knowledge management,
 we have a workload that's around insights. So what's happening with the wellness
 and productivity of your employee base. And we have one called Connections,
 which is helpful to connect people to different employee experiences throughout an
-organization.Q - Raimo Lenschow
+organization.
+Q - Raimo Lenschow
 A - Kirk Koenigsbauer
 Q - Raimo Lenschow
 A - Kirk KoenigsbauerAll this we have our own first party solutions, but we're opening it up to third-parties
@@ -359,7 +367,8 @@ forced on you? Yes, yes.
 That's right. We're putting the employee first in this process to make sure they've got
 really great sort of consumer-grade, consumer ethos types of experiences. And we
 think that that will, again, built into Teams, built into the ﬂow work will be really
-competitive.Q - Raimo Lenschow
+competitive.
+Q - Raimo Lenschow
 A - Kirk Koenigsbauer
 Q - Raimo Lenschow
 Yes, yes, I can see that. Yes, that sounds really exciting. Yes. The -- Kirk, last couple of
@@ -402,7 +411,8 @@ huge, huge deal for us. And we're super committed to the category. So hopefully,
 that gives you a quick overview.
 
 Yes. No, totally. Yes. Yes. I mean one of the stuff that does come up on the earnings
-call is EMS. And you talk about the growth there. We have a seat number like and itA - Kirk Koenigsbauer
+call is EMS. And you talk about the growth there. We have a seat number like and it
+A - Kirk Koenigsbauer
 Q - Raimo Lenschow
 A - Kirk Koenigsbauerdoes seem like a very big kind of penetration number as well. Like how do you drive
 growth there? What are the kind of the factors to consider?
@@ -446,7 +456,8 @@ Verify credentials, there's so many elements of this business that are -- that w
 like are going to be real good growth drivers for us going forward, let alone the
 third-party app piece that I mentioned, too. Customers want -- no one wants to move
 to a single vendor entirely, of course, but you do want to remove a lot of the
-complexity that's in the environments today and this is one of the ways to do it.Q - Raimo Lenschow
+complexity that's in the environments today and this is one of the ways to do it.
+Q - Raimo Lenschow
 A - Kirk Koenigsbauer
 Q - Raimo Lenschow
 Yes. Kirk, I see my time is up. I'm getting the ﬂag here, too. But I mean it was so great

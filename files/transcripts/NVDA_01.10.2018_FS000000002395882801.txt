@@ -25,7 +25,8 @@ driving and self-driving cars. If you look back in terms of the thought process 
 when self-driving cars would probably hit the road, I would say, earlier, it was like a
 20 – 30 type of timeframe; 10,15 types of years out.
 But actually using some of the techniques that we have learned in the datacenter
-regarding artificial intelligence, we were able to actually assist many of the OEMs onQ - Atif Malikhow they were thinking about self-driving cars. When we're here today at CES and
+regarding artificial intelligence, we were able to actually assist many of the OEMs on
+Q - Atif Malikhow they were thinking about self-driving cars. When we're here today at CES and
 watching, probably, the last four or five years, we've moved quite tremendously in
 terms of the understanding with the OEMs of the importance of looking at different
 types of techniques to solve this problem. And many of them are looking at
@@ -67,7 +68,8 @@ Okay. At GTC Japan in December last year, you guys announced a partnership with
 Pioneer to combine 3D-LiDAR within an NVIDIA DRIVE platform. Is it benefit to
 NVIDIA platform to partner with specific technology partners or to be agnostic or
 allow the automotive partners to be able to use their peripheral preference of
-technology?A - Colette M. Kress
+technology?
+A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
@@ -109,6 +111,7 @@ working together with the OEM and our understanding in terms of the data and the
 use of artificial intelligence, we do believe we can get to something quite solid by
 those timeframes and it will probably continue to improve for many, many, many
 years in terms of what will be developed.
+
 A - Colette M. Kress
 Q - Atif MalikOkay. As a CFO, I'm curious to know how you're juggling with your R&D prioritization
 across gaming and datacenter, and auto especially because it's going to be such a
@@ -150,7 +153,8 @@ gaming laptop that has 2x that the capability of a desktop . And I want to under
 is that the direction the market is moving towards where the gaming or the
 enthusiasts are – they want portability, they want to have a lightweight notebook and
 yet your competitors are trying to join hands to take some shade away from you. Can
-you just talk about those dynamics as well?A - Colette M. Kress
+you just talk about those dynamics as well?
+A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
 Yeah. So, what we have seen is others tending to continue to be a mobility of how
@@ -191,7 +195,8 @@ average over a period of time, we have refreshed our consumer mind about two and
 a half years or so give or take. We have launched and we haven't reached the two
 year mark in terms of Pascal yet. It is still selling strong. Holiday season was filled with
 great games and we'll talk about that in terms of earnings and when it comes in
-terms of February.Q - Atif Malik
+terms of February.
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
@@ -233,7 +238,8 @@ Within that quarter, we were able to, from a launching, get to solid yields, est
 them with customers and give samples to them. So when we started in terms of the
 beginning of Q3, we were in full production. We were extremely pleased with the
 speed of that. As we all know, Volta is the largest microprocessor on the planet. It is
-probably a very, very, very complex engineered piece that it was established.Q - Atif Malik
+probably a very, very, very complex engineered piece that it was established.
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
@@ -274,7 +280,8 @@ driving capabilities. What you are trying to do in terms of the self-driving car
 duplicate that. There's no handbook that any of us read in terms of how to drive a
 car. So, in order for a car to drive at 60 miles an hour, it has in a significant amount of
 data that is coming into the car that it needs to compute in real time to understand
-that.Q - Atif Malik
+that.
+Q - Atif Malik
 A - Colette M. KressThe first, probably the most important piece in terms of self-driving cars is high-
 definition maps. These are different than the maps that you and I use every day to
 get to find the nearest Starbucks. These are high-definition maps that are down to
@@ -316,7 +323,8 @@ Yeah. So the industry is facing a change that it needs to do to the overall CPUs
 are out there. It came out earlier last week in terms of that challenge. Essentially, a
 CPU with its serial processing, when it doesn't have a set of instructions, could
 possibly infer in terms of the next step to keep the serial processing. That created the
-security hole for it. I think the industry is very aware that: one, we need to patch thisQ - Atif Malik
+security hole for it. I think the industry is very aware that: one, we need to patch this
+Q - Atif Malik
 A - Colette M. Kressquite quickly, it is a very, very big feat in terms of the amount of devices that are out
 there from a CPU standpoint.
 A GPU is not impacted in that matter. It is architected differently. It doesn't have that
@@ -356,7 +364,8 @@ our focus is going to be the underlying platform and they – all those companie
 could continue to use our platform as they do in the datacenter and/or use in terms
 of the work that they're doing in terms of cars, or they could find another very high-
 end in terms of overall processor. The challenges that we're quite many years ahead,
-many of the others in terms of the processor. So, we're probably going to beQ - Atif Malik
+many of the others in terms of the processor. So, we're probably going to be
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malikworking with many over the next couple of years. But you're right, there definitely
 can be others that could enter this market.
@@ -396,7 +405,8 @@ not as trapped. But again, our principles in terms of use of cash are still soli
 Great. And one question I get asked frequently by investors is about the supply of –
 from processors or from your foundry partners like with TSMC and Siemen. How do
 you guys feel about foundry wafer supply being able to meet your demand as well
-as graphics and beyond?A - Colette M. Kress
+as graphics and beyond?
+A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
@@ -438,6 +448,7 @@ best engineered at that time to do so. So, no, it's not a path that says there's
 market share that we think we can capture, but it is a great opportunity for us
 because we're starting at zero to move up and capture any part of that very, very
 large market.
+
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. KressGreat. Let me see if there are any further questions in the audience.
@@ -478,7 +489,8 @@ improved performance almost every single time, including more features and it ha
 a ability to dazzle more than 650,000 developers that are out there. So, although
 some may say, I bet you if I customize something, I can get a little bit more. You still
 have an investment over that period of time which is significant to reach that silicon
-(37:40), you have an investment in terms of how do you establish the software andQ - Atif Malik
+(37:40), you have an investment in terms of how do you establish the software and
+Q - Atif Malik
 A - Colette M. Kresspieces of that, but at the same time we'll be coming out something with the cadence
 that already beats in terms of value.
 So it may be really, really early. It may never actually move in that direction or we may
@@ -518,5 +530,6 @@ invest. How fast each one of them realize those market opportunities? It is stil
 unclear. As we know in terms of self-driving cars, it is a couple years out in terms of
 production, in terms of what we'll see. So, we'll just have to see through that period.
 But we do believe it's an important area because of the massive transformation that
-will happen with transportation.We're out of time. Thank you, Colette and NVIDIA for coming to the Citi TMT West
+will happen with transportation.
+We're out of time. Thank you, Colette and NVIDIA for coming to the Citi TMT West
 Conference.

@@ -12,7 +12,8 @@ affect our future financial results and business, please refer to our most recen
 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and
 Exchange Commission. All our statements are made as of today, March 24, 2020,
 based on information currently available to us. Except as required by law, we assume
-no obligation to update any such statements.Q - Will Stein
+no obligation to update any such statements.
+Q - Will Stein
 A - Colette M. KressOkay. So, with that, let me turn the call over to Will Stein from SunTrust to kick off the
 Q&A with Colette. Will?
 Questions And Answers
@@ -53,7 +54,8 @@ proud about is that we opened up our power brick genomic sequencing software
 available for free over the next 90 days to help our researchers take care of this virus.
 Power brick uses GPUs, for example, to accelerate as much as 50X the analysis of
 sequencing data. So that's to kind of give you a opening in terms of what we are
-doing, how our operations are going.Q - Will Stein
+doing, how our operations are going.
+Q - Will Stein
 A - Colette M. Kress
 Q - Will Stein
 Well, that really helps. Thank you, Colette. It's natural, of course, for investors to focus
@@ -95,7 +97,8 @@ what we're seeing in terms of the supply on gaming.
 Great. Maybe, Colette, I'd like to dig a little bit more into supply conditions. It sounds
 like things at NVIDIA are just fine, and I think, you talked about your partners. But if
 you look maybe a layer or two behind you and then in front of you through the
-supply chain, is there anything you see that is out of the ordinary, certainly, I don'tA - Colette M. Kress
+supply chain, is there anything you see that is out of the ordinary, certainly, I don't
+A - Colette M. Kress
 Q - Will Stein
 A - Colette M. Kress
 Q - Will Steinthink we'd be surprised if there were some shortages, but I'm wondering if there is
@@ -138,6 +141,7 @@ we're seeing. Now, if we take a look at the longer term. Keep in mind that our d
 center business continues to be on a strong growth trajectory, driven by a lot of new
 waves in terms of our AI investments across several of our overall sectors. I'll let you
 take it from here as well.
+
 A - Colette M. KressWell, that really does dovetail nicely with the next question I was going to ask about
 trends that might benefit your business and you highlighted work from home and
 the relevant laptops. Are there any other parts of the business that might see some
@@ -177,7 +181,8 @@ AI data centers, running this huge variety of AI networks and workloads. But the
 test of our industry standard is looking at the overall benchmarks. NVIDIA was the
 only provider to submit for MLPerf for all of the five benchmark wins back in the
 overall fall and this has been very important at these times, as we lead in this overall
-AI space that we're in.Q - Will Stein
+AI space that we're in.
+Q - Will Stein
 A - Colette M. Kress
 Q - Will Stein
 A - Colette M. Kress
@@ -219,7 +224,8 @@ that we're bringing to market and pain for the overall creation of those product
 are overall contract manufacturers. Almost all of it is an overall variable.
 From a fixed proportion, you are just talking about our teams on board right now
 and what they're doing to work with all of our contract manufacturers and ourselves
-to build those products. Sure, though, we do have in some cases procured long-termQ - Will Stein
+to build those products. Sure, though, we do have in some cases procured long-term
+Q - Will Stein
 A - Colette M. Kress
 Q - Will Stein
 A - Colette M. Kressagreements in order to purchase overall inventory that we have to keep in mind, and
@@ -263,7 +269,8 @@ going forward certainly and those overall growth opportunities. There may be an
 opportunity opportunistically for us to make some investments just back into our
 overall business or from an overall M&A piece. But right now, I think, right now we're
 just focused on that overall, meeting the overall supply and demand needs that we
-are in the current quarter.Q - Will Stein
+are in the current quarter.
+Q - Will Stein
 A - Colette M. Kress
 Q - Will Stein
 A - Simona K. Jankowski
@@ -303,6 +310,7 @@ positioned to power a good portion of the AI that's out there.
 
 Well, Colette, thanks so much for your time today. That's it for me. And I guess, I'll
 turn it back to Simona.
+
 Q - Vivek Arya
 A - Jeffrey D. FisherOkay. Thank you very much, Will. And I think I'll turn in right back over to Vivek for
 the gaming part of the call.
@@ -346,7 +354,8 @@ are working at home. There is about 20 million enterprise-based Quadro
 workstations, this isn't in the gaming space, but I just wanted to comment on it.
 Workers who need performance laptops or they need remote into data centers for
 virtual Quadro workstations. So we're also seeing some -- a trend around higher
-performance workstation-based laptops being sold to these types of workers.Q - Vivek Arya
+performance workstation-based laptops being sold to these types of workers.
+Q - Vivek Arya
 A - Jeffrey D. FisherYou also mentioned the supply chain, I'll talk a little bit about that. Our supply chain
 is getting back to work. I think, Colette, had mentioned in our discussions with our
 ASC partners and this is on the desktop side, primarily about 70% to 80% are back
@@ -388,7 +397,8 @@ watch that. There is definitely a correlation between gaming hours and amount of
 time people are playing games and how they -- how important it is for them to win
 and compete, and demand in gaming products. But it's -- so it's -- we've seen
 demand is definitely intact throughout this environment, but it is hard to really put an
-exact number on that correlation.Q - Vivek Arya
+exact number on that correlation.
+Q - Vivek Arya
 A - Jeffrey D. Fisher
 Got it. Then maybe, Jeff, going to the technology aspect of your business, can you
 give us a sense for the adoption of ray tracing technology and during among your
@@ -430,7 +440,8 @@ explode, I know we want to talk about consoles in a bit. But both Sony and Micro
 have now announced and revealed that they have hardware ray tracing capabilities
 in their consoles, as this footprint continues to expand, it will bring the entire
 industry forward and it's going to bring excitement among developers and gamers
-alike to bring these type of effects that ray -- real-time ray tracing is going to enable.So we think this is a kind of a perfect moment and a really about to usher in a new
+alike to bring these type of effects that ray -- real-time ray tracing is going to enable.
+So we think this is a kind of a perfect moment and a really about to usher in a new
 wave of ray-traced content.
 Looking at the games, we've had a number of games come to market already for
 that are real-time ray tracing, some of them are just unbelievably amazing. Metro
@@ -470,7 +481,8 @@ the frames in that game itself was very time consuming, it took a great deal of 
 per title.
 DLSS 2.0 trains on non-games-specific. We use generalized images to train the
 network. The results are not only much better, but the integration into games now is
-much faster. And as part of this expectation that DLSS will become more prevalent inQ - Vivek Arya
+much faster. And as part of this expectation that DLSS will become more prevalent in
+Q - Vivek Arya
 A - Jeffrey D. Fisher
 Q - Vivek Arya
 A - Jeffrey D. Fisher
@@ -513,7 +525,8 @@ historically, I remember that they have often stimulated the demand in the PC
 gaming market as well. How are you looking at the impact on your business as these
 game consoles are launched? And as part of that, if you could also, perhaps, help us
 understand what impact it will have on, again, the mix of your cards, because when I
-look at the performance attributes of some of these game consoles, they areA - Jeffrey D. Fisher
+look at the performance attributes of some of these game consoles, they are
+A - Jeffrey D. Fisher
 Q - Vivek Arya
 A - Jeffrey D. Fishersignificantly higher than what they have been in prior generations. So what is the
 impact overall of these game console launches in the back half on your business?
@@ -555,7 +568,8 @@ game play performance. And as I mentioned, as we see games moving more and
 more to RT and we have more and more games using DLSS. I think you're going to
 see a real disconnect between those numbers. As I mentioned, 2060 with DLSS
 performs around the 2080 tie performance and that's -- that could be a real
-discontinuity as well.Q - Vivek Arya
+discontinuity as well.
+Q - Vivek Arya
 A - Jeffrey D. Fisher
 Q - Vivek Arya
 A - Jeffrey D. Fisher
@@ -600,7 +614,8 @@ best execution.
 Got it. And maybe one last one, Jeff, before we turn it back to Colette for closing
 comments. Maybe the impact of game streaming on your business. I think, Colette,
 touched on that, but if you could perhaps give us some more color on -- is GeForce
-now kind of becoming more important to the business, and as, let's say, 5G takes off,A - Jeffrey D. Fisher
+now kind of becoming more important to the business, and as, let's say, 5G takes off,
+A - Jeffrey D. Fisher
 Q - Vivek Arya
 A - Jeffrey D. Fisher
 Q - Vivek Arya
@@ -643,7 +658,8 @@ other telcos around the globe that are going to be bringing GFN in the markets a
 that's really our expansion strategy. But 5G is going to ultimately bring the type of
 bandwidth and interactive -- interactivity required for this class of gaming to the
 billions of gamers in the world. So it is an enabling use case and it is super exciting
-for us and telcos.Q - Vivek Arya
+for us and telcos.
+Q - Vivek Arya
 A - Jeffrey D. Fisher
 A - Colette M. Kress
 Operator

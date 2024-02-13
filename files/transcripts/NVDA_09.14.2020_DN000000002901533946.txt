@@ -3,7 +3,8 @@ me on the call today are Jensen Huang, President and Chief Executive Oﬃcer of
 NVIDIA; Colette Kress, Executive Vice President and Chief Financial Oﬃcer of
 NVIDIA; and Simon Segars, Chief Executive Oﬃcer of Arm.
 I'd like to remind you that our call is being webcast live on NVIDIA's Investor
-Relations website. The webcast will be available for replay following this call. InJensen Huangaddition, you can find a presentation on the proposed transaction on the NVIDIA
+Relations website. The webcast will be available for replay following this call. In
+Jensen Huangaddition, you can find a presentation on the proposed transaction on the NVIDIA
 Investor Relations website. The content of today's call is NVIDIA's property. It can't
 be reproduced or transcribed without our prior written consent.
 During this call, we may make forward-looking statements based on current
@@ -42,7 +43,8 @@ computing, precisely at a time that Moore's Law has slowed. This requires a new
 approach in computing as legacy architectures are not keeping up. Accelerators
 NVIDIA is already computing platform has risen to the challenge and is leading the
 path forward and is the backdrop to why this deal is so compelling and
-complementary for both businesses.Simon SegarsThere are several exciting growth drivers in our combination. First, Arm's vast
+complementary for both businesses.
+Simon SegarsThere are several exciting growth drivers in our combination. First, Arm's vast
 ecosystem. We can bring NVIDIA's GPU and AI technology to large end markets,
 including mobile and PCs. Second, in the data center, NVIDIA will turbocharge Arm's
 R&D and meet cloud computing customers demand for a higher velocity Arm CPU --
@@ -82,7 +84,8 @@ believe, enable us to uniquely address these challenges and put solutions in the
 hands of innovators who will continue to deliver amazing products built on top of
 our platforms.
 As part of NVIDIA, Arm will continue to operate its open licensing model, while
-maintaining the global customer neutrality that has been foundational to ourColette Kresssuccess. With 180 billion chips shipped to-date by our licensees, there is so much
+maintaining the global customer neutrality that has been foundational to our
+Colette Kresssuccess. With 180 billion chips shipped to-date by our licensees, there is so much
 more we can do together as a combined company. As Jensen mentioned, NVIDIA
 has committed to opening a new global center of AI excellence in Cambridge, which
 will include an Arm-based supercomputer dedicated to AI research and open to
@@ -120,7 +123,8 @@ terms, SoftBank and SoftBank Vision Fund is expected to own, in aggregate, less
 than 10% of NVIDIA's stock, depending on the final amount of the earn-out in the
 form of consideration elected by SoftBank, contributing to continuity going forward.
 NVIDIA intends to finance the cash portion of the transaction with balance sheet
-cash.Operator
+cash.
+Operator
 Q - Mark Lipacis
 A - Jensen HuangLastly, let me provide an update on our capital allocation strategy. We believe the
 proposal, acquisition of Arm is an outstanding use of cash. We expect to continue to
@@ -157,7 +161,8 @@ intense amount of computation and the data processing that has to happen,
 because no computer stands alone anymore and the type of application it runs like
 artificial intelligence require acceleration. But the architecture that's the most
 sensible that the industry is gathering around is a multi-type of processor what is
-otherwise known as heterogeneous type of a computing architecture.Operator
+otherwise known as heterogeneous type of a computing architecture.
+Operator
 Q - Toshiya Hari
 A - Jensen Huang
 Q - Toshiya Hari
@@ -197,7 +202,8 @@ capacity or R&D platform is much larger than Arm's. And just leveraging the
 capabilities we have, the existing capabilities we have and recognizing that we have
 a lot of processor development ourselves, even though it's not related to Arm CPUs,
 a lot of the tools, a lot of capabilities that we use to develop very high-performance
-processors, could be very easily tapped into.Q - Toshiya Hari
+processors, could be very easily tapped into.
+Q - Toshiya Hari
 A - Jensen HuangThe second is the infrastructure that is required to turn a CPU core into a data center
 server platform. It includes the SoC, of course, the rest of the system logic on the
 motherboard, the rest of the system including the GPU, the DPU, the system
@@ -239,7 +245,8 @@ that.
 
 Thank you.
 
-Thanks, Toshiya.Operator
+Thanks, Toshiya.
+Operator
 Q - Vivek Arya
 A - Jensen HuangOur next question comes from Vivek Arya from Bank of America Securities. Your line
 is open.
@@ -280,7 +287,8 @@ into a full out data center platform. And the data center platform that -- for c
 for high performance computing, for Edge, 5G Edge data centers to enterprise data
 centers, for the very first time we can visualize the ability to do that. Frankly we've
 been building that out for every CPU, for every x86 CPUs which are a little different
-for power CPU.A - Colette Kress
+for power CPU.
+A - Colette Kress
 Q - Vivek Arya
 Operator
 Q - Aaron Rakers
@@ -322,7 +330,8 @@ chips are going to be AI computing chips and they're going to do amazing things,
 some of them will be robots, some of them will be self-driving cars, some of them
 will be 5G radios and some of them will be embedded systems. And those are all
 wonderful platforms that we would like to go and participate in, but we can't build
-them all. And so, the simple way that we're thinking about it is wouldn't to be greaterQ - Aaron Rakers
+them all. And so, the simple way that we're thinking about it is wouldn't to be greater
+Q - Aaron Rakers
 Operator
 Q - C.J. Muse
 A - Jensen Huangif NVIDIA IP, NVIDIA GPU cores and AI cores were made available through that
@@ -361,7 +370,8 @@ The Arm CPU is so energy eﬃcient and the NVIDIA GPU is so energy eﬃcient tha
 could increase the adoption of accelerated computing and AI computing in those 22
 billion units moving to hundreds of billions of units over years just through the
 course of time. And we can now build very sophisticated AI chips in just a few
-hundred milliwatts and that fits into a very large number of computing devices. AndOperator
+hundred milliwatts and that fits into a very large number of computing devices. And
+Operator
 Q - Stacy Rasgon
 A - Jensen Huangso, I think, it's a forgone conclusion that computing is going to be accelerated, that
 computing will -- most computing platforms will be about AI processing and as the
@@ -400,6 +410,7 @@ to -- you own of this ecosystem, how much visibility you'll have into that they'
 doing like, how are -- how you're really going to get them comfortable and do you
 anticipate any issues. And if there are customer disagreements, would that stand in
 the way of closing the deal?
+
 Q - Stacy RasgonWe would protect the confidentiality information of all of our customers the way we
 do today and the way that Arm does today. Neither of us really know what the
 customers are doing with our technology. And of course, we work with every
@@ -442,6 +453,7 @@ make part of an extension of our company that we think it's great for our busine
 it's great for economics, that it's great for our strategy and that it's going to be a
 pillar for extending our computing platform. If we believe that, as I do, and we make
 a commitment to keep it open, we will.
+
 A - Colette Kress
 Q - Stacy Rasgon
 A - Jensen Huang
@@ -483,7 +495,8 @@ it is possible to collaborate largely and in some areas where you compete. We wo
 so closely with all the semiconductor companies. We buy from them. Our systems
 are only possible because our chips and their chips. We don't build every chip. We
 don't build voltage regulators. We don't build a lot of repeaters. We don't build a lot
-of zerties [ph]. A lot of very complicated things that are inside these systems and weQ - Harlan Sur
+of zerties [ph]. A lot of very complicated things that are inside these systems and we
+Q - Harlan Sur
 A - Jensen Huang
 Operatordon't build them. And we rely on core partners to do so and we are grateful for their
 partnership. They support us with excellent engineering and we will do so in return.
@@ -524,7 +537,8 @@ Thank you, Jensen.
 
 Yeah. Thank you.
 Our next question comes from the line of Matt Ramsay from Cowen. Your line is
-open.Q - Matt Ramsay
+open.
+Q - Matt Ramsay
 A - Jensen Huang
 Thank you very much. Congrats all around. I actually have a question that I wanted to
 ask from -- to both Jensen and to Simon from your own perspectives. Obviously,
@@ -567,7 +581,8 @@ back out. And for all the same reasons when you're a computing platform company
 and people depend on you, you have to support them for as long as you shall live
 and we do. And we take that we take the promise very seriously.
 And so we are about to put the entire might of our Company behind this
-architecture, from the CPU core to the CPU chips from all of these differentA - Simon Segarscustomers, all these different partners, Ampere or Marvell or Amazon or Fujitsu or
+architecture, from the CPU core to the CPU chips from all of these different
+A - Simon Segarscustomers, all these different partners, Ampere or Marvell or Amazon or Fujitsu or
 the number of companies out there that are considering building Arm CPUs out of
 the Arm CPU cores, data center CPU cores is really quite exciting. The investments
 that Simon and the team have made in the last four years, while they work out of the
@@ -611,7 +626,8 @@ the last four years has enabled us to get to a very different place and we can n
 further, we can now take that to the next level by applying the might of NVIDIA
 behind it. Now, tactically, as we think about the NVIDIA's IP portfolio and how we
 might package that up into products that we can license to the rest of our customer
-base that gives us more to go and sell. That's great. And we're going to do that. ButQ - Matt Ramsay
+base that gives us more to go and sell. That's great. And we're going to do that. But
+Q - Matt Ramsay
 A - Jensen Huang
 Operator
 Q - John Pitzer
@@ -651,7 +667,8 @@ so excited about Graviton1 and Graviton2. You're going to see many others that w
 to follow suit.
 And so, the energy eﬃciency of the Arm processors has really, really revealed its
 amazing cost benefits in the world of data centers. And now with the workload, and
-this is a very important thing, a very important dynamic and I think it was Toshiya thatA - Colette Kress
+this is a very important thing, a very important dynamic and I think it was Toshiya that
+A - Colette Kress
 Q - John Pitzer
 A - Simona Jankowski
 Operator
@@ -691,7 +708,8 @@ Thank you, everyone.
 This concludes today's conference call. You may now disconnect.
 
 Okay, you guys. Thank you very much for joining us today. Today's announcement
-was super-exciting. I hope you are as excited as I am in combining of two amazingcompanies, the most popular CPU in the world with the world's leading AI
+was super-exciting. I hope you are as excited as I am in combining of two amazing
+companies, the most popular CPU in the world with the world's leading AI
 computing company, so that we can create the premier computing company for the
 age of AI. I look forward to giving guys updates on an ongoing basis. Thanks for
 joining us today.

@@ -20,7 +20,8 @@ actually fixing bugs in Windows back in the Vista days. So, that was kind of my 
 my first gig. Over time, I felt like I wanted to do more with sort of building product
 and engaging with customers and so I move to working on product in Azure, and it
 was, it was '09. So the product, it just been named Azure, just to sort of level set
-where it was.Kash Rangan
+where it was.
+Kash Rangan
 Corey Sanders
 Kash RanganAnd so I think I was, like the fifth PM on the project and help to build out some of the
 original computer services. Did that for about a decade, about nine years and then I
@@ -61,6 +62,7 @@ types of projects. In that they are more and more seeing that if they don't take
 digital transformation steps forward and invest in these areas.
 They're going to struggle to continue to remain relevant in this sort of shifting
 market.
+
 Corey Sanders
 Kash Rangan
 Corey SandersGot it. If you could just put a final point on it, what kinds of projects are getting
@@ -103,7 +105,8 @@ Those are the big areas for sure and then I would probably maybe add one more
 which is security. This is something that's seen such a huge level of investment and I
 think, perhaps one of the satisfaction of the pandemic outside of the pandemic itself
 is that it's become an opportunity for bad folks to take advantage of many customers
-and many challenging situations that folks have, the investment security is going upKash Rangan
+and many challenging situations that folks have, the investment security is going up
+Kash Rangan
 Corey Sanders
 Kash Rangan
 Corey Sandersand it needs to and I think the opportunity to secure environments from endpoint to
@@ -146,7 +149,8 @@ re-emphasizing go even a little bit deeper. I think data being a core component 
 digital transformation. And then the AI output of that into all of our other services.
 And so, when I think of sort of the key services, I think Synapse are sort of our data
 warehouse, our analytic solutions around that. We are just seeing a huge amount of
-excitement and attention there with sort of data in just coming from lots of sources.Kash Rangan
+excitement and attention there with sort of data in just coming from lots of sources.
+Kash Rangan
 Corey Sanders
 Kash Rangan
 Corey Sanders
@@ -185,7 +189,8 @@ in 2009, he talked about Azure for the first time we put.
 
 What does he talk about?
 
-Well, 11 years later.Corey Sanders
+Well, 11 years later.
+Corey Sanders
 Kash Rangan
 Corey Sanders
 Kash Rangan
@@ -226,7 +231,8 @@ incremental growth. You know, when we think about just this trade off hybrid act
 is the big selling point and a big value add for customers. Right.
 And that, and that hybrid story is sort of enabling customers to think about digital
 transformation, not as a cloud only answer right when you think of capabilities like
-like Azure Arc which creates sort of a unified experience between on-prem andKash Rangan
+like Azure Arc which creates sort of a unified experience between on-prem and
+Kash Rangan
 Corey Sanders
 Kash Rangan
 Corey Sanders
@@ -266,6 +272,7 @@ It is according to me that you'd have a viewpoint on databases in the cloud, tha
 alone could be a 30-minute conversation so as it. What (inaudible).
 
 I love databases. Yeah, totally we should we can take.
+
 Corey Sanders
 Kash RanganMay be we should talk about a you but I'm fascinated that segment of the market,
 you still have some big companies there, but you guys have really turn that business
@@ -309,6 +316,7 @@ and you're just going to pick and choose the value, you want to get you want an
 operational store here. Great. Click and you go, you want to run your query over
 here. Click and you go and there is very little work to make them all work together.
 So anyway, you got to really exciting point for me. I'm sorry I went too long.
+
 Corey Sanders
 Kash Rangan
 Corey SandersThat's great. Now, we start partnering in writing what their business in the cloud and
@@ -349,7 +357,8 @@ and exposed in Teams, as an example. And they'll frequently include dynamics and
 sort of business outcome based transformation as well. So it's, look, it's a key
 component, because I think it brings a lot of these pieces together, but the most
 strategic partnerships that we have are typically inclusive of more than just Azure, is
-maybe the best way to put it.Kash Rangan
+maybe the best way to put it.
+Kash Rangan
 Corey Sanders
 Kash Rangan
 Corey Sanders
@@ -393,7 +402,8 @@ right it is actually a customer experience end to end. And one of the best examp
 think of this as we recently announced, -- this last week, which is really sort of taking
 these components to bring them all together. So, some of the things that came out
 of Viva directly in Teams you're able to sort of understand corporate -- requirements.
-You're able to understand sort of community changes that are happening in yourKash Rangan
+You're able to understand sort of community changes that are happening in your
+Kash Rangan
 Corey Sanderscorporation, you're able to understand your work-life balance using an analytics
 platform to see what you're doing and email what you're doing in what you're doing
 on Teams and how you're spending your time.
@@ -430,7 +440,8 @@ security products and our security capabilities that allow you to do that from T
 to Dynamics to Azure analytics with a single security view.
 The customers again are expecting, it's sort of an assumed part of this new, this new
 world where everything remote, everything is collaborative, but everything needs to
-be secure and this is where I think we stand-alone.Kash Rangan
+be secure and this is where I think we stand-alone.
+Kash Rangan
 Corey Sanders
 Kash Rangan
 Corey Sanders
@@ -470,6 +481,7 @@ frontline workers to be able to have a single experience between e-commerce and
 their storefront. So, I do think there is a lot of opportunity there that even those
 broader than just Teams in sort of enabling frontline worker experiences. So yes, I
 think it will end up being a good thing for all of us.
+
 Corey Sanders
 Kash Rangan
 Corey Sanders
@@ -512,7 +524,8 @@ because (Multiple Speakers).
 Got it, Okay, Great. Sorry, yes. I mean I'd look when I talk with customers, I think it's,
 always a balancing act and it always sort of depends again upon the industry, right,
 because I think there is certainly savings from things like operating expenses, travel
-expenses etc, but I think the bigger conversation is typically sort of how IT spend isKash Rangan
+expenses etc, but I think the bigger conversation is typically sort of how IT spend is
+Kash Rangan
 Corey Sanders
 Kash Rangan
 Corey Sanders
@@ -549,6 +562,7 @@ anything that I've done for this EaaS and IaaS. Is a true story? This leads to,
 I have you to blame for this. Okay,
 
 No, I really sorry for that. all right.
+
 Kash Rangan
 Corey SandersI mean explain to your customer, the difference between those two. That was my
 early days in Azure absolutely.

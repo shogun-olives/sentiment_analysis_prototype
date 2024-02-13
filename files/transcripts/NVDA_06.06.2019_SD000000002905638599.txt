@@ -17,7 +17,8 @@ and expanding into artificial intelligence.
 There's really 2 aspects of AI. And all this leads directly into the auto industry. But
 kind of the first phase is based on the data center and the need to be able to ingest
 lots of data and be able to train and iterate and build the deep neural networks that
-are acquired for autonomous driving as well as basically everything else that's goingon in terms of the revolution in health care and energy exploration in the finance
+are acquired for autonomous driving as well as basically everything else that's going
+on in terms of the revolution in health care and energy exploration in the finance
 industries. AI is transforming basically every type of industry.
 Then once you've trained these models, then we sort of take them out. We have
 these models that we then put in the vehicle. And so the sensor data comes in. It's
@@ -57,7 +58,8 @@ amount of computing to take place. It's not running code that's been written. Bu
 software is written by data that's been trained to recognize patterns. And they can
 now do it much better than any of us in this room.
 And so what we actually have is a lot of these deep neural networks that are running
-simultaneously in the car, detecting objects, detecting lanes, detecting free space orthe absence of objects, processing LiDAR data and point clouds, processing radar
+simultaneously in the car, detecting objects, detecting lanes, detecting free space or
+the absence of objects, processing LiDAR data and point clouds, processing radar
 information, calculating distances, detecting pedestrians, right? So there's all these
 different neural nets.
 And the reason we do this is we want to have the redundancy and diversity that's
@@ -96,7 +98,8 @@ different types of scenarios, different weather, different time of day and contr
 So it's a way to really accelerate the testing and validation. Then we can do things
 that normally you wouldn't want to do in the real world because they're just too
 dangerous to test. So this gives us the ability to rapidly advance the testing,
-development and then, of course, validation of these autonomous vehicles.So here's just a shot of us running the simulators. So there's 10 -- basically replacing
+development and then, of course, validation of these autonomous vehicles.
+So here's just a shot of us running the simulators. So there's 10 -- basically replacing
 10 virtual cars. But -- and people often ask us, "Well how many miles have you
 driven?" And first of all, it's not so important to know about the miles you've driven
 but rather the scenarios, right? What are the use cases? What are the specific corner
@@ -138,7 +141,8 @@ safer. Driver still has to be in the loop. But we have full levels of autonomous
 capabilities to ensure that car and those passengers inside and out stay safe.
 Then also this huge opportunity for us in the datacenter with our automotive
 customers specifically adopting our GPUs to train their neural networks and then
-running Constellation, our DRIVE SIM software as well. So again, great growthQ - Mitchell Toshiro Steves
+running Constellation, our DRIVE SIM software as well. So again, great growth
+Q - Mitchell Toshiro Steves
 A - Danny Shapiro
 Q - Mitchell Toshiro Stevesopportunities. We're at the very early stages of this. I know we've been talking about
 self-driving cars for a long time. This industry has been making lots of promises and
@@ -177,6 +181,7 @@ that'll be a great way again for the testing and validation. I think that's goin
 big role, too, working with regulators, government agencies as we need to prove the
 technology works in simulation. And then the results of those tests will be things that
 we can show the public and regulators.
+
 A - Danny Shapiro
 Q - Mitchell Toshiro StevesYes. Then interestingly, something you said earlier in the discussion here is that you
 said that it's not important to look at the number of miles you've driven but to look at
@@ -219,7 +224,8 @@ we see you're doing everything from robotaxi to delivery vans, et cetera, right?
 first of all, I mean, how do those ASPs differ when you're trying to put an NVIDIA box
 into each car, each vehicle? Then secondly, which one should actually come first?
 Should it be more the robotaxi side? Or should we expect, I guess, delivery vans? I
-mean how do we think about that in terms of the actual use case going forward?A - Danny Shapiro
+mean how do we think about that in terms of the actual use case going forward?
+A - Danny Shapiro
 Q - Mitchell Toshiro Steves
 Well so I think the way I'd characterize it as more the capabilities of the system are
 the differences as opposed to whether it's a car or whether it's a truck. Because the
@@ -259,7 +265,8 @@ those categories though that comes up much sooner than others.
 Got it. And since we're at a financial event, I mean, one more question. I'm sure you
 won't like this. But the gross margin's trajectory, right? So if I go from let's say a Level
 2 car to let's say a Level 5. I realize the ASP may be up 10x, right. But is there some
-sort of gross margin structure that should also occur? Or...A - Danny Shapiro
+sort of gross margin structure that should also occur? Or...
+A - Danny Shapiro
 Q - Mitchell Toshiro Steves
 A - Danny Shapiro
 So I think what -- what's different maybe is from the old NVIDIA, it's more software
@@ -300,7 +307,8 @@ better.
 And so I think their strategy is really aligned with ours. But now in the market, there's
 2 options. There's a Tesla supercomputer for self-driving. And there's an NVIDIA one.
 And I don't know if anyone -- any of the industry can actually buy the Tesla one or
-not.Q - Mitchell Toshiro Steves
+not.
+Q - Mitchell Toshiro Steves
 Q - Unidentified Participant
 A - Danny Shapiro
 Q - Mitchell Toshiro Steves
@@ -341,7 +349,8 @@ the wheel.
 
 Let's go over next question. So Colette has stated a few times that her favorite
 game's Monopoly. But that aside, when I look at the auto business, I mean which
-companies you guys feel like you compete against the most? I mean Intel's gotA - Danny Shapiro
+companies you guys feel like you compete against the most? I mean Intel's got
+A - Danny Shapiro
 Q - Mitchell Toshiro Steves
 A - Danny ShapiroMobileye as well, right? And it's profitable and doing okay at this point. So you need
 to talk about who you guys see the most, what kind of the value proposition
@@ -382,7 +391,8 @@ number of different software companies.
 On the sensor side, we're pretty -- we're essentially sensor-agnostic. We want to work
 with all the different sensor companies. We realize the diversity and redundancy of
 sensors is key. And so we make sure that we have support and optimize our stack for
-all the different sensor companies. So it makes it easy for, again, our automaker orQ - Mitchell Toshiro Steves
+all the different sensor companies. So it makes it easy for, again, our automaker or
+Q - Mitchell Toshiro Steves
 A - Danny Shapiro
 Q - Mitchell Toshiro Steves
 A - Danny Shapirotruckmaker customers integrate the sensors that they feel they want to use. But -- so

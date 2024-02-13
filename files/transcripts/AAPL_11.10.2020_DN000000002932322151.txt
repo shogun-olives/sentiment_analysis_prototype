@@ -22,7 +22,8 @@ best year ever, and the Mac continues to attract new users. Today, over 50% of
 buyers are new to the Mac, which is simply amazing, and all around the world,
 people use the Mac to do remarkable things. Like the Mac itself, they challenge the
 status quo, they take chances, they create, they innovate, they use the Mac to help
-change the world, and we would like to celebrate them.John Ternus
+change the world, and we would like to celebrate them.
+John Ternus
 Johny Srouji(Video Presentation)
 It's great to see how people use the Mac to do such amazing things. The Mac has
 always been about innovation and bold change. In June, we announced that the Mac
@@ -61,7 +62,8 @@ their processor, IO, security, and memory. Now, with M1, these technologies are
 combined into a single SOC, delivering a whole new level of integration for more
 simplicity, eﬃciency, and amazing performance. M1 also features our unified memory
 architecture or UMA. M1 unifies its high-bandwidth, low latency memory into a single
-pool within a custom package. As a result, all of the technologies in the SOC canaccess the same data without copying it between multiple pools of memory. This
+pool within a custom package. As a result, all of the technologies in the SOC can
+access the same data without copying it between multiple pools of memory. This
 dramatically improves performance on power eﬃciency.
 M1 is the first personal computer chip built using the industry-leading 5-nanometer
 process technology, with incredibly small transistors measured at an atomic scale, M1
@@ -100,7 +102,8 @@ watt. This is unheard of. Now, what about graphics? We design GPUs that deliver 
 maximum graphics performance and the thermal envelope of each of our products.
 This results in a balanced system with a GPU that complements the incredible
 performance of our CPU complex. Typically, PCs got to achieve this balance with
-integrated graphics. To get great graphics performance, they have to use a discreteJohn Ternus
+integrated graphics. To get great graphics performance, they have to use a discrete
+John Ternus
 Craig Federighichip, which consumes a lot of power. M1 is different. With its integrated graphics, we
 get the best of both worlds, incredible performance and low power.
 The GPU in M1 benefits from years of thorough analysis of Mac applications. It's the
@@ -139,6 +142,7 @@ workloads to optimize the architecture of M1. And in the same way, iOS and iPadO
 are built to maximize our A-series chips, macOS Big Sur has been built to maximize
 M1. To hear how it unlocks entirely new experiences and capabilities, let's turn it over
 to Craig.
+
 For the first time ever, we've been able to design macOS for our own silicon. I'm so
 excited about what this means for the platform. Our latest release, macOS Big Sur, is
 absolutely incredible on M1. Big Sur introduces a bold new design, powerful updates
@@ -177,7 +181,8 @@ of M1, and it does this all while maintaining everything you love about macOS.
 Of course, we've optimized all of our apps for M1, from every app that comes with
 macOS to every other app made by Apple. Apps like Pages, Numbers, and Keynote,
 and GarageBand and iMovie are showing us how great performance can be with M1.
-For example, with Logic Pro, you can run up to 3 times more Instruments and effectJohn Ternusplug-ins. And Final Cut Pro can ﬂy through tasks like rendering a complex timeline
+For example, with Logic Pro, you can run up to 3 times more Instruments and effect
+John Ternusplug-ins. And Final Cut Pro can ﬂy through tasks like rendering a complex timeline
 up to 6 times faster. We can't wait for you to unleash your creativity.
 Now, macOS Big Sur has incredible technologies that enable you to run a greater
 range of apps than ever before. First, our universal apps. Simply put, universal apps
@@ -213,7 +218,8 @@ The combination of M1 and macOS Big Sur is super exciting. It truly takes the Ma
 a whole new level. So now, we have all the technologies we need for the next
 generation of Mac and it's time to introduce the first Mac with M1, a product where
 the power eﬃciency of M1 changes everything. Here it is.
-(Video Presentation)Laura MetzThis is the new MacBook Air with M1. In the first, MacBook Air was pulled out of that
+(Video Presentation)
+Laura MetzThis is the new MacBook Air with M1. In the first, MacBook Air was pulled out of that
 envelope, it defined the category of thin and light notebooks. And our users have
 been loving it ever since. Now with the groundbreaking eﬃciency of M1, the new
 MacBook Air will completely redefine what a thin and light notebook can do. To tell
@@ -256,7 +262,8 @@ And when you're video conferencing, which can rapidly drain the battery, you can
 up to twice as long on a single charge. This is the longest battery life ever in a
 MacBook Air. And if users connect with friends, family, and coworkers remotely, we
 know camera image quality matters even more. So we're excited that with M1,
-Apple's latest image signal processor comes to the Mac. This ISP delivers betterJohn Ternus
+Apple's latest image signal processor comes to the Mac. This ISP delivers better
+John Ternus
 Julie Bromsnoise reduction and greater dynamic range for sharper images and more detail in
 shadows and highlights, as well as improved auto white balance combined with ML-
 enhanced face detection, so you look more natural on your FaceTime calls. In fact,
@@ -294,7 +301,8 @@ users love its outstanding performance, array of connectivity and signature desi
 And most of all, they love its versatility. It's why you'll find Mac minis everywhere
 from home oﬃces to home theaters, studios to render farms.
 Today, M1 comes to Mac mini, bringing a seismic shift and what an ultra-compact
-desktop can do.John TernusWith the 8-core CPU in M1, Mac mini delivers up to 3 times faster CPU performance
+desktop can do.
+John TernusWith the 8-core CPU in M1, Mac mini delivers up to 3 times faster CPU performance
 than the previous quadcore version. This is a monumental leap in CPU performance
 for Mac mini. So if you're a developer compiling a million lines in Xcode or musician
 using Logic Pro to take music production to a whole new level, performance never
@@ -333,7 +341,8 @@ Now, back to John.
 
 This really is the most incredible Mac mini we've ever made. Thanks to the
 integration and phenomenal graphics capabilities of M1. This new mini will enable
-high performance general purpose computing in a way that was never beforeShruti Haldeapossible in such a compact design, and there has never been a Mac mini like it, but
+high performance general purpose computing in a way that was never before
+Shruti Haldeapossible in such a compact design, and there has never been a Mac mini like it, but
 we're still not done. You've seen how the eﬃciency and integration of M1 yields
 incredible capability and performance in the MacBook Air and Mac mini. That
 performance is so good that it's also an excellent choice for another one of our most
@@ -371,7 +380,8 @@ to 20 hours for video playback, that's 10 more hours than before, and that's the
 longest battery life ever in a Mac.
 And with this combination of performance and awesome battery life, the productivity
 of our pro users goes through the roof. For instance, software developers can
-compile 4 times as much code on a single charge. The new Pro also has studioJohn Ternusquality mics with an improved signal to noise ratio. So whether you're on a FaceTime
+compile 4 times as much code on a single charge. The new Pro also has studio
+John Ternusquality mics with an improved signal to noise ratio. So whether you're on a FaceTime
 call or recording a vocal track, audio will be super clean and it benefits from the M1's
 advanced camera ISP. So when users are connecting with coworkers on video calls,
 they'll have sharper video with less grain and better contrast and detail in low light
@@ -410,7 +420,8 @@ progress we've made. It is so exciting to be able to reinvent three of our most
 popular and affordable Macs.
 And to make things even more exciting, you can order the new MacBook Air, Mac
 mini, and MacBook Pro starting today, and they will all be available next week. And
-macOS Big Sur will be available this Thursday. These new systems with M1 join theTim Cookrest of our Mac product line, including some phenomenal products that we've
+macOS Big Sur will be available this Thursday. These new systems with M1 join the
+Tim Cookrest of our Mac product line, including some phenomenal products that we've
 introduced over the last year. This is by far the strongest Mac lineup that we've ever
 had.
 The transition to Apple Silicon is going to have a profound impact on the Mac. It will

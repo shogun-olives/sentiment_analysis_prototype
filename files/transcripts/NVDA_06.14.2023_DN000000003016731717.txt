@@ -16,7 +16,8 @@ Coast Time. So thank you for that.
 
 Thank you, Mark, for arranging this. It was a good solution -- conﬂicts, it's so diﬃcult
 to spend that much time traveling. There's a lot to do, but I'm really pleased that we
-found a solution here.Q - Mark Lipacis
+found a solution here.
+Q - Mark Lipacis
 A - Colette KressQuestions And Answers
 
 Well, we found -- we understood that you were very busy processing orders from
@@ -54,7 +55,8 @@ about the importance of accelerated computing and how many folks around the
 globe have really understood the importance of moving to accelerated computing
 for better performance, for the next generation of computing and to focus in terms
 of on the sustainability that is going to be truly essential in all of the data centers that
-we see.Q - Mark LipacisWe have been working this for many years. Accelerated computing is not the same
+we see.
+Q - Mark LipacisWe have been working this for many years. Accelerated computing is not the same
 as just calling about accelerators, but it's really looking at the full data center as a
 whole and the decoupling of all of the different parts and to focus on how they can
 speed that together. Now keep in mind, the end of Moore's law really triggered
@@ -95,7 +97,8 @@ mainframes, digital, equipment corporation and minicomputers, Nokia in feature
 phones, Apple in smartphones.
 So maybe if you could just share with us your view, like, what are the key parts of the
 ecosystem -- the software ecosystem that you're offering that a chip company may
-not have offered in the PC era?A - Colette Kress
+not have offered in the PC era?
+A - Colette Kress
 Q - Mark Lipacis
 That is correct, Mark. We're not a chip company. Our whole position from the data
 center perspective is thinking about the full ecosystem and a full end-to-end stack,
@@ -137,7 +140,8 @@ If you compare the ecosystem that you guys have built to like what we may have
 seen in the PC era or like with Apple, I think there's a debate about whether or not
 you have an open ecosystem that get levered, you get leverage from by embracing
 developers versus kind of a closed one. And I think if you think about Macintosh
-back in the day that was maybe more of a closed ecosystem that limited their -- itsA - Colette Kress
+back in the day that was maybe more of a closed ecosystem that limited their -- its
+A - Colette Kress
 Q - Mark Lipacis
 A - Colette Kressability to scale. How would you characterize the software ecosystem that you guys
 have architected?
@@ -179,7 +183,8 @@ And so our visibility has improved. Our visibility is about companies helping us
 understand when they are ready to accept compute, where they want that compute
 to stand within their data centers and how we can help them even with the
 networking and compute together. So our visibility has improved. We have better
-visibility than what we've seen before.Q - Mark Lipacis
+visibility than what we've seen before.
+Q - Mark Lipacis
 A - Colette Kress
 Q - Mark Lipacis
 A - Colette Kress
@@ -222,6 +227,7 @@ an architecture because it is probably the second best in the world for them to
 continue working on Ampere. So it is likely that this dual type of architecture will
 continue. We'll think about this as when does it start to slow down, unsure at this
 time. But yes, we will still sell in both of those architectures.
+
 A - Colette KressCan you talk about your inventory strategy? I think normally, in semiconductor is
 when you see companies build up inventories, you get a little concerned that
 perhaps they mismanaged their strategic planning process, right? Now you built up
@@ -261,7 +267,8 @@ one of those systems. As much as we love the wafers, the chips part of it, that'
 one part of our journey to complete that great system.
 So our position right now is we surely are watching both the inventory and the
 purchase commitments together. But it's all about getting ready and understanding
-the demand that we have in front of us. That's really where our strategy lies.Q - Mark Lipacis
+the demand that we have in front of us. That's really where our strategy lies.
+Q - Mark Lipacis
 A - Colette Kress
 Great. I just want to -- I'll come back to the kind of the ecosystem kind of strategy
 here. Software is part of that. You have previously disclosed that the software is a
@@ -302,7 +309,8 @@ likely more going forward.
 So right now, our software revenue, we've indicated is in the hundreds of millions of
 dollars and we do believe it's an important piece with the infrastructure purchases
 that software will likely be hand-in-hand for so many of the things that we see going
-forward.Q - Mark Lipacis
+forward.
+Q - Mark Lipacis
 A - Colette Kress
 Q - Mark Lipacis
 A - Colette Kress

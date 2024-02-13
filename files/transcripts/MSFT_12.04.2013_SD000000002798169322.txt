@@ -23,7 +23,8 @@ I think if I reﬂect back on sort of those two quarters and what happened, Q4 w
 to be a bit of a low point in terms of what we saw in our Windows business
 specifically related to OEMs. So if you recall, in Q4, our OEM business finished
 declining 15% year-over-year. And we saw particularly a declining portion of the
-business in the consumer side of our OEM business. At that time, we setKeith Weiss
+business in the consumer side of our OEM business. At that time, we set
+Keith Weiss
 Chris Suh
 Keith Weiss
 Chris Suhexpectations for Q1 to be similar Q4 to Q1 trend along the PC market, because that
@@ -61,7 +62,8 @@ Yes. It's a great question. And, yes, it was right at -- right before our Januar
 call that I stepped into it. I have been around the Company for about 17 years. So I
 have had a good sort of perspective of Microsoft from the inside. But certainly didn't
 expect the amount of change that I have seen over the last 10 months that I have
-been in this role. It has been super fascinating, actually. And I keep telling peopleKeith Weissthat my boss and my boss's boss quitting has nothing to do with me. But it has been
+been in this role. It has been super fascinating, actually. And I keep telling people
+Keith Weissthat my boss and my boss's boss quitting has nothing to do with me. But it has been
 fascinating.
 And we are actually quite enthused about the changes that are in process and the
 changes to come and the opportunity ahead. I think there are a few different
@@ -99,7 +101,8 @@ And we are all eager to see what comes with that.
 
 And just maybe too mark-to-market on some of those initiatives, how should we
 think of -- in terms of the transition or sort the work to be done towards Microsoft
-One, how far into that initiative is Microsoft, how much more change is on the come?Chris Suh
+One, how far into that initiative is Microsoft, how much more change is on the come?
+Chris Suh
 Keith WeissAnd maybe if you could dig into -- just give us some examples of some of the
 benefits that you guys are already seeing internally.
 
@@ -138,6 +141,7 @@ you see today focuses a lot on the differentiated features and functionality, th
 productivity, the fact that you can have Oﬃce and the fact that you can use USB. And
 all these things that sort of articulate the value proposition differently than a year
 ago.
+
 Chris Suh
 Keith Weiss
 Chris SuhGot it, got it. Then just the latest update on how you guys are messaging the CEO
@@ -177,7 +181,8 @@ would mean to actually spin that out.
 
 Sure. I have seen some of the headlines as well. It is interesting. I think we have been
 pretty consistent with our stated strategy statements, which is to become a devices
-and services company. I think our actions have also been consistent along with thatKeith Weissin terms of moving from a pure software company to both software, services and
+and services company. I think our actions have also been consistent along with that
+Keith Weissin terms of moving from a pure software company to both software, services and
 devices.
 When I think about the two specific assets that you mentioned, Bing and Xbox, I do
 think they are an integral part of how we think about how we are successful in the
@@ -216,6 +221,7 @@ interaction with the TV through voice and gestures. It is quite a seamless set o
 experiences across the whole stack. And we think that is important, again, to win the
 minds of consumers, in a sense. And have that engagement and stay relevant across
 the whole portfolio.
+
 Chris SuhAnd it seems like Xbox One has gotten a really nice initial reception. Some of the
 initial sales figures that at least we are seeing from retail suggest a really good
 market reception thus far.
@@ -253,7 +259,8 @@ the retail side, on the supply chain side, on the distribution side, on the prod
 so everything is moving in the right direction.
 Now that said, I think it still takes a little bit of time and I think Windows 8.1 and the
 adoption and deployment across is still a work in process. And we are more
-optimistic certainly.Keith Weiss
+optimistic certainly.
+Keith Weiss
 Chris Suh
 Got it, excellent, excellent. And maybe shifting gears a little bit to Surface, it has
 been out over a year now. You have Surface 2 on the market. How do you guys feel
@@ -291,7 +298,8 @@ You know, as I said, we are seeing a lot of innovation from OEMs. Whether they a
 two-in-ones, which are kind of like the Surface -- they are tablets and they are
 hybrids, Ultrabooks and touchscreen -- the OEM partners have been great. And we
 are certainly working together with them closely to help invigorate the whole
-ecosystem in total. So our OEM relationships are good and solid (multiple speakers).Keith Weiss
+ecosystem in total. So our OEM relationships are good and solid (multiple speakers).
+Keith Weiss
 Chris Suh
 Keith Weiss
 Chris Suh
@@ -328,7 +336,8 @@ Azure is an exciting part of our overall cloud strategy. So Microsoft is -- we h
 investing in cloud for a long, long time. We took a very -- I guess an ambitious
 approach with our platform-as-a-service offering with Azure. But our cloud initiatives
 across Azure. But also Oﬃce 365 and various other parts of the businesses, we're
-sort of all into the cloud I guess in that sense.Keith Weiss
+sort of all into the cloud I guess in that sense.
+Keith Weiss
 Chris SuhI think of Azure in a couple different ways. First of all, I think we do have a
 differentiated solution vis-a-vis an AWS in a couple ways. I think of our -- with Azure,
 what you get is really what we call a hybrid cloud approach. So you have the ability
@@ -369,7 +378,8 @@ bit north of $4 billion. And the current fiscal year, we are anticipating spendi
 $6.5 billion. So it is a big step up. And most of the difference -- if I sort of take the
 historical run rate of CapEx to now, I think most of the differential is in the data
 center side, is in networking equipment as well as some of the plant to host those
-servers.Keith Weiss
+servers.
+Keith Weiss
 Chris SuhWe are investing in three areas primarily. You saw -- and I am going back to the start
 of the ramp in FY13 -- Oﬃce 365. And that is coming up to scale; we talked about
 that business being over a $1.5 billion run rate at the end of fiscal 2013. So that is now
@@ -409,7 +419,8 @@ Sure. I think this fiscal year is interesting, because we do have an Xbox One la
 And that is having a weight -- probably a heavier weight. And as you know, in the
 gaming business, the lifecycle of a gaming console is you tend to have low or
 negative margins upfront and then those improve over time. And so FY14 is probably
-overweighted a little bit with the Xbox One launch.Keith Weiss
+overweighted a little bit with the Xbox One launch.
+Keith Weiss
 Chris SuhBut I think that your general point is right. As we evolve from a higher-margin
 software business to services and hardware, we are going to have margin
 percentage impacts of those things. I think over time, we are confident that we can

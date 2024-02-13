@@ -6,7 +6,8 @@ Before we get started, I would like to take this opportunity to remind you that 
 remarks today will include forward-looking statements and actual results may differ
 materially from those contemplated by these forward-looking statements.
 Factors that could cause these results to differ materially are set forth in today's press
-release and on our annual report on Form 10-K filed with the SEC.Mark ZuckerbergAny forward-looking statements that we make on this call are based on assumptions
+release and on our annual report on Form 10-K filed with the SEC.
+Mark ZuckerbergAny forward-looking statements that we make on this call are based on assumptions
 as of today and we undertake no obligation to update these statements as a result of
 new information or future event.
 And now, I'd like to turn the call over to Mark.
@@ -40,7 +41,8 @@ When you put on their goggles, you enter a completely immersive computer-
 generated environment, like a game, or a movie scene or a place far away.
 The incredible thing about the technology is that you feel like you're actually present
 in another place with other people. It's different from anything I've ever experienced
-in my life and many people who try it also say the same thing.Oculus's mission is to enable you to experience the impossible. Their technology
+in my life and many people who try it also say the same thing.
+Oculus's mission is to enable you to experience the impossible. Their technology
 opens up the possibility of completely new kinds of experiences.
 Immersive gaming is the first big opportunity and Oculus already has big plans here
 they won't be changing. The beta version of the Rift is highly anticipated by the
@@ -75,7 +77,8 @@ I'm really excited to have this opportunity to work with Brendan and his entire 
 They've already achieved significant breakthroughs with just a small team. And we're
 looking forward to helping them scale their efforts over the coming years.
 Now, before I close, I just want to make one more point. For almost the last year, I've
-framed our strategy as three high-level goals over the next ten years; connectingBrendan Iribeeveryone, one; two, understanding the world; and three, building the knowledge
+framed our strategy as three high-level goals over the next ten years; connecting
+Brendan Iribeeveryone, one; two, understanding the world; and three, building the knowledge
 economy.
 With this acquisition, now each of those initiatives has an ambitious long-term bet
 associated with it, in addition to our important near-term work as well.
@@ -110,7 +113,8 @@ compelling and engaging services that will fundamentally change the way we live,
 play, share. And communicate.
 We started with a focus on next-generation gaming. Now we're teaming up with
 Facebook to invent the future. Facebook and Oculus share a common vision for the
-opportunities that virtual reality presents to the world.David EbersmanFacebook's mission is to connect the world. And Oculus is focused on developing a
+opportunities that virtual reality presents to the world.
+David EbersmanFacebook's mission is to connect the world. And Oculus is focused on developing a
 new medium that allows people to connect in entirely new ways.
 A few months ago, when Mark and his team came down to visit our oﬃces, it was
 immediately clear that the two teams share a passion for building a new world-
@@ -143,7 +147,8 @@ $400 million in cash. And 23.1 million Facebook shares.
 The agreement also provides for an additional $30 million earn-out to be paid in a
 mix of cash and stock-- $300 million, I'm sorry. $300 million earn-out to be paid in a
 mix of cash and stock if Oculus achieves certain milestones.
-The transaction is expected to close in the Second Quarter of 2014.A - Deborah Crawford
+The transaction is expected to close in the Second Quarter of 2014.
+A - Deborah Crawford
 Operator
 Q - Mark MayIn the near term, Oculus isn't expected to have a material impact on Facebook's
 revenues.
@@ -177,7 +182,8 @@ the questions I'm getting are; can you point me to some of the data points or
 milestones?
 Even if early on, the management is executing on some of the early strategic
 initiatives or outcomes that you're looking to get out if these deals. So I was just
-wondering if maybe with Instagram, we're a couple years into that deal. Can youA - David Ebersman
+wondering if maybe with Instagram, we're a couple years into that deal. Can you
+A - David Ebersman
 A - Mark Zuckerberggive investors some confidence that the execution and some of the reasons why you
 bought that company have begun to play out, to give us some comfort that, as you
 look to do more big, bold bets like this, that we can have confidence in the
@@ -217,7 +223,8 @@ Similarly, Oculus, there are not that many companies that are built on core
 technology that can be the next major computing platform. And the Oculus team is
 the clear leader here. I mean theyâ€”the quality of their product, even their
 development kit, I mean they probably could ship it as a consumer thing if they
-wanted, because it's so high quality and so much better than anything that anyoneQ - Mark May
+wanted, because it's so high quality and so much better than anything that anyone
+Q - Mark May
 A - Deborah Crawford
 Operator
 Q - Mark Mahaney
@@ -255,7 +262,8 @@ was how big the potential was for the social experience. And when you truly feel
 virtual reality, that you're actually present in another space. And look around and the
 brain is just completely convinced that it's comfortable and it's Okay. But it's an
 entirely new, impossible place. Something fundamentally changes and you start to
-realize how big this can be.Q - Mark Mahaney
+realize how big this can be.
+Q - Mark Mahaney
 A - Deborah Crawford
 Operator
 Q - Brian Pitz
@@ -291,7 +299,8 @@ computing platform, there are a bunch of important use cases that you need to
 support. So whether you're looking at mobile and how people spend their time, or
 PC as before, we've measured this more with mobile. But what we see is about 40%
 of the time that people spend overall is in gaming. And about 40% is also spent on
-social communication. So about half of that is in Facebook, which is nice.A - Brendan Iribe
+social communication. So about half of that is in Facebook, which is nice.
+A - Brendan Iribe
 A - Deborah Crawford
 A - Mark Zuckerberg
 A - Brendan Iribe
@@ -330,7 +339,8 @@ philosophically. Not necessarily just with Oculus.
 Well in this case, the analysis, we did think about what would happen if we tried to
 build it from scratch. And the first thing that we realized is, in addition to being many
 years behind where they are in technology, they already have all the good people in
-the industry.A - David Ebersman
+the industry.
+A - David Ebersman
 A - Deborah CrawfordSo this is not a thing that, at least in terms of really intense graphics systems and
 hardware hacking that on consumer electronics that Facebook has done in the past.
 So this is a part of the culture that we needed to build out.
@@ -367,7 +377,8 @@ So we've been pretty selective over the ten-year history of the Company in terms
 the acquisitions we've done. We'll continue to use it selectively as a tool where we
 feel we can access really extraordinarily valuable and unique assets.
 
-Next question.Operator
+Next question.
+Operator
 Q - Ron Josey
 A - Mark Zuckerberg
 A - David EbersmanRon Josey
@@ -401,7 +412,8 @@ In terms of valuation, the financial analysis that we did focused primarily on t
 games business because it's the furthest along. And it's the clearest opportunity
 where we have other businesses we can compare it to. And we felt comfortable we
 could justify the sole value of the acquisition just on the games opportunity if Oculus
-continues to execute it as we expect.Q - Ron Josey
+continues to execute it as we expect.
+Q - Ron Josey
 A - Deborah Crawford
 Operator
 Q - Youssef Squali
@@ -436,7 +448,8 @@ a full world quick enough to not make someone motion sick.
 So I mean just to give you a sense of how this goes, you kind of need to getâ€”as
 soon as you move your head, you need to get down to generating and rendering on
 the screen in front of the person a completely updated world withinâ€”so about 15 to
-20 milliseconds, or else it's just too jarring to feel real to a person.Q - Youssef Squali
+20 milliseconds, or else it's just too jarring to feel real to a person.
+Q - Youssef Squali
 A - David Ebersman
 Q - Youssef SqualiAnd this team now, for the first time, has been able to do that at a cost-effective price
 and then there's advantages beyond this, too. So they're doing that powered off of a
@@ -474,7 +487,8 @@ If we are successful in building the kind of platform that we think we can build
 there should be lots of different monetization opportunities and it's too early to
 make any concrete plans in terms of exactly what our approach will be.
 
-Thanks, David.A - Deborah Crawford
+Thanks, David.
+A - Deborah Crawford
 Operator
 Great. Thank you, everyone, for joining us today. We appreciate your time and we
 look forward to speaking with you again.

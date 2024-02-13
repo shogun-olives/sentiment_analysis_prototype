@@ -18,7 +18,8 @@ We got you now. That is the quintessential 2020-2021 start to a meeting.
 
 So sorry about that. We're not sure why we moved over that we did. But thank you so
 much for having NVIDIA here at your conference. I agree, next year will be another
-great year. But hopefully will be in person.Christopher Caso
+great year. But hopefully will be in person.
+Christopher Caso
 Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kress
@@ -60,7 +61,8 @@ gaming both at Samsung and TSMC. So what we have is we have an ability to source
 for our overall gaming business from both of those 2 high-level fabs. We couldn't be
 more pleased to have both of them as great partners as they've been with us for
 many years. So this will allow us not only to produce everything that we need for the
-high end but also below a $300 price point, we will still be able to produce overallA - Christopher Caso
+high end but also below a $300 price point, we will still be able to produce overall
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kresssupply on our other providers such as TSMC. With our overall Turing architecture
@@ -104,7 +106,8 @@ what that's done to overall mix within gaming.
 Yes. So we did start this launch of this architecture with our higher-end cards, very
 similar to last time, but I think they were very well received across the market, not
 only for the ability to do the ray tracing, but if you think about this being a very
-important upgrade cycle for us, you can see the astounding amount of performanceA - Christopher Caso
+important upgrade cycle for us, you can see the astounding amount of performance
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kressimprovement, not only from our last architecture. But if you go back to the
@@ -148,7 +151,8 @@ some growth.
 Yes, absolutely, Chris. So this is, of course a situation that we would love to have
 more optionality. We would love to have more overall supply. But remember, our
 issue is, is demand is strong. Demand is strong, and we do believe we will grow
-quite well as this demand will continue through this year in front of us.A - Christopher Caso
+quite well as this demand will continue through this year in front of us.
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kress
@@ -191,7 +195,8 @@ get to gamers and crypto, you can address them like that?
 Yes. So correct. We've announced that CMP program, and it will start shipping in the
 March time frame. And additionally, with our 3060 that came out, that was an
 opportunity for us to allow that to be available for our gamers. We build GeForce for
-gamers. So we took that additional step to reduce that hash rate eﬃciency with theA - Christopher Caso
+gamers. So we took that additional step to reduce that hash rate eﬃciency with the
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kressnew launch of the 3060, but we didn't see this as a need to take that step with other
@@ -235,7 +240,8 @@ architecture for data center, starting in terms of that launch even during the
 lockdowns associated with the pandemic. So a true successful year for us.
 Q4 was also a record. In Q4, our data center business grew while the industry as a
 whole did not grow. Additionally, we are guiding growth in Q1, where our industry is
-also planning to be down sequentially 20%. So we feel really great aboutA - Christopher Caso
+also planning to be down sequentially 20%. So we feel really great about
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kressaccelerated computing, AI, our overall inclusion of Mellanox and our networking
@@ -278,6 +284,7 @@ As a follow-on on the data center, and I'll read one of the questions that came 
 about the DPU part of the data center market. The question is, is that an entirely
 incremental opportunity? Or is there some cannibalization of the GPU in the data
 center if you're going to do more compute and sort of -- at the DPU.
+
 A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
@@ -321,6 +328,7 @@ growth rate in hyperscale to compare to hyperscale growth rates overall? And we'
 seeing somewhere in the range, 20%, 25% hyperscale CapEx growth this year, a bit
 of an improvement from last year. Do you expect your business both in AI and DPU
 and everything else to grow at some multiple of that for some time?
+
 A - Christopher Caso
 A - Colette M. KressOur hyperscales are an important part of our data center business for sure. Our level
 of engagement with them, their support of our overall A100 architecture design has
@@ -365,7 +373,8 @@ absolutely one of the greatest licensing models out there. Our ability to take s
 our technology and license through their open model is absolutely one of the great
 things that we can do with the overall ARM acquisition. But let me step back and say
 first, ARM, we are confident it will close, and we do promise to keep it open, keep its
-licensing open and make sure that our customers have the assurance of that existingA - Christopher Caso
+licensing open and make sure that our customers have the assurance of that existing
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kressbusiness model that we will keep. We are excited about injecting ARM with a boost
@@ -408,7 +417,8 @@ platform through its entire ﬂeet that it will produce in 2024 and beyond.
 The important part of that is not only incorporating hardware systems within the ﬂeet
 of cars and continuing to upgrade the software through over-the-air updates and
 keeping that current. But sharing the overall revenue that they achieve from selling
-that autonomous system within the car with us here at NVIDIA. So now we have anA - Christopher Caso
+that autonomous system within the car with us here at NVIDIA. So now we have an
+A - Christopher Caso
 A - Colette M. Kress
 A - Christopher Caso
 A - Colette M. Kressability to have a software stream from the overall Daimler agreement. Very important

@@ -20,7 +20,8 @@ opportunities with new business models. We at Google Cloud enable that for some
 of the leading companies in the world. In a nutshell, we, at Google, are focused on
 enabling organizations to get 5 different capabilities from our platform that help
 them get brand new ways to exploit the digital revolution. We have 5 important
-technology differentiators from other providers in this market. We're seeing verystrong momentum with customers around the world in 6 industries. We're investing
+technology differentiators from other providers in this market. We're seeing very
+strong momentum with customers around the world in 6 industries. We're investing
 aggressively to grow our direct sales and distribution capacity, as well as striking a
 number of partnerships with partners who will not only provide value-add to our
 solutions. But also distribute our software and capabilities. And finally, we have
@@ -62,7 +63,8 @@ which has moved a huge part of their supply chain and IT infrastructure to Googl
 Cloud; Air Asia, which is one of the fastest-growing airlines in Asia that's using us to
 transform their IT department; and then more in the health care field, the Broad
 Institute, which uses us to manage the genomics data and their data science
-infrastructure.Second, one of the key capabilities that customers want as they move workload to
+infrastructure.
+Second, one of the key capabilities that customers want as they move workload to
 the cloud is to manage vast quantities of data at scale. And in broad brush, involves
 3 types of infrastructure: either allow me to migrate an existing database to the
 cloud, what's called hosting; allow me to deploy a new workload in the cloud and
@@ -104,7 +106,8 @@ them to personalize the experience for their users.
 At the same time, we also have traditional analytic processing technology, things like
 data warehouse-as-a-service, OLAP-as-a-service, information visualization-as-a-
 service. And so we combined the 2 into an offering that offers our customers
-enormous advantages. And examples of people doing that, for example, TheTelegraph, a large publication in the United Kingdom, just moved from another
+enormous advantages. And examples of people doing that, for example, The
+Telegraph, a large publication in the United Kingdom, just moved from another
 cloud provider to us, their entire IT estate because of the advances we offer in
 analytics and AI.
 Lastly, in the area of productivity, for many, many years, people were focused on
@@ -149,7 +152,8 @@ capability compared to other cloud providers. And most importantly, it offers
 customers extraordinary choice in how they can deploy their application workloads
 and to separate the need of choosing where to deploy it from the time when they
 write the application. This is important to customers like HSBC and Airbus. And
-frankly, is an important factor for almost every Fortune 500 CIO.Next, we want to make it easy for people to adopt the cloud. And for customers like
+frankly, is an important factor for almost every Fortune 500 CIO.
+Next, we want to make it easy for people to adopt the cloud. And for customers like
 Bloomberg and BNP Paribas, they choose us because we take away the burden for
 customers to have to operate either infrastructure, databases, application platforms,
 analytic tools. All we want them to focus on is building applications, getting
@@ -192,7 +196,8 @@ And we have seen very strong adoption in a number of industries. Not just in sma
 companies in those industries. But among the largest companies in those industries.
 And you will see us continue to focus our go-to-market effort on going after some of
 the largest customers on earth. And here are some examples, just a few examples of
-some of our leading customers.Q - Heather Anne BelliniWhat are we doing about distribution? We have increased our sales and distribution
+some of our leading customers.
+Q - Heather Anne BelliniWhat are we doing about distribution? We have increased our sales and distribution
 by almost 4x. You will see us further accelerate the growth even faster than we have
 to-date. We are focused on 15 countries, 6 industries. So we have now -- we get focus
 in how we're deploying our distribution resources. And we get critical mass. Most
@@ -231,7 +236,8 @@ Questions And Answers
 Yes. You want to -- so first off, just to make Nicole and Jim happy, they're there --
 they're getting nervous. I'm going to read the safe harbor. That's going to keep
 everybody, your lawyers happy as well. Okay. So some of the statements that
-Thomas may make today could be considered forward-looking. They involve aA - Thomas Kurian
+Thomas may make today could be considered forward-looking. They involve a
+A - Thomas Kurian
 Q - Heather Anne Bellini
 A - Thomas Kurian
 Q - Heather Anne Bellini
@@ -274,6 +280,7 @@ So you've mentioned in your slides, you talked about the 4x increase in direct s
 Is that -- did that already happen? Or is that what you're planning going forward?
 
 That's what we've already done.
+
 A - Thomas Kurian
 Q - Heather Anne Bellini
 A - Thomas Kurian
@@ -319,7 +326,8 @@ We specialize -- at the broad-brush level, within Google Cloud, there are 2 broa
 sets of products: one is the productivity suite. And the other one is the infrastructure.
 The productivity suite, many of you probably use Gmail, many of you use
 Documents, many of you use Drive. If you run into an issue, it is most likely that you
-need help with the problem, right? "Hi. my mail didn't go out. I don't know how toQ - Heather Anne Bellini
+need help with the problem, right? "Hi. my mail didn't go out. I don't know how to
+Q - Heather Anne Bellini
 A - Thomas Kurian
 Q - Heather Anne Bellini
 A - Thomas Kurianmake bold font in a slide." So that's more answering questions. It's not about
@@ -364,7 +372,8 @@ number one. Number two is we're also going to use the partners to do that. The
 partners bring a lot of capability that's required in the journey to the cloud. As a very
 simple example, I'm a customer with a data center. I've got a bunch of applications
 over here. I'd like to move them to the cloud. But once I move it, I don't want to have
-to run and manage it. Let somebody do the run and manage. Now Google is veryQ - Heather Anne Bellini
+to run and manage it. Let somebody do the run and manage. Now Google is very
+Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Thomas Kurian
 Q - Heather Anne Bellini
@@ -406,6 +415,7 @@ because (of its significant speed to) market. But building out an enterprise sal
 force, obviously, isn't a natural thing. So there must be some really good reason. I'm
 just curious when you dug into this as you were getting familiar, talk to us about what
 some of the motivators have been historically?
+
 Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Thomas Kurian
@@ -450,7 +460,8 @@ build than a sales organization. We are building a sales organization with a go-
 market function. And you'll see us continuing to grow it. With regards to the
 numbers, I think we've never disclosed those numbers except 4 to 6 quarters ago.
 It's not my goal at this event to disclose any numbers. I think Ruth and Sundar will do
-it at a future event if they choose to.Q - Heather Anne Bellini
+it at a future event if they choose to.
+Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Thomas Kurian
 Q - Heather Anne Bellini
@@ -493,7 +504,8 @@ would love to hear about your thoughts in terms of where the players are moving.
 And in order to address the needs of your customers -- there's strong differentiation
 on the infrastructure side. But would love to hear about, more broadly speaking,
 where you think, in terms of the stack, GCP can continue to add and improve in
-order to be able to address more needs on a holistic level for customers?A - Thomas Kurian
+order to be able to address more needs on a holistic level for customers?
+A - Thomas Kurian
 Q - Heather Anne Bellini
 A - Thomas Kurian
 Q - Heather Anne Bellini

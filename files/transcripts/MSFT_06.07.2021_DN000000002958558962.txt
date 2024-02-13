@@ -20,7 +20,8 @@ associate with marketing, I think, products positioning, messaging, naming. We a
 do all the pricing and licensing and sort of the business models for all of our
 products inside of marketing with very close partnership with finance. Obviously,
 things like advertising and communications, PR, analyst relations, all of those types of
-things, events, our websites. I also get to look after three different sales forces; theKirk Materne
+things, events, our websites. I also get to look after three different sales forces; the
+Kirk Materne
 Christopher C. Capossela
 Kirk Materne
 Christopher C. Caposselasales force that calls on advertisers, like myself, to compete with Google, with our
@@ -59,7 +60,8 @@ start and then we'll dive in a little bit.
 
 Yeah. So, I mean, I am hearing a decent amount of noise from some construction
 outside of my house. Sorry, again, I just sort of pulled this mic closer. Can you hear
-me okay?Kirk Materne
+me okay?
+Kirk Materne
 Christopher C. Capossela
 Kirk Materne
 Christopher C. Capossela
@@ -96,6 +98,7 @@ out the solution areas where we have differentiated technology that applies to a
 customer problems that has a large total addressable market where we're actually a
 relatively small share player, so we can grow pretty dramatically.
 Does that context make sense, Kirk?
+
 Christopher C. Capossela
 Kirk Materne
 Christopher C. Capossela
@@ -138,7 +141,8 @@ was very optimized for software to physical distribution of goods, literally lik
 software and seller-led transactions, much more of a push model, sort of a supply-
 led model and with the move to the cloud 10, 12 years ago, we've realized, obviously,
 a lot of customers talk to us about this all the time. With the move to the cloud, you
-sort of start to realize though that's sort of device-based model is really going toKirk Materneshift. It's going to become far more digital and it's going to really evolve to a user
+sort of start to realize though that's sort of device-based model is really going to
+Kirk Materneshift. It's going to become far more digital and it's going to really evolve to a user
 subscription model and a consumption-based model, both of which have more of a
 pay-as-you-go, use first and pay later, so freemium becomes really, really important.
 And most of our services, you can get started with for free and then eventually we
@@ -179,7 +183,8 @@ opposed to just the simple binary choice.
 
 Yeah. That's really helpful. I think it's interesting to see that we are having some
 activities on both ends of it, it might become more important for most software
-companies over time. I think we sale with a lot of the bigger names talking aboutChristopher C. Caposselathat. Maybe just one quick follow-up on sort of the Microsoft 365 side, because you
+companies over time. I think we sale with a lot of the bigger names talking about
+Christopher C. Caposselathat. Maybe just one quick follow-up on sort of the Microsoft 365 side, because you
 mentioned security being one of the areas that you guys are focusing on, also from a
 marketing perspective. So when it has a -- when you have a new product that
 perhaps people aren't as aware of -- with -- for Microsoft like security and some of
@@ -219,7 +224,8 @@ compliance needs that a larger company might need and then that would be an
 additional products with a higher price.
 So I think about it. We think about security specifically that way. We shouldn't sell you
 an insecure operating system and say here is Windows, it's not very secure enough,
-pay us more to secure it. We're going to have a base level of security in there. ThenKirk Materne
+pay us more to secure it. We're going to have a base level of security in there. Then
+Kirk Materne
 Christopher C. Caposselathere is always going to be another tier that you may want to buy into depending on
 your threat posture around security and compliance.
 
@@ -261,7 +267,8 @@ have and we have incredible partners that we can go-to-market with. And as those
 partners win, so does the Microsoft Cloud. And that I think is the key thing for
 investors to understand. It's still very much a horizontal play for us, but we are doing
 more to make sure our solutions and our partners' solutions meet the needs of the
-biggest industry verticals that have the biggest compute needs, shall I say.Kirk Materne
+biggest industry verticals that have the biggest compute needs, shall I say.
+Kirk Materne
 Christopher C. CaposselaI'm not sure if that gets to your core question, but do feel free to ask a follow-up.
 
 No, I think it helps and actually it kind of dovetails with another one, which would be,
@@ -302,7 +309,8 @@ really happy with the growth of GitHub over the past couple of years. The
 technology integration between GitHub and Microsoft products did really good, but
 GitHub has also maintained its own identity, which I think is really, really important
 and that's done a wonderful job as a sort of the CEO inside of Microsoft are working
-for Scott Guthrie, who runs a huge, huge part of our engineering stack.Kirk Materne
+for Scott Guthrie, who runs a huge, huge part of our engineering stack.
+Kirk Materne
 Christopher C. Capossela
 Kirk Materne
 Christopher C. Capossela
@@ -341,7 +349,8 @@ So first on gaming and consumer. Let's just talk about Xbox and Game Pass is rea
 set up to change, I think, the way people consume content and you have obviously
 acquired a number of studios to build out your own content, there is third-party
 content. Just I guess -- like, because you run marketing and pricing and the
-consumer market, they both go hand-in-hand. What is kind of the strategy withChristopher C. CaposselaGame Pass and how is it going thus far? It seems to be going pretty well, so just
+consumer market, they both go hand-in-hand. What is kind of the strategy with
+Christopher C. CaposselaGame Pass and how is it going thus far? It seems to be going pretty well, so just
 more if you could touch upon that?
 
 Yeah, thanks. Thanks. I'm a huge gamer fan, I am a huge gamer myself and I just
@@ -382,7 +391,8 @@ person. 30% more genres and they're playing 40% more games overall, including
 games that are outside of the subscription. And so for game developers, Game Pass
 is an awesome way for them to take their content and get it in front of gamers. It's
 not just, hey, the consumer wins and the publishers lose. This is a real win-win model
-and we're pretty excited about that.Kirk Materne
+and we're pretty excited about that.
+Kirk Materne
 Christopher C. Capossela
 Kirk Materne
 Christopher C. Capossela
@@ -421,7 +431,8 @@ And then, the opposite is also true, where you can start in a Microsoft, a tradi
 Microsoft product like Visual Studio and of course that's deeply integrated into
 GitHub. So there is sort of rows working in both directions, if you will. For GitHub
 users, they have very easy, intuitive, seamless access to Microsoft technology; and if
-you're using Microsoft technology, GitHub is the natural destination for your code toKirk Materne
+you're using Microsoft technology, GitHub is the natural destination for your code to
+Kirk Materne
 Christopher C. Capossela
 Kirk Materne
 Christopher C. Caposselabe able to share it. We've done a whole bunch of cool things where you can stand
@@ -461,7 +472,8 @@ make it very easy for you with Microsoft teams, because this is really where tea
 shines, it's not just for video conferencing, it's not just for persistent chat, it actually
 lets you do all of these workloads for video conferencing to persistent chat to
 telephony to being able to make IP-based phone calls to not have to have the
-telephony infrastructure that many companies use or have had traditionally.Kirk Materne
+telephony infrastructure that many companies use or have had traditionally.
+Kirk Materne
 Christopher C. CaposselaOften companies want to explore this when they are building a new facility, moving
 to a new location, it's on a rapid replace, it's said, hey, I want to take this set of
 employees that work in this field oﬃce and we want to just make sure they don't
@@ -504,7 +516,8 @@ a field service. There is a field service module that you can adopt, integrate i
 your data estate, integrate it into the tools that people use on their mobile phone, in
 many case it will be a Microsoft Teams solution. So I think you're right that this is
 much more about sort of a data plan that you're then attaching modules onto to
-solve a particular business process or business application as opposed to theKirk Materne
+solve a particular business process or business application as opposed to the
+Kirk Materne
 Christopher C. Capossela
 Kirk Maternetraditional monolithic solution and that's one of the reasons Dynamics 365 is -- grew
 45% for us last quarter year-over-year. This is a business that's on the rise, it's much

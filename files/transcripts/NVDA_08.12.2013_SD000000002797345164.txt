@@ -21,7 +21,8 @@ anymore. We have Quadro and Tesla in there. And those are both very high-margin
 businesses, 70 point plus businesses.
 And also as the PC market evolves, you're seeing the traditional low-margin business
 get weaker. And the gaming business, especially RTPC, you know the concept we
-talked about where there's a better -- a more insightful way to look at the PC marketMike McConnellis to separate specialty PCs from general-purpose PCs. And what we mean by that is
+talked about where there's a better -- a more insightful way to look at the PC market
+Mike McConnellis to separate specialty PCs from general-purpose PCs. And what we mean by that is
 a specialty PC is a device that someone buys for a very specific reason. Now, that
 reason might be gaming or it might be industrial design for Quadro or it might be
 research and simulation for Tesla. But they have a specific reason to go out and buy a
@@ -64,7 +65,8 @@ think. You know, 56 points of margin.
 
 The only thing I think about on the cost side is you've switched your model and how
 you source your wafers at TSMC from. Now more on a wafer-by basis as opposed to
-on a per-die basis. Which, when you have a new product, you eat a lot more costsChris Evenden
+on a per-die basis. Which, when you have a new product, you eat a lot more costs
+Chris Evenden
 Mike McConnell
 Chris Evenden
 Mike McConnellout of the gate early. But then you're favorably getting higher margins towards the
@@ -102,7 +104,8 @@ high versus AMD. Where do you see opportunity to take more share in that
 traditional GeForce business? And if that doesn't happen, what are the initiatives that
 you feel like will be on the peripheral that really can move the model probably the
 fastest? And to what extent X -- maybe Tegra, which is kind of obvious with growth
-prospects there? Or is this as (TAM)?Chris Evenden
+prospects there? Or is this as (TAM)?
+Chris Evenden
 Mike McConnell
 Chris Evenden
 Mike McConnell
@@ -141,6 +144,7 @@ do you believe, to graphics attach rates? Or is that something where you're not
 participating there anyhow. And it's not -- you're going to be still occupying that
 high-end. And it doesn't matter what happens? What do you think about that
 scenario?
+
 Mike McConnell
 Chris Evenden
 Mike McConnell
@@ -181,6 +185,7 @@ You can get most graphic cards for that much.
 Okay. And when you look out at the design wins in the back half of the year, are you
 seeing more SKUs kind of going towards Bay Trail than what you've seen in the past?
 Or how does that look at this point?
+
 Mike McConnell
 Chris Evenden
 Mike McConnell
@@ -216,7 +221,8 @@ Yes. That doesn't look like it's a success. Now, it's too early to say whether i
 that that failed or the whether the whole console generation has failed. But the
 numbers I've seen for market sizes suggest that PC gaming in 2015 will be a $20
 billion business. And both PlayStations together will be half that, ($10 billion); and
-both Xboxes together will be half that again, only ($5 billion).Mike McConnell
+both Xboxes together will be half that again, only ($5 billion).
+Mike McConnell
 Chris EvendenThe thing about PC gaming is that so little of the revenue goes through package
 software sales. So it's very easy to walk into Game Stop and think, well PC gaming is
 dead. It's something like 80% of the software revenues now are directly online,
@@ -258,7 +264,8 @@ There's no doubt about it. There's a lot of reasons for that, primarily there wa
 failure of this one ecosystem Jensen alluded to on the call.
 And Tegra 4 was late. Which we made a diﬃcult decision. But a conscious decision,
 to delay Tegra 4 so we could bring in Tegra 5 and Tegra 4i. And those products are
-on track and on schedule. We demonstrated Logan, which probably will becomeMike McConnell
+on track and on schedule. We demonstrated Logan, which probably will become
+Mike McConnell
 Chris Evenden
 Mike McConnell
 Chris Evenden
@@ -296,7 +303,8 @@ carriers that are coming up with more reasonable pricing plans where you don't
 have to pay twice. Or pay extra for every extra device.
 
 Any other questions? Well we need to obviously discuss the licensing deals, the big
-change in the Company's strategy. And so maybe you can give us, if there is anyChris Evenden
+change in the Company's strategy. And so maybe you can give us, if there is any
+Chris Evenden
 Mike McConnell
 Chris Evendenupdate on when you think the first licensees will be announced. And when we could
 start to see royalties and what type of customers you're going after. All that fun stuff.
@@ -338,7 +346,8 @@ worrying that you've infringed somebody else's patent rights. And so what you do
 you enter into a cross-licensing deal. And the reason Intel ends up paying us -- we
 actually pay them as well. But a lot less. It's about (66) one direction, (6) in the other
 direction per quarter. The reason they end up paying us is because they have a lot
-more revenue at risk of patent litigation than we do. So if there's a stop-ship onMike McConnell
+more revenue at risk of patent litigation than we do. So if there's a stop-ship on
+Mike McConnell
 Chris Evenden
 Mike McConnell
 Chris EvendenIntel's products, that could cost them $55 billion a year, as opposed to the $4 billion

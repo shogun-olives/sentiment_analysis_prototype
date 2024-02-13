@@ -15,7 +15,8 @@ are advised to read our reports filed with the SEC for information related to ri
 uncertainties facing our business.
 
 Thank you, Simona. Thanks.
-Questions And AnswersA - Timothy Michael Arcuri
+Questions And Answers
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 So first I wanted to ask some earnings follow-ups, Colette. I guess the first one I
 wanted to zero in on was gaming.
@@ -55,7 +56,8 @@ overall wafers. But we also have a global surge of compute worldwide. So what th
 has driven is challenges in terms of substrates as well as different components. So
 again we feel confident in terms of our guidance for the quarter. We will continue to
 work on supply through the quarter during this great time of the demand that we
-see right now for our gaming GPUs.A - Timothy Michael Arcuri
+see right now for our gaming GPUs.
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 A - Timothy Michael Arcuri
 A - Colette M. Kress
@@ -97,7 +99,8 @@ as we go forward.
 But what we see going into Q3 to Q4, we have also announced that we do expect to
 have an increase in gaming revenue between Q3 and Q4. So gaming will be a
 meaningful percentage of our overall revenue as a whole. So we'll continue to look
-at what we are overall driving into the market with our RTX cards. But we have givenA - Timothy Michael Arcuri
+at what we are overall driving into the market with our RTX cards. But we have given
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 A - Timothy Michael Arcuri
 A - Colette M. Kressoverall guidance for our gross margin. We'll continue to look at mix to see how it
@@ -137,6 +140,7 @@ instances? So you get sort of a rapid shift over to Ampere for hyperscalers, but
 installed base sort of holds you back a little bit or make your growth for Ampere a
 little more ratable than it was for Volta. Is that a fair sort of way to think about this
 cycle versus the Volta cycle?
+
 A - Timothy Michael Arcuri
 A - Colette M. KressSo when you think about our A100 platform, it is a monumental leap in terms of
 performance over the prior overall architecture, an ability to really tackle some of the
@@ -178,7 +182,8 @@ with ASICs, okay? We understand that miners are interested in using GPUs for
 mining other currencies, such as ethereum. Recently, we had heard rumors from our
 channel partners about the increasing interest. There are a lot of factors that
 inﬂuence mining interest. So we're looking into this with our overall channel
-partners.A - Timothy Michael Arcuri
+partners.
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 A - Timothy Michael Arcuri
 A - Colette M. KressI want to make sure that we understand, we've spent some quality time in terms of
@@ -219,7 +224,8 @@ with storage, enabling the most powerful and scalable data center solutions that
 out there. This includes areas such as our NVLink or NVSwitch, our Magnum IO and
 InfiniBand. This full stack of incorporating silicon, systems and software to support
 this growing diversity in applications and workloads is very key to our overall
-strategic story.A - Timothy Michael Arcuri
+strategic story.
+A - Timothy Michael Arcuri
 A - Colette M. KressNow we offer this in many different types of computing platforms. We offer right now
 HGX, DGX, DGX on SuperPODs as well as completing inferencing cards as well as
 also GPU boards. So we support each and every overall CPU that's overall in the
@@ -261,7 +267,8 @@ such an important part of overall inferencing workloads right now. Our TensoRT i
 now in its seventh generation and already has more than 1 million, probably 1.3
 million downloads at this time.
 So when we study the installed base of the GPU infrastructure in the cloud, what we
-can see across the seven largest public clouds, that we are seeing inference capacityA - Timothy Michael Arcuri
+can see across the seven largest public clouds, that we are seeing inference capacity
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 A - Timothy Michael Arcuri
 A - Colette M. Kressexceeding overall CPU capacity. So a great outcome in such a short amount of
@@ -304,7 +311,8 @@ So we look at it as an opportunity to expand our TAM, probably about $10 billion
 the overall DPU and inclusion in terms of in our data center offerings.
 VMware's decision, for example, to port its ESXi to our DPU is a major catalyst for
 adoption as well. This is a key area for the data centers that are working on data
-security, data encryption as it gets ready for that overall compute cycle. The DPU isA - Timothy Michael Arcuri
+security, data encryption as it gets ready for that overall compute cycle. The DPU is
+A - Timothy Michael Arcuri
 A - Colette M. Kressjust well positioned to attract that need. So the interest is high. We continue to be
 working with major overall hyperscales and sampling of all major OEMs. This will
 likely be a bigger play in the overall years to come.
@@ -346,7 +354,8 @@ of over 15 million. So that's a great universe jointly thinking about the comput
 platforms going forward.
 Now from a financial perspective, of course we're expecting accretiveness both on
 our non-GAAP gross margins, we're expecting accretiveness of our non-GAAP EPS
-as well as on closing. This is a great overall software licensing asset to add to ourA - Timothy Michael Arcuri
+as well as on closing. This is a great overall software licensing asset to add to our
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 A - Timothy Michael Arcuri
 A - Colette M. Kresscontinued complex revenue models that we have today. So we couldn't be more
@@ -386,6 +395,7 @@ And I think a major step in that direction is your deal with Mercedes. It seems 
 back-end revenue opportunity in that deal is bigger even than the initial hardware
 sale. Can you sort of talk about that and how the Mercedes deal sort of catapults you
 and really cements this hardware-software integration story?
+
 A - Timothy Michael Arcuri
 A - Colette M. KressYes. A really great opportunity for us. Mercedes has chosen NVIDIA for its
 autonomous vehicles. Mercedes will launch a software-defined intelligent vehicles,
@@ -428,7 +438,8 @@ focus on finding medical solutions faster. So first, let me step back and clarif
 Clara.
 Clara is our health care application framework for AI-powered images, genomics and
 other development and deployment of smart centers. Clara also includes a full stack
-of GPU-accelerated libraries, essentially SDKs and reference applications that theA - Timothy Michael Arcuri
+of GPU-accelerated libraries, essentially SDKs and reference applications that the
+A - Timothy Michael Arcuri
 A - Colette M. Kressdevelopers in the industry use. We celebrated our leadership with MLPerf for
 medical imaging and inferencing. We're also helping radiologists label data in less
 time with AI. We are expanding Clara to digital pathology.
@@ -470,7 +481,8 @@ development, both the system software, the SDKs and other key libraries and
 components to help each and every industry focus on bringing AI to their work.
 You've seen us talk about so many great customers over this period of time from
 retail, our discussion that we just had on health care. You'll see manufacturing. You
-will see many different areas focus on AI for their workloads.A - Timothy Michael Arcuri
+will see many different areas focus on AI for their workloads.
+A - Timothy Michael Arcuri
 A - Colette M. Kress
 A - Timothy Michael ArcuriIn this last Q3, we are seeing a great representative, nearly 50% of our revenue is
 focused on enterprises and industries. This is a top area for enterprises even through

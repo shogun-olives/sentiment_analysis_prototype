@@ -4,7 +4,8 @@ Theater. As you can tell, today's going to be a very different kind of event. We
 some really exciting things to share with you. And we're going to have some fun
 along the way. So let's get going.
 For decades, Apple has been creating world-class hardware and world-class
-software. We've also been creating a growing collection of world-class services. Andthat is what today is all about.
+software. We've also been creating a growing collection of world-class services. And
+that is what today is all about.
 So what is a service? Well if you look it up in the dictionary, you'll see that a service is
 defined as the action of helping or doing work for someone. At Apple, our services
 are actively working to help our customers get the most out of their products and to
@@ -43,7 +44,8 @@ When we created Apple News over three years ago, we wanted to provide the best
 way to read the news on your iPhone and iPad. And we felt we can make a difference
 in the way that news is experienced and understood, a place where the news would
 come from trusted sources and be curated by experts. Now this is a very different
-approach than others have taken. As Slate pointed out, "By handpicking itsRoger Rosnerpublishers and stories, Apple News prioritizes a news source's reputation and the
+approach than others have taken. As Slate pointed out, "By handpicking its
+Roger Rosnerpublishers and stories, Apple News prioritizes a news source's reputation and the
 value of its content over the propensity of its headlines to garner clicks and likes."
 With news being so important to us, it's critical that it be trusted. With over 5 billion
 articles read each month, Apple News is now the #1 news app. Unbelievable. In fact,
@@ -81,7 +83,8 @@ great lifestyle magazines. We've got magazines for travelers, magazines for food
 magazines for gearheads. We've got magazines for just about every passion under
 the sun. And Apple News Plus is the only place where you will find all these
 magazines in a single package. To show it to you, I'd like to invite up Wyatt Mitchell,
-Apple's Director of Design for Applications.Wyatt Mitchell
+Apple's Director of Design for Applications.
+Wyatt Mitchell
 Thank you, Roger.
 Let's take a look at the new Apple News Plus. It all starts with the same great Apple
 News free experience. That means it's got top stories, it's got trending stories. And
@@ -121,7 +124,8 @@ a few articles from the issue, which makes it really easy to browse. Now I'm goi
 tap on this cover story because I'm a big fan of her show, Insecure. And here, we
 enter another beautifully designed article.
 Design plays such a big part of magazines. We really wanted to give the titles their
-ability to express their own unique look and feel through their design, typographyRoger Rosnerand photography. And this is really a great example of it. This is Essence designed
+ability to express their own unique look and feel through their design, typography
+Roger Rosnerand photography. And this is really a great example of it. This is Essence designed
 for the phone. So it looks great here on the phone. Let's take a look at it on the iPad.
 I'm going to open up the same article on the iPad. And as you can see, the article
 looks fantastic here, too. And nicely adapted to the larger size. And just like on the
@@ -157,7 +161,8 @@ advertisers to track you. So what you read about at Apple News will not follow y
 across the web.
 So Apple News Plus, over 300 great magazines, The Wall Street Journal, the L.A.
 Times, those great premium digital subscriptions, there's literally never been an offer
-like this before. If you were to subscribe to all of these individually, it would cost youTimothy D. Cookover $8,000 per year. But with Apple News Plus, you pay $9.99 per month. And that's
+like this before. If you were to subscribe to all of these individually, it would cost you
+Timothy D. Cookover $8,000 per year. But with Apple News Plus, you pay $9.99 per month. And that's
 not just for you. We thought this was so important, we decided to make this available
 to your entire family with Family Sharing at no extra charge. Each person in your
 family gets full access to that incredible catalog on their own devices with their own
@@ -196,7 +201,8 @@ that we're bringing Apple Pay to transit in major cities in the U.S. starting ri
 on the West Coast with Portland and rolling out in Chicago and New York City later
 this year.
 So retail, transit apps, on the web, Apple Pay cash, there's so many ways to use
-Apple Pay with its convenience, security and privacy. And it's become the preferredJennifer Baileyway to pay for almost anything. But we want to take the Apple Pay experience even
+Apple Pay with its convenience, security and privacy. And it's become the preferred
+Jennifer Baileyway to pay for almost anything. But we want to take the Apple Pay experience even
 further. And we saw an opportunity to transform another fundamental method of
 payment. And that's the credit card.
 With the success and momentum of Apple Pay, we have learned a lot about credit
@@ -236,7 +242,8 @@ learning and Apple Maps to transform this mess into names and locations that you
 recognize. Apple Card also automatically organizes and totals your purchases so you
 can see how much you've spent and exactly where you've spent it with Apple Maps.
 And you can keep track of your spending by categories like food and drink,
-shopping, entertainment and more where each category is represented by its owncolor, like orange for food and drink. And Apple Card also shows you how your
+shopping, entertainment and more where each category is represented by its own
+color, like orange for food and drink. And Apple Card also shows you how your
 spending is trending week over week or month over month so you can decide in
 real-time if you need to or want to change your spending.
 Next up, let's talk about rewards. Most rewards programs use points. With points,
@@ -276,7 +283,8 @@ penalty rate, like most banks do. Our goal is to make it easier for you to pay d
 your balance, not harder.
 To create a credit card, you need a bank. And to create a credit card as innovative as
 Apple Card, we needed a bank that was willing to do things that had never been
-done in the industry before. So we partnered with Goldman Sachs as the issuingTimothy D. Cookbank of Apple Card. As a newcomer to consumer financial services, Goldman was up
+done in the industry before. So we partnered with Goldman Sachs as the issuing
+Timothy D. Cookbank of Apple Card. As a newcomer to consumer financial services, Goldman was up
 for the challenge of doing something more bold and innovative. We're also excited
 to be working with Mastercard who has been a fantastic partner on Apple Pay from
 the start. With Mastercard's global payment network, Apple Card will be accepted all
@@ -313,7 +321,8 @@ love it. Thank you. Back to you, Tim.
 
 Thanks, Jennifer. Great. With our hardware, software and services, we think that
 Apple is uniquely positioned to make the most significant change in the credit card
-experience in 50 years. And we can't wait to get started.Ann ThaiNow let's turn our attention to the App Store. Apps have reshaped the way that we
+experience in 50 years. And we can't wait to get started.
+Ann ThaiNow let's turn our attention to the App Store. Apps have reshaped the way that we
 work, connect, learn and play. From day one, the App Store has been a safe and
 trusted place for users to discover and download apps. We review every single app
 before it goes live. We also have a team of expert editors creating rich editorial
@@ -351,7 +360,8 @@ that redefine games. And we're not just curating them, we're backing their
 development. And our team is working closely with developers to bring these
 games to life. We are really excited about this and so are the creators we're working
 with. Let's hear from some of them now.
-(presentation)Timothy D. CookThese developers are some of the greatest storytellers and artists in the world. From
+(presentation)
+Timothy D. CookThese developers are some of the greatest storytellers and artists in the world. From
 immersive AR to groundbreaking multiplayer, they are creating games that have
 never been possible before. These games are insanely fun and will appeal to the kid
 in all of us. And with Apple Arcade, you'll get to play all of these games. With a
@@ -386,7 +396,8 @@ of the games coming to Apple Arcade.
 Apple Arcade will be available this fall in over 150 countries and regions around the
 world. Pricing and more details to come. And that's a sneak peek of Apple Arcade.
 
-Thank you, Ann. I can't wait until all of us can play.Peter SternNow let's talk about TV. For over a decade, we've been bringing you innovative TV
+Thank you, Ann. I can't wait until all of us can play.
+Peter SternNow let's talk about TV. For over a decade, we've been bringing you innovative TV
 experiences, from the first TV shows that you could download right to your iPod to
 the best-in-class cinematic picture and sound quality of today's Apple TV 4K. We've
 done it because we love TV. TV is more than just entertainment. It's cultural. TV at its
@@ -426,7 +437,8 @@ Video, Hulu or ESPN+; movies from iTunes; sports, news and network TV from cable
 or satellite; or shows from HBO, Showtime and Starz with the new Apple TV
 Channels, it's all together in one place: the Apple TV app. And because there is so
 much to watch all in this one place, we've redesigned the Apple TV app to make it
-even simpler to find what you love.Cindy LinLet's dig in.
+even simpler to find what you love.
+Cindy LinLet's dig in.
 Your home in the Apple TV app is watch now. Most of the time we watch TV, we want
 to watch our show or tonight's game or maybe finish the movie we started last night.
 That's where the up next row comes in. All of these things you watch, no matter
@@ -465,7 +477,8 @@ and I've been hearing so much about this show. I'm definitely adding this to my 
 next to watch later.
 One of my favorite features is this new way to browse TV. Swiping is just like channel
 surfing, except every show here is what I actually want to watch. And trailers play
-right here.Peter Stern(presentation)
+right here.
+Peter Stern(presentation)
 I love Jason Momoa in Game of Thrones and I can't wait to watch Aquaman. There's
 already so much here. And it's so easy to add even more with Apple TV Channels.
 Everybody's been talking about the new season of Billions on Showtime. And I need
@@ -503,7 +516,8 @@ app is available in 10 countries. But we're bringing the all new experience to o
 customers around the world in over 100 countries. The Apple TV app delivers on all
 these principles, including our commitment that we won't share your personal
 information with anyone. So that's the new Apple TV app. Your apps, movies, cable,
-the all-new Apple TV channels, all in one place, on all your screens.Timothy D. Cook
+the all-new Apple TV channels, all in one place, on all your screens.
+Timothy D. Cook
 Zach Van Amburg
 Jamie Erlicht
 Steven SpielbergBack to you, Tim.
@@ -541,7 +555,8 @@ storytellers. Have a look.
 
 Thank you. Well I am so grateful to be here today. This is my first time at Apple, the
 place where imagination and technology join forces to change the world through
-sight and sound and touch.Jennifer Aniston
+sight and sound and touch.
+Jennifer Aniston
 Reese W itherspoon
 Jennifer Aniston
 Steve Carell
@@ -581,7 +596,8 @@ Hello. Am I late?
 
 Steve Carell. Steve? Get over here.
 
-Hi, Steve.Steve Carell
+Hi, Steve.
+Steve Carell
 Reese W itherspoon
 Jennifer Aniston
 Steve Carell
@@ -617,7 +633,8 @@ He's a great listener. He's also relatable and extremely handsome. His colleague
 love him and America loves him. He also...
 
 He's surrounded by an exciting ensemble of other characters, all from the very
-brilliant mind of Kerry Ehrin, our writer, producer.Steve Carell
+brilliant mind of Kerry Ehrin, our writer, producer.
+Steve Carell
 Jennifer Aniston
 Steve Carell
 Jennifer Aniston
@@ -653,7 +670,8 @@ open your eyes. And let me spoil this a little bit, you have no idea what that w
 like. Neither do I. Being blind isn't something that can get turned on and off. It's a
 part of who you are, it's a part of your soul. And now while you're at it, imagine a
 world evolved, designed and built to be experienced without sight. We did and it
-yielded the world. The world of Sea.Alfre Woodard
+yielded the world. The world of Sea.
+Alfre Woodard
 Kumail Nanjiani
 From the unfettered imagination of Steven Knight, Sea takes place in a world in
 which the earth was devastated by a virus that left only a few million survivors. And
@@ -696,7 +714,8 @@ Emily Gordon, Lee Eisenberg, Alan Yang and Epic Magazine wanted to make a show
 that did just that, because ultimately, we're all looking for the same thing. Food,
 home, meaning, love. Like the emotional story of a young Indian boy living in Utah,
 whose parents achieved the American dream of running their own motel, until they
-were suddenly deported. 12-year-old Kunal wasn't going to let his parents' dreamUnidentified Participantdie. So this young boy secretly ran the motel for the next 10 years on his own, while
+were suddenly deported. 12-year-old Kunal wasn't going to let his parents' dream
+Unidentified Participantdie. So this young boy secretly ran the motel for the next 10 years on his own, while
 simultaneously plotting his quest to get his parents back to the U.S. Okay, true story.
 He competed in the National Spelling Bee so that he could meet First Lady Laura
 Bush and ask for help. And he came in 13th and he actually got to meet her. He did. I
@@ -730,7 +749,8 @@ That's what I do, Big Bird. I'm a helpster, a monster who loves to help. Hi. I'm
 you're here because I wanted to tell you and everyone here some very special news.
 Okay, let's hear it.
 Yes. Well the peeps at Sesame workshop and Apple have teamed up to make an
-incredible new preschool show starring me. It's called Helpsters. Yes. see -- oh, thankJ.J. Abramsyou. Oh, gosh. I've never had a live stream clap for me before. So helping is my
+incredible new preschool show starring me. It's called Helpsters. Yes. see -- oh, thank
+J.J. Abramsyou. Oh, gosh. I've never had a live stream clap for me before. So helping is my
 favorite thing to do. Yes, my Helpster friends and I just love to help anyone with any
 problem no matter how large or small, from making instruments for a band to
 teaching a friend how to ﬂy their first kite. And you know how we do it?
@@ -756,6 +776,7 @@ I think so. Hi. do you want to come with me?
 Of course. Let's go.
 Okay. Bye-bye, everybody.
 Bye, everybody.
+
 Sara Bareilles
 J.J. Abrams
 Sara Bareilles
@@ -793,7 +814,8 @@ Anyone who has ever given everything they have to go after a dream will feel lik
 show was written for them. And how lucky for the series that Sara is not just a creator
 and producer but also a composer.
 
-The theme song says it all.Jamie Erlicht
+The theme song says it all.
+Jamie Erlicht
 Zach Van Amburg
 Jamie Erlicht
 Zach Van Amburg
@@ -829,7 +851,8 @@ Thanks, everybody.
 
 Love it. Thank you, Zach and Jamie. Apple TV Plus looks incredible. And we think that
 it will encourage new ways of looking at the world. This is just a sneak peek, the
-beginning of something very exciting. The opportunity to work with all of theseOprah W infreyexceptional artists is truly inspiring. Each will bring their own unique perspective to
+beginning of something very exciting. The opportunity to work with all of these
+Oprah W infreyexceptional artists is truly inspiring. Each will bring their own unique perspective to
 the stories they tell.
 Now we have one more remarkable storyteller to share with you this morning, one
 whose voice illustrates how powerful stories can change lives and change the world.
@@ -869,7 +892,8 @@ than an extraordinary read is being able to share that experience with others. A
 we're going to do just that by building the biggest, the most vibrant, the most
 stimulating book club on the planet. It as a club -- listen to this. Imagine where Apple
 stores stream a conversation with the author and me live across all devices, across all
-borders, uniting people through stories that remind us that no matter who you are orTimothy D. Cook
+borders, uniting people through stories that remind us that no matter who you are or
+Timothy D. Cook
 Oprah W infrey
 Timothy D. Cookwhere you're from, every man, woman and child looks up in awe at the same sky. So I
 want to literally convene a meeting of the minds, connecting us through books.

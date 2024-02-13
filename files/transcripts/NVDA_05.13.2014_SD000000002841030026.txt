@@ -17,7 +17,8 @@ and made them more programmable we leveraged it again to go into compute. So
 this is using the GPU for the math, not for graphics at all. That's a business we called
 Tesla.
 We are now actually leveraging the technology to provide that GPU power remotely,
-that's a business we call GRID. And finally we are using the same GPU technologyBetsy Van Hees
+that's a business we call GRID. And finally we are using the same GPU technology
+Betsy Van Hees
 Chris Evendenintegrated into an SOC for mobile computing applications. And that is Tegra and we
 have those markets in mobile and automotive as well.
 So where we are now, we are a $4 point something billion company. About 60% of
@@ -52,7 +53,8 @@ A lot of new games came out in the fall. And I think perversely the fact that co
 now for the first time in their history are essentially PCs, architecturally the new
 consoles are just PCs, what that means is it is much easier for the game developers
 to port their AAA console content to PCs as well. So I think we will see a continued
-strong stream of content for the PC platform.A - Betsy Van Hees
+strong stream of content for the PC platform.
+A - Betsy Van Hees
 A - Chris EvendenAnd China there are some interesting developments. China has long been our
 biggest gaming market but they are -- EA's pieces tended to be lower there but now
 we are seeing that decline climb. Games like Blade & Soul, which is a high
@@ -86,7 +88,8 @@ impossible to charge for software. So you find other ways of monetizing your
 content. And you see innovation in terms of subscriptions in terms of free-to-play, in-
 game transactions, micro-transactions, downloadable content, all of these
 innovations generate revenue for the software developer without actually requiring a
-$60 upfront fee.A - Betsy Van Hees
+$60 upfront fee.
+A - Betsy Van Hees
 A - Chris EvendenIn fact, the analysis, I think it was DFC did the analysis and it suggests that something
 like 80% of PC gaming software revenues are now -- let me say I'll say it the other
 way around -- about 20% of PC game software revenues are shrink-wrapped
@@ -122,6 +125,7 @@ premium offerings and so that's good for us.
 
 So the PC gaming market is not in the decline and hasn't been in a decline in the last
 decade since you have been in the industry?
+
 A - Betsy Van Hees
 A - Chris EvendenThe strongest piece of evidence I can give you to demonstrate that the PC market is
 not in decline is just look at our revenue. It's written there. (multiple speakers)
@@ -158,7 +162,8 @@ healthy. I think the units will be down year on year but the ASPs will be up and
 revenues will be up.
 And to your point, the profit margins will be up as well because that's a much richer
 mix for us as well. The ASPs are significantly lower on OEM business because it's a
-cost-driven sale whereas the gaming sale, if you like, is a value-driven sale. And sinceA - Betsy Van Hees
+cost-driven sale whereas the gaming sale, if you like, is a value-driven sale. And since
+A - Betsy Van Hees
 A - Chris Evenden
 A - Betsy Van Hees
 A - Chris Evendenwe are providing something that someone specifically wants and so the ASPs are
@@ -195,7 +200,8 @@ So the question is when do those start converting to production and what is the
 conversion rate and what is the size of a typical deal. And that is impossible for me to
 characterize right now because it is still early days.
 We fully supported Citrix as of December of last year. So we've announced that we
-are fully supporting VMware ESX with the next version of that but VMware hasn't saidA - Betsy Van Hees
+are fully supporting VMware ESX with the next version of that but VMware hasn't said
+A - Betsy Van Hees
 A - Chris Evendenexactly when that is coming out but it's a few months away.
 Then there's a delay before we get full production implementation. So by the end of
 this year I would think that we will have some data that we can use to characterize
@@ -231,7 +237,8 @@ So we removed those obstacles.
 So the ecosystem, if you like, around Citrix and VMware is very very excited about
 that. And it's a whole new market for us and the enterprise desktop has never been a
 place we have played and this enables us to get into millions of seats in front of
-millions of users.Q - Unidentified Participant
+millions of users.
+Q - Unidentified Participant
 A - Chris Evenden
 A - Betsy Van Hees
 A - Chris EvendenSo it's a wonderful opportunity and it is something where we are leveraging our
@@ -270,7 +277,8 @@ solution, we have better software compatibility, we have better testing, we have
 better performance, we have better relationships with -- not just with HP and Dell,
 who sell the majority of the cards. But also with the customers as well.
 And the strategy of cutting prices to win business doesn't work in workstation
-because these people that our using your high-end workstations, they are the onesA - Betsy Van Hees
+because these people that our using your high-end workstations, they are the ones
+A - Betsy Van Hees
 A - Chris Evendenwith the sharp end at generating wealth for the company. You don't skimp on what
 you provide them. They are sitting on a $10,000 workstation, their salary is probably
 at $200,000, let's say, their software is another $20,000 to $100,000 depending on
@@ -308,6 +316,7 @@ we could break down the markets a little bit more in depth in terms of where you
 guys are refocusing your energies versus where you were a year ago especially after
 GTC and the Analyst Day where Jen-Hsun talked about the smartphone market and
 not chasing the mainstream.
+
 That's right. So with Tegra again we are leveraging our core IP, which is the GPU and
 we are integrating it with the CPU and all the other components that you need to
 build an SOC, a multimedia computer on a chip. And so the vision there five or six
@@ -343,7 +352,8 @@ a large opportunity for us. So that is a market we can go into there with SHIELD
 the software work that we're doing that we can build that ecosystem.
 Then of course automotive is the one that right now is the easiest to point to as an
 unqualified success. That is growing very rapidly year on year. It's a very stable
-business.A - Betsy Van Hees
+business.
+A - Betsy Van Hees
 A - Chris EvendenWe are right across the models in the Volkswagen Audi Group, we are top to bottom
 in BMW. We have one other major manufacturer that hasn't announced it and
 obviously we are working hard on others as well.
@@ -379,6 +389,7 @@ even as the number of car opportunities is growing as well.
 
 So the $2 billion, is that for the high-end, or is that moving into the midrange car as
 well?
+
 A - Betsy Van Hees
 A - Chris EvendenSo any Europeans in the audience would know, Scotia is a manufacture, which is part
 of the Volkswagen Audi Group. But we are in Scotia and that is most definitely a
@@ -415,7 +426,8 @@ significant differentiator for us, the software stack.
 I haven't talked about this so far today but we actually have more software engineers
 that hardware engineers. Although we are classified as a semiconductor company.
 And if you did it on the basis of the engineers we have you would ask reclassifies us
-a software company that makes chips as well.A - Betsy Van Hees
+a software company that makes chips as well.
+A - Betsy Van Hees
 A - Chris EvendenAnd that's a huge -- if you think about how what the difference is between our
 product offerings, the difference between GeForce, Quadro and Tesla is just
 software, it's the same chip. And to some extent that is true of our offerings within

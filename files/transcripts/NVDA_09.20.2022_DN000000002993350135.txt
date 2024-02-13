@@ -12,7 +12,8 @@ financial results and business, please refer to our most recent Forms 10-K and 1
 and the reports that we may file on Form 8-K with the Securities and Exchange
 Commission. All our statements are made as of today, based on information
 currently available to us. Except as required by law, we assume no obligation to
-update any such statements.A - Simona Jankowski
+update any such statements.
+A - Simona Jankowski
 Q - Toshiya Hari
 A - Simona Jankowski
 Q - Toshiya Hari
@@ -53,7 +54,8 @@ The second component has to do with the Omniverse applications that are built on
 top of it. And there are applications that span the entire range of design, build and
 operate inside a company. So when you're designing your car or designing your
 factory or designing your product all the way to manufacturing it to operating it,
-Omniverse will be involved. I believe that Omniverse will be one of the firstA - Simona Jankowski
+Omniverse will be involved. I believe that Omniverse will be one of the first
+A - Simona Jankowski
 Q - Timothy Arcuri
 A - Simona Jankowski
 A - Jensen Huang
@@ -94,6 +96,7 @@ Thanks a lot. Can you are hear me?
 Yes.
 
 Yes, Tim.
+
 A - Colette Kress
 A - Jensen HuangPerfect. Awesome. So Jensen, I think a big theme here are really these new
 infrastructure as a service offerings with the BioNeMo and the Omniverse Cloud.
@@ -137,7 +140,8 @@ question with the most important AI model of the decade. And if not the most
 important AI applications of the decade. And so that's for internal consumption. For
 external consumption in the public cloud, NVIDIA is a partner. And if you will, maybe
 even an extended sales and marketing force of all the CSPs because we -- through
-our ecosystem, through our evangelism of the platform and through the softwareA - Simona Jankowski
+our ecosystem, through our evangelism of the platform and through the software
+A - Simona Jankowski
 Q - W illiam Stein
 A - Jensen Huangdevelopers and all the startups to the 12,000, 13,000 startups that are work -- that are
 built on NVIDIA. And all of these companies that are using NVIDIA's accelerated
@@ -181,7 +185,8 @@ other OEMs that we might have missed. Thank you.
 
 Yeah. Thanks a lot Will. I'll roll backwards. Mercedes-Benz ships the first car in 2025,
 late '25. And we also announced that JLR, all of the brands of JLR in their entire ﬂeet
-of all the brands are going to also be powered by NVIDIA's full stack and that isA - Simona Jankowski
+of all the brands are going to also be powered by NVIDIA's full stack and that is
+A - Simona Jankowski
 Q - Aaron Rakers
 A - Jensen Huang
 Q - Aaron Rakersshortly after 2025. And so we're pushing forward in both of those. We also have Orin
@@ -222,7 +227,8 @@ Yes, Aaron, nice to hear.
 Thank you. Thanks for doing this call. I want to go down now that you've talked
 about today Hopper being in full production which accounts like, I guess, maybe first
 question on that is just to confirm that the pace of the Hopper ran [ph] it is now
-largely as anticipated, given some of the questions around the China exportA - Jensen Huangsituation. But then the second question to that is that, when we think about the
+largely as anticipated, given some of the questions around the China export
+A - Jensen Huangsituation. But then the second question to that is that, when we think about the
 Hopper product cycle and you think about the breadth of the platform strategy that
 NVIDIA is built out, how can we think about the pricing strategy of Hopper relative to
 Ampere? And the opportunity they just continue to take a bigger piece of that data
@@ -267,7 +273,8 @@ and the breakthrough in predicting structure of proteins and structure of chemis
 and to be able to understand the language of biology and chemistry. But is has
 turbocharged drug discovery segments and therapeutic segments. And so you're
 pricing a lot of start-ups go in there and then remains really, really vibrant. And so
-anyways Hopper is going to be revolutionary for all of these applications.A - Simona Jankowski
+anyways Hopper is going to be revolutionary for all of these applications.
+A - Simona Jankowski
 Q - C.J. Muse
 A - Jensen Huang
 Our next question will come from C.J. Muse with Evercore. Please go ahead.
@@ -310,7 +317,8 @@ to see something like Razor-X [ph] with no oﬄine rendering and everything is a
 baking that most video games do today and to be able to do that in real-time is
 really quite just unbelievable. And so I think the Ada is a giant quantum leap forward
 and it was -- it's a bigger leap, if you look at all the performance, the power, the
-eﬃciency, every aspect of it. It's a bigger leap from Ampere, then Ampere was fromA - Simona Jankowski
+eﬃciency, every aspect of it. It's a bigger leap from Ampere, then Ampere was from
+A - Simona Jankowski
 Q - Vivek Arya
 A - Colette Kress
 A - Jensen HuangTuring. And so that kind of tells you something, the third generation get a lot of
@@ -352,7 +360,8 @@ of data you could just imagine is enormous and there are many recommender
 systems, there is just not just one recommender system, but almost everything that
 pops of an ad or puts up a product or puts a price up or ranks a movie or book in
 front of you, or a blog or a short form video or long form video, just about everything
-that is put in front of you came out of the recommender system.A - Simona Jankowski
+that is put in front of you came out of the recommender system.
+A - Simona Jankowski
 Q - Stacy Rasgon
 A - Simona Jankowski
 A - Jensen Huang
@@ -395,7 +404,8 @@ Great. Thank you. So I wanted to ask about how you view supply and availability 
 Ada at launch, given what happened during the Ampere lunch? And more
 importantly, how are you gauging demand for Ada in an environment like this, where
 obviously the channels ﬂushing out people were worried about GPUs formerly used
-in crypto mining getting dumped on the market. I mean, just given all the noise, howA - Jensen Huang
+in crypto mining getting dumped on the market. I mean, just given all the noise, how
+A - Jensen Huang
 A - Simona Jankowski
 Q - Matthew Ramsay
 A - Jensen Huang
@@ -437,7 +447,8 @@ opportunities for you in software for Chinese customers where you can host the
 compute and the data yourselves. Do you fear that there might be restrictions on
 your software business in China? I honestly don't have a clue as to how to do sort of
 a risk award analysis of that for your software businesses. So, any thoughts there
-would be really appreciated. Thank you.A - Jensen Huang 
+would be really appreciated. Thank you.
+A - Jensen Huang 
 Sure. The restrictions are very specific. Restrictions are very specific. And it's a -- it
 requires license for a specific level of compute, combined with a specific level of
 inter-chip connection bandwidth. And within the restrictions we will offer our
@@ -481,7 +492,8 @@ with quantum computing. All of these things expand our market. And so that's the
 second reason why I tell you is, because I highlight these SDKs to help you
 understand how accelerated computing is going into new markets. Markets that are
 well beyond deep learning maybe or enabled by deep learning in the case of
-graphs. And so those libraries I spoke about to highlight its importance, new useOperator
+graphs. And so those libraries I spoke about to highlight its importance, new use
+Operator
 Q - Mark Lipacis
 A - Jensen Huangcase, new market or new breakthroughs. And it's -- so in a lot of ways the best way to
 look at NVIDIA's business growth is to look at our SDKs. And the reason for that is
@@ -523,7 +535,8 @@ Your network, your storage, your cybersecurity is really part of your computing
 fabric. We have no choice. And so it's not about building the chip. None of my
 customers buy the chip. They need -- ultimately they might place a PO on a whole
 bunch of chips, but what they're really buying is the NVIDIA computing stack. And
-which explains the reason why we're so broadly used in so many different cloudsA - Simona Jankowski
+which explains the reason why we're so broadly used in so many different clouds
+A - Simona Jankowski
 Q - Harlan Sur
 A - Jensen Huang
 Q - Harlan Surand computer makers and so on and so forth, that the stack just -- wherever you
@@ -565,7 +578,8 @@ market with large language model training, $2 million in deployment. What's the
 monetization model here, is that subscription based or consumption based? And
 then I also noticed that the L40 announcement going into your OVX platform, when
 should we expect the launch of the rest of your L Series ProViz line of GPUs
-solutions?A - Jensen Huang
+solutions?
+A - Jensen Huang
 A - Simona Jankowski
 Q - Rajvindra Gill
 A - Jensen Huang
@@ -609,7 +623,8 @@ makes a lot of sense, but just any insight there would be super helpful. Thank y
 Did you want to take that? I'm happy to either way.
 
 No, I'll start off, that says, (inaudible) quite accurate, that we've got a good amount of
-business around the world in each of the regions. You can almost divide each of theA - Jensen Huang
+business around the world in each of the regions. You can almost divide each of the
+A - Jensen Huang
 A - Simona Jankowski
 Q - Joseph Moore
 A - Jensen Huang
@@ -651,6 +666,7 @@ off the charts.
 
 Thank you, Jensen. I think that's all the time we have for questions today. Are there
 any closing comments you'd like to make before we get off the air.
+
 Well, let me do this. We covered a lot of ground and when somebody comes to see
 NVIDIA keynote, unlike a chip keynote of speeds and feeds and teraFLOPS and
 gigaﬂops, we have plenty of those as well. But you get to hear about a whole bunch
@@ -693,7 +709,8 @@ the digital world meets the physical world and the next wave of AI happens.
 We announced 150 connectors which opens up Omniverse to all of these industries
 because they would like to find a way to automate their industry. And one of the
 largest ecosystems is called Siemens JT and we're delighted to have a connector for
-that. But we have 150 others. We extended NVIDIA AI and NVIDIA Omniverse intothe cloud and we had just spoken about that, so that we could make it easier for
+that. But we have 150 others. We extended NVIDIA AI and NVIDIA Omniverse into
+the cloud and we had just spoken about that, so that we could make it easier for
 some -- with some of these really complicated workloads, that are really in the
 domains of some of the largest companies, we made it easier, so that we can
 democratize these -- some of the areas of artificial intelligence, so that every

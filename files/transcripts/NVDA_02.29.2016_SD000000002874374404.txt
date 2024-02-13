@@ -20,7 +20,8 @@ markets versus a component chip sale has really, really started our transformati
 
 Okay. Great. So maybe we could look at some of those growth drivers little bit.
 Maybe start with the biggest, which is gaming. Your PC graphics business is the
-lion's share of the overall company revenues. You've been growing that gamingColette Kress
+lion's share of the overall company revenues. You've been growing that gaming
+Colette Kress
 Joe Moore
 Colette Kressportion between 20% and 50%, depending on the quarter, the last several quarters.
 And you've seen this decline in traditional OEM PC. Can we dig into that little bit?
@@ -62,7 +63,8 @@ those users using it for? And is it just a legacy of where you have been histori
 Yes. The workload will be -- if they -- some of them wanting the same type of
 capabilities that they have in the enterprise in a consumer. Some enterprise
 workstations, meaning certain applications for that. But again, it's not a very large
-audience that will be there. They will use it maybe as a test environment. But again,Joe Moore
+audience that will be there. They will use it maybe as a test environment. But again,
+Joe Moore
 Colette Kress
 Joe Moore
 Colette Kressmost of the focus on the PC is going to be related to gaming. And that takes up the
@@ -102,7 +104,8 @@ of overall life. We've continued to see upgrades to the overall Maxwell architec
 for gaming. But what has been interesting is we still probably have more than 65%,
 70%, of our overall installed base that has not yet upgraded to Maxwell. So there's
 still an opportunity. And they are continuing to buy into the overall Maxwell
-architecture.Joe Moore
+architecture.
+Joe Moore
 Colette Kress
 Joe Moore
 Colette KressWe did announce a year ago that our Pascal new architecture across the company is
@@ -144,7 +147,8 @@ that overall software. What is intriguing about PC gaming, the exact same game c
 have a completely different experience just based on the overall GPU that they
 desire. That becomes almost a competitive opportunity for the individual gamers
 playing against their friends. And they really can overall, just with an existing set of
-games, go and update that overall hardware.Joe Moore
+games, go and update that overall hardware.
+Joe Moore
 Colette Kress
 Joe Moore
 Colette KressSo it's not uncommon to see that overall harbor potentially growing faster than some
@@ -184,7 +188,8 @@ essentially a GTX 970 or overall higher. We look at this as a great opportunity 
 either existing gamers to upgrade or a new cast of them to potentially enter into the
 overall gaming market with that.
 It's a little uncertain for us. We don't have any more information regarding the
-number of units that will be available, its uptake. But we look at it as just anotherJoe Moore
+number of units that will be available, its uptake. But we look at it as just another
+Joe Moore
 Colette Kress
 Joe Moorereason to continue the higher level of gaming that is out there in the market.
 
@@ -224,7 +229,8 @@ virtualizing that GPU capability, both in enterprise and in consumer, that is no
 being -- it is in the same segment as other HPCs. But I don't want to lose visibility on
 that segment because it seems pretty interesting. (multiple speakers) Can you talk a
 little bit about that opportunity? And you are you more excited about enterprise type
-deployments, or the consumer infrastructure as a service?Colette Kress
+deployments, or the consumer infrastructure as a service?
+Colette Kress
 Joe Moore
 Colette Kress
 They are both. And we have seen a great interest both from service providers, both
@@ -265,7 +271,8 @@ But you are correct: our focus as we talked about at CES is really the long-term
 channel opportunity of autonomous driving. No one goes anywhere without a key
 headline in terms of a newspaper and the interest of self-driving cars, really because
 of the overall disruption of the technology that this would be in the next 20 years.
-Will there actually be cars on the road driven individually by humans? But our focusJoe Moore
+Will there actually be cars on the road driven individually by humans? But our focus
+Joe Moore
 Colette Kress
 Joe Mooreis very different in terms of what we are providing for infotainment systems and what
 we want to provide for autonomous cars.
@@ -304,6 +311,7 @@ probably move in terms of the low-end, not necessarily a part that we are going 
 focus on; really focus on that virtual dashboard as it moves collectively with
 autonomous driving. And we think there is definitely opportunity going forward for
 expansion in terms of the overall technology that we have there.
+
 Colette Kress
 Joe Moore
 Colette KressOkay. Then thinking about the ADAS opportunity, am I wrong to think of that as
@@ -345,7 +353,8 @@ that are really interested in understanding that the technology and the software
 incorporated in these cars going forward is essential. The centralization of that, the
 centralization management, that is their core to them. That is their soul in terms of
 what be the car the future. So our best work has been those that fully understand the
-importance of the safety, the overall security. And that centralization of the software.Joe Moore
+importance of the safety, the overall security. And that centralization of the software.
+Joe Moore
 Colette KressAnd that's where the overall joint work has been. Our ability to provide a consistent
 platform for them, a set of development tools, in order for them to enable that
 software layer, has been very, very key for them going forward. You'll probably see us
@@ -384,7 +393,8 @@ notebook to a tablet, in order to do that type of mobile type of gaming, will co
 to grow. Wanting to game everywhere, want that ease-of-use, in terms of a tablet -- a
 tablet potentially connect to a monitor, a screen, a TV in order to do that.
 Our SHIELD is a prime example of that. It also takes advantage of our capabilities to
-provide the high-end streaming collectively to finish off that full offering. So we willJoe Moore
+provide the high-end streaming collectively to finish off that full offering. So we will
+Joe Moore
 Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
@@ -420,6 +430,7 @@ And Intel competes within GPU compute as well.
 They do.
 
 But they have topped at midteens market share thus far, at least.
+
 Q - Unidentified Participant
 A - Colette Kress
 A - Joe Moore
@@ -461,7 +472,8 @@ with that?
 
 Sure. So our Samsung litigation work is still in progress. You are correct. Probably a
 little disappointed in some of the initial rulings from the ITC in the initial case. Just
-last week we heard back regarding the case where Samsung sued us, where theA - Joe Moore
+last week we heard back regarding the case where Samsung sued us, where the
+A - Joe Moore
 Q - Unidentified Participant
 A - Colette Kress
 A - Joe Moore

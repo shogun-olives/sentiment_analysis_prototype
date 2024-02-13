@@ -16,7 +16,8 @@ are amazing and the entire visual effects in "Gravity," are done using NVIDIA. S
 one of the areas of focus for the Company.
 But the other areas are automotive, the finance world increasingly using GPUs for
 compute of model, options models, simulating weather. And then, of course, the PC
-gaming market.So these are all examples of visual computing. We actually organize our Company to
+gaming market.
+So these are all examples of visual computing. We actually organize our Company to
 focus on large segments where visual computing matters. So gaming is one of the
 largest segments. Gaming is going to be over $20 billion business worldwide this
 year.
@@ -50,7 +51,8 @@ was due to our Tegra business coming back. And I'll talk a little bit more about
 In addition to kind of baseline businesses and GPUs that are growing, we have
 momentum in growth businesses that are significantly ramping. So as opposed to PC
 gaming, which is growing at 6%, Tegra, Tesla. And GRID are undergoing very rapid
-growth momentum. And I want to highlight some of the things happening there.Then finally, last week at our Q3 earnings, we also announced our intent to return
+growth momentum. And I want to highlight some of the things happening there.
+Then finally, last week at our Q3 earnings, we also announced our intent to return
 another $1 billion in capital to shareholders in fiscal 2015. So I'll talk a little bit about
 that.
 Okay, this is a breakdown of the moving parts within our GPU business to show you
@@ -86,7 +88,8 @@ details on that.
 I already mentioned the Quadro business and the -- some of the uses for it in these
 movies.
 Let me talk a little bit about our Tesla business. This is a new business for us. We've
-been investing into this business for quite a while. But in terms of revenue, it's justrecently starting to ramp. And there's a number of key indicators to look at that give
+been investing into this business for quite a while. But in terms of revenue, it's just
+recently starting to ramp. And there's a number of key indicators to look at that give
 you early indicators of our future success in this business.
 First of all, a high-performance computing system with a GPU is now referred to as
 an accelerated system. It's an HPC system with an accelerator. Okay. So just in terms
@@ -121,7 +124,8 @@ have to have a centralized amount of data, more than just numbers, pictures, vid
 other forms of assets, what we've done is develop a way to accelerate virtual
 desktops.
 So the end result of that, if you look at the overall momentum, these are all the data
-points that are supporting our growing momentum there. First of all, Citrix andVMware are using GRID. We were the Best of Show at VMware's show back in
+points that are supporting our growing momentum there. First of all, Citrix and
+VMware are using GRID. We were the Best of Show at VMware's show back in
 October, VMworld. Virtually every major OEM now is shipping GRID -- Cisco, HP, Dell,
 Hitachi, Fujitsu, IBM.
 Last week we announced Amazon has now deployed GRID servers to provide
@@ -157,7 +161,8 @@ automobiles with Android coming too.
 One of the interesting highlights of the quarter was a phone was announced from a
 company, Xiaomi. For those of you familiar with Xiaomi is one of the hottest
 companies in China selling phones. And it's a perfect example of -- or a proxy for
-what Tegra is used for.The Mi3 phone is their new high-end smartphone. They market it as the fastest
+what Tegra is used for.
+The Mi3 phone is their new high-end smartphone. They market it as the fastest
 smartphone in the world. It was reviewed by the Chinese press against Apple,
 against Samsung. And it was confirmed as the fastest smartphone in the world. And
 Xiaomi launched it and made that phone NVIDIA, targeting the Android gaming
@@ -192,7 +197,8 @@ this year. And, as a result, we lost some critical designs. Project Logan is not
 market. That was the benefit that we received for the -- for moving Tegra 4 out. So
 we're looking forward to bringing Logan to market in the coming year.
 Okay. That's all I had.
-Questions And AnswersQ - David Wong
+Questions And Answers
+Q - David Wong
 A - Rob Csongor
 Q - David Wong
 Q - Unidentified Participant
@@ -229,7 +235,8 @@ businesses.
 This year, the Tegra number is less than that. And we reported that it was less by
 about $300 million due to one segment of the market, in particular, Windows RT,
 that had not performed or didn't happen the way we thought it was going to
-happen.Q - David Wong
+happen.
+Q - David Wong
 A - Rob Csongor
 Q - David Wong
 A - Rob Csongor
@@ -267,7 +274,8 @@ it's a console. And you can do some things to it. But, basically what it ends up
 is bumping what I would call the mid-range of our GPU products, which happen to
 be where a lot of our volume is.
 We talk about these very high-end products. And we sell them for $1,000. But it's not
-the volume of our GPU business. Most of it is within the $199 to $249 price range.Q - David Wong
+the volume of our GPU business. Most of it is within the $199 to $249 price range.
+Q - David Wong
 Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
@@ -301,7 +309,8 @@ devices isn't as clear. I think the car one is very exciting to us. And that's v
 you, at least on cars that have been announced, cars like the Audi line and BMW and
 Tesla S. Those are all using NVIDIA.
 But there's a lot more types of devices and a lot more uses for Tegra within those
-applications. So for example, within automotive the first application use was the navQ - Unidentified Participant
+applications. So for example, within automotive the first application use was the nav
+Q - Unidentified Participant
 A - Rob Csongor
 Q - David Wong
 Q - Unidentified Participant
@@ -337,7 +346,8 @@ Get with the right partners and get the word out.
 In a lot of ways it reminds me of NVIDIA's GPU efforts in the early days. A lot of what I
 just said is actually very similar to what we did in the early days of getting GeForce to
 be a gaming platform for the PC. Shield as a gaming platform for the Android
-gaming market is a lot of the same types of efforts.Q - Unidentified Participant
+gaming market is a lot of the same types of efforts.
+Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
@@ -372,7 +382,8 @@ The notebook business, for us, has been a pretty good-sized business, I would sa
 roughly half that of or maybe a little bit less than that on our desktop side.
 But it's been predominantly, up until this point, mostly mainstream OEM notebooks,
 which is much more of a low-margin. So as I pointed out, kind of the commentary on
-that business has been it's been declining just on the mainstream side, which I thinkQ - David Wong
+that business has been it's been declining just on the mainstream side, which I think
+Q - David Wong
 Q - Unidentified Participant
 A - Rob Csongoris not a surprise to anybody. It's declining, I think, at a rate that's better than the
 market decline on notebooks.
@@ -410,7 +421,8 @@ phones. So we believe that we'll have opportunities for phones. But our strategy
 not to take over the modem market versus Qualcomm. Do you know I mean? If you
 look at our focus, our focus is always first on visual computing. And then, within the
 phone market, a modem helps you use your visual computing advantage versus
-other people.Q - David Wong
+other people.
+Q - David Wong
 A - Rob CsongorSo I think, again, within the Tegra market, as within the phone market and these
 other markets, we're going to look for areas where visual computing matters. And
 the modem helps us, in that case, within the phone space.

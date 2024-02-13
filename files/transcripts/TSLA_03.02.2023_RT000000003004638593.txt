@@ -1,5 +1,6 @@
 Good afternoon, everyone. Good afternoon. My name is Zach Kirkhorn, I lead
-finance here at Tesla, and welcome to our Investor Day.Elon R. MuskFor those of you here in the audience, at our global headquarters in Austin, Texas,
+finance here at Tesla, and welcome to our Investor Day.
+Elon R. MuskFor those of you here in the audience, at our global headquarters in Austin, Texas,
 we welcome you. Thank you for being here and thank you for traveling in. For those
 joining us virtually, thank you for being a part of the day today.
 So as we reﬂect back on the history of the company, there's been distinct phases of
@@ -36,7 +37,8 @@ the smart people I know actually don't see a -- this clear path. They think that
 there's not a path to a sustainable energy future or at least there's not one that is
 sustainable at our current population, or that we have to resort to extreme measures.
 None of this is true. So we're going to walk through the calculations for how to
-create a sustainable energy civilization. Yes.Andrew D. Baglino
+create a sustainable energy civilization. Yes.
+Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
@@ -76,6 +78,7 @@ trying to have assumptions that are reasonable and not overly optimistic, in fac
 slightly pessimistic. So it's really better than half, but just say, for -- it's easy to make
 the argument that we need half as much energy with an electric economy versus a
 combustion economy.
+
 Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
@@ -115,7 +118,8 @@ land would be used? It's less than 0.2% of the land area of earth. I think, gene
 people don't realize quite how much energy is reaching us from the sun. It's roughly
 a gigawatt per square kilometer. And sun doesn't shine all the time, but it's -- if you
 multiply that by, say, four, for you to get the continuous power, four or five, then that
-gives you the land area of solar. And you can put wind and solar often in the sameAndrew D. Baglino
+gives you the land area of solar. And you can put wind and solar often in the same
+Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
@@ -150,6 +154,7 @@ Yes. Just to emphasize that again, the electrified economy will require less min
 than the current economy does.
 
 Less.
+
 Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
@@ -189,7 +194,8 @@ this is going to be behind us before we even know it.
 Yes.
 
 Second, switching to electric vehicles. Again, 21% reduction in fossil fuel use by
-doing this alone. Obviously, Tesla is heavily engaged in this activity as -- along withElon R. Musk
+doing this alone. Obviously, Tesla is heavily engaged in this activity as -- along with
+Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
@@ -227,7 +233,8 @@ give you a sense how we're thinking about this. Again, we're going to put all th
 assumptions up online and encourage people's thought.
 
 Yes. So, yes. So we're basically heading rapidly towards an electric or autonomous
-future.Andrew D. Baglino
+future.
+Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
@@ -264,7 +271,8 @@ furnace in your house, like, it's -- it is generating heat itself. But what the 
 doing is actually moving heat from outside of your house into your house. They're
 just an air conditioner or a refrigerator in reverse.
 So we're surrounded by heat pumps. There's like -- they're all over this factory, they
-are in your house and all this really is about bringing them to displace all the fossilElon R. Musk
+are in your house and all this really is about bringing them to displace all the fossil
+Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
@@ -302,7 +310,8 @@ these things. And hydrogen can also directly replace coal, which is currently us
 a ton of steel production, through a process called directly reducing iron. You can
 replace blast furnaces with a hydrogen reducing direct reduced iron furnace. And
 this is the way to eliminate fossil fuels from these aspects of the economy, and the
-CO2 associated with them.Elon R. Musk
+CO2 associated with them.
+Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
@@ -338,6 +347,7 @@ I mean to really get a long-range aircraft and long-range shipping to use lithiu
 you need to redesign the ship and not just --
 
 Or the plane.
+
 Andrew D. Baglino
 Elon R. Musk-- and the plane. To take advantage of the fact that it is a new source of energy. It's --
 that's -- it's a different architecture. So just like with an electric car, you wouldn't just
@@ -377,7 +387,8 @@ everywhere, this is an order of magnitude, more than an order of magnitude
 difference between farming and what we're talking about for sustainable energy
 land.
 
-And it doesn't need to displace farmland or --Andrew D. Baglino
+And it doesn't need to displace farmland or --
+Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
@@ -410,6 +421,7 @@ ecological impact.
 It's a great way to put it.
 
 Yes.
+
 Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
@@ -450,7 +462,8 @@ And the same is true for these other materials.
 Yes.
 
 And this is -- again, these are not like crazy technologies. It's just the investments
-need to be made. And the investments, they're not gigantic, they just need toElon R. Musk
+need to be made. And the investments, they're not gigantic, they just need to
+Elon R. Musk
 Andrew D. Baglino
 Elon R. Musk
 Andrew D. Baglino
@@ -488,6 +501,7 @@ calculations, it's not virtual thinking. Earth can and will move to a sustainabl
 economy, and we do so in your lifetime. Thank you.
 
 Yes. Thank you. And I just want to welcome up Lars and Franz to the stage.
+
 Franz von Holzhausen
 Lars Moravy
 Franz von Holzhausen
@@ -524,7 +538,8 @@ And then we won MotorTrend Car of the Year.
 Yes. And we won MotorTrend Car of the Year in 2013. Our first great award, first car.
 Pretty good start. Kind of a home run, I think. But that whole process resulted in a
 linear process that you see on the screen. We designed first, then we engineered,
-and then we figure out how to manufacture it.Lars Moravy
+and then we figure out how to manufacture it.
+Lars Moravy
 Franz von Holzhausen
 Lars Moravy
 Franz von Holzhausen
@@ -562,6 +577,7 @@ it's running and it's running faster than ever.
 So we kind of self-imposed constraints on the design when we were doing it to be
 built manually, and we really didn't think about it. But despite all that, Model 3 is the
 best-selling EV ever.
+
 Lars Moravy
 Franz von Holzhausen
 Lars Moravy
@@ -601,6 +617,7 @@ places I used to work in the top manufacturing companies in the world, they don'
 together.
 
 Yes, I (Multiple Speakers)
+
 Franz von Holzhausen
 Lars Moravy
 Franz von Holzhausen
@@ -638,7 +655,8 @@ just called this, "an engineering work of art."
 
 True.
 
-The Model Y.Lars Moravy
+The Model Y.
+Lars Moravy
 Franz von Holzhausen
 Lars Moravy
 That was humbling. But at Tesla, it's not good enough. If we're going to scale the way
@@ -680,7 +698,8 @@ people. We aren't moving heavy objects around and doing nothing to it. And it
 means, we're doing more work on the car, more of the time.
 And then when we take it, all of these tested sub-assemblies and we put them
 together, we finally assemble the car, only one time, putting the sides on with all of
-their parts to a front and rear that was already assembled, carrying the ﬂoor in withFranz von Holzhausen
+their parts to a front and rear that was already assembled, carrying the ﬂoor in with
+Franz von Holzhausen
 Lars Moravy
 Franz von Holzhausen
 Lars Moravy
@@ -719,7 +738,8 @@ privilege of leading Powertrain Engineering here at Tesla. We make the fastest c
 that you can buy for the money, whether they're electric or gas. And the Model S ﬂat
 that we're looking at here, it has more than 1,000 horsepower and pound-per-pound
 the motors in that car are as powerful as jet engines. Our cars are super fun, people
-absolutely love driving in them.And the other thing that you probably all know about our powertrains is that they're
+absolutely love driving in them.
+And the other thing that you probably all know about our powertrains is that they're
 eﬃcient, our cars would go 25% to 30% further than other EVs in our class for the
 same amount of eﬃciency. But at Tesla eﬃciency means more than just reducing
 how much energy the cars use. It's about how we develop, how we manufacture,
@@ -761,7 +781,8 @@ the cost and it does in just one the job of all those four. And these are just t
 examples of many, that I could use, to showcase our expertise in high power
 electronics, and that expertise has allowed us to take the cost of the chargers. They
 were in our Model S, when we launched it in 2012, both the cost and the mass and
-cut both of those in half.And even more important, the power electronics, they are central not just to our cars.
+cut both of those in half.
+And even more important, the power electronics, they are central not just to our cars.
 They are central to our superchargers, into our energy storage products, and
 Rebecca and Mike will be talking more about that.
 So in addition to the work that we've done is software and hardware, we've also
@@ -800,7 +821,8 @@ behind me today, even though it has the same capacity. All of these improvements
 think, are going to be transformative for the adoption of EVs and our ability to scale
 them.
 There's one more thing that I want to highlight. So I talked about how we had
-reduced the amount of rare earth in our powertrains. And as the world transitions toPeter Bannon
+reduced the amount of rare earth in our powertrains. And as the world transitions to
+Peter Bannon
 David Lau
 Peter Bannonclean energy, demand for rare earth is really increasing dramatically. And not only is
 it going to be a little hard to meet that demand, but mining that rare earth, it has
@@ -837,7 +859,8 @@ endpoints in this entanglement of wires, and so we have to go and debug
 everything, all at once, and Pete's going to tell us about how we're going to make it
 better.
 So I'm going to talk brieﬂy about a few things that we've changed over the years
-since the Model S. With the Model 3 (Inaudible) Tesla started designing andDavid Lau
+since the Model S. With the Model 3 (Inaudible) Tesla started designing and
+David Lau
 Peter Bannon
 David Lauincreasing share of our controllers by merging controllers together. And we were
 able to simplify the design with a significant reduction in wire count and weight,
@@ -876,7 +899,8 @@ about being able to sidestep, what otherwise would have been static trade-offs
 between one attribute or another in a piece of hardware. We are able with software
 to instill intelligence, context awareness, and context-specific behavior into what
 otherwise would have been a piece of hardware that had to get optimized for one
-type of scenario. We get more of everything.Peter Bannon
+type of scenario. We get more of everything.
+Peter Bannon
 David Lau
 Peter BannonIn 2022, we completed the transition of the lead-acid batteries to lithium-ion
 batteries and -- which use a new tool as connector. We expect lithium-ion batteries to
@@ -915,7 +939,8 @@ We welcome and encourage other OEMs and the entire supplier network to join us
 on this evolution.
 You bet. As the number of wires in the car is driven by the number of end points that
 need to be powered and controlled. In the past, centralized control has led for wires
-spanning the entire car. For Cybertruck design, we have moved to a local controller,David Lau
+spanning the entire car. For Cybertruck design, we have moved to a local controller,
+David Lau
 Peter Bannon
 David Lau
 Zachary Kirkhornwhere the wire is connected to the nearest controller and those controllers are
@@ -954,7 +979,8 @@ hardware.
 
 Yes, one example is that, we were able to monitor and track the use of the sunroof in
 our cars, and found that our customers never use their sunroof. So we've made it
-easy decision to remove it.David Lau
+easy decision to remove it.
+David Lau
 Peter Bannon
 David Lau
 Very barely. Yes, I've had some rest for a while. As another example, we are able to
@@ -991,7 +1017,8 @@ server side with what's happening in our vehicles has always been a core part of
 DNA, and enables us to do things that nobody else can.
 Most engineers think about the vehicle as a complete consolidated fully contained
 system, but in the software team, we think about the system as including the vehicle,
-as well as all of our back-end, server-side applications and infrastructure, and thePeter Bannon
+as well as all of our back-end, server-side applications and infrastructure, and the
+Peter Bannon
 David Lauresultant feedback loop from the entire ﬂeet that informs all the decisions we make
 as an engineering team.
 For example, we recently released a feature in Model S and Model X that
@@ -1030,7 +1057,8 @@ manufacturing processes for Model 3, and all of our other vehicles going forward
 We took a page from the software playbook, which says, test early and test often.
 And we applied that mantra to every single car that we build at every step of the
 assembly line. So now, when a production associate plug something into the car, the
-central car computer sees that connection, confirms that it's the correct part for thePeter Bannon
+central car computer sees that connection, confirms that it's the correct part for the
+Peter Bannon
 David Lautype of car that supposed to be built, installs a software update, if necessary, checks
 configurations and calibrations, and runs a barrage of tests on that thing and all the
 other things that are connected to it. And if it finds an anomaly that can't be fixed
@@ -1069,7 +1097,8 @@ receive a Tesla's own service-loner vehicle, we are starting at some locations t
 automatically add that vehicle to the customers mobile app account, so that
 combined with cloud synchronized profiles and Phone Key, it's a completely
 seamless experience. As soon as the customer walks up to that loner, it behaves and
-feels exactly like their own car.Ashok ElluswamyAnd all this is built on top of end-to-end encryption and cryptographically signed
+feels exactly like their own car.
+Ashok ElluswamyAnd all this is built on top of end-to-end encryption and cryptographically signed
 commands. So that customer data remains private and obscure, and the ﬂeet only
 trust commands from authorized parties. So that's a bit of a preview of all the pieces
 that we're building, looking ahead to our future of autonomous ﬂeets:
@@ -1105,7 +1134,8 @@ So what we did in the last few years is transition most of our stack into this m
 camera video neural networks. These neural networks take in live feed from the car
 in real time of the eight cameras in the car and produce a single unified 3D output
 space. There are many tasks that we produce such as the presence of obstacles, their
-motion, lanes, roads, traﬃc lights, what have you?This is one example output that you're seeing here. This is from our occupancy
+motion, lanes, roads, traﬃc lights, what have you?
+This is one example output that you're seeing here. This is from our occupancy
 network that predicts the positions of obstacles and their motion. You can see that it
 precisely captures the (Inaudible) violent motion of this truck next to us and this
 helps the planning system to avoid a collision with this object.
@@ -1145,7 +1175,8 @@ We don't have to stop at this kind of reconstruction. Once we have this base
 reconstruction, we can build various simulations on top of it to produce an infinite
 variety of data to train for all the corner cases. We have a capable simulator that can
 synthesize adversarial weather, lighting conditions and even the motion of other
-objects to test all the corner cases that might even be rare in the real world.Here's an example of why this data is critical and how we can solve problems using
+objects to test all the corner cases that might even be rare in the real world.
+Here's an example of why this data is critical and how we can solve problems using
 data. So back in the days, for example, in this case, we had some false breaking
 where we thought this car that's actually parked there was going to move into our
 path and hence, we were precautiously braking. But it is unnecessary because the
@@ -1184,7 +1215,8 @@ We have observed that people who use FSD are already 5x to 6x safer than the U.S
 national average. Like, I mentioned earlier, the solution to scalable FSD is getting the
 AI architecture, the data and the compute just right. And we have assembled a
 world-class team to execute on this. We are pushing the frontier on these three items
-and as we improve the safety, the reliability and the comfort of a system, we can thenElon R. Musk
+and as we improve the safety, the reliability and the comfort of a system, we can then
+Elon R. Musk
 Ashok Elluswamy
 Elon R. Muskunlock driverless operations, which then makes the car we use way more than what is
 used right now.
@@ -1221,7 +1253,8 @@ humanoid robot. And so, the same team that designed the ground-breaking electric
 motors that are in the say, the Model S Plaid designed the actuators in the robot.
 So, I mean for practical purposes what this means is that we should be able to bring
 an actual product to market at scale that is useful far faster than anyone else. And
-assuming the things I'm saying are true or at least put it -- I think they are true, it'sUnidentified Speaker
+assuming the things I'm saying are true or at least put it -- I think they are true, it's
+Unidentified Speaker
 Elon R. Musk
 Unidentified Speaker
 Elon R. Musk
@@ -1255,7 +1288,8 @@ to some pretty incredible results.
 In 2022, we provided 9 terawatt hours of charging across our various charging
 methods, over 50% of that was supplied via convenient AC home charging. And
 when our customers are away from home, they can visit one of our 80,000 charging
-points that includes 40,000 of our beloved superchargers.Now getting here has meant that we've spent ten years building charging
+points that includes 40,000 of our beloved superchargers.
+Now getting here has meant that we've spent ten years building charging
 infrastructure when basically no one else in the industry would do it. And while, we
 certainly have a lot of areas that we want to improve, those 10 years have afforded us
 the opportunity to get pretty good at charging.
@@ -1297,7 +1331,8 @@ on a global basis.
 And the last thing we focused on to get here is quicker charge times. We're really
 proud of what we've been able to accomplish here. We've shaved off 30% of our
 charge time -- average supercharging sites time, visit time over the last few years.
-This has taken improvements on the hardware side, with our software on our on ourvehicles and on our infrastructure and we're really excited to continue pushing this
+This has taken improvements on the hardware side, with our software on our on our
+vehicles and on our infrastructure and we're really excited to continue pushing this
 trend down.
 Looking forward, the job does not get any easier. As you heard earlier, we aspire to a
 fully electrified global ﬂeet. That ﬂeet from an industry standpoint needs 9 petawatt
@@ -1336,7 +1371,8 @@ typically parked throughout the day.
 So that's really the plan. While supercharging and home charging definitely stay a
 big part of the puzzle, our teams are currently scaling to install AC charging,
 everywhere vehicles charged during the day so we can power them from renewable
-sources.KarnBudhiraj
+sources.
+KarnBudhiraj
 Roshan Thomas
 KarnBudhirajSo, summing it up, while we've spent 10 years installing infrastructure that is low cost,
 it's eﬃcient and it provides a great customer experience, we're really just getting
@@ -1373,7 +1409,8 @@ physically go to the supplier and stay there for weeks or months however long it
 takes to basically do the line bring up.
 Once the line is brought up and we're hitting the right rates, the right quality at the
 right yield, then we work on things like automation and yield improvement and
-those types of activities. So there's a big group of mechanical, electrical, industrial,Roshan Thomas
+those types of activities. So there's a big group of mechanical, electrical, industrial,
+Roshan Thomas
 KarnBudhirajyou name it, engineers within supply chain and it's their responsibility to take care of
 this.
 Now, this is a huge strategic advantage because we manage every detail of our
@@ -1411,7 +1448,8 @@ number of parts on the S and X platform to the 3 and Y platform. And this is bec
 of the great work our design engineers have done of making the car simpler and
 easier to manufacture.
 In parallel, we actually had a similar strategy and supply chain. We had cast a wide
-net to a lot of suppliers through the S and X platform. There was a lot of suppliersRoshan Thomas
+net to a lot of suppliers through the S and X platform. There was a lot of suppliers
+Roshan Thomas
 KarnBudhiraj
 Roshan Thomas
 KarnBudhirajthat we invited to partner with us. And we used that platform as sort of a filter to see
@@ -1448,7 +1486,8 @@ the software and all that sort of stuff and then that's one part number that com
 Tesla.
 So this is an example of one Tier 1 part number, that's a very complex assembly to
 manage of the Tier 2 level. And there's more than 7,000 components here. There's a
--- as we stand here, components being assembled onto a car computer every 1.4Roshan Thomas
+-- as we stand here, components being assembled onto a car computer every 1.4
+Roshan Thomas
 KarnBudhiraj
 Roshan Thomas
 KarnBudhiraj
@@ -1485,7 +1524,8 @@ Right.
 And on top of that, we also have the responsibility to make sure the right component
 is supplied to the right service location to support the growing ﬂeet of our vehicles
 and we have about 685 service centers that these components need to show up just
-in time. And then we've also been as a result of pandemic and even before that,KarnBudhiraj
+in time. And then we've also been as a result of pandemic and even before that,
+KarnBudhiraj
 Roshan Thomas
 KarnBudhiraj
 Roshan Thomas
@@ -1519,7 +1559,8 @@ COVID pandemic, as you're aware, happened at different countries at different
 times. But unfortunately, you need all the parts to make the car. So at any given
 point, there was one factory that was lying down.
 
-Right.KarnBudhiraj
+Right.
+KarnBudhiraj
 Roshan Thomas
 KarnBudhiraj
 Roshan Thomas
@@ -1553,7 +1594,8 @@ strong relationships with vendors. And then we also have a pretty sophisticated
 capacity planning function. Tier 2 capacity needs to come on earlier than Tier 1
 capacity. Tier 3 capacity has to be even earlier. And our team does a very good job
 of having that strategic alignment with all our partners to make sure that the capacity
-is ready before we need it.Roshan ThomasWe're a mission-based company. Our goal is to put as many EVs out there. We did
+is ready before we need it.
+Roshan ThomasWe're a mission-based company. Our goal is to put as many EVs out there. We did
 not let the pandemic phase us. We were full the throttle. And it was pedal to the
 metal in terms of our demand signal, that also helped. The silicon industry has very
 long lead times, they invest billions of dollars in sophisticated fabs that take years to
@@ -1593,7 +1635,8 @@ outbreak of the pandemic in Model Y. The team was forced to manage 100-plus
 components from different suppliers around the world remotely. So, there are four
 videos playing at the same time. One is the video of the manual line that was created
 when we started the production and this manual line produced a lot of quality
-issues, let alone throughput. So we quickly pivoted to a semi-automated line.KarnBudhiraj
+issues, let alone throughput. So we quickly pivoted to a semi-automated line.
+KarnBudhiraj
 Roshan Thomas
 KarnBudhirajBut in spite of that, although the three -- throughput was great, the quality issues
 sustained. So our team decided that fully automated is the only way to go. So before
@@ -1630,7 +1673,8 @@ and error. It took a lot of learning, there's a lot of pain, there's a lot of me
 tissue as Elon calls it through that process. But now that we're at that level and the
 foundation is set, going from 40 to 400 is not going to -- it doesn't really phase us.
 We have a capable team. We've got capable external partners that have gone
-through hell with this. The leadership team has galvanized behind the mission andTom Zhuwe're going to get it done. So I'd like to thank you for your time and hand it off to
+through hell with this. The leadership team has galvanized behind the mission and
+Tom Zhuwe're going to get it done. So I'd like to thank you for your time and hand it off to
 Drew and Tom for the next presentation. Thank you.
 
 Hi, everyone. My name is Tom Zhu. I'm now responsible for Global Production and
@@ -1669,7 +1713,8 @@ drawing after of all manufacturing teams around the globe, I'm happy to share ea
 this morning, we hit the 4 million mark for total Tesla ever built. And the 4 million
 vehicle actually built in this factory. When you took a tour on our shop ﬂoor, you
 probably looked past it, right? So it took us 12 years to build the first million vehicle
-and about 18 months to the second -- building the second million. The third millionUnidentified Speaker
+and about 18 months to the second -- building the second million. The third million
+Unidentified Speaker
 Tom Zhu
 Unidentified Speaker
 Tom Zhutook us 11 months and just shortly less than seven months, we built he four million
@@ -1706,7 +1751,8 @@ There's one example in Gigafactory Shanghaiing the paint shop, we find that ther
 an overlap baking range between the PVC sealer in the top coat, it was done by two
 different ovens and we decided to combine the two processes eventually that
 helped us, didn't just help us to reduce the cycle time, but also save 9% of the
-energy consumption and the 9% of the CO2 emission.Andrew D. BaglinoAlso, we communized the S and X design in Fremont. Right now, we have a common
+energy consumption and the 9% of the CO2 emission.
+Andrew D. BaglinoAlso, we communized the S and X design in Fremont. Right now, we have a common
 body and common headlamp. We eliminated about 40 parts and reduced about a
 10% of the cycle time. So all these improvements really help us to get through a
 faster ramp trajectory and we didn't just learn from these high volume existing
@@ -1746,7 +1792,8 @@ cylindrical cells to 4,680 made a huge leap, which is basically a 5x reduction i
 factory footprint and volume and footprint. And then from going from what we did in
 Fremont in our pilot line to Texas, we improved further and we're improving again
 when we go into Nevada. And what this actually represents is a series of actions
-taken by a very integrated, holistic design team across the product design, theMichael Snydermanufacturing design, the process design, equipment design and the facility design.
+taken by a very integrated, holistic design team across the product design, the
+Michael Snydermanufacturing design, the process design, equipment design and the facility design.
 They all need to work together to make this happen. And you can see on the bottom
 just as an example of simplicity up, investment down and scaling up, parts, we've
 reduced the number of parts in the cell. Number of processes, significant reduction
@@ -1786,7 +1833,8 @@ come up and we'll talk about energy. All right, take it away.
 All right. Hello, everyone. My name is Mike Schneider. I lead our Megapack
 organization. I've been with Tesla for almost nine years. I'm excited to talk to you
 today about the Megapack product and the business and some of the exciting
-things we have ahead of us.Andrew D. Baglino
+things we have ahead of us.
+Andrew D. Baglino
 Michael Snyder
 Andrew D. Baglino
 Michael Snyder
@@ -1824,7 +1872,8 @@ let's just say it that way.
 There's been incredible demand for the project -- for the product. 2023 is going to
 be a great year. We have gigawatt-hour scale projects being built, the Lathrop
 factory continues to scale and ramp up and there sinew products on the near-term
-roadmap. So a lot to look forward to.Andrew D. Baglino
+roadmap. So a lot to look forward to.
+Andrew D. Baglino
 Michael Snyder
 Andrew D. Baglino
 Michael Snyder
@@ -1863,7 +1912,8 @@ per second -- hundreds of thousands of times per second to eﬃciently react to
 whatever is needed either in the car and the grid and because they are so like sort of
 software driven at their core, they can provide functionality that hasn't been available
 to the grid in the past and it's one of the reasons why renewables and storage
-together are such a great solution.Michael Snyder
+together are such a great solution.
+Michael Snyder
 Andrew D. Baglino
 Michael Snyder
 Andrew D. Baglino
@@ -1901,7 +1951,8 @@ battery storage is actually very complex, upwards -- needing upwards of hundreds
 even thousands of decisions every 5 minutes. So it's much more complex than a PV,
 a solar plant or a wind plant or a thermal battery, a thermal generation plant.
 And it's mostly because of the versatility and the ability of the battery to provide so
-much value in different ways that these decisions need to be made in real time inAndrew D. Baglinoorder to optimize and get the most value out of the batteries that can.
+much value in different ways that these decisions need to be made in real time in
+Andrew D. Baglinoorder to optimize and get the most value out of the batteries that can.
 So there wasn't a solution that existed in the market. So we built one ourselves in the
 market that we've been to markets, we've deployed them in, in Australia, in Texas, in
 the UK. It is proven to be a market leader. We're continuing to invest in Autobidder
@@ -1941,7 +1992,8 @@ If Tesla Electric is operating those assets in an intelligent way to benefit the
 Tesla Electric being basically a software that we developed out of Autobidder for the
 purposes of these distributed energy resources, we can actually pay the customers
 to bring their energy services to the grid. That's what happened in Australia last year.
-And it's always a little bit of a special case there. They represent the future, SouthUnidentified SpeakerAustralia in particular, solar and wind supplied 70% of South Australia's energy in
+And it's always a little bit of a special case there. They represent the future, South
+Unidentified SpeakerAustralia in particular, solar and wind supplied 70% of South Australia's energy in
 2022 that compares to 30% in Texas and 35% in California. But it -- but this is an
 indication of where this is all headed of both centralized and distributed storage
 resources, providing the key to unlocking fully renewable grids. And Tesla Electric is
@@ -1977,7 +2029,8 @@ focus on cost and speed and value, the things that we've mentioned, it's clear w
 need to build more capacity and we need to ramp it quickly.
 So while the challenge is big, it's also a huge opportunity for Tesla, it's a huge
 opportunity for the Megapack business. And I'm excited to see the impact that it's
-going to make on our good transition.Brandon Ehrhart
+going to make on our good transition.
+Brandon Ehrhart
 Laurie ShelbyAs am I.
 Yes. Alright.
 Alright. Thank you.
@@ -2009,7 +2062,8 @@ employer and we're growing every day. We're at 129,000, And more than half of ou
 team works in vehicle manufacturing, and almost 60% of our team is based in the
 U.S.
 People want to join our mission, and we need to grow, and we need to hire the best
-people. Engineers want to work for Tesla. Look at number one and number two,Zachary KirkhornSpaceX and Tesla. In 2021, we got 3 million applicants. 3 million, that's incredible.
+people. Engineers want to work for Tesla. Look at number one and number two,
+Zachary KirkhornSpaceX and Tesla. In 2021, we got 3 million applicants. 3 million, that's incredible.
 And our culture, our culture at Tesla is anyone at any time can raise an idea or make
 an improvement, suggestions across safety, people, cost, production, quality,
 because we have a very simple process called take charge. And take charge is really
@@ -2046,7 +2100,8 @@ next is Zach Kirkhorn.
 Thank you, Laurie. All right. So this is our last section of our prepared remarks today.
 Will kind of take what we've discussed today and summarize it at the corporate level
 for our financials. Maybe before I jump into the details here, we've never done an
-Investor Day as a company.We've never brought our leadership team out and asked them to talk about the
+Investor Day as a company.
+We've never brought our leadership team out and asked them to talk about the
 things that they're working on. So, I feel very fortunate to be able to work alongside
 this group of people and support their teams. And I also just want to thank them,
 they're in a room in the back listening to this, for all of the work that they put in to
@@ -2086,7 +2141,8 @@ platform to the 3 and Y platform, we took out 50% of cost. So the task here is t
 again. And this is very important, because as we improve affordability, the number of
 customers who have access to our products dramatically increases, and as we link
 this back to our master plan, it enables an exponential growth in our volume with
-linear reductions in the cost of our products.The second point I'll make here is that, and again cost reductions don't come from
+linear reductions in the cost of our products.
+The second point I'll make here is that, and again cost reductions don't come from
 any single one place. And so you can see the buckets here on the vehicle side,
 battery and powertrain, manufacturing cost reductions and others, these buckets are
 relatively equal in size. And so in order to take 50% of cost out of the product, we
@@ -2124,7 +2180,8 @@ auto industry, which is both in OEM and the dealership network. And our estimate
 are that we're 60% to 70% lower on a per car basis. And if you turn this into dollars,
 this is many thousands of dollars per car.
 This is part of the reason why on the last earnings call, I made the comment that we
-think about operating margin more so than gross margin as a company, because theintegration that we have here on the SG&A side, particularly with vertical integration
+think about operating margin more so than gross margin as a company, because the
+integration that we have here on the SG&A side, particularly with vertical integration
 into our dealership network, this provides eﬃciencies that give us a competitive
 advantage from cost structure standpoint, relative to other companies.
 The other thing that I'll note here is that this wasn't always the case and it wasn't that
@@ -2163,7 +2220,8 @@ were in 2018. Order operations team, financial services, I mean these levels of
 improvement are large and there's not enough pixels on the slide here to list out
 everything. So it's just a couple of examples.
 And then in the same way that when we look to take cost out of our products, we
-want to feature up the product or improve the product while taking cost out, thesame has been true with the use of Tesla operating system and that integration with
+want to feature up the product or improve the product while taking cost out, the
+same has been true with the use of Tesla operating system and that integration with
 our process improvement teams within the company.
 And so we've increased performance and added capabilities, while also dramatically
 reducing cost on a per car basis. There's a list of self-service functionality that we've
@@ -2202,7 +2260,8 @@ forecast that we have, is very achievable for us.
 I'm often asked about capital allocation. I think, our strategy here is very
 straightforward. I touched upon it, a little bit in our last slide, but just to be explicit
 about it. Obviously, the priority here is to ensure that we're using capital to run the
-day-to-day operations of the business. This is a working capital intensive businessElon R. Muskand this has to be managed very carefully. And so, over the course of a quarter, there
+day-to-day operations of the business. This is a working capital intensive business
+Elon R. Muskand this has to be managed very carefully. And so, over the course of a quarter, there
 can be multibillion-dollar swings in our cash balance up and down, just depending
 upon the timing of when we build and deliver cars. So we obviously have to have
 plenty set aside for that.
@@ -2238,7 +2297,8 @@ All right. So. Well, let's see. So this is -- probably most significant announce
 the day is that we're excited to announce that we're going to be building a
 Gigafactory in Mexico. So. Yes. And we'll have obviously a grand opening and
 groundbreaking and whatnot, but we're excited to announce that the next Tesla
-Gigafactory will be in Mexico, near Monterrey. So we're excited about it.Unidentified Speaker
+Gigafactory will be in Mexico, near Monterrey. So we're excited about it.
+Unidentified Speaker
 Operator
 Q - Rod Lache
 A - Elon R. MuskNow, I do want to emphasize, we will continue to expand production at all of our
@@ -2273,7 +2333,8 @@ implementation?
 Well, I'll talk a little bit about that, but broadly speaking, the most profound
 architectural changes will be in future vehicles. Retooling a factory means bringing
 the factory down for an extended period of time, and that we prefer not to do that I
-think. But there are variants in how Model Y is produced. So we've got a variantA - Unidentified Speaker
+think. But there are variants in how Model Y is produced. So we've got a variant
+A - Unidentified Speaker
 Q - Adam Jonas
 A - Elon R. Musk
 A - Unidentified Speakerwhere there's rear casting, where there's a front and rear casting, and we have the
@@ -2313,7 +2374,8 @@ aware of how we're approaching the Corpus Refinery and the technologies were
 trying there. And the reason we're making them aware of it is, because we think
 they're fundamentally more scalable and as we proved them out, we plan to share
 that with them. Because as Elon says, it's not really like we want to do these things,
-we're doing them because it's not happening fast enough.A - Elon R. Musk
+we're doing them because it's not happening fast enough.
+A - Elon R. Musk
 A - Unidentified Speaker
 Q - Analyst
 A - Elon R. Musk
@@ -2351,7 +2413,8 @@ right now, I wasn't joking, like there's a lot of wind.
 And at night, wind is -- there's like almost too much wind, because they don't want to
 turn the nukes off or whatever. So, bringing really low cost storage onto the grid,
 makes renewables more valuable, which ultimately will accelerate their deployment.
-So that's how we focus on it, I guess.Q - Analyst
+So that's how we focus on it, I guess.
+Q - Analyst
 A - Unidentified Speaker
 A - Elon R. Musk
 A - Unidentified Speaker
@@ -2390,7 +2453,8 @@ as a supplementary energy source to the power wall, and then you're not going to
 drive everyone crazy by unplugging your car and having the house go off. So I think,
 there's some value there are as a supplemental energy source down the road, where
 if you have a Powerwall, you've not diminished the convenience of the people in the
-house.A - Elon R. Musk
+house.
+A - Elon R. Musk
 Q - Analyst
 A - Elon R. Musk
 Q - George Gianarikas
@@ -2426,7 +2490,8 @@ create a lot of jobs to the local community, and we generated also with -- at ou
 suppliers' factories, we'll create a lot of jobs as well, and we contributed a lot of to
 the local economy. I think, as long as we're needed in this country, I don't see much
 of the risk of that.
-Colin?Q - Colin Rusch
+Colin?
+Q - Colin Rusch
 A - Elon R. Musk
 A - Unidentified Speaker
 A - Elon R. Musk
@@ -2465,7 +2530,8 @@ expenses, an autonomous car could be 50 to 60 hours a week or something like
 that. And you could get rid of a lot of parking expenses. So, if this is true then as
 autonomy is effectively turned on for the ﬂeet. It may be -- probably will be the
 biggest asset value increase in history overnight.
-Emmanuel?Q - Emmanuel Rosner
+Emmanuel?
+Q - Emmanuel Rosner
 A - Elon R. Musk
 A - Unidentified Speaker
 Thank you so much, Emmanuel Rosner from Deutsche Bank. So, as you start
@@ -2504,7 +2570,8 @@ where a lot of the chips at the backend -- of a lot of chips was down there and 
 This was one that Elon was involved with as well. And yeah, that's, -- it's nerve-
 wrecking. But somehow it works.
 Yeah. And all those diﬃcult, I think we have been laying the foundation to be as
-intimate to our -- all the tiers of the supply chain, building that control and directingA - Elon R. Muskthe different tiers of supply chain. That's the way we are trying to mitigate the risks
+intimate to our -- all the tiers of the supply chain, building that control and directing
+A - Elon R. Muskthe different tiers of supply chain. That's the way we are trying to mitigate the risks
 that come with it. Again, dual sourcing, triple sourcing, having redundancy is the way
 we've been trying to mitigate for it.
 Yes. And that's fine. When we think about vehicles, when you think about three wires
@@ -2543,7 +2610,8 @@ production of stationary storage, which is much easier to scale than vehicle
 production. So that's strategically I think a good thing.
 Yes, the CapEx for Megapack is tiny, compared to CapEx for vehicles. And also,
 Megapack demand is quasi-infinite. It basically, as long as we are competitive with
-utilities, we're going to tell as many. Quasi infinite demand for that really for multi-A - Unidentified Speaker
+utilities, we're going to tell as many. Quasi infinite demand for that really for multi-
+A - Unidentified Speaker
 Q - Dan Levy
 A - Unidentified Speakertera -- many terawatt hours and we got a long way to go to get to many terawatt
 hours per year.
@@ -2581,7 +2649,8 @@ standardization in terms of our factories, and our processes, and our cost reduc
 approaches. So, as we've been thinking about the next generation platform, we've
 been thinking about the volume that we aspire to build against that, how many
 individual factories do we need to build? And what is the fastest possible way to
-expand that footprint around the world.Q - Analyst
+expand that footprint around the world.
+Q - Analyst
 A - Zachary Kirkhorn
 Q - Ashok ElluswamyWhat we've done with Model Y is each factory is an incremental improvement of the
 previous factory, which requires engineering hours, engineering spend for each
@@ -2622,7 +2691,8 @@ point is to say that this is something that's entirely possible, based upon our 
 Regarding the multi-trip reconstruction, my point I was trying to make was that we
 want to auto label most of the data and we can collect data from the ﬂeet, and then
 reconstruct local areas that can act as supervision for those trips. Since we want to
-build a scalable, self-driving system, we don't want to really rely on HD maps orA - Elon R. Musk
+build a scalable, self-driving system, we don't want to really rely on HD maps or
+A - Elon R. Musk
 A - Unidentified Speaker
 Q - Alex Potter
 A - Andrew D. Baglinoanything, even though we could like trivially build something using the same
@@ -2662,7 +2732,8 @@ So, the way we've been approaching it us probabilistically what do we think is t
 most likely thing to succeed, and even actually in the factory here you saw more than
 one anode line, that they are actually operating two slightly different versions of the
 final process step of the powder entering the tool and it's a competition. Which is
-going to be more higher yield, which is going to perform better? And we have theA - Elon R. Musk
+going to be more higher yield, which is going to perform better? And we have the
+A - Elon R. Musk
 A - Unidentified Speaker
 Operator
 A - Unidentified Speaker
@@ -2700,7 +2771,8 @@ at an existing plant before you're finished constructing the new plant in Mexico
 
 I think we'll actually have to probably decline that answer. We will have a proper sort
 of product event, but we would be jumping the gun if we were to answer your
-questions. Maybe another question, if there's. Yes. I don't know, anyone.Q - Analyst
+questions. Maybe another question, if there's. Yes. I don't know, anyone.
+Q - Analyst
 A - Elon R. Musk
 Q - Ashok Elluswamy
 A - Elon R. Musk
@@ -2739,6 +2811,7 @@ It's so complicated.
 Yeah.
 
 It's like so complicated. No one can visualize this right now.
+
 A - Unidentified Speaker
 A - Elon R. Musk
 A - Unidentified SpeakerYeah, it's hard to -- just like literally it looks insane. So I guess something like that's

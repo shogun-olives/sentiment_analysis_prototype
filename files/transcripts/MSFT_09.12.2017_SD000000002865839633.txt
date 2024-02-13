@@ -20,7 +20,8 @@ amazing, amazing run for Microsoft in the last couple of years. And sometimes it
 hard for us on the outside to appreciate the change going on in Microsoft since
 Satya came aboard. But I know your clients ask you about it. So maybe you could
 share, as an insider, I think you've been at Microsoft for what, 27 years, something
-like that?A - Rajesh Jha
+like that?
+A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirstead
@@ -65,6 +66,7 @@ take a look at the diversity of talent that we are able to bring in, folks from 
 open-source frameworks, folks in productivity, on data, on AI. We feel great about
 the talent at Microsoft and also the talent that already exists and harnessing that in a
 more productive way.
+
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jha
@@ -110,7 +112,8 @@ be north of that 70%. So there is a bit of a mix shift for sure. But also the cl
 many ways is democratization of -- it's not just economies of scale, which is obvious,
 also economies of skills. Today, there are many segments where you take the
 sophisticated capabilities that many vendors produce. It's hard for our customers to
-go stand those things up. And be able to consume it, even if they find the capitalQ - Karl Emil Keirstead
+go stand those things up. And be able to consume it, even if they find the capital
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jhaoverlay for it. When you deliver it over the cloud, you naturally start out with a very
@@ -154,7 +157,8 @@ professional, that the tone is gender-neutral, that's geopolitically appropriate
 Excel, I throw in something like a country label. And I can tell Excel, "Hi. recognize
 that as an entity." So if I now go into the cell next to it. And I type GDP. Excel will auto
 populate the GDP next to it. It doesn't treat it like a text string anymore. We can tell it
-to treat it like entities.Q - Karl Emil Keirstead
+to treat it like entities.
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 That's neat.
 
@@ -202,7 +206,8 @@ bullish in what we can do, in terms of generating user value and customer value,
 AI on our existing infrastructural oﬃce. And I think LinkedIn is the other data set. If
 you think about the fact we have 0.5 billion people. And people's Rolodexes in
 LinkedIn. And who follows whom. And what speech do you click on in your work
-context. So yes, AI's going to be big.Q - Karl Emil Keirstead
+context. So yes, AI's going to be big.
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jha
@@ -246,7 +251,8 @@ letting, actually a seat growth driver, let's -- we have, like I said, about 50%
 commercial Oﬃce in the cloud with Oﬃce 365. And by FY '19, we think we'll be
 about 2/3 of our way there in the customer transition to the cloud. But it's not just a
 mix moving to the cloud from on-premises. Oﬃce is an incredibly horizontal product.
-So do you think about, what does a small business want from Oﬃce, in terms ofQ - Karl Emil Keirstead
+So do you think about, what does a small business want from Oﬃce, in terms of
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirsteadproductivity, communication and collaboration. When you go to markets like Kenya
 or Indonesia or India, where people's only devices -- these are information workers.
@@ -291,6 +297,7 @@ other thing I would say on ARPU is Microsoft 365 takes the user centricity of O�
 365. And we're thinking about the entire needs of a modern workplace, by bringing
 management on cross devices with EMS. And in Windows 10 Enterprise in the
 desktop. That's going to be one of the ARPU drivers for us.
+
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh JhaOkay. And Rajesh, on the transition of 365, you mentioned on the commercial side,
@@ -336,6 +343,7 @@ separate obviously. But it feels to me like these are self-reinforcing trends. I
 words, customers that make the leap to cloud-deployed Oﬃce are probably more
 inclined to use Azure. And I'm sure there's a great cross-sell there. So do you mind
 describing those synergies, starting with Azure?
+
 Q - Karl Emil Keirstead
 A - Rajesh JhaYes, sure. I mean, first, I would say, from an engineering perspective, Scott and I, we
 plan together in terms of a data center footprint. Where should we build these data
@@ -383,7 +391,8 @@ the construct of your resume? Take Dynamics and LinkedIn. We now have the
 Dynamics 365 for sales in our GTM and our product integration with our LinkedIn
 Sales Navigator. So a sales person can now use LinkedIn, 0.5 billion people, to find
 the relevant people to sell with or sell through and do the social selling. On
-Dynamics that recently we announced the Dynamics 365 for talent, where LinkedInQ - Karl Emil Keirstead
+Dynamics that recently we announced the Dynamics 365 for talent, where LinkedIn
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jha
@@ -427,7 +436,8 @@ Got it. That's exciting. On the -- you touched a little bit earlier on the Dynam
 just to complete the picture of adjacent businesses. I've always felt, frankly, that
 Microsoft has a massive opportunity to take on more of the SaaS space or call it the
 "business application market". Dynamics is a terrific start but it feels to me like
-there's further that Microsoft can go to become a real rival to Oracle and SAP andA - Rajesh Jha
+there's further that Microsoft can go to become a real rival to Oracle and SAP and
+A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jhathe broader ERP space. Do you share that view that there is a bit of a whitespace
 opportunity for Microsoft to grab, whether it's organically built or via acquisitions?
@@ -473,7 +483,8 @@ too, where every meeting, it's a very important artifact, where we probably want
 record it, transcribe it, translate it, give you automatic notes. But you get my point
 which is the cost profile, we are such a wide range of services. The cost profile, the
 margin profile, for every individual feature is very different from each other. So that's
-why, I think, you shouldn't really be thinking about Oﬃce 365 as one of these pointQ - Karl Emil Keirstead
+why, I think, you shouldn't really be thinking about Oﬃce 365 as one of these point
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jha
@@ -517,7 +528,8 @@ event for IT professionals and enterprise developers. A couple of themes that yo
 should expect to see at Ignite, for us to expand on: artificial intelligence, of course.
 From an infrastructure perspective, productivity perspective, business-application
 perspective, hybrid, cloud, how all of these things come together. You should expect
-to hear a lot of that and how that experience has evolved in a world where we haveQ - Karl Emil Keirstead
+to hear a lot of that and how that experience has evolved in a world where we have
+Q - Karl Emil Keirstead
 A - Rajesh Jha
 Q - Karl Emil Keirstead
 A - Rajesh Jha

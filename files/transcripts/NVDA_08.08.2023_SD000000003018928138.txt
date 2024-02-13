@@ -24,7 +24,8 @@ intelligence infer something like one out of -- infer like seven out of eight pi
 Computing only one out of eight and as a result, we're able to render this at 4K,
 scale it up to 4K 6 -- 4K 30 hertz. Hit it.
 Not bad for real time. Think it's safe to say that it was worth it to bet the company. We
-realized that rationalization was reaching his limits. And unless we did took such agiant risk again, an introduced a brand-new way of doing computer graphics,
+realized that rationalization was reaching his limits. And unless we did took such a
+giant risk again, an introduced a brand-new way of doing computer graphics,
 combining CG and AI for the very first time. What you just saw would not be
 possible. Modern computer graphics has been reinvented. The bet has paid off.
 While we were reinventing computer graphics with artificial intelligence, we're really
@@ -67,7 +68,8 @@ companies, and just about every single domain. And every single industry is
 pursuing ideas on generative AI. And the reason for that is very simple. The single
 most valuable thing that we do as humanity is to generate intelligent information.
 And now for the very first time, computers can help us augment our ability to
-generate information.And a number of startups are just doing amazing things. Of course, they're doing
+generate information.
+And a number of startups are just doing amazing things. Of course, they're doing
 content creation. But they're also using generative AI to steer the steering wheel of a
 self-driving car or animate, articulate the robotic arm, generate proteins, chemicals,
 discover new drugs, even learning the structure of physics so that we can generate
@@ -108,7 +110,8 @@ to plug in generative AI to help me be more productive in that. Generative AI is
 going to be plugged into just about every digital content creation tool, every single
 CAE tool, every single CAT tool. For the very first time, this new computing platform
 not only enables new applications in this new era, but helps every application in the
-old era. This is the reason why the industry is moving so fast.Well, one of the one of the important things that's going to happen is this
+old era. This is the reason why the industry is moving so fast.
+Well, one of the one of the important things that's going to happen is this
 application spaces new way of doing computing is so profoundly different, that the
 computer will be reinvented, the computer itself, the computer itself, will of course
 process information in a very different way. And we need a new processor, the
@@ -150,7 +153,8 @@ put it into this, and it will inference like crazy. The inference cost of large 
 models will drop significantly, because look how small this computer is. And you
 could scale this out in the world's data centers. Because the servers are really, really
 easy to scale out, you can connect this with Ethernet, you can connect it with
-InfiniBand. And of course, there's all kinds of different ways that you can scale it out.Let's take a look at what it means. If you were to scale it, take this and now scale it up
+InfiniBand. And of course, there's all kinds of different ways that you can scale it out.
+Let's take a look at what it means. If you were to scale it, take this and now scale it up
 into a giant system. This is two GPUs. But what if we would like to scale this up into a
 much, much larger GPU. Run it, please.
 All right, this is actual size by the way. This is actual size. And it probably even runs
@@ -189,7 +193,8 @@ Well, if you were to have an ISO budget way of processing that workload, it woul
 take, let me just choose the number $100 million and 100 million dollars and be a
 reasonably small data center these days, 100 million dollars will buy you about 8800
 x86 GPUs, it would take about five megawatts to operate that, and I normalized the
-performance into 1x.Using the exact same budget with accelerated computing Grace Hopper, it would
+performance into 1x.
+Using the exact same budget with accelerated computing Grace Hopper, it would
 consume only three megawatts. But your throughput goes up by an order of
 magnitude. Basically, the energy eﬃciency, the cost eﬃciency of accelerated
 computing for generative AI applications is about 20x, 20x in Moore's law, and just
@@ -231,7 +236,8 @@ simulated, physics simulator that allows an artificial intelligence to learn how
 perceive the environment, using a vision transformer maybe. And to use
 reinforcement learning to understand the impacts the consequences of its physical
 actions, and learn how to animate and learn how to articulate to achieve a particular
-goal. And so one mission of a connected artificial intelligence system. And a virtualUnidentified Speakerworld system that we call Omniverse is so that the future of AI could be physically
+goal. And so one mission of a connected artificial intelligence system. And a virtual
+Unidentified Speakerworld system that we call Omniverse is so that the future of AI could be physically
 grounded. The number of applications is really quite exciting, because, as we know,
 the largest industries in the world are heavy industry. And those heavy industries are
 physics based, physically based. And so, first application is so that AI can learn in a
@@ -270,7 +276,8 @@ GDN, a network that can stream high-fidelity real-time 3D experiences to devices
 over 100 regions were used to generate 1000s of individual pieces of content that
 comprise a global marketing campaign. The USD model is placed in a 3D
 environment that can either be scanned from the real-world using LiDAR and virtual
-production are created in seconds with generative AI tools from organizations suchJensen Huangas Adobe and Shutterstock. This innovative WPP solution for BYD brings generative
+production are created in seconds with generative AI tools from organizations such
+Jensen Huangas Adobe and Shutterstock. This innovative WPP solution for BYD brings generative
 AI and cloud rendered real time 3D together for the first time powering the next
 generation of e-commerce.
 
@@ -310,7 +317,8 @@ it every single computer at the edge in a cloud. And so we want to have the abil
 not just do AI -- generative AI in the cloud, but to be able to do it literally everywhere
 in the cloud and data center workstations, your PCs.
 And we want to do this by making it possible for these really complicated stacks to
-run. There's a reason why the world's AI is done largely in the cloud today. WeUnidentified Speakerpartner very closely with the CSPs, the amount of acceleration libraries and all the
+run. There's a reason why the world's AI is done largely in the cloud today. We
+Unidentified Speakerpartner very closely with the CSPs, the amount of acceleration libraries and all the
 runtimes. And from data processing to training, to inference, to deployment, the
 software stack is really complicated. The libraries and runtimes is getting it to run on
 a particular device and system is incredibly hard. And that's the reason why it's stood
@@ -352,7 +360,8 @@ project. As our project gets more complex, we need much more memory and
 compute power. So we use AI Workbench to easily scale to a workstation powered
 by 4 Nvidia RTX 6008 a generation GPUs. AI Workbench automatically creates your
 projects environment, building your container with all dependencies including
-Jupyter.Jensen HuangNow, in the Jupyter Notebook, we prompt our model to generate a picture of Toy
+Jupyter.
+Jensen HuangNow, in the Jupyter Notebook, we prompt our model to generate a picture of Toy
 Jensen in space. But because our model has never seen Toy Jensen, it creates an
 irrelevant result. To fix this, we fine tune the model with eight images of Toy Jensen,
 then prompt again. The result is much more accurate. Then with AI Workbench we
@@ -393,7 +402,8 @@ couple of 100 million GPUs that are all over the world, all CUDA compatible, mak
 -- make all of them run, it has the ability to support multi-GPU in a multi node
 environment, and every single version of our GPU 100% compatible with everything.
 And that -- this operating system of AI, if you will, has been integrated into the cloud,
-integrated with leading operating systems like Linux and Windows WSL 2, windowssubsystem for Linux. The second version WSL 2 has been optimized for CUDA and
+integrated with leading operating systems like Linux and Windows WSL 2, windows
+subsystem for Linux. The second version WSL 2 has been optimized for CUDA and
 supports VMware, the body of work that we've done with VMware is incredible, the
 stuff several years to do couple, two and a half years for us to make VMware be
 CUDA compatible, CUDA aware, multi-GPU aware, and still have all the benefits of
@@ -435,7 +445,8 @@ maybe bring all of your PDFs, and you could fine tune this model before you ask 
 prompted and ask a question. SDSL could be trained And after it can be fine-tuned,
 as I mentioned, we showed you an example of us fine tuning with Toy Jensen. You
 can now generate 40 images per minute. Okay, 40 images per minute, you're going
-to this workstation will pay for itself, and who knows, depending on how long, howmuch you use generative AI these days, it could pay for itself in months. Like I said,
+to this workstation will pay for itself, and who knows, depending on how long, how
+much you use generative AI these days, it could pay for itself in months. Like I said,
 the more you buy, the more you save. Okay.
 Incredibly fast, incredibly powerful. And it's all yours. It produces answers in seconds,
 not minutes for in some of the services that are out there. Okay, man. So another
@@ -473,7 +484,8 @@ Finally, an industry standard, powerful and extensible 3D interchange that bring
 whole world together, a really big deal.
 Now, let's take a look at why it is such a visionary thing that Pixar did, it was invented.
 Well, I forget exactly when they invented it, but they open sourced it in 2015. And
-they've been, of course, using this framework for over a decade building amazingD content. While the 3D pipeline is incredibly complicated, the 3D workﬂow is
+they've been, of course, using this framework for over a decade building amazing
+D content. While the 3D pipeline is incredibly complicated, the 3D workﬂow is
 specialized and complicated. You got designers and artists and engineers they all
 specialize in some part of the 3D workﬂow. It can be modeling and texturing,
 materials, physics simulation, animation, set design, scene composition. There are so
@@ -515,7 +527,8 @@ make a real impact.
 And so we selected USD, it was a brilliant move, the team made a just a visionary
 move to partner with Pixar, to select USD as the foundation of Omniverse. This is
 probably the world's first major platform, incredible database and engine system
-that was built completely from the ground up for USD. Every single line of code wasdesigned with USD in mind. The platform for USD for describing simulating all the
+that was built completely from the ground up for USD. Every single line of code was
+designed with USD in mind. The platform for USD for describing simulating all the
 things that we just mentioned.
 And so Omniverse was designed to connect. It's not a tool itself. It's a connector of
 tools. It's not intended to be a final production tool. It's intended to make be a
@@ -554,7 +567,8 @@ this is the latest of Omniverse.
 Just make you happy. No art, all physics, physics make you happy, doesn't it? Physics
 makes you happy? Okay, well, we wanted to put Omniverse anywhere, you could
 download Omniverse from our website and run it on your PC in your workstation for
-enthusiast and designers that that's perfect. You could also license Omniverse forenterprise. And for enterprises that are using it across many different organizations.
+enthusiast and designers that that's perfect. You could also license Omniverse for
+enterprise. And for enterprises that are using it across many different organizations.
 We even set up a managed service for you inside your company.
 We're putting Omniverse now in the cloud so that we could host and serve up API's
 that can be connected to developers and applications and services so that you can
@@ -593,7 +607,8 @@ independent of which version of USD that you're using well tested for compatibil
 Okay. And so this is going to be free for developers.
 There's another API that we're creating. And we showed you earlier how we used AI
 workbench to train this model, to fine tune this model. We started with Llama 2. And
-we taught it, we fine-tuned it for USD. And so let's take a look at the video.Unidentified Speaker
+we taught it, we fine-tuned it for USD. And so let's take a look at the video.
+Unidentified Speaker
 Jensen HuangFor USD developers, building profiling and optimizing large 3D scenes can be a very
 complex process. CHATUSD is an LLM that's fine tuned with USD functions and
 Python USD code snippets using Nvidia AI Workbench and the NeMo framework.
@@ -633,7 +648,8 @@ defined robotics assisted products in the future. All of this is done completely
 mechanically today.
 That entire ﬂow could be digitalized, and it could be integrated for the very first time
 using OpenUSD. This is the incredible vision of OpenUSD. Why we're so excited
-about it. If we can only augment it with real time capability and physics simulationcapability, and make it so that every single tool is connected to Omniverse. We can
+about it. If we can only augment it with real time capability and physics simulation
+capability, and make it so that every single tool is connected to Omniverse. We can
 digitalize the world's industries.
 Well, their excitement is enormous, because they all would love to have the
 productivity. We'd love to reduce the energy consumed. We love to reduce the
@@ -675,7 +691,8 @@ world. Hexagon is using Omniverse to connect their own tools. This is one of the
 most powerful things that they observed in Omniverse. Whereas they had different
 groups and different teams are in silos and because they're incompatible tools,
 getting them to connect together was hard. And so this was a company organization
-and a company management challenge. So very first time using Omniverse. TheyUnidentified Speaker
+and a company management challenge. So very first time using Omniverse. They
+Unidentified Speaker
 Jensen Huangbroke down the silos, they connected all the different teams, and they became one
 unified company for the very first time, really, really cool.
 This is ready robotics using Omniverse to build applications that simplify the robot
@@ -712,6 +729,7 @@ year existing factory digital twin, then to share with stakeholders use one clic
 publish the proposal to Omniverse Cloud GDN which serves a fully interactive
 review experience to any device. Fast track your factory planning process with
 NVIDIA Omniverse and generative AI.
+
 How incredible is that? Remember, it started with a 2D PowerPoint slide. And it
 ended with a virtual factory in spatial computing. That is incredible PowerPoint to a
 virtual factory, 2D to spatial 3D. So this is the future, this is the future and this is how
@@ -754,7 +772,8 @@ time, more engineering more R&D quarter of a century over quarter -- well, 30 ye
 dedicated to advancing computer graphics. I don't know any company who has
 invested so much. This industry is dear to us. The work that you do is dear to us. And
 if not for the work that you do all of you who come to SIGGRAPH each year, how was
-it possible that AI would have achieved what it is today? How would it been possibleUnidentified Speaker
+it possible that AI would have achieved what it is today? How would it been possible
+Unidentified Speaker
 Jensen Huangthat Omniverse would be possible or OpenUSD would be possible. So we made
 something special for you. Please enjoy.
 It all started over 50 years ago, with a simple question. What if a computer could

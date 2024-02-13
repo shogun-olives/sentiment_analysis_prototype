@@ -15,7 +15,8 @@ we made a video of just some of these special people. And I would love to play i
 you now.
 (presentation)
 We are so inspired by these people and how the Mac has played such a vital role in
-their creativity. People love the Mac. And they use it to create all kinds of amazingLaura Legrosthings every day. So it's not surprising to see that the Mac continues to attract so
+their creativity. People love the Mac. And they use it to create all kinds of amazing
+Laura Legrosthings every day. So it's not surprising to see that the Mac continues to attract so
 many new customers. In fact, over half of Mac buyers worldwide are new to Mac.
 And that number is a remarkable 76% in China. We're adding millions and millions of
 new customers every quarter, bringing our total active installed base to a new major
@@ -57,7 +58,8 @@ of the product has been redesigned and reengineered. Every detail has a
 remarkably precise fit and finish. And everything you see and touch has been
 carefully refined. It's absolutely beautiful.
 Now as Tim said, the #1 feature customers have wanted in the MacBook Air has been
-a Retina display. But we've made the display better in every way. The familiaraluminum bezel -- the familiar aluminum bezel of the current MacBook Air is gone.
+a Retina display. But we've made the display better in every way. The familiar
+aluminum bezel -- the familiar aluminum bezel of the current MacBook Air is gone.
 The new Air's sleek design takes the display glass right to the edge of the enclosure
 forming borders that are 50% narrower. It features a 13.3-inch display, which is the
 perfect size for such a portable notebook. And when it comes to resolution, we've
@@ -99,7 +101,8 @@ better sound experience. Our acoustic engineering team has made huge strides in
 audio performance in all of our products. And the MacBook Air is no exception. It is
 25% louder. It has 2x more bass and wide stereo sound. In addition, it has a 3-
 microphone array, which will make those group FaceTime calls crystal clear. And it
-also improves the voice recognition of Siri. And the new MacBook Air needs next-generation I/O. So the new MacBook Air has 2 Thunderbolt 3 ports. So from
+also improves the voice recognition of Siri. And the new MacBook Air needs next-
+generation I/O. So the new MacBook Air has 2 Thunderbolt 3 ports. So from
 charging to data transfer, to video out, it's the most versatile port ever. And there's a
 whole host of devices you can connect. From Thunderbolt and USB-C external
 storage up to a 5K display or eGPU that can accelerate graphics up to 17x so the new
@@ -138,7 +141,8 @@ greenest Mac ever. So to hear more about this alloy and all of the new features 
 MacBook Air, we've created a video that I'd like to play for you now.
 (presentation)
 What a huge leap forward for MacBook Air. So the new MacBook Air is configured
-with 8 gigabytes of memory, a 1.6GHz Core i5 processor with turbo up to 3.6GHzTimothy D. Cook
+with 8 gigabytes of memory, a 1.6GHz Core i5 processor with turbo up to 3.6GHz
+Timothy D. Cook
 Tom Bogerand 128 gigs of storage and will start at $1,199, making it the most affordable retina
 Mac we've ever offered.
 You can order it starting today. And it will be available next week. So that's the
@@ -172,7 +176,8 @@ Next up is memory. Now the previous Mac mini went up to 16 gigabytes of memory.
 So naturally, the new Mac mini goes to 32 gigs of memory. But we didn't want to
 stop there either. So the new Mac mini can now go up to 64 gigs of memory. And
 not only is this memory faster, it's also in SO-DIMMS, something we know our Mac
-mini customers will really appreciate.Timothy D. CookNext up is storage. Now many Mac mini customers depend on the speed and
+mini customers will really appreciate.
+Timothy D. CookNext up is storage. Now many Mac mini customers depend on the speed and
 reliability of SSDs. So now every Mac mini has all-ﬂash storage. With SSDs that are up
 to 4x faster and capacities up to 2 terabytes. And that's double the capacity of the
 previous Mac mini. And every new Mac mini also has the Apple T2 security chip with
@@ -213,7 +218,8 @@ hands of all those customers out there that are so passionate about the Mac mini
 And now, back to Tim.
 
 All right. Thank you, Tom. And thanks, again, Laura. The new MacBook Air and Mac
-mini, they are absolutely amazing. These new Macs are going to help our customersAngela J. Ahrendtsbe even more productive and more creative. Now there are ways that Apple aims to
+mini, they are absolutely amazing. These new Macs are going to help our customers
+Angela J. Ahrendtsbe even more productive and more creative. Now there are ways that Apple aims to
 inspire creativity in our users, including in our stores. The mission of our stores has
 always been to enrich the lives of our customers by educating and inspiring them to
 go even further. One of the new ways that we're taking their creativity even further is
@@ -253,7 +259,8 @@ This month, in partnership with The Big Draw Festival, local artists have been l
 sessions in our ﬂagships globally, teaching and celebrating drawing, like Josh
 Cochran, a local New York artist, who's leading a session across the street this
 afternoon. Since the launch of Today at Apple only 18 months ago, we have held over
-18,000 sessions a week attended by millions of curious creatives around the world.Timothy D. CookAnd with the newest release of the Apple Store app, we've made it even easier for
+18,000 sessions a week attended by millions of curious creatives around the world.
+Timothy D. CookAnd with the newest release of the Apple Store app, we've made it even easier for
 you to find out what's happening near you. Just tap on the Sessions tab. And you'll
 see a spotlight of the newest Today at Apple sessions in your city. It will also
 recommend sessions based on the products that you own and signature programs
@@ -293,6 +300,7 @@ And Today at Apple is brought to life by our 3,000 Apple creatives and the entir
 retail team whose passion, energy and commitment to humanize technology helps
 unleash the creative potential in us all.
 Thank you. So much. Back to you, Tim.
+
 John TernusWow. No one else has anything like Today at Apple. In addition to the 3,000 creative
 pros, we have over 70,000 team members that are dedicated to help you get the
 most out of your products. And they are the best team on the planet.
@@ -328,7 +336,8 @@ same pixel masking and antialiasing technology that we introduced in the iPhone 
 And just like in the XR, we call it a Liquid Retina display.
 It is packed with our most advanced technologies like wide color, true tone,
 ProMotion and, of course, support for Apple Pencil. And this all comes together to
-deliver the most accurate, responsive and beautiful display we have ever made.Now the narrow border design gave us an opportunity to take a fresh look at our
+deliver the most accurate, responsive and beautiful display we have ever made.
+Now the narrow border design gave us an opportunity to take a fresh look at our
 iPad Pro sizes. The original 10.5-inch iPad Pro is an amazing device that offers plenty
 of area to get your work done and an enclosure that's large enough to support a full-
 size keyboard. But it's still just one pound and super portable. It really has been the
@@ -371,7 +380,8 @@ up from the dock to the side. And then you can easily drag and drop between them
 And slide-over gets you a quick view to another app, like when you need to quickly
 respond to a message. There's always plenty of room to get what you need done.
 This new iPad experience is all about making the most of these large displays, with
-space for creativity and to work with multiple apps at once. And all that is possiblebecause of what we put under the hood because these new iPad Pros are powered
+space for creativity and to work with multiple apps at once. And all that is possible
+because of what we put under the hood because these new iPad Pros are powered
 by the all-new A12X Bionic. And this thing is a monster.
 Just like the A12 in our latest phones, it's built on our latest 7-nanometer technology.
 No other tablet, laptop or even desktop has been able to make this leap forward.
@@ -418,7 +428,8 @@ capabilities to the iPad Pros. By connecting to accessories that change how you 
 your iPad. Cameras, musical instruments or even docs or connecting to high-
 resolution external displays up to 5K. And with USB-C, you can connect to these data
 accessories and displays at the same time. We think our Pro customers are really
-going to love this. And also, for the first time on these iPad Pros, we now supportShaan Prudencharging out over USB-C. So you can even charge your iPhone when you're on the
+going to love this. And also, for the first time on these iPad Pros, we now support
+Shaan Prudencharging out over USB-C. So you can even charge your iPhone when you're on the
 go.
 Now one of the most important and game-changing accessories for the iPad Pro has
 been the Apple Pencil, with its lowest-latency subpixel precision, force and tilt
@@ -462,7 +473,8 @@ Smart Keyboard Folio and USB-C, which offers high-performance connectivity to a
 wide variety of accessories. But that said, the new iPad Pro really comes to life
 through the incredible apps that have been designed for it. And to tell you more
 about that, I'd like to invite Shaan Pruden, Senior Director of Worldwide Developer
-Relations to the stage. Shaan?Greg ThomasOur developers are amazing. Today, there are over 1 million apps specifically
+Relations to the stage. Shaan?
+Greg ThomasOur developers are amazing. Today, there are over 1 million apps specifically
 designed to transform your iPad into anything you need with just a tap. And with the
 new iPad Pro, apps you already know and love are going to look better and perform
 even faster than before, like Procreate for sketching and illustration, capturing notes
@@ -502,7 +514,8 @@ recreated exactly so that your Brooklyn Nets feel right at home today. But I see
 buddy Mike here has chosen the world champion Golden State Warriors. But if you
 want to play as Steph Curry, you can play a Steph Curry. Watch the player with the
 blue circle at his feet as the rest of the team moves across the court. Using seamless
-motion magic and inverse kinematics, we're able to create an unlimited number ofShaan Pruden
+motion magic and inverse kinematics, we're able to create an unlimited number of
+Shaan Pruden
 Jamie Myrold
 Chantel Bensonanimations all at 60 frames per second. Okay. Let's take a step back and look at this
 beautiful arena. Even the sidelines and the thousands of fans are individually
@@ -543,7 +556,8 @@ Okay. Let's drop a blend mode on there and there we go. Now, this is Photoshop
 reimagined for touch. So we have instituted many ways to have contextual UI. So I
 can use this touch modifier under my thumb to switch between doing things I do all
 the time. So duplicate and move. Now that ﬂower looks nicely framed by those pops
-of yellow. And we're ready to go. Okay.Jamie Myrold
+of yellow. And we're ready to go. Okay.
+Jamie Myrold
 Shaan PrudenSo let's zoom out and you can see this full bouquet. It's made up of 135 individual
 ﬂower images. And you'll see that there's this really intricate mask applied to the
 whole layer stack. So that means that when I want to make adjustments, I can just dial
@@ -583,7 +597,8 @@ why we're so excited to be partnering with Adobe on these and other next-
 generation apps for creative pros. This is what we mean when we talk about the iPad
 being a magical piece of glass that can be anything you need it to be. And with the
 next generation of apps from our developers, it's going to completely change how
-you get things done in ways you never imagined. Back to you, John.John Ternus
+you get things done in ways you never imagined. Back to you, John.
+John Ternus
 Timothy D. Cook
 Thanks, Shaan. Those are some incredible apps. It's amazing how much performance
 we packed into these iPads. We were so excited about the all-new iPad Pro that we
@@ -620,7 +635,8 @@ Touch ID and this beautiful Retina display. And our most loved Mac is now our
 greenest Mac. And the new Mac mini, it's the mightiest and most versatile Mac mini
 ever. And our to-date Apple sessions in our retail stores designed to help our
 customers take their creativity even further. And the incredible new iPad Pro with its
-beautiful all-screen design, chockful of advanced features and the A12X Bionic, theLana Del Rey
+beautiful all-screen design, chockful of advanced features and the A12X Bionic, the
+Lana Del Rey
 Timothy D. Cookmost powerful chip we have ever created. You're going to be amazed by what you
 can do with this product.
 At Apple, we love how people use our products to create truly wonderful things and
@@ -655,7 +671,8 @@ Thank you very much.
 
 Thank you. Lana Del Ray.
 I'd like to thank everyone for joining us today in New York and everyone that's been
-watching online. And I'd like to thank everyone at Apple who made today possibleand makes every day possible. It couldn't be done without you. We've got a hands-
+watching online. And I'd like to thank everyone at Apple who made today possible
+and makes every day possible. It couldn't be done without you. We've got a hands-
 on area with these amazing products just down the road at 1 Hanson Place. We'll
 have people escort you over there. I encourage you to go try them out for
 yourselves. They are amazing.

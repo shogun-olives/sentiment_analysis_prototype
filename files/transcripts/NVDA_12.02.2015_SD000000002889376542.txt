@@ -12,7 +12,8 @@ more than 15 years ago. But our focus is really as a platform for each of these 
 markets. And providing end-to-end underlying chip, software. And overall solution to
 approach each of these markets.
 Part of this transformation can be seen just here in terms of our business mix. If you
-go back as early as fiscal year 2013, just a couple years ago. And you look at thosefour key markets of gaming, pro-vis, datacenter and auto. That represented a little bit
+go back as early as fiscal year 2013, just a couple years ago. And you look at those
+four key markets of gaming, pro-vis, datacenter and auto. That represented a little bit
 over 50% of our overall market.
 Our PC and our Tegra SOC OEM market, where we sell in directly to OEMs, still
 represented about 40% of our overall market. And then a small amount from our IP,
@@ -48,7 +49,8 @@ produced a tremendous amount of profitability at the bottom line. So far this ye
 continued growth in terms of our operating margins as well, as we continue to focus
 as operating margin as one of our key measures of performance going forward.
 So breaking down those four large markets, gaming is our largest market. It
-represents probably more than 50% of our overall Company size revenue. At theend of fiscal year 2015 it had grown 36% year on year. So far year to date, fiscal year
+represents probably more than 50% of our overall Company size revenue. At the
+end of fiscal year 2015 it had grown 36% year on year. So far year to date, fiscal year
 2016 it's grown 42%. What's driving our overall gaming market? The excitement
 around gaming, the overall architecture, new products coming out. But also the key
 games. The production value of the games that are hitting the market now couldn't
@@ -87,7 +89,8 @@ datacenter acceleration. That you're actually using that training capability int
 production. And using that to produce the application horsepower in that area as
 well.
 So our datacenter business, at the end of fiscal year 2015, had grown more than
-50%. We're still on a growth path right now year to date in fiscal year 2016. And ourQ - Unidentified Participant
+50%. We're still on a growth path right now year to date in fiscal year 2016. And our
+Q - Unidentified Participant
 A - Colette Kressexpansion that we see of acceleration in the datacenter couldn't be stronger in terms
 of our pipeline.
 Our automotive, we usually talk about automotive right after we talk about
@@ -123,6 +126,7 @@ migrating out of the supercomputer market, more into the hyper-scale cloud
 market? Specifically, what % of your revenue today in datacenter is actually from
 hyper-scale customers. And how do you see sort of that TAM evolving over the next--
 call it-- 1 to 3 to five years?
+
 Q - Unidentified Participant
 A - Colette KressYes. So our overall datacenter business probably two to three years ago was
 primarily just HPC, high-performance computing. And an area that is still growing
@@ -162,7 +166,8 @@ The best integratives that are coming out of research institutions or higher
 education, are being trained on CUDA. And programming on a GPU. It makes it
 easier at that software level for continuing to revise algorithms, continuing to revise
 the overall programming to match the overall application down to the hardware. It's
-just an easier form factor.Q - Unidentified Participant
+just an easier form factor.
+Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
 A - Colette KressAdditionally the GPU has tremendous performance. The multiplication factor of that
@@ -201,7 +206,8 @@ term targets against AMD. And kind of why you think you're winning in the
 marketplace from a share perspective.
 
 Yes. On the gaming platform, we-- primarily our business is focused on an add-in
-card market for overall gamers. Our approach though, it is not a chip solution. WeQ - Unidentified Participant
+card market for overall gamers. Our approach though, it is not a chip solution. We
+Q - Unidentified Participant
 A - Colette Kressare really working with the gamers with many key features that you receive with a
 GPU from NVIDIA.
 We focus on a set of game works, which is a set of software capabilities that enables
@@ -239,7 +245,8 @@ We see tremendous amounts of startups focused on the content as well. And we see
 the desire from a lot of gamers, the growing population over what gaming will be in
 terms of the future.
 I think VR also has a continued path, even in terms of the enterprise as we go
-forward, many uses in terms of prototyping that can be saved, in terms of walkingQ - Unidentified Participant
+forward, many uses in terms of prototyping that can be saved, in terms of walking
+Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
 A - Colette Kressthrough areas, simulations, which will be important for the enterprise as well. But the
@@ -277,7 +284,8 @@ But we just haven't seen that market start yet. So there is excitement as we hea
 2016. But I think we're thoughtful. As we know some are already probably
 purchasing to enable their VR experience when the glasses actually come here. So
 those will be probably the first movers. But there's definitely an upgrade cycle for
-some to take advantage of VR.Q - Unidentified Participant
+some to take advantage of VR.
+Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified ParticipantIt's just too early. We're not at the realm to understand how many units will actually
 be available in the market.
@@ -315,5 +323,6 @@ startups with us.
 So I think it's early in the process. I think we're very confident in terms of the solution.
 Because we have been working with so many OEM manufacturers on the platform.
 Great. With that, we've come to the end of this session. I want to thank Colette and
-everyone in the audience for joining us this morning. Thank you very much.A - Colette Kress
+everyone in the audience for joining us this morning. Thank you very much.
+A - Colette Kress
 Thank you.

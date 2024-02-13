@@ -18,7 +18,8 @@ better guarantees on delivery. But then how does that work for AWS? What are the
 things that never change for our customers? Security, performance, scale, reliability,
 cost eﬃciency and operational excellence, all those things never change. And
 anything we do over those parameters will benefit you forever. And most of our sales
-things are not things where we put out a press release about, it's really things sort ofinnovation that we do behind the covers, to, for example, always make sure that we
+things are not things where we put out a press release about, it's really things sort of
+innovation that we do behind the covers, to, for example, always make sure that we
 improve the performance of all the components in the system that we have.
 And so I thought that today, we look at some of those things that we've done at
 AWS, behind the scenes. And then doing a little bit of a deep dive on them and see
@@ -56,7 +57,8 @@ Amazon. We're really thinking about sort of taking some of the lessons that we'v
 learned in software and actually apply them to the hardware world and the
 virtualization world as well. Basically, you should see the traditional virtualization
 world as a monolith, yes, where all the hardware components actually are managed
-by the same hypervisor.And so well, if we actually take the lessons from micro services, where you have small
+by the same hypervisor.
+And so well, if we actually take the lessons from micro services, where you have small
 building blocks, where you can really quickly innovate on and if we can then supply
 those to the hardware world as well, maybe we can chase the world of virtualization
 as well.
@@ -94,7 +96,8 @@ you would create a volume, an EBS volume, you would do a volume attach. That
 would actually talk to the EBS control plane, who talks to the EBS cards on the Nitro -
 - in the Nitro System who then actually makes that as an NVMe device, notifies the
 PCI bus and then the hypervisor traps that and actually mounts that volume then in
-the guest arrest.And we've been quite successful with this. If you look at sort of the pre Nitro
+the guest arrest.
+And we've been quite successful with this. If you look at sort of the pre Nitro
 hypervisor. And this is sort of a typical jitter that you would be seeing if you interact
 with an EBS device. This is after we've oﬄoaded it onto Nitro. Basically, all jitter has
 disappeared. This has allowed us to double the IOPs to EBS, increase the throughput
@@ -136,7 +139,8 @@ The same goes -- the external control planes, whether they be EC2 or EBS, they a
 allowed to communicate it in Nitro Controller, like we just saw earlier on in the EBS
 example. The Nitro Controller, however, is not allowed to take any other actions. If
 the Nitro Controller actually starts actively going out on the network, you again know
-that the system is compromised and you can isolate it.This is a unique communication design that allows us to build extremely secure
+that the system is compromised and you can isolate it.
+This is a unique communication design that allows us to build extremely secure
 systems, yes? So you really need to be able to do, in my eyes, trusted computing in
 an untrusted world. And as such, we've created 2 trusted parts, with the Nitro system.
 But the Nitro system also sits on a complete trusted network by itself. So all the
@@ -176,7 +180,8 @@ or to disk. And you, as the parent instance, you can actually communicate it ove
 (Sox) with a secure channel. This allows quite a few of our customers to have even
 higher control over sensitive data.
 Now if you look at sort of Nitro-related innovation, can you figure out where that
-started, yes? We've been able to increase the release of 4x number of instances andClare Liguoriafter that, we induced Nitro. And it really has been a game changer. It has really
+started, yes? We've been able to increase the release of 4x number of instances and
+Clare Liguoriafter that, we induced Nitro. And it really has been a game changer. It has really
 changed the way that we think about our compute environment and the control of
 our compute environment.
 It also allowed us to go up stack and think about sort of, can we find support for --
@@ -214,7 +219,8 @@ the pods needed to handle that traﬃc. So while we're waiting for those instanc
 start up, we're under-provisioned, causing that big latency spike. Then, after a while,
 the traﬃc is going to start to drop off. Kubernetes is going to spin down pods and
 eventually terminate those EC2 instances. But that instant scale-down tends to lag
-behind the pod scale-down. So during this time, we're actually over-provisioned.Let's now look at what happens in the same situation. But running under the hood
+behind the pod scale-down. So during this time, we're actually over-provisioned.
+Let's now look at what happens in the same situation. But running under the hood
 on Fargate. With Fargate, I don't want to worry about having enough EC2 instances
 to run all of these pods, it's serverless compute. Fargate takes care of isolating each
 pod in a virtual machine and allocating the right amount of compute per pod. So
@@ -256,7 +262,8 @@ leveraging Firecracker to provide fast, eﬃcient isolation in their projects.
 So with Firecracker-based isolation, each Fargate application can be allocated a fresh
 Firecracker microVM instead of a fresh EC2 instance. These microVMs look pretty
 similar to the EC2 instance I showed you already. They look the same on the inside.
-There's no difference to the application container running inside them. And theyWerner Vogelshave all the same components like the Fargate data plane. But with Firecracker, we're
+There's no difference to the application container running inside them. And they
+Werner Vogelshave all the same components like the Fargate data plane. But with Firecracker, we're
 able to achieve better eﬃciency compared to traditional VMs. We can pack many
 microVMs onto a single nitro bare metal instance with each microVM running its own
 isolated Fargate application. As we run more and more of Fargate on Firecracker,
@@ -295,7 +302,8 @@ serverless technologies will be first adopted by, let's say, young technology
 companies. And it turns out, that's not the case. The rapid adoption of serverless is
 happening in the enterprise, mostly because you really only have to pay for your
 execution times. And the management is so much simpler. And as such, enterprises
-are adopting serverless at tremendous speed.Jeffrey DowdsAnd we'd like to introduce to you Jeffrey Dowds, the IT executive of Vanguard to
+are adopting serverless at tremendous speed.
+Jeffrey DowdsAnd we'd like to introduce to you Jeffrey Dowds, the IT executive of Vanguard to
 share about how they are making use of these technologies to completely revamp
 Vanguard. Jeffrey?
 
@@ -334,7 +342,8 @@ aligned goals.
 So how does a big firm like Vanguard, with big data centers, get to the cloud? What
 was our starting point? We had a traditional tech stack heavily virtualized. We had
 big data platforms, monolithic applications. I'm not talking about monolith. There are
-1 million lines of code. We had monoliths that were 30 million, 40 million, 50 millionlines of code. And we had an aPaaS running on-prem for our emerging portfolio of
+1 million lines of code. We had monoliths that were 30 million, 40 million, 50 million
+lines of code. And we had an aPaaS running on-prem for our emerging portfolio of
 microservices.
 Following a design guideline of security first, commensurate with a heavily regulated
 asset manager, we built out our accounts, DPCs and the security apparatus that
@@ -371,7 +380,8 @@ in the near future.
 Finally, we started to move the gold copy of bounded context of function and data
 to the cloud. Recently, we have strategically decided to host our emerging advisory
 platform on ECS on Fargate. This platform supports our advice services that are
-increasingly in demand from our clients.Werner VogelsSo here's our end state, just about a 100% cloud native architecture. So what does
+increasingly in demand from our clients.
+Werner VogelsSo here's our end state, just about a 100% cloud native architecture. So what does
 Vanguard get out of this? We know we can reduce the cost of compute by at least
 30%. We know we can build software 30% faster. We know we can deploy our
 capabilities 20x faster. And all this leads to a better ability to innovate. And along the
@@ -411,7 +421,8 @@ Now one of the things that I'm always proud of with S3 and which is one of the c
 principle with S3 is reliability, mostly because, as I always like to say, everything fails
 all the time, yes? And mostly, if you think about hardware, if you think about disks,
 they really have high failure rates. But network controllers do weird things. You have
-bit ﬂips in memory. There's all these things that will happen to you at scale that youneed to be able to be prepared for. And that's even the hardware, not even thinking
+bit ﬂips in memory. There's all these things that will happen to you at scale that you
+need to be able to be prepared for. And that's even the hardware, not even thinking
 about sort of like Black Swan events like a bug catching its -- in one of the
 components.
 So we're always thinking about how can we reduce the impact -- if things fail, how
@@ -449,7 +460,8 @@ shards.
 And so, the configuration master doesn't have to do that terribly much. But if
 multiple things fail at the same time, this thing can get easily overloaded and
 especially because we're not talking about 1 disk. We're not talking about 1 volume.
-We are talking about millions and millions and millions of volumes.And so if you only have 1 configuration master, that configuration master actually
+We are talking about millions and millions and millions of volumes.
+And so if you only have 1 configuration master, that configuration master actually
 becomes a single point of failure because it can easily to get overwhelmed. So
 thinking about sort of what can we do to improve that? Now as always, there is
 always this tension between consistency and availability. Now the CAP theorem says
@@ -490,7 +502,8 @@ are really tied. And so what often happens is that clients move throughout the A
 and this gets -- volumes get attached to different servers, things like that. So with
 Physalia, we're able to make sure that the configuration master lives as close to the
 cells as possible, to the clients as possible and as such, again, reducing the blast
-radius.So if you look at sort of what the impact has been of Physalia, this is before Physalia.
+radius.
+So if you look at sort of what the impact has been of Physalia, this is before Physalia.
 This is sort of the error rate in -- this is an aggregate error rate of accessing
 configuration master in a pre-Physalia world. And always, as you can see, what
 happens after that, it's actually pretty spectacular.
@@ -532,7 +545,8 @@ But for the rest, I think the math really builds this real.
 Now with all of this, building distributed systems is hard, yes? And we've always
 done that. And we've done this at Amazon for the past 20, 25 years at scale that is
 unparalleled. And so -- but many of you have always been asking us, how do you
-guys do this? I mean, after 25 years, you must have a lot of experience in buildingSebastien de Halleuxthese kind of systems. So how does Amazon do this sort of build resilience into that?
+guys do this? I mean, after 25 years, you must have a lot of experience in building
+Sebastien de Halleuxthese kind of systems. So how does Amazon do this sort of build resilience into that?
 How does Amazon engineer this scale? What are the kind of lessons that you have
 learned about managing operations.
 And so we've been thinking about what we can do there for you. And we've gotten
@@ -570,7 +584,8 @@ So this is what we set out to do at Saildrone. Our breakthrough started 10 years
 pursuing the land-sailing speed record. On March 26, 2009, our founder, Richard
 Jenkins, broke the record in the Mojave Desert, 126.2 miles per hour in a wind-
 powered car called the Greenbird Mark V. That record is still standing. And -- thank
-you. And this was the birth of the Saildrone.At the core of the record was an innovative wing and tail arrangement similar to what
+you. And this was the birth of the Saildrone.
+At the core of the record was an innovative wing and tail arrangement similar to what
 provides lift to an airplane. But tilted 90 degrees. This is a solution that's capable of
 producing immense forward propulsion for very long periods of time. But it only
 consumes less than 3 watts of electrical power, less than a refrigerator light bulb.
@@ -610,7 +625,8 @@ data set now powers the very first machine learning algorithm optimized for
 maritime domain awareness, which is a place where everything is always moving in
 every frame, a very complex problem. This is, of course, still work-in-progress
 because the ocean keeps on surprising us. And the algorithm encounters novel
-scenes like a drone-riding seal, which is very hard to tag.Earlier this year, Saildrone successfully completed the first ever unmanned
+scenes like a drone-riding seal, which is very hard to tag.
+Earlier this year, Saildrone successfully completed the first ever unmanned
 autonomous circumnavigation of Antarctica. You've seen from the deep race how
 hard is to go around the track. We went around Antarctica, 196 days nonstop from
 New Zealand to New Zealand. And data from this mission quantified the key role,
@@ -650,7 +666,8 @@ present the Saildrone surveyor, which is a 72-foot long wind-powered vehicle
 carrying a 1 ton sonar system capable of imaging the bottom of the sea down to
 8,000 meters. That's 24,000 feet.
 So together with our partners, we aim to complete this mission within the next 10
-years, creating the very first complete map of Earth for the benefit of humanity. It's aWerner Vogelstrue planetary endeavor. And it involves unprecedented scope and data sets. And
+years, creating the very first complete map of Earth for the benefit of humanity. It's a
+Werner Vogelstrue planetary endeavor. And it involves unprecedented scope and data sets. And
 like so much of our work, it's really made possible by our collaboration with AWS to
 help store and process this amazing set of critical data.
 So we're excited to see what the future holds as we explore new realms and new
@@ -688,7 +705,8 @@ you can actually do the analytics.
 And if you want to create insights, there's a lot of insights to be had. I mean, if I look,
 for example, at predictive maintenance or autonomous transportation, wearables,
 collaborative robots, all of these kind of things is, in my eyes, what Industry 4.0 is
-about. But there's hardly any manufacturing that is already at that pace.And today, then if these factories are already producing about 1,800 petabytes of
+about. But there's hardly any manufacturing that is already at that pace.
+And today, then if these factories are already producing about 1,800 petabytes of
 data a year. But it's only a small fraction of what is needed to really create the
 insights into this world. And whether that is in manufacturers or whether it is in smart
 cities or -- if you actually start moving this data into the cloud, you can actually have
@@ -730,7 +748,8 @@ the large manufacturers, is it from a mom or pop shop? Then the question is, whe
 do we place them? Then if -- once we place them, what kind of promises can we give
 to our customers in terms of delivery? And this is actually pretty challenging, yes?
 Because actually, if it's a very popular product, not something seasonal like warm
-socks or sun hats in the summer, that's easy here to do. Or if it's just coffee andthings like that. Those are all easy things to predict because they actually sold across
+socks or sun hats in the summer, that's easy here to do. Or if it's just coffee and
+things like that. Those are all easy things to predict because they actually sold across
 the world.
 But what now if you need to -- if you have a Nicolas Cage reversible sequin pillow
 cover. Well if you have that one, that's harder to predict where you would actually
@@ -770,7 +789,8 @@ natural LPG, whatever, is actually to freeze it down to 160 degrees under 0. And
 that happens in this massive refrigerator over here. And one of the things there in
 the old world, if you would have sensors on them, the only thing that these sensors
 would do is alarm you if something went wrong. They didn't have any ability to
-produce data.Woodside moved to a system where they actually were producing data and actually -
+produce data.
+Woodside moved to a system where they actually were producing data and actually -
 - so there's a process part of this, there's failure part that's called foaming and that
 would -- and that was sort of an alarm go off. And then the whole factory would have
 to shut down for maybe even weeks. And it's a pretty hazardous environment.
@@ -810,7 +830,8 @@ within 60 seconds, be able to actually identify where the location was of a guns
 and send -- and have law enforcement actually take care for that.
 The city of Miami has taken this on and -- in 2014. And since then, homicides have
 dropped 35% in Miami. The city of Virginia Beach has put sensors out in the ocean to
-start measuring and predicting when ﬂoods are going to happen. The same is forMartin HofmannMiovision, they actually put sensors in and around the streets so they can optimize
+start measuring and predicting when ﬂoods are going to happen. The same is for
+Martin HofmannMiovision, they actually put sensors in and around the streets so they can optimize
 transportation.
 A lot of very interesting sort of physical digital world is that of agriculture. And
 there's a lot of work going on in developing and finding new ways to feed the future.
@@ -846,7 +867,8 @@ want to drive a different model every day, it's going to take you a year of pure
 and joy, I promise.
 We produce 11 million vehicles per year, which is about 44,000 a day. Why do I
 mention this number? This is a massive scale and a requirement for any supply chain
-on a global basis to run in a very eﬃcient and effective way.So our supply chain is highly complex and global. We have more than 1,500
+on a global basis to run in a very eﬃcient and effective way.
+So our supply chain is highly complex and global. We have more than 1,500
 suppliers globally. And they produce and manufacture every day more than 200
 million components and parts. And these components and parts have to be shipped
 into our global factories. So there are 18,000 trucks per day shipping components
@@ -885,7 +907,8 @@ open source ecosystem. So this is going to be one of the biggest ecosystems that
 will be built in the industry.
 The architecture behind, I can't go into all the details and you know them better than
 I do. But there are 4 major building blocks that we're using the architecture. One is
-the OT, operation technology, IT gateway, connecting machines, robots into theWerner Vogelscloud. It's the Edge gateway because a lot of the functions and workloads have to
+the OT, operation technology, IT gateway, connecting machines, robots into the
+Werner Vogelscloud. It's the Edge gateway because a lot of the functions and workloads have to
 run close to the machines. We're using outposts, 2 outposts per factory because
 there are several applications that have to run on-prem and this is why we're using
 outposts for our plant cloud. And the fourth element is our DPP enterprise cloud.
@@ -922,7 +945,8 @@ For example, Aquabyte is a company out of Bergen -- it's in Bergen in Norway. An
 they're working on how to create protein. Now, the protein is likely to become the
 major food source in the future. And so what they do, they grow salmons. And in a
 bin like that, it easily has 200,000 salmons. And so it's interesting to see that they
-allowed us to come on-site and actually video this.So we started a TV series called Now Go Build. And there's been 8 episodes by now.
+allowed us to come on-site and actually video this.
+So we started a TV series called Now Go Build. And there's been 8 episodes by now.
 And they all deal with some of the world's hardest problems, where young
 businesses are really tackling hard problems in collaboration with AWS. So this is
 around food. This is one of my favorite. This was the first episode we did. It is in a

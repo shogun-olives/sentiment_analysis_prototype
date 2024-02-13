@@ -25,7 +25,8 @@ to us extends beyond individual OneDrives and personal computers. It now spans
 our colleagues' OneDrives, takes access to SharePoint document libraries, travels,
 attachments, and email invites, gets exchanged through Teams chats. And so, to
 address these modern challenges, we're now introducing today the third generation
-of OneDrive. And with it, OneDrive becomes your solution for all your files and allArwa Tyebkhanyour content you work with no matter where it lives. It's adaptable and
+of OneDrive. And with it, OneDrive becomes your solution for all your files and all
+Arwa Tyebkhanyour content you work with no matter where it lives. It's adaptable and
 personalizable to how you choose to find and organize what's important to you.
 Another reality of how we work today is that collaboration has taken center stage,
 becoming the standard rather than the exception. So, sharing documents and
@@ -63,7 +64,8 @@ access your files across the ecosystem with AI-powered file recommendations in t
 For You section. Our goal is to surface the right file at the right time right at your
 fingertips. And we're making a snap to quickly get back to a file you used recently
 right from your recent list in home. Whether that file lives in your OneDrive, has been
-shared by a colleague, or lives in a Team or document library, it's all here. You canquickly filter this list using the filter pills or by entering a name or owner for the file
+shared by a colleague, or lives in a Team or document library, it's all here. You can
+quickly filter this list using the filter pills or by entering a name or owner for the file
 you're looking for.
 Now, we know that the types of content that you work with has evolved over time
 and we're here to cater to all your content needs. OneDrive is growing to support
@@ -103,7 +105,8 @@ you. For those of us who recall files in a people-centric way, OneDrive is intro
 a new people view. This view focuses on the people you work with and helps you
 quickly find files you're working on together. Rich thumbnails and activity previews
 help keep you up to speed on collaboration activity, removing the guesswork in
-finding the right file. Of course, you'll be able to filter and find the right person. AndGaia Cariniif you want to quickly get back to them again, you can also pin those people to the
+finding the right file. Of course, you'll be able to filter and find the right person. And
+Gaia Cariniif you want to quickly get back to them again, you can also pin those people to the
 top of the view.
 Our new Meetings view is all about your collaboration content across your meetings,
 from the one-off syncs to those that are regularly scheduled. For instance, you might
@@ -141,7 +144,8 @@ Thanks, Arwa. I'm thrilled to share the latest innovation to make it easier than
 work with your files in OneDrive with a familiar and coherent experience across all
 the apps you use.
 Let's start with sharing files. We want to make sharing and collaboration with
-OneDrive as simple as possible, which is why we've completely revamped the Sharedialogue across all of Microsoft 365. This new simplified sharing experience is more
+OneDrive as simple as possible, which is why we've completely revamped the Share
+dialogue across all of Microsoft 365. This new simplified sharing experience is more
 secure, faster, and easier to use than ever before. We've streamlined the sharing UI
 to allow you to focus on the people that you want to share with, and made it faster to
 copy links to your clipboard. You can then paste the link into a Teams chat or a
@@ -183,7 +187,8 @@ This will ensure Teams users benefit from all the performance improvements, new
 views, and feature enhancements that we've shared today. In Outlook, we're soon
 adding the OneDrive app to the left navigation as well. This will create a simple and
 convenient bridge from your mail and calendar to your files so that you can save
-attachments, open and share files, all without having to switch apps.Sesha ManiFinally, in File Explorer in Windows 11, we've brought you the latest Share dialog
+attachments, open and share files, all without having to switch apps.
+Sesha ManiFinally, in File Explorer in Windows 11, we've brought you the latest Share dialog
 improvements to make collaboration easier; the Home view with AI-powered file
 recommendations, favorite and recent files, surfacing the most relevant content at
 your fingertips; and the new Details pane with the file activity, related files and
@@ -221,7 +226,8 @@ phone.
 Note that she is prompted only when she accesses her content in her OneDrive, and
 this applies not only to Megan, but also to all her collaborators who access shared
 files from Megan's OneDrive. Now, that is granular access control, and it protects
-content without disrupting productivity.Jason MooreNow, as an admin, you may wonder who has access to Megan's shared files in
+content without disrupting productivity.
+Jason MooreNow, as an admin, you may wonder who has access to Megan's shared files in
 OneDrive and is there a way to control who, both internal and external, can access
 her shared OneDrive files. Well, now there is. We are excited to introduce restricted
 access control policy for individual OneDrive accounts. And let me show you how it
@@ -260,7 +266,8 @@ evolved over the years to meet your needs in this ever-changing technology
 landscape. Fast forward to today, with the latest AI innovations, we have another
 exciting opportunity to transform the way you interact with OneDrive. So, let's spend
 a few moments to see how AI and OneDrive will make it intuitive, insightful, maybe
-even a little magical for you at work and in life.Your photos are your memories and finding photos should be as easy as
+even a little magical for you at work and in life.
+Your photos are your memories and finding photos should be as easy as
 remembering the joyful moments they capture. The people we care about are some
 of the most important photos we have, which is why we're enabling you to search by
 people in OneDrive. With your permission, OneDrive will group your photos by your
@@ -302,7 +309,8 @@ was shared with you, but not just this folder. Since your last login to OneDrive
 have been multiple files that have been shared with you, along with new revisions
 made by others to your documents, new comments that need your attention, and a
 lot more. In this world of active collaboration, staying on top of your files can feel like
-a never-ending task. Well, not anymore. The new catch-up feature on OneDrive willJeff Tepergive you a daily digest that helps you quickly glance at summaries of new files that
+a never-ending task. Well, not anymore. The new catch-up feature on OneDrive will
+Jeff Tepergive you a daily digest that helps you quickly glance at summaries of new files that
 have been shared with you, changes that have been made to files you've shared with
 others, a summarized look at new comments, a prioritized list of documents,
 upcoming meetings, and a whole lot more.

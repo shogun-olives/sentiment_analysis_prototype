@@ -19,7 +19,8 @@ much, both of you, for being here.
 Thank you.
 
 We're so glad to be here. And we got that very prestigious lunch spot where
-everyone is really tired and kind of eating and low blood sugar. So we'll try toBrian Thomas Nowak
+everyone is really tired and kind of eating and low blood sugar. So we'll try to
+Brian Thomas Nowak
 Sheryl Kara Sandbergentertain you at least a little.
 
 Try -- yes. Try to keep the energy high. A lot to talk about in general in -- around
@@ -62,7 +63,8 @@ of a lot of the false news. And they were the source of all of the election inte
 we saw. We are working very closely with election commissions all over the world.
 We have 14,000 people right now inside the company who are working on
 community operations, safety, security, site integrity. We're growing very quickly. And
-we'll be at 20,000 by the end of the year, working hard on this across the board.Brian Thomas Nowak
+we'll be at 20,000 by the end of the year, working hard on this across the board.
+Brian Thomas Nowak
 Sheryl Kara SandbergAnd the third area that's really important is the content itself. There's no place on
 Facebook for hate, violence, bullying, terrorism. We've always had those policies in
 place. And it's up to us to continue to enforce them and enforce them well. We've
@@ -105,7 +107,8 @@ taking into account information from the person of things they have looked for. 
 launched them for autos, we launched them for travel. We continue to launch new
 verticals. And we continue to make them a little bit better. Anyone who listens to our
 earnings calls knows that I do love a good case study. So fear not, I have some with
-me.Brian Thomas Nowak
+me.
+Brian Thomas Nowak
 David M. WehnerAirbnb did Dynamic Ads for travel. And what they did is they looked at -- they served
 ads that were specifically to people who had looked for but not booked specific
 locations. So when you got the Airbnb ad, what you got was the ad for the location
@@ -147,7 +150,8 @@ allowing advertisers to deliver real business results from those impressions mor
 eﬃciently. So that's playing through to better ROI for our advertisers. And if we're
 doing that, prices go up for the effective CPM for us that we're getting. And I think
 that's what's playing through and not the price increases that we see on the
-platform.Brian Thomas Nowak
+platform.
+Brian Thomas Nowak
 David M. Wehner
 Brian Thomas Nowak
 David M. WehnerBut we think that's really being driven by us getting better at finding the right place
@@ -189,7 +193,8 @@ But when it comes to how that impacts the business, the impact of the business i
 much more muted because we're still seeing that there's lots of post-engagement.
 So when you're taking away time from things like passive video, it doesn't mean
 you're not seeing as many posts in News Feed. So there's -- I don't think the impact
-on the business is really that profound relative to the impact on time. So we're stillBrian Thomas Nowak
+on the business is really that profound relative to the impact on time. So we're still
+Brian Thomas Nowak
 David M. Wehner
 Brian Thomas Nowak
 Sheryl Kara Sandbergdriving a lot of engagement on News Feed and the number of posts that you see.
@@ -232,7 +237,8 @@ What Messenger and WhatsApp are is direct one-to-one communication. And that's
 absolutely exploding on mobile phones and, I think, particularly on these 2
 platforms. Messenger now has 1.3 billion active users, WhatsApp has 1.5 billion. And
 people are doing something very different, I think, than they're doing on our other
-platforms, where it can be more broad sharing to a group of people, either a smallBrian Thomas Nowak
+platforms, where it can be more broad sharing to a group of people, either a small
+Brian Thomas Nowak
 David M. Wehner
 Brian Thomas Nowakgroup or one-to-one interactions that people are having. We're very focused on
 growth and we're very focused on the engagement and the consumer experience in
@@ -273,7 +279,8 @@ have on Instagram is, Mark has talked about the growing use and the growing
 importance of Stories. So maybe it's a question for both of you to talk about the
 monetization cadence of Stories, maybe unique challenges you face, how you
 monetize Stories. Then, Dave, how do you think about integrating Instagram Stories
-into the revenue pile over the next couple of years?Sheryl Kara Sandberg
+into the revenue pile over the next couple of years?
+Sheryl Kara Sandberg
 David M. Wehner
 Sheryl Kara Sandberg
 David M. Wehner
@@ -313,6 +320,7 @@ really lowers the barrier to sharing. Just right prior to coming in here, I had 
 wardrobe malfunction and a button -- my top button popped off my shirt.
 
 Did you buy something through an ad on Facebook?
+
 Brian Thomas Nowak
 David M. Wehner
 Brian Thomas Nowak
@@ -354,7 +362,8 @@ and find content in a predictable way. Because we have to kind of stock the shel
 - you can't like start a tab and not have anything there, we funded some of the
 content ourselves. But it's still the case that more of the content on Watch has been
 provided by others and not paid for by us. And that's definitely the business model
-going forward.Brian Thomas Nowak
+going forward.
+Brian Thomas Nowak
 Sheryl Kara Sandberg
 Brian Thomas Nowak
 Sheryl Kara Sandberg
@@ -394,7 +403,8 @@ between 45% and 60%. So a big step-up in investment on the OpEx and cost of
 revenue side. What's driving that is really 3 key factors driving the acceleration. The
 first is the one that Sheryl talked about, about the big investment that we're making
 in security and integrity. That's across a number of fronts on the product. We're
-investing a lot on the people side. So Sheryl talked about the 14,000 people thatBrian Thomas Nowak
+investing a lot on the people side. So Sheryl talked about the 14,000 people that
+Brian Thomas Nowak
 David M. Wehnerwe've got working on product integrity, on community operations, on ads review.
 That doubled in 2017. We're going to ramp that to 20,000 in 2018. So that's a driver.
 So that's one, the big investments we're making there, driving the acceleration.
@@ -436,6 +446,7 @@ So I guess the 2 questions I have on it are just, can you talk about how Faceboo
 preparing for any regulatory changes in the overall regulatory environment at a
 higher level? Then specifically focusing on GDPR, how should we think about the
 impact of GDPR on Facebook?
+
 Brian Thomas Nowak
 Sheryl Kara Sandberg
 Brian Thomas NowakSo on GDPR, I think, fundamentally, it's about how you design your products. And we
@@ -480,7 +491,8 @@ having a good experience and continue to have that, they'll continue to share an
 we'll continue to grow.
 
 Understood. Earlier on, you spoke about the SMBs and a lot of the advertiser
-accounts, et cetera. One of the other areas that you seem to be focused on -- thereSheryl Kara Sandbergwas even something in the press today about Facebook Workplace and kind of
+accounts, et cetera. One of the other areas that you seem to be focused on -- there
+Sheryl Kara Sandbergwas even something in the press today about Facebook Workplace and kind of
 starting to move more into the enterprise side. So maybe talk about that potential
 business for Facebook. How do you get into the enterprise or Facebook for
 Workplace business?
@@ -523,7 +535,8 @@ they're making those baby clothes in Romania. And they're selling them all the w
 across Europe. What's exciting to me about this is that those are the most off-line
 businesses in the world. This is a tailor, a barber shop and a chef. And when we think
 about one of the biggest underlying challenges that I think talk to the economic and
-security, some of the polarization, economic and security and fear of jobs, fear ofBrian Thomas Nowak
+security, some of the polarization, economic and security and fear of jobs, fear of
+Brian Thomas Nowak
 David M. Wehner
 Sheryl Kara Sandberg
 Brian Thomas Nowak
@@ -563,7 +576,8 @@ Can I steal our last minute and answer a question you didn't ask? Is that okay?
 Yes.
 
 But in this room -- no, I think this is really important. I think this audience will think it's
-important, too. I think we're in a really important moment in time for women in theBrian Thomas Nowak
+important, too. I think we're in a really important moment in time for women in the
+Brian Thomas Nowak
 Sheryl Kara Sandbergworkforce. And the Me Too Movement has shown how pervasive sexual harassment
 has been. I think it also shows. And this is important, that there are a lot of very good
 people and very good men out there trying to do the right thing every day and we
@@ -607,6 +621,7 @@ a man, that you are committed to mentoring women now more than ever. It will
 make a huge difference.
 
 All right. Thank you.
+
 Brian Thomas Nowak
 David M. WehnerThank you.
 

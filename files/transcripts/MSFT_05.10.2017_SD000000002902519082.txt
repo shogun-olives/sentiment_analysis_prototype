@@ -32,7 +32,8 @@ I always think of that sense of purpose and mission and culture as the 2 book en
 They are enduring. But they need constant work. You have to use it to guide the
 choices you make. Pretty much, you can't just say, just given the sense of identity you
 have, you can't just go to every market and talk about that being a market that you
-can enter. You've got to have a real capability, something that you can uniquelycontribute. So using that as a filter. But at the same time, not falling in love with any
+can enter. You've got to have a real capability, something that you can uniquely
+contribute. So using that as a filter. But at the same time, not falling in love with any
 current generation of technology that we may have even achieved success with. To
 be able to question that status quo, that's, to me, is what it's all about, especially in
 the tech business. But pretty much I would say in any business that's got strong
@@ -74,7 +75,8 @@ cares about one thing. It's about their country first. It's America, America. Yo
 the U.S., it's about the America first. And in the Britain, it's about Britain first.
 And what you're talking to that head of state, what they care about is what have you
 done in terms of local taxes, what have you done in terms of local small business
-productivity, local large business competitiveness, their educational outcomes, theirentrepreneurial work. That's what matters. And when I look at what Microsoft does,
+productivity, local large business competitiveness, their educational outcomes, their
+entrepreneurial work. That's what matters. And when I look at what Microsoft does,
 that's where I get -- I feel that we have real long-term prospects in those countries.
 Any company that just collects rent internationally and think that, that's a long-term
 stable business I think will be in trouble. Whereas in our case, it's always about
@@ -117,7 +119,8 @@ recognize people, places, things, using even commodity cameras, for example. But
 ultimately though, you want to be able to make inferences on the edge. So you want
 to take the same model that you trained and you want to deploy it. But you -- if you
 want to make inferences at the edge without latency, you will need to perhaps even
-train in the edge. So we can clearly see -- I mean, if you're generating 100 gigabytesa second in an autonomous car, the chances that you will rendezvous everything in
+train in the edge. So we can clearly see -- I mean, if you're generating 100 gigabytes
+a second in an autonomous car, the chances that you will rendezvous everything in
 the car are going to be low. So you need compute where data is getting generated
 so that you can create intelligence.
 So distribution of intelligence, our AI and data. And that ultimately leads to I think a
@@ -159,7 +162,8 @@ server market, the cloud market, those are all good things that we were able to
 capitalize on, build good technology, build for share positions. One of the
 fascinating things that's happening right in front of our eyes is what we thought was
 a massive marketplace of $2.5 trillion of IT spend all moving to cloud is, in fact, not
-the limit. The reason why we think of this, this $4.5 trillion is for the first time, goingback to my auto example, Azure is not just getting built in to power the back-oﬃce
+the limit. The reason why we think of this, this $4.5 trillion is for the first time, going
+back to my auto example, Azure is not just getting built in to power the back-oﬃce
 applications or back-end applications of the client-server era. Autonomous cars and
 connected cars didn't exist in the client-server era. Connected elevators didn't exist.
 Precision farming or precision medicine didn't exist. So we're suddenly becoming --
@@ -202,7 +206,8 @@ PC, right? That was the first change. I mean, you could say, why is it that we d
 it? But guess what, PC gaming is a growth market that. So is the console. So if you
 attach the same gamers across them using one social network, that's powerful.
 Now we have all these new business models, whether it's subscriptions -- and now
-with our Beam acquisition, this is another phenomenal thing that's happening. It's nolonger anymore about just the people who are playing the game, it's also the people
+with our Beam acquisition, this is another phenomenal thing that's happening. It's no
+longer anymore about just the people who are playing the game, it's also the people
 who are watching the game. So when do you do Windows+ G on any PC, you're
 broadcasting immediately. And the broadcast is being seen not just on PCs and
 consoles. But on phones even. And so to me, turning every Windows machine, every
@@ -245,7 +250,8 @@ to be able to then fix the right part, because that has a lot of economic value 
 them. So across all of these, whether it's in retail or in hospitality, healthcare or
 manufacturing, we're now very focused on the front-line worker. And we're bringing
 a full suite. And you've seen this first more concretely with Oﬃce 365. But our
-ambitions go beyond that with even devices like HoloLens and mixed reality andbring it together. We sometimes reference and think about this increasingly as
+ambitions go beyond that with even devices like HoloLens and mixed reality and
+bring it together. We sometimes reference and think about this increasingly as
 Microsoft 365 for the front-line worker, starting with the device all the way to the
 service from time scheduling to communications and to be able to really help them
 communicate and bring them into the total, I mean -- and it's also a very important
@@ -288,7 +294,8 @@ powering the digital transformation itself with Azure. And if you've watched the
 keynotes this morning, both the AI as well as the infrastructure and data keynotes,
 we've made some significant advances in it.
 The first, I would say, is we are only the hyper-scale cloud provider today that
-operates in -- across all of the regions that many of the large multinationals expect usOperatorto operate. We meet the, I would say, the geopolitical realities of the world where it
+operates in -- across all of the regions that many of the large multinationals expect us
+Operatorto operate. We meet the, I would say, the geopolitical realities of the world where it
 is and where it will be versus some naive view of it, which is I think very important to
 customers who want to trust us and build on top of us. We also have this hybrid and
 intelligent edge. It's a pretty unique structural advantage and an architectural
@@ -329,7 +336,8 @@ whether it's in the cloud, whether it's a SaaS service or whether it's our devic
 bringing these assets together and in response to this digital transformation
 opportunity. So hopefully, that gives you a bit of a ﬂavor.
 And I think next you'll have Judson come up and talk a little bit about a couple of
-customers. And I'll come back for Q&A. Thank you, all very, very much.Judson AlthoffPlease welcome Judson Althoff, Executive Vice President, Worldwide Commercial
+customers. And I'll come back for Q&A. Thank you, all very, very much.
+Judson AlthoffPlease welcome Judson Althoff, Executive Vice President, Worldwide Commercial
 Business.
 
 Good afternoon. So I have 3 things I really want to talk to all of you about to provide
@@ -369,7 +377,8 @@ solutions they can provide to not only their employees. But their entire partner
 portfolio that leverages their digital assets.
 In the realm of Hershey, I mentioned how we can actually digitally transform candy.
 We have taken the internet of Things and enabled Hershey to create the Internet of
-Twizzlers by actually IoT enabling the machines that create candy. Sort of almostlaughable, yes. It allows people to actually extrude licorice like never before. But the
+Twizzlers by actually IoT enabling the machines that create candy. Sort of almost
+laughable, yes. It allows people to actually extrude licorice like never before. But the
 business impacts are real. In fact, Hershey is now saving $0.5 million per batch of
 candy they produce as a result of using AI to predict the formula in which they
 produce the candy, the temperature, the humidity, the speed and operational
@@ -412,7 +421,8 @@ them with our Surface devices. And if you think a little bit about how this jour
 maps to what Satya unfolded earlier, it's very similar. You think about the need for
 customers to actually empower their employees through these user -- per user
 productivity scenarios that are very personal. That's, in fact, the journey we were on
-with Land O'Lakes.It became very, I would say, revolutionary to them when we started actually analyzing
+with Land O'Lakes.
+It became very, I would say, revolutionary to them when we started actually analyzing
 their product. And you might once again say, okay. So let the cat out of the bag here,
 how do you digitally transform dairy? Well it turns out after working with them to
 better study their business and understanding the data that they possess, they have
@@ -454,7 +464,8 @@ reality, our HoloLens technology to help not just farmers in North America. But
 farmers in remote locations around the world, better understand how to use the
 same technology. So we literally have farmers in Africa participating in an
 augmented reality session, with farmers in North America to compare the seed yield
-output scenarios that we're driving to market with them.So you can see this is a very different type of business that we've ever had with our
+output scenarios that we're driving to market with them.
+So you can see this is a very different type of business that we've ever had with our
 commercial customers. It's not just about selling them product. It's about actually
 changing their business outcomes, their digital realities. The net of it, though, when
 you think about the financial impact and how Satya reﬂects upon this growing total
@@ -494,7 +505,8 @@ there, we decided the most immediate impact we could have for Volvo would be in
 how they design products and bring them in market with greater speed than ever
 before. So here, we turn to HoloLens and augmented reality again, which enable
 them to do much faster turns and iterative refinement on the product design. We
-then actually struck a partnership, once again, where we've embedded Skype forUnidentified Participant
+then actually struck a partnership, once again, where we've embedded Skype for
+Unidentified Participant
 Phil SpencerBusiness inside of the car to actually transform the driving experience in the semi-
 autonomous modes for their cars. The results for them have been very impactful. The
 S90 product came to market much faster than any previous product they've ever
@@ -535,7 +547,8 @@ We're seeing game broadcasts just grow incredibly quickly. In fact, if you look 
 major eSport competition today, the finals almost certainly eclipse any sports finals
 that you're looking at today, whether it's the NBA finals, whether it's the Premier
 League finals. If you look at something like a League of Legends eSport final its
-broadcast numbers, it is truly incredible. If you look at game video all up, it's biggerthan Netﬂix, it's bigger than Hulu, it's bigger -- it is just incredible the amount of time
+broadcast numbers, it is truly incredible. If you look at game video all up, it's bigger
+than Netﬂix, it's bigger than Hulu, it's bigger -- it is just incredible the amount of time
 and the amount the passion that gamers put into the activity, the hobby that they
 have. And for Microsoft this was a great opportunity for us to ride that digital
 transformation.
@@ -581,7 +594,8 @@ somebody who is actually watching gameplay on a mobile device. And we have a
 clear opportunity there to connect the cycle and actually make those monetized
 engaged customers in our graph. But obviously, you also have huge content like
 Minecraft that's ours that does incredibly well in the mobile space. We invest in our
-first-party content to kickstart the ﬂywheel in new areas. And owning assets likeBeam and Minecraft at the same time allow you to create new interactive innovations
+first-party content to kickstart the ﬂywheel in new areas. And owning assets like
+Beam and Minecraft at the same time allow you to create new interactive innovations
 between the viewer and the player, which creates both new fun. But also new
 monetization opportunities for the streamer themselves and for the content creator
 as more people play.
@@ -627,7 +641,8 @@ think the gaming engagement that we have is going to be the killer asset that we
 have to help accelerate our move into these spaces. And Metaverse isn't something
 we've talked a ton about. But when you think somebody living in a virtual social
 network like Xbox LIVE. And then that environment becoming actually physical so
-that I walk into a room, when I log into Xbox LIVE and I see all my friends' avatars inUnidentified Participant
+that I walk into a room, when I log into Xbox LIVE and I see all my friends' avatars in
+Unidentified Participant
 Amy E. Hoodthat space and I'm actually able to interact with them directly, the gaming assets that
 we've built, the friend network that we have the personas that people have created
 on Xbox LIVE will be incredibly important.
@@ -668,7 +683,8 @@ this audience that we feel like you may not understand the structural importance
 enough. And why they're so important to us and gaming is one of those. So I hope
 you got a feeling of how critical we think it is of an asset to the future.
 I'm going to quickly sort of talk more financially, not surprising, about some of the
-trends we've just talked about. Our focus over the past few years has come from theambitions that we talk about, ambitions for us also happen to be reporting segments
+trends we've just talked about. Our focus over the past few years has come from the
+ambitions that we talk about, ambitions for us also happen to be reporting segments
 to you. What I would say though is really the acceleration, however, doesn't come
 from their individuality, it comes from their overlap. And so I think what you're going
 hear me and you've heard Satya talk about it is really a pivot about how they tend to
@@ -710,7 +726,8 @@ have to think this is happening even with overall consumer PCs in decline. So th
 really means attach is doing quite well. We're continuing to see subscribers, we're
 seeing good renewal rates. And we actually feel really good about the value we've
 added to this business. And of course, its relevance across multiple end points even
-beyond Windows itself.And we next talk about the next fundamental part of productivity, which was really
+beyond Windows itself.
+And we next talk about the next fundamental part of productivity, which was really
 the investment we've made in LinkedIn on the members side. Think about as
 LinkedIn having 2 fundamentally different things, right? It has member value. And
 then it has business solutions value. And we'll separate those for this purpose. This is
@@ -757,7 +774,8 @@ advantage of security and management, maybe using our unique hardware assets as
 an instantiation of what's possible. For example, the Surface Hub a large screen
 device, right? It's a natural and only ability for us to create a category that creates a
 more productive workplace. You can think about it, of course, as Oﬃce, right, Oﬃce
-365. That's a secure productive enterprise asset. Think about it as our most moderntools being used and deployed together to have the most secure and manageable
+365. That's a secure productive enterprise asset. Think about it as our most modern
+tools being used and deployed together to have the most secure and manageable
 and consistent environment. And we shortcut that to call it the secure productive
 enterprise. The first component, obviously, is Windows.
 When you think about Windows, we've combined 2 things because I think of them
@@ -802,7 +820,8 @@ growth for us is in many things like I think you just saw Satya talked about, fr
 worker expansion, right, continuing to make progress there. Now this doesn't
 actually talk about room for ARPU improvement, right, that's not what this graph is
 about. This graph is about moving both growing the install base and moving the
-install base forward. When you start to think about our ability to deliver the LTV, weshowed LTV chart also -- these all kind of blend together some days, the same LTV
+install base forward. When you start to think about our ability to deliver the LTV, we
+showed LTV chart also -- these all kind of blend together some days, the same LTV
 chart by moving certain customer types. What I would say today is not only am I
 more confident in delivering on every LTV scenario I showed you two years ago, I
 think I may be increasingly confident as we start to see the results in early value
@@ -848,7 +867,8 @@ business for us in FY '18. That is a very meaningful foot in the business soluti
 And I think our ambition here is quite high and our expectations for growth are also
 high. I think we have a unique worldview. And you also see the distinction here is in
 that combination plus the acceleration wound up with about 70% cloud business
-when you look out a year, it will already be a pretty modern install base.Now let's go to Server & Tools, as I guess people referred to it, ancient history. But I
+when you look out a year, it will already be a pretty modern install base.
+Now let's go to Server & Tools, as I guess people referred to it, ancient history. But I
 think that's what I often still call it, dates me. What I would say here is I think the big
 question people have always had is was this going to be a transaction business
 where you replaced a consumptive workload that we used to sell as a server with
@@ -894,7 +914,8 @@ like was more appreciated if you kind of use a frame of saying what do I sell pe
 the secure productive enterprise. How does it relate to our ability to sell more
 compute, which you all think of as Azure, or more value add. And so these are why
 we pick them. But I wouldn't say they move individually. They move in relationship.
-Our commercial cloud we talk about is one thing because frankly, our motions ofselling are one thing. And when I think about the results we've seen in Azure this
+Our commercial cloud we talk about is one thing because frankly, our motions of
+selling are one thing. And when I think about the results we've seen in Azure this
 year, which I'm incredibly proud of. The investments we've made in the sales engine,
 think about the stories -- they're not really stories because they're true, that Judson
 just said, the customer examples he gave were never about this is an Azure example
@@ -940,7 +961,8 @@ give you the estimate for, about $6 billion of revenue impact. That $6 billion i
 primarily, right, the Windows 10 deferral that we adjust for non-GAAP already. So that
 adjustment would then go away, right? There is some impact to both the productivity
 and business process segment as well as intelligent cloud, because of this
-component here. If you sell a new license on-prem in a multiyear agreement, nowA - Amy E. Hood
+component here. If you sell a new license on-prem in a multiyear agreement, now
+A - Amy E. Hood
 A - Chris Suhthat's a -- I'm narrowing the scope for you a little bit, right. So if you sell a new on-
 prem multiyear agreement. And you have a new license in it. So it's got to be not just
 a -- not a renewal, renewal there's no impact, a new license, you have to account for
@@ -981,7 +1003,8 @@ most. Great. Awesome.
 So while we're setting up, there will be 3 mics that are mobile, that are roaming, So
 please raise your hand and remember that our team will come over and then we'll
 try to get to as many questions as we can. So join us. Let's start over here with first
-question on the right side.Q - Ross Stuart MacMillan
+question on the right side.
+Q - Ross Stuart MacMillan
 A - Satya Nadella
 A - Chris Suh
 Q - Walter H Pritchard
@@ -1026,7 +1049,8 @@ me saying, wait, we should spend more because we are landing revenue growth.
 And there's so much opportunity for TAM expansion. And so frankly we're still
 working it. LinkedIn, I do really think of, as a separate entity. We run it that way. They
 run much more on a calendar year basis, not a fiscal year basis. Works fine for me.
-And so we're still working through with them what FY '18 will look like. We feelA - Satya Nadella
+And so we're still working through with them what FY '18 will look like. We feel
+A - Satya Nadella
 A - Amy E. Hood
 A - Chris Suh
 Q - Philip Alan Winslowconfident what H1 will look like, not as much on H2, we'll work on it. And so this is the
@@ -1071,7 +1095,8 @@ some sense of the previous paradigms? Main frame to client server, client server
 web tier. You saw this tick-tock between centralized and distributed and then the
 expansion out a number of devices and applications. What do you think is similar
 about intelligent edge, Microfog, whatever you want to call it. And what's dissimilar
-from the prior cycles and then just a follow-up to that.A - Satya Nadella
+from the prior cycles and then just a follow-up to that.
+A - Satya Nadella
 A - Chris Suh
 Q - Michael Turits
 A - Satya Nadella
@@ -1117,7 +1142,8 @@ vehicles. But we think of the fundamental technology that's going to be pervasiv
 throughout everything that we do will have a high component. So you're right, today,
 whether it's Windows Hello, I mean, if you install creators update, one of the most
 cool things is Windows Hello and the speed of image recognition for instant on and
-logon. That's AI, every day at work and even the logon process. You want near feelA - Amy E. Hood
+logon. That's AI, every day at work and even the logon process. You want near feel
+A - Amy E. Hood
 A - Satya Nadella
 A - Amy E. Hood
 A - Satya Nadella
@@ -1159,6 +1185,7 @@ show everywhere, whether or not it also has monetized separately. I think that's
 certainly a possibility. But you'll more just see it show up everyday interfaces.
 
 Let's take one from this side of the room.
+
 A - Satya Nadella
 A - Amy E. Hood
 A - Satya NadellaMark Moerdler, Bernstein Research. Satya, HoloLens appeared sprinkled throughout
@@ -1205,7 +1232,8 @@ Minecraft because we knew that this was going to be the case. But the frontline
 workers and the traction we have in frontline work, I had not sort of thought of it as a
 place where -- most of these digital transformation projects, as you rightly pointed
 out, most companies are investing in tech now for their frontline workers. But they're
-not traditional compute endpoints. And interestingly enough, HoloLens and itsA - Amy E. Hood
+not traditional compute endpoints. And interestingly enough, HoloLens and its
+A - Amy E. Hood
 A - Satya Nadella
 A - Amy E. Hood
 A - Chris Suh
@@ -1248,7 +1276,8 @@ not a transitory state, which is you want to have Azure Stack as the edge of the
 or you want SQL deployed inside of Azure Stack as a permanent state or you want
 the Azure IoT runtime. And the reason for that architecturally is pretty
 straightforward, why? Because you're generating tons and tons of data. I was just
-talking to somebody in the oil and gas industry. And the amount of data justA - Chris Suh
+talking to somebody in the oil and gas industry. And the amount of data just
+A - Chris Suh
 Q - Keith Weiss
 A - Satya Nadella
 A - Amy E. Hood
@@ -1293,7 +1322,8 @@ do the work that they can do in their country. So these micro verticals, by coun
 geo, I think is going to be a significant part as a way to scale. The thing that is
 happening, though, is -- the big transformation story. You take Nissan, you take
 Volvo, you take Boeing, they all have supply-chain and distribution chain. So they are
-acting as those ISVs. So in some sense, what Judson said, I think is pretty much,A - Amy E. Hood
+acting as those ISVs. So in some sense, what Judson said, I think is pretty much,
+A - Amy E. Hood
 A - Chris Suh
 Q - Karl Emil Keirstead
 A - Amy E. Hood
@@ -1336,6 +1366,7 @@ margins must be poised for some pretty good expansion in fiscal '18. So I wanted
 ask you is that the correct take and if that's true and Azure becomes a larger portion
 of the cloud mix, is it actually possible that the rate of increase in your overall cloud
 gross margins goes down next year because the Azure piece is so large?
+
 A - Satya Nadella
 A - Amy E. Hood
 A - Chris SuhOne, that must be (inaudible) work. So this is the downside of technical innovation, I
@@ -1380,7 +1411,8 @@ why I say, I think, I'm close if it shows itself in a slightly different mix bec
 way the contracts land. I mean I'll live with that as long as we're transforming the
 customer in the right way.
 
-Let's come to the center of the room. How about, give Kash a mic here.Q - Kasthuri Gopalan Rangan
+Let's come to the center of the room. How about, give Kash a mic here.
+Q - Kasthuri Gopalan Rangan
 A - Satya Nadella
 A - Amy E. Hood
 A - Satya Nadella
@@ -1425,6 +1457,7 @@ in differentiation. And so, that is what we have to land. If we do that, we'll b
 shape, is much more how we think about it.
 
 One last one.
+
 Q - Unidentified Participant
 A - Satya NadellaOne last one. I appreciate all the interest. I think we have time for one more though.
 So 2 questions actually, if I may, for Satya. This morning you spoke of -- your
@@ -1470,7 +1503,8 @@ allocation based on previous revenue and backward looking structures. We've got 
 be able to think about something that's new. So I would say it's really, every group
 changing and it'll never be done. And I will never claim any perfection at any point in
 time. If anything, I'll have my list of things that I'm and terrible at. And I hope we use
-that as inspiration to keep pushing, keep pushing. But I feel good that people areA - Amy E. Hood
+that as inspiration to keep pushing, keep pushing. But I feel good that people are
+A - Amy E. Hood
 A - Satya Nadella
 A - Amy E. Hood
 A - Chris Suh

@@ -3,7 +3,8 @@ definition of cloud and cloud assets, frankly. So just to kind of give you a pre
 that, starting with our productivity cloud with Oﬃce 365, it's everything from the
 actual Oﬃce applications being delivered as a live service, as well as e-mail,
 collaboration, Skype, Team, anything that do communication, collaboration and
-productivity in our Oﬃce 365 cloud went into our business applications with ourUnidentified Participant
+productivity in our Oﬃce 365 cloud went into our business applications with our
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia Whitedynamic 365, the Line of Business, CRM, field service, those type of technologies.
@@ -42,7 +43,8 @@ our most mature commercial cloud offering and in the early days, people like,
 obviously, did for archiving and different things? And then they started saying, I'm
 going to run my entire productivity stack in the cloud. So those questions matured as
 well. So I think we're seeing a similar cycle from the infrastructure and then holistic
-data center side of it at this point.Unidentified Participant
+data center side of it at this point.
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia White
@@ -78,6 +80,7 @@ million business. So let's be practical about this too, in terms of how it's goi
 how the curve is going to shape.
 What's on your customers' wish list, is securities at the top priority on your
 customers' wish list and what else would be on their -- if that's not --?
+
 Unidentified Participant
 Julia WhiteYes, security is always -- when you look at things that people care about -- the cloud -
 - security then is still number one. It's become less. So we’ve seen privacy rising on
@@ -118,7 +121,8 @@ Dynamics 365, it's all of those things. And so you get coherence of them, a lot 
 Oﬃce 365 customers want e-mail running their collaboration stack. I think we've
 already done the identity system for you to use [ph] Azure, because we have already
 set that up. We've already gone through all the security, audits and type of things at
-that front.Unidentified Participant
+that front.
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia White
@@ -155,7 +159,8 @@ going in and talking to these customers who, like you said, are just starting th
 year journey, where you could say, look work with us and our selling process could
 be 1% encapsulating your on-premise stand. I mean, like -- how do we think about
 the selling motion and how these types of new products might help ease someone's
-concerned about making the best move to the cloud.Julia White
+concerned about making the best move to the cloud.
+Julia White
 Unidentified Participant
 Julia White
 Unidentified Participant
@@ -194,7 +199,8 @@ versus just the transaction moving up and up and up. So we now have a very, very
 significant sales force that focus only on getting paid when the customer actually
 consumes the cloud service, right, giving value out of it. And you need to. That's the
 reality of the cloud service. If customers aren't using it, they can look to leave every
-day and we recognize that.Julia White
+day and we recognize that.
+Julia White
 Unidentified Participant
 Julia White
 Unidentified Participant
@@ -232,7 +238,8 @@ Microsoft in the cloud. And then, how does it evolve from there?
 
 So Oﬃce 365, I mean it's in the SAS market (multiple speakers) and more mature
 and a little bit more -- so, then people kind of conceptually understood hosted e-
-mail because they have that in their personal life. You'd never -- no one ever handUnidentified Participant
+mail because they have that in their personal life. You'd never -- no one ever hand
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia White
@@ -268,7 +275,8 @@ years from now and when you said your technologists, you want this to happen
 faster than maybe it could, what percentage of workloads would you get, would be
 in the cloud, not on Microsoft view, just your view as a technologist?
 
-In five years out?Unidentified Participant
+In five years out?
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia White
@@ -306,7 +314,8 @@ So that brings up another question that (inaudible) it's just there are people t
 believe that Microsoft can't operate at the scale of AWS because of the way your IS
 and casts were designed. So I don't know whether that's myth, or whether it's reality,
 because that's certainly something that gets discussed in the investment community.
-I was just wondering if you could share any high-level thoughts with that belief?Julia White
+I was just wondering if you could share any high-level thoughts with that belief?
+Julia White
 Unidentified Participant
 Julia White
 Unidentified Participant
@@ -345,7 +354,8 @@ And actually, Microsoft is now, I mean, recent reports on GitHub, the number one
 contributor to Open Source projects ahead of Google, ahead of Facebook. And so,
 not just in an Azure support around Open Source. But also Microsoft overall
 commitment and contribution to Open Source is helping set people's minds around
-a place of Open Source support as well.Unidentified Participant
+a place of Open Source support as well.
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia WhiteHow about -- so the start-up committee has typically been bought up as building first
@@ -384,7 +394,8 @@ do ask them, they have to add value-added services on top of it versus just to b
 transactor. This is a cloud services world. And so, the expectations we are having of
 our ecosystem are different. But we're giving them a very understandable, clear way
 to make ongoing revenues from our cloud services. And then, build new businesses
-on top of that.Unidentified Participant
+on top of that.
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia WhiteThat's a place we will continue to invest in and making sure that that ecosystem
@@ -421,7 +432,8 @@ expect the cloud business to have achieved?
 A year for now, it will be well on our way to hitting our 20 billion cloud metric that we
 had laid out for. So on top of that for sure. Into AI area, we would be a clear leader in
 artificial intelligence, capabilities and what customers are actually realizing in
-production with AI versus just dreaming about.Unidentified Participant
+production with AI versus just dreaming about.
+Unidentified Participant
 Julia White
 Unidentified Participant
 Julia White

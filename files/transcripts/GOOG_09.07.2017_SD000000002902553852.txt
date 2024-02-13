@@ -20,7 +20,8 @@ they're a lot of questions around search and advertising, we want to keep the
 conversation to the Cloud.
 So with that, Diane, thanks again. Appreciate it.
 
-Great. Thank you. Hello, everybody. This mic is on, yes.So it's great to be here. Cloud is just getting more exciting by the minute. I've been
+Great. Thank you. Hello, everybody. This mic is on, yes.
+So it's great to be here. Cloud is just getting more exciting by the minute. I've been
 on the Alphabet board for seven years and then 20 months ago joined Google full-
 time to run the Cloud. And we're still at the beginning of the Cloud. I mean, the
 Cloud was originally a place for startups, a place for surplus capacity, sort of, a cost
@@ -59,7 +60,8 @@ firewall.
 And you take something like a Chromebook with its -- the Chrome OS tiny attack
 surface updated in the Cloud constantly. You don't get a Ransomware attack then or
 something like Heartbleed a few years ago. Google had that patched before it was
-publicly announced.We've also internally developed a very modern programming environment so it can
+publicly announced.
+We've also internally developed a very modern programming environment so it can
 be agile and separate the layers and engineers can move quickly. And so we
 developed -- we have -- we launched -- everything runs in containers at Google, we
 launched over 2 billion a day, Gmail, every service we have, Maps and so forth. Our
@@ -102,7 +104,8 @@ company, that collaboration. Pretty proud of what we've been, massive effort to
 infuse it with machine learning, which is you see in things like Smart Reply and in the
 Calendar.
 So that is just a -- I hope, about a 5-minute quick overview of Google Cloud. I'll look
-forward to your questions. One other little fun thing I'll just mention is, if you tookQ - Mark Alan May
+forward to your questions. One other little fun thing I'll just mention is, if you took
+Q - Mark Alan May
 A - Diane B. Greene
 Q - Walter H Pritchardone of our big data center buildings and overlaid the Stanford Stadium, you'd still
 see a little bit of the building. These things are massive. It's a very exciting area to be
@@ -144,7 +147,8 @@ Just a follow-up to that, Diane. You've, obviously, run a large enterprise softw
 company in the past. I think you probably know very well what it takes to have the
 presence from a go-to-market perspective to be able to compete. You have a couple
 of competitors in the space, obviously, Microsoft has tens of thousands of sales and
-marketing professionals just by virtue of their legacy in that market.A - Diane B. Greene
+marketing professionals just by virtue of their legacy in that market.
+A - Diane B. Greene
 Q - Walter H Pritchard
 A - Diane B. Greene
 Q - Mark Alan May
@@ -189,7 +193,8 @@ we have. And so we -- we want to work with every SaaS vendor. And we think it's 
 huge advantage for them to be on our Cloud. Every time one of them moves, they
 go, oh, this is fantastic. And they talk about all the things that have been improved
 for them and all the advantages. So with SAP, it's up and down the stack. I mean all
-of SAP -- well, HANA runs on Google Cloud. And more and more of SAP is runningQ - Mark Alan May
+of SAP -- well, HANA runs on Google Cloud. And more and more of SAP is running
+Q - Mark Alan May
 A - Diane B. Greene
 Q - Mark Alan May
 A - Diane B. Greene
@@ -233,7 +238,8 @@ once you get in-site, I always cite Google itself, which has been -- which is th
 carbon neutral data center in -- set of data centers in the world, we've always
 prioritized that. So we optimized our data centers' energy usage as much as humanly
 possible. Then we applied machine learning and then our cooling got a 40%
-advantage and humans are getting 2% or 3%, 40% advantage from the machineQ - Mark Alan May
+advantage and humans are getting 2% or 3%, 40% advantage from the machine
+Q - Mark Alan May
 A - Diane B. Greene
 Q - Mark Alan May
 A - Diane B. Greene
@@ -278,6 +284,7 @@ item. So companies care. Then, when you get into the big deals, there's a lot of
 because everybody's sort of this -- got some custom -- there's a lot of work that goes
 into a contract, that's a large team of people for us. And so there's a lot that goes on
 as you develop a proposal for a customer.
+
 A - Diane B. Greene
 Q - Walter H Pritchard
 A - Diane B. Greene
@@ -316,7 +323,8 @@ So I guess Walter asked you about enterprise sales force and you said you're
 partnering with Nutanix and someone else so I guess.
 
 SAP.
-Yes, SAP. So I guess...A - Diane B. Greene
+Yes, SAP. So I guess...
+A - Diane B. Greene
 Q - Unidentified Participant
 A - Diane B. Greene
 Q - Mark Alan May
@@ -359,6 +367,7 @@ Diane, you did a good job in describing a lot of the IP that has been developed
 inside of Google over the last 5 or 10 years. And Kubernetes, for example, I think if
 that were commercial software that would probably worth the entire enterprise value
 of VMware at its peak.
+
 Q - Unidentified Participant
 A - Diane B. Greene
 Q - Mark Alan May
@@ -401,7 +410,8 @@ actually saves us a lot of money and also lets us do a better job on the machine
 learning because you could turn things around so quickly. Then it's natural to put it
 in our cloud for our users. So the really exciting thing about Google Cloud is, we
 now have a vehicle to take Google's, really, ongoing technical innovations and share
-them with the world, with every company and every geography of every size. That'sQ - Mark Alan May
+them with the world, with every company and every geography of every size. That's
+Q - Mark Alan May
 Q - Unidentified Participant
 A - Diane B. Greene
 Q - Mark Alan May
@@ -443,6 +453,7 @@ API management is a big, big deal in the modern enterprise and how companies
 work across with their customers and partners. And we are constantly on the lookout
 for any size acquisition. We have -- we're constantly revisiting our strategy. And we
 will acquire if we can find a way to make them help us accelerate things. Yes.
+
 A - Diane B. Greene
 Q - Mark Alan MayI think we've come to the end of our allotted time. But I'd like to thank Diane and the
 team at Alphabet.

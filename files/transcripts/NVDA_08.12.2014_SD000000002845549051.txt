@@ -20,7 +20,8 @@ combined, it gives us a very high Q2.
 But even broader picture, we're a lot higher than -- we've been growing gross
 margins steadily for two years now I think and all the way up into the mid; to high
 50s, which is a good place to be. It's mix, right? And it's also the transition of our
-business from being components, chips, to being more of a platform business.Mike McConnell
+business from being components, chips, to being more of a platform business.
+Mike McConnell
 Chris Evenden
 Mike McConnellSo if you look at the value we add in each of our markets, the value is a lot more than
 just a chip. In fact, for GeForce, for Quadro, for Tesla. And for GRID, physically, it's the
@@ -57,6 +58,7 @@ actually start thinking about pilot projects because that's a big first hump to 
 people over.
 And so, we had -- in the first eight weeks of operation, there were over 10,000
 people that tried it out. So there seems to be some really interesting demand there.
+
 Chris Evenden
 Mike McConnell
 Chris Evenden
@@ -95,7 +97,8 @@ the last -- $2 billion in two years is quite a lot of return, right?
 Yes. It's been very well received. Okay. Great. So if we look at I guess the near term,
 there are a lot of things kind of around the Company that -- whether it was some
 commentary from your competition, your foundry, some other things from the
-supply chain. You guys had a great quarter, knocked it out of the park with guidance.Chris Evenden
+supply chain. You guys had a great quarter, knocked it out of the park with guidance.
+Chris Evenden
 Mike McConnell
 Chris EvendenI guess, where did -- and including myself, where did we get things wrong? And
 what were we missing that's maybe putting NVIDIA separate from some of the other
@@ -131,7 +134,8 @@ that we'd already factored in, right? That was understood.
 The talk about inventory, we're not having any inventory problems in the channel.
 Now, our competitor may be having inventory problems. That's better question for
 them. Could that inventory affect us should it exist? So intuitively, you'd expect, right,
-at some point, they just reduce the price until it all shifts.Mike McConnell
+at some point, they just reduce the price until it all shifts.
+Mike McConnell
 Chris Evenden
 Mike McConnell
 Chris EvendenNow, the trouble with that is that you screw up your channel. And you mess up future
@@ -167,6 +171,7 @@ are low. And the GMs are low as well.
 And so, when we think -- when we hear, like, Intel talking about consumer and
 emerging markets still being diﬃcult, we should be careful because that's mostly
 OEM. IS that --?
+
 Mike McConnell
 Chris Evenden
 Mike McConnell
@@ -202,6 +207,7 @@ We're getting bigger lumps. We're getting bigger lumps.
 Yes, (inaudible) problem.
 
 It is.
+
 Chris Evenden
 Mike McConnell
 Chris Evenden
@@ -237,7 +243,8 @@ Then did this all start to come in fruition last quarter?
 
 We had a couple of big orders last quarter, yes.
 
-Okay. That's great. Any questions in the audience?Unidentified Participant
+Okay. That's great. Any questions in the audience?
+Unidentified Participant
 Chris Evenden
 Unidentified Participant
 Chris EvendenSo we had Rich at -- CEO of Shazam, the keynote earlier on panel. And he brought
@@ -272,7 +279,8 @@ type --?
 
 -- So we haven't given that breakdown. And the trouble is that, like, it's -- even if I
 gave you what it was for Q2, that might not be a useful answer because we had
-some big wins in consumer Internet in Q2, which might distort it. And if I gave it toMike McConnell
+some big wins in consumer Internet in Q2, which might distort it. And if I gave it to
+Mike McConnell
 Chris Evenden
 Mike McConnell
 Chris Evenden
@@ -307,7 +315,8 @@ no coincidence that both of those was Yowme [ph] because Youme is an aggressive
 company focused on growth, focused on differentiation, finding a place for itself in
 the market.
 And so, we can help them with that, whereas, if you're using the same off-the-shelf
-ARM core as everybody else and the same off-the-shelf graphics core as everybodyMike McConnell
+ARM core as everybody else and the same off-the-shelf graphics core as everybody
+Mike McConnell
 Chris Evenden
 Mike McConnell
 Chris Evendenelse, it's really hard to build a new chip or a new device that is actually any different
@@ -341,7 +350,8 @@ So I suppose the one that people are most familiar with is Unreal Engine 4. That
 one that Google used at IO to demo its new Android. They have that amazing,
 incredibly high-fidelity demo. But we've ported Source across so you can see Half-
 Life 2 and Portal on Shield now. And we've ported Unity Engine 3, id Tech 5. And
-several other engines that I can't name off the top of my head.Mike McConnell
+several other engines that I can't name off the top of my head.
+Mike McConnell
 Chris EvendenAnd the thinking behind that is it makes it much less expensive for a game
 developer to port their game across to Android to Tegra. So it's a lower-risk
 proposition from their perspective. So you spend $60 million developing a title for
@@ -378,7 +388,8 @@ overlap and invent the same thing at some point, don't want to sue each other.
 The reason it's a net ﬂow of cash to the smaller company is because the larger
 company has more revenue at risk from patent litigation, right? So that's what a cross
 license is. So actually, we pay them as well. We pay them $6 million for every $66
-million they pay us. So that's the cross-licensing deal.Mike McConnellNow, that covers all the patents, their patents and our patents in perpetuity after
+million they pay us. So that's the cross-licensing deal.
+Mike McConnellNow, that covers all the patents, their patents and our patents in perpetuity after
 March 31st, 2017. So as of April the 1st, 2017, we've got no patents that we can sue
 them on. However, we've still got 6,000 engineers working on technologies that are
 in the same area as Intel. So you would assume, eventually, that we're going to end
@@ -414,6 +425,7 @@ And so, you can't extrapolate from one to the other. And so, it's frustrating wh
 see people trying to draw parallels there when none exist. It's a very small part of our
 business. The bit that is the OEM graphics is the only area of overlap. And that drives
 very little revenue and even less profit.
+
 OperatorThanks for the clarification. It's helpful. Thank you very much, Chris. Really appreciate
 your time.
 Questions And Answers

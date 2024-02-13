@@ -12,6 +12,7 @@ That's right.
 You used to work at Goldman.
 
 I did. Many moons ago. It was my first job. Well, not my first, first job, but like my first.
+
 Amy Hood
 Kash Rangan
 Amy Hood
@@ -46,6 +47,7 @@ cloud, investing to be ahead of the curve with AI and driving operating leverage
 the same time, you invest and you drive leverage at the same time. What are the
 things you need to do right in order to get all these three things perfectly on the
 dot?
+
 Q - Kash Rangan
 A - Amy HoodThat's a good question. I think for us, if you think about those three priorities, at
 some level we've spent the past decade as a leadership team working to deliver
@@ -85,7 +87,8 @@ good. And I think it's also you're more familiar with those types of transitions
 there's a lot of confidence that comes in your ability to make them, right?
 Yes. Very few companies have made the transition work and you guys did it. I
 remember Azure was something that we talked about in 2009, 2008. It's not a new
-thing, it's --Q - Kash Rangan
+thing, it's --
+Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
@@ -125,7 +128,8 @@ down and then you get into the micro aspect.
 
 Yes.
 
-It's a cyclical thing.A - Amy Hood
+It's a cyclical thing.
+A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
@@ -166,7 +170,8 @@ the copilots, GitHub Copilot, you think about the breadth of the portfolio that 
 announced, and it's either already shipping and being used or we're getting close. It
 would tell you that we're able to probably more quickly make those transitions than
 we made the server to cloud transition. The products are coming faster. They're
-coming with higher quality. They're more finished.Q - Kash Rangan
+coming with higher quality. They're more finished.
+Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
@@ -206,7 +211,8 @@ talked about --
 
 I think that was it. I think I've sort of --
 
-Mosconi, right?A - Amy Hood
+Mosconi, right?
+A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
@@ -246,6 +252,7 @@ good so far?
 
 You should assume we're both executing I think really well and I'm pleased with our
 ability to work together.
+
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
@@ -287,7 +294,8 @@ Yes, we'd like to have less waiting, but we need to work through that and contin
 get customers and proof of concepts that they love, but they are excited about
 getting deployed. And so we'll continue to work through that.
 
-How long is the wait list? Long.A - Amy Hood
+How long is the wait list? Long.
+A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
@@ -325,7 +333,8 @@ done over the past decade and the transition that we've seen. What are you
 evaluating when it comes to customer cohorts or geos? And to evaluate like where
 we are in this cycle and how long it may last?
 
-I have to say, this is the question that I think we get asked the most.A - Amy Hood
+I have to say, this is the question that I think we get asked the most.
+A - Amy Hood
 Q - Analyst
 A - Amy HoodHopefully this one is a little different.
 
@@ -364,6 +373,7 @@ So on that reinvestment and obviously with generative AI, how are you thinking
 about the magnitude of implications that might have when it comes to inferencing or
 training? And obviously, Azure is going to see an impact from not just Azure, but also
 Oﬃce 365 and all the other copilots you touched on.
+
 Q - Analyst
 A - Amy Hood
 Q - Analyst
@@ -403,7 +413,8 @@ maintain replacement capital, growth capital just for the core.
 Then you have the investment that's coming to support, I'll use the term AI-enabled
 workloads, copilots, Azure OpenAI services and that's another piece of it. But I
 wouldn't say, it would be a -- it wouldn't be right to think that most of that is AI-
-related, but it's the driving piece.Q - Kash Rangan
+related, but it's the driving piece.
+Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
@@ -445,6 +456,7 @@ some of the other data work I think that we've announced recently. You'll see AI
 workloads contribute to core Azure, even if it's not AI revenue. And it's an important
 concept. That's partially what additionally drives capital needs, right, is that you got
 to have a -- the investment in the data state a prerequisite.
+
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
@@ -486,7 +498,8 @@ I think Teams in general has gotten a lot of feedback in terms of its ability to
 meeting recap, meeting summary, if you can't be there, it feels more like you were
 there, that ability to really I think better use your time maybe, I don't know, maybe
 everybody only goes to meetings that they're like, oh my gosh, I'm so glad I came. I
-on occasion am willing to just read a summary and feel pretty good about it, and IQ - Kash Rangan
+on occasion am willing to just read a summary and feel pretty good about it, and I
+Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood
@@ -526,7 +539,8 @@ In the 40 seconds that we have, any key messages you want us to take away? What
 have you --
 
 Well, no, I feel like it's -- I always -- I love these meetings, but I always feel like we
-don't talk about some of our businesses. And so I would say.Q - Kash Rangan
+don't talk about some of our businesses. And so I would say.
+Q - Kash Rangan
 A - Amy Hood
 Q - Kash Rangan
 A - Amy Hood

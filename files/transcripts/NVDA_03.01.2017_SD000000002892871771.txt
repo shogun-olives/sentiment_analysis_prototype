@@ -17,7 +17,8 @@ And we have really changed our approach to gaming over the last several years.
 And last year is one of those key years for us as well.
 So last year was about continuing to evolve the overall gaming industry. The gaming
 industry used to start where it was a one-on-one play. Right? Yourself with the overall
-computer. And it's really moved to a social platform. It's moved to a social platformto where you are playing with all of your friends. It's not just about one gamer at a
+computer. And it's really moved to a social platform. It's moved to a social platform
+to where you are playing with all of your friends. It's not just about one gamer at a
 time. They're usually two-by-two or more, because they're all playing with their
 overall friends. So our approach has been to enable a gaming platform for every
 type of gamer that will be there.
@@ -53,7 +54,8 @@ $699 price point.
 So again, we are enabling all the different types of enthusiastic gamers that are out
 there to partake in terms of the gaming, with all the different types of price points
 and great cards that we have.
-So we still believe those healthy parts of the market are there for us to capture.Joe Mayer
+So we still believe those healthy parts of the market are there for us to capture.
+Joe Mayer
 Colette Kress
 Joe Mayer
 Then, I guess, how do you parse the product cycle aspect? Because Pascal was
@@ -90,7 +92,8 @@ And I guess one of the helpful distinctions you guys have made in the last few y
 is this OEM versus gaming. And OEM has been declining. Gaming has actually been
 growing at a good clip for quite some time. It's just showing up more now. And it's
 getting to be a bigger part of the numbers. Can you talk a little bit about how you're
-parsing that. And why you've seen that shift?Colette Kress
+parsing that. And why you've seen that shift?
+Colette Kress
 Joe Mayer
 Colette Kress
 Joe Mayer
@@ -127,6 +130,7 @@ you're probably getting some people trading up to the higher-end SKUs. So can yo
 talk a little bit about that?
 
 Yes. The good old discussion about ASPs versus unit growth --
+
 Colette Kress
 Joe MayerYou can just give it to the top line.
 
@@ -162,7 +166,8 @@ with a better GPU is a better experience. It's like playing a different game. An
 do get those benefits from them just upgrading on their next time of buying a GPU
 at a higher card. And that is also, therefore, in our overall ASP grip.
 
-Okay. That's helpful.Colette Kress
+Okay. That's helpful.
+Colette Kress
 Joe Mayer
 Colette KressThen, the other element that people ask me about is other ways of boosting the
 dollar per customer, whether it's the Founders Edition card or selling DRAM or those
@@ -201,7 +206,8 @@ just those here in the Western world that inﬂuences that. And we've seen that.
 And so you're going to likely see the first half to be different than what we've seen in
 the second half of the year. Given the strength that we had in fiscal year 2017, that
 seasonality is still there. And given what we can see in terms of Q1, that seasonality
-will probably continue.Joe Mayer
+will probably continue.
+Joe Mayer
 Colette Kress
 Joe Mayer
 Colette Kress
@@ -237,7 +243,8 @@ Okay.
 
 But I think the 1080 Ti, even already, is a great piece for us to launch with.
 
-Okay. That's helpful.Colette Kress
+Okay. That's helpful.
+Colette Kress
 Joe Mayer
 Colette KressAnd before I leave the graphics business, I did want to touch on the enterprise, the
 Pro Visualization business. You guys have talked about that as a GDP growth type of
@@ -272,7 +279,8 @@ starting to really move the needle. Can you give us an overview of that business
 maybe talk about how that splits out between the high-performance compute, the
 traditional part, the deep learning in businesses like GRID?
 
-Yes.So the success in our datacenter business, we couldn't be more pleased. I know a lot
+Yes.
+So the success in our datacenter business, we couldn't be more pleased. I know a lot
 of other folks in the datacenter business really talk about their growth rates. But
 when you leave Q4 with tripling, it's doing pretty good on that part. But it does
 enable many different businesses underneath it. So I think it would be good for us to
@@ -310,7 +318,8 @@ capability. So that's an area of our third business that was growing.
 That then takes us to our overall GRID business. Our GRID business outside of just
 the cloud is also enterprises installing it in their on-premise businesses as well, in
 order to expand their overall workforce for collaboration and not be just tied to their
-overall workstation; be able to show that across the world.Joe Mayer
+overall workstation; be able to show that across the world.
+Joe Mayer
 Colette KressThen, lastly, our DGX supercomputing AI -- we also have that as an ability for the
 enterprises for quick-start. We're talking about a fully contained AI supercomputer
 with eight GPUs, with an overall computing development platform, inclusive of all of
@@ -347,7 +356,8 @@ farther, I think that would be a little bit easier.
 But I think it's important to look at the types of workloads that are very interested.
 And/or the types of industries that are very interested. Probably one of the key
 things that is surrounding anything that we're doing is data, following the data.
-Where is there a significant amount of data that is either structured and/or isJoe Mayer
+Where is there a significant amount of data that is either structured and/or is
+Joe Mayer
 Colette Kressunstructured, that could be leveraged to be more powerful and useful to the end
 user, if you could apply the ability of deep learning training, which essentially just
 says let the computer write the program to understand that overall information?
@@ -384,7 +394,8 @@ right, there's definitely an opportunity for GPU, with its work that it's done f
 training, to also be definitely capable in terms of the inference phase [ph].
 Our GPU today essentially is a really, really large, capable custom ASIC in that case,
 that can do a lot of different jobs at the same time in one complete architecture
-together. We've built it for that purpose, because that is our core competency --Joe Mayer
+together. We've built it for that purpose, because that is our core competency --
+Joe Mayer
 Colette Kresspushing out high-end very capable custom ASIC is something that we're very good
 at and will continue to do.
 As we move forward, we'll move to where the high-end inference is going to be
@@ -419,7 +430,8 @@ concentrated on. And we're continuing to evolve that and even make it better and
 better. But it allows them that quick start, by us taking on that part of that middleware
 that they don't have to worry about. They can now worry about the application letter
 (inaudible) they can worry about the data. And bring that in, too. Because we've
-already started a significant amount of that work.Joe Mayer
+already started a significant amount of that work.
+Joe Mayer
 Colette Kress
 Joe Mayer
 Unidentified Participant
@@ -454,6 +466,7 @@ Maybe you could just comment on inventory a little bit. I know there's elevated 
 on your balance sheet. Can you also comment how inventory sits at your gaming
 partners. So the AIB [ph] guys like MSI, Gigabyte, Colorful, Pallet [ph]? How does that
 compare to last year? And how happy were you with that inventory level?
+
 Q - Unidentified Participant
 A - Colette Kress
 A - Joe MayerSure.
@@ -489,6 +502,7 @@ relationship with it individually in those partners.
 It is consistent with both the timing of the year, the timing around the different
 holidays that we had. And the timing in terms of what we had in terms of new
 architectures. So we're comfortable with the overall channel levels that we have.
+
 Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
@@ -525,6 +539,7 @@ Can you sort of compare and contrast what you see from hyperscale relative to
 traditional enterprise? Is this something that is particular relevant for hyperscale
 customers but maybe not so much relevant for the traditional enterprise? So what
 are you seeing there?
+
 A - Joe Mayer
 Q - Unidentified Participant
 A - Colette Kress
@@ -563,7 +578,8 @@ Anything --
 So long-term growth rate?
 Long-term growth rate.
 
-Sure. We could just go [ph], just hit long terms of that one.A - Joe MayerLet me take the first part of your question first in terms of memory. It's essentially a
+Sure. We could just go [ph], just hit long terms of that one.
+A - Joe MayerLet me take the first part of your question first in terms of memory. It's essentially a
 question about scale out or scale up. And depending on your workload, both of
 those are going to matter, in terms of do I put together more, or do I just want to get
 the overall scale to go consistently on the memory. There's always continued work

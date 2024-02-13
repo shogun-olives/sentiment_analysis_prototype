@@ -24,7 +24,8 @@ new role.
 
 Sure, first of all, thank you, Michael, for having me here. It's great to be here and
 thank you everybody for making the time. You know I think, I will just start off by
-saying, just repeating what our mission is at YouTube, which is, we like to say thatYouTube's mission is to give everyone a voice and show them the world, and that
+saying, just repeating what our mission is at YouTube, which is, we like to say that
+YouTube's mission is to give everyone a voice and show them the world, and that
 sounds very lofty but really fundamentally it's about the creators on our platform.
 Everything at YouTube starts with our creators. They are incredibly talented. They're
 all over the world. They are looking to build audiences, share their creativity with the
@@ -68,7 +69,8 @@ where YouTube is consumed. So Connected TV, our investment there is a really big
 priority of mine, that's about bringing the full magic of YouTube, the interactivity of
 YouTube when viewers are consuming content, when they turn-on the television set,
 they want to watch YouTube and that means all forms of content. Everything from
-their favorite YouTube creators to blockbuster movies to football, which we can talkMichael Nathanson
+their favorite YouTube creators to blockbuster movies to football, which we can talk
+Michael Nathanson
 Neal Mohan
 Michael Nathanson
 Neal Mohanabout live sports what have you, and they all expect that in the YouTube app in the
@@ -110,7 +112,8 @@ differently in this area versus prior strategy, right? Has there been a strategy
 terms of embracing creators, anything you're doing differently now?
 
 No. I think what I'd say there, Michael, is, again what I said at the beginning, which is
-creators really are our lifeblood. I mean everything that we do is about supportingMichael Nathanson
+creators really are our lifeblood. I mean everything that we do is about supporting
+Michael Nathanson
 Neal Mohan
 Michael Nathanson
 Neal Mohanour creator ecosystem. We are the original creator economy. These creators are
@@ -153,7 +156,8 @@ mobile product at this point in time?
 So, the way I think about Shorts again is that it's kind of one pillar in that overall sort
 of multi-format story that I described, but it's an important one, and it's one that
 really leans into all of those creation sort of paradigm shifts that I was describing at
-the top of this conversation. It is mobile-first in terms of creation and we are seeingMichael Nathanson
+the top of this conversation. It is mobile-first in terms of creation and we are seeing
+Michael Nathanson
 Neal Mohanlots and lots of success among creators adopting short videos on YouTube. 80%
 growth in terms of creators that upload short content daily to our platform in the last
 year. So it's working as a creation tool, also you open up the app, you hit that plus
@@ -197,7 +201,8 @@ through that experience is that advertisers really want to be where their consum
 are, and what YouTube gives them is, it gives them eﬃcient reach, gives them an
 engaged audience because of this creator-fan connection that I'm describing. And
 that's ultimately what turns into ROI, regardless of whether they have brand
-objectives, direct response objectives, and that works across all formats. It worksMichael Nathanson
+objectives, direct response objectives, and that works across all formats. It works
+Michael Nathanson
 Neal Mohan
 Michael Nathansonacross our traditional VOD formats, but it also works in Shorts, and so I view it as sort
 of a complete portfolio that we can offer to our advertisers. And that's why I'm so
@@ -239,7 +244,8 @@ that's why we're investing so heavily in it. And I think 150 million users in th
 terms of our reach on Connected TV devices.
 
 It is before, but globally we have observed that CTV is more slower to develop, so
-you talk a bit, first, where you're in the US, where you have such acceleration, give usNeal Mohan
+you talk a bit, first, where you're in the US, where you have such acceleration, give us
+Neal Mohan
 Michael Nathanson
 Neal Mohana sense of the international opportunity for YouTube on Connected TV, what are you
 seeing in -- anything you offer internationally?
@@ -282,7 +288,8 @@ So we want to keep investing in things like that. Investing through things like
 machine-learning and artificial intelligence to make our recommendation so that
 discovery of music across our catalog of 100 million-plus songs is delightful and fun
 for our users. And so that's a big part of our premium experience. And we're also
-building features that are just kind of great features to have regardless of whetherMichael Nathanson
+building features that are just kind of great features to have regardless of whether
+Michael Nathanson
 Neal Mohan
 Michael Nathansonyou are listening to music or what you're doing as a Premium subscriber. So just a
 few weeks ago, we launched the ability to queue video, so that you can have your
@@ -325,7 +332,8 @@ for a while and believe that the opportunity is a skinnier bundle and the optima
 price is a skinnier bundle led by sports and news under $50 a month. So given the
 leaking of more-and-more premium content to a program as an [ph] own service is,
 and you've seen the content leaked that's good content, what do you think the
-evolution of YouTube TV look like within this environment?Neal Mohan
+evolution of YouTube TV look like within this environment?
+Neal Mohan
 Michael Nathanson
 Neal Mohan
 Michael Nathanson
@@ -366,7 +374,8 @@ grew up on YouTube, right? And so that was -- that's some of the excitement that
 want to bring. And of course, so across all of those three pieces, YouTube TV,
 Primetime Channels, that's about growing our subscription business. The creator
 piece is, of course, is about growing our advertising business, and so that's what we
-see together.Michael Nathanson
+see together.
+Michael Nathanson
 Neal MohanBut the other thing that I'll say about that, that I'm very excited about, Michael, is just
 the innovation that I think will be able to bring to the fan experience and so that
 means you can get Sunday Ticket anywhere, so not just through YouTube TV, but if
@@ -411,7 +420,8 @@ has already -- that already has been a long-term sort of ﬂourishing relationsh
 our platform. In terms of rights around content, we're very focused on the NFL and
 Sunday Ticket and we look at everything on an individual basis to make sure it makes
 sense for our viewers, for our business, and so that's how we would approach
-anything.Michael Nathanson
+anything.
+Michael Nathanson
 Neal Mohan
 Michael Nathanson
 Neal Mohan
@@ -454,6 +464,7 @@ Okay. You touched on this earlier with the NFL, your subscription opportunity, b
 what does this mean taking (inaudible) in building out Primetime Channel space,
 right? So can you talk a bit about maybe using that as a beacon to bring people to
 your new launch of channels?
+
 Michael Nathanson
 Neal Mohan
 Michael NathansonYeah, so as I mentioned, Sunday Ticket will be available to YouTube TV subscribers,
@@ -497,6 +508,7 @@ have to think to go and figure out sort of where that show is. It should just sh
 your recommendation feed on the home feed after you're done watching a video on
 the watch page, and so that's an example of how we aim to tackle this discovery
 problem in a kind of one-stop shop type of experience on the YouTube app.
+
 Neal Mohan
 Michael Nathanson
 Neal MohanAnd password management, if you sit in my house and (inaudible) we're trying to
@@ -540,7 +552,8 @@ are investing in it and of course, that's a great opportunity I think for our re
 our brand partners. You see that, so you've probably seen a lot of that in terms of the
 Shopping Cards that now show up below the videos on the Watch Page on YouTube,
 the carousels that exist there, their Ad formats, the shopping cards are also organic.
-We had -- we just had Coachella a few weeks ago. A big part of that CoachellaMichael Nathanson
+We had -- we just had Coachella a few weeks ago. A big part of that Coachella
+Michael Nathanson
 Neal Mohanexperience, of course, were the live streams like the unprecedented number of live
 streams that we did from all the stages that made it a truly global phenomenon for
 music lovers. But we also had a lot of commerce opportunities that were merch from
@@ -584,7 +597,8 @@ pay off for our advertisers. So, obviously, things like targeting in optimizatio
 measurement just based on our investments in AI over the last several years, but also
 we talked a lot about multi-format and advertisers wanting to be across all of these
 formats, well, AI will be able to transform your creative from a horizontal creative
-that's suitable for VOD videos to one that's vertically oriented, for short-form videos,Michael Nathanson
+that's suitable for VOD videos to one that's vertically oriented, for short-form videos,
+Michael Nathanson
 Neal Mohanboth cropped in terms of kind of the canvas, but also time and that should happen
 seamlessly and eﬃciently for advertisers to maximize their ROI. And so creator side,
 advertiser side, there'll be newer features as well that will be powered by AI that I'm

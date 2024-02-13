@@ -23,7 +23,8 @@ Focusing on a key area, for example, our work in NVIDIA AI enterprise. This is a
 ability working with VMware, which is such an important piece of most of our
 enterprises when they build out their infrastructure to use VMware, so that they can
 both track their servers, track the jobs, all without scheduling and really light up both
-now. There are standard overall CPU servers, but also what they can do in terms ofQ - Joseph Moore
+now. There are standard overall CPU servers, but also what they can do in terms of
+Q - Joseph Moore
 A - Colette Kress
 Q - Joseph Mooretheir acceleration. An important piece of that though is our addition of an AI
 packaged software. The exact package of system software that we use at Nvidia now
@@ -62,6 +63,7 @@ the addition to add that software capability. So this is a very common process w
 enterprises of what they are expecting with their infrastructures. So I think we can
 easily do this with our existing team that we have and all of our partnerships
 worldwide.
+
 A - Colette Kress
 Q - Analyst(02:25 02) I'm good. You mentioned Omniverse and that's something you guys have
 talked about for really quite a while as one of the biggest opportunities. And I think
@@ -102,7 +104,8 @@ about upfront supply chain. We have every company that we cover pretty much is
 constrained by supply, but most of them are growing at a fraction of what you guys
 are. So how is it possible to put up the kinds of growth rates that you are in an
 environment everybody else is supply constrain it's slow rate. What have you done to
-sort of enable that type of growth?Q - Joseph MooreWe probably stepping back over this period of time realized quite quickly that this
+sort of enable that type of growth?
+Q - Joseph MooreWe probably stepping back over this period of time realized quite quickly that this
 would be a supply onstrained world and that it would be with us for many years. And
 so our initial onset of thinking through our supply chain started very early in that
 COVID period of time and our focus was not just about the about the next quarter's
@@ -142,7 +145,8 @@ Need to stop, and also focus on our inferencing has been an area where probably
 three to five years ago, we said we would join many that we're focused on
 inferencing and computer learning, and people would ask us and says, well, what's
 your market share? We'd say, zero, and off we went to join the overall inferencing
-market.A - Colette Kress
+market.
+A - Colette Kress
 Q - Joseph MooreInferencing in Q4 for just our inferencing platforms alone tripled year-over-year 3x in
 terms of what we had seen in the year-ago. This doesn't take into account so far
 Ampere architecture are a 100 which has dual capabilities. You're able to virtualize
@@ -184,7 +188,8 @@ has provided with the SDK helping them reroute is very important.
 Great. Thank you. With regards to ARM, I'm sure in some day we are disappointed at
 the outcome of the potential acquisition. But looking forward you guys have some
 pretty interesting ARM-based products. How important is ARM to NVIDIA's longer-
-term roadmap?A - Colette Kress
+term roadmap?
+A - Colette Kress
 Q - Joseph Moore
 A - Colette Kress
 Yes. We spend a lot of time working with ARM, not just this last 16, 17 months, but for
@@ -228,7 +233,8 @@ we can continue to add to this product capability for the gaming world, as well 
 the many other use cases even in the enterprise. So a lot has changed for gaming.
 We have a lot more gamers that are out there. We will continue to work on supply, I
 think we'll be in a good supply situation again in the second half and trying to
-improve supply each and every day.Q - Joseph Moore
+improve supply each and every day.
+Q - Joseph Moore
 A - Colette Kress
 Q - Joseph Moore
 A - Colette Kress
@@ -272,6 +278,7 @@ believe this has been a deterrent and hopefully enabling us to get more and more
 the gamers the gamers and additionally versus three years ago the tight supply the
 low amounts that we have in the channel has also been helpful as we continue to
 really focus on what do we think that need is going to be for the gamers afterwards.
+
 A - Colette Kress
 Q - Joseph Moore
 A - Colette KressGreat. And then last gaming question. New products, I know you're going to tell me
@@ -317,7 +324,8 @@ These are agreements are not short-term by any means, these are long outlook in
 terms of an agreement and they incorporate the full ﬂeet of cars that both Land
 Rover and JLR will have. So you will see approximately 10 million cars over a decade
 with Nvidia both infrastructure hardware and software operating going forward. It is
-a joint work in terms of the software each company in terms of what they expect theQ - Joseph Moore
+a joint work in terms of the software each company in terms of what they expect the
+Q - Joseph Moore
 Q - Analyst
 A - Colette Kress
 Q - Joseph Moore
@@ -359,7 +367,8 @@ GPU, and a unified overall architecture across. It keeps us agnostic to anything
 out there in the market. Our product works with everything. We'll work with every
 CPU vendor, we'll work with every storage vendor, we'll work with every memory
 vendor. Depending on our solutions, we will be assured that we're going to use the
-best to perform for what the customer is looking to do.Q - Joseph Moore
+best to perform for what the customer is looking to do.
+Q - Joseph Moore
 A - Colette KressOur relationships with the enterprise customers, a hyper skills and/or the game
 developers we're usually working with them years ahead of the games, even coming
 out. We're working with them years ahead in terms of their overall AI solution that

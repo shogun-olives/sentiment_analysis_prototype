@@ -17,7 +17,8 @@ Thank you Microsoft for -- thank you, Jonathan, for arranging this, really appre
 So Alysa talk about your responsibilities and what does this job title all about?
 I can do that. Well, first of all congratulations on 25 years, that's very impressive.
 
-Thank you.Alysa Taylor
+Thank you.
+Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
@@ -57,7 +58,8 @@ trust. And then on sort of trade wars, you know, particularly I think China is a
 mind on that. We have -- a small part of our business is China, we do have our multi-
 cloud offering in China. We actually just launched Dynamics 365 in China in April.
 But that is really servicing the needs of our multinational companies. And so making
-sure that we have a global offering.Kasthuri Gopalan Rangan
+sure that we have a global offering.
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
@@ -95,7 +97,8 @@ siloed applications. And so that was the vision for Dynamics 365. And then knowi
 that once you have all that data you have to have an adaptability and extensibility
 model and that was the introduction of the Power Platform. So we're relatively old in
 the Microsoft world, but new in the sort of new vision. So Dynamics 365 was two
-years in November.Kasthuri Gopalan Rangan
+years in November.
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
@@ -133,7 +136,8 @@ companies over the past couple of years, over the past decades, as they've gone
 into this digital transformation, which is a big buzzword as we all know in the
 industry. But when you look at it, there's really sort of four facets to digital
 transformation. There is the, you know, sort of what is the purpose and vision that
-you have as a company, like you have to have that.Kasthuri Gopalan Rangan
+you have as a company, like you have to have that.
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa TaylorWe even talked about Dynamics 365. What's your North Star as you were going
@@ -173,7 +177,8 @@ across the Power Platform and Dynamics.
 
 That's great. So all of the capabilities that you just mentioned from a customer
 perspective, how would they benefit -- just maybe a scenario where somebody could
-take advantage of all these features. I mean how would that look like?Kasthuri Gopalan Rangan
+take advantage of all these features. I mean how would that look like?
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
@@ -209,6 +214,7 @@ You'll have to ask the mirror.
 
 Yeah. Exactly.
 We'll consult. You got to get to New York.
+
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
@@ -248,7 +254,8 @@ ability to bring in chat into the portfolio, you're seeing that is where the exp
 growth is in SFA.
 
 That's very cool, very cool. The future looks very interesting. I mean, we thought 25
-years back or so, sales automation is exciting and 25 years later, it still is exciting.Alysa Taylor
+years back or so, sales automation is exciting and 25 years later, it still is exciting.
+Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
@@ -284,7 +291,8 @@ PowerApps is the, what we call, no cliffs extensibility into Azure. So you can a
 bring in Azure services, Azure app services, machine learning into PowerApps. So
 you have the integration directly into Azure. So the app can grow up or actually
 leverage more mature features beyond the citizen developer platform. And so it's
-one where we've just seen explosive adoption at the individuals --Kasthuri Gopalan Rangan
+one where we've just seen explosive adoption at the individuals --
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
@@ -315,7 +323,8 @@ I like it, I like it.
 Next year, we can demo your power app.
 
 Exactly, I'd love to do that, explosively predictive of the business trends in the
-software sector, company by company, business by business.Alysa Taylor
+software sector, company by company, business by business.
+Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
@@ -347,7 +356,8 @@ Is it still too early or do you have any customer examples of how large companie
 have built some interesting apps with PowerApps custom apps?
 Absolutely, so --
 
-Besides the Heathrow security guard, who got the promotion.Kasthuri Gopalan Rangan
+Besides the Heathrow security guard, who got the promotion.
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Kasthuri Gopalan Rangan
 Alysa Taylor
@@ -383,7 +393,8 @@ business functions, same type of concept, very easy to do if then statements, ra
 adoption of ﬂow as well. Particularly with our Oﬃce users we've seen high Flow
 adoption within the Oﬃce users.
 
-So Flow works with PowerApps obviously, you can build custom application?Kasthuri Gopalan Rangan
+So Flow works with PowerApps obviously, you can build custom application?
+Kasthuri Gopalan Rangan
 Alysa Taylor
 Q - Kasthuri Gopalan Rangan
 Q - Unidentified ParticipantYes, it's embedded in PowerApps, yes. So you can do it, you can -- within any
@@ -422,7 +433,8 @@ not a question that ServiceNow is the only one talking about it, now you've got
 Microsoft talking about workﬂow automation, so it's going to be truly exciting. So
 just want to make a quick pause to check to see before we get into BI, if there's any
 questions for our presenter? You have a question, Shankar, yeah go ahead.
-(Inaudible)A - Alysa Taylor
+(Inaudible)
+A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
@@ -462,7 +474,8 @@ as adoption grows throughout an organization, then you actually see the
 replacement cycle come in of legacy BI.
 
 You're seeing that replacement happen right now of all the old 15-year-old
-technologies from year-old technology?Q - Kasthuri Gopalan Rangan
+technologies from year-old technology?
+Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
@@ -503,7 +516,8 @@ are every single day to be able to do analytics versus pulling them out of the d
 day applications.
 
 Got it. You also have this competition aspect with analytics technologies. You want
-the analytics companies to run on the Azure cloud. So how do you see this theA - Alysa Taylor
+the analytics companies to run on the Azure cloud. So how do you see this the
+A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
@@ -543,7 +557,8 @@ I actually think about it slightly differently, because I think the -- those and
 this with what Salesforce announced with MuleSoft, you see this actually with some
 of the work that SAP is doing as well. The race I think is not at the app layer, it's
 actually the races at the data layer. And so the more that you can aggregate data,
-whether it be from an ERP system or from a CRM system or name, you know, yourQ - Kasthuri Gopalan Rangan
+whether it be from an ERP system or from a CRM system or name, you know, your
+Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
@@ -578,7 +593,8 @@ finishing your question by the time mic --- yeah.
 You want to rephrase the question, so?
 In the Flow area of your business, when you go-to-market, who do you usually come
 up against? And how does that work when you go into a new customer to win
-business?Q - Kasthuri Gopalan Rangan
+business?
+Q - Kasthuri Gopalan Rangan
 A - Alysa Taylor
 Q - Kasthuri Gopalan Rangan
 A - Alysa TaylorSo Akash talked about this. ServiceNow is probably the largest in the workﬂow

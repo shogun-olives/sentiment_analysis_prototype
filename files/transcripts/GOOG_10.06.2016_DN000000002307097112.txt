@@ -23,7 +23,8 @@ do that by starting out and talking about what the attributes of cognitive softw
 are. So if you think about it the software has been around for about 20 to 25 years,
 30 years and has been around and responds essentially to a set of algorithms.
 What we're talking about today in terms of Cognitive and AI software is, where
-software that doesn't necessarily need to be programmed; where the systemsactually learn on their own and you've seen many discussions about it. People talk
+software that doesn't necessarily need to be programmed; where the systems
+actually learn on their own and you've seen many discussions about it. People talk
 about deep learning; they talk about machine intelligence; they talk about artificial
 intelligence in very general terms; and all of these are essentially synonyms for
 Cognitive Software technologies.
@@ -63,7 +64,8 @@ that's beginning to emerge, as part of these kind of applications.
 Last but not least, are the different types of applications. So we have process
 applications that are cognitively enabled. We have the -- we're seeing those in sales.
 We're seeing them in finance. And we're also seeing industry applications around
-being able to help healthcare in terms of improving patient outcomes; being able todo money laundering; being able to come up with the right price for a particular
+being able to help healthcare in terms of improving patient outcomes; being able to
+do money laundering; being able to come up with the right price for a particular
 product.
 We're seeing business-to-business services in terms of advertising, legal systems,
 commercial leasing, you know, all of the applications that -- tools like Airbnb and
@@ -102,7 +104,8 @@ Developer tools. There is -- a number of tools, those Watson Developer Cloud is
 available via Bluemix. Some people can get access to it easily and then they can start
 working with that.
 So that's one of the primary areas is the Watson Developer Cloud. At the same time,
-there is other areas, so Watson Explorer is really their search and discoveryapplication, which includes Cognitive and AI components in it; and is being able to
+there is other areas, so Watson Explorer is really their search and discovery
+application, which includes Cognitive and AI components in it; and is being able to
 help organizations to find and locate that information and then make use of that
 information to the decision-making processes.
 IBM has also created a number of Watson business units. Watson IoT, which is
@@ -141,7 +144,8 @@ all of the stuff in the market.
 So as we mentioned that Watson Health insights is really driven by data. And I think
 this is just a good example of how to think about Watson's different business units in
 general. They're combining their data, but they're either acquiring or getting
-through partnerships. They're taking their Cognitive and AI technology solutions;and they're combining the two together with services and other aspects to really
+through partnerships. They're taking their Cognitive and AI technology solutions;
+and they're combining the two together with services and other aspects to really
 deliver the insight that companies are looking for in terms of being able to transform
 their businesses in that digital transformation that we're starting to see in the
 marketplace.
@@ -181,7 +185,8 @@ involved in decision-making at your particular company, you really need to start
 thinking about how these applications are going to change your business and how
 you're going to make use of these applications to really get the jump up and get the
 edge in your particular industry.
-With that, I'll turn it back to Anurag.Anurag Rana
+With that, I'll turn it back to Anurag.
+Anurag Rana
 David Schubmehl
 Anurag Rana
 David Schubmehl
@@ -219,7 +224,8 @@ telling people to do is really do an assessment of how data-driven your organiza
 is today. And if it's not data-driven, then you really need to get a handle on what
 your data is? What do you have? What do you own? What do you get from third-
 party sources? Because the data is really the -- one of the key components that you
-need to look at. Once you have that data and you have a good handle on whatAnurag Rana
+need to look at. Once you have that data and you have a good handle on what
+Anurag Rana
 David Schubmehl
 Jitendra Waral
 David Schubmehlyou've got and what the quality is, then you can start to take a look at, well, how
@@ -256,7 +262,8 @@ mean, everybody else is pitching to AI solutions, obviously Google is top of the
 with the DeepMind acquisition and all the applications they're doing on back of that.
 How does -- how does -- what is the differentiation with IBM Watson? And you think
 this differentiation is something that will last longer -- longer term given of what the
-competition in-store [ph]?Anurag Rana
+competition in-store [ph]?
+Anurag Rana
 David Schubmehl
 Jitendra WaralWell, I mean, I think that, if you look at how Google has approached this, I mean,
 Google has been approaching this from a consumer standpoint for the most part.
@@ -294,7 +301,8 @@ terms of the fact that they have all these Cognitive and AI services and they're
 making available via Bluemix.
 
 That's great. So can we talk about like what -- how do you -- we think about the
-market size over here because obviously the impact seems to be very widespread,David Schubmehl
+market size over here because obviously the impact seems to be very widespread,
+David Schubmehl
 A - Anurag Rana
 A - David Schubmehlhow do we size the market? How do you look at how much this is worth and how
 these guys monetize it?
@@ -331,7 +339,8 @@ Thanks, Dave. Dave, we have some questions from the audience. The first one is, 
 there any specific AI companies in healthcare that you would highlight as being
 ahead of the curve?
 I mean, there is a number of Watson partners and people that have been out there. I
-mean, I'm not really an expert in the healthcare area. But I mean, there is a companyA - Anurag Rana
+mean, I'm not really an expert in the healthcare area. But I mean, there is a company
+A - Anurag Rana
 A - David Schubmehl
 A - Anurag Rana
 A - David Schubmehl
@@ -372,6 +381,7 @@ look like? Will advertising potentially go away at least in the sense that we kn
 today, in terms of targeting and things like that? I think those are all interesting
 questions. And is that going to change the landscape for how people consume
 information?
+
 A - David Schubmehl
 A - Anurag Rana
 A - David SchubmehlThanks, Dave. You've brieﬂy touched on automated advisors, where are we on the
@@ -412,7 +422,8 @@ example IBM down the road say well, we are not going to give data for let's say 
 assets of The Weather Company to anybody else out there or will this become kind
 of an anti-competitive thing going forward?
 I don't -- I think the companies like Microsoft buying LinkedIn data and IBM buying
-The Weather Company, I think their -- I think their business models right now includeA - Anurag Ranasharing that data with third parties. And I think everybody would be -- if they started
+The Weather Company, I think their -- I think their business models right now include
+A - Anurag Ranasharing that data with third parties. And I think everybody would be -- if they started
 to hold that data and say they wouldn't share it. I think obviously the world's
 governments would be out after these folks, in fact, it's -- to some extent it's already
 happening.

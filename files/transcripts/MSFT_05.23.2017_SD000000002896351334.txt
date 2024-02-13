@@ -20,7 +20,8 @@ years ago that Satya became our third CEO. And a month into his tenure or so, he
 asked me to take on the role of Chief Marketing Oﬃcer and join his leadership team.
 And it's just been an unbelievable sort of three years of having a front-row seat at a
 massive, massive cultural transformation inside the company that, I think, people
-have seen outside the company as well.Q - Mark Ronald Murphy
+have seen outside the company as well.
+Q - Mark Ronald Murphy
 A - Christopher C. CaposselaQuestions And Answers
 
 So let's begin with that. Let's talk about the brand perception of the company. You've
@@ -65,7 +66,8 @@ the right thing. But I love how people are viewing the company right now. It's v
 positive. And the outside perspective finally matches the inside perspective. And
 that hasn't been true prior to Satya taking on the CEO role. There was a real
 disconnect between the inside company seeing -- how we saw each other and how
-the outside world saw us. So that's been awesome, to see change.Q - Mark Ronald Murphy
+the outside world saw us. So that's been awesome, to see change.
+Q - Mark Ronald Murphy
 A - Christopher C. Capossela
 Q - Mark Ronald Murphy
 A - Christopher C. Capossela
@@ -107,7 +109,8 @@ Vista.
 
 I thought -- we'd thought you'd have more gray hair.
 
-It all fell out.Q - Mark Ronald Murphy
+It all fell out.
+Q - Mark Ronald Murphy
 A - Christopher C. Capossela
 Q - Mark Ronald Murphy
 But anyway -- so you look at the company today and you've got these leading-edge
@@ -153,7 +156,8 @@ equation. We -- many of us were just at your Build Conference, great, successful
 conference up in Seattle. You demo-ed some incredible technologies, in my opinion.
 There was computer vision. There was speech. There was text understanding. You, of
 course, have Cortana in the portfolio. Many of us thought that the story remix was a
-big hit. It was a way to take -- it takes your photos and your videos. And it will kind ofA - Christopher C. Capossela
+big hit. It was a way to take -- it takes your photos and your videos. And it will kind of
+A - Christopher C. Capossela
 Q - Mark Ronald Murphyautomatically create a movie out of them. It will put it to music. Then you click a little
 button. And it will remix the whole thing and kind of -- and do it all differently.
 Yes. You can pick the actor you want to be the star. You pick one of the...
@@ -197,6 +201,7 @@ use Windows and Oﬃce every day. So for us, there's multiple components to our 
 strategy. And I think we've got the broadest view of it. And you saw a lot of the press
 coming out of Build saying, "Wow, we were really impressed with Microsoft's
 approach to AI," which was great for us to see.
+
 A - Christopher C. Capossela
 Q - Mark Ronald Murphy
 A - Christopher C. Capossela
@@ -242,7 +247,8 @@ be able to run it in their own data center using Azure Stack is a massive advant
 you want to do business in Russia, it's hard to find a data center or cloud provider in
 Russia that meets all the needs of Russia, as one example. But there are many other
 examples. With Azure Stack, you can buy your own hardware. You can run it yourself
-in whatever place you want to run it. And yet, you're building an application thatQ - Mark Ronald Murphy
+in whatever place you want to run it. And yet, you're building an application that
+Q - Mark Ronald Murphy
 A - Christopher C. Caposselaworks exactly on premise as it works in the Azure Cloud. So there's a major shipping
 and tour company that has big cruise liners that take people out into the big open
 ocean. And they love the notion of Azure Stack because they can write their
@@ -289,7 +295,8 @@ have many, many CEOs telling me, "Hi. I can deal with an SAP outage. I can't dea
 with an e-mail outage for a second." So you have to have -- five 9s isn't enough for
 your e-mail system. I think having that track record and that relationship where
 customers trust us, they know there are going to be mistakes made. But they trust us
-to respond to those mistakes really well. There's no doubt, as the data estate andQ - Mark Ronald Murphy
+to respond to those mistakes really well. There's no doubt, as the data estate and
+Q - Mark Ronald Murphy
 A - Christopher C. Capossela
 Q - Mark Ronald Murphy
 Q - Unidentified Participant
@@ -330,7 +337,8 @@ of computing, moving to this Intelligent Cloud and Intelligent Edge, where the c
 is incredibly important. But there'll be 25 billion devices that are connected and
 considered smart devices in the next couple of years, according to various industry
 analysts. And so there's just a massive opportunity for us to have intelligence at the
-edge of the cloud that runs on these devices themselves. And lots of people like toQ - Mark Ronald Murphy
+edge of the cloud that runs on these devices themselves. And lots of people like to
+Q - Mark Ronald Murphy
 Q - Unidentified Participant
 A - Christopher C. Caposselathink about the mobile phone as the device. But we see industrial opportunities on
 just an incredibly wide array of different device types. We have a wonderful
@@ -375,7 +383,8 @@ education event that Satya kicked off, where we introduced a new version of
 Windows called Windows 10 S. And we introduced a bunch of hardware from our
 hardware partners, including a brand-new laptop from Microsoft called the Surface
 Laptop that runs on Windows 10 S. And Windows 10 S has the very important
-capability of essentially being locked down. You can't download anything from theQ - Mark Ronald Murphy
+capability of essentially being locked down. You can't download anything from the
+Q - Mark Ronald Murphy
 Q - Unidentified Participant
 A - Christopher C. Caposselaweb on the machine. And it starts up very quickly. And it stays very clean and safe
 and secure 1,000 days later after you started using it. And most Macs and Windows
@@ -420,7 +429,8 @@ with PowerPoint. And we did this demo using, what we call, Translator integrated
 PowerPoint, where somebody was speaking to a PowerPoint slide in English and
 anybody else on their phone could essentially dial in to the presentation. And you
 choose the language that you want to see the subtitles in on your phone. And we
-support something like 60 languages. So I'm speaking in English and on this phone,Q - Mark Ronald Murphy
+support something like 60 languages. So I'm speaking in English and on this phone,
+Q - Mark Ronald Murphy
 A - Christopher C. Capossela
 Q - Mark Ronald Murphy
 Q - Unidentified Participant
@@ -459,7 +469,8 @@ That's specifically what I'm talking about. Any others? There he is, yes.
 That was the one.
 Can you talk about gross margin progression in your cloud business? I mean, overall
 cloud makes 50% gross margins now, I believe. But can you comment on the
-individual components? And how you see that over the next couple of years?A - Christopher C. Capossela
+individual components? And how you see that over the next couple of years?
+A - Christopher C. Capossela
 Q - Mark Ronald Murphy
 A - Christopher C. Capossela
 Q - Mark Ronald Murphy

@@ -21,7 +21,8 @@ here at Microsoft.
 At Microsoft, one of the things that Satya has talked quite a bit about the last six
 months is the fact that we now live in a mobile-first, cloud-first world. And across
 Microsoft, we're working hard to deliver a set of solutions that really enable
-customers to fully take advantage of this new world.And within the Cloud and Enterprise Group, we deliver a number of our core
+customers to fully take advantage of this new world.
+And within the Cloud and Enterprise Group, we deliver a number of our core
 enterprise and server products that enable this world, specifically Windows Server,
 System Center, Active Directory, our SQL business and all of our Associated Data
 Products, Visual Studio and all of our developer products and then also Microsoft
@@ -61,7 +62,8 @@ capabilities that we think the combination makes us unique. And really basically
 are hyper-scale, enterprise grades and hybrid and the Microsoft Cloud is the only
 cloud that have all three, and combined, we think it really provides a truly unique
 cloud offering that enables differentiated solutions for our customers. What I want to
-do is to spend the rest of the time drilling into each of these and kind of giving asense of ﬂavor in terms of what each one is and why the combination of them is
+do is to spend the rest of the time drilling into each of these and kind of giving a
+sense of ﬂavor in terms of what each one is and why the combination of them is
 really unique in the enterprise space.
 One of the elements of having a hyper-scale cloud is having a cloud that really truly
 provides global reach. And we've been hard at work on the Azure side, over the last
@@ -99,7 +101,8 @@ We're the only hyper-scale provider out there that actually has software that ru
 both in the cloud as well as in on-premise customer environments as well as other
 service provider environments. And this kind of enables customers to basically
 maximize their existing investments and easily bridge to the cloud and kind of
-enable truly unique solutions.And we kind now provide a pretty wide range of solutions out there whether ranging
+enable truly unique solutions.
+And we kind now provide a pretty wide range of solutions out there whether ranging
 from backup to DR to database replication to identity management in the cloud, and
 you're going to see us build out these kind of capabilities more and more over time.
 And we think having the fact that we have that large on-premise footprint provides
@@ -139,7 +142,8 @@ environment. And as part of this suite, we actually provide what's called SaaS
 Discovery Capabilities so that an enterprise, IT or CIO, could actually look at their
 network logs and actually determine not just which of the SaaS apps that they've
 approved that their enterprise is using, but which are the hundreds of other SaaS
-apps that their employees are taking advantage of, but IT doesn't know about.And once they discover them, you can basically go into Azure and very quickly wire
+apps that their employees are taking advantage of, but IT doesn't know about.
+And once they discover them, you can basically go into Azure and very quickly wire
 up and adapt it, which allows you to enforce single sign-on with your corporate
 company credentials against that solution. This is basically two steps and you can
 enable it for Salesforce.com, we support Workday, Concur, Google Apps, just for
@@ -179,7 +183,8 @@ The last thing I will just walk through really quickly is our unlock insight on 
 pillar. Core part of our value proposition here is to really deliver a set of data
 solutions that enable customers to get more insight as well as to run their businesses
 better. I mentioned earlier, our SQL business is now at $6 billion a year run rate,
-growing at 19%.Q - Walter PritchardIn addition to kind of our core SQL work, we also have a whole bunch of additional
+growing at 19%.
+Q - Walter PritchardIn addition to kind of our core SQL work, we also have a whole bunch of additional
 data services that we're now providing, and increasingly going forward, you'll see us
 move up into the data analytics space, which is a category we don't really compete
 in today and which we think is right for disruption and a really nice adjacent business
@@ -216,7 +221,8 @@ Questions And Answers
 (Technical Diﬃculty) Can you give us some sense as to what they are using it for?
 You've outlined a number of business cases. Typically people get going though with
 pretty simple things. Can you just talk to us about what the demographics are of that
-57% that they are using?A - Scott Guthrie
+57% that they are using?
+A - Scott Guthrie
 Q - Walter Pritchard
 A - Scott Guthrie
 It's interesting. I mean, so I think a lot of people, when they think of cloud, think of it
@@ -258,7 +264,8 @@ I think for us, certainly in the near term, I think it's going to continue to be
 business. And one of the things that we focused on from a business strategy
 perspective is also, how do we kind of design our business model so that it ends up
 hopefully being additive from a long-term perspective. So for example, today we
-make money off of the Windows Server license.Q - Walter Pritchard
+make money off of the Windows Server license.
+Q - Walter Pritchard
 A - Scott Guthrie
 Q - Walter Pritchard
 A - Scott Guthrie
@@ -302,7 +309,8 @@ probably more transactional-based, gives us a little bit more of a smoother on r
 
 Okay. Got it. And then another sort of economic question here on, Amazon and
 Google have been pretty ruthless. Amazon before and now Google has kind of
-entered the fray in terms of leaning down price and pushing pricing down. You'veA - Scott Guthrie
+entered the fray in terms of leaning down price and pushing pricing down. You've
+A - Scott Guthrie
 Q - Walter Pritchardlargely matched or roughly matched the price decreases that they pushed through.
 Do we get to a point here where it starts to become an impactor on profitability in
 terms of from your business? Amazon has profits as a company, give or take. Is that a
@@ -344,7 +352,8 @@ than taking the other competitors out there.
 Okay, got it. I was actually going to kind of go there next and talk a bit about
 platform versus infrastructure. So my sense is the disclosure around your business
 has become very transparent in the last year or so, so we really get a sense of what's
-going on.A - Scott Guthrie
+going on.
+A - Scott Guthrie
 Q - Walter Pritchard
 A - Scott Guthrie
 Q - Walter Pritchard
@@ -386,7 +395,8 @@ So the last question you asked about what percentage of our coverage --
 Yeah, right. Exactly.
 
 I think what we disclosed in our Q4 numbers were more than half of our Azure
-customers are now also using the premium services and that that rate is actuallyQ - Walter Pritchard
+customers are now also using the premium services and that that rate is actually
+Q - Walter Pritchard
 A - Scott Guthrie
 Q - Walter Pritchardincreasing. So that kind of land and expand motion I mentioned is definitely one that
 we're seeing from a usage perspective as well as from a revenue perspective.
@@ -430,7 +440,8 @@ we can ultimately win.
 Got it. And then on part of the success story that's in Microsoft for a few decades
 here has been the ISVs, the software vendors, developers inside companies and then
 developers inside software companies and then long history of desktop vendors,
-software vendors and then server-based software vendors who've built their softwareA - Scott Guthrie
+software vendors and then server-based software vendors who've built their software
+A - Scott Guthrie
 Q - Walter Pritchard
 A - Scott Guthrieon top of Windows Server, where are we there with Azure? I know not necessarily the
 enterprise companies, but a lot of consumer companies, are building on top of EWS
@@ -474,7 +485,8 @@ process of (inaudible) on top of that. And so anytime you use Oﬃce 365, all of
 authentication infrastructure goes through Azure Active Directory. You store things in
 one drive, it's going into Azure Storage. If you use the new Oﬃce 365 video app,
 you're going against our Media Service pack and inside Azure, et cetera. And with
-Xbox Live, likewise, you run Halo or you run the Titanfall games that came out earlyQ - Walter Pritchard
+Xbox Live, likewise, you run Halo or you run the Titanfall games that came out early
+Q - Walter Pritchard
 A - Scott Guthrie
 Q - Walter Pritchardthis year for Xbox One, that's all 100% on Azure. In fact, Titanfall was a game that
 came out and it has been one of the premier games on Xbox and they actually spent
@@ -516,7 +528,8 @@ emails and that data center is in Ireland, and it just sort of brought to the �
 of these recent issues we've heard around the NSA and these sort of outreach by the
 U.S. government, has that set the industry back at all? I know there's been some sort
 of concerns highlighted by tech execs that this could actually occur in American
-companies. And what have you seen in that regard?A - Scott Guthrie
+companies. And what have you seen in that regard?
+A - Scott Guthrie
 Q - Walter Pritchard
 A - Scott Guthrie
 We've not seen any revenue slowdown from it. I mean, I think when some of the NSA
@@ -557,7 +570,8 @@ server data center and get that without having to pay extra. And I think that's 
 lot of the growth has happened.
 The other thing I think to watch for us is Windows Server 2003 is going end of life
 next summer and our Hyper-V share of Windows Server 2003 is exactly 0% because
-we didn't have Hyper-V in Windows Server 2003. And so as all of those WindowsQ - Walter Pritchard
+we didn't have Hyper-V in Windows Server 2003. And so as all of those Windows
+Q - Walter Pritchard
 A - Scott GuthrieServer 2003 instances get updated, I think that's also going to be an opportunity for
 us to gain some more significant virtualization shares because there are pure
 VMware environments that are now up for grabs and pay a little bit more and get

@@ -23,7 +23,8 @@ with the journey of helping in accelerated computing. The very first app that we
 found that could use accelerated computing was gaming, and it's still in our heart
 and soul as a company as we continue to improve that.
 But what we did find was other great use cases and platforms for accelerated
-computing. One of the great outcomes of accelerated computing has been AI andQ - John Pitzer
+computing. One of the great outcomes of accelerated computing has been AI and
+Q - John Pitzer
 A - Colette M. Kressbuilding that. We look forward and think of us as a full stack data center computing
 company. When we mean a full stack, that means we start layer by layer. First layer
 that we think about is those chips, those systems and build up to the second layer,
@@ -64,7 +65,8 @@ We have also therefore started to procure longer term. Most of our discussions w
 our suppliers has been what do we see going forward, how can we help them and
 enable them to build the capacity that they will need to support the system going
 forward. Helping them with that and working on long-term procurement you will see
-now in our purchase commitments, you will see that in our inventory. How long will itQ - John Pitzer
+now in our purchase commitments, you will see that in our inventory. How long will it
+Q - John Pitzer
 A - Colette M. Kress
 Q - John Pitzertake until this bounces out? It's diﬃcult to say. We feel very good about, of course,
 our guidance that we have provided, we feel good about the beginning of next year
@@ -106,6 +108,7 @@ very diﬃcult for anybody to quantify because we just can't see that piece of i
 with the lean channel inventory and our steps that we have done to create other
 avenues for the crypto money, we believe we're in a really good position for it to
 continue to grow.
+
 A - Colette M. KressAnd then Colette, probably the number one question I get about NVIDIA, especially
 as and I don't want to jinx things. You're knocking on the door of a trillion dollar
 valuation, which is just astounding. Is what really is the TAM opportunity here? And
@@ -151,7 +154,8 @@ choice of adding software separately, adding and licensing software to enterpris
 separately is not in there. Our favorite topic in terms of Omniverse is also not there in
 terms of a opportunity. We also haven't included our Grace CPU, our niche CPU
 that's really focused on high performance computing and AI, attached to that overall
-vision that we have that it's data center computing as a whole that we'll focus on inQ - John Pitzer
+vision that we have that it's data center computing as a whole that we'll focus on in
+Q - John Pitzer
 A - Colette M. Kress
 Q - John Pitzerevery single part of the data center. So the TAM, the opportunity is large. How large
 will it get? It's very un -- unknown, but there are big markets out there for us.
@@ -194,7 +198,8 @@ the enterprises move into this world of acceleration.
 
 And it really is a question of which of your businesses are going to grow faster. But is
 there a benchmark you can provide us with as to when you think software might
-actually be a reportable segment within the model?A - Colette M. Kress
+actually be a reportable segment within the model?
+A - Colette M. Kress
 Q - John Pitzer
 A - Colette M. Kress
 Q - John Pitzer
@@ -240,7 +245,8 @@ If you think about sort of the metaverse is the interface between the physical a
 digital world, NVIDIA throughout its history has been trying to improve that interface.
 You've been doing it in gaming and now you're moving into a broader space. So I'm
 curious, are we at an inﬂection point in Omniverse, metaverse? Do we need AR, VR
-to kind of catch up? And is there, again, I think this is a very bullish long-term trendA - Colette M. Kress
+to kind of catch up? And is there, again, I think this is a very bullish long-term trend
+A - Colette M. Kress
 Q - John Pitzer
 A - Colette M. Kress
 Q - John Pitzer
@@ -282,7 +288,8 @@ particularly now in a hybrid environment, more and more in terms of working from
 different space than the overall oﬃce. The world of taking large documents to look
 at a 2D design is not effective anymore. One, they want to see it real time. Not when
 they finished three quarters of the way through the design and then say we need to
-make a change.Q - John Pitzer
+make a change.
+Q - John Pitzer
 A - Colette M. KressThey want a single source of the truth of the design. Well, wait a minute, what version
 are you on. Are you on version 17, I'm on version 5. How do they keep that design
 world working? So Omniverse really helps many of these large manufacturers
@@ -325,7 +332,8 @@ We will probably continue to be bigger than the overall gaming industry when we
 think about our overall growth because we are supporting more than just gamers.
 We are supporting creators. We are supporting broadcasters, broadcasters in a lot of
 different universes, whether they're doing AR, VR or working in terms of contractors
-or enterprises. It's out there and this high-end graphics is an important piece.Q - John Pitzer
+or enterprises. It's out there and this high-end graphics is an important piece.
+Q - John Pitzer
 A - Colette M. Kress
 Q - John Pitzer
 A - Colette M. Kress
@@ -369,6 +377,7 @@ rendering and creating just new markets and new applications? I think the one th
 you highlighted when you first introduce RTX was actually could you actually
 stimulate -- simulate housing, real estate and instead of driving around and seeing
 four houses in five hours, you can see 40 houses in an hour virtually.
+
 Q - John Pitzer
 A - Colette M. Kress
 Q - John PitzerAbsolutely. So the workstation market has had very, very strong growth over the last
@@ -413,7 +422,8 @@ that we should have on gross margins? One. And two, as you report the January
 quarter, one of the helpful things you gave us is, as you look out to the next fiscal
 year is your OpEx. And as much as you tell guys like us not to look at an OpEx to rev
 ratio and back into revenue, we inevitably do that. How should we think about kind
-of the OpEx given the opportunity set that you have in front of you?A - Colette M. Kress
+of the OpEx given the opportunity set that you have in front of you?
+A - Colette M. Kress
 Q - John Pitzer
 A - Colette M. Kress
 Q - John Pitzer

@@ -10,7 +10,8 @@ rendering and top-end applications within workstations and also virtualization o
 GPU.
 Our third market is high performance computing and cloud, a very key market where
 the GPU is used in an accelerated mode for many parallel applications or high
-performance computing.Unidentified Speaker
+performance computing.
+Unidentified Speaker
 Colette Kress
 Unidentified SpeakerAnd that our fourth one, our mobile GPU associated with automotive industry and
 bringing together both the infotainment systems within cars and also the future of
@@ -43,7 +44,8 @@ more than 50%.
 So if I split the gaming segment just for reference just kind of 55%, 60% total
 revenues --
 
-That's correct.Colette Kress
+That's correct.
+Colette Kress
 Unidentified Speaker
 Colette Kress
 Unidentified Speaker
@@ -75,7 +77,8 @@ Alienwares, et cetera, how is that categorized? Does that go in --
 That would definitely be a gaming --
 Okay. So you put it in the gaming side.
 
--- gaming GPU, yes.Unidentified Speaker
+-- gaming GPU, yes.
+Unidentified Speaker
 Colette Kress
 Unidentified SpeakerHow do you look at -- you've talked about the gaming experience, these big gaming
 events where there's millions of people watching, it becomes like bigger than
@@ -108,7 +111,8 @@ And a question I often get is where does this actually occur around the world, k
 the geographic dispersion of it. And part of that also comes in because I think China
 will be part of the answer, with consoles now being supported in China, what sort of
 impact -- so the first is the geo. Then the second is, what sort of impact on whatever
-percentage you give to China will consoles being adopted there potentially have?Colette Kress
+percentage you give to China will consoles being adopted there potentially have?
+Colette Kress
 Unidentified Speaker
 Colette Kress
 Yes. We actually have a very strong market in almost every regional area around the
@@ -141,7 +145,8 @@ expectation for that going forward?
 Yes. So what he's referring to is when you look at our gaming GPUs, we can tell,
 again, by how they are using those GPUs that it is primarily for gaming. We will still
 and continue to sell into a general purpose enterprise PC or a general purpose
-consumer PC. And in the discrete.Unidentified Speaker
+consumer PC. And in the discrete.
+Unidentified Speaker
 Colette KressWe'll compete against others in the market. There's a lot of different options in terms
 of a general purpose PC. It has amounted to probably less than 10% of our business
 right now as a whole of the Company, where even if you had looked as short as
@@ -174,7 +179,8 @@ concern in terms of the slowdown of the economy and particularly in some parts o
 China to say how would that affect our overall businesses?
 So we still believed our overall gaming market was healthy and very strong and our
 overall presence in there. But we really were thoughtful in terms of thinking about
-some of these macro conditions.Unidentified Speaker
+some of these macro conditions.
+Unidentified Speaker
 Colette Kress
 Unidentified Speaker
 Colette KressSo what happened? So when we actually finished the quarter, yes, the gaming
@@ -207,7 +213,8 @@ design side for many years.
 But some of the macro conditions that we saw at the very first half of the year put it
 not in a grow-ish situation. Still holding on to some tremendous share, we still have
 very strong applications that we work with and are really the go-to GPU for a lot of
-the designers and high-end design that takes place.So it was a slight decline, very common in terms of what we saw with the capital
+the designers and high-end design that takes place.
+So it was a slight decline, very common in terms of what we saw with the capital
 purchasing that was going on around the world and some of the holds that were
 done on that.
 But we've launched a new set of boards for the overall enterprise market. Those
@@ -242,7 +249,8 @@ visual effects of what a workstation owner would have is what we see. So that is
 growing.
 Our trials have reached over the thousands and we keep working on closing many of
 those deals, not just from a trial. But to a key project to a full installment in many
-large companies.Unidentified Speaker
+large companies.
+Unidentified Speaker
 Colette Kress
 Unidentified Speaker
 Colette Kress
@@ -272,7 +280,8 @@ Agreed.
 I agree --
 -- regardless of where the base level is?
 
-(inaudible)Colette KressSo again, if you have any questions in the audience, please raise your hand and just
+(inaudible)
+Colette KressSo again, if you have any questions in the audience, please raise your hand and just
 wait for the microphone.
 Why don't we transition from the enterprise side over to some of the growthier, even
 faster growing areas like HPC and cloud? I think it's kind of 5% to 10% of sales
@@ -305,7 +314,8 @@ the key thing that the Internet service providers are looking for is application
 better serve those overall consumers.
 What we're looking for is the ability to image detection, voice translation, voice
 recognition, for them to instantaneously recognize all of those pieces, essentially
-training the application of these images for recognition.Unidentified Speaker
+training the application of these images for recognition.
+Unidentified Speaker
 Colette KressSo we've seen Internet service providers continue to expand using GPUs. Why?
 GPUs, their performance, bar none, is one of the fastest to get this work done in the
 artificial intelligence phase.
@@ -339,7 +349,8 @@ strongest ways to really release the ability in the data center to get the job d
 an FPGA could be an option for some at a much lower work level.
 The challenge that you have it its programmability. The GPU, you're generally
 programming at the software level, things that are very familiar, used to. With an
-FPGA, a little bit more challenging in terms of that programming ability.Unidentified Speaker
+FPGA, a little bit more challenging in terms of that programming ability.
+Unidentified Speaker
 Colette KressAs we look forward, again, it's a wide and vast arena in terms of the data center and
 the needs for acceleration. But we're very pleased with our ability to serve so many
 very important workloads right now for the data center.
@@ -373,7 +384,8 @@ great understanding of the quality that's necessary, the testing that is. And th
 coming back for additional overall designs.
 So we can see the growth in our automotive as we have seen the overall designs that
 we win. And that is going to take us several years out in terms of the future. So that's
-where we are today.Unidentified Speaker
+where we are today.
+Unidentified Speaker
 Colette KressThat's also established us to create the relationships for what we know is coming
 upon us in terms of the future. And that is both assisted driving that is here today
 and autonomous driving or self-driving cars in terms of the future.
@@ -407,7 +419,8 @@ I think our approach in terms of the automotive industry is very different than 
 these different competitors. There may be a processor focused on antilock brakes,
 not necessary what we're focused on.
 We're focused on where we can leverage what we do best, both on that visual
-computing side. But also that center really deep processing power and being able toUnidentified Speaker
+computing side. But also that center really deep processing power and being able to
+Unidentified Speaker
 Colette Kressput that together for the future.
 So there's not necessarily anybody competing in the exact same manner that we are.
 I think they're all looking at it as a different approach. And that is a different
@@ -441,7 +454,8 @@ So about a year ago we went to the, ITC against Samsung and Qualcomm for
 infringement. We've gone through the initial hearing. We are waiting right now for
 the judge that will come out in the first part of October to give them his feedback on
 the case. It will likely move from there to the overall commission. But they will also
-give a determination of the court.Unidentified Speaker
+give a determination of the court.
+Unidentified Speaker
 Colette Kress
 Unidentified Speaker
 Colette Kress

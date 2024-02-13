@@ -17,6 +17,7 @@ cryptocurrency. So I'd like talk about each of those. Maybe a question in terms 
 gaming. Again, for a year without a product cycle, you had a very strong year. Can
 you talk about the drivers of that strength. And how you perceive the long-term
 growth for that segment?
+
 Q - Joseph Lawrence Moore
 A - Colette M. KressSure. Just to remind everyone of our market segments that we do have. The
 company is really based on one single product in terms of a GPU. And we do have 4
@@ -64,7 +65,8 @@ of breeds in terms of overall gamers, learning key tricks in terms of showing th
 how to play. But essentially, now it's a spectator sport in terms of what you can do
 with gaming. What is different though is people inﬂuencing friends, how does it
 inﬂuence you actually buying the hardware? The top gear that your top inﬂuencers
-have in terms of gaming is very popular as well as with all the gamers as well. InQ - Joseph Lawrence Moore
+have in terms of gaming is very popular as well as with all the gamers as well. In
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kressmany cases, in life, we know that we purchase overall equipment or the gear to
@@ -109,7 +111,8 @@ That inﬂuenced not only those buying our cryptocurrency boards that we have
 available. But also moving up to the stack and using overall high-end GPUs to do a
 lot of the cryptocurrency mining. So trying to serve both of those markets with the
 overall GPUs, we became supply constrained. We're going to look forward. The best
-thing that we can do is not necessarily an allocation because our allocation,Q - Joseph Lawrence Moore
+thing that we can do is not necessarily an allocation because our allocation,
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kressparticularly for our gaming GPUs, is largely geared towards gamers. We want to
@@ -153,6 +156,7 @@ out over the course of this year. And yet you have this situation where inventor
 extremely low at the moment. Is there anything we should think about, any context
 we should have in terms of how you're going to manage through the rest of the year
 when you have that combination of constrained inventory and new product?
+
 Q - Joseph Lawrence Moore
 A - Colette M. KressYes. So historically, our architectures, we have kept everybody on their toes. We
 don't preannounce our products. We do like to excite our overall gamers. Our
@@ -198,7 +202,8 @@ perspective and the ability to use an overall GPU in both scenarios as well afte
 you've already trained that data. Still in the early stages. But a very large market in
 front of us. Then the fifth one is thinking about the AI on the edge, AI for industry that
 could also continue to grow. Still in its early stages, it started mostly with cloud
-service providers. But we also see that as a very large business.Q - Joseph Lawrence Moore
+service providers. But we also see that as a very large business.
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 Okay. Great. Then the deep learning piece is the part that, I guess, has really
@@ -243,7 +248,8 @@ competition from your own cloud customers who have developed, at least one that
 we know of, has developed their own custom silicon and press stories about a
 second. What are the benefits of that approach for somebody running these larger
 homogeneous workloads? And what are the limitations of that approach in terms of
-getting broader usage?A - Colette M. Kress
+getting broader usage?
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
@@ -289,7 +295,8 @@ But you guys have made such good strides on software, TensorRT 3. As we talk to
 your customers, it seems like there's a real opportunity. So how should we measure
 you on inference? In software, it seems like a lot of your wins are sort as a service
 types of wins that are visible. But where will you see it first deployed? And where will
-we externally be able to see to measure your progress?A - Colette M. Kress
+we externally be able to see to measure your progress?
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
@@ -334,7 +341,8 @@ sometimes growing as fast as the overall data center business as a whole.
 
 Okay. Great. Then just a final HPC cloud question. I mean, how do you run a business
 that's growing this quickly from a CFO's perspective? How predictable is it? Did you
-know you were going to grow triple digits again last year when the year began, IA - Colette M. Kress
+know you were going to grow triple digits again last year when the year began, I
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kressguess? And how do you think about things like headcount? Like how do you grow as
 fast as this business sort of justifies from a resourcing perspective?
@@ -380,7 +388,8 @@ processing capability that needs to occur in the car is huge. What you've also s
 in terms of a bifurcation to say this is not necessarily just about high-end premium
 types of cars that we've seen in the past and the overall infotainment system. This is
 really changing the overall transportation industry as a whole as we think about
-transportation as a service, as we think about overall trucking, as we think of overallQ - Joseph Lawrence Moore
+transportation as a service, as we think about overall trucking, as we think of overall
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 Q - Unidentified Participantpassenger cars in Level 2. At the same time that we may see the features and the
@@ -423,7 +432,8 @@ we've seen moving forward, overall doubling ASPs and then some as we go forward
 is likely to happen in terms of the overall autonomous platforms.
 
 That's helpful. Let me pause now and see if we have questions from the audience. If
-not, I'll go into some of the financial. We have a mic somewhere. Yes.A - Colette M. Kress
+not, I'll go into some of the financial. We have a mic somewhere. Yes.
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. KressIf we look at gaming, I think the point was made earlier by Brian and more and more
 that is done online and he said basically the 2 playing mechanisms would be the PC
@@ -469,7 +479,8 @@ We've even seen now a shortening often of that console life cycle because the
 overall PC market continues to inﬂuence with its constant upgrades, both inﬂuencing
 better games in terms of what is overall being built -- the overall upgrade of that --
 we continue to evolve the overall innovation in terms of gaming. That, therefore,
-leads to higher price points because there's just so much innovation that it'sQ - Joseph Lawrence Moore
+leads to higher price points because there's just so much innovation that it's
+Q - Joseph Lawrence Moore
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Joseph Lawrence Moore

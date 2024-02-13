@@ -20,7 +20,8 @@ Morgan Stanley. So welcome home. You had several roles in your career at Morgan
 Stanley, including Vice Chairman of Investment Banking and Global Head of the
 Financial Institutions Group. You're the Vice Chair of Stanford University's Board of
 Trustees and a member of the Board of Directors of Stanford Management
-Company. You're also a member of the Board of Directors of the Council on ForeignRuth Porat
+Company. You're also a member of the Board of Directors of the Council on Foreign
+Ruth Porat
 Q - Brian Nowak
 A - Ruth PoratRelations and a member of the Advisory Council of the Hutchins Center on Fiscal
 and Monetary Policy at the Brookings Institute. A Bachelor's degree from Stanford,
@@ -64,7 +65,8 @@ of robotics, we recently indicated the exit of Boston Dynamics. It?s to enable u
 focus on what we think are a core set of robotics activities that really are stronger fit
 with what we're doing. Robotics fits within X, one of Other Bet entities. And so we
 are very excited about some of the robotics opportunities but didn't need to be
-focused on Boston Dynamics. Another area in prioritization is, in the early days, itQ - Brian Nowak
+focused on Boston Dynamics. Another area in prioritization is, in the early days, it
+Q - Brian Nowak
 A - Ruth Poratreally made sense to have Nest and Google hardware as separate entities. We've
 reached the point where they each have strong product roadmaps, strong
 geographic growth, great momentum. And we saw that we were increasingly finding
@@ -111,7 +113,8 @@ open that up. And you've seen the growth numbers that we talked about. What that
 translated into is the momentum we have with marquee customers. And we've seen
 this across industries, whether it's PayPal or HSBC, Schlumberger, Colgate. And
 we've got a whole host of retailers. So what you're seeing are these large-cap
-enterprise customers that's a nice complement to the strength that we've always hadQ - Brian Nowak
+enterprise customers that's a nice complement to the strength that we've always had
+Q - Brian Nowak
 A - Ruth Porat
 Q - Brian Nowak
 A - Ruth Poratwith the growth technology companies. And it really reﬂects the milestones to your
@@ -156,7 +159,8 @@ original content to really driving YouTube growth from here?
 So overall, YouTube is an extraordinary platform. We have 1.5 billion monthly logged
 in users, 1 billion daily hours of watchtime. And so in terms of the 3 key priorities as
 we're looking into 2018, the real primary focus is to ensure that YouTube is the best
-experience for users and advertisers. And we've talked about some of theQ - Brian Nowak
+experience for users and advertisers. And we've talked about some of the
+Q - Brian Nowak
 A - Ruth Porat
 Q - Brian Nowak
 A - Ruth Poratchallenging issues, that kind of the backdrop that we?re all living through. And we
@@ -201,7 +205,8 @@ going on at the company?
 
 So liked your report, liked the video. We do constantly work to provide really strong
 disclosures, the metrics that are needed and kind of meaningful ways for people to
-understand how we're running the business. And as we change how we run theQ - Brian Nowak
+understand how we're running the business. And as we change how we run the
+Q - Brian Nowak
 A - Ruth Porat
 Q - Brian Nowak
 A - Ruth Poratbusiness, we change our disclosure. And you've seen us do that over the last couple
@@ -246,7 +251,8 @@ framework -- or not that type, it was that framework that enabled us to announce
 first share repurchase program back in 2015 of $5 billion and upped it when we
 completed that since (October--$7) (corrected by company after the call). We
 actually, in the last earnings call, added on yet another one. So we have more than 3.
-We added on another, about $8.6 billion. And so we're pleased -- I'm pleased thatQ - Brian Nowak
+We added on another, about $8.6 billion. And so we're pleased -- I'm pleased that
+Q - Brian Nowak
 A - Ruth Porat
 Q - Brian Nowak
 A - Ruth Poratwe've been able to extend the return of capital in this way. But it's all anchored in
@@ -292,6 +298,7 @@ utility without a monetization switch ﬂipped on given the user base and
 engagement. What have you learned so far about early Maps monetization? And
 what are the factors that Alphabet considers when determining whether to push
 monetization of a platform like that, how fast to go? What are the things you look at?
+
 Q - Brian Nowak
 A - Ruth Porat
 Q - Brian NowakSo Maps is a great example. If I take you back in time to the mission of the company,
@@ -338,7 +345,8 @@ that, as you said, is quite compelling.
 
 Moving into Other Bets a little bit. On Waymo, it's been a busy couple of years. 4
 million miles driven, now testing in 25 cities. It's a short ﬂight from here to Arizona.
-There's potential for people to ride around in these Waymo autonomous cars. ItA - Ruth Porat
+There's potential for people to ride around in these Waymo autonomous cars. It
+A - Ruth Porat
 Q - Brian Nowak
 A - Ruth Porat
 Q - Brian Nowakseems like it's a very important Other Bet. How do you look at Waymo? And what do
@@ -383,6 +391,7 @@ milestones, in our view, when we have something that is substantively enough of
 value that it justifies accelerating the rollout again, that's how we're looking at it.
 We're delighted to have brought in a new CEO, Dinni Jain, who has really strong
 history in the industry. And so we are continuing and are fortunate to have him.
+
 A - Ruth Porat
 Q - Brian Nowak
 A - Ruth PoratI want to go back to kind of high-level and consumer behavior a little bit. There's a
@@ -429,7 +438,8 @@ view is we're developing a simpler, faster approach and excited about what we ca
 do with it. Increasingly, you're going to be able to use Google Pay across all Google
 products, Play, YouTube, Chrome. So it's very, very useful. The other thing we're
 doing in payments different is what -- is an approach we've taken in India. And it's
-part of what we broadly call our NBU strategy, our Next Billion Users, which is --Q - Brian Nowak
+part of what we broadly call our NBU strategy, our Next Billion Users, which is --
+Q - Brian Nowak
 A - Ruth Porat
 Q - Brian Nowak
 Q - Unidentified Participant
@@ -472,6 +482,7 @@ It seems like feedback from large IT departments and CIOs seem to suggest that t
 enterprise sales force for Google Cloud is somewhat lacking or not intense enough
 or just not -- doesn't have enough distribution. Just how do you guys think about
 growing your sales force? And do you think you may be behind?
+
 Q - Brian Nowak
 Q - Unidentified Participant
 A - Ruth Porat

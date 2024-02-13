@@ -8,7 +8,8 @@ I'd like to refer you to our SEC filings for a description of our businesses and
 associated risks and other factors, which could cause the results to differ materially
 from these statements.
 All our statements are made as of today, March 19th, 2019 based on information
-currently available to us. Except as required by law, we assume no obligation toJensen Huangupdate any of these statements. Also, if we use any non-GAAP financial measures,
+currently available to us. Except as required by law, we assume no obligation to
+Jensen Huangupdate any of these statements. Also, if we use any non-GAAP financial measures,
 you will find the reconciliations to GAAP on our IR website.
 Okay. So with that, let me just go over very quickly the agenda for today. We are
 going to be starting off with a few minutes with Jensen Huang, our Founder and
@@ -45,7 +46,8 @@ Moore's Law? Well, we came about this idea called accelerated computing, a
 decade and a half ago.
 26 years ago when we first started the Company, we realized that accelerators could
 help us achieve performances otherwise impossible with a normal computer.
-Accelerators, and we built, we identified one particular accelerator that has what wecall at that time -- if you saw one of my presentations 26 years ago, it says -- bless
+Accelerators, and we built, we identified one particular accelerator that has what we
+call at that time -- if you saw one of my presentations 26 years ago, it says -- bless
 [ph] you -- sustainable opportunity, sustainable opportunity meaning that this
 particular application called virtual reality trying to achieve virtual reality 3D graphics
 was going to take nearly forever. And the reason for that is, in order to create this
@@ -87,7 +89,8 @@ do, for example, a recurrent neural net for deep learning. And if you design a
 recurrent neural net deep learning accelerator, you wouldn't be able to use that for
 example for random forest, machine learning algorithms. If you design a
 functionality just for -- and accelerate it for one functionality, it would certainly be
-very good, but it doesn't have the necessary aperture to accelerate a large domain.The challenge of course is if you created a product that has an aperture of infinite
+very good, but it doesn't have the necessary aperture to accelerate a large domain.
+The challenge of course is if you created a product that has an aperture of infinite
 domains what you've done is you've created a CPU. The reason why accelerated
 computing is so wise, and the reason why although, many other parallel computing
 approaches have come before us, the reason why it has lasted the test of time is
@@ -129,7 +132,8 @@ devices. Yesterday, I announced a $99 computer. A $99 full computer, it runs the
 same software stack as $1 million supercomputer as a coder of $1 million DGX deep
 learning system or a PC. There's only one computer architecture in the world aside
 from this that does that. And it's the x86. And so an accelerated computing
-architecture has a rich software stack. The other thing about accelerated computingthat's interesting is this, because of what I said earlier, there is only one computer
+architecture has a rich software stack. The other thing about accelerated computing
+that's interesting is this, because of what I said earlier, there is only one computer
 architecture that can boil the ocean that's called the CPU. It's general purpose, that's
 it's nature, that's it's weakness too.
 It's strength is that they can run everything, it's weakness is that it doesn't run
@@ -170,7 +174,8 @@ volume requirement is very low. So in both cases, it's unable to justify an acce
 computing platform, there was this unicorn that's just stood out there. We imagined
 that if some day, there was a such a thing as the video game industry, it would both
 be large, because everybody would be gamers, who wouldn't want to play. And then
-two, the computation requirement of it would be gigantic.The unicorn, 26 years ago, we found the unicorn well methods, that same method is
+two, the computation requirement of it would be gigantic.
+The unicorn, 26 years ago, we found the unicorn well methods, that same method is
 being applied here. And you could see one segment after another, we're essentially
 finding verticals that are suﬃciently large in domain, that could sustain more and
 more and more and more and more investment as we grow into one. High
@@ -215,7 +220,8 @@ reason for that is because you created the market or you're creating the market,
 you need a lot of partners to work with you to realize the full potential of that market.
 You have ecosystem partners that work with you on your platform. And that platform
 is rich with software, and that software is domain focused not function focused. It
-doesn't do CNN, it does accelerated data science.Okay. And so if you look at the comparatives, when you hear us talk, that's the reason
+doesn't do CNN, it does accelerated data science.
+Okay. And so if you look at the comparatives, when you hear us talk, that's the reason
 why we talk this way, because we're a computing platform company.
 I announced a couple of things yesterday. First, Fisher is going to talk more about
 this, but the big takeaway here is RTX is off to a great start. It is clear now that ray
@@ -258,7 +264,8 @@ you look it up, it says, there are capacity machines and capability machine. Tha
 way the supercomputer industry talks. The way the hyperscale datacenter people
 talk is they say they scale up machines and then scale out machines, scale out is
 hyperscale. You take a cost eﬃcient computer, and you scale it out linearly, so that
-you could support a whole lot of jobs that are small at the same time, scale out. Scaleup says you build the largest computer you possibly can, whether it's the largest
+you could support a whole lot of jobs that are small at the same time, scale out. Scale
+up says you build the largest computer you possibly can, whether it's the largest
 amount of computational capability, the amount of storage, the amount of active
 memory, the amount of networking, you build yourself the largest machine you can.
 So you could solve the largest problem as fast as possible for one person, whether
@@ -301,7 +308,8 @@ be millions of clients. And the reason for that is because there are so many ind
 where there's domain expertise and finally the technology is capable of being used
 at a large scale, the frameworks, the algorithms are suﬃciently robust now and the
 schools are teaching it. You guys know the data science is being taught to every
-single field of science in a university now. From sociology to oceanechocardiography to forestry to agriculture, it is the fourth pillar of the scientific
+single field of science in a university now. From sociology to ocean
+echocardiography to forestry to agriculture, it is the fourth pillar of the scientific
 method. This new pillar of the scientific method came about literally made possible
 in the last 10 years, came about in the last five years and about the same time the
 deep learning was happening, the same dynamics what's happening to data
@@ -343,7 +351,8 @@ One of the things that you could see and then in the cloud, we announced a
 partnership with AWS and (inaudible) was very, very, very really appreciate them
 coming down and celebrating the moment with us and so we have workstations ,
 servers and cloud to take this data science platform to the world. And then lastly one
-of the things that you might notice is it these workloads, works sets are so large thatit doesn't fit on one computer. The connectivity between the computer becomes the
+of the things that you might notice is it these workloads, works sets are so large that
+it doesn't fit on one computer. The connectivity between the computer becomes the
 greatest challenge. And I showed yesterday the performance of a fast interconnect
 and the performance of a fast interconnect with the right type of CPU oﬄoad, the
 performance difference is 2x. What that says is that the architecture of the
@@ -385,7 +394,8 @@ partnership with Toyota tremendously. We were already working with them on some
 early developments of cars and now from end to end from software development, AI
 development to simulation to computing, to algorithms, we're going to partner
 deeply with the world's largest car company. They have selected us to be their
-primary technology partner and we're very honored by that.Jeff Fisher
+primary technology partner and we're very honored by that.
+Jeff Fisher
 Jensen Huang
 Jeff FisherAnd so that's basically it. There are three takeaways then that one RTX has taken off.
 So, off to a great start retracing is here, there's a whole bunch of new workloads for
@@ -424,7 +434,8 @@ strong. Our basic core business is continues to be strong, as we've mentioned
 before, and I continue to say everybody born today is a gamer, every child is a born
 gamer. The demographics are also working in the favor of gaming, gamers continue
 to gain longer in life. You start out a gamer, you game longer in life, the total
-population of gamers continues to grow. And what's driving that? Well eSportsmomentum is still huge. I wanted to -- if you don't mind for a moment, I saw in my
+population of gamers continues to grow. And what's driving that? Well eSports
+momentum is still huge. I wanted to -- if you don't mind for a moment, I saw in my
 inbox this morning, we get a weekly update from my team on what's going on in the
 world of eSports. I know you guys track that news very closely, but just in case you
 missed a few things, I'm going to read you a couple of things that came in my inbox
@@ -463,7 +474,8 @@ So let's take a little bit, -- take a deeper look into our business. Specificall
 gaming business, our GeForce GPU business grew 18% year-over-year last year, that
 is in both desktop and notebook. The contribution is both from units and ASPs are
 five year CAGR for units and ASPs, continues at about 14% total revenue growth over
-the past five years about 29%. But if you look at laptop, laptop is outpacing desktopin terms of growth for reasons we'll talk about later, both ASP and units contributed
+the past five years about 29%. But if you look at laptop, laptop is outpacing desktop
+in terms of growth for reasons we'll talk about later, both ASP and units contributed
 to a laptop growth that drove about a 59% year-over-year increase.
 Looking more specifically at RTX, Jensen mentioned that RTX is off to a great start.
 Well, I would say RTX is on to a great start, you see what I did there RTX is on.
@@ -505,7 +517,8 @@ ProSettings.net if you've not been too it. ProSettings.net has about 900 gaming 
 and streaming pros, online where they enter what all of their gaming hardware is,
 including their system config and GPU. 98% of those on pro settings dot net, the
 pros and pro settings dot net are powered by GeForce, and interestingly enough,
-over two-thirds of those pros are playing on systems that have the performance ofan RTX 2070 or higher, and over about a third are the performance of an RTX 2080
+over two-thirds of those pros are playing on systems that have the performance of
+an RTX 2070 or higher, and over about a third are the performance of an RTX 2080
 or 2080 Ti. So the pros know that the better the rig, the faster the system, the more
 often going to win and the better the game play.
 Looking at our GPU stack. I mentioned the 1660 Ti, 90% of our installed base is
@@ -547,7 +560,8 @@ team is booked solid with Dev's talking about real-time ray tracing coming into
 games. Real-time ray tracing is the most exciting technology we've rolled out. We've
 seen the best response that I have experienced at NVIDIA from developers to
 implement real-time ray tracing in their next generation games. We're tracking, let's
-say about a dozen games that are coming later this year, early next year toimplement real-time ray tracing and those are the ones that we just have visibility
+say about a dozen games that are coming later this year, early next year to
+implement real-time ray tracing and those are the ones that we just have visibility
 into with the release of Unreal and Unity I expect that to accelerate.
 As Jensen mentioned, ray tracing is a software algorithm. It will run on CPUs, it's
 accelerated by GPUs, but we designed RTX to further accelerate to make real-time
@@ -590,7 +604,8 @@ can't service them. The demand among gamers who are on underpowered PCs
 appears to be pretty huge.
 Within our current monthly active users about 90% are playing on PCs that are
 underpowered, do not have GeForce GPUs in them. What is GeForce NOW?
-GeForce NOW is a GeForce gaming PC in the cloud. Give users access on lowingclients to a high-performance gaming PC in the cloud. Fully interactive gaming, and
+GeForce NOW is a GeForce gaming PC in the cloud. Give users access on lowing
+clients to a high-performance gaming PC in the cloud. Fully interactive gaming, and
 we're rolling out VR. To simple game launch, we are not as store, it's a PC in the
 cloud. It's a simple game launch. You launch a game, off your desktop, just like you
 would any other game. And voila, it's playing in the cloud. We offer an open
@@ -629,7 +644,8 @@ GeForce's alliance, then will let us scale out. We announced LG and SoftBank and
 expect to have more announcements coming over the course of the year.
 So that's my story for gaming. Look forward to speaking with you all later, if you have
 any additional questions. Thanks so much.
-I think Jay is up next for data center.Jensen Huang
+I think Jay is up next for data center.
+Jensen Huang
 Jay Puri
 Hey Jay, before you start, I got to make a quick announcement. I have quick -- make
 quick announcement. We are in historic grounds. It turns out, this cozy room is the
@@ -670,7 +686,8 @@ artificial intelligence, deep learning was going to transform their business, an
 need it a fast computing platform, and CPUs, but just not going to cut it, they all
 migrated towards GPUs. We quickly saw that opportunity and leaned into it big time.
 And so we took our CUDA architecture, widened its aperture a little more as Jensen
-put it, and we had libraries such as cuDNN and so on, and very soon, working with allof the framework developers. We had the best platform for deep learning and we
+put it, and we had libraries such as cuDNN and so on, and very soon, working with all
+of the framework developers. We had the best platform for deep learning and we
 are doing really well with the Hyperscalers there.
 And a couple of years ago after that, I think even the traditional industrial companies
 in automotive, healthcare, retail, financial services, the leaders began to realize, hey,
@@ -713,7 +730,8 @@ science and the performance is incredible. When you have a new domain like AI, i
 important to have some industry specific benchmarks that everybody can look at to
 compare different options that they have. So Google led an effort to come up with a
 set of industry benchmarks called MLPerf recently and it's a very comprehensive set
-of benchmarks. They did a very good job. They are tough. In fact, we have lots ofcompanies that are part of the MLPerf consortium, but only about three or four
+of benchmarks. They did a very good job. They are tough. In fact, we have lots of
+companies that are part of the MLPerf consortium, but only about three or four
 companies could even submit results that met the requirements of the benchmark
 and I'm so pleased that NVIDIA was the leader in all six of the important benchmarks
 and not only that, but we beat the competition by a fairly healthy margin.
@@ -756,7 +774,8 @@ have our own set of products. But I have a small sales force and really we want 
 platform to be ubiquitous, so the real go-to-market strategy actually is through our
 OEM partners and through our cloud service providers. And every single OEM in the
 world, every single system builder in the world is now using our platform to build
-their solutions and we are available in every cloud provider.Okay. Finally, we have NGC, the NVIDIA GPU cloud, our software hub and that sort of
+their solutions and we are available in every cloud provider.
+Okay. Finally, we have NGC, the NVIDIA GPU cloud, our software hub and that sort of
 unifies everything because it is available, our accelerated applications and know-
 how and so on is available there and that can be deployed whether it's on our
 systems or it's on systems of our OEM partners or even in the cloud. So that is sort of
@@ -801,7 +820,8 @@ chose NVIDIA. And so, we power that supercomputer also. The number of
 applications that we're accelerating is going up. We accelerate the top 15
 applications that are important in high-performance computing and scientific
 computing, but at this stage, we actually accelerate over 600 applications. So from
-450 last year to over 600 applications, and at this point almost all of the applicationsthat account for the vast majority of the cycles in supercomputing centers are
+450 last year to over 600 applications, and at this point almost all of the applications
+that account for the vast majority of the cycles in supercomputing centers are
 accelerated by NVIDIA. The other reason that this market is actually going to
 become even larger is because it's not just about simulation anymore, people want
 to do AI at the same time, because as you can imagine, it's all about getting your
@@ -848,7 +868,8 @@ put that back into speech, okay, you get it back into speech, but then that's sp
 sounds like a robot, you don't want that sound like a robot. So you need another
 network to make it sound more natural sounding. So the complexity and plus, okay,
 not only do you have to do all the stuff, you have to do this stuff in a few
-milliseconds, so that it's useful, not going to wait for idle CPU cycles to do that, right.So you need GPU acceleration for inference going forward in a big way as AI
+milliseconds, so that it's useful, not going to wait for idle CPU cycles to do that, right.
+So you need GPU acceleration for inference going forward in a big way as AI
 becomes more sophisticated, and so inference is going to be a big opportunity for
 us.
 And here is examples of many companies that are already using NVIDIA for
@@ -890,7 +911,8 @@ graphs and so forth.
 So that was turn off open source software already that these people are using. But
 frankly, they were just not able to be effective enough. And again, the reason is tons
 of data, but by the time, you actually to prepare it, Jensen gave the examples,
-yesterday, about -- I think was the Verizon network, whereby it takes eight days toactually massage the data, so by the time to do that, it's already not current enough
+yesterday, about -- I think was the Verizon network, whereby it takes eight days to
+actually massage the data, so by the time to do that, it's already not current enough
 before they can even run the models on it and so forth.
 So it really needs acceleration. It needs NVIDIA's accelerated computing platform.
 And that's what we've been doing. We've been working with all of these open
@@ -930,7 +952,8 @@ and fraud detection and all of those things. So Uber is a great account we are
 working with now. Walmart is another account that is very excited about our
 platform. They're using it for things like forecasting, you can just imagine Walmart is
 the largest, largest retailer out there, the hundreds of billions of dollars of business
-that they do it. They can improve forecasting just by a little bit, so that we have lessspoilage or something that you want, when you go to their -- one of the stores is
+that they do it. They can improve forecasting just by a little bit, so that we have less
+spoilage or something that you want, when you go to their -- one of the stores is
 actually is not out of stock. That has an impact of hundreds of millions of dollars to
 them.
 And so they need to do that in as much real time as possible. Today, they definitely
@@ -970,7 +993,8 @@ prem on our -- any of our OEM systems that are certified for NGC. And of course,
 you can do it on DGX.
 Okay. Some of the other things that we're doing to -- make our technology easy for
 people to deploy. One is I mentioned it earlier, these reference architecture partners.
-When we first got started, we reintroduced the DGX appliance and we said that'sgreat. We've got the whole stack all optimize and people can get started right away.
+When we first got started, we reintroduced the DGX appliance and we said that's
+great. We've got the whole stack all optimize and people can get started right away.
 And then we would find, they would put our DGX's in one room and they would put
 the storage in another room and connect it by one gigabit ethernet or something,
 and then they would say, hey, the performance is not very good, and so we quickly
@@ -1016,7 +1040,8 @@ with T4 in them or there are many times when people are going to want, data
 scientists are going to want the fastest supercomputer with lots of memory and so
 on to go do data science and we're going to be able to address both of those
 capabilities. So T4 is now available from all of our -- all the major OEM suppliers, and
-we are no longer limited to just this -- just the capability machines, we also have theSimona Jankowski
+we are no longer limited to just this -- just the capability machines, we also have the
+Simona Jankowski
 Robert Csongorcapacity machines, the scale-out machines, which really widens the market and that's
 available for us, and it's again, all of the stuff is -- and you see certified, and so we
 know that it's going to support our platform and all the applications that have been
@@ -1055,7 +1080,8 @@ announced that Xavier is going to be going out, we said that Xavier was the
 processor to power the autonomous vehicle to power the self-driving algorithms, to
 power the cockpit and we were just launching it. So you know that as part of our
 open platform. We work with literally hundreds of companies, sensors, tier ones, car
-makers, truck makers also to different vehicles, and during this past year, we basicallywent from zero to order over 80 companies that are now building on top of the
+makers, truck makers also to different vehicles, and during this past year, we basically
+went from zero to order over 80 companies that are now building on top of the
 Xavier platform. So this is, I think, one of the most significant things. The Xavier
 platform of course is software compatible to the previous platform. Yes, people who
 were looking to drive an autonomous vehicle and get it out soon made the move
@@ -1098,7 +1124,8 @@ truckers that limits the amount of time that they can drive per day and further
 reduces the amount of productivity that can be brought out into the road. Self-
 driving Level 2 plus solutions for truckers allow the truckers to extend the amount of
 miles that they can drive on the road, because the amount of miles where they're not
-driving, but resting doesn't have to be logged as driving time. This is a significantchanger -- game changer for people in that industry. In the trucking industry, of
+driving, but resting doesn't have to be logged as driving time. This is a significant
+changer -- game changer for people in that industry. In the trucking industry, of
 course, you're feeding the demand for delivery. There's a 120 million households in
 the United States, half of them 60 million or 130 million, sorry 65 million of those
 households are Amazon Prime subscribers. So, this is placing a demand on delivery.
@@ -1140,7 +1167,8 @@ have a $25 billion TAM opportunity driven in the short term by Level 2 plus, Lev
 we have a $3 billion opportunity on the DGX side, just in terms of how many car
 makers are there, how many cars do you need to develop algorithms for millions of
 millions of images you have to collect per DNM [ph], 10 plus DNMs [ph] that have to
-be developed per car and then from that you can do the math.This is only just getting started. Imagine all of these vehicles, more models, more
+be developed per car and then from that you can do the math.
+This is only just getting started. Imagine all of these vehicles, more models, more
 cars, more vehicles coming out, of course this will just grow for us. And then finally,
 the testing and validation. The testing and validation really has to do with, you need
 (inaudible) to accelerate your testing and validation, because otherwise you are
@@ -1182,7 +1210,8 @@ cases and a lot of the things we announced here at GTC about drive constellation
 are going to be the solutions for that problem. So all of these things, the opportunity,
 the market drivers of course, form the basis of our products and our strategies.
 When we say end-to-end, it means from driving, training and validation and when we
-say open, it means that we have a massive ecosystem of hundreds of partners thatcan plug in. They can develop solutions on top of our platform. Our customers and
+say open, it means that we have a massive ecosystem of hundreds of partners that
+can plug in. They can develop solutions on top of our platform. Our customers and
 partners are welcome to use as little or as much of our solution as they like.
 For example, let me illustrate. We announced Drive AP2X yesterday. This is our full
 autopilot Level 2 plus solution. We have three Tier 1s that have announced -- three
@@ -1224,7 +1253,8 @@ Intel. So DGX represents opportunity and a product that the entire world can use
 train and develop their-self driving cars.
 And then finally on the validation and test side we announced drive constellation
 and it's really a three-pronged approach to how we test and validate a car. First of all,
-we do what we call component level so our software in the loop, imagine that youcan take the data that you have and play it back to your computer and then you can
+we do what we call component level so our software in the loop, imagine that you
+can take the data that you have and play it back to your computer and then you can
 do regression testing, you can change things, you can say, hey, let me remove the
 radar, let me have a camera fail. Let's see how the algorithm response and you can
 do this in super time. Okay. For example, you can have several months of driving that
@@ -1266,7 +1296,8 @@ could look at that our key individual milestones or accomplishments towards our
 goal, I would really break it into our innovation, our product milestones, as well as
 partners. So, if you look at them a lot of them I mentioned Constellation, our
 simulation solutions, Safety Force Field, which is NVIDIA now moving to the third part
-of what's required for a self-driving car. We've shown world-class perception, we'veshown world-class mapping localization HD map, and now we're showing world-
+of what's required for a self-driving car. We've shown world-class perception, we've
+shown world-class mapping localization HD map, and now we're showing world-
 class solution for planning.
 DRIVE AP2X, we believe Level 2 plus is now important, I think you'll see a lot of car
 makers make decisions on Level 2 plus this year. My Route, the reality is that HD
@@ -1309,7 +1340,8 @@ now available and the DRIVE simulation system like every other part of our platf
 is open. We have multiple partners from IPG, developing physics models and sensor
 models to Cognata, who's developing traﬃc scenarios existing simulation solutions
 that already exist in the market that can now tie-in to our platform, because of our
-open platform strategy.Colette KressOkay. Thank you very much. And at this point, I'm going to introduce Colette Kress,
+open platform strategy.
+Colette KressOkay. Thank you very much. And at this point, I'm going to introduce Colette Kress,
 our CFO.
 
 Okay. Still morning. We're a little bit behind, but we can catch up. I'm going to try
@@ -1352,7 +1384,8 @@ form factor and for gamers that have not actually been in touch with us.
 Now, pro-visualization, pro-visualization also extension in terms of the graphics that
 we see on the gaming side, but taking that to the overall enterprise. We've seen an
 expansion of this market as well, largely focused in terms of the mobility of their
-overall workstations, the thin and light, the overall performance improvement hasexpanded and you see in terms of the growth rate that we see in ProVis 15% over the
+overall workstations, the thin and light, the overall performance improvement has
+expanded and you see in terms of the growth rate that we see in ProVis 15% over the
 last three years growing quite nicely. But you also have RTX coming to overall pro-
 visualization. You also have heard in terms of yesterday, our focus in terms of the
 creatives out there and how they can improve the overall rendering process with
@@ -1394,7 +1427,8 @@ continue overall growing. So we broke out here. Our gross margins in a slightly
 different view, in terms of our overall gross profit, where do we get the majority of
 our overall gross profit? More than 70% of our overall gross profit stems from
 gaming and overall datacenter which obviously takes up a good portion of our
-overall business. But keep in mind, one of the highlights that we talked about on ourlast earnings calls was the impact of inter and intra overall segments in terms of
+overall business. But keep in mind, one of the highlights that we talked about on our
+last earnings calls was the impact of inter and intra overall segments in terms of
 both.
 Mix is the largest driver in the near term of our overall gross margins. Mix both in
 terms of between our overall segments as well as in our overall segment, the black
@@ -1433,7 +1467,8 @@ Our operating margin expansion has been focused on this unified model that allow
 us to overall expand our margins quite nicely over the last three years and continue
 to effectively invest in our businesses without having to worry about the overall
 margin increase, and we'll probably see this continue as we go forward, as well as
-we look at this as a very key area for us to focus in terms of growth.Our cash ﬂow and overall cash balances. Our cash ﬂow has grown quite about 3x
+we look at this as a very key area for us to focus in terms of growth.
+Our cash ﬂow and overall cash balances. Our cash ﬂow has grown quite about 3x
 over the last three years and we're reaching about $3 billion or $3.1 billion of this last
 year. That's allowed us to produce an overall cash balance, a 7.4 billion by continuing
 though with our overall capital return program.
@@ -1475,7 +1510,8 @@ in the next couple of quarters as we go, but that's what you'll see to get and r
 that overall growth rate for the full year. We get questions quite a bit, such as you're
 often giving us overall full-year guidance on overall OpEx to help steer us on
 something that you can definitely control. We provided our full year in terms of
-operating expenses, in terms of looking at high-single digit overall growth over theJensen Huang
+operating expenses, in terms of looking at high-single digit overall growth over the
+Jensen Huang
 Colette Kress
 Q - Toshiya Hariprior year, but we also took this opportunity to provide full year revenue range of
 overall guidance. We look at that to be ﬂat to slightly down. The ﬂat to slightly down,
@@ -1513,7 +1549,8 @@ I enjoyed listening to my team talk. I'll first turn on the lights. We can see t
 there much, -- much better.
 Questions And Answers
 
-Thank you for the presentation. Toshiya Hari from Goldman Sachs.A - Jensen Huang
+Thank you for the presentation. Toshiya Hari from Goldman Sachs.
+A - Jensen Huang
 Q - Toshiya Hari
 A - Jensen Huang
 Hi Toshiya.
@@ -1556,7 +1593,8 @@ ways that you can play sports. You can play sports because you enjoy it. And you
 play sports because you want to win.
 And I think that the another way to think about ASPs is for the people who are
 athletes or aspirational athletes or they just really love to win. They need to have
-better gear and that's one of the reasons why you see in eSports, the high-end GPUsQ - Toshiya Hari
+better gear and that's one of the reasons why you see in eSports, the high-end GPUs
+Q - Toshiya Hari
 Q - Aaron Rakers
 A - Jensen Huangare like 20 ADTI's. And they want 20 ADTI's because they want to run never missing
 a heartbeat at 120-150 frames per second. Many gamers can click 300 clicks a
@@ -1598,7 +1636,8 @@ and unique. Using the GeForce NOW
 Alliance, we can reach them. You buy a server from us and then we operate the
 network on top of it for you. You buy the server from us, we operate the network on
 top of it. We take in terms of relative to the -- when we go into a subscription model,
-when we go and right now it's a beta, when we go into a subscription model. So outQ - Aaron Rakers
+when we go and right now it's a beta, when we go into a subscription model. So out
+Q - Aaron Rakers
 A - Jensen Huangof a few dollars, call it $10 a month of subscription fee, maybe they'll keep more than
 half, and we'll keep less than half. And the reason for that is because they bought the
 server, they're operating it, they're running it on their network, does that makes
@@ -1643,7 +1682,8 @@ bought too much capital earlier in the year and they had to really, really slow 
 We didn't know about that at the time, and by the time we found out, it was well into
 the quarter. And so, some areas we have less visibility, but we try to have as much of
 a pipeline as we can and monitor the pipeline on a weekly basis, so we feel pretty
-good about the year.Q - John Pitzer
+good about the year.
+Q - John Pitzer
 A - Jensen Huang
 Yes. John Pitzer with Credit Suisse. Thank you for the presentation. A couple of
 questions, one kind of near-term, one longer-term. On the near-term front you spent
@@ -1688,7 +1728,8 @@ In order to overcome the slowing Moore's law, in order to overcome it in a drama
 way, and I don't mean improve it by 10%. If you want to overcome it by X-factors,
 which is what we're about. If you overcome CPUs by 10%, you might as well what just
 wait for the next CPU, because accelerated computing requires software
-optimization, you would only do so if there's an X factor in there. And I mean 10xQ - Mark Lipacis
+optimization, you would only do so if there's an X factor in there. And I mean 10x
+Q - Mark Lipacis
 A - Jensen Huang
 Q - Mark Lipacis
 A - Jensen Huangfactor, because it's a fair amount of work, that's 600 plus applications all of those
@@ -1732,7 +1773,8 @@ the way up to the top. Our RAPIDS, which is essentially the modern version
 accelerated version of MapReduce goes all the way to the top. Our cuDF is basically
 like pandas for one user or Spark for data centers, cuDF is basically like Spark, but
 accelerated in the pipeline [ph] ecosystem. cuML is basically psychic learn. Okay. So
-these are platforms go all the way to the top in some cases.In many cases like TensorFlow, our Tensor Core architecture, Tensor Core AMP
+these are platforms go all the way to the top in some cases.
+In many cases like TensorFlow, our Tensor Core architecture, Tensor Core AMP
 basically and cuDNN, CUDA cuDNN Tensor AMP, it sticks into and is deeply
 integrated with TensorFlow, but what you see is Tensor Flow, and so it just depends.
 The way we come out of this, we try to create a platform where if the ecosystem
@@ -1776,7 +1818,8 @@ more and more and more and more people has some of our stuff all over the
 company, whether they're buying our chips for the car or not buying our chips for
 the car, they have our development system, sometimes they built their own
 development systems, but they have our chips in the car. Sometimes they have our
-software in car as well. And so, all kinds of ways to working with people.Q - Timothy Arcuri
+software in car as well. And so, all kinds of ways to working with people.
+Q - Timothy Arcuri
 A - Jensen Huang
 Q - Timothy Arcuri
 A - Jensen HuangSo Mark the answers is this, there's nothing more powerful than a platform of
@@ -1820,7 +1863,8 @@ I'm sorry, your second question? I just turned 56, and it's like point.
 (inaudible)
 
 Oh, yes. Right. Chiclets, I think Chiclets are good. They are yummy, I like the orange
-version. We are at -- your question was actually reticle limits. We are at reticle limits,A - Colette Kress
+version. We are at -- your question was actually reticle limits. We are at reticle limits,
+A - Colette Kress
 Q - Timothy Arcuri
 A - Colette Kress
 Q - Timothy Arcuri
@@ -1862,7 +1906,8 @@ become numbers to society, it's a little bit like the three series, the five ser
 sevens, it's a bit, it has gotten that kind of notoriety. And so, I think that, that was
 partly surprised me too. But we have a GPU at every price point. There's a GPU at
 299, 399, 499, 599, just like the four. And at every single price points way better. And
-so if people are buying the 45%, that the simple answer is, it could have been just forQ - Ambrish Srivastava
+so if people are buying the 45%, that the simple answer is, it could have been just for
+Q - Ambrish Srivastava
 A - Colette Kressall from ASPs, it has to be from a lot from units, because our ASPs can go up that far.
 The simple answer is, yes, I mean, the simple answer is, yes.
 
@@ -1905,7 +1950,8 @@ redeploying even our internal headcount towards these projects, so that we can
 better utilize our workforce for more greater things.
 So right now, I would look at, we will always keep OpEx front and center as a key
 area of investment, but keep that in mind in terms of focusing on operating profit in
-terms of how we can produce the best overall profit and leverage that we can asQ - Matthew Ramsay
+terms of how we can produce the best overall profit and leverage that we can as
+Q - Matthew Ramsay
 A - Jensen Huangwell. Those are the two things that we keep in mind, rather than just an absolute
 overall OpEx or an OpEx as a percentage of revenue.
 
@@ -1947,7 +1993,8 @@ company, Mellanox knows, the industry knows this is something that we're very go
 at, something we care very much about. And we're going to continue to invest in this
 and we're going to invest in it, leveraging many of the things that our Company has,
 they can take advantage of all that to accelerate their development. And so, this is an
-area that the industry is just delighted by.A - Colette Kress
+area that the industry is just delighted by.
+A - Colette Kress
 A - Jensen Huang
 Q - Harlan SurAnd when, of course, keep it open and our whole platform, as you know, is an open
 platform. What NVIDIA is about is creating open platforms that everybody else can
@@ -1991,7 +2038,8 @@ healthcare-specific platforms like Clara, that you mentioned Jensen, and I know 
 you're targeting the platform approach across other verticals, industrial, retail,
 agriculture. So, wondering if you can just size these vertical targeted businesses with
 your TAM outlook of $50 billion. Could the vertical focus represent 20% to 30% of
-the overall $50 billion TAM? That's my first question.A - Jensen HuangAnd then second question, if you could just give us an update on China, have you
+the overall $50 billion TAM? That's my first question.
+A - Jensen HuangAnd then second question, if you could just give us an update on China, have you
 seen demand fundamentals starting to improve with the more relaxed government
 stance on gaming bans?
 
@@ -2035,7 +2083,8 @@ working on at all times.
 Okay. So that's the thing I really love about our company is the ability to, on the one
 hand, execute incredibly well on today's work, realize the dream for tomorrow and
 start to explore the day after that and to find the right balance of all of that, that's -- I
-just love working with the management team on this.A - Simona Jankowski
+just love working with the management team on this.
+A - Simona Jankowski
 A - Jensen Huang
 Q - Mitchell Steves
 A - Jensen Huang
@@ -2076,7 +2125,8 @@ almost monthly cadence, several hundred games a year, as you know, and not to
 include, not to mention China, there's a whole bunch of games being -- and Korea
 bunch of games being made. So there's lots of games being made. There's no
 question in the years' time ray tracing will be literally everywhere. This conversation
-is worthwhile to capture in a years' time, we'll come back as a gosh you're right.A - Simona JankowskiIt was the last question. That is world-class humor, sir. And so, what was the second
+is worthwhile to capture in a years' time, we'll come back as a gosh you're right.
+A - Simona JankowskiIt was the last question. That is world-class humor, sir. And so, what was the second
 question? Oh, VR. We don't talk about VR very much, but VR is really, really still very
 important. It's particularly we work with Microsoft on HoloLens, we -- because
 industrial design in the professional market between the two of us where we do

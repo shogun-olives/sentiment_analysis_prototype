@@ -15,6 +15,7 @@ So it's nice to just kind of look outside and see some sun.
 Yes. Thanks for coming on the coast.
 
 Yes. It's great.
+
 Tim Stuart
 Michael Turrin
 Tim Stuart
@@ -50,7 +51,8 @@ Yes.
 
 And they've all had their moments, and they've all had their unique sort of
 fingerprints on the company obviously. And where we're at right now, with AI
-especially, is another one of those moments. It's kind of like the internet moment orQ - Michael Turrin
+especially, is another one of those moments. It's kind of like the internet moment or
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
@@ -86,6 +88,7 @@ Yes.
 
 Maybe we can just talk a little bit about the opportunity set. I know there's a lot to go
 into. We'll zoom back out to the Microsoft perspective as well.
+
 Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
@@ -128,7 +131,8 @@ developer?
 
 Yes. An example I'd like to give is, there's probably, pick your number, 100,000,
 maybe game developers in the world, kind of across companies, big and small. And
-now with AI, and we'll call it like, think like GitHub, or with Copilot, you can generateQ - Michael Turrin
+now with AI, and we'll call it like, think like GitHub, or with Copilot, you can generate
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
@@ -170,7 +174,8 @@ That's pretty incredible. So it feels like every part of Microsoft is exploding 
 newfound opportunities because of AI. So you're the CFO of a significant becoming
 more significant, and we'll get to why in terms of scale in a minute. But the
 advocating process with Amy, like how do you ensure that you're getting adequate
-resources. And what are the kind of puts and takes of what being assessed at theA - Tim Stuart
+resources. And what are the kind of puts and takes of what being assessed at the
+A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
@@ -212,7 +217,8 @@ Satya talks a lot about, hey, look, we're in the same position we were a few wee
 ago, kind of with the ins and outs of what was going on in the news. But in the end,
 it's a great partnership with companies working well together to develop just
 awesome technology. So from our seat at gaming, we get to leverage a lot of that
-tech, and like I said, that's Amy and Satya really pushing a great relationship andQ - Michael Turrin
+tech, and like I said, that's Amy and Satya really pushing a great relationship and
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
@@ -251,7 +257,8 @@ for gaming at Microsoft, when we look at what we've done in the last 10 years an
 where we're going, we think a lot about the cross-platform play, which is, I want to
 play on all the devices that I have and all the screens that I have.
 And I think it's -- that's really when I think it's a sort of holistic -- the holistic lens is the,
-how do I make sure that we're on Xbox's and I'll say Playstations and NintendoQ - Michael Turrin
+how do I make sure that we're on Xbox's and I'll say Playstations and Nintendo
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim StuartSwitches in a mobile landscape, how are we on mobile? We can talk about cloud as
@@ -291,7 +298,8 @@ So they're taking their IP into the mobile landscape and they know how to do it,
 to build it, how to iterate quickly. And that's just -- the DNA is gold, and we can then
 leverage that with our IP and take the learnings in our business and say, okay, how
 do we go now address these new, frankly, these new -- frankly, these new billion
-gamers that we've never had a chance to go reach before.Q - Michael Turrin
+gamers that we've never had a chance to go reach before.
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
@@ -330,7 +338,8 @@ about gaming in very similar ways. So kind of think about two ends of the spectr
 at the maybe, I don't want to call it lower end, but the more casual end. You've got
 citizen creators building games that they can launch in our store, on the Xbox
 platform, in our apps, into xCloud, which is our game streaming service over the
-cloud, even on mobile.Q - Michael Turrin
+cloud, even on mobile.
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
@@ -371,6 +380,7 @@ we got to ride that wave with them. And we've known the Call of Duty team for
 decades, they launched on Xbox 360 in 2005 with Call of Duty 2, and so we've been
 with them for a while, but those kind of experiences and being with them and
 learning from them has been very-very valuable.
+
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim StuartI mean, you wear many hats, so I can ask you a modeling question too. But just in
@@ -410,7 +420,8 @@ PlayStation, on Nintendo. World of Warcraft has subscription high margin
 businesses.
 So you're bringing in high margin business into a traditionally more lower margin
 business when you think about the Xbox's console and hardware. And that's really,
-maybe lastly, is where we're going in this business is that expansion of operatingQ - Michael Turrin
+maybe lastly, is where we're going in this business is that expansion of operating
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuartleverage, where we think about placing our bets, first party, subscriptions,
@@ -449,7 +460,8 @@ Star, I'll talk about that in a second. But it really smooths things out. You're
 to have a holiday bump, right? You're still going to have consoles that we sell and
 you're still going to have customers that spend in those time periods.
 But even things like Game Pass. We last announced 25 million Game Pass
-subscribers. It's obviously grown since then. But Game Pass is this millions andQ - Michael Turrin
+subscribers. It's obviously grown since then. But Game Pass is this millions and
+Q - Michael Turrin
 A - Tim Stuartmillions of subscribers month in and month out, which for me I love because it's
 more of a paid annuity as opposed to that, you're betting on those big game
 launches every quarter or every year. But Game Pass helps us smooth it out as well.
@@ -489,7 +501,8 @@ some of the emerging markets, are we there from a technology perspective? Is it
 certain types of games that you have to focus on because of latency or just
 underlying bandwidth constraints? Or maybe help us understand what that is?
 
-I think we're largely there.Q - Michael Turrin
+I think we're largely there.
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael Turrin
 A - Tim Stuart
@@ -532,7 +545,8 @@ you'd spend money on to play your multiplayer games. And it worked for -- it sti
 works largely now, but think about it like a model that said, in the old days of having
 a console you'd actually have to pay for multiplayer service. Nowadays, when you -- I
 talk to my kids or I'll say play younger gamers or even gamers today, the notion of
-paying for multiplayer service feels a little bit antiquated.Q - Michael Turrin
+paying for multiplayer service feels a little bit antiquated.
+Q - Michael Turrin
 A - Tim StuartThat -- when you play on a mobile device, you generally don't pay for it. When you
 play on a PC, you generally don't pay for it. So -- but we had millions and millions of
 players on it. So what we did was we said, hey, look, let's have an entry-level Game
@@ -574,6 +588,7 @@ seems like that's even more so the case now because of just the Gravity and all 
 the amazing bets that the company has placed. But from your perspective internally,
 can you speak to what keeps the continuity, the longevity, all those things in markets
 that are hyper-competitive that you're hitting on?
+
 Q - Michael Turrin
 A - Tim StuartYes. I'll say for me personally, the gaming landscape changes every year. So every
 day you come in, it's a new battle in a good way. It's a new thing to go solve.
@@ -614,7 +629,8 @@ that's where we want to be. It's a $250 billion market. We are not $250 billion.
 And so, early on and not to make -- I'll kind of leave at this point maybe is, we walked
 into Satya's oﬃce, Phil Spencer who runs Xbox and I, we had both taken our jobs
 about the same time. We've known each other for a decade before that together.
-We're like, let's go do this gaming thing.Q - Michael Turrin
+We're like, let's go do this gaming thing.
+Q - Michael Turrin
 A - Tim Stuart
 Q - Michael TurrinWalked into Satya's oﬃce, hey, we're going to spend $2.5 billion on this thing called
 Minecraft. He's like -- jokingly, he says a blocky game, you chop down trees like what,

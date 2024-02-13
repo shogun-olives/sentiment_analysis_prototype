@@ -5,7 +5,8 @@ Shareholder Meeting. We're streaming live from our Investor Relations website. W
 strive to make the meeting as inclusive as possible. We're also excited to offer
 shareholders the opportunity to participate and vote via the virtual shareholder
 meeting. Our board values your feedback. The thoughtfully expressed and diverse
-opinions you provide help us create real value for you, our shareholders.I'd like to share with you the presenters for today's meeting. I will be joined on stage
+opinions you provide help us create real value for you, our shareholders.
+I'd like to share with you the presenters for today's meeting. I will be joined on stage
 by Satya Nadella, our Chief Executive Oﬃcer; Amy Hood, our Executive Vice
 President and Chief Financial Oﬃcer; Brad Smith, our President and Chief Legal
 Oﬃcer; and John Seethoff, our Deputy Secretary -- I'm sorry, Deputy General
@@ -47,7 +48,8 @@ with deep knowledge about our company and adding new directors who bring
 fresh, important perspective.
 In the past year, we refined our executive compensation plan to align performance-
 based pay with strategic opportunities, business results and shareholder returns. We
-adopted preestablished financial metrics that determine 50% of the annual cashincentive for all executive oﬃcers. We aligned the metrics of our performance stock
+adopted preestablished financial metrics that determine 50% of the annual cash
+incentive for all executive oﬃcers. We aligned the metrics of our performance stock
 awards with our 3 strategic ambitions. And we reduced the maximum award levels
 for performance stock awards.
 As part of our ongoing commitment to create a balanced board with diverse
@@ -84,7 +86,8 @@ to thank him for his leadership and his guidance.
 As chair of the meeting, I've adopted an agenda that will govern the order of
 business and the rules of conduct for the meeting. Copies of the agenda and the
 rules are available at the reception table outside the meeting room. The rules of
-conduct also govern the Q&A session.John A. SeethoffJohn will join us now to report the notice of the meeting, the proxies received and
+conduct also govern the Q&A session.
+John A. SeethoffJohn will join us now to report the notice of the meeting, the proxies received and
 present the matters to be voted on. John?
 
 Thank you, John, for those kind words. Welcome, everyone. This morning, I'll walk us
@@ -119,7 +122,8 @@ board recommends approval of that proposal as well.
 The discussion of matters for shareholder consideration is now closed. And the polls
 are also now closed. So now, I'll share with you the preliminary voting tabulation.
 First, the 14 nominees on the ballot to become a director are elected with over 98%
-of votes cast. They'll serve until the Annual Shareholder Meeting and until theirAmy E. Hoodsuccessors are elected and qualified.
+of votes cast. They'll serve until the Annual Shareholder Meeting and until their
+Amy E. Hoodsuccessors are elected and qualified.
 Proposal 2, the advisory vote on executive compensation, has been approved by
 more than 95% of votes cast.
 Proposal 3, the advisory vote on the frequency of future advisory votes on executive
@@ -154,7 +158,8 @@ approach to 5 core customer solution areas: modern workplace, business
 applications, applications and infrastructure, data and AI. And gaming.
 We completed 8 acquisitions to enhance our capabilities and talent in strategic
 growth areas. For example, we purchased Mixer, a gameplay streaming company, to
-broaden our engagement with the Xbox community. And we added Maluuba, acompany that built machine learning and inference engine that reads and
+broaden our engagement with the Xbox community. And we added Maluuba, a
+company that built machine learning and inference engine that reads and
 comprehends text, to help us advance our AI strategy and make it accessible and
 valuable to everyone.
 We continue to invest in innovation and expand our market opportunities, while
@@ -193,7 +198,8 @@ Now just a few comments on our current fiscal year. We adopted revenue standard
 606, an accounting standard that allows us to simplify the communication of our
 results by eliminating non-GAAP revenue reporting. As we do at the start of each
 fiscal year, we also updated our investor metrics. Given the size of our Commercial
-Cloud business, we now provide both the Commercial Cloud revenue as well asBradford L. Smithgross margin percentage as quarterly metrics. And we had a strong start to the fiscal
+Cloud business, we now provide both the Commercial Cloud revenue as well as
+Bradford L. Smithgross margin percentage as quarterly metrics. And we had a strong start to the fiscal
 year with double-digit top and bottom line growth in Q1, a result of our consistent
 execution and ongoing investment in product innovation and sales capacity. We
 surpassed our goal of $20 billion in Commercial Cloud annualized revenue run rate
@@ -232,7 +238,8 @@ redefining the future work space for our customers, not just here in Washington
 state. But around the world. So it's only fitting, in fact it's even essential, that this new
 generation of employees have the new generation of workspace where they too can
 do their best work. So let me share with you the vision of what's coming to
-Redmond.Clearly, this is no longer a chicken farm. We're excited about what's coming ahead.
+Redmond.
+Clearly, this is no longer a chicken farm. We're excited about what's coming ahead.
 Well it'd be taking down those first 4 buildings as well as 8 others. And as those 12
 buildings come down, 18 new buildings will go up in their place. Those 18 buildings
 will have 2.5 million square feet. In addition, we'll be renovating 6.7 million other
@@ -273,7 +280,8 @@ play baseball and soccer and even cricket. It really is something that we've tri
 focus on with the neighborhood in mind. That's why we're proud that we'll be
 making $150 million in investments from Microsoft to invest in this neighborhood
 with that pedestrian bridge, with better roadways, with the new storm water system
-and with the new Redmond Technology Center Station, where these trains will arrive.Satya NadellaIt's also a development that we're focusing on with the environment in mind as well.
+and with the new Redmond Technology Center Station, where these trains will arrive.
+Satya NadellaIt's also a development that we're focusing on with the environment in mind as well.
 In recent years, we've taken steps to build a smart campus, focused on reducing
 energy, waste and our use of carbon. We're using Azure for all of the monitoring of
 our HVAC systems. We're bringing down our electric -- electricity consumption.
@@ -310,7 +318,8 @@ every person and every organization on the planet to achieve more. Our mission
 provides us an unprecedented opportunity as digital technology is transforming
 every industry and every walk of life. It enables us to create local opportunity, growth
 and impact in every community and country around the world that we operate in
-and serve.As Amy shared, we have seen tremendous cloud growth, innovation in AI and digital
+and serve.
+As Amy shared, we have seen tremendous cloud growth, innovation in AI and digital
 transformation progress with customers. It's great to see increased usage and
 engagement across all of the solution areas.
 Let me share a few of the highlights. More than 120 million people use Oﬃce 365
@@ -352,7 +361,8 @@ health care professionals to barristers. Microsoft 365 brings together Windows 1
 Oﬃce 365 and Enterprise Mobility and Security into one complete integrated
 solution for organizations of all sizes. It's a people-centered approach spanning all
 devices to unlock the creativity, inspire teamwork while simplifying security and
-management. We've infused AI deeply across Microsoft 365. And you'll see manyexamples of this in the demos. PowerPoint automatically transcribes and translates
+management. We've infused AI deeply across Microsoft 365. And you'll see many
+examples of this in the demos. PowerPoint automatically transcribes and translates
 presentations. The Word Editor suggest bias-free language. OneNote Math Assistant
 converts handwritten equations into digital form. Microsoft Teams, for example, takes
 collaboration to a completely new level, bringing people, conversations and content
@@ -395,7 +405,8 @@ We will continue to connect our gaming assets across the PC, the console and
 mobile. We will also work to grow and engage our more than 53 million Xbox LIVE
 members more deeply and frequently with new services like the Game Pass and
 Mixer. And our new Xbox One X, the most technically advanced and most powerful
-console ever built, is seeing incredible response from fans this holiday season.Shun Grewal
+console ever built, is seeing incredible response from fans this holiday season.
+Shun Grewal
 Unidentified Speaker
 Shun Grewal
 Unidentified SpeakerWhen I reﬂect on the past year, I'm proud of our progress, both in our own
@@ -431,7 +442,8 @@ Now extending 3D even further, I'd like to show you how I can bring fall right h
 into this room. I begin by visiting Remix 3D, our online 3D community. And I'm going
 to start by searching for a fall tree. Here's one. Shun, could I have you step over here,
 please?
-Absolutely.Shun Grewal
+Absolutely.
+Shun Grewal
 Unidentified SpeakerThank you. So now that I've selected my fall tree, I'm going to place it here on stage
 simply by clicking view and mixed reality. And with mixed reality viewer, I'm going to
 be able to place it right here on stage with Shun. All right. So we've got our tree. I'm
@@ -471,7 +483,8 @@ Thank you. With one simple phrase, Cortana takes care of what is normally a
 multistep ﬂow to book time off. Cortana books my time off in the company reporting
 tool, updates my calendar as out of oﬃce, notifies my manager of the day's off and
 sets up my e-mail autoresponder, saving me tons of time and allowing me to get
-right back to work.Shun Grewal
+right back to work.
+Shun Grewal
 Unidentified Speaker
 Shun Grewal
 Unidentified SpeakerLove that. Cortana is Keeping you productive. Next, let's talk about mixed reality.
@@ -509,7 +522,8 @@ don't know, ALS is a neurological disease that causes you to lose the ability to
 your muscles and to eventually talk and can often leave you with only being able to
 move your eyes. At Microsoft, we strive to empower every person on the planet to
 achieve more. And we asked ourselves, why shouldn't you be able to use your
-computer with only your eyes?Shun Grewal
+computer with only your eyes?
+Shun Grewal
 Unidentified Speaker
 Shun Grewal
 Unidentified SpeakerWe started this exciting journey by building native support for eye tracking
@@ -545,7 +559,8 @@ phones, we have a technology called shape writing, which lets you swipe your fin
 on the screen to type words faster. We took that technology and integrated it right
 into the Eye Control keyboard to let you do that with your eyes to type even faster.
 This is really exciting technology coming together to make something work. Check
-this out.Shun Grewal
+this out.
+Shun Grewal
 Unidentified Speaker
 Shun Grewal
 Unidentified Speaker
@@ -573,7 +588,8 @@ convergence is helping us unlock the potential of artificial intelligence to aug
 human capability. So today, we wanted to show you how we're enabling AI through
 some of our familiar Oﬃce applications. And Nina [ph] here is going to show us how.
 Thank you, Shun. Microsoft is a global company serving customers around the world
-that communicate across many cultural and language differences. Imagine a teacherShun Grewal
+that communicate across many cultural and language differences. Imagine a teacher
+Shun Grewal
 Unidentified Speaker
 Shun Grewaldelivering an online lecture to students around the world. Imagine a multinational
 CEO addressing their global workforce. Wouldn't it be nice to provide real-time
@@ -607,7 +623,8 @@ technology that we love and use every single day. And this particular experience
 helping us break through language barriers in amazing new ways.
 You know it's incredible to see how empowering the tools within our Oﬃce
 applications can be. I recently started graduate school. And though I've always been
-an avid OneNote user, I've now started using it in a new way as a student. AndUnidentified Speaker
+an avid OneNote user, I've now started using it in a new way as a student. And
+Unidentified Speaker
 Shun GrewalOneNote and a Surface Pro and a Surface Pen have made that experience incredible.
 OneNote is truly enhanced learning experience for me in my economics class.
 As you can see here in every lecture, I take quite a few notes to capture the concepts
@@ -644,7 +661,8 @@ Love that. Now we've shown you just a few of the new innovations that we brought
 to market in 2017. We've talked about the Windows 10 Fall Creators Update, gaming
 and the new Xbox One X, artificial intelligence and why we think it will be the next
 big technology paradigm shift. And the importance of making all of our products
-accessible so we can enable every person and every organization on the planet toUnidentified Speaker
+accessible so we can enable every person and every organization on the planet to
+Unidentified Speaker
 A - Chris Suh
 Q - Unidentified Participant
 A - Satya Nadella
@@ -682,7 +700,8 @@ a growth opportunity. So we continue to make progress month-over-month, quarter-
 over-quarter, while also taking advantage of the core technology investment
 underneath Bing in many, many different areas.
 
-Terrific. Let's go to mic #2 please.Q - Ken Copley
+Terrific. Let's go to mic #2 please.
+Q - Ken Copley
 A - Satya Nadella
 A - Chris Suh
 Q - Unidentified Participant
@@ -726,7 +745,8 @@ very, very focused on bringing all of our capability so that we can get more wom
 and girls interested in STEM and successful. And for example, one of the tools that
 we're very, very excited about is Minecraft in education. It turns out when you
 introduce especially girls to computer science through Minecraft. And the open
-world nature of Minecraft makes it possible for them to express themselves and learnA - Bradford L. Smith
+world nature of Minecraft makes it possible for them to express themselves and learn
+A - Bradford L. Smith
 A - Satya Nadella
 A - Chris Suh
 Q - Unidentified Participant
@@ -770,7 +790,8 @@ lives because now it's not just the endpoint device in terms of computing. But i
 thermostat, it's your doorbell, anything in the house and, of course, in any other
 setting. So the approach we're taking is for us as the technology providers, how do
 we build all of the software and the devices with the deepest security technology. So
-we're making significant investments. Out of the gate, any Windows device, forA - Chris Suh
+we're making significant investments. Out of the gate, any Windows device, for
+A - Chris Suh
 Q - Unidentified Participant
 A - Bradford L. Smithexample, comes with endpoint protection so to ensure that you can have the best
 technology. We also invest and we continue to invest heavily on keeping it up-to-
@@ -814,7 +835,8 @@ investments in buses. The region is doing that. King County is doing that. We're
 doing that. Microsoft operates the fifth largest bus service in the state of Washington
 with our connector service. So we're always focused on whether we can enhance
 that in ways that will reduce the congestion that our neighbors may face. We do see
-light rail as an integral part of the future. So that to us is very encouraging. People doA - Chris Suh
+light rail as an integral part of the future. So that to us is very encouraging. People do
+A - Chris Suh
 Q - Unidentified Participant
 A - Satya Nadellanot have the opportunity today of living in Seattle or living in Bellevue and taking the
 train to work at Microsoft. That will be a reality in the year 2023. Then we have the
@@ -857,7 +879,8 @@ I'm a product of Microsoft technology reaching me where I was growing up. So I'm
 always reminded of that in terms of the power of what technology can do to create
 opportunity for people everywhere. But the most important part of our business
 model, in spite of all of our success, the one thing that we are grounded on is our
-success rests on our customers' and partners' success. That's core to our businessQ - Unidentified Participant
+success rests on our customers' and partners' success. That's core to our business
+Q - Unidentified Participant
 A - Satya Nadella
 A - Bradford L. Smith
 A - Satya Nadella
@@ -901,7 +924,8 @@ grows up in this country. And right now, there are literally 23.4 million Americ
 who live in rural counties who have no access to broadband. Just think about all of
 the services that we are working to provide. And what broadband means for people
 in terms of doing homework after school, what it means for a veteran who wants to
-get telemedicine coverage, what it means for a small business wanting to create aA - Chris Suh
+get telemedicine coverage, what it means for a small business wanting to create a
+A - Chris Suh
 Q - Unidentified Participant
 A - Satya Nadella
 A - Bradford L. Smithjob or what it means for the future of agriculture. So from our perspective, this is
@@ -944,7 +968,8 @@ that have violence in them. And we just want to make sure that the ratings is th
 we warn parents and children about what that may mean to them. I don't know if
 Brad or others want to add to any of these?
 
-No. I think that addresses it.A - Chris Suh
+No. I think that addresses it.
+A - Chris Suh
 Q - Lonnie Lusardo
 A - Satya Nadella
 Q - Unidentified Participant
@@ -984,7 +1009,8 @@ the future?
 
 Sure. One of the things that, at Microsoft, we're very, very clear on is the businesses
 we are in and our relationship with other of -- partners and customers. In this context,
-we are partnering very broadly with the auto industry, the American carQ - Unidentified Participant
+we are partnering very broadly with the auto industry, the American car
+Q - Unidentified Participant
 A - Satya Nadella
 A - Chris Suh
 A - Satya Nadellamanufacturers, the Japanese, the German and many others to make sure that they

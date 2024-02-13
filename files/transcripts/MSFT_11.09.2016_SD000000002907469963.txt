@@ -23,7 +23,8 @@ server products, such as Windows Server, SQL Server, software tools like Visual
 Studio portfolio of products, as well as our business applications around Dynamics
 365. So I get to work on a wide portfolio of products.
 I've been at the Company just over 19 years, not quite 20 years yet. And I started out
-actually as one of the engineers on Windows NT. I've been around a while. But it'sRoss MacMillan
+actually as one of the engineers on Windows NT. I've been around a while. But it's
+Ross MacMillan
 Takeshi Numoto
 Ross MacMillan
 Takeshi Numototruly inspiring to see what customers do with technology these days and the
@@ -62,7 +63,8 @@ time. We have 38 of those. And that essentially offers more choice to our custom
 and partners in terms of how they can deploy their solutions closer to their market,
 closer to their customers, closer to their company -- partners or their employees.
 And that's a huge benefit that we offer. And that's -- we think of this as really sort of
-(inaudible) enterprise requirements, because for us one of the key design points forMicrosoft cloud is that we are really designing for the enterprise and not -- enterprise
+(inaudible) enterprise requirements, because for us one of the key design points for
+Microsoft cloud is that we are really designing for the enterprise and not -- enterprise
 requirements are not an afterthought.
 And that relates to the second point in the sense that the notion of really meeting
 enterprise-grade requirements, it's something we've had a privilege of working with
@@ -102,7 +104,8 @@ that you may be able to move storage around or compute around.
 But for us, hybrid is far deeper than that. It's really a platform consistency. So from
 the productivity, like Oﬃce 365, all the way down to things like application platforms
 and data platforms like SQL, identity management like -- all of that is baked in where
-we actually have a very deep hybrid all the way down from infrastructure, all the wayRoss MacMillan
+we actually have a very deep hybrid all the way down from infrastructure, all the way
+Ross MacMillan
 A - Takeshi Numotoup to the application layer. And we feel like that's something that's really resonating
 with customers. So those are the three things, global, trusted. And hybrid.
 
@@ -140,7 +143,8 @@ a vendor that essentially addresses all the portfolio needs that they have for t
 business.
 And this is why I think, again, sort of we feel we are very uniquely positioned with not
 just Azure. But the Microsoft cloud approach and being able to offer all the things
-they need in their journey to the cloud. And that includes also things likeA - Ross MacMillan
+they need in their journey to the cloud. And that includes also things like
+A - Ross MacMillan
 A - Takeshi Numoto
 A - Ross MacMillan
 A - Takeshi Numoto
@@ -182,7 +186,8 @@ Yes.
 So last thing I just wanted to touch on Azure. And this is maybe a little esoteric. But
 there's something that Amazon has done. I guess it's called this nomenclature of
 services -- serviceless computing. They have this function lambda. Microsoft has
-something called Azure functions.A - Takeshi Numoto
+something called Azure functions.
+A - Takeshi Numoto
 A - Ross MacMillan
 A - Takeshi Numoto
 A - Ross MacMillan
@@ -223,6 +228,7 @@ analyst day maybe a year and a half ago where you talked about unit growth withi
 the Oﬃce franchise. So I'd love to just talk about that for a minute. What is Oﬃce 365
 able to do in terms of attracting new users to the platform for a product we think of
 as pretty mature?
+
 A - Ross MacMillan
 A - Takeshi NumotoYes. The background, right, is actually I've been in this current role for about four
 years. And before that, I actually got about eight years of working in Oﬃce, including
@@ -263,7 +269,8 @@ It's logical for us to say, hey, what are the additional values in the subscript
 relationship we can add.
 And right now, I can't talk about what's the next. But right now we're really excited
 about the opportunity we have around this Oﬃce 365 eply [ph] offer, where certainly
-you are really seeing a lot of residents from customers on the security valueA - Ross MacMillan
+you are really seeing a lot of residents from customers on the security value
+A - Ross MacMillan
 A - Takeshi Numoto
 A - Ross MacMillan
 A - Takeshi Numotoproposition that it represents. And we are also really liking the fact that that also lets
@@ -303,7 +310,8 @@ and so it becomes part of what you offer?
 Basically, it's -- a lot of times it's part of the higher editions of the offer. The security is
 always one of the things where we want to make sure even our baseline products is
 secure. But you want to be able to layer on additional value propositions from that
-perspective.A - Ross MacMillan
+perspective.
+A - Ross MacMillan
 A - Takeshi NumotoAnd so, Oﬃce 365 E5 is one let way of layering on strategic value proposition on top
 of the base Oﬃce 365 workload. And we have Windows enterprise that essentially
 also delivers additional enterprise treatment (technical diﬃculty) additional security
@@ -345,7 +353,8 @@ things like an inventory stockout alert, or being able to do your relationship h
 your customers' sales automation so that depending -- regardless of what the human
 judgment is on the ability to close this deal, we can actually say, hey, this deal really
 is going to close based on that relationship help that we observed in the customer
-engagement through our system.A - Ross MacMillanSo you can think of it as infusing business -- connecting all the business processes
+engagement through our system.
+A - Ross MacMillanSo you can think of it as infusing business -- connecting all the business processes
 across different areas. And then essentially letting customers start wherever they
 want, knowing fully well that it's future proof for expansion.
 

@@ -21,7 +21,8 @@ So an honor, really, and I thank you, Harlan and J.P. Morgan, for inviting us ba
 is absolutely a different kind of feeling year, and I'm excited to really share it with
 you.
 So let's just do the first housekeeping. Let me start with a reminder that the
-presentation in QA contains forward-looking statements, and investors areencouraged to read our reports filed with the SEC and the information that relates to
+presentation in QA contains forward-looking statements, and investors are
+encouraged to read our reports filed with the SEC and the information that relates to
 our risks and uncertainties facing our business.
 Super. So you might know NVIDIA as an amazing chip company. And in fact, we are.
 But we're much, much more than that. We are an accelerated computing platform
@@ -60,7 +61,8 @@ and antibodies.
 So in healthcare delivery, imaging is the essential tool. It's used at every stage of the
 patient journey, which is why it was one of the application areas we chose to focus
 on when I started at NVIDIA 15 years ago. As sensors evolve, so do the computing
-platforms and the applications in the healthcare delivery need to evolve. So from 2Dsensors that allow us to do annual screening into advanced 3D and 4D to do
+platforms and the applications in the healthcare delivery need to evolve. So from 2D
+sensors that allow us to do annual screening into advanced 3D and 4D to do
 quantitative image analysis and to capture things like function in the new Photon CT
 scanners that have recently been released.
 And now we're entering into what I call the fifth dimension where we can, in real
@@ -100,7 +102,8 @@ Varian and Elekta where they can now use AI to do adaptive therapy, real-time
 adaptive therapy for their patients. I love the intuitive ion because it allows you to
 navigate into the lung and biopsy areas, otherwise no humans could travel. So these
 devices are absolutely opening up tremendous new capabilities, and we're excited
-to see the medical device market continue to go through this revolution.But I want to go quickly next to a modality that is just super, super exciting. And I
+to see the medical device market continue to go through this revolution.
+But I want to go quickly next to a modality that is just super, super exciting. And I
 think we all saw a 2022 that changed the landscape of genomics tremendously. So
 genomics is a modality that is delivering great value to healthcare as well as research
 and drug discovery. It is the largest data generator in healthcare and growing
@@ -139,7 +142,8 @@ patient data. And these are becoming readily available. And so we must harness t
 latest breakthroughs in artificial intelligence to drive our biological understanding
 and therapeutic discovery.
 So we had some incredibly exciting breakthroughs at the end of last year at the
-Supercomputing Conference. It's a super neat example of how you can harnesslarge genomic data to drive genomic understanding. And we worked with NVIDIA
+Supercomputing Conference. It's a super neat example of how you can harness
+large genomic data to drive genomic understanding. And we worked with NVIDIA
 Argonne National Labs, University of Chicago and achieved this just last -- late last
 year and won the Gordon Bell Supercomputing Award.
 So you know the latest technology that is taking the world by storm is generative AI
@@ -178,7 +182,8 @@ generative AIM biology is witnessing that same broad applicability across life
 sciences and drug discovery.
 Like I said, from pandemic early warning systems to target discovery, to protein
 structure prediction, to virtual screening, to drug target interactions and protein
-engineering, literally touching every phase of the drug discovery process. And sobiology is going from an empirical science, experimentation and exploring the
+engineering, literally touching every phase of the drug discovery process. And so
+biology is going from an empirical science, experimentation and exploring the
 physical natural world to computer science and AI, and we're -- it's quickly moving
 from a science to an engineering.
 So just this morning, we're announcing exciting results of a collaboration between
@@ -217,7 +222,8 @@ generative AI model for protein engineering called ProT-VAE. It's a protein
 transformer variational auto and coder. As you know, proteins are the building
 blocks of life. Every cell contains proteins. They're present in our everyday life from
 clothes we wear, food we eat, air we breathe. So the field of protein engineering
-looks to discover new proteins that can help design more effective drugs andremove carbon from the air or make more environmentally friendly clothes. However,
+looks to discover new proteins that can help design more effective drugs and
+remove carbon from the air or make more environmentally friendly clothes. However,
 the number of potential proteins far exceeds the number of particles in the universe.
 So Evozyme was able to use in a few short weeks, be able to use NVIDIA BioNeMo,
 use our pre-trained models, inject their special sauce with the VAE encoder and train
@@ -256,7 +262,8 @@ understand disease, and it will accelerate our ability to discover new therapies
 so we can build representations of large and complex data sets now and make
 meaningful predictions.
 So with that, I hope I leave you with a very bright and sunny future of what 2023
-holds to really harness this technology, and I look forward to answering yourQ - Harlan Sur
+holds to really harness this technology, and I look forward to answering your
+Q - Harlan Sur
 Q - Analyst
 A - Kimberly Powell
 Q - Analyst
@@ -289,7 +296,8 @@ it's a ubiquitous computing platform. And so it allows us to give the applicatio
 developers, the industries the ability to transform business models and run these
 exciting new application workloads completely at scale.
 And as you know, we dedicated the company to artificial intelligence going back
-some 10 years ago -- yes, at least 10 years ago. And the description language IQ - Harlan Sur
+some 10 years ago -- yes, at least 10 years ago. And the description language I
+Q - Harlan Sur
 A - Kimberly Powell
 Q - Harlan Surdescribed called CUDA has been around even longer, 15 years. And so the ability to
 reinvent sort of that software ecosystem is very, very tricky.
@@ -329,7 +337,8 @@ and then also have a ﬂexible computing platform to continue that analysis and
 development back in the data center in the cloud. So that's kind of the proxy that we
 use, and I think 120% growth sounds great.
 
-Yes, absolutely. Questions?Q - Analyst
+Yes, absolutely. Questions?
+Q - Analyst
 A - Kimberly Powell
 Q - Analyst
 A - Kimberly PowellHi. Yeah. As a follow-up -- sorry, I lost my voice. As a follow-on from that perspective
@@ -367,7 +376,8 @@ that's going on in the pharmaceutical industry, the genomic analysis. And we're
 definitely now coming into more of a 50/50, because of some of the dynamics that I
 just described of massive amount of computing that is being -- that is happening in
 pharmaceuticals. So the balance is there, but they're both growing at the sort of
-indicated pace of what you're seeing in the AI research.Q - Analyst
+indicated pace of what you're seeing in the AI research.
+Q - Analyst
 A - Kimberly Powell
 Q - Analyst
 Q - Harlan Sur
@@ -403,7 +413,8 @@ kind of waiting and watching and partnering with the tech bio company.
 So I don't want to make a prediction. I think the industry and the number of
 therapies and the personalization of medicine, there's room for everybody if they
 were up to me. But I don't -- I think that there's a tremendous amount of promise. I
-think there is a need to think differently in this day and age with the tools that weQ - Analyst
+think there is a need to think differently in this day and age with the tools that we
+Q - Analyst
 A - Kimberly Powell
 Q - Analyst
 A - Kimberly Powell
@@ -438,7 +449,8 @@ to ask yourself, it's just about what do you want to use it for? I kind of think
 right now, and just because in my own little world, back when we started work on AI
 and radiology, everybody jumped to the conclusion that AI and radiology has to
 diagnose somebody. No, it doesn't. It has a massive amount of utility throughout the
-entire workﬂow and process of radiology.Q - Harlan Sur
+entire workﬂow and process of radiology.
+Q - Harlan Sur
 A - Kimberly PowellSo it's really about what do you want to do with the AI. Do you want it to write your
 assay? Did I wanted to write my presentation? No, I did not. But I might want to do it
 to learn about how an enzyme. Or yes, you can ask some interesting questions like
@@ -479,6 +491,7 @@ stages and followed by enterprise and vertical segments like healthcare. Talk to
 about the adoption curve for the team's prior generation A100 platform, and how do
 you see the uptake and momentum for the next-generation H100 that the team is
 rolling out now?
+
 Q - Harlan Sur
 A - Kimberly Powell
 Q - Harlan Sur

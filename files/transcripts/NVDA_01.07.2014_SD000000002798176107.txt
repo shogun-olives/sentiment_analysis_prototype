@@ -21,7 +21,8 @@ announcements last night and some more announcements coming today. So I'll not
 just cover what -- not only what we covered at the press conference. But I'll also talk
 about some of the new news that's coming on.
 I can summarize what we have announced really in three fundamental areas. First of
-all, we made a number of new announcements on gaming. We announced a fewnew things on chips. And we announced a few new things about cars. So what I'll do
+all, we made a number of new announcements on gaming. We announced a few
+new things on chips. And we announced a few new things about cars. So what I'll do
 is kind of run you through those things.
 On the gaming side, you guys are no doubt aware that there is a next-generation
 gaming console ﬂeet out there. But the other thing that's out there now in what is the
@@ -60,7 +61,8 @@ monitor so that the monitor and the GPU exist in perfect synchronization. It dis
 when we render. And what that required is technology and then collaboration with
 all of the display guys. So what we announced at CES was that display
 manufacturers, including ASUS, BenQ, Philips and a whole list of other display
-manufacturers are going to be releasing G-SYNC monitors that allow this frame rate.It sounds like second-order technology. And I promise you it's not. Some of the
+manufacturers are going to be releasing G-SYNC monitors that allow this frame rate.
+It sounds like second-order technology. And I promise you it's not. Some of the
 reaction from the press has been this is the single biggest thing we've seen in
 gaming in a very, very long time. It creates the immediate effect of 60 frames per
 second, silk graphics and gaming instead of this decades-long problem with
@@ -98,7 +100,8 @@ The second thing we announced was the first Denver product that we have been
 talking about for a number of years. So we announced a number of years ago that
 NVIDIA had an architectural license for ARM -- with ARM for V8. And what we not
 only announced yesterday. But we showed it running. We showed our dual-Denver
-version of Tegra K-1. And we showed it running Android. So that was the firstdemonstration of Android running on a 64-bit apps processor. And that was on
+version of Tegra K-1. And we showed it running Android. So that was the first
+demonstration of Android running on a 64-bit apps processor. And that was on
 Sunday.
 Okay, the third area was cars. What we announced on Sunday was a new product
 called Tegra K-1 VCM. So VCM stands for vehicle control module. So if you can
@@ -138,7 +141,8 @@ instrument panel. Using tools developed by NVIDIA and an incredible amount of
 software, you can create brushed aluminum, bump rubber, chrome. You can do all
 these things. And we couldn't do it with Tegra 4. The amount of computation
 required to create something that looks so real and is lit, using global illumination, to
-create that level of realism, is just not possible unless you have a tremendousQ - Harlan Sur
+create that level of realism, is just not possible unless you have a tremendous
+Q - Harlan Sur
 A - Rob Csongor
 Q - Harlan Suramount of computing power. And that's what Tegra K-1 brings to the instrument
 cluster. Okay?
@@ -176,7 +180,8 @@ Yes. I have one here.
 
 Then I think Jen-Hsun showed the Denver-based 64-bit-based version of K-1 at the
 press event on Sunday. So I guess the question is, when is the team going to be in
-the position to start shipping qualified production units? And when are we going toA - Rob Csongor
+the position to start shipping qualified production units? And when are we going to
+A - Rob Csongor
 Q - Harlan Sur
 A - Rob Csongor
 Q - Harlan Sur
@@ -215,7 +220,8 @@ And then you can look for it to come really in the second half of the year.
 
 Okay. And one of the trends in the smartphone and the tablet space from an
 applications processor perspective has been -- we've seen more and more
-integrated platforms coming to the market, in other words, integrated appsA - Rob Csongor
+integrated platforms coming to the market, in other words, integrated apps
+A - Rob Csongor
 Q - Harlan Sur
 A - Rob Csongorprocessor with LTE baseband modem. So question for you is similar to your Tegra 4
 strategy, you had a Tegra 4i with integrated LTE cellular connectivity. Is that a strategy
@@ -256,7 +262,8 @@ I think when you start introducing instrument cluster, when you start introducin
 ADAS, you very rapidly start adding -- you need a lot more compute capability to do
 those types of things. And I think as more and more of these features and all of these
 features are very, very visual computing-intense, as you said, you will see more
-processors.Q - Harlan Sur
+processors.
+Q - Harlan Sur
 A - Rob Csongor
 Q - Harlan Sur
 A - Rob Csongor
@@ -295,7 +302,8 @@ happen. But we have talked about the revenue growth of our automotive business.
 Today, it's roughly a $100 million business for us. But very rapidly ramping. And it's
 very steadily ramping. We have also said that it is our largest backlog -- revenue
 backlog. And the reason is the bad news is, as Harlan said, is it takes forever to get
-designed in. But once you get designed in, you get a purchase order that extendsQ - Harlan Sur
+designed in. But once you get designed in, you get a purchase order that extends
+Q - Harlan Sur
 A - Rob Csongor
 Q - Harlan Sur
 Q - Unidentified Participant
@@ -334,7 +342,8 @@ enabling Tegra 4 to do well, especially with some of the high-end China smartpho
 OEMs?
 
 That's a great question. And I think it's -- if I can, I'll kind of take your question and try
-to address I think what is one of -- a fundamental concept of Tegra.Q - Harlan Sur
+to address I think what is one of -- a fundamental concept of Tegra.
+Q - Harlan Sur
 Q - Unidentified Participant
 A - Rob CsongorWe get asked all the time, how can Tegra succeed when you're going to be
 competing against MediaTek and QUALCOMM on low-end phones and so on? It
@@ -374,7 +383,8 @@ Android in all of these markets kind of evolving into a lot of different types o
 devices with a lot of different ﬂexibility and different kind of features and capabilities.
 Today, Chromebook is a very convenient way to look at documents, to look at
 Google Docs, to browse the web and do a number of things. It isn't a primary
-gaming platform today. And for that, I think that's why you will see most of our focusQ - Harlan Sur
+gaming platform today. And for that, I think that's why you will see most of our focus
+Q - Harlan Sur
 A - Rob Csongortoday more on the Android side. But the line is blurring. So I think we have some
 interesting things that are going on with Chromebook and we look forward to
 talking about them hopefully soon.

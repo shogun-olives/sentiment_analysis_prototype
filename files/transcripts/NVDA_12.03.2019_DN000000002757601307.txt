@@ -12,7 +12,8 @@ wide. And then, our data center business, we took this opportunity to return to
 growth in our hyperscale business. Our hyperscalers are now growing sequentially
 as well as year-over-year. We are pleased with our results for Q3, both in our gross
 margins as well as our overall operating margins that we have done. Our gross
-margins had sequential growth and year-over-year growth, pushing in upwards ofUnidentified Participant
+margins had sequential growth and year-over-year growth, pushing in upwards of
+Unidentified Participant
 Colette M. Kress64%, largely inﬂuenced by mix, our growth in terms of sequentially gaming and our
 overall data center.
 That's a helpful start. I'd like to kind of structure the conversation by just kind of
@@ -52,7 +53,8 @@ heavy or I want a very large overall laptop, I wanted the overall mobility, but 
 wanted the overall strong performance.
 So we're set-up right now for the holiday season with a great lineup of overall
 laptops across the industry and across every single industry and we're really excited
-to bring this to market.Unidentified Participant
+to bring this to market.
+Unidentified Participant
 Colette M. Kress
 Unidentified Participant
 Colette M. Kress
@@ -92,7 +94,8 @@ seasonal expectation inﬂuenced by the overall notebooks. Our notebooks are
 approaching close to one-third of our overall gaming business. Now, when we look
 at our Q3 to Q4, yes, we'll have the same type of seasonality that we've seen in
 history for desktop. We expect our desktop to grow sequentially between Q3 and
-Q4.Colette M. Kress
+Q4.
+Colette M. Kress
 Unidentified Participant
 Colette M. Kress
 Unidentified Participant
@@ -130,6 +133,7 @@ business? Is it dilutive and kind of what's your strategy, because you seem to p
 up more with the service providers. And that's -- you've got, I think, projects in
 Taiwan, Russia, Japan with SoftBank and then Korea. So what is your strategy to
 attack this market?
+
 Unidentified Participant
 Colette M. KressYeah, so the gaming market is certainly not new to us and we look at the overall
 streaming opportunity as absolutely something that will be here in the future, but we
@@ -172,7 +176,8 @@ continue to be able to overall grow that market. ASPs are important, but remembe
 we also keep a portfolio of a card for any type of gamer. It doesn't -- this isn't an
 industry that we want only the high end. We want to be able to bring anyone who is
 interested in gaming into this market. What we have seen is the gamers are starting
-in their teens and are staying well past the age of 40. What that means is, there'sUnidentified Participant
+in their teens and are staying well past the age of 40. What that means is, there's
+Unidentified Participant
 Colette M. Kress
 Unidentified Participantdifferent types of discretionary income across our portfolio that they may choose to
 get the best of the best. And choosing NVIDIA, we've continued to hold that high-
@@ -212,7 +217,8 @@ year-over-year growth in terms of overall hyperscales. When we gave our guidance
 for Q4 in terms of data center as well, we also believe we'll have a strong growth and
 probably accelerated growth, faster than what we had with Q3.
 That's an important point, because you were asked this question on the call and the
-answer wasn't quite clear. You're being much more specific because when youColette M. Kress
+answer wasn't quite clear. You're being much more specific because when you
+Colette M. Kress
 Unidentified Participant
 Colette M. Kress
 Unidentified Participant
@@ -249,6 +255,7 @@ overall inferencing, it is being used for inferencing and I think we're just in 
 stages of a very big market going forward.
 So should we expect that at the next Analyst Day that your market opportunity set for
 inference goes up year-over-year?
+
 Unidentified Participant
 Colette M. Kress
 Unidentified ParticipantWe're going to continue to work on our overall TAM projections and we'll save that
@@ -288,7 +295,8 @@ curious as you're really trying to exploit the opportunity in enterprise, how mu
 channel work needs to be done? How much OpEx does that imply and as you think
 about all the different verticals within that segment of the enterprise, are they fairly
 discrete manufacturing, versus retail, versus finance or is there a leveragable kind of
-R&D and OpEx that you can use to go after all of them?Colette M. Kress
+R&D and OpEx that you can use to go after all of them?
+Colette M. Kress
 Unidentified Participant
 Colette M. Kress
 Unidentified Participant
@@ -328,7 +336,8 @@ language processing section? Probably. Will there be more waves in the future?
 Absolutely.
 You've been emphasizing kind of the software IP you bring to the table. Maybe de-
 emphasizing a little bit the silicon IP, but I'm a semiconductor analyst and there was
-Supercomputer 2019 recently and I think there was some expectations/ hope thatColette M. Kress
+Supercomputer 2019 recently and I think there was some expectations/ hope that
+Colette M. Kress
 Unidentified Participant
 Colette M. Kressmaybe we'd get a better understanding of your silicon roadmap to 7-nanometer,
 which we didn't do. When can we expect that and I guess, more importantly, how
@@ -366,6 +375,7 @@ driving is not as much in the news, as it used to be. I just wanted to see if yo
 that area is losing momentum or how you feel about that. And secondly, another
 area that used to be very popular at least in ordinary people kind of way which is
 cyber currency, just wondered how you see trends there for you in the future?
+
 Unidentified Participant
 Colette M. KressSure, let me focus on the autonomous vehicle area, still a very important part of the
 industry as they see forward. A lot of that has been branched in terms of our focus,

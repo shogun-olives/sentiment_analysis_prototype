@@ -20,7 +20,8 @@ Today, we are at the start of a new era of computing, and another step on this
 journey. Over the past few months, powerful new foundation models, together with
 accessible natural language interface has ushered in an exciting new face of AI. This
 next generation of AI is fundamentally different from the AI, in fact, that we've grown
-accustomed to around us.Jared SpataroFor years, AI has in fact powered online experiences ranging from search, to social
+accustomed to around us.
+Jared SpataroFor years, AI has in fact powered online experiences ranging from search, to social
 media, working behind the scenes to serve up recommendations for us or about us;
 from what we watch to what websites we visit, to what we buy, that version of AI has
 become so second nature in our digital lives that we often don't even realize or
@@ -57,7 +58,8 @@ And with that, I'll hand it off to Jared to share our Copilot for work.
 
 Thank you. As Satya said, we're at the start of a new era of computing. Before we
 look ahead, I want to spend a moment reﬂecting on work and what it means to all of
-us.Sumit ChauhanFrom an early age, we're asked, what do you want to be when you grow up. Our
+us.
+Sumit ChauhanFrom an early age, we're asked, what do you want to be when you grow up. Our
 answer is a reﬂection of what excites us and the value that we seek to bring to the
 world. Even at a young age, we know work is meant to be more than just a job.
 Nurses are called to care for people, scientists to make a new discovery, artists to
@@ -94,6 +96,7 @@ times, it will be usefully wrong, giving you an idea that's not perfect, but sti
 you a head start. But seeing is believing.
 Let's go to Sumit to show you how Copilot will unleash creativity and take the
 drudgery out of work for everyone.
+
 Thank you, Jared. For more than two decades, I've had the privilege to work on our
 core productivity apps: Word, Excel, PowerPoint, and Outlook. In fact, my first line of
 code at the company was in Excel. And I'm so excited to show you how Microsoft
@@ -133,7 +136,8 @@ what PowerPoint can do, Copilot unlocks the other 90%.
 Now, onto party planning. I'll start with a few details about the event, and once again,
 Copilot goes to work with a simple prompt, it creates pages for everything I need to
 think about to plan this party. Let's say, I want to put this plan in a simple to-do list.
-Boom. Done.I'm thinking about what I want to say to my daughter on her big day. Copilot can get
+Boom. Done.
+I'm thinking about what I want to say to my daughter on her big day. Copilot can get
 me started on a speech. I'm not sure how long I want it to be, but let's start with
 three minutes. I know I want to tell her how proud I am, acknowledge how hard she's
 worked, how inspired I am by her volunteer efforts, and what a wonderful leader she
@@ -173,7 +177,8 @@ PowerPoint into Word.
 Now, let's add a slide and give Copilot some quick instructions. There it goes, ready
 for you to review. Now, this slide is a little bit wordy. Let's ask Copilot to make it more
 visual. And check this out. Copilot can even animate the slide. It gives it a
-professional design treatment in a single click. But it doesn't stop there, Copilot canJared Spataroeven generate speaker notes. I am serious, speaker notes. It's not only a time saver,
+professional design treatment in a single click. But it doesn't stop there, Copilot can
+Jared Spataroeven generate speaker notes. I am serious, speaker notes. It's not only a time saver,
 it's helping me be a better presenter and close this deal.
 Let's jump into Copilot in Excel. Copilot puts all the rich capabilities of Excel at your
 fingertips. Say, you need to analyze this quarter's sales results. You start by asking
@@ -213,7 +218,8 @@ from you in an app. Copilot preprocesses the prompt through an approach called
 grounding.
 Put simply, grounding improves the quality of the prompt. So, you get answers that
 are relevant and actionable. One of the most important parts of grounding is making
-a call to the Microsoft Graph to retrieve your business content and context. CopilotCharles Lamannacombines this user data from the graph with other inputs to improve the prompt. It
+a call to the Microsoft Graph to retrieve your business content and context. Copilot
+Charles Lamannacombines this user data from the graph with other inputs to improve the prompt. It
 then sends that modified prompt to the LLM.
 You may be familiar with what an LLM can do based on your experience with
 ChatGPT or Bing Chat. Copilot takes the response from the LLM and post processes
@@ -250,7 +256,8 @@ happened so far. You can see who said what, what points are made. Copilot is rea
 capturing the spirit of the discussion.
 And as the meeting progresses, you can check on where people stand. You can even
 ask Copilot what questions are unresolved. It is just incredible to see this happen in
-real time. Teams has changed collaboration forever, but it can also be hard to keepup with all those chats. Copilot can help you stay on top of it all by summarizing
+real time. Teams has changed collaboration forever, but it can also be hard to keep
+up with all those chats. Copilot can help you stay on top of it all by summarizing
 Teams chat, so you know what you missed.
 Here, you were asked for an update on the customer and Copilot can help there,
 too. You can simply ask Copilot to create a summary of all the customer
@@ -292,7 +299,8 @@ As you review the suggested ﬂow, it's looking good. With a little more directi
 Copilot can write a summary of the problem, post that summary in the appropriate
 Teams channel, and tag the right colleagues to resolve the issue. This now gets
 seamlessly added to my workﬂow, getting it just the way I want it. Here you can see
-an action with your posts in the Teams channel and the full team ready to jump inJared Spataro
+an action with your posts in the Teams channel and the full team ready to jump in
+Jared Spataro
 Akosua Boadi-Agyemangand resolve a delayed delivery for your customer. This is an amazing time saver for
 every customer from now on. And you built it in just a few minutes. Through Copilot,
 Power Automate is now an essential part of work for everyone, just like Excel,
@@ -331,7 +339,8 @@ with the commentary about the numbers, the additional context from Teams chats,
 and reasons across all your structured and unstructured data to create connections
 and insights in a whole new way. First, you ask Copilot to pull up quarterly
 projections and identify related risks. Copilot gives you key data points and ﬂags
-potential issues.Jared Spataro
+potential issues.
+Jared Spataro
 Jaime Teevan
 Jon Friedman
 Jaime Teevan
@@ -368,7 +377,8 @@ grounding the LLM in data is so important.
 
 And we not only built grounding into the system, we also built verification into the
 experience. We added citations and introduced forms of friction to encourage back
-and forth collaboration, and included feedback mechanisms so people can let usJaime Teevan
+and forth collaboration, and included feedback mechanisms so people can let us
+Jaime Teevan
 Jon Friedman
 Jaime Teevan
 Jared Spataroknow when we get it wrong. Our goal is to give people agency. To help people get

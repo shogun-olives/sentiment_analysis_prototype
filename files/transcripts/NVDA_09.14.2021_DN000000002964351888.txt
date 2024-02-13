@@ -23,7 +23,8 @@ Intelligence. But the broad base of enterprise customers is yet to adopt AI, rig
 what is the fundamental reason for this? The fundamental reason is, there are two
 very different sets of people within every enterprise company. On the one hand, you
 have the data scientists, these are the people who understand AI, who understand
-the tools, Jupyter Notebooks, all these kinds of things, they need the developmentof new AI capabilities. And they move fast and they're pretty agile and they are the
+the tools, Jupyter Notebooks, all these kinds of things, they need the development
+of new AI capabilities. And they move fast and they're pretty agile and they are the
 state-of-the-art cutting edge, do new things every night.
 On the other hand, you've got IT administrators who are accountable and
 responsible for making sure that the actual applications running in the enterprise
@@ -65,7 +66,8 @@ that are easy to adopt. And so I've drawn this abstract picture for you that is
 representative. You can think of it as a brick wall rather than if you really want to solve
 the artificial intelligence problem and when you need to fully construct this brick wall
 of all these different baskets to get a complete solution. And in NVIDIA, that is
-exactly what we've done.This is the same picture that I have replaced every one of those abstract concepts
+exactly what we've done.
+This is the same picture that I have replaced every one of those abstract concepts
 with an NVIDIA product at the bottom hardware products. But in the middle in the
 top, all software products that NVIDIA has produced over the last few years and
 especially over the last year to really complete this brick wall. This is not a vision
@@ -105,7 +107,8 @@ for enterprise customers. And with that, we have a go-to-market motion that is i
 conjunction with established partners, the OEMs produce servers, folks like VMware
 who produce software stacks for the data center and we're really looking forward to
 this journey of marketizing AI for enterprise customers over the next few years.
-And so with that, I will stop sharing my slide deck and hand it back to you, Harsh.Q - Harsh Kumar
+And so with that, I will stop sharing my slide deck and hand it back to you, Harsh.
+Q - Harsh Kumar
 A - Manuvir DasQuestions And Answers
 
 Manuvir, that is simply incredible to see the number of products you guys have
@@ -145,7 +148,8 @@ solve this as a full-stack problem, you have to think about what's the right ser
 what is the right networking gear, what is the right networking software so that it
 goes fast, what is the software stack for orchestrating the workload and running the
 workload? You have to put it all together, right. And this is how NVIDIA has really
-evolved that we have become a full-stack company for that reason.Q - Harsh Kumar
+evolved that we have become a full-stack company for that reason.
+Q - Harsh Kumar
 A - Manuvir DasNow, the other thing I would say, Harsh, as you know, our genesis at NVIDIA was as a
 hardware company, right, with the GPU. So the other insight that we had in NVIDIA
 was that in order to make this full stack go, you're going to need three essential
@@ -186,7 +190,8 @@ The second consideration is the company's engagement with their customer base,
 has also not changed because of the pandemic, right. It's become much more online
 and digital even more so than before. And so with that change in how they're
 interacting with customers, what should they do, right. So let me just take a minute to
-break down each of these, right.Q - Harsh KumarSo if I take the first one, which is that employees are not all sitting in the same room
+break down each of these, right.
+Q - Harsh KumarSo if I take the first one, which is that employees are not all sitting in the same room
 together. Instead, our approach at NVIDIA with our customers is, instead of looking
 at this as a loss, this is actually a forcing function for a new opportunity for them, that
 there are actually our technology can allow companies to be far more productive by
@@ -229,7 +234,8 @@ with their customer base in this new era, where the customer is relatively
 disconnected from them physically, right. So those are the two things on that.
 
 What about any -- I mentioned that maybe something that's become important
-versus something that's become less important to the customers? Can you talkA - Manuvir Das
+versus something that's become less important to the customers? Can you talk
+A - Manuvir Das
 Q - Harsh Kumar
 A - Manuvir Dasabout if you have any example I would appreciate it on first something that the
 customers are not as focused on today as they were maybe before?
@@ -272,7 +278,8 @@ solution with you, and as we design the solution with you, maybe you use our
 technology, maybe you won't use our technology, that's fine. Either way, if you adopt
 AI, as NVIDIA, we're super excited partner, right, and we do think we have good
 piece of technology even for folks like myself Harsh like when we go and have
-conversations at the executive level with the customer, right, I never have aQ - Harsh Kumar
+conversations at the executive level with the customer, right, I never have a
+Q - Harsh Kumar
 A - Manuvir Das
 Q - Harsh Kumar
 A - Manuvir Dasconversation as (inaudible), I never have a conversation about (inaudible) product I
@@ -315,7 +322,8 @@ expectation of the software is supported, it has a certain level of quality and
 performance. It is updated regularly, those sorts of things. And that's why it is a
 commercial model for the software, and we are now entering that world for the first
 time we can be, right. Today, we have the new software, but it's been made available
-into the community to other people to make their lives easier, but now for the firstQ - Harsh Kumar
+into the community to other people to make their lives easier, but now for the first
+Q - Harsh Kumar
 A - Manuvir Dastime with NVIDIA AI Enterprise, we really have a similar kind of product that can be
 sold because that thereby our customer can allow it, right.
 And there's a simple math you can do about how many servers there are in the
@@ -356,7 +364,8 @@ Manuvir, just one more thing on that, do you think there's anybody in the space
 that's even close to the level of work you guys are doing, I know historically NVIDIA
 has been just a pioneer in AI on the hardware side. And now I see the focus on the
 software side. Is there any one even in the zip code of where NVIDIA operates in
-bringing the complete package together?Q - Harsh Kumar
+bringing the complete package together?
+Q - Harsh Kumar
 A - Manuvir DasYeah, we, of course, I'm biased here. But I would say we do not think so, right. And --
 but I will elaborate on that, right. If you think about the picture shown in my slide, the
 point we made was this is really a full-stack problem from the piece parts of the
@@ -398,7 +407,8 @@ see Harsh is that one way actually of time together, everything that NVIDIA has 
 from its inception as a company, whether it's graphics or AI or robotics or self-driving
 cars or any things, in fact, fundamentally, we had a simulation. Okay. We've built
 technologies in different domains that allow you to simulate something without
-actually having to do it. That's the core of our technology. Like for example, thinkQ - Harsh Kumar
+actually having to do it. That's the core of our technology. Like for example, think
+Q - Harsh Kumar
 A - Manuvir Dasabout our platform for self driving cars. Yes, you can drive cars around and you can
 capture what's happening on roads and make your car better, of course, we do that,
 but we also have a complete simulation platform that you can use to do miles and
@@ -439,7 +449,8 @@ cost effectively and you could free up your humans to focus on other things. A g
 example of things that you can use NVIDIA's software frameworks to look at X-rays
 and detect whether some -- whether there is a fracture in the (inaudible) right,
 That's something that today a radiologist has to do. But you can take that function
-(inaudible) right. In the space of retail, you can look at the camera feeds from acrossQ - Harsh Kumar
+(inaudible) right. In the space of retail, you can look at the camera feeds from across
+Q - Harsh Kumar
 A - Manuvir Dasthe store and determine who is shopping for what and what they're walking out of
 the store with, right, instead of having roomers in the backroom having to sit there
 and look at the videos (inaudible) right. So one by one, you can take each of these
@@ -482,7 +493,8 @@ does is, oﬄoad all of that work onto this other processor, move it there, you 
 the CPU in the main server to run your workload and the way we fit the DPU, it
 actually accelerates, it's like the GPU, if you take the firewall (inaudible) and you
 move it from the CPU to the DPU, it's not just shifting the problem, it runs 100 times
-faster. And so you need much less silicon in the DPU to do the job than you wouldQ - Harsh Kumar
+faster. And so you need much less silicon in the DPU to do the job than you would
+Q - Harsh Kumar
 A - Manuvir Das
 Q - Harsh Kumarhave on the CPU, right, so that you actually save money in the data center, right. So
 this is why we're so higher than DPU because it can dramatically change the way

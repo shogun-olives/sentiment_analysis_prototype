@@ -22,7 +22,8 @@ from Brown University. He has also published numerous papers on database systems
 and database theory and holds several patents in that area.
 Also, another preamble. And the last one, I promise, we are launching a new piece of
 technology this year in which you can now fire up the CS Technology app,
-conference app. And type in your questions. So open your app and hit the AgendaSridhar Ramaswamy
+conference app. And type in your questions. So open your app and hit the Agenda
+Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamyat the bottom left of the screen and locate the session on the schedule. And once
 you click it, you will see an option for live quote and Q&A. Click on that and you can
@@ -61,7 +62,8 @@ cannot reach with traditional TV.
 And YouTube and Google is doing very well in video advertising. But I'd say it's still
 pretty early. Just this year, we announced a lot of product changes. We're very
 excited about a new format called Bumpers, which is a six-second ad that we think is
-very, very suitable for mobile. And programs like Google Preferred continue to doStephen Ju
+very, very suitable for mobile. And programs like Google Preferred continue to do
+Stephen Ju
 Sridhar Ramaswamy
 Stephen Juvery well in terms of attracting commitment and TV dollars. We're going to see a lot
 more change come through in how brand advertising is doing.
@@ -100,7 +102,8 @@ the last 24 months or so. Some of it seems like it has come from an increase in 
 load on both Search as well as YouTube. We're not used to thinking about Google
 running out of inventory any point soon. But how worried should investors be in
 terms of hitting some sort of a ceiling when you take the sponsored links from two to
-three and four, in some cases?Sridhar Ramaswamy
+three and four, in some cases?
+Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamy
 Stephen Ju
@@ -141,7 +144,8 @@ each other's techniques in a pretty big way.
 
 Got you. Another topic that's a recent topic on investors' minds, I think everybody's
 consumed with the topic of seeing the anniversarying of the benefits that Google
-saw from the additional sponsor links on the Third Quarter of last year. But at theSridhar Ramaswamy
+saw from the additional sponsor links on the Third Quarter of last year. But at the
+Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamy
 Stephen Jurecent performance you were onstage to introduce an array of new products and
@@ -179,6 +183,7 @@ the most changes out the fastest? When you start worrying about a year-on-year
 comparison to a nice change you're about to launch, you're in trouble. Clearly, there
 is a strong belief on the part of management, on the part of my team, that we will
 continue to drive that innovation forward. And that's really what we push for.
+
 Sridhar Ramaswamy
 Stephen Ju
 Sridhar RamaswamyGot you. You have also spoken at conferences about being mobile first at Google.
@@ -218,7 +223,8 @@ work in progress.
 Building on the oﬄine commerce discussion, I think Google has recently taken steps
 to show advertising on maps.
 
-Yes, yes.Stephen Ju
+Yes, yes.
+Stephen Ju
 Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamy
@@ -259,7 +265,8 @@ We think things like monetization in areas like hotels and other places that you
 look at will naturally come. So our scale product is still Search. And if we can help
 you do a great job in terms of planning a trip, whether it's ﬂights or hotels or other
 attractions, I think we actually have done a pretty significant job. But if we can even
-convince you as a consumer to use the Trips app and have all of that informationStephen Ju
+convince you as a consumer to use the Trips app and have all of that information
+Stephen Ju
 Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamy
@@ -296,6 +303,7 @@ the rest after that.
 
 Yes. Seems like to me, if you make it easier for the consumers to do something, they
 should be doing more of it?
+
 Stephen Ju
 Sridhar Ramaswamy
 Stephen Ju
@@ -336,7 +344,8 @@ Yes. Then another product that you introduced recently, Accelerated Mobile Pages
 how does this help you toward that end goal?
 
 Accelerated Mobile Pages was an attempt at a much better consumer experience. It
-started as an ad vertical in mind, a news vertical. Many of you see that on the results,Stephen Ju
+started as an ad vertical in mind, a news vertical. Many of you see that on the results,
+Stephen Ju
 Sridhar Ramaswamy
 Stephen Juif you search on Google for news. It's been doing very well. And it's based on an
 open standard. Anybody can adopt it, anybody can run Accelerated Mobile Pages. It
@@ -376,7 +385,8 @@ underlying trends you're seeing for programmatic. Ruth highlighted it as a growt
 driver in recent earnings conference calls. And secondarily, header bidding comes
 up as an issue for the display business. So are you concerned? If you can go into a
 little bit about what header bidding is and how that impacts you and what are your
-concerns.Sridhar Ramaswamy
+concerns.
+Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamy
 Yes. So header bidding is a technique by which publishers try to satisfy the demand
@@ -416,7 +426,8 @@ how many up here have used it. But I have my credit card that is stored on Andro
 Pay available to me whenever I am filling out a credit card form on my phone, also
 on my desktop. And that has actually been a significant factor in making commerce
 easier for me and for a lot of other users. We think that's the really important thing
-for us to be doing.Stephen Ju
+for us to be doing.
+Stephen Ju
 Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamy
@@ -455,7 +466,8 @@ Okay, got you. Taking a step back and looking at a more global perspective, it s
 like in the US, we are, shall we say, a little bit overburdened with the existing
 infrastructure, whether it's in commerce or advertising. And in some cases, the
 emerging market countries, they may skip building physical infrastructure and go
-straight online. So what's your perspective in terms of whether, I guess, the pace ofSridhar Ramaswamy
+straight online. So what's your perspective in terms of whether, I guess, the pace of
+Sridhar Ramaswamy
 Stephen Ju
 Sridhar Ramaswamyinnovation internationally is faster versus here, or is the international franchise going
 to be faster-growing for Google?
@@ -495,7 +507,8 @@ question there.
 Yes. That's part of the -- it's a work in progress. I think a number of pieces are
 definitely in place. Truly, we do an exceptional job close to the bottom of the funnel.
 Search is incredibly effective as a medium. We do a pretty decent job close to the
-top of the funnel, where YouTube brand advertising is pretty effective. We'reStephen Ju
+top of the funnel, where YouTube brand advertising is pretty effective. We're
+Stephen Ju
 Sridhar Ramaswamyincreasingly working at personal products -- for example, the shopping team has
 done a number of nice launches to help you find, say, the look for a dress that you're
 interested in, where you don't quite know the exact dress or shirt that you want. But

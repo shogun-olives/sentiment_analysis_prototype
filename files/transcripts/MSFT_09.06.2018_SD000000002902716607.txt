@@ -17,7 +17,8 @@ Then happy to take some questions. We'll have some microphones going around. If
 folks want to raise their hand, we'll get you a microphone
 So Judson, thanks a lot for coming. Appreciate it very much, representing.
 
-Sure. Good morning.Q - Walter H Pritchard
+Sure. Good morning.
+Q - Walter H Pritchard
 A - Judson Althoff
 Q - Walter H PritchardQuestions And Answers
 
@@ -61,7 +62,8 @@ of the organization in the commercial area. You made a number of changes, sort o
 evolved the structure of the sales force, how they're paid, as sort of adoption has
 happened of cloud services. Can you just review sort of what the changes are, where
 you are today and what your goals are going forward in terms of how you pay your
-people?A - Judson Althoff
+people?
+A - Judson Althoff
 Q - Walter H Pritchard
 A - Judson Althoff
 Sure. So by way of background, I've been with the company for a little over five years
@@ -108,7 +110,8 @@ digitize everything they do within their business.
 So sort of a sales engineer-type function?
 
 Yes, exactly. But more than just what I would sort of traditionally call presales SE
-person, these are actually folks that rotate in and out of engineering. So they mayQ - Walter H Pritchardspend two years writing mainline code for Azure and then rotate out into the field
+person, these are actually folks that rotate in and out of engineering. So they may
+Q - Walter H Pritchardspend two years writing mainline code for Azure and then rotate out into the field
 and help our customers with the latest Kubernetes capabilities and things like that.
 So that's been huge for us. We lined those folks up by the same solution areas that I
 spoke of before in our commercial space, modern workplace, business applications,
@@ -155,6 +158,7 @@ huge top line revenue for them, helps them be much more nimble in their
 implementation. Then our people are actually engaged with them at the face of the
 customer to deal with things like the cloud architecture, data privacy, security and
 sovereignty. And it works very, very well with us.
+
 A - Judson AlthoffGot it, got it. Super thorough answer there. Appreciate that. So you brought up
 digital transformation a couple of times. I had a joke a couple of days ago from a
 client that they met with a copy machine company and they were doing digital
@@ -203,7 +207,8 @@ fourth pillar is around product transformation. And it's probably the most inter
 of all of the 4 DT categories that we work on. And the question that needs to be
 asked and answered is how can the data about your business become more
 valuable than the business itself. And my favorite example here is the work we've
-done with Maersk. If you think about their business, right, you -- big global shippingQ - Walter H Pritchard
+done with Maersk. If you think about their business, right, you -- big global shipping
+Q - Walter H Pritchard
 A - Judson Althoffcompany, not a lot of room for them to grow. They already have 60% of the world's
 market share. There's only so much fuel optimization you can drive to shave the
 bottom line. So what's the next generation of growth? Well we've helped them
@@ -250,7 +255,8 @@ move to the cloud, the highly regulated market still haven't had huge adoption y
 that's critically important. And I would say the other big reason is, is that, without
 sounding too competitive, the reality of the situation is, is if you look at the 2 other
 big competitors in this space, Amazon is, frankly, attacking a lot of industries right
-now. And they're pretty bold and open about it. I mean, Jeff will say, "Look, yourQ - Walter H Pritchard
+now. And they're pretty bold and open about it. I mean, Jeff will say, "Look, your
+Q - Walter H Pritchard
 A - Judson Althoffmargin is my opportunity." And there's evidence of that -- huge evidence of that in
 retail, of course. But also financial services and health care. And so I think our
 enterprise customers come to us going, "Hi. look, we want to go to the cloud. We're
@@ -296,7 +302,8 @@ growth there. Then there's the financial aspect of it. We have stepped forward p
 aggressively and said, "Anything you use of ours in a hybrid capacity, whether it be
 Windows servers, SQL Server, any of our core on-premises software assets, you pay
 for once." So in the scenario I just described, rather than paying for it 3 times, you're
-paying for it once. And if you project out what the competition would have to do,Q - Walter H Pritchard
+paying for it once. And if you project out what the competition would have to do,
+Q - Walter H Pritchard
 A - Judson Althoff
 Q - Walter H Pritchard
 Q - Unidentified Participantwe're like 80% less in terms of total expense. So the technology inherently is
@@ -341,7 +348,8 @@ environment, now you're reasoning over the same graph of data to, once again, he
 your employees be more productive. It's been good for us.
 
 Got it, got it. I'm going to pause a second, see if there's any questions. We have a
-few microphones. Okay. Just right down here in front. There's...A - Judson Althoff
+few microphones. Okay. Just right down here in front. There's...
+A - Judson Althoff
 Q - Walter H Pritchard
 A - Judson AlthoffJust a broad question on medium-, long-term sort of view on profitability of
 commercial cloud operation. Margins have been sort of trending down because of
@@ -387,7 +395,8 @@ what they want to charge and the incremental increases in subscription costs tha
 they're placing on them. So we're doing a lot of heavy-lifting and migration work
 over to Dynamics 365 because it's a much lower-cost environment. It's a much more
 open environment. I mean, it's just sort of proof is in the pudding there with all the
-integration work that we do with Adobe and SAP.Q - Walter H Pritchard
+integration work that we do with Adobe and SAP.
+Q - Walter H Pritchard
 Q - Unidentified Participant
 A - Judson Althoff
 Q - Walter H Pritchard
@@ -428,7 +437,8 @@ and may the best price win. There are a couple of things though that even in tha
 realm, I think, will lead to an advantage for us. I think the pure R&D on things that we
 do in the compute realm from quantum computing to cryogenic computing, the
 data centers that we're putting on the ocean ﬂoor, those will actually give us a
-competitive advantage in terms of the COGS related to even just pure infrastructureQ - Walter H Pritchard
+competitive advantage in terms of the COGS related to even just pure infrastructure
+Q - Walter H Pritchard
 A - Judson Althoff
 Q - Walter H Pritchardand storage. So I actually feel pretty good about even the worst part of that business.
 The parts for us though that I think will lead to long-term differentiation and, again,
@@ -473,6 +483,7 @@ biggest one. So I'm going to start with the security assets and then move into t
 rest of the suite over time." So it's been very strong. And we're bullish on the
 continuing growth right now because of the sort of share within the total base of the
 customer for E5 is still relatively small. So the growth opportunity is quite large.
+
 A - Judson Althoff
 Q - Walter H Pritchard
 A - Judson Althoff

@@ -16,7 +16,8 @@ I would now like to turn the meeting over to Jensen.
 
 Thanks, Simona. Good morning. Welcome to our 2018 Stockholders' Meeting. The
 meeting will now oﬃcially come to order. I will serve as Chairman. And Tim Teter will
-serve as the Secretary and conduct the procedural portion of the meeting.Timothy S. Teter
+serve as the Secretary and conduct the procedural portion of the meeting.
+Timothy S. Teter
 Thanks, Jensen. First, a few housekeeping items. We have opened the online portal
 for stockholders to ask questions during the meeting. If you have a question, please
 enter it into the portal. And we will do our best to answer it at the end of the
@@ -55,7 +56,8 @@ vote online now. You do not need to vote if you've already sent in your signed p
 or voted online or by telephone. Your votes will be counted automatically. The time
 is 10:35 a.m.. And the polls are currently open for voting.
 There are 5 items of business: First, the election of Rob Burgess, Tench Coxe, Persis
-Drell, James Gaither, Jensen Huang, Dawn Hudson, Harvey Jones, Mike McCaffery,Mark Perry, Brooke Seawell and Mark Stevens to serve as directors until our 2019
+Drell, James Gaither, Jensen Huang, Dawn Hudson, Harvey Jones, Mike McCaffery,
+Mark Perry, Brooke Seawell and Mark Stevens to serve as directors until our 2019
 Annual Meeting.
 Second, the approval of the compensation of our executive oﬃcers, as disclosed in
 our 2018 proxy statement.
@@ -84,7 +86,8 @@ purchase plan is carried.
 A full tally of the votes will be published in a Form 8-K, which we expect to file with
 the SEC within 4 business days.
 That concludes the formal portion of today's Annual Meeting. And I declare the
-business portion of the 2018 Annual Meeting of Stockholders adjourned. Thank youJensen Hsun Huangvery much.
+business portion of the 2018 Annual Meeting of Stockholders adjourned. Thank you
+Jensen Hsun Huangvery much.
 With that, let me hand this meeting back over to Jensen for a brief business update,
 after which we will answer stockholder questions. Please note that given our time
 constraints, we may not be able to address all questions.
@@ -121,7 +124,8 @@ basis points to 59.9%. Earnings per diluted share were $4.82, up 88%. And we
 returned $1.25 billion to shareholders through dividends and stock repurchases.
 We continued our fast pace of growth in the First Quarter of fiscal 2019 with growth
 in each of our businesses. Revenue reached a record $3.21 billion, up 66% from a
-year ago. Gaming revenue grew $1.72 billion to 1 point -- gaming revenue grew toSimona Stefan Kiritsov Jankowski
+year ago. Gaming revenue grew $1.72 billion to 1 point -- gaming revenue grew to
+Simona Stefan Kiritsov Jankowski
 A - Jensen Hsun Huang$1.72 billion, up 68% from a year ago. Design and visualization for enterprises grew
 to $251 million, up 22% year-over-year. Our data center business grew to a record
 $701 million, up 71% from a year ago. The automotive business grew to $145 million,
@@ -158,6 +162,7 @@ questions that come through the virtual meeting portal. We created the form so t
 our stockholders would have the opportunity to ask us questions prior to the
 meeting, allowing for more effective communication.
 Questions And Answers
+
 I will read out loud each question or comment as submitted, except removing
 personal details. In some cases, we have received multiple questions asking about
 the same or similar topics. So we can group these questions together to avoid
@@ -197,7 +202,8 @@ will discuss your recommendations. We do have a number of directors who are
 financial experts and former Chief Financial Oﬃcers, current and former hardware
 industry executives as well as current and former leaders with experience in HR
 matters. So we feel the board has the appropriate level of expertise to address the
-company's needs at this time.Where do the new directors see the company 10 years from now? And are they
+company's needs at this time.
+Where do the new directors see the company 10 years from now? And are they
 excited as the regular stockholders are about the future?
 Our board believes NVIDIA is well positioned for the future with significant growth
 opportunities in all of our major market platforms. At the heart of our opportunity is
@@ -231,7 +237,8 @@ autonomous machines, like manufacturing and inspection robots.
 As more start-up companies are -- another question. As more start-up companies are
 building chips dedicated to machine learning at the different market segments, what
 is NVIDIA's strategy in keeping differentiation -- differentiating itself against the
-competition? What are the risks or the impact from having the big top vendorsacquiring such start-ups and building their own customized hardware for their
+competition? What are the risks or the impact from having the big top vendors
+acquiring such start-ups and building their own customized hardware for their
 clouds?
 The world has recognized that CPU scaling has slowed and that deep learning
 workload will overwhelm their data centers. There are many types of networks.
@@ -266,7 +273,8 @@ responsive strategies so that we can be more engaged.
 Next question. Why not hire a public relations individual, like myself, to constantly
 submit positive press about NVIDIA governance, state-of-the-art progress,
 competition and immediately counteract negative, misleading press releases
-affecting the value of NVIDIA stock and the image -- and image in the tech sector?Thanks for your suggestion. We do have a seasoned team of PR professionals for
+affecting the value of NVIDIA stock and the image -- and image in the tech sector?
+Thanks for your suggestion. We do have a seasoned team of PR professionals for
 each of our businesses in major countries where we operate. These individuals
 maintain relationships with media and various other types of external inﬂuencers
 with the goal of both furthering and defending our brand, our products and our
@@ -304,7 +312,8 @@ traction. It's one of the reasons why we're growing so fast.
 When will GeForce Experience exit the beta phase? Also, can you share with us the
 expected pricing structure of the product at launch?
 I think the question is actually related to GeForce NOW. GeForce NOW -- because
-GeForce Experience is -- has been out of beta for many years. Just first of all,GeForce Experience, as you know, is a cloud application and service that allows us to
+GeForce Experience is -- has been out of beta for many years. Just first of all,
+GeForce Experience, as you know, is a cloud application and service that allows us to
 optimize the gaming PCs for each one of the configurations -- many configurations
 and the applications that the gamer plays. And by automatically tuning and
 optimizing the computer for each one of the games, we essentially turn what is
@@ -347,7 +356,8 @@ the 4 corners of gaming, ProVis, data center, autonomous vehicles, for example,
 CLARA adoption and Isaac?
 So first of all, thanks for the question. That's a large question. But let's tear it down.
 BitMate designs chips for Bitcoin mining. And we don't do Bitcoin mining. And that's
-not our core business. As I mentioned earlier, one of the recent applications of GPUsA - Timothy S. Teter
+not our core business. As I mentioned earlier, one of the recent applications of GPUs
+A - Timothy S. Teter
 A - Jensen Hsun Huangis a cryptocurrency called ethereum and other cryptocurrencies like it. They tend to
 be very hard to turn into an ASIC because it requires the general purposeness of our
 GPUs. As an application, that is small for us in our overall business. It is volatile
@@ -393,7 +403,8 @@ We've got a lot of people working on it. The automotive industry is working real
 hard on it. There's a lot of testing yet to do. And I think it's going to be fantastic
 because everything that moves someday will be autonomous. Every car, every truck,
 every shuttle, every bus will be autonomous. And so this is going to be a very large
-market. And we've invested so much in doing so. And we're so good at it. I thinkwe're going to play a very large role in this future of autonomous driving in the
+market. And we've invested so much in doing so. And we're so good at it. I think
+we're going to play a very large role in this future of autonomous driving in the
 future.
 What is the TAM for health care that NVIDIA is working towards? We work -- our
 health care business -- our health care practice has several different areas. The first
@@ -438,7 +449,8 @@ of crypto mining, the end market price of our graphics cards causes it to become
 unaffordable for many gamers. And so it's -- the demand is great for crypto mining
 and -- in Q1. And it was hard on the gamers around the world. Ultimately, our gaming
 business is growing incredibly well. And so as soon as the prices of the graphics
-cards come down, as they have, the demand from gamers will jump. And so what'sA - Unidentified Speakerinteresting is when crypto demand is strong, miners buy our graphics cards. When
+cards come down, as they have, the demand from gamers will jump. And so what's
+A - Unidentified Speakerinteresting is when crypto demand is strong, miners buy our graphics cards. When
 crypto demand is not strong, gamers buy our graphics cards. And so I think the
 simple way to think about that is think about crypto as a bonus. Our core gaming
 business -- our core businesses in gaming and high-performance computing and
@@ -475,7 +487,8 @@ animating through new terrain. They'll talk to you like -- and hold a conversati
 you in a way that is very humanlike. And as a result, these friends -- virtual friends that
 you could play with in video games are going to become more and more
 sophisticated and more intelligent. I think we've already done that one, yes?
-Yes.A - Jensen Hsun Huang
+Yes.
+A - Jensen Hsun Huang
 A - Unidentified Speaker
 Our GPUs have been the segment with the highest revenue. What about the Tegra
 processor segments? And how are sales in there?
@@ -518,7 +531,8 @@ with every single company. Whether it's Amazon or Microsoft or Google or
 Facebook, our GPU computing approach is adopted by everybody. And we love
 working with everybody involved. JPMorgan Chase is in the financial services
 industry. And we work with many firms in the financial services industry as they apply
-AI to their businesses. And Berkshire, I don't know what we're doing with Berkshire.A - Jensen Hsun Huang
+AI to their businesses. And Berkshire, I don't know what we're doing with Berkshire.
+A - Jensen Hsun Huang
 A - Unidentified Speaker
 A - Jensen Hsun Huang
 A - Unidentified Speaker
@@ -552,7 +566,8 @@ you could see, the number of interesting questions that we get by doing it virtu
 quite large. And so I think that this is a fairly good approach. If you would like to
 drop by our new headquarters, feel free to. It is quite an interesting design. And
 when you're inside it, you could really feel the energy of the building. And so we're
-more than happy to host you. Just drop by.Do you believe DRIVE Constellation certification may be required more for
+more than happy to host you. Just drop by.
+Do you believe DRIVE Constellation certification may be required more for
 companies to get their AVs on the road?
 First of all, DRIVE Constellation is a virtual reality supercomputing platform that we
 created to allow cars -- autonomous vehicles to be tested in these virtual worlds. The
@@ -587,7 +602,8 @@ in place. But nonetheless, the single best thing we could do for crypto -- to ad
 crypto is to serve the demand and to make possible for the GeForce cards that we
 built for gamers to be affordable to gamers. And so your recommendation is exactly
 what we try to do. We just try to do it in a mindful way.
-Are you concerned about any trade war with China? Or are you optimistic?Wars are no good for anybody and -- including trade wars. You know that most large
+Are you concerned about any trade war with China? Or are you optimistic?
+Wars are no good for anybody and -- including trade wars. You know that most large
 companies operate on a global level these days. And the world is surprisingly small
 in many respects. And China is a large market for us. We do business in China. We've
 been doing business in China for some 20 years. And so we're hopeful. And we
@@ -629,7 +645,8 @@ guys are making and how deep learning is being streamlined into the development
 process.
 Since about seven years ago -- 6, seven years ago, we realized the importance of
 deep learning not just as an algorithm for computer vision. But as a general
-methodology for developing software in the future. And so we invested in creating aA - Simona Stefan Kiritsov Jankowski
+methodology for developing software in the future. And so we invested in creating a
+A - Simona Stefan Kiritsov Jankowski
 Operatorsupercomputer in our company. We have something along the lines of -- let's see.
 Something along the lines of 600, 700 petaﬂops of deep learning capability inside
 our computer -- inside our company. And it's continuously saturated by researchers

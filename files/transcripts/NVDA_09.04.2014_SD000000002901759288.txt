@@ -6,7 +6,8 @@ Oﬃcer.
 We'll begin with a summary of our filing with the International Trade Commission
 and US District Court of Delaware. And discuss our decision to take legal action to
 protect our intellectual property. We will discuss the possible next steps in this
-process.After our statements, we will be opening up the call to answer any questions on
+process.
+After our statements, we will be opening up the call to answer any questions on
 today's actions. We ask that you limit the questions to the matters of today's filings.
 Before we begin, I'd like to remind you that today's call is being webcast live on
 NVIDIA's Investor Relations website. And is also being recorded. The replay of the
@@ -41,7 +42,8 @@ NVIDIA's patented inventions. Our patented inventions are used in billions of mo
 devices each year, including the millions of smart devices sold with our Tegra
 processor incorporated.
 Our Tegra processor sales are accelerating, with four consecutive quarters of
-revenue growth. Our newest processor, the Tegra K-1, features the Xiaomi Mi Pad, theOperator
+revenue growth. Our newest processor, the Tegra K-1, features the Xiaomi Mi Pad, the
+Operator
 Q - Vivek Arya
 A - Jen-Hsun Huangrecently announced Acer Chromebook 13. And our new SHIELD tablet. Samsung and
 Qualcomm have also relied on our powerful inventions for their mobile success.
@@ -76,7 +78,8 @@ Samsung is one of the largest mobile device makers in the world. And they ship
 hundreds of millions of mobile devices every year. All of them, we believe, infringe
 on the GPU patents that we've invented. And so, it stands to reason that they'd be
 the first company we would engage in discussions with. And we've been in
-discussions with them for a couple of years.Q - Vivek Arya
+discussions with them for a couple of years.
+Q - Vivek Arya
 A - Jen-Hsun Huang
 Q - Vivek Arya
 A - Jen-Hsun HuangThere's another reason, which is that Samsung, because of their volumes. And
@@ -115,7 +118,8 @@ shipped each year and tens of billions being expected to ship in the coming year
 stands to reason that this is an important area for us.
 I've also told you, quite several times now, over the last several years, that IP
 licensing and core is an important part of our overall strategy. And so, today's action
-is really just a confirmation of that strategy.Q - Vivek Arya
+is really just a confirmation of that strategy.
+Q - Vivek Arya
 A - Jen-Hsun Huang
 Q - Vivek Arya
 Operator
@@ -151,7 +155,8 @@ case basis.
 All three architectures that we've mentioned, Qualcomm, ARM. And Imagination's
 GPU architectures, we believe, infringe on some very important patents. And some
 very important inventions that we've created over the years. And in each one of
-those cases, the way they get to market is a little bit different.Q - Matt Ramsay
+those cases, the way they get to market is a little bit different.
+Q - Matt Ramsay
 A - Jen-Hsun HuangThere are some OEMs that are vertically integrated and they design their own
 phones or devices. And chips. There are some that buy chips from other people.
 There are some that license this technology from other people. And so, there's a
@@ -190,7 +195,8 @@ And so, we're a visual computing technology company at the core. And we have a
 business model that starts from creating technology, inventing technology. And we
 offer it to the customers and offer it to the marketplace in a whole lot of different
 form factors that suits their needs. And so, I think that this strategy allows us to stay
-very, very focused on being the world's leading in visual computing. And yet beingQ - Matt Ramsay
+very, very focused on being the world's leading in visual computing. And yet being
+Q - Matt Ramsay
 A - Jen-Hsun Huang
 Operator
 Q - Doug Freedman
@@ -227,7 +233,8 @@ us -- and maybe put your phone on mute -- and then. And then those -- in this ne
 market of mobile computing, it goes into a lot of different verticals. In some of the
 verticals we may choose to design chips. In some of the verticals, we may choose to
 license our patents. In some of the verticals we may decide to choose our cores. And
-every combination.Q - Doug Freedman
+every combination.
+Q - Doug Freedman
 A - Jen-Hsun Huang
 Operator
 Q - Alex Gauna
@@ -266,6 +273,7 @@ PC realm. Is there a difference in terms of the way the IP is deployed in a mobi
 sense, or because it's being used with Android, or would you say that the position
 that led you to such a favorable outcome with Intel is similar with what's going on
 with Samsung and Qualcomm? Thank you.
+
 Q - Alex Gauna
 Operator
 Q - Hans Mosesmann
@@ -302,7 +310,8 @@ GPUs inside their chips, our GPU patented technologies inside their chip. And th
 chips are used by Samsung. And so, we decided to name both of them today. And
 by doing so, we are focusing on two very large companies that have a large business
 incorporating our GPUs and using them for free. And also, it allows us to engage all
-three architectures in the marketplace at one time.Q - Hans Mosesmann
+three architectures in the marketplace at one time.
+Q - Hans Mosesmann
 A - Jen-Hsun Huang
 Operator
 Q - Betsy Van Hees
@@ -341,7 +350,8 @@ Well we'll have an opportunity for Colette and I to talk about OpEx at the next
 earnings call. But I think at the highest level, Betsy, I think that the important thing to
 realize is IP licensing, IP is a very important part of our strategy. We are the world
 leader in visual computing. We invented the GPU. We've contributed more to
-modern visual computing than just about any company in the world.Q - Betsy Van Hees
+modern visual computing than just about any company in the world.
+Q - Betsy Van Hees
 A - Jen-Hsun HuangWe're singularly focused in this one important field. We're incredibly inventive, over
 the years. And we're still very, very inventive. And this technology is vital to the
 growth and to the vibrancy of large markets, including the mobile computing
@@ -378,7 +388,8 @@ we've invested a great deal in getting here. We've invested $9 billion in a sing
 field of computing.
 We have the richest portfolio of computing patents, graphics computing patents, in
 the world. And so, it's -- we have to make sure that we're compensated fairly for the
-use of our patents.Q - Betsy Van Hees
+use of our patents.
+Q - Betsy Van Hees
 A - Jen-Hsun Huang
 Operator
 Q - Chris Caso
@@ -416,6 +427,7 @@ Okay. And as a follow-on, oftentimes in the patent litigation suits there are co
 suits filed by the other parties. Is there anything you could say with regard to your
 level of confidence in your ability to defend or your exposure to a counter suit by
 either Samsung or Qualcomm?
+
 Q - Chris Caso
 Operator
 Q - JoAnne Feeney
@@ -453,7 +465,8 @@ Then, lastly, I guess I would just add and reiterate that it does take some time
 engaging discussions with these companies on something this significant. We're
 talking about a very large number of devices. We are talking about technology that
 we have invented. And so, the impact to them is, of course, not insignificant. And so,
-these conversations do take time.Q - JoAnne Feeney
+these conversations do take time.
+Q - JoAnne Feeney
 A - Jen-Hsun Huang
 Q - JoAnne Feeney
 A - Jen-Hsun Huang

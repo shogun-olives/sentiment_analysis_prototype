@@ -21,7 +21,8 @@ content creation and analytics capabilities on an integrated platform. And from 
 brand perspective, which might be more familiar with folks, that means Oﬃce,
 Microsoft Teams, OneDrive, SharePoint plus Windows and then the Enterprise
 Mobility and Security suite product that we have, bringing that together in a single
-offering for customers.Brent Thill
+offering for customers.
+Brent Thill
 Kirk Koenigsbauer
 Brent Thill
 Kirk KoenigsbauerAs I mentioned, it's about three-years old, and about three years in the market or so
@@ -61,7 +62,8 @@ depending on how you measure it or which analyst you are looking at, roughly the
 sort of core productivity and collaboration side of it, it's about $200 billion to $300
 billion, so, it's quite large. That's not inclusive of the security and compliance space,
 which is yet another $100 billion or so -- over $100 million. And so together, $300
-billion to $400 billion, an opportunity, it's a pretty big space.Brent Thill
+billion to $400 billion, an opportunity, it's a pretty big space.
+Brent Thill
 Kirk KoenigsbauerThe other way we think about it is from an audience lens too and so, for example,
 historically, we focused on and folks think of us, focusing on knowledge workers or
 what we sometimes refer to as information workers. Gartner classifies about 1 billion
@@ -104,7 +106,8 @@ more deeply on the seat side. And all those, we feel like are really good
 opportunities for us. COVID has had some impact on things like SMB and support,
 but generally speaking, structurally, we feel like there's a lot of room left there to go.
 On the ARPU side, again shift to cloud, certainly, we think of it really as an ARPU
-driver overall and there is certainly room to grow there, but one thing that's beenBrent Thill
+driver overall and there is certainly room to grow there, but one thing that's been
+Brent Thill
 Kirk Koenigsbauer
 Brent Thill
 Kirk Koenigsbauer
@@ -145,6 +148,7 @@ help transform how we collaborate with each other, 4,000 people across our firm
 globally. So, thanks for that.
 
 Thank you.
+
 Kirk KoenigsbauerMaybe talk to, to kind of the next leg of this. I certainly have a lot of things that I
 could see where I can envision this going a lot further in a lot of different ways and
 yeah, just at the stage and where we're at with Teams and kind of what's the next
@@ -188,7 +192,8 @@ services, things like Ethical Walls, these have all been very, very important pa
 the value proposition that's built inside of Teams as well and it's been, it's been
 really, really strong what we've seen and we're going to just kind of continue to, to
 work on these areas.
-I don't hear you Brent. I think you are muted.Brent Thill
+I don't hear you Brent. I think you are muted.
+Brent Thill
 Kirk Koenigsbauer
 Brent Thill
 Kirk Koenigsbauer
@@ -229,7 +234,8 @@ embracing those third-party relationships too, which are super, super important 
 many big multinationals that exists. So, this for us is a good example of how Teams is
 not only one where we're sort of bringing sort of new users to the platform, but one
 that's going to allow us to have some ARPU opportunity as well because again these
-are the kinds of capabilities that are in that E5 tier of service.Brent Thill
+are the kinds of capabilities that are in that E5 tier of service.
+Brent Thill
 Kirk Koenigsbauer
 Brent Thill
 Kirk Koenigsbauer
@@ -271,7 +277,8 @@ our differentiator is going to be and the team is really I think done a nice job
 executing and we are in a unique position. It's in some ways, similar to Teams. There
 are hundreds of security vendors that are on the planet today. Many of them are --
 come from the legacy of building on-premises-oriented solutions, so very singularly
-vertically oriented. And that's been on okay sort of historical approach, but with theBrent Thill
+vertically oriented. And that's been on okay sort of historical approach, but with the
+Brent Thill
 Kirk Koenigsbauersophistication of threats today and the intensity of them, there is no question that
 security is moving to the cloud and a vendor like us that is sort of with all the
 strengths that we have with Microsoft 365 and with Azure, there is quite an
@@ -313,7 +320,8 @@ six months in a pretty massive way and it's pretty incredible.
 I think when it all started, I would say the first few months of it was frankly almost like
 crisis management. How do companies let people like you and me work-from-home,
 how do they enable that to happen. And there was a real scramble we saw across
-the breadth of customers for everything from getting their VPN and strategyBrent Thill
+the breadth of customers for everything from getting their VPN and strategy
+Brent Thill
 Kirk Koenigsbauertogether to making sure their users had great, great desktops. And those desktops
 were securely connected into their networks. And there was a pretty massive shift, a
 pretty massive push to cloud, but also -- things like Teams and so forth, but also
@@ -356,7 +364,8 @@ transformation, there is a lot of culture change that organizations have to go t
 and thinking about what that employee experience is, there is a lot there. We, for
 example, just a month or a month or two ago announced a new corporate earning
 application that we're going to be building into Teams, we've got a lot of data and
-analytics that we're using to help businesses understand how their employees areBrent Thill
+analytics that we're using to help businesses understand how their employees are
+Brent Thill
 Kirk Koenigsbauerbeing productive, their well-being and so forth and we think that's going to be a big
 opportunity for us too.
 

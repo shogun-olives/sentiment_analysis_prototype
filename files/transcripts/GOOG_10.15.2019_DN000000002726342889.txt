@@ -19,7 +19,8 @@ Now you've heard me talk about this idea with Baratunde that helpful computing c
 be all around you, ambient computing. Your devices work together with services and
 AI. So help is anywhere you want it and it's ﬂuid. The technology just fades into the
 background when you don't need it. So the devices aren't the center of the system,
-you are. That's our vision for ambient computing.The Google Assistant plays a critical role here. It pulls everything together and gives
+you are. That's our vision for ambient computing.
+The Google Assistant plays a critical role here. It pulls everything together and gives
 you a familiar natural way to get the help you need. Our users tell us they find the
 Google Assistant to be smart, user friendly, and reliable and that's so important for
 ambient technology; interactions have to feel natural and intuitive.
@@ -58,7 +59,8 @@ instead of turning to your phone for quick tasks, you can just say, Hey Google a
 ask the Assistant for whatever you need; resume your podcast, send a quick text, get
 directions or even understand another language with Google Translate.
 Pixel Buds even have a long-range Bluetooth connection, which keeps you
-connected even when your phone isn't by your side. So you can wear them in theyard when your phone might be charging inside or leave your phone in a locker if
+connected even when your phone isn't by your side. So you can wear them in the
+yard when your phone might be charging inside or leave your phone in a locker if
 you're working out in a gym. Indoors, Pixel Buds will stay connected up to three
 rooms away and outside, they work across an entire football field.
 Of course Pixel Buds won't be truly helpful unless there are also great headphones.
@@ -99,7 +101,8 @@ is personal, which is why you have the controls, so that you can choose the sett
 you want that are right for you. We make it easy to access simple on-off controls,
 including turning cameras and mics on your Nest devices off. And you can now
 delete Assistant data just by asking. Everything is designed with your privacy in mind
-and you'll see examples of that throughout today's presentation.Ivy RossNow, we're also going to talk today about our work to create more sustainable
+and you'll see examples of that throughout today's presentation.
+Ivy RossNow, we're also going to talk today about our work to create more sustainable
 products and processes. Developing sustainable solutions to mass production and
 consumption is one of the biggest challenges we face today as an industry. It
 impacts all of us and it will for generations to come. Now, we believe Google has
@@ -139,7 +142,8 @@ and then thrown away. Right now, we're truly looking at sustainability from ever
 angle.
 For years, we've been pushing what's possible in design, manufacturing, and new
 materials. We've been able to include recycled plastics in products like Chromecast
-and the new Stadia controller. And today, I'm happy to share that all of our Nestproducts launching in 2019 include recycled plastics. Instead of these materials
+and the new Stadia controller. And today, I'm happy to share that all of our Nest
+products launching in 2019 include recycled plastics. Instead of these materials
 ending up in the ocean or in landfill, we're giving them a new life. We've designed
 and engineered the fabric on our Nest mini speaker, so it's made from a 100%
 recycled plastic bottles. A single half liter bottle produces enough textiles to cover
@@ -178,7 +182,8 @@ The result was the original Pixelbook. The response was great. People really lov
 the award-winning design, the keyboard, and the speed. So, over the past couple of
 years, we've been working really hard to bring that kind of experience to even more
 people at a more affordable price. I actually believe that you can be more creative
-when designing within constraints.Rishi ChandraSo once again, we started with our users' needs, especially portability and battery
+when designing within constraints.
+Rishi ChandraSo once again, we started with our users' needs, especially portability and battery
 life. We wanted to create a thin and light laptop that was really fast and also have it
 last all day. And of course, we wanted it to look and feel beautiful. We landed on
 Pixelbook Go. The design is so distinctive with an incredibly light magnesium that
@@ -217,7 +222,8 @@ working with partners to migrate their existing works with Nest integrations tha
 people know and love, but doing it built on a foundation of privacy and security.
 For example, we're acquiring partners to pass a security review before they can even
 request access to your Nest devices. You should have confidence in how Google and
-its partners are protecting your home data. And then, you can focus on, instead, thegreat benefits of the Helpful Home. For example, let's talk about home Audio. It used
+its partners are protecting your home data. And then, you can focus on, instead, the
+great benefits of the Helpful Home. For example, let's talk about home Audio. It used
 to cost thousands of dollars and a professional installation if you want a seamless
 audio throughout your home.
 Well, Google changed all that with the Whole Home audio solution that is simple,
@@ -256,7 +262,8 @@ leaving work and I want to ask the family what they want for dinner. So that's t
 Nest Mini, our next step in bringing seamless audio and communication to more
 homes around the world.
 Okay, now let's talk about home awareness. One of our core products is Nest Aware,
-which combined with our Nest Cams provides intelligent alerts and camera history.Now lots of our users have multiple cameras and we've heard from you that our Nest
+which combined with our Nest Cams provides intelligent alerts and camera history.
+Now lots of our users have multiple cameras and we've heard from you that our Nest
 Aware pricing can get a little expensive and complicated. So today, we're
 announcing a new whole home pricing model.
 For one monthly rate, you get Nest Aware support across all your Nest devices in
@@ -296,7 +303,8 @@ coverage. So now the Nest Wi-Fi system only needs one router and one point to
 cover around 85% of homes in the US.
 Now we're also solving a common probably you find with routers today. Most of
 them get hidden in a closet or cabinet, because truthfully they are pretty ugly which
-reduces their signal intention by 50%. Nest Wi-Fi is designed to be out in the openSabrina Elliswhere it performs at its best, with the range of colors that will naturally blend into
+reduces their signal intention by 50%. Nest Wi-Fi is designed to be out in the open
+Sabrina Elliswhere it performs at its best, with the range of colors that will naturally blend into
 your home. And of course, it's really simple to use. With the Google Home app, you
 can set up your Nest Wi-Fi network in minutes and once you're set up, it's easy to
 share your Wi-Fi password, manage your network, set a schedule for the kids or
@@ -335,7 +343,8 @@ the fastest secure face unlock on a smartphone, because the process starts befor
 you've even picked up your phone.
 Motion Sense prepares the camera when you reach for your Pixel 4, so you don't
 need to tap the screen. It's so much faster and smoother. Motion Sense can power
-down your phone when you walk away and turn it back on when you approach yourphone. It also lets you control your Pixel with simple gestures; swipe to skip a song,
+down your phone when you walk away and turn it back on when you approach your
+phone. It also lets you control your Pixel with simple gestures; swipe to skip a song,
 silence a call, wave hello to Pikachu. Again, a wide range of helpful new features
 from gaming to personal wellness. Here's a quick look.
 [Video Presentation]
@@ -373,7 +382,8 @@ taps into our speech recognition and AI. Let's see it in action.
 We've had a Pixel 4 recording this show for the past few minutes. As you can see,
 with one tap, I can get recorder transcribing my words in real time as I'm saying
 them. Now, to show this is live, it is now 10:44 and it's pretty accurate. This means you
-can transcribe meetings, lectures, interviews or anything you want to save.Marc LevoyEric, back stage, is going to save this recording and now I can go into the search bar
+can transcribe meetings, lectures, interviews or anything you want to save.
+Marc LevoyEric, back stage, is going to save this recording and now I can go into the search bar
 and find whatever I'm looking for. I can search for sounds, words, phrases, let's see,
 all the times I've mentioned Pixel across my entire library of recordings. The places
 where the word Pixel are said are highlighted in yellow in the playback bar. So you
@@ -412,7 +422,8 @@ computational photography.
 And who better to talk about it than Professor Marc LaVoy from Google Research.
 
 Thanks, Sabrina. It's great to be here. There is a saying among photographers that
-what's important to taking a great picture is in order; subject, lighting, lens and thecamera body. It's their way of saying that it doesn't matter which SLR body you use,
+what's important to taking a great picture is in order; subject, lighting, lens and the
+camera body. It's their way of saying that it doesn't matter which SLR body you use,
 unless you get the first three elements right. Well, here's a slightly different take on
 this list; subject, lighting, lens, software. So, by software, I mean computational
 photography. So what does that mean?
@@ -452,7 +463,8 @@ compose your shot. We call this feature live HDR+. So, the industry's most succe
 HDR solution is now real-time and WYSIWYG, what you see is what you get.
 Now, if we have an intrinsically HDR camera, we should have HDR controls for it. So
 Pixel 4 has dual exposure controls. Here is an example. This is a nice HDR+ shot, but
-maybe you would like to try it as a silhouette. So you tap on the screen and lower thebrightness slider a bit. That mainly changes the capture exposure. Then you lower
+maybe you would like to try it as a silhouette. So you tap on the screen and lower the
+brightness slider a bit. That mainly changes the capture exposure. Then you lower
 the shadows slider a lot. That mainly changes the tone mapping, and voila, you get a
 different artistic vision. Try doing that with any other cellphone. So separate sliders
 for brightness and shadows while you compose your shot. It's a different way of
@@ -492,7 +504,8 @@ Is there computational photography? There is lots of that too. Digital sensors a
 prone to hot pixels that are stuck at red, green or blue. The longer the exposure, the
 more hot pixels. Our exposures are pretty long. So we need some clever algorithms
 to remove those hot pixels. By the way, that's our Astrophotography field testing
-team and, yes, they sat still for a long time for this shot.Annie Leibovitz
+team and, yes, they sat still for a long time for this shot.
+Annie Leibovitz
 Lily Lin
 Annie Leibovitz
 Lily LinSo where does this game stop? What can't we capture using Pixel 4? Well, we can
@@ -530,6 +543,7 @@ phone and what it could do and what it's potential was and Google came to me and
 said, we'd like to support you in some sort of artistic endeavor and we thought of
 this project. And I mean it's obviously what's interesting about a camera phone, I
 mean it is -- is you can carry in your pocket, for example. Go ahead, I'm sorry.
+
 Annie Leibovitz
 Lily Lin
 Annie Leibovitz
@@ -569,6 +583,7 @@ to say about a person especially these extraordinary people in one picture, and 
 made it a diptych, and took two photographs. For example, it was Sarah Zorn from
 the Citadel. There is a photograph of her almost on graduation day in her uniform,
 but next to her is a photograph of the boots she wore for four years every single day.
+
 Annie Leibovitz
 Lily Lin
 Annie Leibovitz
@@ -608,6 +623,7 @@ I think it's great.
 So, thank you so much. And thank you. I wish we had more time, but I know you and
 as well as Nora, Chase, Idris are going to be sticking around. So thank you for that.
 Thanks for joining us on stage, and guys, Annie Leibovitz.
+
 Rick OsterlohOkay, thank you.
 
 Thank you so much, Annie. It's an amazing project. We're all huge fans. That was

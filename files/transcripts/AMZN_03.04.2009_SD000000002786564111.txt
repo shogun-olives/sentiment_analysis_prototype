@@ -19,7 +19,8 @@ In terms of free cash ﬂow, over the past 12 months ending December 31st, we ha
 just under $1.4 billion of free cash ﬂow. That was up 16% year-over-year.
 In terms of how we leverage our free cash ﬂow, we have -- if you look at our earnings
 and working capital, you've seen leverage over the past 12 months. You've also seen
-decent leverage in fixed investment. We are spending at a little bit above ourdepreciation-reinvestment ratio -- it's just a little bit over 1 -- but given the growth
+decent leverage in fixed investment. We are spending at a little bit above our
+depreciation-reinvestment ratio -- it's just a little bit over 1 -- but given the growth
 that we have, I think that is pretty good leverage.
 In terms of our operating cycle, we have a negative operating cycle, for those of you
 who haven't followed us too closely. And what that means for us, if you look at year-
@@ -55,7 +56,8 @@ Return on invested capital was 41% last year, down slightly -- down from the yea
 before 55%. We use what we believe to be a conservative calculation for return on
 invested capital. We use trailing 12 month free cash ﬂow divided by a five-point
 average of total assets minus current liabilities. And so the cash that we have that we
-have built up is certainly impacting that growth rate.So that's it on the results side. I just want to spend a few minutes on strategy and
+have built up is certainly impacting that growth rate.
+So that's it on the results side. I just want to spend a few minutes on strategy and
 how we think about our business. And then we will open it up to questions for Mary
 and then all of you.
 The way we think about our business, we always start with the customer first and
@@ -93,7 +95,8 @@ We also focus very heavily on our seller business. There are a number of things 
 we focus. We have a lot of programs on how do we make that experience better for
 sellers. An example of one would be Fulfilled by Amazon, where we do fulfillment for
 third parties. The benefit for them is they can focus on the other parts of their
-business and they can take advantage of our multi-node fulfillment network.Q - Mary Meeker
+business and they can take advantage of our multi-node fulfillment network.
+Q - Mary Meeker
 A - Tom SzkutakThey can also have their items eligible for Prime and Super Saver shipping, once it is
 part of our network. So it is a great benefit for sellers. It is also a great benefit for
 customers as well, because they get to buy third-party items and can take advantage
@@ -129,7 +132,8 @@ in Q4 is really around some of the things I mentioned in the opening remarks. I 
 it was -- it's focusing on the fundamentals. We have gotten much better in
 understanding -- being competitive on pricing, knowing where each product is
 competitively priced in each of the geographies that we are in. We have added a lot
-of selection.Q - Mary Meeker
+of selection.
+Q - Mary Meeker
 A - Tom Szkutak
 Q - Mary Meeker
 A - Tom SzkutakAnd we focused on in-stock levels. We want to make sure that when customers come
@@ -172,7 +176,8 @@ Yes, I think it is -- to answer your question on the third-party piece, I do thi
 important part of our model. And for a number of reasons. For the reason you
 mentioned -- we have a lot of sellers who have great prices on our detail pages. And
 we not only -- oftentimes that's incremental selection that we don't have. Many times
-it's we are competing against that as a retailer, Amazon the retailer.Q - Mary Meeker
+it's we are competing against that as a retailer, Amazon the retailer.
+Q - Mary Meeker
 A - Tom Szkutak
 Q - Mary Meeker
 A - Tom SzkutakAnd I think it is great from a customer experience standpoint to be able to come
@@ -212,7 +217,8 @@ small amount that was left. Again, we thought it was the right thing to do. We
 certainly have also purchased back shares, as well. And we thought it was the right
 thing to do.
 It is not to say we won't have debt over time. We just thought it was -- just as a
-reminder, for those of you who are not close to -- out two principle pieces of debtQ - Mary Meeker
+reminder, for those of you who are not close to -- out two principle pieces of debt
+Q - Mary Meeker
 A - Tom Szkutak
 Q - Mary Meeker
 A - Tom Szkutak
@@ -253,7 +259,8 @@ still a strong business, still the growth rates that you mentioned in a challeng
 environment, still very solid. But we are going to focus on -- like we have, we are
 going to make sure that we offer physical delivery media products, both from a retail
 perspective -- we have a very solid third-party business as well on the physical side --
-and we have the digital products, as well.Q - Mary Meeker
+and we have the digital products, as well.
+Q - Mary Meeker
 A - Tom Szkutak
 Q - Mary Meeker
 A - Tom Szkutak
@@ -293,7 +300,8 @@ So move into the digital stuff. So this is a Kindle. I read the Wall Street Jour
 Kindle. I learned that you have the Kindle available for your iPhone, for the iPhone. I
 downloaded the Kindle app on my iPhone this morning and I now have all my books
 on my iPhone. My 200-page books are now 1000 pages long. I'm not sure I'll read
-them. But I'm glad to know I have them. But the synching element is really powerful.A - Tom Szkutak
+them. But I'm glad to know I have them. But the synching element is really powerful.
+A - Tom Szkutak
 Q - Mary Meeker
 A - Tom SzkutakA couple questions. (Huawei) has the Android Phone, which has the Shop Savvy app
 that you click on Shop Savvy on any -- scan a barcode. You can do it with the Android
@@ -334,7 +342,8 @@ including, as you mentioned, we announced this morning the Kindle app on the
 iPhone and iPod Touch. And I think it is -- for Kindle users, I think it is going to be a
 great companion to the Kindle. If you think about it this way, we have something
 called Whispersync. Mary was mentioning the synchronization; it is called
-Whispersync.Q - Mary Meeker
+Whispersync.
+Q - Mary Meeker
 A - Tom Szkutak
 Q - Mary Meeker
 A - Tom SzkutakSo the benefit is if you're a Kindle owner and you are reading your book on your
@@ -373,6 +382,7 @@ to know on that piece.
 Last question from me. You have very quietly invested in phone-based customer
 service. What have you learned from it and how important is it to customer
 satisfaction and ROI -- and how actively is it used?
+
 Q - Mary Meeker
 A - Tom Szkutak
 Q - Mary Meeker
@@ -411,7 +421,8 @@ appropriately conservative with our cash during this environment. But I don't th
 we would have to retain as much cash, certainly, relative to our free cash ﬂow over
 time, for example.
 But again, we have a very high-ROIC business, given the model that we have. We are
-very pleased with that. And -- so we do think that it is possible over time to get toQ - Unidentified Participant
+very pleased with that. And -- so we do think that it is possible over time to get to
+Q - Unidentified Participant
 Q - Mary Meeker
 A - Tom Szkutak
 Q - Unidentified Participant
@@ -448,7 +459,8 @@ Let me make a clarification. We actually don't give stock options to employees.
 We give restricted stock. And if you look at our dilution, it is actually -- since 2004
 through 2008. And you could look prior to that, it is actually pretty ﬂat. And so the
 impact on free cash ﬂow as you are describing it is -- I'm not quite following it,
-because it's --Q - Unidentified Participant
+because it's --
+Q - Unidentified Participant
 A - Tom Szkutak
 Q - Unidentified Participant
 A - Tom Szkutak
@@ -485,6 +497,7 @@ your content, as Mary was talking about.
 
 But you don't have to pay the content provider an extra royalty for the second copy,
 because it is viewed as being one copy.
+
 Q - Unidentified Participant
 A - Tom Szkutak
 Q - Mary Meeker
@@ -520,7 +533,8 @@ units before versus after are 2.7 times. Excuse me -- after versus before, 2.7 t
 I'm sorry.
 Is that pretty steady as you've seen more and more data?
 
-I'm sorry -- I don't know how to answer that question.Q - Unidentified Participant
+I'm sorry -- I don't know how to answer that question.
+Q - Unidentified Participant
 A - Tom Szkutak
 Q - Mary Meeker
 Q - Unidentified Participant

@@ -21,7 +21,8 @@ be growing more than double digits across each and every single one of them. We
 tend to have the highest market share in each of these markets as well as also
 probably the best technology through and through. This has been through long
 work of really taking the GPU in the first overall killer app in terms of gaming that
-was very, very essential in terms of bringing high-end gaming to the market. But weQ - Blayne Peter Curtis
+was very, very essential in terms of bringing high-end gaming to the market. But we
+Q - Blayne Peter Curtis
 A - Colette M. Kressnow have seen so many other extremely important use cases for this as we go
 forward.
 The overall area of accelerated computing has expanded tremendously over the last
@@ -64,7 +65,8 @@ machine learning, the overall use in terms of overall inferencing, which continu
 overall expand our workloads. We have traditionally looked at 3 different types of
 markets that we have focused on in terms of data center. One, focused in terms of
 the work in terms of supercomputing, high-performance computing, the work in
-terms of WISP, CSPs and hyperscales. Those 2 have now expanded with the additionQ - Blayne Peter Curtis
+terms of WISP, CSPs and hyperscales. Those 2 have now expanded with the addition
+Q - Blayne Peter Curtis
 A - Colette M. Kress
 Q - Blayne Peter Curtis
 A - Colette M. Kressof the overall T4 to address the overall enterprise market, as we enter into
@@ -108,7 +110,8 @@ Yes, I think it's important to understand whether it be looking at a robotaxi, w
 focused on the level 4 and level 5 or looking at a level 2. What is very, very clear is
 the amount of compute that is necessary to complete either one of these sizes of
 levels in terms of autonomous vehicles. We have learned that over the years we have
-been very supportive of all of the different OEMs and the Tier 1s that are out there.Q - Blayne Peter Curtis
+been very supportive of all of the different OEMs and the Tier 1s that are out there.
+Q - Blayne Peter Curtis
 A - Colette M. Kress
 Q - Blayne Peter Curtis
 A - Colette M. KressWhat is most important is we have now an architecture, we have delivery of a full
@@ -151,6 +154,7 @@ just talking about whether it's trucking or actually last-mile delivery. Can you
 just give us -- I think there is maybe 3 silos here, there is auto, there is this kind of
 robotics, there is even health care to talk about. Can you kind of outline these
 opportunities and where you are seeing new things pop up?
+
 Q - Blayne Peter Curtis
 A - Colette M. Kress
 Q - Blayne Peter CurtisYes. We believe the world of autonomous machines, as we move forward, is going to
@@ -196,7 +200,8 @@ side, we're busily working with them.
 data center. And I've been doing (semis) a long time and I haven't seen this much
 investment in one particular area and we (do the best story) we had last month. And I
 think there's nearly 50 companies that have seen significant funding and are all
-attacking this $50 billion opportunity. I think it's also interesting, you've seen someA - Colette M. Kress
+attacking this $50 billion opportunity. I think it's also interesting, you've seen some
+A - Colette M. Kress
 Q - Blayne Peter Curtis
 A - Colette M. Kressvertical in some of your customers, Google is the first. Amazon last week had an
 announcement of a solution. And maybe can you think about -- Google is a great
@@ -239,7 +244,8 @@ launched in terms of Turing. Turing brought ray tracing to the overall gaming as
 as in terms of the overall pro visualization business. What do we mean by ray
 tracing? The overall ability for graphics to look about as real as they can is the overall
 use of light, the overall use of shadows. The better the overall lighting and shadow,
-the more three-dimensional, the more realistic those appearing.Q - Blayne Peter Curtis
+the more three-dimensional, the more realistic those appearing.
+Q - Blayne Peter Curtis
 A - Colette M. Kress
 Q - Blayne Peter CurtisWe were talking about bringing ray tracing pretty much to the same thing that we
 had done probably more than 10 years ago when we brought programmable
@@ -283,7 +289,8 @@ overall ray tracing that we can bring forth, too.
 
 We have actually a few more minutes. The other area where ray tracing you've done
 a great deal, you have pro viz and people also may not know what exactly that is. But
-(inaudible) numbers, how do you drill that down into what actually the TAM is for theA - Colette M. Kress
+(inaudible) numbers, how do you drill that down into what actually the TAM is for the
+A - Colette M. Kress
 Q - Blayne Peter Curtis
 A - Colette M. Kresspro viz? And you start talking about rendering video and such like that applications
 that you can now enable in realtime. There's probably light-feature applications

@@ -16,6 +16,7 @@ Thanks for having me. Thank you.
 We also have Simona Jankowski on the line, who you all know is VP of IR at NVIDIA.
 So I'm going to pass you over to Simona to read out the safe harbor. So Simona,
 over to you.
+
 Q - Brett Simpson
 A - Ian Buck
 Q - Brett Simpson
@@ -56,6 +57,7 @@ made you think any different about the opportunity you see ahead? When you look
 at the next sort of six to 12 months and you've got a lot of product rollouts to do, et
 cetera, but is the enterprise engagement still the same? Is the demand signal still as
 strong as you were thinking six or 12 months ago?
+
 Yeah. The foundations of who and how we engage have only grown over the last two
 years and they've remained consistent, but increasing in activity and motions. It starts
 certainly with some of the big hyperscalers doing their own work, some of the best
@@ -99,7 +101,8 @@ are doing for product development and other sorts of things. And finally, the --
 NVIDIA, ourselves are trying to move the ball forward as well. So in areas where we
 see an opportunity to move the market forward, we'll invest ourselves, and we've
 done that, particularly in the healthcare space with our Clara platform, applying AI to
-things like medical imaging or proteomics. We're also doing it in speech AI. We'veQ - Brett Simpson
+things like medical imaging or proteomics. We're also doing it in speech AI. We've
+Q - Brett Simpson
 A - Ian Bucksort of provided some foundational support in our Riva platform to help enterprises
 take advantage of end-to-end speech AI, which offers really cool abilities to do
 customization and train new models, new voices and additional things like that.
@@ -141,7 +144,8 @@ hasn't slowed down one bit, and you can see that. So many -- both major players,
 well as now start-ups, and -- are taking advantage of what these models can do. They
 are large. They tend to be -- well, previous models may focus on things like
 computer vision, understanding what is this a picture of or where in this picture is the
-stop sign. That's a capability that -- if you think about it from a first principle sort ofQ - Brett Simpson
+stop sign. That's a capability that -- if you think about it from a first principle sort of
+Q - Brett Simpson
 A - Ian Buckunderstanding perspective, it's fairly straightforward. In fact, in nature, we see
 animals and bugs and other things, have basic vision capability like that, identify the
 objects, where is it and call it out.
@@ -183,7 +187,8 @@ infrastructure depending on the model. And that's really because it was designed
 do that transformer layer that we talked about, and take advantage of reduced
 precision and mixed precision up and down the stack to still maintain the accuracy.
 It's easy to offer a bit [ph] ﬂoating point, but it's hard to make it work and work well.
-In fact, we use our Selene supercomputer to train all the different heuristics to thenQ - Brett Simpson[ph] baked it into the software/hardware of Hopper to make it successful. The other
+In fact, we use our Selene supercomputer to train all the different heuristics to then
+Q - Brett Simpson[ph] baked it into the software/hardware of Hopper to make it successful. The other
 part of Hopper that made NLPs more applicable is that we dramatically improved the
 inference performance. This is the performance that takes to run the model in
 production, not just train it but deploy it. Hopper is 30 times more faster than
@@ -225,7 +230,8 @@ building these large training clusters, large exaﬂop supercomputers. Are we he
 into a phase where the amount of people that can keep up and building these
 massive training clusters is going to consolidate down to a handful of players? Or do
 you see hundreds of potential training clusters like that getting developed? I'm just
-trying to get a sense of how that -- you see training evolving.A - Ian BuckAnd I guess part of that also, I want to come back to the services opportunity where
+trying to get a sense of how that -- you see training evolving.
+A - Ian BuckAnd I guess part of that also, I want to come back to the services opportunity where
 you can license a pre-trained model. Is that going to be where a lot of enterprises
 get involved in AI rather than train everything from the ground up, they will license
 something that's been pre-trained and they'll pay a services fee for that rather than
@@ -267,7 +273,8 @@ industries.
 And it's broad. It's not just the largest of largest models, those are the ones that tend
 to get all the excitement and press certain capability. But designing models, new
 kinds of models that can do different kinds of workload foundation level requires
-some level of infrastructure at some scale.Q - Brett Simpson
+some level of infrastructure at some scale.
+Q - Brett Simpson
 A - Ian BuckThen the second part, of course, is the -- applying these -- taking these foundation
 models and applying to different use cases and businesses, and we certainly see that
 in things like speech AI where you have a foundational model that's trained on
@@ -310,7 +317,8 @@ to look at it is there's a logical case to me that every server inside of a hype
 data center should be accelerated at some level because they're all operating on the
 data either ﬂowing in or out of the data center or east-west within the data center.
 And each -- every bit of that data logically should be interpreted, understood by an
-AI to make an insight and to improve the function and operation of that data centerand what it's trying to do and impact the outcome results. Today, probably less than -
+AI to make an insight and to improve the function and operation of that data center
+and what it's trying to do and impact the outcome results. Today, probably less than -
 - around less than 10% of the hyperscale data center is accelerated. And what's
 preventing that -- what causes that growth is just more people identifying the
 capability of how AI could impact or improve that part of the workﬂow, that part of
@@ -352,7 +360,8 @@ you leveraging AI to make my business run better as a service or incorporated in
 the services they already have? So we're already at the stage where a lot of the
 baseline functionality capability, obviously, the operations of enterprises are served
 by the major enterprise ISVs. They're all trying hard right now, and some have or
-others are doing it now, activating AI in their foundational enterprise software stacks.Q - Brett Simpson
+others are doing it now, activating AI in their foundational enterprise software stacks.
+Q - Brett Simpson
 A - Ian BuckAnd with that, we'll grow the -- they'll get faster, more eﬃcient and you'll see more
 adoption of GPUs across the cloud data centers as well as the on-prem offerings so
 that those companies can run those workloads eﬃciently, low as possible latency in
@@ -396,7 +405,8 @@ way down to the embedded space, which is measured in single-digit watts, and
 that's being deployed for edge kind of use cases even down to conference room or
 telco kind of applications of robotics. And then you go all the way up to servers that
 are explicitly designed for doing computing at scale, and you can see that in our
-HGX and DGX solutions.Moving forward, I think the -- what's interesting is this just trend toward the data
+HGX and DGX solutions.
+Moving forward, I think the -- what's interesting is this just trend toward the data
 center as the unit of compute. And people are not just looking at servers or
 components or chips in order for the advancements in computing an AI and I think
 they are looking at the entire data center and how they can optimize the entire data
@@ -439,7 +449,8 @@ gigabytes a second, between 50 and 100, we're getting 900 with Grace Hopper and
 it's fully coherent. So this GPU can now operate on the entire data that's contained in
 the entire server, all of both the CPU and (inaudible) GPU memory. What that really
 makes it allow us to do is work on those largest of models like we talked about, you
-basically have it for operating at a different scale, and we're seeing some interest inQ - Brett Simpson
+basically have it for operating at a different scale, and we're seeing some interest in
+Q - Brett Simpson
 Q - Jim Fontanelli
 A - Ian BuckGrace Hopper for doing those large-scale recommenders and deploying large-scale
 NLPs. The rest of the market is going to -- obviously, has been well optimized to run
@@ -481,7 +492,8 @@ hyperscale data center because once they deploy at scale, it's fire and forget, 
 data centers are massive. And the way they execute at scales to make sure they have
 the best possible quality and test it out to work at scale. So that will happen all
 throughout 2023 and expecting A100 to continue on to 2024 as well, but it will
-slowly blend over. And we saw that before with the A100, we'll see it again. OfQ - Brett Simpson
+slowly blend over. And we saw that before with the A100, we'll see it again. Of
+Q - Brett Simpson
 A - Ian Buck
 Q - Brett Simpson
 Q - Jim Fontanelli
@@ -523,7 +535,8 @@ figure out how to adopt the technology for their use case. NVIDIA, we can only -
 can provide those platforms, in some cases, the vertical platforms like we do with
 Clara or in Merlin for Recommender Systems or Maxine for teleconference and
 communications. Those again are not in product solutions all the way. They provide a
-foundational layer that allows the enterprise to meet that (inaudible) gap.Q - Brett Simpson
+foundational layer that allows the enterprise to meet that (inaudible) gap.
+Q - Brett Simpson
 A - Ian Buck
 Q - Brett Simpson
 A - Simona Jankowski

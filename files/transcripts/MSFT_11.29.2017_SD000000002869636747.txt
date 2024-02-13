@@ -16,7 +16,8 @@ Sure. Thanks. Well the simplest way to describe me, Michael, I think is that I'm
 CFO for the commercial business, which includes our Cloud business. And that cuts
 across Cloud and Enterprise and Oﬃce and Artificial Intelligence and Research and
 many other areas. So that's my current role. Came in to Microsoft through the
-acquisition of Great Plains many years ago, worked in the Dynamics business for aQ - Michael Barry Nemeroff
+acquisition of Great Plains many years ago, worked in the Dynamics business for a
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -57,7 +58,8 @@ wasn't. It was more over the course of a few years. I do think we're in a better
 position than we were. So if there is an incentive of the new age, I just think we're
 better positioned. We're better positioned in the cloud. We're better positioned
 even in SaaS, in the Oﬃce 365 offerings. And so overall, I think the company is better
-positioned for growth than it was five years ago.Q - Michael Barry Nemeroff
+positioned for growth than it was five years ago.
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -99,7 +101,8 @@ And it took us a while to get our sales force there. But I feel like the sales f
 figured it out. And we're able to articulate the value prop better. We work -- I
 personally work very closely with many of the big deals that we -- with customers.
 And so I think we're closer to the customer. We have the value prop down, the
-services better. I think all of that adds up to faster growth.Q - Michael Barry Nemeroff
+services better. I think all of that adds up to faster growth.
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -140,7 +143,8 @@ could grow faster...
 
 The cannibalization.
 Cannibalization. And we've seen -- the Windows server as an example, we've seen a
-lot of our on-prem products continue to grow while we're also growing the cloudQ - Michael Barry Nemeroff
+lot of our on-prem products continue to grow while we're also growing the cloud
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -183,7 +187,8 @@ through some nasty transition, just bailing into the cloud. So I think there is 
 company on the planet that has that array of offerings that we have.
 
 As you talk to some of the large customers who are -- that are moving some of their
-workloads to the cloud, what are the demand drivers of the shift to the cloud thatA - David M. O'Hara
+workloads to the cloud, what are the demand drivers of the shift to the cloud that
+A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
@@ -222,7 +227,8 @@ guys -- when you're out in the field, how do you differentiate from the other cl
 offerings other than just the hybrid cloud approach?
 Yes. And I think -- hybrid has been a lead story for us and I think will continue to be a
 lead story for us. Price is always a factor when you're out competing in this -- we've
-made some public statements that we're going to be a price matcher in. So we'reQ - Michael Barry Nemeroff
+made some public statements that we're going to be a price matcher in. So we're
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -262,7 +268,8 @@ continue for.
 You mentioned earlier that you see your legacy products as an asset. What's
 interesting is the durability of the server products over the last couple of years. How
 do you see that continuing to evolve? And do you see that durability continuing in
-the server business?A - David M. O'Hara
+the server business?
+A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry NemeroffWell yes. I mean -- so I would just say that I -- we'll continue to support those server
@@ -305,6 +312,7 @@ now as it sort of starts to ﬂatten out, you're just seeing the benefits of sca
 engineering driving cost eﬃciencies. And so I think we'll continue to see some of the
 benefits from the engineering investments that we made. And we'll continue to see
 some of the investments from the global expansion that we made.
+
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -345,7 +353,8 @@ willing to make. And that might swing it a little bit the other way. But I would
 over time, we'll continue to see good improvement in cloud gross margin.
 
 I'm sure as a CFO, you look at your competitors' margins and their businesses and
-say, okay, how can I do as good if not better? AWS, industry-leading margins rightA - David M. O'Hara
+say, okay, how can I do as good if not better? AWS, industry-leading margins right
+A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroffnow in the public cloud business. Is there any reason why you couldn't match or
@@ -389,6 +398,7 @@ playbook is keep offering SKUs, use the Oﬃce strategy to break into new market
 and do it at a very cost-competitive way. So how high is up? It's really dictated by
 how innovative can we be? What's E next look like? We have E3 and E5, what's E
 next and what are those offerings?
+
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -428,7 +438,8 @@ LinkedIn and the data that that's going to provide? What are some of the things 
 you guys are working on to really pour some gas on the fire in the Dynamics
 business?
 Yes. I think Dynamics -- and Satya would say Dynamics as a company is our biggest
-opportunity for growth. And I think it's -- candidly, it's also -- again, very CFO'sQ - Michael Barry Nemeroff
+opportunity for growth. And I think it's -- candidly, it's also -- again, very CFO's
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Haraperspective. But it's the biggest opportunity for good, healthy gross margin. So we
@@ -471,7 +482,8 @@ margins in that business, in the Oﬃce business? And when do you get there with
 your scale in the cloud?
 Yes, yes. I mean, I feel like the Oﬃce business is a pretty scaled business right now.
 There are still benefits of scale that we can achieve with Oﬃce. But if the -- and you
-pointed out earlier, over half of our customers are now cloud customers. That's aQ - Michael Barry Nemeroff
+pointed out earlier, over half of our customers are now cloud customers. That's a
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -512,7 +524,8 @@ technologies, I mean, you really got to sort of stare into the investment and sa
 ready for this? And so there just aren't that many companies that literally can afford
 to do it, much less have the fortitude to do it. And so I think the folks who win in AI
 will be the ones who are willing to make the big investment and who are willing to
-innovate, both on hardware and the software side. And we're making investments inQ - Michael Barry Nemeroff
+innovate, both on hardware and the software side. And we're making investments in
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Haraboth those. We're also seeing some companies out of China that are leaning in
@@ -555,7 +568,8 @@ product group, we move it closer toward a monetization model. And so we -- I rea
 look at it and say -- as the CFO, I look at it and say, is that something somebody
 would be willing to pay for? And whether that's a year down the road or three years
 down the road, I think that matters. But it matters less. It more like are we really
-adding value to customers. So we have the pure MSR research piece that is doing aQ - Michael Barry Nemeroff
+adding value to customers. So we have the pure MSR research piece that is doing a
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -596,7 +610,8 @@ that Oﬃce, that base of Oﬃce customers, that's going to give them the collab
 they need.
 
 And that comes bundled in with some of the higher-priced tiered offerings. Have
-you been tracking usage? I'm sure that that's still a problem.Q - Michael Barry Nemeroff
+you been tracking usage? I'm sure that that's still a problem.
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Hara
@@ -634,7 +649,8 @@ or product, how has the partner ecosystem changed over the last couple of years?
 And where do you see it over the next couple of years?
 Yes. The partner ecosystem has -- in some ways -- I'm trying to figure out the best
 word. In some ways, they're hungrier, right? Because they know that they just need
-to keep paying the bills every day. And so they want that innovation and they wantQ - Michael Barry Nemeroff
+to keep paying the bills every day. And so they want that innovation and they want
+Q - Michael Barry Nemeroff
 A - David M. O'Hara
 Q - Michael Barry Nemeroff
 A - David M. O'Harathat newness. And the partner ecosystem has shown an amazing propensity for

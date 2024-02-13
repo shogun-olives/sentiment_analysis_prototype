@@ -21,7 +21,8 @@ decision to actually take our CUDA developmental language and make it available
 on every single one of our GPUs. At that time, people couldn't understand the need
 for that overall compute language, how would we be able to get it in the hands of
 many. And here we are 10 years later. So over those 10 years, we've been able to
-train, teach, instruct many people from research, higher education and folks that areQ - Atif Malik
+train, teach, instruct many people from research, higher education and folks that are
+Q - Atif Malik
 A - Colette M. Kressnow currently out in the enterprise, those that are in some of our key hyperscales of
 the use and how to program on a GPU. Those were some of the initial building
 blocks that we used to what has now formed in terms of a very important AI
@@ -68,7 +69,8 @@ are occurring overall in our overall Datacenter business. These are things such 
 You have researchers that are opening up instances that they are able to use all
 different types of frameworks and start working with applications. Key applications
 that you are seeing are things such as video encoding, things with natural language
-processing, voice translation are very common types of things as well as imageQ - Atif Malik
+processing, voice translation are very common types of things as well as image
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malikcategorization and detection. Initially, with just that from an AI, you also have high-
 performance computing in the cloud. This is, again, the roots of our business and
@@ -114,6 +116,7 @@ a cost improvement in terms of the overall infrastructure that they can see for 
 workloads. Additionally, they can complete the work tremendously faster. And we
 can do these higher-end types of calculations that are necessary with our AI
 workloads.
+
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. KressOkay. NVIDIA has talked about a $30 billion data center opportunity with inference
@@ -160,7 +163,8 @@ Sometimes those are the same, sometimes those are different. Some of our
 hyperscales are purchasing for their internal applications and essentially every
 hyperscale, large hyperscale on the planet is definitely one of our customers.
 Additionally, the cloud service providers are also a key part of that. But then that now
-moves into very important industries that may be using the GPUs in a cloudQ - Atif Malik
+moves into very important industries that may be using the GPUs in a cloud
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kressenvironment internally on their premises. We see places such as oil and gas,
@@ -205,7 +209,8 @@ So our Second Quarter was an important quarter for us. At the very beginning of 
 quarter, we announced Volta at our GTC. We dazzled many with the excitement over
 the performance improvement over Pascal. And I think most of expectations were it
 would take us some time to actually get into full production. Within Q2, we got to full
-production of Volta. We shipped a material amount of Volta within the quarter andQ - Atif Malik
+production of Volta. We shipped a material amount of Volta within the quarter and
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kresssome of that you will see rolling out in our cloud service providers or with our
@@ -250,7 +255,8 @@ Okay. And can you talk about the units of these key dynamics between the desktop
 and the thin/light notebook market?
 
 Yes. So when you think about what we're seeing right now in terms of a trend of
-gaming is the overall mobility of gaming. Gamers like to game everywhere, whetherQ - Atif Malik
+gaming is the overall mobility of gaming. Gamers like to game everywhere, whether
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kressthat be in the backseat of the car, whether that be taken to the friend's house,
@@ -295,7 +301,8 @@ overall price of Ethereum, one of the most popular cryptocurrencies, was very, v
 high. And so what you had seen in some of those shortages is there was a possibility
 in terms of some of the gaming cards that they might have bought as well. But we
 covered most of cryptocurrency with our cryptocards that we had developed and
-that was probably about $150 million in our quarter. So our statement that we haveQ - Atif Malik
+that was probably about $150 million in our quarter. So our statement that we have
+Q - Atif Malik
 A - Colette M. Kressmade is, although it peaked a lot in Q2 and has come down and we'll probably see a
 residual amount in our Q3 or Q4 as we move forward, cryptocurrency is here to stay.
 The markets the world is demanding wants to see cryptocurrency. This one may have
@@ -342,7 +349,8 @@ compares to our overall AI solutions in terms of what we're seeing. There's othe
 people focused in the markets that may have microprocessors and those may be
 available for Level 2 or for connectivity. But again, most car companies really have
 focused on the significant amount of compute that is necessary and are looking for
-higher level types of compute to do that.Q - Atif Malik
+higher level types of compute to do that.
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 Q - Unidentified Participant
@@ -383,7 +391,8 @@ problems to solve in there that a GPU would be best engineered to do. So our M&A
 has mainly been focused on small, medium types of teams that we have bought,
 early-stage types of businesses that can be well inﬂuencing on some of the
 businesses that we've already established. I think that is consistent with what we may
-see going forward. As much as we want to think about something to bolt with moreQ - Unidentified Participant
+see going forward. As much as we want to think about something to bolt with more
+Q - Unidentified Participant
 A - Colette M. KressAI power, there is not a lot of large AI out there to do. So we will continue probably
 in the range of small and medium to do going forward.
 You guys are doing a lot of things so well. You're growing revenues over 50%-ish,
@@ -429,7 +438,8 @@ at a reasonable rate. And we still buy back our shares in opportunistic times to
 So I think those are our key areas of how we think about our return. And even
 through the use of that overall capital, yes, we've continued to improve our margins.
 The margin is not just focused on a gross margin perspective but focused on an
-operating margin perspective. And that's going to be, probably, the key metric thatQ - Unidentified Participant
+operating margin perspective. And that's going to be, probably, the key metric that
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kresswe think about going forward. Operating margin is more aligned to a platform

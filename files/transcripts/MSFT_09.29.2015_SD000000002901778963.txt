@@ -8,7 +8,8 @@ During this call, we will be making forward-looking statements, which are
 predictions, projections or other statements about future events. These statements
 are based on current expectations and assumptions that are subject to risks and
 uncertainties. Actual results could materially differ because of factors discussed in
-today's conference call. And in the risk factors section of our Form 10-K, Form 10-Q.Frank BrodAnd other reports and filings with the Securities and Exchange Commission. We do
+today's conference call. And in the risk factors section of our Form 10-K, Form 10-Q.
+Frank BrodAnd other reports and filings with the Securities and Exchange Commission. We do
 not undertake any duty to update any forward-looking statement.
 Yesterday afternoon we announced our new reporting segments. On our call today,
 we will review these segments in more detail. And also discuss what you should
@@ -47,7 +48,8 @@ commercial customers.
 Our second segment is Intelligent Cloud, which reports on our ambitions to build
 the intelligent cloud platform. With our core infrastructure, data platform and server
 application, both on premise and in the cloud, we will provide our customer with
-improved agility and insight. And solutions that they can use to differentiate theirChris Suhbusiness. As applications are developed on our cloud platform they are able to
+improved agility and insight. And solutions that they can use to differentiate their
+Chris Suhbusiness. As applications are developed on our cloud platform they are able to
 attach our differentiated solutions for identity and data management, as well as
 machine learning and advanced analytics.
 Our third segment is aligned with our ambition to create more personal computing.
@@ -85,7 +87,8 @@ of the revenue was from the sale of Windows, primarily through our OEM partners.
 And about 10% was from the licensing of Windows phone and related intellectual
 property. All of this revenue will now be reported in the More Personal Computing
 segment. The exception is revenue from the traditional licensing of Oﬃce Consumer,
-which will now be reported in the Productivity and Business Processes segment.On slide 7, revenue from our two hardware segments, Computing and Gaming
+which will now be reported in the Productivity and Business Processes segment.
+On slide 7, revenue from our two hardware segments, Computing and Gaming
 Hardware. And Phone Hardware, will all be reported in More Personal Computing.
 Moving to slide 8, the Devices and Consumer Other segment was primarily
 comprised of Search and Display Advertising, Xbox LIVE and 1st Party Games. And
@@ -125,7 +128,8 @@ On slide 12, you'll first notice that we've designated a set of metrics that cov
 commercial business results across Microsoft. This is in addition to specific metrics
 within each reporting segment that are also commercial oriented. I want to
 emphasize the insight and transparency into the performance of our commercial
-business that we will provide. Though we no longer have specific commercialsegments, we have updated our metrics to more easily communicate the health of
+business that we will provide. Though we no longer have specific commercial
+segments, we have updated our metrics to more easily communicate the health of
 our entire commercial billing cycle, including commercial bookings, unearned
 revenue, contracted not billed. And commercial annuity revenue mix.
 Next, we'll continue to publish a set of segment-specific metrics. Since many of these
@@ -164,7 +168,8 @@ report our First Quarter FY16 results. And these results will be presented in ou
 new reporting segments. This includes all filings, commentary. And any forward-
 looking guidance.
 To ease the transition and bridge back to any forward-looking statements that we
-made last quarter, we will provide a supplemental table of the Q1 results in the oldOperator
+made last quarter, we will provide a supplemental table of the Q1 results in the old
+Operator
 Q - Mark Moerdler
 A - Frank Brod
 A - Chris Suhsegment view as well. In late October, we anticipate filing an 8-K to recast previously
@@ -202,7 +207,8 @@ cloud gross margin in periodic points when we reach milestones and that is how I
 anticipate we will talk about it going forward. We do anticipate that we continue to
 make forward progress in improving that gross margin. And as we hit relative
 milestones we'll continue to talk about it to the extent that they are driving our
-performance results.Q - Mark Moerdler
+performance results.
+Q - Mark Moerdler
 Operator
 Q - Daniel Ives
 A - Chris Suh
@@ -239,7 +245,8 @@ would still think about the oﬃce commercial business a little bit differently 
 oﬃce consumer internally. So are going to get any updates on that? Or within the
 productivity bucket, any idea of what percentage of that is more annuitized because
 actually you've got, we had the annuity breakout of commercial. And now
-commercial is spread across a couple buckets? So mainly just trying to get a sense ofA - Chris Suh
+commercial is spread across a couple buckets? So mainly just trying to get a sense of
+A - Chris Suh
 Q - Kirk Materne
 Operator
 Q - Michael Turits
@@ -279,7 +286,8 @@ giving guidance with each segment, the revenue guidance for each segment. And
 we gave previously COGS number for the entire company all up, as well as
 operating expenses all up. I do anticipate that we will follow a similar structure. And
 you'll hear more from us on October 22 when we talk about the First Quarter as well
-as any forward-looking statements.Q - Michael Turits
+as any forward-looking statements.
+Q - Michael Turits
 A - Chris Suh
 OperatorThen to your second question in terms of our cloud performance versus our on-
 prem performance, there's two ways that I think you'll be able to get transparency on

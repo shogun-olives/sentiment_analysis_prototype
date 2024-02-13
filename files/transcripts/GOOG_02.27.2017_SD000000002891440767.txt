@@ -19,7 +19,8 @@ have you here. And thank you so much, Ruth.
 Thank you. It's great to be back.
 
 A lot of questions, always a lot of things going on with Alphabet. I wanted to start
-with a high-level one just to take us back a little bit over the last couple of years.Ruth Porat
+with a high-level one just to take us back a little bit over the last couple of years.
+Ruth Porat
 Brian Nowak
 Ruth PoratStarting a new job is always a challenge. You almost have two years now in the role at
 Alphabet. And I guess I'd be curious to hear about how your perspective, your daily
@@ -61,7 +62,8 @@ data from last year underscores that that was a really fair assessment. When you
 about it, we had 24% revenue growth in 2016 on a fixed FX basis, from $75 billion in
 revenues up to $90 billion in revenues. And sitting here today as we look out, I
 would say we almost have greater confidence about the upside across the various
-areas.Brian Nowak
+areas.
+Brian Nowak
 Ruth PoratSo Mobile Search continues to grow. The Assistant, we feel we've just started to
 scratch the surface of what the Assistant can do for you. YouTube, again, increasing
 user consumption. If you look at what machine learning is doing, not just within the
@@ -102,7 +104,8 @@ forward?
 
 That's a great question, because it really does go to how early we are. And that's, the
 Sites revenue growth, is obviously driven by Mobile Search and YouTube as we've
-talked about quarter after quarter. And so if you try and focus in on the biggestBrian Nowak
+talked about quarter after quarter. And so if you try and focus in on the biggest
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Poratdrivers of that, I would say one is we're riding a secular wave here, just the
@@ -141,7 +144,8 @@ by your kid. But what we're seeing with YouTube video is when you couple that wi
 Chromecast, the fastest-growing segment is actually the living room. And so what
 people are doing is moving quickly from voice into other surfaces. And our view is
 that having the ability to move seamlessly across all of these various areas will
-continue to be a critical determinant.Brian Nowak
+continue to be a critical determinant.
+Brian Nowak
 Ruth Porat
 Brian NowakAnd when you take what we bring to bear, again going back to machine learning,
 with our natural language capabilities and you layer on top of that image recognition
@@ -180,6 +184,7 @@ connected on all of the things that one loves on YouTube has been really importa
 And much of this -- I keep coming back to machine learning. But machine learning
 continues to be a really valuable component of the offering, making sure that we're
 serving you and what you want, building off of the types of things that you consume.
+
 Ruth Porat
 Brian Nowak
 Ruth PoratAs part of what I consume, on the last conference call, Sundar mentioned that you
@@ -219,7 +224,8 @@ our growth rate. And this is very much about looking for long-term revenue and
 earnings growth. And even though businesses other than desktop will compress
 margins, when you look at what's the long-term revenue growth, the earnings
 growth. And profit dollars, that's what we will keep coming back to. And we're
-excited about the opportunities that we have out there.Brian Nowak
+excited about the opportunities that we have out there.
+Brian Nowak
 Ruth Porat
 Brian NowakThat's sort of the long-term view. There is one thing just to note, which I did
 comment on in the Fourth Quarter call, as you're looking at your First Quarter
@@ -260,6 +266,7 @@ into a broader execution.
 We obviously have talked also about driving down hardware costs and some of the
 progress on cars. But each one of these elements is a marker along the way to what
 we view as really sizable opportunities.
+
 Ruth Porat
 Brian Nowak
 Ruth PoratMakes sense. Google Cloud, GCP, one of the big opportunities that's still in the core
@@ -302,7 +309,8 @@ Well so Diane has been very strategic and targeted in using M&A, filling in, in 
 places. But more broadly, we view M&A as a very valuable complement to all that we
 do organically. It's not lost on us that three of our seven properties with over a billion
 users came to us through acquisition -- YouTube, Android. And Geo. Then on top of
-that, DoubleClick has been and continues to be a really important centerpiece for allBrian Nowak
+that, DoubleClick has been and continues to be a really important centerpiece for all
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Poratthat we're doing in programmatic. So we look at what we've been able to
@@ -342,7 +350,8 @@ thing we remain focused on. But when you look at the incredible progress that th
 team has made, the level of disengagement and again, all reﬂected in the safety
 report, we're really pleased with the work they've done there. Our CEO, John Krafcik,
 has spoken about hardware costs and the amount of expense there and driving
-expenses down. So that was another element of it, has made tremendous progressBrian Nowak
+expenses down. So that was another element of it, has made tremendous progress
+Brian Nowak
 Ruth Porat
 Brian Nowakwith FCA and continuing to push the opportunity with the car. So we just kind of
 looked across the set and say it's reached a certain level of development where it's
@@ -382,7 +391,8 @@ execute on what is a long-term growth plan.
 Alphabet has a very strong balance sheet and cash balance. You've authorized about
 $7 billion in share repurchases. How are you thinking about capital allocation
 strategy going forward? And talk about the potential or the idea of either increasing
-debt capacity or maybe eventually doing a dividend.Ruth Porat
+debt capacity or maybe eventually doing a dividend.
+Ruth Porat
 Brian Nowak
 Ruth Porat
 Well the approach to capital allocation hasn't changed since I articulated it on our
@@ -421,7 +431,8 @@ we're doing. We maintain over 30 MRC accreditations, including AdWords, YouTube.
 And DoubleClick. And we're currently in the process of accrediting and auditing
 third-party viewability integrations on YouTube via the MRC. And we think that's
 going to add further assurance to all that we're doing. We do set a high bar on all
-the metrics that we provide to advertisers. And we're continuing to invest here.Brian Nowak
+the metrics that we provide to advertisers. And we're continuing to invest here.
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Q - Unidentified Participant
@@ -461,7 +472,8 @@ And some of the opportunities that kind of pop up where there may be nice projec
 or products and you start to see the fully loaded costs and the question is, over the
 near to long term, is that the highest and best use of resources? Are there other
 places that we should be applying them? And my view, very strongly -- our view, very
-strongly -- is anchor decisions in data. And you're going to make sharper decisions.A - Brian Nowak
+strongly -- is anchor decisions in data. And you're going to make sharper decisions.
+A - Brian Nowak
 Q - Unidentified Participant
 A - Ruth Porat
 A - Brian Nowak
@@ -501,7 +513,8 @@ acquisitions going forward?
 Again, I'm not sure I have much to add other than what I said. I think that we are
 open to making smart moves that support growth in the business and that are
 consistent with core competencies so that we're actually adding value to anything
-that we bring on or it fits elegantly within what we're doing. Acquisitions have beenA - Brian Nowak
+that we bring on or it fits elegantly within what we're doing. Acquisitions have been
+A - Brian Nowak
 A - Ruth Poratan important part of our success, as I've already said. Some of our anchor tenants
 came through acquisitions. So we've got a great team that looks at them when they
 cross the platform and are open. But we think that it's appropriate, just because we

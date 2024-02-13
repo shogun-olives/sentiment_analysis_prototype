@@ -37,7 +37,8 @@ NVIDIA AI and accelerated computing to Arm, the world's most popular CPU, and
 offer our architecture to Arm's vast ecosystem. Simply, we are building the
 computing company for the age of AI.
 We're focused on five major domains. The applications in each domain share
-similarities now within use cases, system platforms, ecosystems or end market.Despite domains, our NVIDIA RTX, NVIDIA HPC and NVIDIA AI and NVIDIA
+similarities now within use cases, system platforms, ecosystems or end market.
+Despite domains, our NVIDIA RTX, NVIDIA HPC and NVIDIA AI and NVIDIA
 Enterprise AI and NVIDIA Edge AI. Let me say a few words about each one of them.
 NVIDIA RTX is inventing the future of graphics and digital world. RTX is a massive
 endeavor, reinventing real-time graphics, requiring us to fundamentally change
@@ -74,7 +75,8 @@ services. This is the iPhone moment for the world's industries.
 AI will automate the world's largest industries. Breakthroughs in AI have made the
 automation software possible. NVIDIA enterprise AI is about helping companies
 build modern, secure NVIDIA accelerated data centers and offering the software
-platforms to help each major industry apply AI. Manuvir will talk about NVIDIA EGXenterprise, the new NVIDIA BlueField data center infrastructure on a chip platform
+platforms to help each major industry apply AI. Manuvir will talk about NVIDIA EGX
+enterprise, the new NVIDIA BlueField data center infrastructure on a chip platform
 and our vision for enterprise AI.
 NVIDIA edge AI is about helping companies build modern, secure NVIDIA
 accelerated edge data centers in a box with software stacks that let customers
@@ -112,7 +114,8 @@ created in service of our nearly 2.5 million developers, researchers, software
 companies who accelerated the 1,800 applications for the billions of computer users,
 the global computer makers, cloud service providers, solution partners, the 6,500
 startups in the inception. We built GTC for them. We built -- our SDKs for them and
-serviced them. They are what GTC is all about.Paresh KharyaTo tell you more about our announcements on GTC, we've got some very special
+serviced them. They are what GTC is all about.
+Paresh KharyaTo tell you more about our announcements on GTC, we've got some very special
 speakers lined up for you guys. So let me first introduce Paresh Kharya to tell you
 about NVIDIA AI. Paresh?
 
@@ -151,7 +154,8 @@ to power their search.
 AI needs GPUs both for training and inference. Our Ampere architecture delivered
 for the first time a unified platform for AI training and AI inference. It provided 20
 times higher performance, a unified computing architecture for data analysis,
-preventing [ph] an inference and with multi-instance GPU the ability to scale down times in a single server. This is the reason why it was picked up so readily by the
+preventing [ph] an inference and with multi-instance GPU the ability to scale down
+ times in a single server. This is the reason why it was picked up so readily by the
 industry.
 A100, as Jensen talked about, has had the fastest ramp of any data center GPU in our
 history. Shortly after Jensen announced it in May, over 50 different server models
@@ -191,7 +195,8 @@ different industries and use cases. This helps democratize the complex AI
 development pipeline and help the enterprises jump-start the adoption of AI for
 their use cases. And our application frameworks target some of the most challenging
 AI applications in large markets, like self-driving cars, robotics, drug discovery,
-conversational AI, and recommendation systems. The scale of inﬂuence on the cloudis huge, and we are just at the starting point of AI infused services. So opportunities
+conversational AI, and recommendation systems. The scale of inﬂuence on the cloud
+is huge, and we are just at the starting point of AI infused services. So opportunities
 to service inference is massive. Running AI inference on NVIDIA is the most
 performant and cost effective and so we continue to see a rapid shift to inﬂuence
 running on NVIDIA GPUs.
@@ -231,7 +236,8 @@ for Tencent.
 While I talked about just a handful of customers of NVIDIA AI Inference, today
 NVIDIA AI Inference is operating services for companies in a broad range of
 industries from automotive to consumer Internet to cloud-based companies to
-robotics, medical, retail and financial services, industrial customers and so on. InManuvir Dasmany cases, only NVIDIA AI Inference makes it possible to deploy advanced AI for
+robotics, medical, retail and financial services, industrial customers and so on. In
+Manuvir Dasmany cases, only NVIDIA AI Inference makes it possible to deploy advanced AI for
 production use cases and in all cases it saves money for customers. NVIDIA
 accelerated AI Inference adoption has reached the tipping point.
 With that, I would like to hand over to our next speaker, Manuvir Das.
@@ -269,7 +275,8 @@ defined security, infrastructure management, these are typically deployed in a l
 like a hypervisor. A great example of this is VMware, which is used by almost every
 enterprise customer for their virtualized environment. Every one of these servers is
 connected to the data center network, communicating and moving data between
-one server to another. This is accomplished with a network interface cards or NIC.As you know, NVIDIA is now working with Mellanox as well as part of our family.
+one server to another. This is accomplished with a network interface cards or NIC.
+As you know, NVIDIA is now working with Mellanox as well as part of our family.
 Mellanox has worked on the ConnectX family of mix for many years now, which are
 state-of-the-art in terms of mix that transfer data across the data center and they are
 equipped with powerful acceleration engines to make the networking and IO
@@ -312,7 +319,8 @@ too as our ﬂagship DPU for this purpose. It provides a variety of acceleration
 for different functionality to do with IO storage, security. It's got 7 billion transistors
 on it. To give you one example of the power of this technology, if you consider the
 different activities performed by the DPU and you were to perform them on the host
-CPU, you would require upwards of 125 x86 cores to perform the same functionality,which is not really practical and here again is the reason why we believe that as
+CPU, you would require upwards of 125 x86 cores to perform the same functionality,
+which is not really practical and here again is the reason why we believe that as
 computing moves forward every server will be equipped with one of these GPUs to
 make all of this processing feasible. Now as we move forward with our journey on
 GPUs at NVIDIA, we introduced the CUDA platform, which was the software
@@ -353,7 +361,8 @@ today typically live within a layer like a hypervisor. And as NVIDIA and VMware 
 announced over the last few days, we have a major new partnership with VMware to
 bring this to the enterprise customer base. As you know, the majority of enterprise
 customers today use the VMware platform for their virtualized data centers. What we
-are announcing and the work we are doing together is to take that VMware platformJustin Boitanoand to move its functionality onto this NVIDIA Bluefield DPU so that the host CPU
+are announcing and the work we are doing together is to take that VMware platform
+Justin Boitanoand to move its functionality onto this NVIDIA Bluefield DPU so that the host CPU
 can be freed up to perform and run more of the applications.
 At the same time, we have also announced a partnership with VMware to bring
 accelerated AI applications to the VMware platform so that we can truly democratize
@@ -391,7 +400,8 @@ immediate. The software powering this new Internet will not be written by humans
 but by computers learning from the data. This new way of computing is called AI.
 And the edge of AI is about driving tremendous acceleration -- is driving
 tremendous acceleration in demand for computing, precisely the time that Moore's
-Law has slowed down, and this requires a new approach in computing as legacyarchitectures just can't keep up. NVIDIA's accelerated computing platform is really
+Law has slowed down, and this requires a new approach in computing as legacy
+architectures just can't keep up. NVIDIA's accelerated computing platform is really
 the platform that will power the future of every industry.
 Today we made several new announcements with the NVIDIA EGX Edge AI platform.
 The EGX -- NVIDIA EGX is designed to make it easy for the world's enterprises to
@@ -430,7 +440,8 @@ and refine the EGX edge AI platform. Previously we spoke about how we're working
 with leading companies like Wal-Mart, Procter & Gamble, BMW and Siemens to
 bring a range of new -- in the -- to bring AI to a range of industries, to drive higher
 business eﬃciency and -- but let me highlight a few more that we've announced
-today.Kimberly PowellKION Group is the largest logistics and automation supply chain solutions provider
+today.
+Kimberly PowellKION Group is the largest logistics and automation supply chain solutions provider
 globally and operates over 6,000 automated warehouses worldwide. With the Matic
 [ph], they're developing smart cabinets and adaptive speed conveyors to increase
 distributions in our eﬃciency and throughput. We feel they are developing
@@ -469,7 +480,8 @@ never been more critical and today the healthcare industry is producing more
 biomedical data in a couple of months than the last several hundred years. This is a
 perfect storm to catalyze AI in drug discovery. This is why we're so excited to
 announce NVIDIA Clara Discovery, a suite of state-of-the-art tool to tackle the most
-pressing and future challenges in drug discovery.The end-to-end drug discovery process is incredibly complex starting with biology
+pressing and future challenges in drug discovery.
+The end-to-end drug discovery process is incredibly complex starting with biology
 to understand human disease and why we get sick in the first place, then to
 chemistry to combine molecule that can inhibit or enhance biological behavior next
 to patients and uncovering biomarkers that are the medical science associated with
@@ -511,7 +523,8 @@ discovery for years using genomics to improve target selection early in the drug
 discovery process and a recently established GSK's London based AI hub. GSK and
 NVIDIA together will expand the use of biomedical data in the field of digital
 pathology, radiology, genomics, natural language processing using Clara Discovery
-to optimize computational discovery applications. In addition to GSK's investment inColette KressDGX A100 system, GSK will also be able to access NVIDIA's new Cambridge-1
+to optimize computational discovery applications. In addition to GSK's investment in
+Colette KressDGX A100 system, GSK will also be able to access NVIDIA's new Cambridge-1
 supercomputer.
 And just to conclude, we are in a perfect storm for AI in healthcare with a race
 against time in the global pandemic, the explosion of biomedical data and the utility
@@ -551,7 +564,8 @@ visualization. Our trailing 12-month revenue in these two markets is close to $8
 billion, and representing an 18% CAGR over the last five years. Computer graphics is
 the first and holistically the largest application of NVIDIA's GPUs. Our graphics
 growth going forward will be fueled by the expanding universe of gamers, traders
-and professionals, which already have a number over $1 billion around the world.Operator
+and professionals, which already have a number over $1 billion around the world.
+Operator
 Q - Aaron RakersOne day we expect every human will be a gamer or connected to others in virtual
 worlds.
 Our RTX platform and the Ampere architecture launched this year was a giant step
@@ -587,7 +601,8 @@ Fargo. Your line is open.
 Yeah. Thank you for taking the questions and doing the presentation. I just want to,
 Colette, if I can just touch on brieﬂy the TAM assumptions that you're making. I
 guess, first of all, just kind of the general kind of GPU TAM, can you give us any kind
-of framework of how you're thinking about attach rate on GPUs for the data center?A - Colette Kress
+of framework of how you're thinking about attach rate on GPUs for the data center?
+A - Colette Kress
 Q - Aaron Rakers
 Operator
 Q - CJ Muse
@@ -626,7 +641,8 @@ your go-to-market strategy and the revenue model for your medical business? Than
 you.
 
 Yeah, CJ. AI started in research, and the first five years of the work that we did and
-most of our conversations that we had was related to the groundbreaking work thatwas being done, superhuman image recognition, superhuman speech recognition,
+most of our conversations that we had was related to the groundbreaking work that
+was being done, superhuman image recognition, superhuman speech recognition,
 and now near human natural speech synthesis. The ability to process data at a scale
 no humans can so that it could predict recommendations on conversational AI,
 because of the recent breakthroughs and natural language understanding. The first
@@ -669,7 +685,8 @@ sensors or webservices or applications or products and before you know these
 things that are out all over the world today, it could be anything, a lawn mower, a
 refrigerator, an elevator, air conditioner, you name it. They're all going to be
 connected to either 5G or WiFi and that allows them to collect more data, in turn all
-of these products into essentially smartphone connected smart device. And so theA - Kimberly Powell
+of these products into essentially smartphone connected smart device. And so the
+A - Kimberly Powell
 Q - CJ Muse
 Operator
 Q - Vivek AryaiPhone moment is coming. That's the wave after that. And so we're preparing for
@@ -709,7 +726,8 @@ Thanks for the presentations, and thanks for the question. I actually had two as
 one for Colette first, and then one for Jensen. Colette, I was hoping if you could give
 us a sense of the supply situation for Ampere and -- on both the data center and the
 gaming side? Good to have a lots of demand, but just how is the supply situation
-working out? And there, if you could talk specifically to that gaming side as well?A - Colette Kress
+working out? And there, if you could talk specifically to that gaming side as well?
+A - Colette Kress
 A - Jensen HuangAnd then Jensen, my question is, where does Arm fit into your data center vision?
 Because from what we heard today if more of the workload and value are going to
 the pre-processing or the DPU or the smart NIC, which I realize contains some
@@ -752,7 +770,8 @@ that they are in, the billions and billions of units that are sold every year an
 extend Arm with accelerated computing, AI computing that they are is -- renowned
 for.
 Second, we are going to bring a lot of platform technology to ARM in a whole bunch
-of new data center environments. It could be high performance computing, cloudQ - Vivek Arya
+of new data center environments. It could be high performance computing, cloud
+Q - Vivek Arya
 Operator
 Q - Timothy Arcuri
 A - Colette Kressdata centers, enterprise data centers as we were talking about earlier with GPUs,
@@ -793,7 +812,8 @@ an opportunity for us to focus on both our hyperscales and the massive expansion
 terms of the cloud. That will be a considerable portion of our overall TAM as a whole.
 Additionally, you can think about the overall enterprise opportunity. A lot of growth
 just announced today in terms of key areas of the enterprise that we can have a
-focus on. High-performance computing has been a big part of us for more than 10,A - Jensen Huang
+focus on. High-performance computing has been a big part of us for more than 10,
+A - Jensen Huang
 Q - Timothy Arcuri
 A - Jensen Huang12 years. So again, expansion in terms of bringing further acceleration in AI to that is
 also an area. And now the Edge and you can think about those devices, even in all of
@@ -835,7 +855,8 @@ opportunity.
 
 Thank you, Jensen. Thanks.
 
-Yeah. Thank you.Operator
+Yeah. Thank you.
+Operator
 Q - Stacy Rasgon
 A - Colette Kress
 A - Jensen Huang
@@ -873,7 +894,8 @@ have essentially three GPUs in data center. And one of them would be very heavy
 duty training systems to build these large models -- AI models.
 The second is the cloud training platform, which is based on PCI Express. Like the
 new GPU that I just -- that we announced today, the NVIDIA A40 is going to go into
-all the clouds and easy to deploy. It's easy for them to put into all of their PCI ExpressA - Colette Kress
+all the clouds and easy to deploy. It's easy for them to put into all of their PCI Express
+A - Colette Kress
 A - Jensen Huangservers, because it's based on PCI Express. The A100 is based on SXM2, a different
 type of networking and a different type of system architecture, in fact, very different.
 And so, the second which is cloud-based -- cloud-based training was our second
@@ -914,7 +936,8 @@ networking stack, the storage stack, the security stack, the virtualization stac
 running in VMware. And so the first thing that we're going to is we're going to
 oﬄoad and accelerate and isolate the beta playing from the application play and
 that all ﬂowed alone creates really fantastic opportunities for our DPU. It is cheaper, it
-is purely faster and unquestionably more secure to have VMware running on x86Q - Stacy Rasgon
+is purely faster and unquestionably more secure to have VMware running on x86
+Q - Stacy Rasgon
 A - Jensen Huang
 Operator
 Q - John Pitzerplus of DPU instead of x86 without a DPU. So the first is creating an opportunity for
@@ -954,7 +977,8 @@ software is that part of your $100 billion incremental TAM that Colette talked a
 this morning or is that above and beyond?
 And then secondly for Colette, you talked about kind of Ampere being extremely
 strong and you guys clearly guided for that in October. You also guided gross
-margins to be under a little bit of pressure as you ramp to new product. I'm justA - Jensen Huang
+margins to be under a little bit of pressure as you ramp to new product. I'm just
+A - Jensen Huang
 Q - John Pitzer
 A - Jensen Huangcurious, is the strength that you're seeing just that demand is outstripping supply or
 you're having some supply issues as well, how should we think about some of your
@@ -998,7 +1022,8 @@ that we created with Mercedes is really quite extraordinary, it's potentially th
 one. And the reason why is because, first of all it's incredibly hard to be able to
 create a computing platform that integrates into the most safety concerned, the most
 safety conscious companies and industries with accommodation for all of the
-heritage and all of the existing technologies to be able to integrate into that, infuseA - Colette Kressinto that harmoniously is a great challenge. And so that's the beginning. That took us
+heritage and all of the existing technologies to be able to integrate into that, infuse
+A - Colette Kressinto that harmoniously is a great challenge. And so that's the beginning. That took us
 10 years to learn. Now that we're inside the car and we're the computing platform,
 then we can create the applications that sit on top of it. Because unlike it -- unlike a
 smartphone, you're not going to be able to create an application in the cloud and
@@ -1040,7 +1065,8 @@ catch up to that demand, but the ramp is going well. The yields are very good. S
 of that is intact.
 Now when we think about our gross margin that remind what we did in terms of our
 gross margin outlook for the Q3. Our outlook for Q3 and as usual with most quarters
-mix is our driver of overall gross margin. We expect a very strong sequential increaseQ - John Pitzer
+mix is our driver of overall gross margin. We expect a very strong sequential increase
+Q - John Pitzer
 A - Jensen Huang
 Operator
 Q - Mark Lipacis
@@ -1079,7 +1105,8 @@ we can -- we innovate as much as we need to as little as we can which is a guidi
 principle of NVIDIA to do as little as we can. We're not trying to do everything, we
 are only trying to do the things that we have to, we're only doing the things that the
 world relies on us to do, we're only doing the things that we do if we don't do it, the
-world just they can have it.It is absolutely the case that if we don't do what we do today, the world doesn't have
+world just they can have it.
+It is absolutely the case that if we don't do what we do today, the world doesn't have
 it. It is absolutely the case that when Gelsinger and I worked on the VMware
 partnership with us, if the two of us don't do it, it just doesn't get done. It just won't
 get done. And so, we have to go and do the things that we do because on what we
@@ -1120,7 +1147,8 @@ EGX, AGX, they're all SDK, they are hardware components that OEMs can integrate.
 Then we put on top of it our entire software SDK, and then we put on libraries on top
 of that and then for the application developers when they create tools like
 application frameworks which are basically AI skills that we pre-train. All of this stuff is
-put into the cloud.Q - Mark Lipacis
+put into the cloud.
+Q - Mark Lipacis
 A - Jensen Huang
 Operator
 Q - Matt Ramsay
@@ -1160,7 +1188,8 @@ don't forget, all of the intruders are largely inside the building already. In t
 you also have public clouds. The entire data center is opened to the world, you can't
 allowed to have East-West intrusion. The moment an intruder goes inside a data
 center, goes sideways, East-West, into the data center imagine the damage they
-could do.Security is incredible. Every single node will become a super firewall. Firewall
+could do.
+Security is incredible. Every single node will become a super firewall. Firewall
 technology today, intrusion detection technology today based on AI. We've got to
 put AI processing right at the network, number one -- number two.
 Network shaping, network traﬃc shaping, that's an AI problem, it's optimization
@@ -1202,7 +1231,8 @@ smartphones, for embedded systems, microcontrollers to the data centers and now
 increasingly PCs, there are number of CPU cores, the engine they have behind it that
 creates the soft IP, productizing it and delivering it to customers, helping them
 integrated into their chips, that's phenomenal, that's phenomenal. And, as a result,
-they created this ecosystem of thousands of chip companies, they ship 22 billionOperator
+they created this ecosystem of thousands of chip companies, they ship 22 billion
+Operator
 Q - Harlan Sur
 A - Kimberly Powellchips last year, NVIDIA shipped 0.1 billion. So the difference between NVIDIA and
 Arm is 22 billion. So as you can put it in perspective, the reach of their ecosystem,
@@ -1244,7 +1274,8 @@ future just like our phones and our cars, they want to be software defined. You 
 sensor technology that is created in these edge medical instruments is incredibly
 powerful and we can continue to get amazing insights and new information out of
 the sensor technology by applying artificial intelligence, but it can't remind the old
-way of deploying these instruments where you would sell a couple of million dollarsQ - Harlan Sur
+way of deploying these instruments where you would sell a couple of million dollars
+Q - Harlan Sur
 Operator
 Q - Raji GillCT scanner and it would refresh every 10, sometimes 15 years. We can't carry on that
 way anymore. So edge computing is absolutely going to be vital to what is going to
@@ -1282,7 +1313,8 @@ Yes, thank you, and thanks for this excellent presentation. Just when we are thi
 about this new cloud class of data center products, that's the DPU, how do we think
 about kind of the pricing dynamic in terms of the revenue opportunity relative to
 other class of chips that you're selling. Just trying to understand how this will be kind
-of integrated and what the go-to-market shares will be for that?A - Jensen Huang
+of integrated and what the go-to-market shares will be for that?
+A - Jensen Huang
 Q - Raji Gill
 A - Jensen Huang
 Operator
@@ -1322,7 +1354,8 @@ decent GPU [ph], and the aggregate -- my computational throughput of my PC is
 99% by GPU. In fact, the aggregate DPU versus GPU compute inside the data center,
 inside a supercomputer or high performance computer is about 99% GPU and the
 reason for that is because that's its job. Its primary job is in data acceleration, its
-primary job is to compute.A - Colette KressAnd that's not to say that the CPU is not useful, that's just not its job. Its job is to
+primary job is to compute.
+A - Colette KressAnd that's not to say that the CPU is not useful, that's just not its job. Its job is to
 manage the application, manage the operating system, manage -- orchestrate the
 processing of the applications, figuring out who gets priority. Those things are really
 important, moving things around, managing things. Those are really important. And
@@ -1364,7 +1397,8 @@ probably the best launch in history. We are in an opportunity to do it a little 
 different than what we did with overall Terrain. Terrain was an opportunity for us to
 address ray tracing for the very first time, and really start that market in essentially a
 chicken and the egg type of market. The hardware availability began the beginning
-of the overall software that was there.Q - Ambrish Srivastava
+of the overall software that was there.
+Q - Ambrish Srivastava
 Operator
 A - Jensen Huang
 OperatorWe also had to take a little bit of a pause in terms of some of that launches and really

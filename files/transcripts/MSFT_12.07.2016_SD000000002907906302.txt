@@ -12,6 +12,7 @@ Okay. Since you've been at Amazon as well, you mentioned, I spent some time at t
 (inaudible) hotels. It was pretty amazing to see just from the cloud team (inaudible).
 How do you guys at Microsoft think about the whole cloud opportunity? What it
 does to kind of IT and whole IT landscape?
+
 A - Unidentified Speaker
 A - Kirk KoenigsbauerYes. Clearly, probably not surprised. Cloud is a huge (inaudible) for us. We think
 about the Microsoft cloud as being really a platform for this cloud technology. It has
@@ -58,7 +59,8 @@ mean, there's no question, it starts with product value. And so we recognized ea
 on that we had a well-established brand, a trusted brand with a notion around
 collaboration productivity and so we thought, okay, great and got that. But we also
 recognized, particularly in the social space, that hey, if we're going to really drive
-hard, we're going to have to invest in the infrastructure to make it really enterpriseA - Unidentified Speaker
+hard, we're going to have to invest in the infrastructure to make it really enterprise
+A - Unidentified Speaker
 A - Kirk Koenigsbauergrade. And so we focused early on with the customers, with regulators, with
 lawmakers to really understand what it takes to build a truly hyper-scale, global,
 compliant, secure infrastructure. And I think that's been a very, very important part of
@@ -104,7 +106,8 @@ about that. Work to (inaudible), we're bullish about it. Then on the pricing sid
 this is something we've been doing really since the beginning of the business
 productivity Online Suite, the first versions of Oﬃce 365. There is opportunity to
 continue to drive mix shift. And so I think about it from the perspective of originally,
-when we first started, we feel a lot of (inaudible) essentially with exchange online,A - Unidentified Speaker
+when we first started, we feel a lot of (inaudible) essentially with exchange online,
+A - Unidentified Speaker
 A - Kirk Koenigsbauerthat was the predominant workload that people were moving into. But now, we sell
 the suite of Oﬃce 365. We have this plan called E1, which is the certain base level
 collaboration capabilities in our web-based versions of Word, Excel and PowerPoint.
@@ -150,7 +153,8 @@ oriented solution, great value proposition to customers from a cost and from a
 productivity perspective. Then, there is PSTN services around PSTN conferencing
 and PSTN calling services that can be added on to E5 as well. And so we feel really
 good about what the value proposition looks like. And we'll keep pushing upwards
-with the customer base.A - Unidentified Speaker
+with the customer base.
+A - Unidentified Speaker
 A - Kirk Koenigsbauer
 A - Unidentified Speaker
 A - Kirk Koenigsbauer
@@ -190,7 +194,8 @@ only customers, particularly in emerging markets, we think it's interesting. And
 I think, we have holistically due to a hole in our value proposition. But there's no
 question that we're going to be there and we see it as opportunity.
 Yes. Okay. Shifting here again a little bit. You mentioned earlier artificial intelligence.
-It seems to me like the new password for every vendor. Last year, you had talkedA - Kirk Koenigsbauer
+It seems to me like the new password for every vendor. Last year, you had talked
+A - Kirk Koenigsbauer
 A - Unidentified Speaker
 A - Kirk Koenigsbauerabout reimagining productivity, like how do you think about artificial intelligence?
 How does that fit into that overall scheme of reimagining how we work?
@@ -235,7 +240,8 @@ going to be heterogeneous environments. The customers (inaudible) and largely
 angling towards back-oriented solutions. And there is a bunch of different ways. For
 example, we (inaudible) about, again, as I started the discussion (inaudible) about
 the Microsoft cloud and so with Oﬃce 365, as an example, when a company goes
-and deploys our collaboration productivity workloads, they're going to want toA - Unidentified Speaker
+and deploys our collaboration productivity workloads, they're going to want to
+A - Unidentified Speaker
 A - Kirk Koenigsbauer
 A - Unidentified Speaker
 A - Kirk Koenigsbauerprotect those workloads. And so (inaudible) services become a natural attachment to
@@ -278,7 +284,8 @@ about factors that we need to consider when we think about profitability or gros
 margins?
 
 Yes, no, sure. For productivity and collaboration space, (inaudible) all SaaS workloads
-aren't the same. And so, there are some that are going to have this point solutions inA - Unidentified Speaker
+aren't the same. And so, there are some that are going to have this point solutions in
+A - Unidentified Speaker
 A - Kirk Koenigsbauerthe marketplace, there are some solutions that maybe have a heavy storage
 component, which are going to have obviously lower margins. There are suites like
 ours. We're offering a breadth of services. And so, I think it's a little bit tricky to

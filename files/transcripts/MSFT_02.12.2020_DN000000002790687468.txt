@@ -21,7 +21,8 @@ benefits from deploying the technologies together and getting the benefits of li
 up the latest versions of the software to enable essentially new scenarios.
 So then we took that ECS, that Enterprise Cloud Suite in 2.5 years ago we launched
 Microsoft 365 as a product proper and over the last two and half years, we've been
-very busy, not just taking the components and making them better, but also reallyHeather Bellini
+very busy, not just taking the components and making them better, but also really
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared Spataroworking hard across the integration of those components, so that we have a new
@@ -61,7 +62,8 @@ step back and look at a large enterprise and what they're doing, of course, they
 their information workers that they're trying to help just be more productive and the
 things I think all of us would be familiar with. These are people who carry laptops
 with them, who have access to all the computing power of a laptop and then can go
-to the cloud.Heather Bellini
+to the cloud.
+Heather Bellini
 Jared Spataro
 Heather BelliniFor a lot of other workers they're, very high value workers. We call them first line
 workers. They may not kind of every day carry that type of computing device,
@@ -103,7 +105,8 @@ enterprises.
 
 So on your most recent earnings call, obviously you had very strong growth in your
 commercial business. Amy called out some of the drivers of that, but she also
-specifically highlighted Microsoft 365 is one of the reasons that commercialJared Spataro
+specifically highlighted Microsoft 365 is one of the reasons that commercial
+Jared Spataro
 Heather Bellini
 Jared Spatarobookings growth was ahead of the expectations. So how do we think about the
 opportunity ahead? And kind of how impactful, this could be?
@@ -143,7 +146,8 @@ that are simple, but mean a lot of people across devices.
 And then of course there is some innovation, we've introduced with things like
 Windows Virtual Desktop we refer to the WVD that's an area that is cloud-based
 allows us to really go after this virtualization market with Windows. So, you're exactly
-right.Heather Bellini
+right.
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared Spataro
@@ -184,7 +188,8 @@ productivity kind of helping your end users be productive, no matter who they ar
 and what they do, organizational productivity helping the entire org be more
 productive. And then finally, this kind of under guarding of security and compliance.
 EMS is critical to delivering all three values like it's just super super important. So as
-you think about identity increasingly doing identity right and identity across all yourHeather Bellini
+you think about identity increasingly doing identity right and identity across all your
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared Spataroinvestments your IT investments becomes a central investment point for you, it
@@ -224,7 +229,8 @@ Outlook into that perhaps Mail, but that was the core value prop for productivit
 from Microsoft. We stepped way beyond WXP, what people think of is Oﬃce and so
 that all sales motion of just coverage coming in and saying, hey, you have a person
 they need Email, they need Oﬃce has now moved into much more of a solution
-sales kind of oriented thing where we actually are able to walk in and talk againHeather Bellini
+sales kind of oriented thing where we actually are able to walk in and talk again
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared Spataroabout personal productivity, organizational productivity and security and
@@ -264,7 +270,8 @@ even more incremental revenue.
 
 Absolutely, with Microsoft 365, the strategy behind it is based on the idea that as we
 think about someone who is using Microsoft 365, we find that even from out of the
-gate, they have a higher ARPU then they have lower churn, which is really good. AndHeather Bellini
+gate, they have a higher ARPU then they have lower churn, which is really good. And
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared Spataro
@@ -302,7 +309,8 @@ breed market right, and I guess how do you think about your ability to compete w
 all of the point solutions that exist across the various categories?
 
 So this is a place where it's useful to step back and talk about our strategy with
-Microsoft 365 in general, while our (inaudible) security, I think it will come up as weHeather Bellini
+Microsoft 365 in general, while our (inaudible) security, I think it will come up as we
+Heather Bellini
 Jared Spatarotalk about teams, as an example. We are really going after, what I call it no
 compromise this strategy and that is that we think we can be best-in-class and we
 think we can be best in integration, that has not been possible before particularly in
@@ -344,7 +352,8 @@ things that you'd usually have to have a human go in and scan for, we can now do
 that with Cortex.
 So that's a whole new investment area, we think of it as brand new TAM for us. And
 then to answer, your final question, ma'am, we're excited because the way we're
-pursuing M365, Microsoft 365, is to just look for these TAM expansive opportunities.Heather Bellini
+pursuing M365, Microsoft 365, is to just look for these TAM expansive opportunities.
+Heather Bellini
 Jared Spataro
 Heather BelliniSome are adjacent, some push us a little bit further out, but to really bring those into
 our definition of productivity and we're just saying we're going to expand what
@@ -385,7 +394,8 @@ And its interesting because this is a market that I think people were hoping wou
 a really fast growing market and be a fast follower to server virtualization, and that
 hasn't happened. I mean it starting to your -- definitely getting better data points
 around it over the last few years, but what is it that you need to see happen for what
-you just mentioned right the $200 or $300 boxes right that you put under your deskJared Spataro
+you just mentioned right the $200 or $300 boxes right that you put under your desk
+Jared Spataro
 Heather Bellini
 Jared Spataro
 Heather Bellini
@@ -423,6 +433,7 @@ Somebody is got to ask me about teams, that's all I care about here, so.
 All right, I'll ask you about Teams.
 
 Beautiful.
+
 Jared Spataro
 Heather Bellini
 Jared Spataro
@@ -458,7 +469,8 @@ future really look like, because it puts people at the center, it makes comments
 communications, kind of the backplane for how people work together, and then
 we're layering on business process, we're layering on an integration with line of
 business systems and sales, I mean it has been truly, truly phenomenal how it's taken
-off for us. So that's why I want somebody ask me we really love what's happening.Heather Bellini
+off for us. So that's why I want somebody ask me we really love what's happening.
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared SpataroIt has become when someone says business or digital transformation, I say Teams
@@ -498,7 +510,8 @@ there are multiple competitors. If you're trying to do a Teams does you're going
 pull together Slack, Zoom, Dropbox and Google, that's kind of the fact of life if you
 choose not to use Teams. Against each of those competitors we have strengths and
 we have gaps, and I would just say that we have -- we are super clear on what our
-gaps are against the leaders in those categories, and we invest every day, every day,Heather Bellini
+gaps are against the leaders in those categories, and we invest every day, every day,
+Heather Bellini
 Jared Spataro
 Heather Bellini
 Jared Spataroevery day to close those gaps. Please don't think that we don't know what those are.
@@ -539,6 +552,7 @@ where we are winning, right now.
 
 Right. So I think that's the other helpful thing is to how do people think about just
 the paying point of integration, if you didn't go with Teams?
+
 Heather Bellini
 Jared Spataro
 Heather BelliniThere are two really big aspects of integration, if you don't go with Teams. First you
@@ -578,5 +592,6 @@ connected with everyone, if you don't, you will start up a new free tenant and t
 way of kind of really working the friction out just week after week after week, the
 process is really an important part of the new Microsoft, and here we are.
 
-Great. I think we're out of time, Jared. Thank you so much. Appreciate it.Jared Spataro
+Great. I think we're out of time, Jared. Thank you so much. Appreciate it.
+Jared Spataro
 Thank you.

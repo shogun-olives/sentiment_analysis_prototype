@@ -22,7 +22,8 @@ to our booth as well as there has been several blogs and discussions that we've 
 with our partners, our Tier 1s on the overall convention center regarding automotive.
 So the entire booth is focused in terms of automotive. But yes, we focused the
 keynote to talk about where we are in terms of our next-generation Turing and our
-next-generation bringing ray tracing. It was an opportunity that we were onstageQ - Atif Malik
+next-generation bringing ray tracing. It was an opportunity that we were onstage
+Q - Atif Malik
 A - Colette M. Kressreally demonstrating since the time that we have launched overall ray tracing back at
 gamescom to see the overall developments that we have done using ray tracing
 within the overall ecosystem, with many of the games that are coming out, to show
@@ -69,7 +70,8 @@ and a lot of what we're seeing in terms of the overall notebooks. I think that's
 very important theme coming into CES here. We took this opportunity to also
 announce that we brought Turing to overall notebooks. And the notebooks will be
 available at the end of this month, more than 40 different configurations from many,
-many different vendors. When you go and look at what the overall notebooks areQ - Atif Malik
+many different vendors. When you go and look at what the overall notebooks are
+Q - Atif Malik
 A - Colette M. Kressnow accomplishing, they're accomplishing the generation that is extremely focused
 on thin and light and also extremely focused on providing overall top-end
 performance with no desire to give on either one of those. So we had worked for
@@ -116,7 +118,8 @@ regulatory was still trying to find its feet and get some traction in terms of h
 were going to redo the overall regulatory. During the overall holidays, we heard
 more in terms of them moving a little bit faster in terms of the regulatory aspects of
 games. And we do believe they were probably on a much better track to look at
-these games and decide how they would want them put into market to meet theirQ - Atif Malik
+these games and decide how they would want them put into market to meet their
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kressdesires in terms of in China. So we do believe that overall, bringing forth the desire
@@ -161,7 +164,8 @@ period of time, how do they think about the new configurations that they may wan
 to do. We don't have any ability to see the overall world insight on what that's going
 to be looking into 2019. But what we can do is we have worked extremely hard to
 expand our overall TAM, our opportunity and our priorities for where we think that
-things will grow in terms of the overall data center. As you've seen us bring togetherQ - Atif Malik
+things will grow in terms of the overall data center. As you've seen us bring together
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malikoverall to the data center, we started way back with overall high-performance
 computing. But we know with the slowdown of Moore's Law, there has been even
@@ -207,7 +211,8 @@ continue to be built alongside, bringing that AutoPilot. And those might be here
 the end of '19, of the current year.
 
 Great. Citi is very bullish on the total opportunity for the car of the future, with our
-lead auto analyst expecting to see a steeper curve in the post-2021 adoption rate ofA - Colette M. Kress
+lead auto analyst expecting to see a steeper curve in the post-2021 adoption rate of
+A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kressautonomous cars than consensus thinks and perhaps more in line with Jen-Hsun's
 $60 billion TAM by 2035. Can you just talk about how NVIDIA fits into the equation
@@ -253,7 +258,8 @@ provides that. That's what drives an overall higher ASP as we move to the overal
 higher autonomous capabilities. So we will have different ranges. We also don't have
 a set overall configurations for any of this. Many of this is working with the overall
 OEMs on their strategies and how they want to do this. So what we'll see probably
-over the next couple of years, you will see a lot of the development work if theyQ - Atif Malik
+over the next couple of years, you will see a lot of the development work if they
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 Q - Unidentified Participant
@@ -297,7 +303,8 @@ Yes. So a great question. When we refer to our ecosystem of gaming and probably 
 very large differentiator that we had done many years ago is to say gaming starts
 either with the hardware or with the software, a chicken and an egg type of piece of
 it. But they are an integral part in terms of the overall gaming experience and our
-relationships with them are very, very deep and very, very long. Probably every singleQ - Atif Malik
+relationships with them are very, very deep and very, very long. Probably every single
+Q - Atif Malik
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
@@ -340,6 +347,7 @@ really showcase a lot of the ray tracing and the DLSS that would be available.
 This morning, AMD announced their new 7-nanometer gaming cards for consumer
 applications. Can you comment on what you think your timing is for a 7-nanometer
 consumer?
+
 Q - Atif Malik
 Q - Unidentified Participant
 A - Colette M. Kress
@@ -383,7 +391,8 @@ inch by 1 inch. And then hope overnight that, that will render by the time they 
 back in the morning. Then they will go and work in terms of fixing and adjusting in
 terms of what they did. Not an overly eﬃcient process as they have wasted a lot of
 time waiting for render and wanting to do a lot of that on-the-ﬂy. So this is an
-expansion of our overall market that we can now address with these render farms byQ - Atif Malik
+expansion of our overall market that we can now address with these render farms by
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kressmaking them overall GPU, overall server farms as well. So we are addressing, also
@@ -428,7 +437,8 @@ area for M&A?
 Sure, great question. So our overall work that we did, we tend to address and look at
 our overall cash on hand to say what is that best use of that cash that we have. We
 are very locked into our overall shareholder return program. We will continue in
-terms of both a combination of repurchasing shares as well as our dividend that weQ - Atif Malik
+terms of both a combination of repurchasing shares as well as our dividend that we
+Q - Atif Malik
 A - Colette M. Kresshave as well. But when we think about our focus, our #1 focus is going to be
 investment back into the business. Once we receive what we can do in terms of that
 investment, we do look at M&A. And M&A as overall possibilities of where we can

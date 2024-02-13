@@ -17,7 +17,8 @@ metric, as an example, we're talking about the commercial cloud service offering
 have. So that includes things like Azure. And it's inclusive of all the underlying offers
 that it has, like EMS or Power BI, as well as Oﬃce 365 and Dynamics 365.
 
-Excellent. At a high level, why do you have so many datacenter regions worldwide?Takeshi Numoto
+Excellent. At a high level, why do you have so many datacenter regions worldwide?
+Takeshi Numoto
 Mark Moerdler
 Takeshi Numoto
 Mark Moerdler
@@ -57,7 +58,8 @@ particularly customers in Germany and Europe, additional isolation in terms of d
 sovereignties.
 
 Great. Thank you. And how big is your datacenter footprint? I mean, could we say it's
-built to support 10% of the world's compute -- I mean, what's a fair metric of whatTakeshi Numoto
+built to support 10% of the world's compute -- I mean, what's a fair metric of what
+Takeshi Numoto
 Mark Moerdler
 Takeshi Numoto
 Mark Moerdleryou've built to date?
@@ -96,7 +98,8 @@ about it in the ratio that you talked about.
 Okay. That's fair.
 Little more detail -- where are we in the Azure adoption cycle? Is this still the early
 adopter, the guys kicking tires? Is this enterprises running large production
-enterprise workloads? How should we think of it?Takeshi Numoto
+enterprise workloads? How should we think of it?
+Takeshi Numoto
 Mark Moerdler
 Takeshi Numoto
 Mark Moerdler
@@ -132,7 +135,8 @@ Oracle Workday for apps? Or how do you think of the world moving over the next
 number of years?
 
 The journey that we see customers going on -- their entry point into the journey to
-the cloud could be different depending on the customer. Some customers may startMark Moerdler
+the cloud could be different depending on the customer. Some customers may start
+Mark Moerdler
 Takeshi Numoto
 Mark Moerdlerby introducing SaaS applications into the environment, whether it be Oﬃce 365 or
 Dynamics 365. That may be one part of their journey.
@@ -170,6 +174,7 @@ that's still, again, in early innings within their opportunity to build out and 
 correct?
 
 Yes. First of all, that 60% isn't within the 90%.
+
 Takeshi Numoto
 Mark Moerdler
 Takeshi NumotoOkay.
@@ -210,7 +215,8 @@ customers, for example, don't necessarily want to set up another directory or
 authentication scheme with a new SaaS vendor, particularly if you are an established
 [ph] player. And so we can offer them help by saying -- hey, if you integrate with
 Azure and Azure AD [ph], as an example, you can offer sort of a unified
-authentication scheme to your application that enterprise CIOs and CSOs would likeMark Moerdler
+authentication scheme to your application that enterprise CIOs and CSOs would like
+Mark Moerdler
 Takeshi Numoto
 Mark Moerdlerto be able to be able to manage your applications. And so we have an opportunity
 to onboard net new enterprise ISV stacks [ph] as well.
@@ -248,6 +254,7 @@ that essentially enables both our partners and customers to be able to have a mu
 more ﬂexible deployment model, where you can focus on your app. And then
 deploy -- think about what the best way to deploy it. And those are three big
 differentiations we have versus the others.
+
 Takeshi Numoto
 Mark Moerdler
 Takeshi Numoto
@@ -286,7 +293,8 @@ application consumption that it brings for sure.
 And similarly, that's why we're so focused on essentially expanding our TAM. So to
 speak, of our cloud offering by embracing OSS solutions. Because when you think
 about supporting all variants of Linux, including Red Hat, having not just the
-operating system support but broad set of OSS technologies, whether it's on theMark Moerdler
+operating system support but broad set of OSS technologies, whether it's on the
+Mark Moerdler
 Takeshi Numoto
 Mark Moerdler
 Takeshi Numotodata side, like MySQL or Mungo [ph], or if it's the language and frameworks that a lot
@@ -327,7 +335,8 @@ business model, where if you essentially buy Windows Server, then you actually c
 take that license and deploy it to essentially run Windows Server more cheaply in
 Azure. And so we're basically, again -- that's almost -- you can think of it as a hybrid
 business model. And that's one way to make sure that our -- the customer's journey
-into cloud is accretive to our business overall.Mark Moerdler
+into cloud is accretive to our business overall.
+Mark Moerdler
 Takeshi Numoto
 Mark Moerdler
 Takeshi Numoto
@@ -364,6 +373,7 @@ the Dynamics business is not just a midmarket business; it's certainly growing r
 in the enterprise as well. And we've had some market wins, whether it's VHV that's a
 switcher from Salesforce, or -- they get a customer like American Online's [ph]
 adopting CRM. So we are seeing adoption in the enterprise for sure.
+
 Takeshi Numoto
 Mark Moerdler
 Takeshi NumotoAnd is that today's predominantly Dynamics CRM? How do we think about it long
@@ -401,7 +411,8 @@ So is that fully integrated just Dynamics 365? Or does that span into the Oﬃce
 with a similar name. And Azure. And other products?
 
 Dynamics 365 is our unified biz app offering from across sort of the CRM business
-processes all the way to operations and finances. And that product, as a biz appMark Moerdler
+processes all the way to operations and finances. And that product, as a biz app
+Mark Moerdler
 Takeshi Numoto
 Mark Moerdler
 Takeshi Numoto
@@ -437,6 +448,7 @@ Right.
 
 So going to 60% of Fortune 500, 20 points increase over year over year is a
 substantial movement.
+
 Takeshi Numoto
 Mark Moerdler
 Q - Unidentified Participant
@@ -473,7 +485,8 @@ I wanted to.
 Then, it's really -- I hate that you might not like this answer. But it's really on a case-
 by-case basis. Sometimes we know we have to think about our ability to get to
 market quickly. And sometimes a lease might be a faster option. Build might take
-slightly longer, as you might imagine. If you think about the long term, cost of buildQ - Mark Moerdler
+slightly longer, as you might imagine. If you think about the long term, cost of build
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -511,6 +524,7 @@ think we're quite bullish.
 Excellent. So what would be the limiting factors, or are there any, in continuing to
 grow at the rates you're growing. And within both the Azure business and the Oﬃce
 365 business?
+
 Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
@@ -550,7 +564,8 @@ top with the database, all the in-memory OLTP [ph] performance implements we
 made, or in-memory of BI [ph], all these capabilities we added would be essentially
 an add-on product in the Oracle product realm.
 
-Right.A - Takeshi Numoto
+Right.
+A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
@@ -590,7 +605,8 @@ dialog around the cloud in a way that makes sense for the customer.
 So it's not -- SQL 2016 isn't just a growth opportunity for SQL for the license business
 per se. But it's also a great way to engage customers in the cloud.
 
-Excellent.A - Takeshi Numoto
+Excellent.
+A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
@@ -632,7 +648,8 @@ that everybody needs.
 Right.
 
 And that has a lot of resonance and compatibility with the way we general sell off
-into the cloud. And so we're just generally bullish on the opportunity.Q - Mark Moerdler
+into the cloud. And so we're just generally bullish on the opportunity.
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -671,7 +688,8 @@ just dropped essentially a technical preview, too, at a night a few weeks -- a m
 ago. And the customer feedback and the interest in our strategy of really delivering
 a hybrid cloud solution, where you can both use the public cloud services that we
 have as well as create an environment that's highly compatible with what we offer in
-public cloud on-premises, is resonating really well.Q - Mark Moerdler
+public cloud on-premises, is resonating really well.
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -710,6 +728,7 @@ seeing good growth in things that we call Azure Premium Services, like database
 services or advanced analytics services or machine learning services. And we're
 seeing, I think, nine consecutive quarters in terms of [ph] this growth on those
 premium services. That essentially is catalyzing consumption growth.
+
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -752,6 +771,7 @@ Most of the SaaS vendors haven't to this point taken a direct-only model. Most o
 a couple of these things and dropping. Why do you have -- can you drill a little more
 the advantage of the approach you're taking today and what the long-term payouts
 to Microsoft is from that?
+
 Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
@@ -791,7 +811,8 @@ or we need more capabilities like this, or you need to document how this is done
 And essentially, that can be commented and get us in an open way. And our teams
 look at it and then say -- hey, how can we actually take that as a feedback to either
 improve our documentation to include the way our products are presented, or
-essentially change capabilities of the product?Q - Mark Moerdler
+essentially change capabilities of the product?
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -832,7 +853,8 @@ directive is consumption. So particularly for many of our customers, it's not li
 they're really picking between two technologies. They already have a preferred
 technology. And they're saying -- hey, how can I use Azure for this?
 And so it really makes sense for us to basically be where they are. And sort of
-basically try to embrace all the things that people want to do, whether it's OSSQ - Mark Moerdler
+basically try to embrace all the things that people want to do, whether it's OSS
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -873,7 +895,8 @@ Right.
 essentially expand the aperture in which SQL can be useful.
 At the same time, we're also directly embracing a lot of NoSQL type technologies as
 well. We have things like Dot TV as a service in the cloud. And we've basically made
-the API for Dot TV compatible with long wave CI [ph]. So that if you're familiar withQ - Mark Moerdler
+the API for Dot TV compatible with long wave CI [ph]. So that if you're familiar with
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numotolong wave TV, you can actually use Dot TV essentially exactly in the same way you're
@@ -912,7 +935,8 @@ detection or emotion detection is all very similar in the sense that it's essent
 way for Microsoft as a company to surface investments we've made in places like
 Microsoft research that can now shine through the lens of Azure.
 And there's a lot of capabilities that we offer in Oﬃce 365 that is essentially
-engineered by the Azure engineering team that shows up. And so we're trying to beQ - Mark Moerdler
+engineered by the Azure engineering team that shows up. And so we're trying to be
+Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
@@ -953,7 +977,8 @@ we're increasingly getting better at.
 
 Okay. And your speed to market, in terms of going from an idea to something in
 there, is that also improving through the changes in the development strategies and
-processes?A - Takeshi Numoto
+processes?
+A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
@@ -992,7 +1017,8 @@ Are there any other questions from the audience? Yes?
 (technical diﬃculty)
 
 So the question is, for a Fortune 500 company running on AWS decides to move
-over to Azure, what's the cost to do it, what's the time to do it?A - Takeshi Numoto
+over to Azure, what's the cost to do it, what's the time to do it?
+A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi Numoto
 Q - Mark Moerdler
@@ -1032,7 +1058,8 @@ There's always procurement experts in every company. And so we get to earn our
 business for sure. But also, at the same time, it's not initially about always a switch is
 required for us to win.
 
-Right. Okay. Much of it is not switch.Q - Unidentified Participant
+Right. Okay. Much of it is not switch.
+Q - Unidentified Participant
 A - Takeshi Numoto
 Q - Mark Moerdler
 A - Takeshi NumotoOne last question, I think, from the audience.

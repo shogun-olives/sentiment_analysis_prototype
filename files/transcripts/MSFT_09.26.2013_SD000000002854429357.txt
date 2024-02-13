@@ -7,7 +7,8 @@ call and view the transcript at the Microsoft investor relations website until
 September 26, 2014.
 During this call, we may make forward-looking statements which are predictions,
 projections, or other statements about future events. These statements are based on
-current expectations and assumptions that are subject to risks and uncertainties.Frank BrodActual results could materially differ because of factors discussed in today's
+current expectations and assumptions that are subject to risks and uncertainties.
+Frank BrodActual results could materially differ because of factors discussed in today's
 conference call. And in the risk factors section of our form 10-K, form 10-Q. And other
 reports and filings with the Securities and Exchange Commission. We do not
 undertake any duty to update any forward-looking statement.
@@ -48,7 +49,8 @@ licensing. And other segments.
 And under commercial, we have the licensing and other segments. We will also have
 a corporate and other line, we will reﬂect one-time revenue deferrals and
 recognition here, including things like tech guarantees and presales prior to general
-availability of our new products. We will also continue to record corporate-levelChris Suhexpenses that are not attributable to a segment here. We will report revenue and
+availability of our new products. We will also continue to record corporate-level
+Chris Suhexpenses that are not attributable to a segment here. We will report revenue and
 gross margin for each of these five segments. We will report operating expense and
 operating income for the devices and consumer group and the commercial group.
 Moving to slide 6, from a reporting segment perspective, we have changed from a
@@ -88,7 +90,8 @@ hardware are now shown in the devices and consumer hardware segment. Windows
 volume licensing is primarily reported in commercial licensing.
 There is a small portion related to academic or students, which will be included in
 devices and consumer licensing. For retail Windows, approximately 90% of it will be
-reﬂected in devices and consumer licensing. The remainder that is reported indevices and consumer other is related to the retail versions of Windows sold in retail
+reﬂected in devices and consumer licensing. The remainder that is reported in
+devices and consumer other is related to the retail versions of Windows sold in retail
 stores. And finally, Windows services is 100% reported in devices and consumer
 other.
 Okay, now let's move to slide eight to discuss Server and Tools. This one is a little bit
@@ -130,7 +133,8 @@ Okay, I'm going to move now to slide 13. We want to provide you with a preview o
 our updated KPIs. The best starting point for a thorough KPI discussion is to put
 them in the right context. With each quarterly earnings release, we share our results
 in a variety of ways. Our earnings press release, a slide deck of quarterly results, our
-earnings conference call. And in the MD&A section of our quarterly filings. Acrossthese various components, we provide our actual financial results, as well the
+earnings conference call. And in the MD&A section of our quarterly filings. Across
+these various components, we provide our actual financial results, as well the
 material drivers of business during the quarter.
 The KPIs are intended to be metrics that supplement the information we provide in
 the earnings release and MD&A. The goal is to provide additional insight that helps
@@ -170,7 +174,8 @@ seat growth. These are primarily sold as part of a multi-year licensing agreemen
 different from the consumer subscription. And hence we thought it was valuable to
 provide this separately. For server and tools, we continue to provide you -- we will
 continue to provide you both product and enterprise services revenue growth
-metrics.Operator
+metrics.
+Operator
 Q - Brent Thill
 A - Chris Suh
 OperatorNow let's turn to slide 16. For entertainment and device (technical diﬃculty), we will
@@ -206,7 +211,8 @@ your forward look, as well, going forward?
 Yes. When we publish our results in Q1, we will -- any forward-looking statements that
 we make with the Q1 earnings will be discussed within the construct of the new
 reporting segments. And so very similar to the old segments. But updated for the
-new taxonomy.Q - Walter Pritchard
+new taxonomy.
+Q - Walter Pritchard
 A - Frank Brod
 Q - Walter Pritchard
 A - Frank Brod
@@ -247,7 +253,8 @@ which are sold utilizing our technology. And we have Xbox LIVE, which is primari
 subscription service. We look at those as being completely linked together. They
 don't function without each other. Xbox LIVE is a key component. It allows for multi-
 gaming for players. It provides downloadable game content through the store there.
-It also has the ability to bring in TV services as well.A - Chris Suh
+It also has the ability to bring in TV services as well.
+A - Chris Suh
 Operator
 Q - Keith Weiss
 A - Chris Suh
@@ -289,7 +296,8 @@ historical data sets on where those KPIs had been over the past year or so?
 
 Yes, I think where it makes sense, we will do so. Some things just -- looking back at
 historical growth rates don't make sense, like I'll take Oﬃce 365 Home Premium.
-Given that it's only really several months old now, we don't -- the growth rate goingQ - Keith Weiss
+Given that it's only really several months old now, we don't -- the growth rate going
+Q - Keith Weiss
 A - Chris Suh
 Q - Keith Weiss
 A - Chris Suh
@@ -332,7 +340,8 @@ the others. So there is a small amount of inter-segment revenue today. We will h
 to look to see, now that that becomes more expensive after the Nokia acquisition,
 whether we look at that policy. And look at what the most appropriate inter-segment
 pricing would be. But the -- I would suspect it would impact both the -- where the
-phone revenue is recorded as well as the hardware revenue.Q - Keith Weiss
+phone revenue is recorded as well as the hardware revenue.
+Q - Keith Weiss
 A - Frank Brod
 Q - Keith Weiss
 A - Frank Brod
@@ -370,7 +379,8 @@ offerings that are reported in the commercial other segment. So that primarily
 includes Oﬃce 365, Azure. But also Intune, CRM Online. It is the aggregation of that.
 We -- it is a good measure of the performance of Microsoft's commercial cloud
 business, if you think about us as a leading cloud vendor for business customers
-around the world.Q - Mark Moerdler
+around the world.
+Q - Mark Moerdler
 A - Chris Suh
 Q - Mark Moerdler
 A - Chris Suh
@@ -410,6 +420,7 @@ And whether it's cloud or whether it's subscription?
 Yes. If it's in within the Oﬃce 365 family, we would count it.
 
 Okay. I did have one last question -- okay, thank you.
+
 Q - Mark Moerdler
 A - Chris Suh
 Q - Mark Moerdler
@@ -451,7 +462,8 @@ some sort of a road map on gross margin? And I will say that I think the new add
 of gross margin into the P&L's does help you see the performance of these different
 buckets of categories, if you will, of products. So hardware different from traditional
 licensing and different from services. And I think, over time, you'll be able to see if
-we are making progress from a gross margin percentage and a gross margin dollarQ - Kash Rangan
+we are making progress from a gross margin percentage and a gross margin dollar
+Q - Kash Rangan
 A - Chris Suh
 Operator
 Q - Gregg Moskowitz
@@ -493,7 +505,8 @@ growth as well?
 
 It's part of the total bookings growth. But it is good feedback. We will take it under --
 we will go back and take it under advisement. And take a look and see if there is a
-meaningful breakout of the bookings that may make sense and be helpful. And weQ - Gregg Moskowitz
+meaningful breakout of the bookings that may make sense and be helpful. And we
+Q - Gregg Moskowitz
 A - Chris Suh
 Operator
 Q - Rick Sherlund

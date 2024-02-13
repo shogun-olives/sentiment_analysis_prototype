@@ -14,6 +14,7 @@ All right, tablets. And there is a shoutout because I see a handful of people wi
 Surfaces out there.
 
 Awesome.
+
 Peter Klein
 Heather Bellini
 Peter KleinPeter, thank you for that. The trend does seem though to be moving to smaller size
@@ -54,7 +55,8 @@ different growth rates?
 
 Yes. Well we are certainly encouraged. As we have talked about, it is early in the
 launch of Windows 8 and this was a fundamental reimagining of experiences for
-both work and play and so that impacts the consumer experience a lot. We are veryHeather Bellini
+both work and play and so that impacts the consumer experience a lot. We are very
+Heather Bellini
 Peter Klein
 Heather Bellini
 Peter Kleinencouraged by the work that is going on as we speak. We have talked about we
@@ -94,7 +96,8 @@ kind of feel like you're always going to have to have skin in the game whether i
 the tablet side or on the phone side?
 
 Yes, I think it will always be a balance because there is always things we can do like
-with Surface that I think are good for the ecosystem, good for customers and benefitHeather Bellini
+with Surface that I think are good for the ecosystem, good for customers and benefit
+Heather Bellini
 Peter Klein
 Heather Bellini
 Peter Kleinthe whole ecosystem. But there will always be a strong ecosystem play as well.
@@ -136,7 +139,8 @@ take advantage of that. But to your point, what people should look for and obvio
 that what we are focused on is delivering the same set of compelling experiences
 across all form factors and we are pleased with the progress we have made in
 phones with Windows Phone 8. We are starting to see some traction there this last
-holiday season. So we are very focused on that. And obviously with Windows 8 earlyHeather Bellini
+holiday season. So we are very focused on that. And obviously with Windows 8 early
+Heather Bellini
 Peter Klein
 Heather Bellini
 Peter Kleinon, we are very focused on delivering both touch and touch laptops and tablet
@@ -176,7 +180,8 @@ So I think about it -- it is probably more nuance than just do you lower prices 
 prices. It is more about do you have the right set of experiences at the right price
 point for a given scenario or a customer segment. I think that -- it is less a plan B and
 it is more just how do you tweak your plan, how do you bring new things to market
-to make sure you have the right offerings at the right price point.Heather Bellini
+to make sure you have the right offerings at the right price point.
+Heather Bellini
 Peter Klein
 Heather Bellini
 Peter Klein
@@ -214,7 +219,8 @@ hardware and I think over time you'll start to see people buying new hardware as
 they upgrade as well.
 
 How would you think about the PC replacement rate right now? What you are saying
-would imply that it is actually lengthening even further than what we have seen orPeter Klein
+would imply that it is actually lengthening even further than what we have seen or
+Peter Klein
 Heather Bellini
 Peter Klein
 Heather Bellini
@@ -253,7 +259,8 @@ So you are starting to see people experiment with it on both usage scenarios for
 their types of workers, as well as new applications. Then there is people who are just
 getting performance benefits from it. We have said a lot, one of the things I noticed
 right away when I started using Windows 8, it is simply -- even without all the new
-innovations -- it is just a better Windows 7, it is very (inaudible), it is very fast, it is veryHeather Bellini
+innovations -- it is just a better Windows 7, it is very (inaudible), it is very fast, it is very
+Heather Bellini
 Peter Klein
 Heather Bellini
 Peter Klein
@@ -291,6 +298,7 @@ set of applications and experiences you get from productivity and collaboration 
 communication all the way to the sort of well-understood manageability and security
 I think is a very compelling story for enterprises and that tends to be -- those two
 things tend to be the drivers of the conversation that we have.
+
 Peter Klein
 Heather Bellini
 Peter Klein
@@ -330,7 +338,8 @@ awareness. But observing people coming into the stores and seeing it and playing
 with is super important and so what we have done is to broaden the reach of what
 we are doing on distribution, get it out there in more geographies, in third-party
 retail so people can actually come in, touch it and play with it and really get the full
-experience so that they really understand that. And so we are going to take that andHeather Bellini
+experience so that they really understand that. And so we are going to take that and
+Heather Bellini
 Peter Klein
 Heather Bellini
 Q - Unidentified Participantnow broaden that and of course, with the recent introduction of Pro, we will start with
@@ -368,7 +377,8 @@ Heather, Peter. Good morning. AJ (inaudible), Cornerstone Capital Management. I
 have to admit, while listening to the presentation and listening to the story over time,
 I still am not very clear as to what the hardware strategy is. The core I remember of
 Microsoft and seeing some of the applications of Microsoft live years and years ago,
-even on lap phones and 3G phones early on, was there was a lot of great softwareA - Peter Klein
+even on lap phones and 3G phones early on, was there was a lot of great software
+A - Peter Klein
 Q - Heather Bellini
 A - Peter Klein
 Q - Heather Belliniproperties, there was a lot of opportunity to expand those software properties and to
@@ -411,6 +421,7 @@ OneNote. And a whole bunch of things. And importantly, with the Web applications
 you can access oﬃce documents, do some light editing on any device and on any
 browser. So I think there is a lot of things that we are doing to sort of meet that need
 and then we will continue to think about other things going forward.
+
 A - Peter Klein
 Q - Heather Bellini
 Q - Unidentified Participant
@@ -451,7 +462,8 @@ probably been that way for the last few years. But we will continue to watch tha
 am sure you will.
 Peter, a question for you, a little bit circling back on the enterprise maybe tablet
 specific strategy. So 60% of the folks are on Win 7. So obviously it is an opportunity
-for another 40%. A lot of those folks are probably going to be entertaining otherA - Peter Klein
+for another 40%. A lot of those folks are probably going to be entertaining other
+A - Peter Klein
 Q - Heather Bellini
 Q - Unidentified Participant
 A - Peter Kleinform factors, potentially iPads. On the other hand, Android has been a dud in the
@@ -493,7 +505,8 @@ Bing, we think there is a real good business opportunity there. We have been
 focused a lot on increasing our share and increasing our monetization, managing
 our costs and improving our financial performance, which we have been able to do
 much better the last year or so. And so we feel good about that, lots more to do. At
-the same time, you can see Bing crossing -- I talked before about our devices andQ - Heather Bellini
+the same time, you can see Bing crossing -- I talked before about our devices and
+Q - Heather Bellini
 A - Peter Klein
 Q - Heather Bellini
 A - Peter Kleinservices strategy and how these experiences cross all of our devices and we see
@@ -536,7 +549,8 @@ Yes. And that has absolutely been sort of the path we have been walking down the
 last couple of years. Obviously we have a core set of -- sort of a gaming community,
 which is always super valuable and it is great. We continue to serve that very well.
 And it has taken some time and frankly we started early. So we feel like we have a
-leading position of thinking about Xbox as a platform more broadly than gamingQ - Heather Bellini
+leading position of thinking about Xbox as a platform more broadly than gaming
+Q - Heather Bellini
 A - Peter Klein
 Q - Heather Bellini
 A - Peter Klein
@@ -578,7 +592,8 @@ those two things?
 Yes. It is a great question. I think it is a little bit of both. I mean I think it is always
 going to be some function of the supply chain and how the supply chain evolves for
 a new way of thinking. I think some of it goes not just to the operating system. But to
-the chip architectures and the innovation that is happening on the silicon side. So IQ - Heather Bellini
+the chip architectures and the innovation that is happening on the silicon side. So I
+Q - Heather Bellini
 A - Peter Kleinthink it sort of end-to-end as we evolve and get more into the cycle of Windows 8. I
 think you will see all those things.
 

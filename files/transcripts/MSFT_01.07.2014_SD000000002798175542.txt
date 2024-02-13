@@ -23,7 +23,8 @@ group. And there's a lot of exciting things that are happening across the board.
 has been a very big year for us. On the Windows side, we recently launched
 Windows 8.1. We felt like we drove great improvements to the platform. We are
 seeing good uptake of Windows 8.1. We are getting excellent customer feedback on
-8.1. And we were just overall very pleased with the product of the Windows platform.We are also very excited about our hardware partners and the devices that they are
+8.1. And we were just overall very pleased with the product of the Windows platform.
+We are also very excited about our hardware partners and the devices that they are
 bringing to the market. So it's been great from that perspective after launching it this
 fall.
 On Windows Phone -- really 2013 was a big year for us on the Windows Phone side,
@@ -62,7 +63,8 @@ platform services are delivered across our entire device family.
 So there is a lot going on. There's a ton of new devices coming out. There's clearly a
 lot of energy and excitement in the device ecosystem from PCs to tablets to phones
 to embedded devices. And we feel good about the opportunity going forward. And
-so, we are pretty excited.Q - John DiFucci
+so, we are pretty excited.
+Q - John DiFucci
 A - Bill Duff
 Q - John DiFucci
 A - Bill DuffQuestions And Answers
@@ -105,7 +107,8 @@ number of devices, 8-inch tablets, that came out with Windows software on them
 that are great devices. I've been using the Dell; it's a fantastic device. And we are
 excited about the roadmaps going forward. In addition, touch is really interesting.
 We made a pretty significant bet on touch last year with Windows 8. And you are
-starting to see, particularly in the US -- I think the latest stats I've seen is about 40%Q - John DiFucci
+starting to see, particularly in the US -- I think the latest stats I've seen is about 40%
+Q - John DiFucci
 A - Bill Duff
 Q - John DiFucci
 A - Bill Duff
@@ -149,7 +152,8 @@ OEMs introduce Chromebooks in their lineup?
 
 In Chromebooks overall, we are seeing them in the education markets, for sure. You
 are starting to see them a little bit in retail. You can see them at the big-box retailers
-if you go into Best Buy. On the retail side or on the consumer side, it's primarily a lowQ - John DiFucci
+if you go into Best Buy. On the retail side or on the consumer side, it's primarily a low
+Q - John DiFucci
 A - Bill Duff
 Q - John DiFucci
 A - Bill Duff
@@ -193,7 +197,8 @@ doing and in which customer bases they are selling to and things like that. And 
 whereas we have done very well outside of the US, in China, we are starting to get
 better in the US. We are seeing share gains in US. And I think it's primarily just
 getting the right devices out there, driving awareness. And making sure that we have
-the right value proposition to our customers in the US.Q - John DiFucci
+the right value proposition to our customers in the US.
+Q - John DiFucci
 A - Bill DuffWe are doing very well at the lower end of the market. So Nokia has a device called
 the 520 that they are selling. This is a lower-cost device. It's much, much less
 expensive than the latest iPhone or the latest Galaxy 4. And it's really hitting a sweet
@@ -237,7 +242,8 @@ a 41-megapixel camera. It really blew away everything that was currently out the
 the market. And it's a great product. But you know it's getting the awareness. It's
 getting the distribution channel to have enough critical mass where they are
 investing behind the Windows Phone. It is getting developers to focus on getting
-their best applications on Windows Phone. It's even as simple as having friends whoQ - John DiFucci
+their best applications on Windows Phone. It's even as simple as having friends who
+Q - John DiFucci
 Q - Unidentified Participant
 A - Bill Duffhave Windows Phones so they can demonstrate to show you, hey, look, look what my
 phone does. It's valuable in this way or that way.
@@ -275,7 +281,8 @@ wanted to take the business. We were doing the same thing. From a Microsoft
 perspective, we saw significant benefits for acquiring Nokia and bringing them
 internally. Part of it was to maintain existing sales momentum with Windows Phone,
 which is incredibly important to us. We believe that the mobile business in general
-and the phone business in general is important for us to have a strong position in.Q - John DiFucci
+and the phone business in general is important for us to have a strong position in.
+Q - John DiFucci
 A - Bill DuffWe felt like we could simplify and focus our efforts as one company, as far as go-to-
 market, sales, investments in marketing, investments in brand. Delivering on the
 awareness that I had mentioned earlier was one of the things that we really needed
@@ -317,7 +324,8 @@ property that were important for us. One is a significant part of the value of t
 was us signing a license with Nokia in order to use their patents. And we have the
 use of their patents broadly across our product portfolio. This is something that we
 would have had to do anyway or we were already working with Nokia on licensing
-their intellectual property and their patents. And we already had financialQ - John DiFucci
+their intellectual property and their patents. And we already had financial
+Q - John DiFucci
 A - Bill Duff
 Q - John DiFucci
 Q - Unidentified Participant
@@ -359,7 +367,8 @@ increased momentum in market is going to drive -- it's the end-user customer
 demand that is going to help us continue to partner with other hardware partners
 around Windows Phone. And so when we look at over 2013, Nokia was by far our
 largest hardware partner. We have other hardware partners that continue to ship
-Windows Phone. And really what we need to do is continue to demonstrate end-userQ - John DiFucci
+Windows Phone. And really what we need to do is continue to demonstrate end-user
+Q - John DiFucci
 Q - Unidentified Participant
 A - Bill Duffdemand for Windows Phone and work with them in ways that those hardware
 partners can make money with our devices. I wouldn't say -- I would say that our
@@ -402,7 +411,8 @@ we get paid when the device is shipped, we have a software assurance model. And
 this is a recurring license that we sell directly to businesses that provide them
 enterprise features on Windows. And it is sold more as a subscription model; it's
 over a three-year period. We continue to see growth in that overall market. And so,
-as with our Windows Pro business where we've seen growth over a couple ofQ - John DiFucci
+as with our Windows Pro business where we've seen growth over a couple of
+Q - John DiFucci
 A - Bill Duffquarters, if you look at the Software Assurance business that has shown growth over
 a longer period of time. And it's been a very consistent grower. And we expect it to
 continue along that trajectory.

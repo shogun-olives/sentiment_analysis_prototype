@@ -11,7 +11,8 @@ from their simulation, their development from Level 2 all the way to Level 5. Bu
 can talk about...
 Questions And Answers
 Excellent. We're going to talk about all of those things. But to start off, I've had
-probably 20-some meetings this week and the first question for me is what's goingA - Colette M. Kress
+probably 20-some meetings this week and the first question for me is what's going
+A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kresson in China? How should we manage the risk? What is your -- I know you're getting
 that question too. So what do you tell investors on that question? What's your
@@ -54,7 +55,8 @@ Now you also see ray tracing servers, rendering servers that will also be availa
 later this year.
 Moving to the data center. This is where we have such a significant amount of work
 in terms of leveraging our software platform that we've been working on for more
-than 10 years and focused on CUDA and it branched off in terms of being able forQ - Unidentified Participant
+than 10 years and focused on CUDA and it branched off in terms of being able for
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kressthe many to create the overall AI frameworks that are so important to the AI wave
@@ -95,7 +97,8 @@ manner.
 All of these have really driven our overall expansion as well as the importance of the
 software because it's one thing to have a leadership position in the technology and
 the overall hardware of the GPU from both the performance and performance
-eﬃciency standpoint but the software allows the expansion of the use cases, theQ - Unidentified Participant
+eﬃciency standpoint but the software allows the expansion of the use cases, the
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kressdifferent workloads throughout gaming, throughout the overall design in terms of
@@ -136,7 +139,8 @@ for the overall Mac and now streaming gets on the option. So we're approaching t
 market in multiple ways. But one of the first ways is focused on the telcos. The telcos
 have a great access to many of those overall consumers and have the overall ability
 to bundle the overall streaming gaming with many of the other services that they
-provide their overall customers.Q - Unidentified Participant
+provide their overall customers.
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. KressNow the business model in this case is we're helping them develop their overall data
@@ -176,7 +180,8 @@ platform.
 When you think about where we're focused on with our overall GPUs and overall
 future Mellanox acquisition, we're thinking about the entire compute platform. We're
 thinking about how accelerating all levels of what we can do in that platform from
-the networking level as well as all of the intersects that may happen between theQ - Unidentified Participant
+the networking level as well as all of the intersects that may happen between the
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kress
@@ -217,7 +222,8 @@ I saw a press release from you guys on this topic this week, I think. So bring u
 speed on ray tracing.
 
 Yes. Ray tracing, we believe, will be essential for the next generation of gaming. It is a
-distinguished piece of architecture and capabilities that allows things to look nearQ - Unidentified Participant
+distinguished piece of architecture and capabilities that allows things to look near
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participantreal, no longer simulating the capabilities of ray tracing and the physics behind it but
 actually doing it in real time. All of our Turing cards starting well into about the $300
@@ -259,7 +265,8 @@ don't have a case where the order processing is a PO. But we're going to use tho
 engagements at the engineering as they have proven to be very timely in terms of
 when we think about the ordering that will happen with the customers.
 The inference market was a bright spot for you in data center. It was up sequentially.
-It was up year-over-year. And you talked about your T4 product here. What is -- howA - Colette M. Kress
+It was up year-over-year. And you talked about your T4 product here. What is -- how
+A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
@@ -298,6 +305,7 @@ will be needed to support this type of feature.
 Then the -- on the -- you also talked about the RTX Server to target rendering remote
 workstations, cloud gaming and that Disney and Pixar have embraced this solution
 as customers. What is the implication of RTX Server? What is it?
+
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant

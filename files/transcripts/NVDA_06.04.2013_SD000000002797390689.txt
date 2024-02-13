@@ -18,7 +18,8 @@ Okay. I think overall, we're mostly optimistic about one fundamental dynamic, wh
 is that visual computing is becoming more critical to a variety of different markets. So
 currently, there is our existing customers, existing markets, like PC gaming. So I think
 one of the first questions people ask about NVIDIA is, "How is it possible that your
-GPU business is growing for the fourth consecutive year in a row, while the PCVivek Arya
+GPU business is growing for the fourth consecutive year in a row, while the PC
+Vivek Arya
 Rob Csongormarket is declining?" And the answer is that we don't address the entire PC market;
 we address segments of the PC market.
 So one of those segments is PC gaming. And the second is professional
@@ -55,7 +56,8 @@ case, then how much more room is there to gain share in that market?
 
 I would say that that's not the right way to look at our business. Our GPU business
 grew for four consecutive years in a row. That doesn't mean that our share grew for
-four consecutive years in a row. They're not correlated.Vivek Arya
+four consecutive years in a row. They're not correlated.
+Vivek Arya
 Rob Csongor
 Vivek AryaWhat it means is that the overall market and the demand for GPUs grew, either that
 or we either sold more products at a higher price to more people. So I think the
@@ -95,7 +97,8 @@ points about the trend you notice whenever there's a new game console cycle, tha
 sometimes, contrary to what people would assume that as game consoles come into
 the market, they capture more of attention; perhaps PC gaming goes down. But
 that's not the case, if you could elaborate, because there are two new big consoles
-that are supposed to come over the next few quarters.Rob Csongor
+that are supposed to come over the next few quarters.
+Rob Csongor
 Vivek Arya
 Rob Csongor
 Yes. Well first of all, from an overall perspective, I guess there's, every time there's a
@@ -134,6 +137,7 @@ And I'll actually tell you where I'm going with the question. If, let's say, the
 console market does not take off, then do the game developers have enough
 incentive to even develop something for the PC gaming market? Or is all of their
 attention going to be in the smaller-sized form factors?
+
 Vivek Arya
 Rob CsongorSo right now, the system data that I presented recently. And we share this data. We
 have it on our website. There was a survey done out of GDC. This was the Game
@@ -173,7 +177,8 @@ with integrated graphics.
 And the reason is that Haswell was not -- integrated graphics was not the only thing
 that got better. Kepler and discrete GPUs got better also. So that's the only part of
 that story that's missing. Then the question is, is that integrated graphics solution
-good enough to do high-end gaming or to do workstation? And the answer is no.Vivek Arya
+good enough to do high-end gaming or to do workstation? And the answer is no.
+Vivek Arya
 Rob Csongor
 Yes. That makes sense. Maybe let's shift the discussion to Tegra, more favored son, I
 guess, in the Company. So Tegra -- you know, this year the expectations are that sales
@@ -213,7 +218,8 @@ Nexus 7, there's obviously Kindle Fire HD -- but for the most part, a lot of peo
 were on the sidelines on tablets.
 I think this year that's going to change. I think this year, you'll see a lot more tablets.
 Android is everywhere. So you'll see a lot more tablets, a lot more SKUs, a lot more
-types of tablets from different vendors.Vivek Arya
+types of tablets from different vendors.
+Vivek Arya
 Rob CsongorThen finally, I think you're going to see Tegra going into new types of devices. Tegra
 ultimately is not just going to be about phones and tablets. In fact, I think we don't
 even really refer to Tegra anymore as our mobile business. It's just simply a new
@@ -252,7 +258,8 @@ For NVIDIA, in the phone market, we cannot address this market in the volume
 segment of the market until we have LTE, until we have an LTE modem. LTE modem
 allows us to go in the door and then to leverage our visual computing expertise. In
 the meantime, our competition is doing everything they can to improve their
-graphics and visual computing.Vivek Arya
+graphics and visual computing.
+Vivek Arya
 Rob CsongorBut fortunately for NVIDIA, doing world-class visual computing is very hard. I think, if
 you look at lots of people who thought it would be easy to just simply license an
 ARM core or an Imagination Graphics core, I think a lot of people are realizing it's
@@ -292,7 +299,8 @@ So increasingly, I think compute capability in a GPU is increasingly important. 
 you think of all of the applications of computer vision, or you think of compute, it's
 not just for PCs. Imagine what you could do with mobile devices. When you look at
 the next-generation Tegra devices going into cars, you're looking at an overhead
-view of the car backing in. And if you look out the window, there's no cameraVivek Arya
+view of the car backing in. And if you look out the window, there's no camera
+Vivek Arya
 Rob Csongor
 Vivek Aryaﬂoating above your car. It's just looking out the side and then creating a graphical
 perspective-correct view that looks like you're looking from above.
@@ -331,7 +339,8 @@ together of all the things you could do to reduce the BOM cost, what are the mos
 important things for us to do?
 
 But if you look at growth, though, in the market, if that is indeed coming from the
-mid-range and lower-priced part of the market, wouldn't those parts of the marketRob Csongor
+mid-range and lower-priced part of the market, wouldn't those parts of the market
+Rob Csongor
 Vivek Arya
 Q - Unidentified Participant
 A - Rob Csongor
@@ -369,7 +378,8 @@ Okay. Great. Thanks. So then on the cost side of the question, since 20-nanomete
 looks like it's rather expensive -- there's double-patterning and a number of other
 costs that are high -- is that a node that you guys are still interested in? Do you think
 you can be competitive at 20, or would you like to just skip it and go straight to 16
-thin set?A - Rob Csongor
+thin set?
+A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
@@ -409,6 +419,7 @@ last couple of years, at least -- all those things have been settled, for the mo
 Would you consider using Intel as a foundry partner, or if they came to you, or would
 you go to them to make use of potentially what Altera says is going to be a four-year
 advantage?
+
 Q - Vivek Arya
 A - Rob Csongor
 Q - Vivek Arya
@@ -449,7 +460,8 @@ is at a lower ASP point, slightly lower than corporate gross margin. So if Tegra
 and grows to be a much higher percentage, then that would be a drag on the
 margins. But then there's other things that are pushing our margins. So the other
 growth opportunities we have are on the Tesla side. Tesla's far above corporate
-gross margin.Q - Unidentified Participant
+gross margin.
+Q - Unidentified Participant
 A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
@@ -487,7 +499,8 @@ customers.
 Maybe my follow-up question is from the perspective of a handset maker, which way
 is better -- using your combo integrated chip, Tegra plus LTE, or maybe a 500
 modem chip separately and then having the Tegra 4 conventional? Which way
-should be better for your customer? Thank you.A - Rob Csongor
+should be better for your customer? Thank you.
+A - Rob Csongor
 Q - Unidentified Participant
 A - Rob Csongor
 Q - Vivek Arya

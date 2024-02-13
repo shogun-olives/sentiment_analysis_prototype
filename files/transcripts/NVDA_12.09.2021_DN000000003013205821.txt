@@ -21,7 +21,8 @@ automotive solutions. So this means from the computer in the car to the data
 collection apparatus, to be able to take data into a car properly calibrated and
 synchronize the data, sending up to the cloud where we then build AI models. We
 build models for perception, for mapping, planning and control. And then we build
-a platform where we help simulate that vehicle. And so we have a DRIVE Simplatform that runs on constellation based on Omniverse, and we use that platform to
+a platform where we help simulate that vehicle. And so we have a DRIVE Sim
+platform that runs on constellation based on Omniverse, and we use that platform to
 accelerate the end-to-end ﬂow of AV development.
 We believe that most important differentiator for any company in AV because it's so
 challenging to develop a safe AV experience is a company that has a really eﬃcient
@@ -62,7 +63,8 @@ Sim. But the reason why we build it is we need to do it for AV development
 ourselves. And so then when we have partners and they align to our Hyperion
 architecture, we actually have synthetic data for them that they can immediately take
 and it helps them build models that can handle those hard to find scenarios in the
-real world.We just sort of give that for our partners. It accelerates their development and we
+real world.
+We just sort of give that for our partners. It accelerates their development and we
 kind of appreciate those problems because we're dealing with them ourselves as
 we're building this end-to-end platform. And so this Omniverse Replicator is
 something very exciting that we're building for our ecosystem in our customer base,
@@ -104,7 +106,8 @@ And we also see huge innovation inside the car and we talk about that as the
 Concierge experience. What we mean is, once you take all these technologies like
 our intelligent virtual assistant who has natural language processing. Once you have
 a vehicle that can do that, you can now talk to your car and the car should know
-everything about the automobile. So if there is something wrong with light it shouldRoss Seymore
+everything about the automobile. So if there is something wrong with light it should
+Ross Seymore
 Ali Kani
 Q - Ross Seymoreknow. I got a sign last week that said that my rear light was broken in my car. You
 should just be able to say what is the rear light that's broken? It should tell you, it's
@@ -140,6 +143,7 @@ run the video. I think we have plenty of time for it. (Video Presentation) Ali, 
 know when the video is done and we can jump into Q&A.
 It's done.
 Questions And Answers
+
 A - Ali Kani
 Q - Ross Seymore
 A - Ali KaniOkay, great. Well, when we jump into Q&A, again if anybody has any questions just
@@ -183,7 +187,8 @@ and couple it with what you see in the real world, can you feel like you have en
 diversity such that your AV experience is diverse.
 And I say on top of that, you also need a diverse AV stack, not everything is based on
 AI. Some of the code that you need in a vehicle needs to use legacy methods just for
-that sake, that you might not recognized something, you might not have trained aQ - Ross Seymore
+that sake, that you might not recognized something, you might not have trained a
+Q - Ross Seymore
 A - Ali Kani
 Q - Ross Seymore
 A - Ali Kaninetwork. And so you need maybe in addition to an AI network that sees objects but
@@ -224,7 +229,8 @@ generational opportunities. And I believe that both of them are just starting be
 today most of the cars are active safety cars, right. It's just like it keeps you from
 getting in an accident. It's not really driving you, but that will change over time where
 essentially every car one day will be able to drive you from any place to any place.
-And so that needs much higher performance computers and much more advancedQ - Ross Seymore
+And so that needs much higher performance computers and much more advanced
+Q - Ross Seymore
 A - Ali Kani
 Q - Ross Seymoresoftware in the car. And we're uniquely positioned to be able to deliver that kind of a
 computer and software driving solution.
@@ -267,7 +273,8 @@ still starting to see that transition already in a big way.
 
 You mentioned when you're watching the video that that vehicle was self-driving and
 it is a vision-based system, talk about the sensing modalities that NVIDIA supports. I
-know you don't have the sensing side itself, but you'd be the processor for the dataA - Ali Kani
+know you don't have the sensing side itself, but you'd be the processor for the data
+A - Ali Kani
 Q - Ross Seymore
 A - Ali Kanithat those create. So talk about which of the sensing modalities you believe will be
 most prevalent going forward as we move to L 4/5?
@@ -308,7 +315,8 @@ L2 plus drive. You can't do it on a Tesla today. So I feel like we are best-in-c
 They're doing some really great work. I think, Tesla and XPeng are building
 production cars today, the best self-driving software. But I think other than them we
 are the other best option available on the market. And where we try to differentiate
-is there is a developer ecosystem. They can differentiate even faster than us.Q - Ross Seymore
+is there is a developer ecosystem. They can differentiate even faster than us.
+Q - Ross Seymore
 A - Ali KaniAnd then of course we tried to progress faster. And I think the two years ago, Tesla
 was driving better than we were. But today we're doing scenarios that they can do.
 And so we'll see who ends up full self driving faster. But we feel really good about
@@ -351,7 +359,8 @@ sell as many cars as you can, because the value of your platform is the size of 
 installed base. So they're not trying to take this investment, just raise the price of the
 vehicle. They want to take that investment and sell as many of those platforms as
 they can. Over the life, they'll have a larger installed base. And the value of that
-installed base is far more important and valuable to our partners, then they spendQ - Ross Seymore
+installed base is far more important and valuable to our partners, then they spend
+Q - Ross Seymore
 A - Ali Kani
 Q - Ross Seymore
 A - Ali Kani
@@ -392,4 +401,5 @@ Perfect. Well, Ali, thank you so much for your time. I know you're exceedingly b
 these days, and we'd like to see your dog popping in and saying hi, behind you as
 well. If anybody has any questions on this just email me, we can get them through to
 the folks at NVIDIA. Thanks to Stewart as well. And with that we're out of time, so
-we'll wrap it up. Thanks, again.Thank you, guys.
+we'll wrap it up. Thanks, again.
+Thank you, guys.

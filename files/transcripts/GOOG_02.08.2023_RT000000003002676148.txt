@@ -23,7 +23,8 @@ now, you can simply take a picture with Lens to instantly learn that heart-shape
 pastry is a palmier cookie.
 Our advancements in AI are also why if you need to fix your bike chain, you can get
 directed to the exact point in a video that's relevant to you, like when they're
-showing you how to put the chain back on. If you're shopping for a new accent chair,you can see it from all angles, right on Search, in 3D, and place it in your living room
+showing you how to put the chain back on. If you're shopping for a new accent chair,
+you can see it from all angles, right on Search, in 3D, and place it in your living room
 with AR, augmented reality, to see how it looks. Or if you pop out of the metro in an
 unfamiliar city, you can find arrows overlaid in Google Maps on the real world,
 pointing you to walk in the right direction.
@@ -63,7 +64,8 @@ that learns to translate into another language without ever seeing translation p
 Thanks to zero-shot machine translation, we've added two dozen new languages to
 Translate this past year. In total, over 300 million people speak these newly-added
 languages. That's roughly the equivalent of bringing Translation to the entire United
-States.Elizabeth ReidWhile language is at the heart of how we communicate as people, another important
+States.
+Elizabeth ReidWhile language is at the heart of how we communicate as people, another important
 way we make sense of information is visually. As we are fond of saying, your camera
 is the next keyboard. That's why back in 2017, we redefined what it means to search
 by introducing Lens, so you can search what you see with your camera or photos.
@@ -102,7 +104,8 @@ As Prabhakar touched upon sometimes, it's the combination of words and images
 that communicate meaning. That's why last year we introduced Multisearch in Lens.
 With Multisearch, you can search with a picture and a text together, opening up
 entirely new ways to express yourself. Say, you see a stylish chair, but you want it in a
-more muted color to match your style. You can use Multisearch to find it in beige orPrabhakar Raghavananother color of yours. Or you spot a ﬂoral-patterned shirt, but you want it in bleu et
+more muted color to match your style. You can use Multisearch to find it in beige or
+Prabhakar Raghavananother color of yours. Or you spot a ﬂoral-patterned shirt, but you want it in bleu et
 rouge instead, you can use Multisearch for that too.
 Let's see how that works with a live demo. Oops, we are missing the -- we're missing
 the phone. We will have to -- we have no -- okay, we're going to move on, we can't
@@ -139,7 +142,8 @@ products in a responsible way.
 We've made significant contributions to the scientific community, like developing the
 Transformer, which set the stage for much of the generative AI activity we see today.
 And we're continuing -- committed to continuing to bring these technologies to the
-world in a responsible way that benefits everyone. This is a journey we've been onwith large language models, which can make engaging with technology more
+world in a responsible way that benefits everyone. This is a journey we've been on
+with large language models, which can make engaging with technology more
 natural and conversational.
 Back at I/O in 2021, we unveiled our LaMDA AI model, a breakthrough in
 conversational technology. Next, we're bringing LaMDA to an experimental
@@ -178,7 +182,8 @@ generative AI features will help us organize complex information and multiple
 viewpoints right in search results. With this, you'll be able to quickly understand the
 big picture and then go on to explore different angles. So say, this new information
 on constellations piques your interest, you can dig deeper, for instance, to learn what
-time of year is best to see them and explore further on the web.Open access to information is core to our mission, and we know people seek
+time of year is best to see them and explore further on the web.
+Open access to information is core to our mission, and we know people seek
 authentic voices and diverse perspectives. As we scale these new generative AI
 features like this in our search results, we'll continue to prioritize approaches that will
 allow us to send valuable traﬃc to a wide range of creators and support a healthy
@@ -217,7 +222,8 @@ in a way that's both bold and responsible.
 So far, you've seen how we are applying state-of-the-art AI technologies to help you
 understand the world's information across languages and modalities. AI is also
 making it far more natural to make sense of and explore the real world, like with
-Google Maps.Christopher PhillipsOver to Chris to share more. Come on up, Chris.
+Google Maps.
+Christopher PhillipsOver to Chris to share more. Come on up, Chris.
 
 Thanks, Prabhakar. For 18 years, Google Maps has transformed how people make
 sense of the world. It's a valuable tool for over 1 billion people, helping them avoid
@@ -257,7 +263,8 @@ European cities like Amsterdam, Dublin, Florence and Venice in the coming months
 Immersive View is just one example of how artificial intelligence is powering a more
 visual and intuitive map. It also helps us reimagine how you find places when you're
 on the go. You heard Prabhakar talk about how your camera is the new keyboard,
-and that's also true for the map. Search with Live View uses AI paired withUnidentified Speaker
+and that's also true for the map. Search with Live View uses AI paired with
+Unidentified Speaker
 Christopher Phillipsaugmented reality to help you visually find things nearby, like ATMs, restaurants and
 transit hubs, just by lifting up your phone. We've recently launched Search with Live
 View in several cities, including here in Paris. In the coming months, we'll start --
@@ -293,7 +300,8 @@ We recently launched eco-friendly routing in Europe, to help you choose the most
 fuel-eﬃcient, energy-eﬃcient route to your destination, whether you drive a petrol,
 diesel, electric or hybrid vehicle. And as we're seeing more drivers embrace electric
 vehicles, we're launching new Maps features for EVs with Google built-in, to make
-sure you have enough charge, no matter where you're headed.Marzia NiccolaiFirst, to help alleviate range anxiety, we'll use AI to suggest the best charging stop,
+sure you have enough charge, no matter where you're headed.
+Marzia NiccolaiFirst, to help alleviate range anxiety, we'll use AI to suggest the best charging stop,
 whether you're taking a road trip or just running errands nearby, we'll factor in traﬃc,
 charge level and the energy consumption of your trip. If you're in a rush, we'll help
 you find stations where you can charge your car quickly with our new very fast
@@ -332,7 +340,8 @@ Thank you, Chris. It's exciting to see how Google Maps keeps getting more helpfu
 For the past decade, our daily work at Google Arts & Culture has also been about
 finding new pathways, specifically those at the intersection of technology and
 culture. Together with our 3,000 partners from over 80 countries, we brought
-dinosaurs to life in virtual reality, digitized and preserved the famed TimbuktuManuscripts, re-crafted a destroyed Mayan limestone staircase, and found a way for
+dinosaurs to life in virtual reality, digitized and preserved the famed Timbuktu
+Manuscripts, re-crafted a destroyed Mayan limestone staircase, and found a way for
 us humans to find our four-legged friends' doppelganger and famous artworks. As
 for the latter, at least one of Chris' dogs apparently spent previous life in Renaissance
 Venice.
@@ -371,7 +380,8 @@ Woolaroo with the help of AI-powered object recognition will then try to identif
 what is in the frame and match it against its growing library of words.
 For me this tool is special because it shows how AI can help to make it tangible,
 different for communities and real people, like the one shown here, and their
-struggle to preserve their unique heritage.Prabhakar RaghavanNow, let's have a look at AI in the service of cultural institutions and how it can help
+struggle to preserve their unique heritage.
+Prabhakar RaghavanNow, let's have a look at AI in the service of cultural institutions and how it can help
 uncover what has been lost or overlooked. Women on the forefront of science have
 often not received proper credit or acknowledgement for their essential work. To
 take another step to rectify this, we teamed up with researchers at the Smithsonian
@@ -411,7 +421,8 @@ available online. I invite you to discover all of that and much more in the Goog
 Thank you, and back to Prabhakar.
 
 Thanks Marzia. Today, you saw how we are applying state-of-the-art AI technologies
-to make our information products more helpful for you, to create experiences thatare as multi-dimensional as the people who rely on them. We call this making search
+to make our information products more helpful for you, to create experiences that
+are as multi-dimensional as the people who rely on them. We call this making search
 more natural and intuitive. But for you, we hope that it means that when you next
 seek information, you won't be confined by the language it originated in. You won't
 be constrained to typing words in a search box, and you won't be beholden to a

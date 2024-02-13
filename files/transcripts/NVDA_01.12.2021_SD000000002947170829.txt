@@ -22,7 +22,8 @@ information related to the risks and uncertainties facing our business.
 Okay. So now that we've gotten that carried away, let's talk about CES. It will be a
 great week for us again here at CES. And you're right, we have some great
 announcements that we have already started to roll out and probably things to go in
-the future.A - Harlan Sur
+the future.
+A - Harlan Sur
 A - Colette KressFirst, earlier this weekend, we just announced our win with NIO, our automotive
 company in China over the weekend. This will allow us to incorporate our new
 automotive platform, our drive Orin platform within their cars for the future, starting
@@ -60,7 +61,8 @@ GPUs in the data center but also focusing on all of data center computing with a
 overall acquisition.
 Turning to overall gaming. Gaming will be driven by that continued rollout of our
 RTX 30 Series. ray tracing is now an industry standard. And overall gaming is a very
-important entertainment medium at this time. We are the only company right nowA - Harlan Surthat's offering ray tracing enabled by AI, not just ray tracing but improving the overall
+important entertainment medium at this time. We are the only company right now
+A - Harlan Surthat's offering ray tracing enabled by AI, not just ray tracing but improving the overall
 performance of ray tracing in real-time with no loss in terms of that performance.
 Right now only 10% of our installed base is on RTX, and we're moving quite quickly
 to work in terms of on that upgrade cycle that is ahead of us.
@@ -98,7 +100,8 @@ example, some of the retail sites like Best Buy today, I still can't get an RTX 
 3080, 3090, your latest 3060 Ti. I still can't get it. It's sold out everywhere. And so
 can you give us an update on supply availability? Are the constraints more focused
 on wafer supply or advanced packaging and substation supply? And more
-importantly, when does the NVIDIA team expect the situation to improve?A - Colette Kress
+importantly, when does the NVIDIA team expect the situation to improve?
+A - Colette Kress
 A - Harlan Sur
 A - Colette Kress
 A - Harlan Sur
@@ -138,7 +141,8 @@ incorporated into guidance/near-term strength?
 Yes. So cryptocurrency is interesting. So GPUs, as you know, have been
 programmable for many, many years. And it allows a constantly discovering
 capability for new applications to use the overall GPUs, and that has driven our
-overall growth in the market.A - Harlan Sur
+overall growth in the market.
+A - Harlan Sur
 A - Colette KressCryptocurrency mining is one of those such applications. Now mining demand
 depends on our installed base of mining capacity, potentially new coins. And what
 we would consider to be a return on investment of new GPUs. For example, mining
@@ -177,7 +181,8 @@ Yes. So when we think about this holiday season and what we've already seen with
 our 30 Series, now that it's such an important part of the year to sell our overall
 GPUs. You've watched in terms of a couple of highlights. One of them is looking at
 Steam online and the concurrent users overall is up 40% year-over-year. This is
-inﬂuenced by folks, more and more gamers coming into this arena to actually useA - Harlan Sur
+inﬂuenced by folks, more and more gamers coming into this arena to actually use
+A - Harlan Sur
 A - Colette Kressgaming as an entertainment and social and probably for a long time to come as we
 move forward.
 We have 36 games already powered by RTX. Remember, we use AI in our overall
@@ -216,7 +221,8 @@ laptops of today. Laptops over time became very important that it was thin and l
 Thin and light, and overall ability to leverage high end GPUs was the work of NVIDIA,
 working with the overall OEMs and working with them on that Max-Q technology.
 We wanted to enable the overall mobility of overall gamers, the ease of use, and we
-have seen a now new generation of overall laptops that are focused on the high-endA - Harlan Sur
+have seen a now new generation of overall laptops that are focused on the high-end
+A - Harlan Sur
 A - Colette Kresstouch of gaming. You can go out and procure many different types of overall laptops
 at different prices, including the same overall performance that you can get in an
 overall desktop.
@@ -255,7 +261,8 @@ overall cars.
 Our focus on AI cockpits, therefore, is on that top piece we finish overall calendar
 2020. Our AI cockpit work with Mercedes is very important, a very important
 beginning. As you know, we are connected with Mercedes for the long term as we
-think about the revenue stream and focusing on AV as we move forward.A - Harlan Sur
+think about the revenue stream and focusing on AV as we move forward.
+A - Harlan Sur
 A - Colette Kress
 A - Harlan SurSo over the next year, 2 years, we will see a ramp of that overall AI cockpit where we
 begin the overall AV ramps, some of that overall China partners that we have there
@@ -297,7 +304,8 @@ data center. So following up on your A100 product cycle, 7-nanometer Ampere offe
 significant performance gains over the previous Tesla V100. Can you just talk about
 the overall ramp in customer traction? What percentage of the data center sales mix
 in Q3 was A100? And where do you see this mix going as we move through calendar
-year 2021?A - Colette Kress
+year 2021?
+A - Colette Kress
 A - Harlan Sur
 Yes. So let's first start with what we're seeing right now in terms of our overall run
 rate in our data center business. We're probably on an annualized run rate right now
@@ -334,7 +342,8 @@ very good part of our business and our sales of A100.
 
 Great. Well we're just about out of time, Colette. I want to thank you as always for
 your participation. Looking forward to the NVIDIA team driving strong growth this
-year. So again, thank you very much.A - Colette Kress
+year. So again, thank you very much.
+A - Colette Kress
 A - Harlan Sur
 Thanks so much for hosting us. Appreciate it.
 

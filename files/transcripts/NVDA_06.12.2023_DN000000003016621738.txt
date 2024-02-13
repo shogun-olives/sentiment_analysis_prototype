@@ -19,7 +19,8 @@ I'm going to jump in and just talk about NVIDIA's strategy. So this slide really
 cornerstone of what makes NVIDIA unique in automotive and instead, we're
 providing products and services that support partners in their automotive ecosystem
 from sort of we can say end-to-end. And what that means is people need to design
-their cars and NVIDIA has solutions that help customers design their cars, train theirAI models, simulate their AV stack. And we use drive Omniverse to help customers
+their cars and NVIDIA has solutions that help customers design their cars, train their
+AI models, simulate their AV stack. And we use drive Omniverse to help customers
 build their automotive factory -- design their automotive factories, also build retail
 configurator. In the engineering side, we use Omniverse to help people do synthetic
 data generation, such that they can sort of augment the data they have from their
@@ -62,7 +63,8 @@ This just shows you guys some of the product roadmap inside the car. I think the
 point that I want to stress here is that the needs of AV are constantly increasing in
 compute requirements because L4-L5 is not even close to being solved. Sensor
 resolutions are growing. The complexity of networks that people are developing in
-the car is growing in sophistication. We now have people who are building BEVtransformers in their self-driving cars. We have customers now who are trying to
+the car is growing in sophistication. We now have people who are building BEV
+transformers in their self-driving cars. We have customers now who are trying to
 build like a single model, almost like we say, large language models, but it's like an
 end-to-end AV network in the cars.
 When you have a situation like this, you need a general-purpose programmable
@@ -104,7 +106,8 @@ platform and we have such a huge investment in software, we care about increasin
 the installed base of our platform. And so we're excited about the partnership we
 announced with MTK, MediaTek where essentially our GPUs, CUDA, TensorRT gets
 integrated into their SOCs for automotive. And so now if a customer wants to use tab
-access to CUDA, TensorRT or DRIVE software, the operating system, the middleware,Q - Pierre Ferragu
+access to CUDA, TensorRT or DRIVE software, the operating system, the middleware,
+Q - Pierre Ferragu
 A - Ali Kanithe application software we built, we can support that platform with our software --
 our platform ecosystem advantages. And this is just the beginning.
 This chiplet that we essentially sort of gave access to MediaTek is available for other
@@ -141,7 +144,8 @@ buys our chips, there is our chip ASP and there is a software ASP always. So eve
 you have DRIVE operating system, if you go to production, it needs to be safe. And
 so there is revenues for just the operating system being safe or license for that. And
 then as you go up the stack, we have a customer who might say, I want you to build
-the entire stack end-to-end, so we want you to do the L2 plus or L3 software. Then inQ - Pierre Ferragu
+the entire stack end-to-end, so we want you to do the L2 plus or L3 software. Then in
+Q - Pierre Ferragu
 A - Ali Kani
 Q - Pierre Ferraguthose cases, the value of the software can grow to be larger than the value of the
 hardware, and it just depends on what the customer wants.
@@ -181,7 +185,8 @@ it a bit further.
 So do you have clients who choose like an on board hardware that is not NVIDIA but
 then use NVIDIA elsewhere? And as I was thinking of the question, likey let's talk
 about Tesla, who is a very well known -- very, very large client of NVIDIA because
-they run amongst larger GPU clusters in the worldwide. Why is they have thatA - Ali Kani
+they run amongst larger GPU clusters in the worldwide. Why is they have that
+A - Ali Kani
 Q - Pierre Ferragu
 A - Ali Kaniownership in the (inaudible) I'm pretty sure you can't comment too specifically on
 NVIDIA, but yes, tell us about how open you are to altentative on both hardware, and
@@ -220,7 +225,8 @@ MediaTek, right, that yeah, that's fine. If you want to have access to some of o
 capability put it in your car, it could be a competitor, it could be just an OEM, and we
 would be happy to sort of give them access to the GPU and let them build their own
 solutions in the car, and then, of course, then we can help them in the cloud based
-on that.Q - Pierre Ferragu
+on that.
+Q - Pierre Ferragu
 A - Ali Kani
 Q - Pierre Ferragu
 A - Ali Kani
@@ -261,7 +267,8 @@ domestic division.
 Yeah. [ph]
 
 Okay, great. Thanks for these clarifications. So let me ask you one question. So if we
-look at the broader like passenger car opportunity is really NVIDIA, Tesla, Mobileye.A - Ali Kani
+look at the broader like passenger car opportunity is really NVIDIA, Tesla, Mobileye.
+A - Ali Kani
 Q - Pierre Ferragu
 A - Ali KaniToday, Tesla is as integrated as can be. They do everything in house. And Mobileye is
 offering a scale-integrated package. It opens its a bit over time, offering APIs, the
@@ -301,7 +308,8 @@ Hyperion architecture.
 We actually just come in later and say, oh, yeah, like we could -- like if you're having
 problems with parking, we can just give you the parking stack because we've
 developed on the platform and so there is an opportunity for us to help them if
-some of those risks come to fruition. But it's of course not even something theyQ - Pierre Ferragu
+some of those risks come to fruition. But it's of course not even something they
+Q - Pierre Ferragu
 A - Ali Kani
 Q - Pierre Ferragu
 A - Ali Kani
@@ -341,7 +349,8 @@ Very good. I'm going to try and sneak in like two last questions in training [ph
 might be a bit challenging. So the first one is, our work on NVIDIA shows the cost
 base for NVDA, especially on the cost-of-goods-sold like on bill of material basis is
 very, very competitive. The hardware you have in the car because when you have
-vision because they have their own chip is very competitive.A - Ali Kani
+vision because they have their own chip is very competitive.
+A - Ali Kani
 Q - Pierre Ferragu
 A - Ali KaniMobileye this morning, really talked about their cost competitiveness has ben very
 stronger like underlying driver or their very strong market share today and what's
@@ -382,7 +391,8 @@ Okay, that's very clear. And my last question would be, we've talked mostly abou
 like the passenger car opportunity on the robotaxi like the driverless experience. I
 have just one question from you based on the -- all the projects and teams which you
 do entire at different levels. What's your view on the past side options? So where do
-you see the first like significant rollouts of these vehicles and timeline as well?Q - Pierre Ferragu
+you see the first like significant rollouts of these vehicles and timeline as well?
+Q - Pierre Ferragu
 A - Ali Kani
 Q - Pierre FerraguOkay. So first, I'll say that. I think we'll find a couple of cities that well sort of green
 light these trials and we just need to see how successful they are. We're already

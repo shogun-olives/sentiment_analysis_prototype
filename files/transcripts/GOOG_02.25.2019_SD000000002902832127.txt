@@ -18,7 +18,8 @@ a lot for coming.
 
 Yes. We have a very nice weather here in San Francisco, as usual. So (not easy) if you
 ﬂy in. We made it. We made it.
-Questions And AnswersQ - Brian Thomas Nowak
+Questions And Answers
+Q - Brian Thomas Nowak
 A - Philipp Schindler
 Google Map got you here. So the first one I wanted to start with just because I think
 it's always interesting to sort of hear what happens kind of behind the scenes at the
@@ -66,7 +67,8 @@ from the best and we can just increase the worst. And we do this very, very
 consistently and in a really, really data-driven approach to help me run this. And
 maybe just to give you a simple example, we know, for example, that our customers
 will benefit if they move their bidding systems to the next generation of machine
-learning to what we call auto-bidding or smart bidding. So we have a very deepQ - Brian Thomas Nowak
+learning to what we call auto-bidding or smart bidding. So we have a very deep
+Q - Brian Thomas Nowak
 A - Philipp Schindler
 Q - Brian Thomas Nowak
 A - Philipp Schindlerunderstanding what the percentage in our customer base, in our portfolio is when it
@@ -111,7 +113,8 @@ the ROI that they generate for them. But the reality is it's working really well
 long as the ROI is positive, I don't think we are really limited in the way we should
 look at our markets. And our market sizes. When we look at maybe the second -- first
 part defining of your question, when you look at our core business, I usually try to
-decompose our business, especially the Search business, into the differentQ - Brian Thomas Nowak
+decompose our business, especially the Search business, into the different
+Q - Brian Thomas Nowak
 A - Philipp Schindlercomponents. So when you look, for example, at core search, #1 part of that
 decomposition would obviously be all queries. Maybe we'll park that piece for a
 second. The next big piece within that is obviously our ad coverage. If we go a little
@@ -157,7 +160,8 @@ can I drive ad coverage? What is the upside on CPCs? What's the upside in click-
 through rate? How can you help all partners, the ecosystems, the advertisers,
 agencies, other partners that we work with to be better in all of those things. And we
 have pretty significant investment in all of those areas because of what I just
-described. I feel there's a lot of room for improvement there.Q - Brian Thomas Nowak
+described. I feel there's a lot of room for improvement there.
+Q - Brian Thomas Nowak
 A - Philipp Schindler
 Is it from the desktop side? Because the desktop is -- sometimes we focus on all
 these tech companies as I'd like to think about. How are you doing in your oldest
@@ -205,7 +209,8 @@ model? And I think it's really important to understand in that context that Assi
 does not only mean that you have a voice in, voice out model. But for so many use
 cases going forward, especially commercial use cases, I think we will actually see
 voice in, display out as a much more interesting use case. And you can see already
-smart speakers emerging. You can think about a lot of other areas where you actuallyQ - Brian Thomas Nowak
+smart speakers emerging. You can think about a lot of other areas where you actually
+Q - Brian Thomas Nowak
 A - Philipp Schindler
 Q - Brian Thomas Nowaktalk to some sort of digital assistant. But you get a visual back and very simple
 example, right, if you're interested in buying a new nice jacket and you ask the
@@ -251,7 +256,8 @@ better consumer experience overall. So I'm actually pretty excited that there is
 it positively, upside in the UI development and the user experience there.
 
 Let's go back to the Voice Search point, you -- voice, there's a lot to talk about Voice
-Search and services. Is it a threat to Alphabet? Is it an opportunity for Alphabet? HowA - Philipp Schindler
+Search and services. Is it a threat to Alphabet? Is it an opportunity for Alphabet? How
+A - Philipp Schindler
 Q - Brian Thomas Nowak
 A - Philipp Schindler
 Q - Brian Thomas Nowakdo you think about kind of Voice Search and sort of the steps that it needs to kind of
@@ -295,7 +301,8 @@ of TVs. So you're well positioned from that perspective. We still think based on
 (authorized) data, YouTube is still destination #1 when it comes to online ad-based
 video. Strong reach, strong engagement. Maybe talk about some of the recent ads
 you've rolled out on TrueView that -- around YouTube, we've heard about TrueView
-for Reach, TrueView for Action. How has that changed the advertiser discussionA - Philipp Schindler
+for Reach, TrueView for Action. How has that changed the advertiser discussion
+A - Philipp Schindler
 Q - Brian Thomas Nowak
 A - Philipp Schindleraround YouTube? And talk to us about the real drivers of YouTube's revenue growth
 from here.
@@ -341,7 +348,8 @@ Yes. So Maps, there's a lot of different angles how you can look at Maps. And I 
 the easiest way to do it is by differentiating between the different consumer use
 cases. And there's obviously the angle where you use Maps to basically get to a
 certain destination very, very quickly. And that's the very much utility use case. And
-you need to be really cautious that you don't interfere with the consumer experienceQ - Brian Thomas Nowak
+you need to be really cautious that you don't interfere with the consumer experience
+Q - Brian Thomas Nowak
 A - Philipp Schindleron this one because the consumer wants to get really quickly to their destination and
 wants that information quickly. But once they have an understanding of the
 destination, then there's obviously an interesting monetization model that you can
@@ -388,7 +396,8 @@ all different products. You can also uplevel a little bit and you can just ask y
 okay, how can I use machine learning to either be better at finding audiences in
 general so I have the right message for the right audience, the right creative
 disposition to react to a certain advertising message obviously on the audience side.
-Again, you can think about it from a creative perspective. The other big color inQ - Brian Thomas Nowak
+Again, you can think about it from a creative perspective. The other big color in
+Q - Brian Thomas Nowak
 A - Philipp Schindler
 Q - Brian Thomas Nowak
 A - Philipp Schindleradvertising, I just talked about it. Then the big third one is obviously bidding
@@ -432,6 +441,7 @@ payments is probably only going to get more important. So maybe talk to us about
 some of the learnings as you sort of rolled out Android Pay and different iterations
 over the past couple of years. What are sort of the 1 or 2 areas you really focus on for
 payments going forward?
+
 Q - Brian Thomas Nowak
 A - Philipp SchindlerYes. So what's really interesting, you mentioning it part of linking transactions to the
 advertising piece, which is what a lot of people refer to. I actually find the most
@@ -479,7 +489,8 @@ core products successful or even more successful in the emerging markets because
 if you think about the upside from a Search perspective, from a YouTube perspective,
 from a Maps perspective, from an Android perspective and so on and so on, it is
 actually -- I think, it's pretty significant. Then, of course, we have differentiated
-investments in emerging markets. We talked about the payment example in India. ToQ - Brian Thomas Nowak
+investments in emerging markets. We talked about the payment example in India. To
+Q - Brian Thomas Nowak
 A - Philipp Schindlergive you another one, we created a product called Files, Files by Google, which also
 we launched in India and is actually now coming back to the U.S. And it's getting -- I
 think we're also in the 40 million monthly active range. And this one is coming back
@@ -526,7 +537,8 @@ something. So very, very meaningful. But we feel very comfortable with the effor
 we've done there. We've always valued privacy. We put it on an extremely, extremely
 high level. So that's GDPR development. You asked about the copyright piece as
 well. So on the copyright reform side, we've always been very clear that we're
-supportive of copyright reform if it's beneficial to a broader ecosystem, which meansQ - Brian Thomas Nowak
+supportive of copyright reform if it's beneficial to a broader ecosystem, which means
+Q - Brian Thomas Nowak
 Q - Unidentified Participant
 A - Philipp Schindler
 Q - Unidentified Participant
@@ -567,6 +579,7 @@ YouTube or Netﬂix. He spends 2 or 3 hours a day using one or the other for 100
 different reasons. So it's a lot of people. And that's the future. So what I'm asking you
 is help me in understanding what it means to your business. I'm sure you know that
 we like to understand that because we've got to make the investments.
+
 Q - Brian Thomas Nowak
 Q - Unidentified Participant
 A - Philipp Schindler
@@ -606,7 +619,8 @@ How do you think about...
 I can't hear you without the microphone, I'm sorry.
 How do you think about the changing competitive landscape with Amazon and
 Instagram increasingly moving into e-commerce and product listings advertising
-within the last year or so?A - Philipp Schindler
+within the last year or so?
+A - Philipp Schindler
 Q - Brian Thomas Nowak
 A - Philipp Schindler
 Whenever there's a new inventory pool that is being made available for advertisers

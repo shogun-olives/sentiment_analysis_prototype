@@ -21,7 +21,8 @@ customer. When I got to Kohl's about eight years ago, there was a small pocket i
 data center running RHEL. And it was a distant third out of 3 operating systems at
 Kohl's. And I look today years later, RHEL is the predominant operating system and
 we've just signed on for OpenShift as our PaaS platform in our hybrid cloud effort.
-We have efforts underway around Gluster, ActiveMQ. We have a relentlessA - Cassie Kozyrkov
+We have efforts underway around Gluster, ActiveMQ. We have a relentless
+A - Cassie Kozyrkov
 Q - Ritch Houdek
 A - Cassie Kozyrkov
 Q - Chris W right
@@ -62,7 +63,8 @@ right? So I think the secret is this: the secret is to understand what your valu
 a company and then go find partners that align to those values, okay? So with us, it's
 pretty simple. We're a very engineering-led organization and we feel that you guys
 both align really nicely to that. Secondly, we're very committed to a future of open
-source, okay? Not only just open source. But enterprise-grade open source, right,Q - Chris W right
+source, okay? Not only just open source. But enterprise-grade open source, right,
+Q - Chris W right
 A - Cassie Kozyrkovthat we can run our business on. So we felt that with the future being so uncertain,
 you don't know where all this is going five years from now. So what you need to do is
 find a partner that has the right stuff in their DNA so that as new products are
@@ -105,7 +107,8 @@ whole class of tasks where we just cannot express the instructions, they're inef
 AI and machine learning are about automating the ineffable. This is a fundamental
 leap in human progress. Now you can get computers to do tasks where you cannot
 possibly express the instructions. This is so exciting and seems futuristic and diﬃcult,
-right? And when you think about machine learning, the one thing I most want you tothink about is microwaves. Who here in the audience knows how a microwave oven
+right? And when you think about machine learning, the one thing I most want you to
+think about is microwaves. Who here in the audience knows how a microwave oven
 works well enough to build a new one from scratch? Raise hands. Who can build a
 new one? Do I see any takers, any takers? No hands? Yes, me neither. Who here has
 never used one to reheat food? You all have. Even though you have no idea how it
@@ -154,7 +157,8 @@ here is try cloud AutoML. Sure, maybe we haven't trained our vision system on th
 clothing type that your Kohl's customers are wearing. But no problem, just feed in
 your images with your labels into cloud AutoML. And you'll be good to go, only a
 small adjustment necessary. Now say you're truly innovating, you have your own
-completely unique ingredients, you're doing something pretty different in thekitchen. I don't know, maybe now you're making an edible sock that tastes like pizza.
+completely unique ingredients, you're doing something pretty different in the
+kitchen. I don't know, maybe now you're making an edible sock that tastes like pizza.
 Well machine learning and innovation are in Google's core DNA. In fact, I can't think
 of a single one of our consumer products that doesn't have machine learning in it
 somewhere. And so if you are innovating in the kitchen, if you're building truly new
@@ -200,7 +204,8 @@ yourself get locked into a kitchen where the purveyor sets it up one time for yo
 then controls what you can and can't have in there. And every appliance has its own
 proprietary little socket that you are not allowed to tamper with. And if your business
 changes, then you have to rebuild and rewire the whole thing. Imagine instead, the
-dream kitchen that becomes what you need it to be instantly. Complete universalwiring, open interfaces, the best of everything, all the modern appliances always
+dream kitchen that becomes what you need it to be instantly. Complete universal
+wiring, open interfaces, the best of everything, all the modern appliances always
 available. And you can plug them in with no fuss because that wiring is universal.
 That, my friends, is the power of open source. And that is what Google and Red Hat
 together believe in. We don't want to see your creativity squashed by what seemed

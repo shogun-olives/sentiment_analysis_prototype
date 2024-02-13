@@ -21,7 +21,8 @@ enterprise division. And so really pleased to be here today.
 
 Got it. So that's an important point just to start off with, that when people think
 Microsoft cloud they generally think Azure, or maybe broadly defined include Oﬃce
-365. But the definition you just provided of cloud platform extends well beyond that.Mike Schutz
+365. But the definition you just provided of cloud platform extends well beyond that.
+Mike Schutz
 Karl Keirstead
 Mike Schutz
 That's right. So if we start at the top level we think about the Microsoft cloud as the
@@ -62,7 +63,8 @@ makers, NIT decision makers in the line of businesses to look at the cloud, whet
 be SaaS apps, whether that be just thinking about modernizing our infrastructure.
 Infrastructure-as-a-Service has proven to be the lowest friction way to start in the
 cloud. So if you think about starting in Dev tests [ph], bringing in applications just to
-try it out and then bringing those applications back on prem as a starting point.Karl Keirstead
+try it out and then bringing those applications back on prem as a starting point.
+Karl Keirstead
 Mike SchutzThing about those line of business applications in Infrastructure-as-a-Service. And
 the benefit of Infrastructure-as-a-Service has always been you kind of can take an
 existing app without modification and run it in the cloud even though it wasn't
@@ -103,7 +105,8 @@ six times that of Google Cloud platform. And so even if you combined AWS and
 Google Cloud, we're in more regions than the two of them combined. And so
 hyperscale is important. It's important to our customers because they want our
 service where they are and where their customers are. And so that's one of
-fundamental tenets. But AWS is big, too.Karl Keirstead
+fundamental tenets. But AWS is big, too.
+Karl Keirstead
 Mike SchutzThe other elements. And this is where really the differentiation comes in, is around
 hybrid. Because of our fundamental strategy to help customers deploy the same
 technologies that we put in our public cloud hyperscale data center and run those in
@@ -145,7 +148,8 @@ PaaS platform and Microsoft is. As well as Storage-as-a-Service where Amazon als
 plays. And so think about the breadth of the Microsoft offering. It helps align with
 where our customers are looking to move over time as they think about application
 modernization and not just running VMs in the cloud, as well as our broad footprint
-and our trust that we have in the enterprise community.Karl Keirstead
+and our trust that we have in the enterprise community.
+Karl Keirstead
 Mike Schutz
 Karl Keirstead
 Mike Schutz
@@ -187,7 +191,8 @@ great. But whatever a customer wants to do at their data layer we want to suppor
 that.
 At the -- from a mobile device standpoint we have great solutions to help customers
 build mobile apps and connect those mobile apps to Android, iOS devices, as well
-as of course Windows devices. From a language perspective we believe .NET isKarl Keirstead
+as of course Windows devices. From a language perspective we believe .NET is
+Karl Keirstead
 Mike Schutz
 Karl Keirstead
 Mike Schutz
@@ -226,7 +231,8 @@ discreet set of folks like AirWatch and MobileIron have played. We've got a solu
 there called Microsoft Intune as part of the mobile -- the enterprise mobility suite.
 From an identity management perspective and actor directory and identity and
 protecting user identities has always been critical to our customers. We provide an
-online service called Azure Active Directory Premium that helps provide single signKarl Keirstead
+online service called Azure Active Directory Premium that helps provide single sign
+Karl Keirstead
 Mike Schutzon and authentication control for all SaaS applications, Oﬃce 365, CRM online. But
 up to 2,500 other SaaS apps like Workday, like Salesforce, like others. And so IT can
 help control access and maintain the security of their enterprise that are using SaaS
@@ -266,7 +272,8 @@ Sure. And I'll talk about Windows Server first and I think SQL Server is an impo
 element there as well.
 From a Windows Server perspective it continues to be the most popular operating
 system on the plant. You look at all the analyst reports it's in somewhere between
-70% and 80% share in terms of the operating system share.Karl Keirstead
+70% and 80% share in terms of the operating system share.
+Karl Keirstead
 Mike Schutz
 Karl Keirstead
 Mike Schutz
@@ -306,7 +313,8 @@ component of the whole server product revenue bucket. SQL Server's obviously
 pretty good as well. When we look at your total server product numbers that you do
 disclose, I think in the June quarter for Microsoft it decelerated a little bit and I think
 it's pulled down a little bit the commercial licensing growth number. And there
-wasn't much of an explanation on the earnings call outside of I think Amy ﬂaggedMike Schutz
+wasn't much of an explanation on the earnings call outside of I think Amy ﬂagged
+Mike Schutz
 Karl Keirstead
 Mike Schutz
 Karl Keirstead
@@ -343,7 +351,8 @@ Yes. There's been a fair amount of buzz that given the sort of latency and the s
 with which Microsoft -- or no, Microsoft -- MasterCard and Visa have been securing e-
 commerce that you guys are having some very interest high-level discussions with
 banks directly and other players about creating a browser solution that would secure
-e-commerce in a way that is copacetic with the internet in general. Do you have any -A - Mike Schutz
+e-commerce in a way that is copacetic with the internet in general. Do you have any -
+A - Mike Schutz
 Q - Unidentified Participant
 A - Mike Schutz- and would likely be more operationally sound. Do you have any perspective on
 that?
@@ -384,7 +393,8 @@ environment. Then they can still make the decision when they want to go to the
 public cloud, which applications go. And by the way, once they do that, the mobility,
 it's there because they've got that consistent platform on premises and off so it
 provides a lot less friction for them to think about going to the public cloud. So it's
-that end-to-end vision.A - Karl Keirstead
+that end-to-end vision.
+A - Karl Keirstead
 A - Mike Schutz
 A - Karl Keirstead
 A - Mike Schutz
@@ -425,6 +435,7 @@ server OS layer seems to be all about containers and all about the Docker
 ecosystem. And you mentioned earlier that Microsoft is providing Windows Server
 2016 support for Docker. Can you elaborate a little bit on that? It just seems to be a
 very big deal on the server OS space.
+
 A - Karl KeirsteadAbsolutely. In general, from a cloud native and modern app development paradigm
 standpoint, the concept of micro services and containers are pretty hot these days.
 And so the public cloud providers and SaaS providers are pretty ﬂuent in that and
@@ -467,7 +478,8 @@ Any last questions for Mike? Mike, I'll end with one question, then. A lot of th
 discussion around things like the server OS layer and the cloud end up with a
 conversation about next-gen cloud native applications, open source, etc. So it feels
 to me like all of the larger firms are moving a little bit more aggressively today to try
-to stay relevant in a world where the next-gen architecture and infrastructure looksA - Mike Schutz
+to stay relevant in a world where the next-gen architecture and infrastructure looks
+A - Mike Schutz
 A - Karl Keirstead
 A - Mike Schutz
 A - Karl Keirstead

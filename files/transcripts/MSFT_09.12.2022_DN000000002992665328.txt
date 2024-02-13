@@ -19,7 +19,8 @@ Questions And Answers
 
 Got it. And I happen to -- you guys should all check it out, there is this YouTube
 video. You are the star of the show and you talked a lot about how you plan to
-approach fiscal '23 with your partners. It's called Inspire '23. Is that Inspire '23?A - Judson Althoff
+approach fiscal '23 with your partners. It's called Inspire '23. Is that Inspire '23?
+A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
 Right.
@@ -59,7 +60,8 @@ predictability in their supply chain. We've got to solve the world's sustainabil
 challenges and every CEO is being asked what they're doing for net zero.
 And then on top of that, cybercrime is on the rise. The bad guys aren't slowing down
 and so threats are coming from everywhere, even nation states. And preparing your
-enterprise to be able to tackle those things is a very diﬃcult -- very diﬃcult thing.Q - Kash Rangan
+enterprise to be able to tackle those things is a very diﬃcult -- very diﬃcult thing.
+Q - Kash Rangan
 A - Judson Althoff
 Q - Kash RanganAnd so all of that happens on top of having to find a way to solve for it, while
 spending less money. And we feel like technology has a role most certainly and if
@@ -103,7 +105,8 @@ higher rates whatnot. The fact that tech actually makes money from our perspecti
 should hold us in good stead right? And that was the point that our Chief Economist,
 Jan Hatzius was making in the morning at 7:30. He calls for a soft landing and we did
 ask him about the role of technology in GDP improvement. He is definitely more
-optimistic than you would imagine.A - Judson Althoff
+optimistic than you would imagine.
+A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
 Q - Kash RanganAnd Judson, looking at a little bit more big picture, lot of our clients have been
@@ -146,7 +149,8 @@ of these things and we're going to lower customer spend and increase our share a
 the same time.
 
 So I'm glad you didn't say the best of Goldman Sachs in that, so that would have
-been a concerning thing. But I did want to ask you a little bit about de-globalization.A - Judson Althoff
+been a concerning thing. But I did want to ask you a little bit about de-globalization.
+A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
 Q - Kash RanganWhat can Microsoft help customers with respect to onshoring de-globalization?
@@ -187,7 +191,8 @@ spending some time on for this audience because like this came up as well as on 
 run of the roundtable. So I apologize in advance that anybody who was in there it
 would be a boring answer for you, because...
 
-Nothing is boring. You are a good speaker.A - Judson Althoff
+Nothing is boring. You are a good speaker.
+A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
 But, look, I think we've trained you all to think about our business in solution areas
@@ -230,7 +235,8 @@ more lasting wellness programs for the patients for whom you care. And the Nuanc
 acquisition we made is a very clean example of that because we can provide AI
 solutions to strengthen that relationship to get to a deeper understanding of
 prognosis of the patient, leverage the longitudinal care record and all of the data
-that we have an Azure to drive better wellness outcomes than ever before. So it'sQ - Kash Rangan
+that we have an Azure to drive better wellness outcomes than ever before. So it's
+Q - Kash Rangan
 A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
@@ -272,7 +278,8 @@ key for us in this coming year.
 
 Got it. Got it. I'm going to do a quick pulse check. I always keep the mic so far away
 from me. Quick pulse check to see if anybody has any questions. If you do, just raise
-your hand, we'll try to -- it's not even possible for me to see the raised handsQ - Analyst
+your hand, we'll try to -- it's not even possible for me to see the raised hands
+Q - Analyst
 A - Judson Althoff
 Q - Analyst
 A - Judson Althoff
@@ -310,7 +317,8 @@ it's everyone from the PTCs to the Rockwells to the Siemens of the world and mak
 sure that they have deep integrations into our portfolio, and that those integrations
 are more seamless for our customers are critical because it kind of comes full circle
 back to the adoption curve that we talked about just a moment ago. The more
-software-oriented these solutions can be, the more frictionless their adoption can beQ - Kash Rangan
+software-oriented these solutions can be, the more frictionless their adoption can be
+Q - Kash Rangan
 A - Judson Althoff
 Q - Analyst
 A - Judson Althoffand so the forward investments we make in the same are critical to our success. But
@@ -350,7 +358,8 @@ engineering partnership as well as a unique go-to-market partnership.
 So we've demonstrated pretty openly that we're committed to heterogeneous
 standards and helping our customers really because that's what it's all about. They'll
 never be as much, to my chagrin, there'll never be a single customer that is 100%
-Microsoft. And so if we're here to try to advance their success.Q - Kash Rangan
+Microsoft. And so if we're here to try to advance their success.
+Q - Kash Rangan
 A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
@@ -393,7 +402,8 @@ strategy, because no system can be any more intelligent than the data over which
 reasons.
 If you don't invest in your data strategy and you put tons of money into your AI
 strategy, all you're going to do is make mistakes with more confidence than ever
-before. So like data as a foundation matters. Microsoft's fairly uniquely positionedQ - Kash Rangan
+before. So like data as a foundation matters. Microsoft's fairly uniquely positioned
+Q - Kash Rangan
 A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoffhere because we do have such a massive relational customer base with SQL Server.
@@ -432,6 +442,7 @@ We'll come to you in a second. Microsoft 365. Quite a few of us have been using
 Teams, maybe all the time or some of the time. What are you doing with the Teams
 product? Where are you investing in the functionality? And what are you telling your
 customers specifically leverage within Teams and then after that?
+
 Q - Kash Rangan
 A - Judson Althoff
 Q - Kash Rangan
@@ -471,7 +482,8 @@ developer, not just the...
 The developers are working in that same collaborative environment to become more
 and more productive.
 
-Got it. Let's go to your question, please. Thank you.A - Judson Althoff
+Got it. Let's go to your question, please. Thank you.
+A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff
 Q - Kash Rangan
@@ -513,7 +525,8 @@ this earlier. There's the consumer metaverse. My avatar buys Kash's avatar of...
 You buy me a beer, you'd rather have a real beer.
 
 I'd rather have the real beer than have my avatar buy your avatar a beer, but like
-there'll be a monetization thing there in the consumer metaverse. There's theQ - Kash Rangan
+there'll be a monetization thing there in the consumer metaverse. There's the
+Q - Kash Rangan
 A - Judson Althoffcommercial meters, where people will have more engaging and experiential
 collaboration in the metaverse, and I do think that there's an opportunity there to
 bring people from around the world with different perspectives to collaborate. But
@@ -556,7 +569,8 @@ It's why we're so passionate about needing to have all of those assets be part o
 Microsoft Cloud because the mere active wiring together any part of what I just
 described, creates a vulnerability because it's at the scene that you find a lot of the
 attack vectors that exist out there today. So security is inherent in every product we
-build, but we also have added capabilities across endpoints, identity backplanes,Q - Kash Rangan
+build, but we also have added capabilities across endpoints, identity backplanes,
+Q - Kash Rangan
 A - Judson Althoffcloud app models, event and incident management, because our customers
 demand it and need it in the world today.
 So look, it is a huge body of work for us to make sure that we empower our
@@ -597,7 +611,8 @@ way that industrial metaverse, digital twins connect back to Teams as a platform
 their frontline workers is helping them with everything from skills evolution and skills
 development, employee satisfaction and worker retention through to how the
 Boardroom can conceive more capability on the front lines to drive a more effective
-and more eﬃcient Unilever over time.Q - Kash Rangan
+and more eﬃcient Unilever over time.
+Q - Kash Rangan
 A - Judson Althoff
 Q - Kash Rangan
 A - Judson Althoff

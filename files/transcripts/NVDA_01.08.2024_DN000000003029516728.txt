@@ -21,7 +21,8 @@ the world leaders who are dedicated their lives to save others. And it's an amaz
 opportunity for us to be the only technology company here.
 And if you were here during the Recursion talk, I think this is a remarkable year for
 technology and healthcare and I want to be able to talk about that. So again, thank
-you to Harlan, and the J.P. Morgan event for this opportunity to present.So let's just walk through. Before I get started, a moment to read our Safe Harbor
+you to Harlan, and the J.P. Morgan event for this opportunity to present.
+So let's just walk through. Before I get started, a moment to read our Safe Harbor
 Statement, which you are all quite familiar with. This presentation does contain
 forward-looking statements, and investors are advised to read our reports filed by
 the SEC for information related to risks and uncertainties facing our business.
@@ -60,7 +61,8 @@ cells and visualizing 600 different gene and protein targets per cell. You're li
 to these numbers, 6,000 different genes and protein target per one all -- for all one
 million cells. And this is producing something like six terabytes of data per sample,
 per sample. The cosmics platform, it allows you to analyze more cell types, more cell
-states, and biological pathways than any other system on the market.There is another phenomenon that is happening not only the digitization of biology,
+states, and biological pathways than any other system on the market.
+There is another phenomenon that is happening not only the digitization of biology,
 but also with generative AI, the ability to represent the two things that describe
 drugs; biology and chemistry in a computer. We have the opportunity to use
 generative AI to represent it and there are like -- there are papers coming out almost
@@ -101,7 +103,8 @@ screening with Schrodinger's glide program in the early 2000s. At the same time,
 solving the human genome, and then moving into very much multi skill systems of
 simulation where you can now move it to the GPUs and use accelerated computing
 to do things multi-system, and really understand the dynamic nature of ligands and
-proteins interacting, and of course, the Nobel prize of Cryo-electron microscopy,being able to see these proteins at atomic resolution but something magical has
+proteins interacting, and of course, the Nobel prize of Cryo-electron microscopy,
+being able to see these proteins at atomic resolution but something magical has
 happened since 2020.
 In the age of generative AI, AlphaFold and even our own work with AstraZeneca
 started to show -- with MegaMolBART, started to show that you can represent this
@@ -140,7 +143,8 @@ healthcare. We're building the essential components to accelerate the next
 generation of CADD. Parabricks for genomics, Isaac and Holoscan for next
 generation medical instruments and robotic labs, BioNeMo for generative digital
 biology and chemistry, MONAI for a preclinical and clinical medical imaging AI and
-NeMo to build scientific copilots and the ability to talk to your data.We build domain specific tools and application frameworks and now cloud services
+NeMo to build scientific copilots and the ability to talk to your data.
+We build domain specific tools and application frameworks and now cloud services
 that can accelerate the CADD industry's ability to adopt the most important
 computing platform shifts of our time, which is accelerated computing and
 generative AI.
@@ -178,7 +182,8 @@ DeCODE has also helped sequence 500 million human genomes from volunteers in
 the UK Biobank. So working with such big data sets requires large -- powerful AI
 systems like Freyja and NVIDIA, it's an NVIDIA DGX superpod with 248 H100s
 running NVIDIA BioNeMo that help them train these million parameter models in
-just a couple of days.We're also super excited today to be announcing that BioNeMo service is now
+just a couple of days.
+We're also super excited today to be announcing that BioNeMo service is now
 advancing into beta and being adopted by leading CADD makers in the industry.
 With our growing collection of models, the BioNeMo service, CADD makers have
 access to optimized scalable and stable APIs that are enterprise grade and they can
@@ -216,7 +221,8 @@ foundation model, MolMIM to be deployed in BioNeMo. MolMIM uses a large
 language model to learn chemical space using self supervised learning objectives
 and MolMIM achieves state-of-the-art for constrained generation with -- what they
 call multiple simultaneous objectives. This is demonstrating superior generative
-performance in terms of the validity, the uniqueness, and the novelty.So let's look at it. What MolMIM does is what's called controlled molecular
+performance in terms of the validity, the uniqueness, and the novelty.
+So let's look at it. What MolMIM does is what's called controlled molecular
 generation of small molecules, finding novel molecules with desired properties while
 constraining it to the original starting molecule. But MolMIM gives users the ability to
 specify their own objective functions like synthetic accessibility, drug-likeness or
@@ -255,7 +261,8 @@ And then AI companies who are pioneering AI design. Right. This is a way for us 
 completely expand our platform. So these are incredible companies. It's a joy
 working with all of them, and we look forward to continue to accelerate them.
 2023 was a remarkable year for NVIDIA Healthcare. We announced the work that
-we're doing with three world leading companies. Amgen is pioneering generative AIdesign and has adopted BioNeMo and DGX cloud, now extending their investment
+we're doing with three world leading companies. Amgen is pioneering generative AI
+design and has adopted BioNeMo and DGX cloud, now extending their investment
 in the NVIDIA platform with a new supercomputer in Iceland to put their huge and
 unique human data sets to work in this ability to represent biology in a computer.
 Medtronic announced they're building AI platforms with NVIDIA Holoscan. The first
@@ -293,7 +300,8 @@ emerging in tech companies. It's emerging in large pharma companies. And our
 investments in healthcare are paying off.
 And so with that, I really appreciate all of you standing in the back and joining us
 today for what is going to be, I think, an inﬂection point for J.P. Morgan where
-technology and AI is going to be the topic of every conversation.Q - Harlan Sur
+technology and AI is going to be the topic of every conversation.
+Q - Harlan Sur
 Q - Unidentified Participant
 A - Kimberly Powell
 Q - Harlan Sur
@@ -330,7 +338,8 @@ challenges to -- capacity to meeting this exponential growth in demand and inter
 Thank you.
 
 Yeah, I mean, I think it -- we're at a really interesting time because as you -- if you
-even just again watched Chris's interaction with his application this morning, he didQ - Harlan Sur
+even just again watched Chris's interaction with his application this morning, he did
+Q - Harlan Sur
 A - Kimberly Powell
 Q - Unidentified Participanta less than 10-minute demo and he probably made more than 20 generative AI
 inference calls. Okay? So just one human sitting on a computer for eight hours a day
@@ -365,7 +374,8 @@ We have a question up here in the front.
 (Inaudible - Audience question)
 Okay. Go ahead.
 
-I could repeat the question.A - Kimberly Powell
+I could repeat the question.
+A - Kimberly Powell
 Q - Harlan Sur
 Q - Unidentified ParticipantThank you very much for this. As you know, the drug discovery and development
 ecosystem is really populated by various strata or levels of different companies that
@@ -401,7 +411,8 @@ for me.
 So I think that is going to continue to expand actually -- expand it rather than
 collapse it because we want to go personal.
 
-Have a question back there?A - Kimberly Powell
+Have a question back there?
+A - Kimberly Powell
 Q - Harlan Sur
 Q - Unidentified Participant
 A - Kimberly Powell
@@ -439,6 +450,7 @@ All right. Well, we are just about out of time, Kimberly.
 Thank you, Harlan,
 
 Great insights. Thank you for the participation.
+
 Q - Harlan Sur
 A - Kimberly PowellThank you.
 

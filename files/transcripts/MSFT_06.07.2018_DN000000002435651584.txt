@@ -26,7 +26,8 @@ at the IoT platform space in particular, so we will dive into some specifics on 
 segment of the market today after we sort of go through an overview of what's
 happening in the industry.
 So in terms of the agenda today, we'll again sort of take a look at the big picture for
-IoT in 2018. We'll put some numbers around it, so we'll look at the worldwide IoTopportunity, we'll also look at the IoT vendor landscape from a macro perspective,
+IoT in 2018. We'll put some numbers around it, so we'll look at the worldwide IoT
+opportunity, we'll also look at the IoT vendor landscape from a macro perspective,
 and then we'll dive into the IoT platform market, specifically.
 So I talked about this idea of IoT being an ecosystem, and the reason that we need
 to think about it from an ecosystem perspective is the fact that there is a complex set
@@ -66,7 +67,8 @@ and it really shows that organizations are starting to take this seriously.
 We also find that the market opportunity is increasingly becoming used-case driven
 and, therefore, vendors are sort of narrowing their strategies to become more
 focused on various vertical industries and various use cases that support the needs
-of that industry. We're finding that organizations aren't necessarily seeking out IoTtechnology, in some cases some verticals don't even refer to it as IoT but they're
+of that industry. We're finding that organizations aren't necessarily seeking out IoT
+technology, in some cases some verticals don't even refer to it as IoT but they're
 really looking for IoT technology to support certain business call.
 We see that cloud is the underlying enabling capability to IoT success, because it's
 going to give us that scale, but increasingly we understand that the EDGE is also
@@ -105,7 +107,8 @@ And, finally, we talked about the lack of skills and this is a challenge, there 
 skills in terms of some of the embedded technologies that we need, there is a lack of
 skills in terms of how do you bring the solution together, there is a lack of skills on
 the analytics and data science side, and you really need all of this to bring those
-solutions to market.In terms of the drivers, there is meaningful drivers in place here and that's why
+solutions to market.
+In terms of the drivers, there is meaningful drivers in place here and that's why
 despite the challenges organizations are planning to move forward with these
 initiatives. So there is the opportunity to improve business productivity when we
 think about this from, say, a manufacturing perspective, we could do dynamic
@@ -147,7 +150,8 @@ transformation. And one of the main drivers for adopting IoT within North Americ
 the need to reduce operational costs and this could be something like headcount
 within an organization or fuel savings for our ﬂeet. And in North America,
 manufacturing and transportation and logistics are the two largest use cases or, I
-should say, verticals.In Europe, process automation is really the top driver of IoT spending today. And
+should say, verticals.
+In Europe, process automation is really the top driver of IoT spending today. And
 some of the key trends there are really the trends around industry for now. And in
 Europe, our manufacturing is also the top vertical in terms of spending. But by the
 end of the forecast period, we also see that consumer industry spending is going to
@@ -190,7 +194,8 @@ place, right. In the beginning of the market everybody was really thinking about
 are all the potential things that we connect and how are we going to connect them.
 And now it's moving into, okay, so we may be have a handle on what are some of the
 pieces of hardware we want to connect in the connectivity, but now we need to think
-about, well, what is the end goal here, what is the insight that we want to gather fromthe data. And so, now there is more attention being focused more on that software
+about, well, what is the end goal here, what is the insight that we want to gather from
+the data. And so, now there is more attention being focused more on that software
 and analytics component of the stock.
 And so, the next question we asked was, okay, so you think that, for instance,
 software vendors are going to be really kind of the thought leaders in the space and
@@ -230,7 +235,8 @@ getting some of that data out of the device, you need to be able to ingest it an
 store it and the processing piece comes in where do you -- where does that gets
 stored or do you need to run an analytic on it in real-time.
 Visualization tools are usually part of these platform products as well, because, again,
-if you have this data you won't be able to visualize it. So those are kind of the fourkey components that we see making up an IoT platform, but it has to be all in one
+if you have this data you won't be able to visualize it. So those are kind of the four
+key components that we see making up an IoT platform, but it has to be all in one
 product for us to consider an IoT platform. So, if it's just an IoT visualization tool, we
 don't consider that a full-on platform, that is a IoT visualization tool.
 Sometimes these products include application development tools, sometimes they
@@ -272,7 +278,8 @@ cloud, EDGE, connectivity management and device management and I will talk
 through a couple of these examples just to bring them to life.
 So if we look at application development, AWS obviously offers a number of web
 services that are really the building blocks to build solutions. Salesforce brings the
-customer contacts into that situation, so a customer might build their underlying sortof IoT infrastructure, software infrastructure, I should say, with AWS, but then if they
+customer contacts into that situation, so a customer might build their underlying sort
+of IoT infrastructure, software infrastructure, I should say, with AWS, but then if they
 want to bring some points of context into their application, they might leverage
 Salesforce's IoT solution in concert with that to bring. Again, we talked about the
 idea of adding context to IoT data.
@@ -311,7 +318,8 @@ necessarily going out and saying I want to buy an IoT platform, what they want i
 piece of technology that supports their use case.
 It's going to be very important to have a developer ecosystem. Anytime we talk
 about our platform, you want developers and you think cloud momentum is also
-very important, because we talked about that scale, but also this is where a lot of thedeveloper interest is being pulled these days. So if you're a big cloud provider with
+very important, because we talked about that scale, but also this is where a lot of the
+developer interest is being pulled these days. So if you're a big cloud provider with
 the strong developer ecosystem, that is only going to enhance your IoT strategy.
 Analytics are really important, this is where we get the value from the data, so we
 think the IoT platform players all need to have strong analytic strategies. They've got
@@ -353,7 +361,8 @@ sale, you need to have those micro services available, so that they -- that tech
 person can, kind of, buy the piece parts that they need.
 On the other hand, if it's more in a line of business sale, which will happen a lot in
 IoT, you need to have more of an application go-to-market. And so, we think it's
-actually quite useful for a platform vendor to be able to offer both approaches to theAnurag Rana
+actually quite useful for a platform vendor to be able to offer both approaches to the
+Anurag Rana
 Stacy Crookmarket. So that's where we see the momentum in this market happening over the
 next year or so.
 And so, that was all I had today. There I am with my contact information and if
@@ -395,7 +404,8 @@ but there are going to be other complete pieces of computing in there that say
 Microsoft might not do like a gateway. So I think that we'll see these companies, like
 we talked about the example of IBM and Cisco, coming together to create a
 partnership around IoT. So that's what I think will happen here. It's not that the
-services providers won't still play an important role, but I do think that theAnurag Rana
+services providers won't still play an important role, but I do think that the
+Anurag Rana
 Stacy Crook
 Anurag Ranatechnology vendors are going to increasingly take this upon themselves to create
 this chain of trust within their own solutions to the extent that they can, but then also
@@ -437,7 +447,8 @@ of trends converging at once to help start pushing IoT forward.
 Thanks. So there is another one that has been on our mind for a while. So when you
 look at some of the vendors that are currently amongst the top list that you have,
 General Electric pops up and you have a number of other industrial companies, you
-mentioned Siemens and Bosch. Now, they have been -- at least General Electric hasStacy Crook
+mentioned Siemens and Bosch. Now, they have been -- at least General Electric has
+Stacy Crook
 Anurag Rana
 Stacy Crookbeen talking about this for many years, but it seems like it doesn't look like that had
 that level of traction as I would have expected three years ago and we recently saw
@@ -480,7 +491,8 @@ comes to this hotel, she likes to, I don't know, order the same meal from room
 service. Then I think that that's something that's being looked at.
 IBM too is one to watch and in this space with the IBM Assistant that they've recently
 launched for IoT, so I think any of these companies too, they're participating in the AI
-space, which all those companies have some strategy there, they'll look to see howAnurag Rana
+space, which all those companies have some strategy there, they'll look to see how
+Anurag Rana
 Stacy Crook
 Anurag Ranathey can combine IoT with AI to create better personalization. So seems to be a lot of
 interesting things going on.
@@ -522,5 +534,6 @@ organization to look at there.
 
 Awesome. Stacy, thank you so much for such an informed session, and we look
 forward to talking to you again next year and get an update on the same strategy.
-And that's all from me. Thank you, everyone.Stacy Crook
+And that's all from me. Thank you, everyone.
+Stacy Crook
 Great. Thank you.

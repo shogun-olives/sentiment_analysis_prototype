@@ -20,7 +20,8 @@ us to begin the very beginnings of our Ada launch of gaming as well, and that is
 going quite well. We do believe that as we approach the end of Q4, we will have
 reached about normalized levels of inventory for our gaming business.
 Secondly, theme-wise, we've got a great product line-up, new launches of
-architectures not only with our gaming business, but for our data center businessA - Colette Kress
+architectures not only with our gaming business, but for our data center business
+A - Colette Kress
 Q - Chris Caso
 A - Colette Kressand our continued work in automotive with our Orin architecture. We have Ada out
 and running. We have Hopper out for our data center business that will begin
@@ -59,7 +60,8 @@ time, so that we can correct that inventory that is out in the channel. And as w
 discussed, we plan hopefully by the end of Q4 -- as we approach the end of Q4 that
 we will be in a solid position to that. That means as we move forward, we will start to
 get back up, we'll get to some point of an equilibrium between sell-through and sell-
-in, and then we will likely get to where we'll be selling in to build the channel for ourQ - Chris Caso
+in, and then we will likely get to where we'll be selling in to build the channel for our
+Q - Chris Caso
 A - Colette Kress
 Q - Chris Caso
 A - Colette KressAda launch, and all of the additional Ada products that we will see coming to
@@ -101,7 +103,8 @@ occurs there.
 There is a holiday season in the Asia-Pac China area as well. And we've been still
 seeing solid in China, however with the lockdowns that they've been experiencing
 with COVID, it makes things just a little harder for the distribution, for the sale
-process to happen. So, we'll continue to watch that closely.Q - Chris Caso
+process to happen. So, we'll continue to watch that closely.
+Q - Chris Caso
 A - Colette Kress
 Q - Chris Caso
 A - Colette Kress
@@ -143,7 +146,8 @@ size of large language models and the inﬂuence of natural language processing
 within that is very front and centers, not to say that recommendiator engines still
 have ways to go, and very popular with the consumer Internet companies as well to
 make sure their marketing is appropriately targeted. So, H100 really hones in on that;
-and when you think about our development of H100, it was done in coordinationQ - Chris Caso
+and when you think about our development of H100, it was done in coordination
+Q - Chris Caso
 A - Colette Kress
 Q - Chris Casowith the customers, coordination with the enterprisers, coordination with the
 hyperscalers, so that they are seen what they would need in there.
@@ -184,6 +188,7 @@ and how are they going to use us.
 So, I think, we've been extremely successful of continuing that model equally as
 much as we focus in terms of on the hardware, we are focusing on the development
 platform, we are focusing on the software.
+
 A - Colette Kress
 Q - Chris CasoCould you give us some help in how we should think about the growth rate of data
 center over time, and it's been something that's been incredibly different -- diﬃcult
@@ -227,7 +232,8 @@ this in terms of the partnership and working with our cloud providers there.
 Does that mean to say that over time now that perhaps we should see the cloud part
 of the business going to be a bigger part of your business, as maybe we see some
 migration from on-premise to cloud, as that just more eﬃcient way of dealing with
-workloads?A - Colette Kress
+workloads?
+A - Colette Kress
 Q - Chris Caso
 A - Colette Kress
 Q - Chris Caso
@@ -269,7 +275,8 @@ center that is not improving a TCO. Enabling now a DGX incorporating Grace and
 Hopper together is just a better TCO for that customer that you have a very specific
 CPU for the workload that we're trying to do. But it's not uncommon though for us to
 also use our peers' CPUs as well. So, those have been within our DGX, and that is
-also beneficial to us just as long as we're moving to accelerated computing.Q - Chris Caso
+also beneficial to us just as long as we're moving to accelerated computing.
+Q - Chris Caso
 A - Colette Kress
 Q - Chris Caso
 A - Colette Kress
@@ -312,7 +319,8 @@ months?
 Yes. So, we have started selling our software separately. For example, our data center
 products or gaming products, all of them have had software since the very
 beginning of the time. But what we've done is we've packaged up key software in
-probably three different areas.Q - Chris Caso
+probably three different areas.
+Q - Chris Caso
 A - Colette Kress
 Q - Chris Caso
 A - Colette KressOne, NVIDIA AI Enterprise, which is a set of system software that helps every
@@ -354,7 +362,8 @@ to have an impact now. It sounds like we're kind of on the edge of that beginnin
 occur. So, maybe you could speak to that a bit.
 
 Correct. What you're seeing today, our automotive business has some very solid
-growth right now. Our Orin architecture came to market at a very important time,Q - Chris Caso
+growth right now. Our Orin architecture came to market at a very important time,
+Q - Chris Caso
 A - Colette Kress
 Q - Chris Caso
 A - Colette Kress
@@ -396,6 +405,7 @@ important part of that. They've also been working of course with our workstation
 since the beginning of time. So, it's interesting to see, yes, we have what is within the
 automotive car itself. But keep in mind, we also have a great business with them
 through the data center.
+
 A - Colette Kress
 Q - Chris Caso
 A - Colette Kress

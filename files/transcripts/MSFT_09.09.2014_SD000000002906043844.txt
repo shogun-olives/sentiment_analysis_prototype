@@ -13,7 +13,8 @@ people just don't really know what's going on in SQL Server. And it's been an
 incredible business over the last few years.
 So my responsibilities are for product management and marketing of our SQL
 Server, all of our database, our data-centric assets that are in Windows Azure, our
-cloud platform, as well as our BI assets that span Oﬃce and Excel, as well as some ofKarl Kierstead
+cloud platform, as well as our BI assets that span Oﬃce and Excel, as well as some of
+Karl Kierstead
 Eron Kelly
 Karl Kierstead
 Eron Kelly
@@ -49,6 +50,7 @@ what about on the BI side? Several in this audience follow Tableau, Click, TIBCO
 Spotfire, Microstrategy. We hear about Microsoft. But I think most investors don't
 really have a good sense for how big you might be on the BI side. Any metrics you
 can offer there?
+
 Karl Kierstead
 Eron KellyYes. So it's been tricky. Historically, the way we've approached the BI market is
 obviously with Excel on the client, SQL Server is the back-end database and then
@@ -88,7 +90,8 @@ SQL. Visual Studio is a development environment that targets SQL as a database. 
 that's another leverage point. Then of course, Oﬃce and Excel from a BI perspective.
 Then we've been making -- and that's sort of traditionally.
 We've been making a lot of investments in the last two releases to also make SQL a
-socket for Azure. So we've made investments to within the SQL Server managementKarl Kierstead
+socket for Azure. So we've made investments to within the SQL Server management
+Karl Kierstead
 Eron Kellystudio that the DBA lives in, you can literally configure backups directly to Windows
 Azure right from SQL Server. And so, we've tried to make a lot of connections there
 because customers are looking for that hybrid environment, where some of their
@@ -126,7 +129,8 @@ requirement. And we couldn't command the same price point. Well now, in 2012, we
 could deliver a mission-critical solution and we started to have In-Memory across two
 of the three main workloads in a database product.
 At that same time, we made two other changes. We made a pretty sizeable
-investment in a sales force, more senior sellers. So these were individual sellers thatKarl Kierstead
+investment in a sales force, more senior sellers. So these were individual sellers that
+Karl Kierstead
 Eron Kellywere focused on SQL Server that were more senior than we typically have at
 Microsoft, who could really go drive the bigger deals. Then, we made a licensing
 change from a CPU-based licensing model to a core-based licensing model, where
@@ -164,7 +168,8 @@ add-on. They're generally less expensive and they've got a really strong value p
 Okay, I'm going to start to move.
 But these things do take time. Most organizations don't want to move a Tier 1 app
 that works unless there's a compelling reason. So it's about winning net new projects
-and then doing migrations. But they'll take longer.Karl Kierstead
+and then doing migrations. But they'll take longer.
+Karl Kierstead
 Eron Kelly
 Karl Kierstead
 Eron KellyAnd Eron, what portion of this extraordinary growth in SQL Server might be driven
@@ -202,7 +207,8 @@ us up to speed on what the timeline of that product going GA is. And what new
 features are most pronounced in that new version?
 
 Sure. So we released SQL Server 2014 in April. So it's in-market now. The biggest
-new feature area there was In-Memory in OLTP or transaction processing. So now inKarl Kierstead
+new feature area there was In-Memory in OLTP or transaction processing. So now in
+Karl Kierstead
 Eron Kelly
 Karl KiersteadSQL 2014 you have In-Memory technology for BI and analytics, you have it in data
 warehousing. And you have it in OLTP. And that's unique in the market. No one else
@@ -240,7 +246,8 @@ move customers. Q4 is of course our biggest quarter. We see a lot of the enterpr
 deals closing then. And having out and GA certainly helped deal size growth in June
 for sure. And Satya talking about it also helped because our sales force could go to
 accounts and say -- look, SQL's a CEO-level topic. We're behind it. And so then that
-got customers on board.Eron Kelly
+got customers on board.
+Eron Kelly
 Karl Kierstead
 Eron Kelly
 Karl Kierstead
@@ -278,7 +285,8 @@ This is the difference between eventual consistency and transactional consistenc
 Correct. And so as we looked at the problem, we said, we see the value in a
 schemaless design that these databases have where the developer late in the game
 can add new data to the solution without having to change the original schema. So
-we thought, that is valuable. We saw value in transaction speed. And so we built aKarl Kierstead
+we thought, that is valuable. We saw value in transaction speed. And so we built a
+Karl Kierstead
 Eron Kelly
 Karl Kierstead
 Eron KellyNoSQL database that would better meet those needs but it allows the customer to
@@ -316,7 +324,8 @@ this table in Mongo, hey if you run it on Azure, either way. We're seeing some u
 there. So I think our approach, which I don't know if people fully have internalized
 really embracing the open source community in Azure allows us to win the Windows
 workloads and win the Linux workloads all within the Microsoft portfolio. And that's
-an area where I think Oracle's really not in that same position.Karl Kierstead
+an area where I think Oracle's really not in that same position.
+Karl Kierstead
 Eron KellyThat's a good response. So let's look to Hadoop, another big trend going on in the
 data space. A while back, Microsoft started dancing with Hortonworks in a
 partnership. I think, if I'm not mistaken, you've gone beyond the Hortonworks
@@ -357,7 +366,8 @@ London Underground is looking at the vibrations of wheels in an escalator to
 determine when they need to replace those wheels before it fails. So predictive
 analytics and maintenance, machine learning, against some of those scenarios. So
 very, very interesting things in here [ph]. So we're very much embracing it and we
-see it as a great complement to our traditional business.Karl Kierstead
+see it as a great complement to our traditional business.
+Karl Kierstead
 Eron Kelly
 Karl Kierstead
 Eron Kelly
@@ -390,7 +400,8 @@ over disk-based solutions are where customers are going to want to move their mo
 valuable data anyway. And so we see that as a nice complement.
 So let's talk about that BI space, which is part of your product management
 responsibilities as well. I'd like to ask you what you're seeing out there in the BI
-space. I think what we're all seeing is the traditional BI reporting tools. You know,Eron Kelly
+space. I think what we're all seeing is the traditional BI reporting tools. You know,
+Eron Kelly
 Karl Kierstead
 Eron Kellyﬂattish, maybe single-digit growth. And it feels like a lot of the spending dollars are
 still shifting to the Next Gen tools like Tableau or in your case, PowerView, or
@@ -429,7 +440,8 @@ may have created for me. It's literally about asking a question.
 And so, those are the kinds of investments where we're able to bring together
 engineers and scientists from Microsoft Research combined with the BI experts in
 our team. And even some of the natural language folks in Bing, to create some
-interesting technologies that we think will just make this market really grow.Karl Kierstead
+interesting technologies that we think will just make this market really grow.
+Karl Kierstead
 Eron Kelly
 Karl Kierstead
 Q - Unidentified Participant
@@ -465,7 +477,8 @@ little SQL thing. And now, it's a little bit more of -- okay, I care a lot about
 renewal. But I also am interested in the growth I can get here from SQL. And so, the
 account teams that own the all-up number are becoming more focused. And we've
 got programs and discounting and things like that, that can kind of help. But there's
-not really a hard bundle if you will, if that's what you're looking for.A - Karl Kierstead
+not really a hard bundle if you will, if that's what you're looking for.
+A - Karl Kierstead
 Q - Unidentified Participant
 A - Eron Kelly
 A - Karl Kierstead
@@ -501,7 +514,8 @@ advantage and really focus on share in Tier 1, because it's a non-trivial pass t
 Tier 1 mission critical app off of one platform and onto another. And we didn't want
 to be price parity, we wanted to have a real price advantage for that share, for those
 share reasons. So I think we made the right decision because we've created a lot of
-pressure in that Tier 1 application space, which I think is good.A - Karl Kierstead
+pressure in that Tier 1 application space, which I think is good.
+A - Karl Kierstead
 A - Eron Kelly
 A - Karl KiersteadI think we're going to get timed out shortly. So Eron, this is one presentation that was
 part of a number on the broader data software innovation space. It's been a

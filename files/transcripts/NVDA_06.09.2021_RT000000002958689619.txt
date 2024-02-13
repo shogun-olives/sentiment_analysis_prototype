@@ -21,7 +21,8 @@ guidance for Q2 as well. We see strength in Gaming and in Data Center, as we wor
 into Q2 and expect all of our market platforms to do well. This is a time when our
 overall Ampere architecture for Gaming, our Ampere architecture for Data Center is
 hitting strides and ramping quite well. So I'm going to turn it back to Vivek and see if
-we can start today's conference with some of the questions that you may have.Q - Vivek Arya
+we can start today's conference with some of the questions that you may have.
+Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -62,7 +63,8 @@ if things change in terms of super strong demand going forward. So some of our
 products may be limited in terms of the supply that we have.
 
 Got it. So if you look in the second half of the year, right, as you were expecting the
-second half to be stronger, should we assume that more of the growth comes fromA - Colette Kress
+second half to be stronger, should we assume that more of the growth comes from
+A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
@@ -105,7 +107,8 @@ something that we're ever going to have a full understanding. But we can take
 actions to try and steer more of our GeForce supply to our overall gamers.
 What we've done is we've created the CMP boards for our overall professional
 miners. Our CMP boards stand for crypto mining processors to where they are
-engineered and manufactured for the algorithms of overall crypto. Additionally, weQ - Vivek Arya
+engineered and manufactured for the algorithms of overall crypto. Additionally, we
+Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kresshave de-hashed our newly manufactured GeForce GPUs. What this allows us to do is
@@ -149,6 +152,7 @@ upgrade cycle and get them in bond [ph] overall Ampere.
 So if a friend or relative came to you and say, Colette, when is the best time to buy a
 3070 or 3080? When would you say that, okay, this is the best time and this is when
 you can actually buy some -- one of those cards at an attractive price?
+
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek AryaWell, several relatives that have asked me that question, and probably even more
@@ -193,7 +197,8 @@ Got it. Is it possible, Colette, that -- I imagine at this point, you already ha
 idea of the kind of supply you will have available for Gaming in the back half, and
 obviously, right, you have different demand models built for gaming, is it possible
 that this gaming growth cycle continues into next year, right? I don't want to pin you
-to a specific number, per se. I imagine it is not as high as 100% year-on-year growthA - Colette Kress
+to a specific number, per se. I imagine it is not as high as 100% year-on-year growth
+A - Colette Kress
 Q - Vivek Arya
 A - Colette Kressthat we are seeing. But is it possible that, conceptually, next year is also a somewhat
 above-trend kind of year in terms of your Gaming business?
@@ -236,7 +241,8 @@ people are playing together. So what we're seeing in terms of our overall consol
 that we have with Nintendo, what we are seeing also with mobile form factors, such
 as our notebooks, have also strongly increased in here. So just the mere production
 of new games is the number one reason to attract overall gamers to purchasing
-overall hardware.Q - Vivek Arya
+overall hardware.
+Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -280,7 +286,8 @@ look to build out the cloud based on the demand that they see. They try to stay
 ahead of that and see the use cases for continued overall growth. What we do
 believe is the enterprises will come back into the market with the overall economy,
 but there are many different types of solutions for them to support that, anything
-from the cloud or purchasing on-premise.Q - Vivek Arya
+from the cloud or purchasing on-premise.
+Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -322,7 +329,8 @@ recommendator engines. So that's one area of focus.
 Additionally, we've seen both financial services, we've seen manufacturing, we've
 seen a good representation of folks on supply management, forecasting and using
 overall data science to speed up the work that they do to make sure that their
-processes are well aligned. We'll continue adding more and more high-levelQ - Vivek Arya
+processes are well aligned. We'll continue adding more and more high-level
+Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kressworkloads, but those are some of the key areas that we do see people concentrating
@@ -366,7 +374,8 @@ one comparison that says one accelerator versus the CPUs to determine the overal
 attach rate. The best that we can do is really look at the overall TCU -- TCO value that
 we are providing to our customers, and helping them understand that we have now
 enabled them to have a very streamline approach to their data center if using
-acceleration and AI.Q - Vivek Arya
+acceleration and AI.
+Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya
 A - Colette Kress
@@ -407,6 +416,7 @@ Yes, we have been with discussions with customers, as, keep in mind, many of the
 customers that Arm has are some of the same customers that we do.
 
 Right.
+
 Q - Vivek Arya
 A - Colette Kress
 Q - Vivek Arya

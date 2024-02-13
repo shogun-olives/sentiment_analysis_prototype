@@ -23,7 +23,8 @@ say. And because it continues to grow strongly, ASPs are growing. And that marke
 continuing to do very well. PC gamers still want to play games.
 The other side of that business is the OEM business, which is largely notebook
 graphics. And that's weak, like the rest of the PC notebook market is weak. And of
-course, it's all consumer. So we're very exposed to the consumer side. And if youRoss Seymore
+course, it's all consumer. So we're very exposed to the consumer side. And if you
+Ross Seymore
 Chris Evendenlook at the numbers on the PC market, no surprises there. The consumer is doing
 worse than commercial. And obviously, we're feeling that, just like anybody else is.
 And so that is netting out. Year on year, revenue-wise, it's approximately ﬂat. But of
@@ -63,7 +64,8 @@ which feels like a good level to be at.
 Part of it is the innate strength of the gaming market I referred to earlier. It's
 genuinely strong and genuinely independent of -- apparently independent of the
 aﬄictions that are affecting the rest of the PC market. The notebook market, like I
-said, is where it is.Ross Seymore
+said, is where it is.
+Ross Seymore
 Chris Evenden
 Ross SeymoreSo the PC market, the PC gaming market, is a diﬃcult one to measure. It's diﬃcult to
 find good data from that. But we believe it's growing about 10% annually, based on
@@ -104,6 +106,7 @@ researchers have a Tesla workstation for a specific purpose. It's like a destina
 have in mind, rather than something they need to do. Because frankly, people have
 to do email and surf the Web and be on Facebook is just a function of adults in the
 21st Century. I think it's just one of those background things that has to be done.
+
 Chris Evenden
 Ross Seymore
 Chris Evenden
@@ -141,7 +144,8 @@ Now you've got a sort of entry-level PC gaming experience on a console. So the
 argument goes that developers who before would have just developed console
 games will now find it so much easier to port the games across to PCs that they're
 more likely to see a greater amount of high-quality content on the PCs. And that
-would drive PC gaming sales.Ross Seymore
+would drive PC gaming sales.
+Ross Seymore
 Chris Evenden
 Ross Seymore
 Chris Evenden
@@ -180,6 +184,7 @@ $40 lighter. That's the trouble with high-bandwidth connections is that you can 
 a lot of money very quickly without even feeling it.
 But the point being is there is funding for high-end games, even at a $0.99 entry
 level.
+
 Chris Evenden
 Ross Seymore
 Chris Evenden
@@ -219,6 +224,7 @@ console industry is it causes you to lose focus on your core markets. So there a
 lot of reasons about why you would want to participate; there are a lot of reasons
 why those companies would choose us or AMD. And I wouldn't want to speculate on
 that.
+
 Chris Evenden
 Ross Seymore
 Chris EvendenWas the architectural change to looking more like a PC and integrating how AMD
@@ -258,7 +264,8 @@ in their systems.
 And they've got some new products coming out in a couple of months. We feel that
 we've got a pretty good bead on where they are and how we would counter that.
 And of course, at some point, we'll have new products. And again, it's backs and
-forths, backs and forths, fight, fight, fight. But at the end of the day, probably stable.Ross Seymore
+forths, backs and forths, fight, fight, fight. But at the end of the day, probably stable.
+Ross Seymore
 Chris Evenden
 Ross Seymore
 Chris Evenden
@@ -297,7 +304,8 @@ throughout the history of the companies' competition with each other.
 Having said that, moving to new process nodes is valuable because we can add
 transistors and we can find new ways to differentiate and add value to consumers. As
 long as we can find ways to make the consumer experience noticeably better, that
-moving to a smaller node is a good thing. So we'll keep doing that. But meanwhile,Ross Seymore
+moving to a smaller node is a good thing. So we'll keep doing that. But meanwhile,
+Ross Seymore
 Chris Evenden
 Ross Seymore
 Chris Evendenwe innovate on the same process node as well. And so you can improve your
@@ -336,7 +344,8 @@ perfect correlation, because there are OEM desktops and there are gaming
 notebooks. But as a first order of approximation, it's pretty good.
 Now, these gamers, they buy gaming PCs because they're playing games. It's
 something they do; it's part of who they are. It's part of their self-actualization. The
-OEMs buy graphics, not on graphics performance. But because they want discretegraphics to differentiate their laptops. Exactly. No OEM can survive just selling an
+OEMs buy graphics, not on graphics performance. But because they want discrete
+graphics to differentiate their laptops. Exactly. No OEM can survive just selling an
 entry-level laptop. They want to sell a $500 laptop, a $600 laptop. And so on.
 And so how do they justify that increase in cost? Part of it is the Intel brand, the i3, i5,
 i7. And part of it is integrated discrete. And so those consumers buying those
@@ -375,7 +384,8 @@ performance is not one of those things.
 And we've been having this debate for over 10 years. I can remember when I first
 started in the graphics industry, which was well over 10 years ago, having this debate
 with a journalist way back when about Intel was just launching, I think, 945G chipset.
-And that had much better graphics. And this was different this time. And that was itRoss Seymore
+And that had much better graphics. And this was different this time. And that was it
+Ross Seymore
 Chris Evendenfor entry-level discrete graphics. And it's a recurring debate. And the reason it never
 happens is because they're not buying on graphics performance.
 
@@ -415,7 +425,8 @@ puts us in the right place for future years. I mean, we could have doubled down 
 Tegra 4 and probably still been too late to win those things. Then perhaps Tegra 5
 would have pushed out and been too late to win the next year. Then you're really in
 trouble. Then you're behind and playing catch-up forever. This way, we actually have
-really good products available at the right time to compete for those wins.Ross Seymore
+really good products available at the right time to compete for those wins.
+Ross Seymore
 Chris Evenden
 Ross Seymore
 So I guess the second part of that question is, let's assume Tegra 5 hits the market in
@@ -455,7 +466,8 @@ computing and Android is specifically where we can make gaming matter. I think
 that's a good place for us to be. And to your point, it's certainly big enough to
 profitably fund the development of Tegra.
 
-You've been going a long way. But let's open it up for questions from the audience.Unidentified Participant
+You've been going a long way. But let's open it up for questions from the audience.
+Unidentified Participant
 Chris Evenden
 Unidentified Participant
 Chris EvendenHi. Just one thing I'm curious about is the diﬃculties the market has had in general in
@@ -492,7 +504,8 @@ not so much the integration. But the LTE, it's more complex than a lot of people
 would happen to believe. And we saw that recently. Broadcom bought Beceem.
 Beceem's a WiMAX company. WiMAX has a lot of features in common with LTE. But
 it's not LTE. And it's a bigger step from WiMAX to LTE than I think they were
-anticipating, hence last week's acquisition of Renesas.Ross Seymore
+anticipating, hence last week's acquisition of Renesas.
+Ross Seymore
 Chris EvendenBut the integration itself, I don't think there are any particular hurdles there. I think
 it's actually just building an LTE modem. And it's computationally a very intensive
 task. And it's very complex in terms of, particularly, handling the voice calls in the
@@ -531,7 +544,8 @@ a big, big brand equity that we can leverage as we launch our own product.
 So if it can succeed, I don't think anyone's more likely to make this product succeed
 than we are. And it's a niche product. We're not going to sell tens of millions of units
 this year. So I don't think it's going to offend our existing customer base. They see it
-as a very specific niche. And they understand, or we've communicated to themRoss Seymore
+as a very specific niche. And they understand, or we've communicated to them
+Ross Seymore
 Chris Evenden
 Operatorcarefully before the launch to explain how it works. So yes, I think we're the right
 people to build this product.

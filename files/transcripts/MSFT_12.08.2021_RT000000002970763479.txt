@@ -23,7 +23,8 @@ as best I can in that regard. Previous three years, I reported the Judson Althof
 our Chief Commercial Oﬃcer -- Chief Revenue oﬃcer, excuse me, and I was
 responsible for sort of the go-to-market strategy and the technical delivery for all of
 our solution areas from Azure dynamics and so, had to have a good sort of amount
-of experience in that area. And then prior to that, I actually was in engineering asQ - Karl Keirstead
+of experience in that area. And then prior to that, I actually was in engineering as
+Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl Keirstead
 A - Corey Sanders
@@ -62,7 +63,8 @@ certainly productivity and the change of productivity as sort of our conversatio
 now and I can remember having done these three years ago and everyone was in a
 conference room. And so, just the changes in sort of how we approach productivity
 and engage and work with each other, both inside and outside companies has
-fundamentally changed and has a fundamental dependency on cloud.Q - Karl Keirstead
+fundamentally changed and has a fundamental dependency on cloud.
+Q - Karl Keirstead
 A - Corey SandersAnd so, but that's just the beginning, right, I think that we've seen push towards all
 aspects of digital transformation sort of spawning from them, right. The way in which
 people work, the way in which people engage changes, the way in which people
@@ -105,7 +107,8 @@ of we need to completely rework how we're selling our products, right. And so th
 difference in that could very much be dependent upon those customers and the
 businesses that they're in.
 I do think there has been the obvious ones, collaboration technology, I would say,
-security. There has been a few that have really popped up in sort of that wereQ - Karl Keirstead
+security. There has been a few that have really popped up in sort of that were
+Q - Karl Keirstead
 A - Corey Sandersimmediate requirements I think across the entire landscape, right. With the fact that
 everyone was working from home, you need to make sure that all collaboration
 capabilities work, your tooling all worked and your securities models were all able to
@@ -147,7 +150,8 @@ we are bringing in resources, engineering teams to work together with the expert
 these fields to be able to basically take our expertise in things like collaborative
 applications and things like infrastructure expertise or data and AI and bring that
 expertise to the folks who know oil and gas better than us, who know, financial
-services better than us, who know all of those elements better than us.Q - Karl Keirstead
+services better than us, who know all of those elements better than us.
+Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl Keirstead
 A - Corey SandersAnd so those types of partnerships and us basically co-building and then co-selling
@@ -191,7 +195,8 @@ And so with -- and every big customer and every big deal is typically a set of t
 types of engagements that will sort of, add up to their consumption on the cloud.
 And so, it is very, very hard to model frankly, and I don't envy those who have to do
 it. The points that I'd have -- maybe that I'd add that hopefully are helpful. One is,
-look, going back to the previous point in general there's urgency from customers.Q - Karl Keirstead
+look, going back to the previous point in general there's urgency from customers.
+Q - Karl Keirstead
 A - Corey SandersThere's urgency and there's passion around making these changes, more so than
 I've seen since I've been in Azure which was 15 years ago was when I moved into the
 Azure team in the original product line. And so it just energy around moving it's very,
@@ -234,7 +239,8 @@ take the full advantage and understand and learn and look, it's the as I'm sure
 everyone on this call appreciates, it is a fast moving market and that's kind of the
 point, right? There's a lot of new technology coming out all the time, and we're really
 invested with customers, to make sure they're keeping up because it's in our best
-interest and their best interest to do so.Q - Karl Keirstead
+interest and their best interest to do so.
+Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl Keirstead
 Got it. Corey, another part of the Azure story that's tough for us on the outside, to
@@ -276,7 +282,8 @@ seismic information, or whether it's, manufacturing IoT based information. The d
 strategy is a part of the discussion. And so that is a really big area of focus and
 attention force.
 
-So, maybe let's hit right on that actually, because that's a hot topic for tech investors,A - Corey Sanders
+So, maybe let's hit right on that actually, because that's a hot topic for tech investors,
+A - Corey Sanders
 Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl Keirstead
@@ -317,7 +324,8 @@ partnerships and make sure these services run great on our infrastructure and th
 have integration across the entire stack. Data AI is a giant surface area even just the
 product that you just mentioned is even just that as a subset, right of the surface area
 of what customers are trying to do with compliance, with analytics, with spark with
-operational data, right it is a very complex and broad surface area.Q - Karl Keirstead
+operational data, right it is a very complex and broad surface area.
+Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl KeirsteadAnd our real strength comes in and being able to offer solutions across that entire
 surface area being able to offer integration with third parties, when customers would
@@ -362,6 +370,7 @@ How easy is it to leverage networking and use it with your hybrid environment? T
 is something we see all the time actually particularly from banks that I work with that
 sort of the networking is very complex and so getting that, right, and simple is a big
 differentiator and I would argue is deep in the infrastructure.
+
 A - Corey Sanders
 Q - Karl Keirstead
 A - Corey Sanders
@@ -405,7 +414,8 @@ making decisions based on that is then optimizing either power consumption or
 placement protocols, that is going to result in us saving money. And it is an ongoing
 effort, it is an effort that requires constant innovation and work, but I think it's an
 exciting effort, right? And I think it's, especially for people down deep in the stack,
-it's a fun place, because given the scale that we're working in the joke that we alwaysQ - Karl Keirstead
+it's a fun place, because given the scale that we're working in the joke that we always
+Q - Karl Keirstead
 A - Corey Sandersmake is, it doesn't take a big change to have a big impact. And so this is something
 that I do think, we do an effort on, we do planning twice a year and margin is a big
 component of decisions that we make around what features we're taking and what
@@ -448,7 +458,8 @@ about in collaborative applications, right. Enabling some of these partners that
 already talked about to have collaborative experiences in the team's environment.
 Enabling those teams integrate with additional services, like voice, right, or contact
 center, right? And enabling sudden some of those capabilities to really shine as part
-of that team's experience.Q - Karl Keirstead
+of that team's experience.
+Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl Keirstead
 A - Corey SandersAnd then perhaps the other area that I think is really important is continue to expand
@@ -490,7 +501,8 @@ hours, group chat, file-sharing, right. These and even calendaring like, these a
 capabilities are well beyond just I can call one person and talk with them, right. I
 mean, the concept is focused on what a small business needs and the small business
 needs more than just person to person phone calls, right. And so that's really the
-strategy and that would be my rebuttal if that was told to you in the other call.Q - Karl Keirstead
+strategy and that would be my rebuttal if that was told to you in the other call.
+Q - Karl Keirstead
 A - Corey Sanders
 Q - Karl Keirstead
 Let's talk about Oﬃce. Obviously, one of the franchises inside Microsoft's portfolio.
@@ -534,7 +546,8 @@ questions. So one that came in Corey, I'll just read it back to you. And it refe
 think a customer anecdote you made about wanting to get out of a data center and
 move on to VMware on Azure. So the question is, why would a customer lift and shift
 onto VMware on Azure without actually rewriting the underlying code or data to take
-advantage of what the cloud can offer?A - Corey Sanders
+advantage of what the cloud can offer?
+A - Corey Sanders
 Q - Karl Keirstead
 A - Corey Sanders
 Yeah. I mean, actually going back to, I don't know four questions ago or five
@@ -577,7 +590,8 @@ created a lot of demand for cloud-based desktops, right, to be able to run your
 desktop in the cloud, to be able to leverage that to create a zero trust environment
 on your local machine, right and we found many, many customers have built
 dependencies around that. And then with the expectation that it integrates with your
-collaboration capabilities, like teams, like Oﬃce365 et cetera.Q - Karl Keirstead
+collaboration capabilities, like teams, like Oﬃce365 et cetera.
+Q - Karl Keirstead
 A - Corey SandersAnd so this has been a big shift and I think the pandemic is this has been actually
 one of your sort of big spike questions that we've seen from the pandemic which is,
 how do I get all of my employees into a virtual environment in the cloud from my

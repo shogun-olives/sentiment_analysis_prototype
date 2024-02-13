@@ -13,7 +13,8 @@ intuitively. We also design them to be secure and to protect your privacy. Becau
 you should be the one in control of how your personal data is used. We applied
 these principles when we created HomePod. HomePod is a breakthrough speaker
 that combines precise, high-fidelity sound with the intelligence of Siri. It provides an
-entirely new way to discover and interact with music at home. And now we want toBob Borchers
+entirely new way to discover and interact with music at home. And now we want to
+Bob Borchers
 David Wilkesbring this experience to even more people. So today, I'm excited to introduce the
 newest addition to the HomePod family. And I'd like to show it to you now.
 (Video Presentation)
@@ -52,7 +53,8 @@ can deliver. Now, bringing amazing sound into your home isn't just about
 breakthrough audio quality. It's also about letting you enjoy that sound throughout
 your house. Multiple HomePod mini speakers can play perfectly in sync across your
 entire house. That's great for entertaining or keeping up with your favorite podcast
-as you get stuff done.Yael GartenAnd when you place two in the same room, they'll intelligently become a stereo pair,
+as you get stuff done.
+Yael GartenAnd when you place two in the same room, they'll intelligently become a stereo pair,
 filling your space with rich, enveloping sound. And to make HomePod mini the
 ultimate smart speaker for iPhone owners, later this year, you'll get a new Handoff
 experience that's truly magical. Using the U1 Ultra Wideband chip, which we
@@ -90,7 +92,8 @@ own personal experience.
 (Video Presentation)
 And deep integration with iPhone also enables a magical experience with CarPlay.
 Ask HomePod mini what time Target closes and a Siri suggestion automatically
-appears in CarPlay, so when you hop in the car, the route is ready and waiting forBob Borchersyou. With the intelligence of Siri, HomePod mini helps you get things done around
+appears in CarPlay, so when you hop in the car, the route is ready and waiting for
+Bob Borchersyou. With the intelligence of Siri, HomePod mini helps you get things done around
 the home.
 Next, let's turn to the smart home. When it comes to your home, you want comfort
 and convenience without complexity. So with HomePod mini, we've made the smart
@@ -125,7 +128,8 @@ And your requests are not associated with your Apple ID, and you choose whether
 Apple saves your audio recordings. Personal requests only work when your iPhone is
 home with you, and all communication with smart home accessories uses strong
 encryption. We can't wait for you to enjoy the incredible experiences the new
-HomePod mini brings to your home. It comes in both white and space gray, and I'mTim Cook
+HomePod mini brings to your home. It comes in both white and space gray, and I'm
+Tim Cook
 Hans Vestbergthrilled to announce that HomePod mini will be available for just $99. And you can
 order HomePod mini November 6th, and it will start shipping the week of November
 16th. So that's HomePod mini. With the power of computational audio, a world-class
@@ -168,7 +172,8 @@ I want to thank you and the whole Apple team for a fantastic collaboration leadi
 up to this historic moment. Until now, most people have taken a "wait and see"
 approach to 5G. They've been waiting for 5G to get real, with the network coverage
 they expect, the incredible performance they have been promised, and the devices
-they love. Well, today with iPhone, the wait is over. 5G just got real. Of course, what'sTim Cookthe most exciting part for me as a guy who has worked in networking for 25-plus
+they love. Well, today with iPhone, the wait is over. 5G just got real. Of course, what's
+Tim Cookthe most exciting part for me as a guy who has worked in networking for 25-plus
 years? That fact that for the first time ever, iPhone can now access Verizon's 5G Ultra
 Wideband. It's built with large quantities of mmWave spectrum that enable
 unprecedented performance.
@@ -208,7 +213,8 @@ Hans, this is definitely the start of something big. Thank you for joining us, a
 you for all the great work we're doing together. We are very excited about 5G on
 iPhone, and we're going to introduce 5G across our entire lineup of new iPhone
 models today. So now I'd like to show you the very first iPhone with 5G.
-(Video Presentation)Kaiann DranceIntroducing iPhone 12. To tell you all about it, I'd like to hand it over to Kaiann.
+(Video Presentation)
+Kaiann DranceIntroducing iPhone 12. To tell you all about it, I'd like to hand it over to Kaiann.
 Let's take a closer look at iPhone 12 with 5G. It has an all-new design that's simply
 stunning. It has smooth, ﬂat edges, allowing the aluminum frame and glass to stay
 ﬂush, front and back, creating this unique uniform construction. Inside and out,
@@ -248,7 +254,8 @@ the biggest jump in reliability we've ever had on iPhone, and we are thrilled to
 that to iPhone 12.
 Let's talk more about the 5G capability on iPhone 12. As Tim said, to create the best
 possible 5G experience it required seamless integration of hardware and software,
-and partnering closely with carriers. Here's Arun to tell you more.Arun Mathias
+and partnering closely with carriers. Here's Arun to tell you more.
+Arun Mathias
 Kaiann Drance
 Hope GilesI'm here in one of our 50 world-class anechoic chambers where we develop and test
 advanced wireless capabilities like 5G. And we approach this differently than anyone
@@ -286,7 +293,8 @@ where Hope will tell you all about it. And finally, here's Hope.
 Every year, iPhone sets the standard for mobile performance, even challenging the
 performance of laptops. This year, A14 Bionic also marks a very important milestone
 in the history of iPhone. A14 Bionic is the first smartphone chip in the world built on
-the latest 5-nanometer process technology. The reduction in transistor size enablesKaiann Drance
+the latest 5-nanometer process technology. The reduction in transistor size enables
+Kaiann Drance
 Michael Chow
 Kaiann Dranceus to add features and increase performance, all while improving energy eﬃciency.
 Our Silicon Engineering team has packed 11.8 billion transistors into A14 Bionic, an
@@ -328,7 +336,8 @@ Until now, to be competitive in League of Legends, you had to be tied to your de
 But Verizon 5G frees you to game like a pro pretty much anywhere, no Wi-Fi
 required. And with wicked-fast speeds up to 25 times today's networks, not only is
 gameplay fast, but so are downloads. So you can instantly grab dope new skins that
-show off all your favorite champs. We'll see you on the Wild Rift.Deniz TeomanWow, what a huge moment for mobile gaming. We can't wait to play League of
+show off all your favorite champs. We'll see you on the Wild Rift.
+Deniz TeomanWow, what a huge moment for mobile gaming. We can't wait to play League of
 Legends on iPhone 12. A14 Bionic also combines with our cameras and powerful
 software to deliver the new dual-camera system of iPhone 12. It has the Ultra Wide
 camera that people love and use to take inspiring photos in creative ways. iPhone 12
@@ -366,7 +375,8 @@ When setting down your phone, you can miss the exact center of the charger, whic
 can result in slow, less eﬃcient charging, or none at all. So with iPhone 12, we are
 making this so much better. But that's not all.
 (Video Presentation)
-Introducing MagSafe for iPhone. To tell you more, here's Deniz.Kaiann Drance
+Introducing MagSafe for iPhone. To tell you more, here's Deniz.
+Kaiann Drance
 Lisa JacksonMagSafe is an advanced new system. It starts by improving the wireless charging
 experience. Our wound wire coil, which is unique in the industry, now
 accommodates magnets and maintains compatibility with existing Qi chargers. The
@@ -404,7 +414,8 @@ harmful chemicals and using renewable and recyclable materials. And now, for the
 first time, we are using 100% recycled rare earth elements in all magnets, including
 the camera, haptics and MagSafe. We've also been transitioning our iPhone
 manufacturing partners to renewable energy. And just like we did with Apple Watch,
-we looked for ways to cut waste and use less material. Customers already have overKaiann Drance700 million Lightning headphones. And many customers have moved to a wireless
+we looked for ways to cut waste and use less material. Customers already have over
+Kaiann Drance700 million Lightning headphones. And many customers have moved to a wireless
 experience with AirPods, Beats or other wireless headphones.
 And there are also over 2 billion Apple power adapters out in the world, and that's
 not counting the billions of third-party adapters. So we are removing these items
@@ -440,7 +451,8 @@ Even with these huge updates, the iPhone 12 lineup will start at just $699 for i
 well as our partners. This includes a very special offer from Verizon. If you trade in an
 iPhone X or newer, you can get iPhone 12 starting at $15 per month for 24 months, or
 iPhone 12 Mini for just $12 per month. This is an unprecedented leap forward for
-iPhone. There is simply nothing like iPhone 12.Tim Cook
+iPhone. There is simply nothing like iPhone 12.
+Tim Cook
 Greg JoswiakBack to you, Tim.
 
 (Music Playing) iPhone 12 and iPhone 12 Mini are absolutely amazing. They are the
@@ -479,7 +491,8 @@ texture and minimal noise.
 To accomplish this, Deep Fusion uses all the compute engines of the A14. Our
 camera sensor captures multiple images and processes them through the ISP. The
 CPU computes the alignment of the frames. The GPU pre-processes the images
-before running them through the Neural Engine. And then there's additional post-Andrew Fernandez
+before running them through the Neural Engine. And then there's additional post-
+Andrew Fernandez
 Alok Deshpandeprocessing done in the GPU. With A14 Bionic, we are able to bring Deep Fusion to all
 four cameras of iPhone 12 Pro, including the front-facing TrueDepth camera.
 We combine state-of-the-art camera hardware with this amazing compute power to
@@ -516,6 +529,7 @@ sensor-shift system is unique to Apple and helps people capture everyday situati
 with extraordinary images. And it delivers steady video with a truly cinematic feel.
 Now here's my colleague Alok to tell you more about another feature we created for
 our pro users.
+
 Greg JoswiakThese are amazing cameras for pros, and we want to give our pros even more
 control over the images they capture. Many pros love to capture in RAW, but they're
 missing the benefit of our sophisticated image fusion. So we'd like to show you a
@@ -557,7 +571,8 @@ show has been able to go on because of iPhone. This year, we're taking pro video
 further, much further. For the first time, we're bringing HDR video recording to
 iPhone. You can now record in 10-bit High Dynamic Range. This means we can
 capture over 700 million colors. That's 60 times more colors than before. While you
-capture, you get a live preview of your HDR content on the Super Retina XDRFrancesca Sweetdisplay. And we're also gonna do something that no other device in the world can
+capture, you get a live preview of your HDR content on the Super Retina XDR
+Francesca Sweetdisplay. And we're also gonna do something that no other device in the world can
 do.
 IPhone 12 Pro is the first camera to record in Dolby Vision HDR. To accomplish this,
 every single frame of 10-bit video runs through our ISP, generating a histogram and
@@ -595,7 +610,8 @@ and capture right away. This works in photos and videos. In fact, with LiDAR, we
 improve focus time in low-light scenes by up to six times, so your subject is clearly in
 focus, without missing the moment. LiDAR also improves depth in low light for night
 mode, enabling stunning night mode portrait shots like this one. Look at the
-incredible detail in the face, the realistic color throughout the scene and theGreg Joswiak
+incredible detail in the face, the realistic color throughout the scene and the
+Greg Joswiak
 Unidentified Speakerblooming bokeh in the lights in the background. And that's the new LiDAR scanner
 on iPhone 12 Pro.
 Now back to Joz.
@@ -633,7 +649,8 @@ A new and improved pro camera system makes the 12 Pro the photographer's
 iPhone. The larger iPhone 12 Pro Max pushes these innovations even further. Its
 bigger sensor dramatically increases the detail captured and helps improve low-light
 performance by 87%. The custom-designed LiDAR scanner puts advanced depth-
-mapping technology in your pocket. You can now take a Night mode portrait andGreg Joswiak
+mapping technology in your pocket. You can now take a Night mode portrait and
+Greg Joswiak
 Tim Cookunlock a new world of possibilities for augmented reality. iPhone 12 Pro smashes the
 benchmark for highest quality video in a smartphone. And the movie industry can
 now count on it as an essential piece of equipment.

@@ -22,7 +22,8 @@ words. And by the way, on your seat, you are going to find white cards. If you h
 questions, please write them on the card. People will pick them up and hand them
 up to us. Thank you.
 
-Thanks, Mark, I appreciate it.Mark Moerdler
+Thanks, Mark, I appreciate it.
+Mark Moerdler
 Kevin Turner
 My pleasure.
 
@@ -62,7 +63,8 @@ candidly on our services business and we have not -- I wouldn't say we've been o
 and evangelized and articulated what that story is from a services perspective. But
 I'm here today, at least from a perspective of the enterprise really ground you in
 what's going on in the services business at Microsoft and where are we. Because I
-think this has been about, I would say, more than seven to eight years in the makingand it is really maturing in a very nice way. And I will talk about that and get into that
+think this has been about, I would say, more than seven to eight years in the making
+and it is really maturing in a very nice way. And I will talk about that and get into that
 in a moment.
 So we have a very diverse and balanced business. This is not a chart you see from us
 very often. But it is a chart that I like to use. I like to use for a couple of reasons. One,
@@ -100,7 +102,8 @@ Now if I would have been here at this conference a year ago on this day, I would
 said, ladies and gentlemen. we are right on the eve of the largest single innovation
 plan portfolio rollout re-imagination in the history of our Company. We basically are
 about to launch every single product solution and service in our portfolio in a 12-
-month window.I stand here today to tell you we did that. And it feels really, really good. And so we
+month window.
+I stand here today to tell you we did that. And it feels really, really good. And so we
 launched and landed in market an unprecedented wave of innovation this past 12
 months and something that we are going to continue to build on for the years to
 come. And it has been very, very foundational for us as an organization.
@@ -141,7 +144,8 @@ in government in taking that to business in a very strategic way.
 We feel like when you see our cloud solutions that we have got the most enterprise-
 grade and enterprise-credible cloud out there specifically around productivity. And
 50% of the Fortune 500 are already actively using our platform and infrastructure as
-a service with Azure. So we have got some real momentum that is manifesting itselfinto real numbers in the business cloud space and it is one that again we feel pretty
+a service with Azure. So we have got some real momentum that is manifesting itself
+into real numbers in the business cloud space and it is one that again we feel pretty
 good about.
 So let me take you through some detail here about what are you doing in the
 business cloud services, what do you offer the enterprise customer, what are they
@@ -180,7 +184,8 @@ communications cloud, a collaboration cloud, a productivity cloud and the abilit
 host those services publicly or privately for people as they so choose.
 In the business solution area, on our dynamics platform, again, we have both on-
 premise, as well as CRM online and ERP online, something we are very excited about
-for our dynamics portfolio.In the infrastructure and platform as a service, it is all about Azure, Windows Azure
+for our dynamics portfolio.
+In the infrastructure and platform as a service, it is all about Azure, Windows Azure
 and SQL Azure. And we started with a really forward-looking transformational
 approach as it relates to platform as a service. We really stepped out there and took
 that platform as a service head on and delivered that with Azure. Then we came back
@@ -219,7 +224,8 @@ China. We have the first commercial and enterprise-grade cloud. We have a partne
 there in China that we just launched and kicked off last week. And we are very
 excited about the potential in China for a lot of reasons. One, for monetization
 reasons. There is no piracy in the cloud. The cloud is a beautiful thing from that
-perspective.The other thing that the cloud does is it allows people to stay current. One of our
+perspective.
+The other thing that the cloud does is it allows people to stay current. One of our
 biggest problems is a lot of people have our product solutions and services. But they
 are running old versions. In the cloud, we take care of that for them.
 The third thing the cloud does is when you sell in the cloud, you now have
@@ -259,7 +265,8 @@ market share and a lot more potential chance for exposure than the other guys. T
 reality is we had fewer vulnerabilities than the other guys.
 Now this is no accident or mistake. We have been investing in security and the
 importance of trustworthy computing for many, many years, more than 13 years. As
-an organization, we have been investing in that initiative. A part of that you could sayis out of necessity. Whatever it is, we have got a big head start in this particular space
+an organization, we have been investing in that initiative. A part of that you could say
+is out of necessity. Whatever it is, we have got a big head start in this particular space
 and we only see the cyber security areas continuing to escalate, continuing to
 elevate as it relates to the importance of what is happening out there.
 We are not satisfied or happy with 131 vulnerabilities over the last 12 months.
@@ -300,7 +307,8 @@ Lync. Yesterday, we announced something very strategic in this space. We
 announced Lync to Skype integration. So the ability to do presence, sharing, voice
 calls from Lync to Skype, Skype to Lync, B2C, C2B communication exists now on the
 platform. Very, very strategic for us again from a social and collaboration
-perspective.When you think about it, this enterprise social space is a hot space. It was really
+perspective.
+When you think about it, this enterprise social space is a hot space. It was really
 borne of the idea that most enterprises want to get people to work better together
 behind the firewall and that is why SharePoint was so wildly successful. The new
 version, the contemporary version of enterprise social says, hey, that is important.
@@ -339,7 +347,8 @@ space. But we are seeing positive momentum, positive traction. We have got
 countries like Mexico, Italy, Poland, Spain and others, Portugal, where we have really
 big share in these countries with the phone OS and we are going to continue to
 bring that out more and more globally and again, continue to grow share in this
-space.When you think about the mobile ecosystem for Microsoft though, it is broader than
+space.
+When you think about the mobile ecosystem for Microsoft though, it is broader than
 just phone. The new Windows 8 platform gives us the opportunity with our
 technology to really explode the mobile ecosystem into new form factors, into
 detachables, into wearables, into convertibles, into two-and-one, into all kinds of
@@ -380,7 +389,8 @@ the top of those TPC-E benchmarks. SQL is growing double digit all up from a
 revenue growth perspective in the last quarter and that has been a consistent trend
 for us. Excel certainly is the most widely used BI tool and will continue to be. We
 don't see that changing in the foreseeable future. And SQL Server is now the most
-widely deployed database in the world by far.So when you look at all the databases out there, the number one deployed database
+widely deployed database in the world by far.
+So when you look at all the databases out there, the number one deployed database
 in the world is now SQL Server. We have been growing share in that SQL business
 quarter after quarter after quarter. Why? Because we have a really good product and
 we have a better value proposition. When you bring those two things to the market,
@@ -420,7 +430,8 @@ strengthening this position, our position in the enterprise.
 And one of the things that I saw recently, which I thought was pretty cool, was there
 was a survey that was put out by a third party recently. And the question was which IT
 megavendor will be critical and indispensable to your organization's IT environment
-in the future. I like that word indispensable. It's an interesting word.If you look at it, 2012 is really that, what I would say, green or (fuqua) color. 2013 is
+in the future. I like that word indispensable. It's an interesting word.
+If you look at it, 2012 is really that, what I would say, green or (fuqua) color. 2013 is
 the dark blue. You can kind of see what happens there with some of the technology
 companies and where they are going. When you go through this list and you look at
 it, this is what enterprise customers are saying independently about the prospects of
@@ -462,7 +473,8 @@ ecosystem at the same time around touch. And that transformation is happening an
 it is happening -- we would like it to happen faster. But it is happening in real time.
 We also said let's inspire a whole new level of devices and creativity with the
 platform. That is just now beginning. These new form factors for two-in-ones, for
-convertibles, for detachables, where it is going from an embedded standpoint is justnow exploding. The design wins continue to come in and go up in this particular
+convertibles, for detachables, where it is going from an embedded standpoint is just
+now exploding. The design wins continue to come in and go up in this particular
 area.
 And we have said, you know what, let's listen and make sure that we take feedback
 and we have done that. We have been analyzing the telemetry of Windows 8 and
@@ -504,7 +516,8 @@ But we still have a lot of work to do. We have got a lot of work to do in device
 have got a lot of work to do in services. But we are a company that is building that
 out in a thoughtful way as we reinvent the Company around the strength of the
 enterprise, the value that we get from consumer and bringing the best of both those
-worlds together to get the synergies is what makes Microsoft very unique.Q - Mark Moerdler
+worlds together to get the synergies is what makes Microsoft very unique.
+Q - Mark Moerdler
 A - Kevin Turner
 Q - Mark Moerdler
 A - Kevin Turner
@@ -544,6 +557,7 @@ consortiums out there like the Research Board. We have gone up dramatically in o
 customer satisfaction levels, particularly in enterprises and accounts, by really deeply
 getting in there and earning the right to be their trusted advisor and that is what we
 have got to continue to do.
+
 A - Kevin Turner
 Q - Mark Moerdler
 A - Kevin Turner
@@ -584,7 +598,8 @@ worldwide. We have big, big companies that have gone with us that are running th
 service at scale and it is great to see that service mature, it is great to see the value
 that we can bring and it lights up a whole new productivity experience.
 When I get somebody on our Oﬃce 365. I can take them to that enterprise social
-space or that unified communication space with Lync and Skype very seamlessly andQ - Mark Moerdler
+space or that unified communication space with Lync and Skype very seamlessly and
+Q - Mark Moerdler
 A - Kevin Turner
 Q - Mark Moerdler
 A - Kevin Turner
@@ -626,6 +641,7 @@ the Open Source element plus provide our unique intellectual property around it.
 And I think that again is the Microsoft of today that maybe wasn't the Microsoft 10 or
 15 years ago. But today is a new day. We have embraced devices and services and
 Big Data.
+
 A - Kevin Turner
 Q - Mark Moerdler
 A - Kevin Turner

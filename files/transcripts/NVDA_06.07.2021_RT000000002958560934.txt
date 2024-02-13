@@ -9,7 +9,8 @@ outset is just talk a little bit about the background for what we're doing and w
 we're doing it, right? You referenced the work we're doing with enterprise customers
 and what we talked about at Computex and I think it really starts with the question of
 Jensen our CEO has taught over the last few months about the coming
-democratization of AI and really what that means is, where is today with the workwe've done over the last decade, we have thousands of companies around the
+democratization of AI and really what that means is, where is today with the work
+we've done over the last decade, we have thousands of companies around the
 globe using artificial intelligence in Nvidia technology when we talk about
 democratization of AI we're talking about tens of thousands of thousands of
 companies all using AI, that's what we mean by democratization and I think the
@@ -53,7 +54,8 @@ than and hardware, and the reason is because when you use artificial intelligenc
 you use it in a variety of different use cases, whether it's video analysis, or
 conversational AI, or cyber security, or robotics, and you need a powerful software
 stack in each of those situations to enable that capability so an application developer
-can just complete the solution.Q - C.J. MuseSo if you look at the stack here, it starts at the bottom with servers, mainstream
+can just complete the solution.
+Q - C.J. MuseSo if you look at the stack here, it starts at the bottom with servers, mainstream
 servers, volume servers, the same servers that are produced by the OEMs in the
 world today that are racked into enterprise data centers every day but now, with a
 little bit of GPU from Nvidia in every server. Then we layer on top of that, VMware
@@ -93,7 +95,8 @@ partnerships or platforms whether it's VMware, Omniverse your newly announced
 base command AI software development platform. I think a lot of this is
 underappreciated by the market, so I guess let's take a little bit deeper here. So let's
 start with VMware with VMware partnership and your AI Enterprise software suite.
-How do you think about the percentage of sockets that would both benefit and beA - Manuvir Das
+How do you think about the percentage of sockets that would both benefit and be
+A - Manuvir Das
 Q - C.J. Muse
 A - Manuvir Das
 Q - C.J. Musewilling to take advantage of this type of Enterprise license and how do you think
@@ -134,7 +137,8 @@ the store that's a different kind of financial calculation for the customer, rig
 think at the application layer, we do them one at a time, and it's really based on what
 is the value that is being provided to the customer in terms of the application.
 So just I guess -- a little bit deeper on the application layer. Is there a license
-opportunity there as well and I guess perhaps bigger picture, as you think aboutA - Manuvir Das
+opportunity there as well and I guess perhaps bigger picture, as you think about
+A - Manuvir Das
 Q - C.J. Muse
 A - Manuvir Dasyour business entirely better price over time what percentage of revenues do you
 think will become recurring?
@@ -175,7 +179,8 @@ universal problem, because more and more companies work collaboratively, and
 there's a lot of design work, no matter what kind of company you are.
 The other reason we're very optimistic is because when you do the market analysis,
 what we realized is that over 20 million designers and engineers in the world today
-that can benefit from a platform like this where they can work collaboratively, workQ - C.J. Muse
+that can benefit from a platform like this where they can work collaboratively, work
+Q - C.J. Muse
 A - Manuvir Dasunder the house and each part of the team can produce different parts of the
 solution that can be plugged together, right and so again we have a licensing model
 for Omniverse. We've announced that already announced at Computex for a typical
@@ -217,7 +222,8 @@ about SuperPOD or provide them equipment, we give them a little tour, and we
 show them a glimpse of what we've got inside the in-house with base command and
 the question we always get from customers is why can I not get that and it just took
 us a little while to productize that and get it ready for customers and we did that and
-so we made that available now, so that's the first thing. Base command platform isQ - C.J. Muse
+so we made that available now, so that's the first thing. Base command platform is
+Q - C.J. Muse
 A - Manuvir Das
 Q - C.J. Muse
 A - Manuvir Dasthis software that we use internally for years that we're now making available to
@@ -256,7 +262,8 @@ partnership that you have with NetApp and Equinix, looking out five years and as
 part of that, just to respond to the question that I received, I think there's a concern
 out there that AI as a service will be hosted by cloud players and that will kind of
 minimize the amount of GPU's or other accelerators one might need. You know how
-would you address that as well as part of this question?Q - C.J. Muse
+would you address that as well as part of this question?
+Q - C.J. Muse
 A - Manuvir DasYeah, that's a great question that's a two-part answer C.J. So firstly you asked about
 how we anticipate the mix between, AI workloads being run in the cloud versus on-
 premises. I think it's very important to understand that when we talk about on-
@@ -298,7 +305,8 @@ Yeah, I think demand has been very strong CJ. The first thing is all of the OEMs
 so and qualified systems with A100, they moved very fast as you know server
 companies go through a qualification cycle, there's some physics involved in that,
 but they saw the opportunity with us, and they really turned on a dime, and we are
-very thankful to them for how quickly they reacted and you can see that effect now inQ - C.J. Muse
+very thankful to them for how quickly they reacted and you can see that effect now in
+Q - C.J. Muse
 A - Manuvir Dasthe market. And then also our CSP partners adopted A100 very quickly, and the
 uptake has been amazing. In fact, we see very, very wrong demand in the public
 clouds for these A100 instances that the cloud providers have. So I think that's great.
@@ -340,7 +348,8 @@ command is a platform that can be used to them deploy the AI out the Edge,
 because if you think about the retailer for example, we work with Walmart, right and
 you can think about how many stores Walmart has around the world and if you're
 putting in a little bit of this equipment on the edge in every store in every store this is
-not traditional IT, where you can have IT people sitting in every store, walking up andQ - C.J. Muse
+not traditional IT, where you can have IT people sitting in every store, walking up and
+Q - C.J. Muse
 A - Manuvir Dasdown watching the equipment, because there's only two or three servers in every
 store.
 So what you really need is, you need some kind of command module that is
@@ -381,7 +390,8 @@ have a CPU, you'll have GPUs to run the applications that are suitable for GPUs,
 you'll always have a DPU as an essential component and so we're very, very excited
 about this opportunity CJ and we think all the work we're doing, we've been laying
 the groundwork with the OEMs, with VMware, with cloud providers to trigger this
-movement to have a DPU in every server.Q - C.J. Muse
+movement to have a DPU in every server.
+Q - C.J. Muse
 A - Manuvir Das
 Q - C.J. MuseNow the CPU work is in very much in contrast for this. The reason we are working on
 Grace is because for a specific situation, which is AI down at extreme high scale
@@ -423,7 +433,8 @@ ecosystem C.J to make this happen, and that's why we're so happy about those
 partnerships, because this is not something that is done alone it is done in
 conjunction with trusted vendors that enterprise customers already work with, this is
 about coming to enterprise customers with solution that is easy for them to use, that
-is comfortable for them while providing new capability.A - Jensen Huang
+is comfortable for them while providing new capability.
+A - Jensen Huang
 Q - C.J. MuseExcellent. Well, thank you for your time, greatly appreciated, and I wish you the best
 of luck.
 Thank you very much for having me and so having NVIDIA.

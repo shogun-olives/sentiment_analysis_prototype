@@ -17,7 +17,8 @@ well.
 So, let's just start with gaming. And I guess, the first question is that, obviously,
 demand has been very strong, revenue is up 2x since launching Ampere, you're still
 growing mid-30s year-over-year based upon your guidance. The question I always
-get is, how sustainable is this through calendar '22? And maybe you can first sort ofA - Colette M. Kress
+get is, how sustainable is this through calendar '22? And maybe you can first sort of
+A - Colette M. Kress
 Q - Tim Arcuritalk about that. But also, more importantly, walk us through the growth drivers for
 that business as we head into next year.
 
@@ -60,7 +61,8 @@ know it's a very diﬃcult question for you to answer, because you really don't 
 how much, if any, is being bought by the miners. But sort of what feedback are you
 getting from the channel? Do you -- can you just sort of maybe give us some
 anecdotes about feedback from channel that convinces you that crypto is not a big
-factor or makes you worry that maybe it is? And maybe just the potential for theA - Colette M. Kress
+factor or makes you worry that maybe it is? And maybe just the potential for the
+A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kressminers to be ﬂashing the old firmware onto the RTX cards, because I still hear about
 some of that happening, but it's sort of hard to really determine how widespread
@@ -104,7 +106,8 @@ the year?
 Sure. So, when we have looked each in quarter, we're trying to make a good
 understanding of what we're seeing out in the channel, what those levels are in the
 channel, and how we can continue to procure more and more supply to meet that
-need. That's an ecosystem piece of work when we think about how to improve ourQ - Tim Arcuri
+need. That's an ecosystem piece of work when we think about how to improve our
+Q - Tim Arcuri
 A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kressoverall supply. We have to think not only of the supply that we procure to create the
@@ -148,7 +151,8 @@ historically, over the years in terms of that compounded growth rates. We have s
 the -- both factors of increase in terms of units from either upgrades and/or new
 gamers coming onboard to purchase as well as an increase in average ASPs. That
 average ASPs is a reﬂection of people buying up the stock and buying some of our
-higher end cards. So, this has consistently been over time to both be importantQ - Tim Arcuri
+higher end cards. So, this has consistently been over time to both be important
+Q - Tim Arcuri
 A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kressdrivers and even today when we look at this time with Ampere, it is consistently
@@ -191,7 +195,8 @@ supply even in January. So, maybe can you help us quantify the number or maybe
 when do you think you can start to ship to that demand level?
 
 Yes. Within our Q3, the networking demand was much, much stronger than our
-supply that was available in Q3. And we probably expect something similar as weQ - Tim Arcuri
+supply that was available in Q3. And we probably expect something similar as we
+Q - Tim Arcuri
 A - Colette M. Kressmove into Q4. The company as a whole continues to work that supply situation and
 hope to improve it by the second half of next year. Nothing really different in terms
 of networking as we have focused on many of the supply challenges. It's not
@@ -234,7 +239,8 @@ inferencing.
 So, our sales, when you break this out by whether or not it is a price point or unit, I
 think that's a really tough way to look at it, because we're here to supply to our
 overall customers, any different version that they want. If they want a full end-to-end
-system or if they just want the card and they want to choose the type of system, weQ - Tim Arcuri
+system or if they just want the card and they want to choose the type of system, we
+Q - Tim Arcuri
 A - Colette M. Kresscan enable each and every single one of those. We can even provide it to them in
 the cloud, provide that on-premise, and types of hybrids of world. So, there's so
 many different configurations that probably not the easiest way to discuss the
@@ -277,7 +283,8 @@ stitching that together, that's one way or if they wanted to start with a base p
 infrastructure and build as they go, we will enable all of those.
 We have DGXs, for example, base command for development of AI or we have Edge
 workloads that we engage with EGX running deployed AI or managed by a ﬂeet
-command. So, many different types of software offerings, all of them are tending toQ - Tim Arcuri
+command. So, many different types of software offerings, all of them are tending to
+Q - Tim Arcuri
 A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kressbe on the NVIDIA-certified OEM systems, ODM systems or cloud offerings. In the
@@ -321,7 +328,8 @@ Again, multiple GPUs, we can have many different types of configurations that
 support that.
 So, as we think about the opportunity in front of us and where we are right now, we
 think we are in still the single digits in terms of that type of penetration. But the more
-and more that we are seeing at-scale types of deployment, so many differentQ - Tim Arcuri
+and more that we are seeing at-scale types of deployment, so many different
+Q - Tim Arcuri
 A - Colette M. Kressindustries looking at AI solutions and now having readily available software that gets
 them -- gets up to them. We believe we will continue to be able to penetrate not
 only the enterprises, but future work that we're doing in terms of the hyperscales as
@@ -365,7 +373,8 @@ important deal.
 I know many people have been focused on such a unique way to work together with
 an OEM and how we share the benefits from that kind of deal. We're excited to be
 working with Daimler and many of these others across the world. We have a full
-stack, an end-to-end type of solution that can be hardware, that can be hardwareQ - Tim Arcuri
+stack, an end-to-end type of solution that can be hardware, that can be hardware
+Q - Tim Arcuri
 A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kresswith a system solution and we will work with anyone in terms of how they want to
@@ -409,7 +418,8 @@ continued innovation, support to fuel the work that they are doing in AI. So, we
 here to assist them with that.
 We will continue to provide a lot of different software in our application, in our
 overall stacks of infrastructure as well, but focus in key areas, where we can monetize
-this separately. Infrastructure as a whole across the company, whether that be withQ - Tim Arcuri
+this separately. Infrastructure as a whole across the company, whether that be with
+Q - Tim Arcuri
 A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kressgaming, data center, professional visualization is still a very meaningful part of our
@@ -454,7 +464,8 @@ Sure. So let's start with what is Omniverse to us. Omniverse is our hardware and
 software platform here at NVIDIA that we will be able to introduce 3D design
 collaboration for building out virtual world and building out digital twins. Building
 out virtual world and distributed collaboration will be investment across many
-different types of companies at all different levels. We stand to benefit in this caseQ - Tim Arcuri
+different types of companies at all different levels. We stand to benefit in this case
+Q - Tim Arcuri
 A - Colette M. Kressfrom not only our computing and graphics technology both for infrastructure and
 software, but as a whole working on delivering an end-to-end solution to help the
 industry.
@@ -496,7 +507,8 @@ lowest-hanging fruit, which are these 40 million engineering and just -- people?
 Yes, when you look at our ability to engage with enterprises of so many different
 industries. We will continue to follow the path that we have done. The first thing was
 working with OEMs and ODMs on all of the different types of infrastructures that are
-being built for these industries. We continue to fine-tune those certified systems soQ - Tim Arcuri
+being built for these industries. We continue to fine-tune those certified systems so
+Q - Tim Arcuri
 A - Colette M. Kress
 Q - Tim Arcuri
 A - Colette M. Kress

@@ -19,7 +19,8 @@ Each one of them is leveraging the exact same underlying architecture -- or
 essentially, the GPU is the key piece of technology basis underneath those. But we
 approached it in a platform position where we are using a development platform,
 the overall ecosystem around all of these platforms, to better seed our overall
-products into market.Ross Seymore
+products into market.
+Ross Seymore
 Colette KressSo a different approach to where probably four or five years ago when we were
 more focused on a platform -- a PC platform, a server platform and being a
 component -- we've actually approached it as being an overall platform at this time.
@@ -57,7 +58,8 @@ possible simultaneously.
 
 Sure. So the market statistics that are out there, when they look at an overall unit of
 discrete GPUs, what they are looking at is the entire spectrum of discrete GPUs as it
-relates to overall PC shipments.Ross Seymore
+relates to overall PC shipments.
+Ross Seymore
 Colette Kress
 Ross Seymore
 Colette KressSo we do continue to play in overall mainstream type of PCs, PCs that you use for
@@ -94,7 +96,8 @@ What has really changed to allow the gross margin of your business to rise so
 substantially, excluding of course the Intel royalty side?
 
 Sure. The gross margin is really about the value that we are delivering to gamers. It's
-not about just providing them a great chip -- it is about the overall ecosystem, theRoss Seymore
+not about just providing them a great chip -- it is about the overall ecosystem, the
+Ross Seymore
 Colette Kressconnection that we have with each of those gamers.
 We have GameWorks, which is working with our overall software developers on
 many key features that they are going to want to put in their games going forward,
@@ -130,7 +133,8 @@ Virtual reality has now met its match in terms of the underlying technology to m
 real. We are seeing a tremendous amount of interest in terms of the overall content
 that will be built as well. So our overall goal is to make sure that each and every one
 of our platforms as best as we can can allow virtual reality to take place in the overall
-gaming world.Ross Seymore
+gaming world.
+Ross Seymore
 Colette Kress
 Ross Seymore
 Colette KressIt is something in terms of an ongoing bonus I think for the overall gaming universe
@@ -167,7 +171,8 @@ Pascal, it moved actually quite smoothly. Our job was to make sure our gamers we
 pleased, our channel partners were pleased. And we executed as best as we could.
 And you saw that. You saw nearly ﬂawless execution as we made that transition.
 So we work on making sure the channel has the right availability of the product
-based on the overall demand that we see. Given our market position, we do have aRoss Seymore
+based on the overall demand that we see. Given our market position, we do have a
+Ross Seymore
 Q - Unidentified Participant
 A - Colette Kressgood ability to see over the overall demand and making sure that we can provide
 the channel with the right amount. And that's what I think you see.
@@ -202,7 +207,8 @@ As we approach the overall autonomous driving arena, we look at it in the same
 manner. We look at it as a data center type of problem. They are very familiar with
 the overall capabilities of the GPUs. And we are working together on future
 algorithms for self-driving cars in that case. So a very, very important partnership to
-us.A - Ross Seymore
+us.
+A - Ross Seymore
 Q - Unidentified Participant
 A - Colette KressAlso, if you've been watching over the last couple days, in our GTC China event, we
 also announced some additions to our DRIVE PX platform. We launched two
@@ -239,7 +245,8 @@ So we have worked keenly with many of the OEM suppliers of those notebooks and
 being very, very well received of these higher-end graphic cards for overall very
 specific gaming types of infrastructure. You see many of these OEMs putting out very
 specific platforms to take a hold of this gaming market. And it's probably one of our
-fastest-growing parts of our overall gaming is the overall mobile notebook.A - Ross Seymore
+fastest-growing parts of our overall gaming is the overall mobile notebook.
+A - Ross Seymore
 A - Colette Kress
 A - Ross SeymoreSo really addressing the need for the right performance and the right power
 eﬃciency, as that has also been our focus. We do believe that these cards will be --
@@ -277,6 +284,7 @@ As we move forward and we think about the additional value that we are deliverin
 through this development platform and working on the instruction sets necessary for
 autonomous driving, we do believe both the overall ASP will appreciate that overall
 value that we'd also be able to move in terms of higher gross margins.
+
 A - Colette Kress
 A - Ross Seymore
 Q - Unidentified ParticipantOne question on that content side of things. We've talked to different companies
@@ -314,7 +322,8 @@ You guys have done a great job with the Founders Edition launch. I'm just
 wondering: could you talk to the business strategy, the go-to-market strategy? Has
 that changed? How are you guys working with your traditional partners, like the MSIs
 and Gigabytes? And should we expect this for the new high-end launches going
-forward, where you are selling it direct to consumers?A - Colette Kress
+forward, where you are selling it direct to consumers?
+A - Colette Kress
 A - Ross Seymore
 Q - Unidentified Participant
 A - Colette Kress
@@ -352,7 +361,8 @@ run and you've got a $32 billion market cap. Any -- to the extent that you'd be 
 to engage in industry consolidation?
 
 Sure. When we think about our overall allocation of cash and we think about our
-overall free cash ﬂow in those pieces, of course our first order is to be assured weA - Ross Seymore
+overall free cash ﬂow in those pieces, of course our first order is to be assured we
+A - Ross Seymore
 A - Colette Kresshave correctly funded the overall business. And that has been done continuously.
 Our focus historically as a Company is we have relatively been quite organic in terms
 of our growth. We've continued to spend to these four different platforms that we
@@ -388,7 +398,8 @@ Sure. To help everybody understand our position. So we have a $1.5 billion
 convertible note outstanding. As we had discussed in our 10-Q filing, given the
 strength in the overall stock price, that is a deep-in-the-money convertible.
 What we had seen is the option where many of our convert holders have early
-converted to the tune of probably approximately one-third. A little bit less than themA - Ross Seymore
+converted to the tune of probably approximately one-third. A little bit less than them
+A - Ross Seymore
 A - Colette Kress
 A - Ross Seymore
 A - Colette Kresshave early converted. We are contractually obligated based on that to repay that
@@ -428,7 +439,8 @@ computing business, where the leveraging and accelerated computing platform for
 many of the high-performance computing applications that we have out there.
 Acceleration in high-performance computing continues to take a huge focus. Many
 of the top 500 supercomputers in the world are now using acceleration. And we
-represent probably about 75% or more of that overall acceleration market. So ourhigh-performance computing market continues to expand as the focus on
+represent probably about 75% or more of that overall acceleration market. So our
+high-performance computing market continues to expand as the focus on
 acceleration gets larger.
 Additionally, we have also a cloud offering. Our cloud offering essentially puts a GPU
 in a virtualized experience. A one-to-many type of form. That can be used for either
@@ -464,7 +476,8 @@ we will need. How many of them will apply it to their existing architectures? Ho
 many of them will apply it to only brand-new architectures. And new infrastructure
 that they may put in.
 But we do see a vast and broad, not just with the hyperscales. But also moving into
-enterprises, enterprise focused on a significant amount of data that they have alsoA - Ross Seymore
+enterprises, enterprise focused on a significant amount of data that they have also
+A - Ross Seymore
 A - Colette Kressmoving through their network are prime candidates and thoughts of using deep
 learning as well. So it's some -- probably we'd say from a TAM side is probably one
 of our largest opportunities as we move forward.

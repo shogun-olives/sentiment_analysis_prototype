@@ -18,7 +18,8 @@ So like I said, I'm joined on the stage by Neal Mohan, who is the Vice President
 Display and Video Advertising. So thanks for joining us, Neal, and welcome.
 
 Thanks for having me.
-Q&AQ - Stephen D. Ju
+Q&A
+Q - Stephen D. Ju
 A - Neal Mohan
 Q - Stephen D. Ju
 A - Neal Mohan
@@ -61,7 +62,8 @@ thing which is what do our customers need both on the buy-side and the sell-side
 How can we deliver to them a comprehensive solution across display, video, mobile,
 search, et cetera, and that's what we've been focused on, and so that's been, I think,
 the kernel or the key ingredient of our success over the course of the last seven
-years.Q - Stephen D. Ju
+years.
+Q - Stephen D. Ju
 A - Neal MohanIn terms of new opportunities, I think one of the areas that I'm particularly interested
 in and that we're very focused on is really cracking the brand advertising nut for
 digital. And so if you think about the overall display or overall advertising pie
@@ -104,7 +106,8 @@ We acquired a company called spider.io a few months ago that has deep expertise
 and impression in view spam. We're building those capabilities into our entire stack.
 And the idea there is ensuring that all of our inventory, YouTube, the inventory
 available on our Ad Exchange, et cetera, is as clean and as fraud free as possible. But
-just as importantly giving tools to our buyers to make sure that that's the case, notQ - Stephen D. Ju
+just as importantly giving tools to our buyers to make sure that that's the case, not
+Q - Stephen D. Ju
 A - Neal Mohanjust for our inventory, but for all the inventory that they're buying across the Internap
 and the app ecosystem.
 So that's what I would say on the safety and fraud side of things. And in terms of
@@ -148,7 +151,8 @@ we align advertiser and agency goals with consumer goals, which is users, if the
 not interested in the ad, can skip them, they don't have to watch them. And
 advertisers don't have to pay if users actually skip those ads. And so it creates this
 kind of positive feedback cycle where advertisers are very invested in building
-beautiful creative, engaging creative, and that actually works for the consumers.And so a lot of the great viral video campaigns that you've seen have been
+beautiful creative, engaging creative, and that actually works for the consumers.
+And so a lot of the great viral video campaigns that you've seen have been
 campaigns that have been built around this orientation of, if users skip the ad, it
 doesn't matter. So let's create something that's truly engaging, funny, makes an
 emotional connection with users, et cetera. And so we're investing very heavily there
@@ -191,7 +195,8 @@ advertisers can leave always on as long as they're getting those Brand Lift resu
 they're looking for.
 So as I said, we've run 6,000 of these surveys for brands like MasterCard, Mondelēz,
 eHealth, et cetera, and not only are the results proving that digital works, but more
-importantly, for me, the fact that advertisers are getting that feedback onQ - Stephen D. Ju
+importantly, for me, the fact that advertisers are getting that feedback on
+Q - Stephen D. Ju
 A - Neal Mohanperformance in real-time and are able to tweak their campaigns almost immediately
 to actually dramatically improve brand performance, while those campaigns are
 running as opposed to getting some kind of report six months after the fact that they
@@ -237,7 +242,8 @@ campaign is tied to some kind of conversion event immediately or six months, a y
 or two years down the road. And in order to make that happen, we need to establish
 the link between those Brand Lift metrics at the top of the funnel and some sort of
 sales activity that might happen sort of months or years sort of down the road. And
-so those are the types of things that we're working on.Q - Stephen D. Ju
+so those are the types of things that we're working on.
+Q - Stephen D. Ju
 A - Neal MohanBut the real table stakes there for us are to be able to give brands this real-time
 feedback in terms of the type of Brand Lift that they're seeing and the early results of
 working with, like I said, we run 6,000 of these studies over the last several months
@@ -280,7 +286,8 @@ It's really moving up the spectrum into more premium inventory. For example, the
 amount of transactions conducted programmatically on our Ad Exchange at CPMs
 greater than $5 grew something like, I think, 55% year-on-year last year, those at
 CPMs greater than $10 grew 60% year-on-year. So lots of very high quality inventory
-is actually now getting transacted programmatically.Q - Stephen D. Ju
+is actually now getting transacted programmatically.
+Q - Stephen D. Ju
 A - Neal Mohan
 Q - Stephen D. Ju
 A - Neal Mohan
@@ -322,6 +329,7 @@ publishers are looking for our solutions to deliver the highest yield from a
 monetization standpoint.
 
 Yeah.
+
 Q - Stephen D. Ju
 A - Neal Mohan
 Q - Stephen D. Ju
@@ -365,7 +373,8 @@ through a combination of sort of very deep relationships with all of these partn
 the buy-side as well as the sell-side so that we have kind of the nuance insights
 about what they're really looking for us to develop and that's how we develop a lot
 of our roadmaps is in conjunction with our partners. And then deploy sort of true
-Google technology and scale to solve the problems globally for all of these clients.Q - Stephen D. Ju
+Google technology and scale to solve the problems globally for all of these clients.
+Q - Stephen D. Ju
 A - Neal MohanThat's what I believe has been kind of our sustainable advantage for the last seven
 years and I think is what's going to continue into the future.
 And from our perspective, the results play out. As I said, every one of the top 10
@@ -407,7 +416,8 @@ of how we think about data and its use for things like advertising is, at the en
 day, this is all about how brands and publishers make connections with consumers.
 And so if we're not putting consumer privacy, transparency, control and choice front
 and center, then we, as an industry, not just Google, are kind of missing the ball. And
-so everything we do is really from that lens.Q - Stephen D. Ju
+so everything we do is really from that lens.
+Q - Stephen D. Ju
 A - Neal MohanAnd so to give some examples there, for all Google media, if users don't want any of
 that data to be deployed, we have an Ads Preferences Manager where they can
 easily opt out. You may have started to notice on all the ads that you see across the
@@ -451,7 +461,8 @@ seamlessly integrated in AdWords where literally in a matter of minutes, an
 advertiser can get a display ad created and up and running, a process that
 previously would have probably taken dozens or hundreds of hours to build. We're
 doing the same thing for video advertising. A few months ago, we acquired a very
-small company called Directr that allows small businesses to be able to createQ - Stephen D. Ju
+small company called Directr that allows small businesses to be able to create
+Q - Stephen D. Ju
 A - Neal Mohan
 Q - Stephen D. Ju
 A - Neal Mohanbeautiful, rich and engaging video ads, all from their mobile phones and trying to
@@ -495,7 +506,8 @@ while in mobile, obviously, you don't have a mouse for hover over. How do you
 enable that, how do you make that ad work seamlessly on mobile with either a tap or
 a swipe or something like that, and that should be technology that Google just
 handles behind the scenes so that the creatives can actually focus on building
-beautiful creatives. So it's a small example, but how to actually deploy creative in aQ - Stephen D. Ju
+beautiful creatives. So it's a small example, but how to actually deploy creative in a
+Q - Stephen D. Ju
 A - Neal Mohanmulti-screen environment is an important thing. Our TrueView video format, a big
 chunk of its impressions come in a mobile environment now, so it's a format that
 works seamlessly across desktop and mobile.
@@ -539,7 +551,8 @@ campaigns are from one device to the other, maybe mobile is not getting enough
 credit because it's the thing that actually drove people to convert but that
 conversion was happening on desktop. And so kind of enabling that sort of cross
 device measurement capability is something that we have been very focused on and
-have rolled out to our advertisers as well.Q - Stephen D. Ju
+have rolled out to our advertisers as well.
+Q - Stephen D. Ju
 A - Neal Mohan
 Q - Stephen D. Ju
 A - Neal Mohan
@@ -580,5 +593,6 @@ Got you. Well, we're out of time. Thanks very much, Neal.
 
 Great.
 
-Thank you, everybody.A - Neal Mohan
+Thank you, everybody.
+A - Neal Mohan
 Great. All right.

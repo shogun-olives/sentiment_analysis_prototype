@@ -1,5 +1,6 @@
 Thank you, Chanel. Good morning, everyone. Welcome to our call to discuss the
-combination of Tesla and SolarCity. From Tesla, I'm joined today by Elon Musk, JBTodd Maron
+combination of Tesla and SolarCity. From Tesla, I'm joined today by Elon Musk, JB
+Todd Maron
 Elon MuskStraubel, Jason Wheeler. And Tesla General Counsel Todd Maron. From SolarCity, we
 have Lyndon Rive, CEO; Peter Rive, CTO; and Tanguy Serra, CFO.
 Earlier this morning we issued a press release and a short investor presentation at
@@ -34,7 +35,8 @@ objectives of the deal.
 I think I've spoken quite a bit at length probably about the objectives. So I don't
 think there's anything new I have to add. It was described when we announced it
 and then again in my master plan update. But the entire deal is actually driven by a
-need to bring together the products on the factory and the solar side to create anLyndon Rive
+need to bring together the products on the factory and the solar side to create an
+Lyndon Rive
 Jason Wheelerintegrated product for the end-user. The end-user being all the way from the
 individual to the utility.
 So the idea is that there's one sales process, one inﬂation process, one service
@@ -73,7 +75,8 @@ the equation. So I'm very excited about this next phase and I think together we 
 really accelerate the adoption of clean energy.
 
 Cool. Thanks, Lyndon. This is Jason. I'm speaking to page 12 of the presentation we
-sent out first.First and foremost, the headline here is we believe we can generate substantial cost
+sent out first.
+First and foremost, the headline here is we believe we can generate substantial cost
 eﬃciencies with the combination of the two companies. Right now we are targeting
 $150 million within the first full year after closing.
 If I drill down on that, some of the details: clearly there's going to be sales and
@@ -108,7 +111,8 @@ Then we also believe there is opportunity to cut capital costs as well.
 So moving on to the next page; I'm on page 13 now. I think the headline here is the
 Tesla SolarCity financing strategy is really underpinned by two key factors. One of
 those factors is the continued maturation of Tesla's production capabilities. We
-already announced this at the beginning of -- or at the end of Q2. Our productioncapacity for vehicles grew 20% quarter over quarter and over 40% year over year, in
+already announced this at the beginning of -- or at the end of Q2. Our production
+capacity for vehicles grew 20% quarter over quarter and over 40% year over year, in
 spite of some of the challenges that we've talked about with ramping up Model X.
 Number two, SolarCity has a formidable project financing acumen. I believe that this
 is a real asset and, as I've gotten to learn a lot more about it, I think we are really
@@ -143,7 +147,8 @@ from that vehicle and that will enhance our overall leverage profile as an enter
 Also, the combined solar and storage offering is expected to fuel revenue growth
 and should help us self-fund future investments.
 Last point on the page, realized synergies and cash ﬂow. I covered a lot of that on
-the last page. But overall, just to circle back, we think each company has things thatJeff Evanson
+the last page. But overall, just to circle back, we think each company has things that
+Jeff Evanson
 Operator
 Q - Ben Kallo
 A - Elon Musk
@@ -178,7 +183,8 @@ Julien Dumoulin-Smith, UBS.
 
 Good morning.
 
-Good morning, Julien. Elon, Julien is one of the SolarCity analysts.Q - Julien Dumoulin-Smith
+Good morning, Julien. Elon, Julien is one of the SolarCity analysts.
+Q - Julien Dumoulin-Smith
 A - Jeff Evanson
 Q - Julien Dumoulin-Smith
 A - Elon Musk
@@ -217,7 +223,8 @@ Right now we're not assigning the $150 million at any lower level of detail than
 But let me talk you through some of the things to think about. One of the things is
 obviously Tesla's retail footprint is a real example to drive down customer acquisition
 costs. We have more than 3 million people that come through Tesla, our Tesla retail
-locations, every year and there is a broad overlap in the types of products that theseA - Lyndon Rive
+locations, every year and there is a broad overlap in the types of products that these
+A - Lyndon Rive
 Q - Julien Dumoulin-Smith
 A - Lyndon Rive
 Q - Julien Dumoulin-Smithcustomers are looking for, which we think plays right into SolarCity. So one, great
@@ -257,6 +264,7 @@ to five years.
 But no specific quantitative targets on storage deployment yet?
 
 Nothing that we will say.
+
 A - Elon Musk
 Operator
 Q - Patrick Archambault
@@ -296,7 +304,8 @@ growth period from now until then as we integrate.
 This is really long-term thinking here. In order for the right scenario to transpire in
 three years, we need to take the action now. You can't take the action in three years
 and then have it instantly be the right move; it takes time to get there. So this is an
-action now which is anticipating several moves ahead.Q - Patrick Archambault
+action now which is anticipating several moves ahead.
+Q - Patrick Archambault
 A - Elon Musk
 Q - Patrick Archambault
 A - Elon Musk
@@ -335,6 +344,7 @@ development, operational improvements. And economies of scale, all of which this
 -- this merger is intended to achieve.
 
 Got it, okay. Thanks for taking my questions.
+
 Q - Patrick Archambault
 Operator
 Q - Rod Lache
@@ -372,6 +382,7 @@ on the value there. So I think that's also a huge source of potential synergy.
 Now in terms of modeling out into the future, 2017, 2018, 2019, we are certainly taking
 a look at that. But this is the early days of integration and digging through that. So
 we're not going to provide a lot of detail on that at this time. But more to come.
+
 A - Todd Maron
 Q - Rod Lache
 Operator
@@ -409,6 +420,7 @@ more with products and I think customers would want R&D equipment, too.
 
 Thank you.
 James Albertine, Consumer Edge.
+
 A - Lyndon Rive
 Q - James Albertine
 A - Elon MuskGreat. Good morning. And thank you for taking my question. I wanted to ask, if
@@ -448,7 +460,8 @@ being done. But I think we would expect a decrease in the marketing expenses and
 the sales expenses for SolarCity that's quite substantial.
 And the focus would be, much like with Tesla, through our network of stores where
 we have a tremendous amount of foot traﬃc that I think is underutilized because we
-have just two cars right now to sell them and one prospective car. And selling themQ - James Albertine
+have just two cars right now to sell them and one prospective car. And selling them
+Q - James Albertine
 Operator
 Q - Philip Shen
 A - Elon Muskstorage plus solar I think or educating them about that I think could quite
@@ -485,7 +498,8 @@ Now, of course, talk is cheap and we need to show that that's true. But the math
 suggests it is. So we will be applying those same principles to the production of
 store sales, panels. And modules as well as making those systems really custom-
 designed to a house or location, business, whatever the case may be. And making
-them beautiful. I think this is very important. There needs to be an asset to yourQ - Philip Shen
+them beautiful. I think this is very important. There needs to be an asset to your
+Q - Philip Shen
 A - Lyndon Rive
 A - Elon Muskhouse. It needs to be so good that when it's done you call your neighbors over to
 show them how proud you are.
@@ -526,7 +540,8 @@ it's a big headache for the utilities to do.
 Or you can combine centralized renewable energy generation with localized
 renewable energy generation on the rooftops. So I think there's a prosperous future
 here for both utilities and rooftop energy providers and everyone wins, because this
-is a growing pie, a rapidly-growing pie. When a pie is constant or it's shrinking, thatOperator
+is a growing pie, a rapidly-growing pie. When a pie is constant or it's shrinking, that
+Operator
 Q - Joe Spak
 A - Elon Muskis obviously where you get kind of negative competition. But this is really a case
 where the pie is growing rapidly and I think there's plenty of room for utilities and for
@@ -562,7 +577,8 @@ one company and then cash reserves in another company, you can't take the
 probabilistic combination of what both companies need. It's actually less eﬃcient to
 have cash reserves in one company or another and I think a stronger balance sheet
 means you can also raise refinancing a lot easier.
-I'm not sure if anyone else would like to comment on that.A - Jeff Evanson
+I'm not sure if anyone else would like to comment on that.
+A - Jeff Evanson
 Operator
 Q - Edwin Mok
 A - Elon Musk
@@ -602,7 +618,8 @@ working; have already started working on together or which areas that you guys p
 to start work together on these kind of technologies, joint technology development?
 
 As separate companies, it's actually quite diﬃcult for us to work together because it
-has to be a justification for why I say Tesla is favoring SolarCity or SolarCity isA - Jason Wheeler
+has to be a justification for why I say Tesla is favoring SolarCity or SolarCity is
+A - Jason Wheeler
 Q - Edwin Mok
 Operator
 Q - Colin Ruschfavoring Tesla. If we're independent companies it has to be an arms-length
@@ -641,7 +658,8 @@ some money because of the length of the acquisition process. Can you give us an
 update on your expectations now that you've done a deeper dive -- SolarCity has
 updated its guidance and you are a little more familiar with their need to refinance
 assets -- on what your expectation for providing a loan from Tesla to SolarCity during
-this process?A - Jason Wheeler
+this process?
+A - Jason Wheeler
 A - Elon Musk
 A - Jason Wheeler
 Q - Colin Rusch
@@ -681,7 +699,8 @@ Good morning. Just a question on funding and maybe sort of a nontraditional angl
 to it, or maybe not so nontraditional. You guys have highlighted the potential to raise
 money in different forums. Would you ever consider bringing in a well-capitalized
 third-party into the equation if this deal goes through and you think you need more
-capital to really help with that?A - Elon Musk
+capital to really help with that?
+A - Elon Musk
 Q - John Murphy
 A - Elon Musk
 Q - John Murphy
@@ -722,7 +741,8 @@ seems like you are going to make a lot of progress. How do you guys think about
 that?
 
 Well there's broad societal implications long term for automation of everything. If
-you have self-driving vehicles, then obviously what do people do who currently driveQ - John Murphy
+you have self-driving vehicles, then obviously what do people do who currently drive
+Q - John Murphy
 A - Elon Musk
 A - Jason Wheeler
 Q - John Murphy
@@ -761,7 +781,8 @@ been really interesting; there's huge interest from students and also the workfo
 general.
 
 That's very good to hear, thank you.
-Michael Morosi, Avondale Partners.Q - Michael Morosi
+Michael Morosi, Avondale Partners.
+Q - Michael Morosi
 A - JB Straubel
 Q - Michael Morosi
 A - Elon Musk
@@ -801,7 +822,8 @@ clearly the horses -- the horse companies and carriage companies weren't
 combined. So why should car companies produce motors and vehicles? But when
 you have integrated things with a car it makes sense to have the motor and the car
 designed by the same company. So you can have a good integrated system that
-works together well.Operator
+works together well.
+Operator
 A - Jeff Evanson
 A - Elon Musk
 OperatorThat same paradigm didn't exist in horses and carriages. There wasn't a good

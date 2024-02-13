@@ -15,7 +15,8 @@ presentation or some might say, the more normal or boring part of the presentati
 Elon will join us to actually go through a presentation as well, which I'm sure all of
 you are looking forward to.
 In addition, I'd like to thank and note several people that are in the audience. Our
-Board is in the audience. So many members of the Board are here. And I'd also likeJonathan A. Changto mention the number of executives from Tesla, are also here in the room as well.
+Board is in the audience. So many members of the Board are here. And I'd also like
+Jonathan A. Changto mention the number of executives from Tesla, are also here in the room as well.
 I'm sorry. I promised myself I would not do that today. And finally, Kevin Healy from
 PricewaterhouseCoopers is here, Tesla's independent auditor, is in the room today.
 So after the voting, as I said, Elon will give a presentation about Tesla and answer
@@ -55,7 +56,8 @@ And so now I'd like to reintroduce Jonathan Chang to go through the formal part 
 today's meeting. Thank you.
 
 Thanks, Robyn. Robyn, our new Chair, has been doing some great, amazing work
-with our Board and our company. So really appreciate all the work, Robyn.I am the General Counsel at Tesla. And this starts now the -- I think Robyn referred to
+with our Board and our company. So really appreciate all the work, Robyn.
+I am the General Counsel at Tesla. And this starts now the -- I think Robyn referred to
 it as the boring part of the meeting. Often in my meetings, she refers to me as the
 boring part of the meeting. But -- so this is it. So I'm well suited for it. Okay. Let's get
 started by calling the Tesla's Annual Meeting of Stockholders to order. Please refer to
@@ -94,7 +96,8 @@ proposals that I just listed above.
 We have also received 2 stockholder proposals as described in our proxy statement.
 The first stockholder proposal is an advisory vote to recommend that Tesla establish
 a Public Policy Committee. Our Board has recommended that our stockholders vote
-against this stockholder proposal. This stockholder proposal is proposed by Mr. JingJing Zhao
+against this stockholder proposal. This stockholder proposal is proposed by Mr. Jing
+Jing Zhao
 Jonathan A. Chang
 Jing Zhao
 Jonathan A. Chang
@@ -133,6 +136,7 @@ than simple majority vote be eliminated and replaced by a requirement for majori
 of the votes cast for and against applicable proposals or a simple majority in
 compliance with applicable laws. Thank you very much. I make it very simple. Thanks.
 Enjoy.
+
 Elon R. MuskGreat. Thank you, Mr. Zhao. I would like to remind our stockholders that Tesla's
 Board has prepared a statement in opposition of this proposal, which appears in our
 proxy statement.
@@ -170,7 +174,8 @@ So Model 3, last 4 quarters, is actually selling -- outselling all competitors c
 in the U.S.. So all of them. It's the highest revenue car in the U.S. and best-in-class
 performance. And it's actually the best-selling car by revenue of -- including high-
 volume cars like the Toyota Camry and Honda Accord. So the dollar sales -- yes, I
-think most people aren't aware of this. But we're about the fourth best-selling bynumbers. But the highest selling by revenue over the past year of any, any car in the
+think most people aren't aware of this. But we're about the fourth best-selling by
+numbers. But the highest selling by revenue over the past year of any, any car in the
 U.S. So that's remarkable that an electric vehicle is the best-selling, the highest
 revenue car in the country. I think 10 years ago, nobody would have believed it.
 Thanks to the hard work of the Tesla team, this is what -- this is the result. It's great.
@@ -209,7 +214,8 @@ actual total cost of ownership, because electricity is so much cheaper than gaso
 and the maintenance costs are much less, you don't need an oil change or a filter
 change. You basically never need to change the brake pads because of regenerative
 braking. The actual operating costs of an electric car are much less than a gasoline
-car. And so it takes a while for -- to educate people on this because the easiest thingto look at is just the lease price or the purchase price. But the -- when factoring in
+car. And so it takes a while for -- to educate people on this because the easiest thing
+to look at is just the lease price or the purchase price. But the -- when factoring in
 fuel and maintenance, the -- it's actually -- buying Model 3 is like buying a Camry or
 an Accord but better, yes, better from a cost standpoint, yes. It's a great car. It's a car
 that is designed for you to have the most fun. And we keep putting gems on it like
@@ -250,7 +256,8 @@ So it's really -- it takes us a bit of time to educate consumers about this. But
 people are starting to get it.
 And like a car is a major investment for most people. It's often their most valuable
 asset. If you're going to make the choice about your most valuable asset, you want to
-look towards the future and say, where are we headed? Clearly, we're headedJeffrey B. Straubel
+look towards the future and say, where are we headed? Clearly, we're headed
+Jeffrey B. Straubel
 Elon R. Musk
 Jeffrey B. Straubeltowards electrification. Clearly, we're headed towards autonomy. And so that's the
 kind of car you want to get. So I think this is -- people are starting to realize this.
@@ -290,7 +297,8 @@ better build this. And yes, I mean the crazy thing is this was basically, I thin
 And we showed a picture of a factory in the hills and said to investors, we need
 money to build this thing. And they gave us money, which was cool.
 
-And we built it.Elon R. Musk
+And we built it.
+Elon R. Musk
 Jeffrey B. Straubel
 Elon R. Musk
 Yes, yes. We built it. There it is, right there. It's really giant. And it's getting bigger. So
@@ -331,7 +339,8 @@ to have a more affordable car for the China market. So this is extremely importa
 Tesla's future.
 Then Gigafactory Europe, as you can see, we've made great progress here. We just
 put this picture in like literally 5 minutes ago. So this is deep planning here. This is
-not the actual place that it will be. This is a generic picture of Europe.Jeffrey B. Straubel
+not the actual place that it will be. This is a generic picture of Europe.
+Jeffrey B. Straubel
 Elon R. Musk
 Drew Baglino
 Elon R. Musk
@@ -370,7 +379,8 @@ about Version 3 of Solar Roof. And it's -- and I'm not really over confident on 
 I think that we can -- we have a shot at being equal to a (comp) shingle roof plus
 someone's utility costs or being maybe lower than that. So that's like one of the
 cheapest roofs available. So you can have potentially a great roof out with better
-economics than a normal, fairly cheap roof and your utility bill.Drew Baglino
+economics than a normal, fairly cheap roof and your utility bill.
+Drew Baglino
 Elon R. Musk
 Drew Baglino
 Elon R. Musk
@@ -407,6 +417,7 @@ I agree.
 I do think you guys should see more of Drew. And you've been involved in a lot of
 stuff and are still leading a lot of key initiatives for us. So anyway, introduction to
 Drew.
+
 Jeffrey B. Straubel
 Elon R. Musk
 Drew Baglino
@@ -442,7 +453,8 @@ finally going to get the Trans-Canada Highway and -- for example...
 Alaska?
 
 Then, we're going to go Alaska, too. So yes, actually, the -- this map doesn't even
-include all of the locations. But really like the 2 critical factors we found for sales inany given region and the really obvious actually are: is there a service center within
+include all of the locations. But really like the 2 critical factors we found for sales in
+any given region and the really obvious actually are: is there a service center within
 reasonable distance and are there Superchargers on all the routes that you'd like to
 take? You don't want to have like (80%) of the routes because then like, geez, what
 about that 1 trip that you can't do now? So you really want to have Superchargers
@@ -483,7 +495,8 @@ sci-fi movie. So it will be really cool, we think. Then the Semi, which we reall
 forward to getting into production hopefully towards end of next year.
 A lot of this also is dependent on our ability to manufacture a lot of cells and make a
 lot of battery packs. So there's not much point in adding product complexity if we
-don't have enough batteries. Then there's complexity. But without gain. So we'reA - Elon R. Musk
+don't have enough batteries. Then there's complexity. But without gain. So we're
+A - Elon R. Musk
 A - Jeffrey B. Straubel
 A - Elon R. Musk
 A - Drew Baglino
@@ -519,6 +532,7 @@ Yes. And we're not sitting -- yes, we're not sitting idly by. We're taking all t
 required to be masters of our own destiny here technologically and otherwise. And I
 think through all the experience we've developed with partners and otherwise, we
 have -- we will -- we have solutions in place.
+
 A - Drew Baglino
 A - Elon R. Musk
 A - Drew Baglino
@@ -559,7 +573,8 @@ But it won't be long before we release that.
 Yes, pickup truck event, sometime -- probably sometime this -- towards the end of
 summer would be my guess. Like, we're trying to create something here that is really
 new and not just derivative of all the other vehicles on the road, that we're trying to
-create something new and it's not just basically a copy of the form factor ofeverything else. But you still want it to be great. It's very hard. It was a very hard
+create something new and it's not just basically a copy of the form factor of
+everything else. But you still want it to be great. It's very hard. It was a very hard
 thing. And our goal here is to have something that's more functional than an F-150,
 which is a great truck and top-selling car -- a top-selling vehicle in the U.S. The -- but
 then also better sports car than a basic 911. So that's a hard one. But like it's
@@ -599,7 +614,8 @@ practice a rideshare ﬂeet with people and then that will be good for figuring 
 things for the robotaxi ﬂeet in the future. So I mean this might make sense. I mean
 we'll probably do something like this, probably makes sense, yes, sort of a
 supervised robotaxi.
-Then yes, we'd be happy take questions from the audience.Q - Unidentified Participant
+Then yes, we'd be happy take questions from the audience.
+Q - Unidentified Participant
 A - Elon R. Musk
 A - Drew Baglino
 A - Elon R. MuskWow. Okay. Yes. So I don't know which side we're starting with. But I don't know, the
@@ -642,7 +658,8 @@ we've done some very big projects in California. So I think energy storage, as D
 pointing out, is actually extremely important. And you could actually probably locally
 put Powerpacks in the substation. If you don't know what a substation is it's sort of
 like where the high power lines come in and then it gets dropped from like, say,
-11,000 volts to 400 volts or 500 volts and then gets distributed to a community. So ifA - Drew Baglino
+11,000 volts to 400 volts or 500 volts and then gets distributed to a community. So if
+A - Drew Baglino
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
@@ -681,6 +698,7 @@ export from that factory to other Asian factories. So why was the target set at
 
 Hold on. Have you seen how fast that China factory has been built?
 Yes. Two months or less.
+
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -720,7 +738,8 @@ and aggressively speed up Supercharger expansion while preserving Tesla's capita
 Would that be of interest?
 
 Well most of our Supercharger locations are actually either free or leased at a low
-rate. Actually, sometimes they pay us.A - Elon R. Musk
+rate. Actually, sometimes they pay us.
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -756,7 +775,8 @@ Yes. It is not a...
 And that the company is on the verge of bankruptcy. And we know that's not true.
 But...
 
-This is not true.Q - Unidentified Participant
+This is not true.
+Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
@@ -794,6 +814,7 @@ Make a documentary, yes. It's the most crazy disinformation campaign I've ever s
 Yes. Yes.
 
 Yes. So...
+
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
@@ -832,7 +853,8 @@ Just to that last gentleman's comment, it's obviously on your mind, many people'
 minds. So I'm just going to sneak in a little suggestion. You're right. The constructive
 response is so. So challenging. And maybe one little opening would be there are
 some people such as Michael Bloomberg, who is both obviously a titan in the media
-industry and also very, very publicly expresses his care about the environment.A - Elon R. Musk
+industry and also very, very publicly expresses his care about the environment.
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -873,6 +895,7 @@ was not guaranteed. And it's actually -- so I kind of trace Tesla back to 2003 w
 and I having lunch in El Segundo -- it was with Rosen. Harold Rosen?
 
 Harold, yes.
+
 A - Jeffrey B. Straubel
 A - Elon R. Musk
 A - Jeffrey B. Straubel
@@ -914,6 +937,7 @@ and a number of other partners in this effort are succeeding in taking entire is
 parts of nations 100% renewable. And that shows the growth on that other key
 aspect of the mission. And yes, that's been personally very rewarding and then for
 J.B. as well because, in 2003, he was the TA of a class I was in, talking all about this.
+
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -951,7 +975,8 @@ could geek out a little bit on where we're going to go from now till December,
 January, February, feature wise. Is that already running in your cars like the demo?
 Are we going to cherry pick it? Or what gives you the confidence that feature
 complete, not hands-off. But feature complete is possible? And what -- can you
-excite us a little bit about what that's going to be like?A - Elon R. Musk
+excite us a little bit about what that's going to be like?
+A - Elon R. Musk
 A - Drew Baglino
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -994,7 +1019,8 @@ very important.
 Yes. So I mean I have most of this working in like the development version that's on
 my car. I have actually 2 dev branches, 1 for enhanced Summon and 1 for full self-
 driving in 2 different cars. But it would not be good to release that to the general
-public, I think, not yet. All right.A - Elon R. Musk
+public, I think, not yet. All right.
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified ParticipantElon, J.B., Tesla team and Tesla Board, huge fan. Best wishes and lots of love from
@@ -1034,7 +1060,8 @@ will want to thank you and your team for all the great work you did, you do and 
 will do. Cheers.
 
 Oh, thanks. Cool. Thank you. Much appreciated.
-Elon, when can Tesla come to India?A - Elon R. Musk
+Elon, when can Tesla come to India?
+A - Elon R. Musk
 Q - Jennifer Behr
 A - Elon R. Musk
 Q - Jennifer Behr
@@ -1078,7 +1105,8 @@ and stuff on our hands. It gets kind of nasty if you don't have like the right s
 treatments on the material. So it's an easier proposition to solve it for seats than it is
 for the steering wheel. So there's actually a remarkable amount of effort to solve the
 steering wheel. But it is a thing that we are -- we're working on and hope to release
-soon.Q - Jennifer Behr
+soon.
+Q - Jennifer Behr
 A - Elon R. Musk
 Q - Jennifer Behr
 A - Elon R. Musk
@@ -1118,7 +1146,8 @@ these issues. It's tricky though because if you have an ad that says, "Look, our
 don't catch on fire. This is BS." Then people might think, "Are your cars actually
 catching on fire? Like what's going on?" There's so much trickery in advertising. Like
 maybe the opposite thing is happening. I wouldn't say that we're against advertising
-forever. But it hasn't been necessary, thus far. And yes. So yes.A - Elon R. Musk
+forever. But it hasn't been necessary, thus far. And yes. So yes.
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -1153,4 +1182,5 @@ work. But if you make it a bit bigger, then you can actually have a submarine ca
 like technically possible. I think the market for this will be small, small but
 enthusiastic. So -- but we actually do have a design for a submarine car. Like that
 would be -- it'd be diﬃcult. It would not be -- be a bit of a distraction I think. So -- but
-maybe we'll make one as a show car at some point. That would be really fun.So thank you. Thanks, everyone. All right. Thanks.
+maybe we'll make one as a show car at some point. That would be really fun.
+So thank you. Thanks, everyone. All right. Thanks.

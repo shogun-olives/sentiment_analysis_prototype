@@ -21,7 +21,8 @@ customer-facing responsibilities and other things.
 
 Yes. Sure. Thank you for having me. No. It's no bother. This is a wonderful break from
 all the other things I do to get to talk a little bit about all the things we have done
-and where we're going.A - Toshiya Hari
+and where we're going.
+A - Toshiya Hari
 A - Ian BuckMy name is Ian Buck. So I'm the General Manager of Accelerated Computing here at
 NVIDIA. It's a long way of saying I'm responsible for the GPUs that go into the data
 centers themselves. And not less for graphics or gaming but more forward compute
@@ -58,7 +59,8 @@ companies in the market.
 Once COVID comes and we had to switch from an oﬃce environment, meeting
 customers' safe space, traveling to everyone at home and maintaining social
 distancing, and for our business, the inability to travel, the events, the conferences
-going virtual as well as engaging with our customers and our own data centers.We are -- drive a lot of the AI innovation, and that comes through experimentation
+going virtual as well as engaging with our customers and our own data centers.
+We are -- drive a lot of the AI innovation, and that comes through experimentation
 and development of AI. So we, of course, have our own, one of the world's largest AI
 computers that we had to upgrade and continue to invest in. In terms of
 achievements for the year, certainly, execution wise, I think everyone in NVIDIA is
@@ -96,7 +98,8 @@ magnitude more complex than what the main use case they had in the past, which i
 more focused on computer vision.
 The way I'd like to explain it is computer vision is a baseline capability that sort of
 when you think about it, we can see and understand what we're seeing with silicon
-dogs and cats and even bugs have basic computer vision understanding.A - Toshiya Hari
+dogs and cats and even bugs have basic computer vision understanding.
+A - Toshiya Hari
 A - Ian BuckThe other recognize it as an image, good or bad. Understanding language, that's a
 whole another level of intelligence. Not only do you have to understand what I said
 at the rate and speed at which I say it, but what was meant and come up with an
@@ -132,7 +135,8 @@ So I see inference definitely growing and conversational AI and recommenders
 being 2 big drivers in natural language processing in general. And the new neural
 networks are not going to stop.
 People are going to continue to build bigger, more impressive, more capable AIs,
-and they'll need the infrastructure in order to deliver and get it done. There's a lotA - Toshiya Hari
+and they'll need the infrastructure in order to deliver and get it done. There's a lot
+A - Toshiya Hari
 A - Ian Buckgoing to happen this year, but certainly, from the AI front, that's the stuff I'm pretty
 excited about.
 
@@ -168,7 +172,8 @@ extended to others.
 One of the other -- that quickly evolved to building out the platform because it's not
 -- you can't just program the GPU. People expect a certain level of libraries and
 capabilities to get their work done. No software today is developed entirely on their
-own.It's a combination of all the different libraries and technologies needed to make
+own.
+It's a combination of all the different libraries and technologies needed to make
 median application work certainly in the compute space. So our work has quickly
 grown, and it's quickly grown to building an entire platform of SDKs and libraries
 that enable it, starting with basic math libraries, single processing, linear algebra
@@ -206,7 +211,8 @@ value and then optimize the whole stack from the chip to the library to the comp
 to the runtime to all the vertical stacks that we have.
 So that was a critical decision early on. Don't worry about ISA compatibility, meet
 them up here, provide this whole innovation space. And that's really how we get the
-10 to 20x kind of performance that you see in some of our numbers is because we'reA - Toshiya Hari
+10 to 20x kind of performance that you see in some of our numbers is because we're
+A - Toshiya Hari
 A - Ian Buckinnovating all the way up here. This is where the programmers need us. They
 developed on Volta or Kepler or Fermi before that. They just -- they ride that wave,
 and that's why the platform is so enjoyable to so many people.
@@ -245,7 +251,8 @@ the SDKs, the libraries, the application frameworks are there now for them. They
 don't have to build it from scratch, those industries, which have the AI prowess, can
 consume it through a library service rather than developing it themselves.
 Over time, I think both data center and edge use cases will be much larger than
-hyperscale as the world industries consume more of a footprint and learn to adoptA - Toshiya Hari
+hyperscale as the world industries consume more of a footprint and learn to adopt
+A - Toshiya Hari
 A - Ian Buckthis technology. And you're obviously seeing it being applied everywhere. In the
 end, it will be a choice of how they want to consume it, whether it's in the cloud, in
 their own managed data center or push it to the edge based on the problem or use
@@ -284,7 +291,8 @@ continue to do so. Likewise, for in the simulation space, as you can imagine.
 I think AI adoption in enterprise is still fairly early, early days. So I expect that to grow
 significantly. The challenge is how can they consume it and adopt it and what's the
 right products for them to consume and adopt it and making it a little bit easier, then
-you can't just give them TensorFlow and hope that they can train their model.A - Toshiya HariIn the end, we're focused on more vertical SDKs and solutions and stacks. That's one
+you can't just give them TensorFlow and hope that they can train their model.
+A - Toshiya HariIn the end, we're focused on more vertical SDKs and solutions and stacks. That's one
 of the focuses around Jarvis, our conversational AI platform, providing them with a
 complete end-to-end ASR, NLU, TTS pipeline, which has been pretrained on all the
 data that we have in our own ﬂeet of DGX systems. Enterprise customers get
@@ -322,7 +330,8 @@ And here we are, obviously, you've had a ton of success with the T4 and now the
 A100. And I guess recently, you noted that the aggregate NVIDIA GPU compute
 capacity available for inference on the cloud has now exceeded that of CPUs. What's
 been sort of not the secret sauce, but what's been the big driver there in terms of
-how you've done so well in inference to date?A - Ian Buck
+how you've done so well in inference to date?
+A - Ian Buck
 It starts with the model complexity. Some of the -- obviously, training is orders of
 magnitude more complex than inference. When you train a model, you do an
 inference, but the back propagation is where a lot of the competition is and
@@ -360,7 +369,8 @@ provide the high throughput.
 We've been investing in software called TensorRT, which is sort of a deep learning
 inference compiler. It takes the model which you trained from TensorFlow or PyTorch
 or whatever and compiles it down to reduce precision, FP16 or an in date, and runs it
-in real-time.A - Toshiya Hari
+in real-time.
+A - Toshiya Hari
 A - Ian BuckOn top of that, we have found that there have been challenges with deploying
 inference. And so we've made that also easier in a Kubernetes environment with our
 Triton software, which is now is like a turnkey inference engine.
@@ -397,7 +407,8 @@ continue to go up on the right. And we've all seen the charts of the model
 complexity. No one has shown the end of language.
 And no, these neural networks are not close to human level of neurons, if you just do
 the naive parameter neuron basis. So there's still clearly more -- at least one
-existence proof that we've got another one or 2 orders of magnitude to go.A - Toshiya HariAnd by the way, training at that scale gets really complicated to get net -- to have
+existence proof that we've got another one or 2 orders of magnitude to go.
+A - Toshiya HariAnd by the way, training at that scale gets really complicated to get net -- to have
 that whole thing learn and converge. So I expect as that to continue, as you do the
 application of NLU to the different use cases, there will be specialization of those
 networks. It's not as simple as what people want to extract from language varies
@@ -434,7 +445,8 @@ has been staggering.
 I think you spoke to a 20x improvement with the A100. Based on what you're
 working on today and the visibility you have internally into your road map, how
 would you characterize the sustainability of your technology cadence? And outside
-of 10 going to 7-nanometer and 7 going to 5, what are some of the levers that youA - Ian Buckhave that you can pull, both on the hardware side and the software side to maintain
+of 10 going to 7-nanometer and 7 going to 5, what are some of the levers that you
+A - Ian Buckhave that you can pull, both on the hardware side and the software side to maintain
 that cadence?
 
 Yes. A huge part of what we do is the full stack optimization. While going through
@@ -471,7 +483,8 @@ It all comes together holistically when you look at the top to the bottom. So up
 you have the software, the algorithms, the domain-specific solutions that make
 things a lot faster. You then, of course, have to CUDA the compilers and the run
 times which, of course, work with the operating system to optimize all of the low
-level optimizations.A - Toshiya Hari
+level optimizations.
+A - Toshiya Hari
 A - Ian BuckThat, of course, goes to a GPU itself, which has been improved and redesigned
 throughout the old ISA, bring in a new one. We designed the core SM architecture as
 we see trends and shifts in both HPC and AI. But then it scales out again, it's -- as we
@@ -507,7 +520,8 @@ networking.
 This is an area of security or in network compute or being able to make our data
 centers malleable, turn a supercomputer into a cloud resource, all capable through
 by once you insert a programmable networking platform that can ensure security
-and isolation and the right levels of oﬄoad do not impact performance.A - Toshiya Hari
+and isolation and the right levels of oﬄoad do not impact performance.
+A - Toshiya Hari
 A - Ian BuckSo that's some of the problems it's trying to solve, and we're early on in that journey.
 Certainly, we worked -- I worked with Mellanox for a little over a decade in the HPC
 space.
@@ -544,7 +558,8 @@ We work with every major CPU provider, both x86, did a lot of work with IBM
 POWER and, of course, Arm even before the acquisition that was announced. Like I
 said, we're the only AI company that works with every other AI company. So my job is
 to activate our technology in all those places and help get it as we help ride and
-accelerate that tide of AI.A - Toshiya Hari
+accelerate that tide of AI.
+A - Toshiya Hari
 A - Ian Buck
 A - Toshiya HariWe have high confidence the deal will close. But in the long term, we can -- we treat
 Arm like a first-class citizen as we did before the acquisition, and we certainly already
@@ -583,7 +598,8 @@ about every different use case of AI. I wouldn't wish for any other job.
 
 Ian, that's a great place to end. Ian, thank you again for the precious time. Thank you
 for all the insights. Also a big thank you to all the investors that joined us this
-afternoon.A - Ian Buck
+afternoon.
+A - Ian Buck
 A - Toshiya Hari
 A - Ian Buck
 Thank you. Good luck.

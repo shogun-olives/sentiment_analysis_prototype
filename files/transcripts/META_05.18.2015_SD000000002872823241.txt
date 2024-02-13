@@ -12,7 +12,8 @@ driving product off the shelves. And everything in between.
 But we are very focused on being a business that grows other people's business.
 That's number one.
 The second is the evolution of our targeting capabilities. Four years ago you were
-not able to target people at a granular level at all.Doug AnmuthFast-forward to today, we have a number of targeting-ad products, starting with
+not able to target people at a granular level at all.
+Doug AnmuthFast-forward to today, we have a number of targeting-ad products, starting with
 Custom Audiences, which allows marketers to utilize their data to target consumers
 on Facebook that may be existing customers. We have Lookalike Audiences, where
 marketers can find customers that look like their existing customers. And we have
@@ -46,7 +47,8 @@ them. So I think it's evolved pretty dramatically.
 Great. Facebook likes to point out that it's ad products serve all types of advertisers.
 When I think across your four groups of advertisers -- direct response, developers,
 local. And brands -- it feels like brands have perhaps lagged the others in terms of
-adoption and spend.Carolyn Everson
+adoption and spend.
+Carolyn Everson
 Doug Anmuth
 Carolyn EversonSo how would you characterize your relationship with the big brands today? How
 penetrated are they on Facebook? And what do they want to see before they can
@@ -82,6 +84,7 @@ ecosystem that has been operating a certain way for decades.
 Okay. Great. When we talk to marketers and agencies, we get really good feedback
 on Custom Audiences. So hoping that you can talk to us more about this product
 and tool, what's differentiated about it. And how it's gotten the traction that it has?
+
 Dave Wehner
 Carolyn Everson
 Doug AnmuthSure. Custom Audiences is one of those solutions that when you actually explain it,
@@ -118,7 +121,8 @@ base is. What they did is they profiled through their existing customer bases an
 said: We need to find more people that look like this existing customer base.
 And we were able to target them. And they had a 4X increase in conversions using
 Lookalike Audiences. So these products are very effective and the teams that I
-oversee around the world work very hard to try to get clients to adopt them.Carolyn Everson
+oversee around the world work very hard to try to get clients to adopt them.
+Carolyn Everson
 Dave WehnerGreat. Let's shift gears a little bit and talk about video, certainly a big topic of
 discussion with investors and just in the industry across-the-board. You have been
 very bullish on mobile video overall.
@@ -155,6 +159,7 @@ Facebook or Instagram, you are in the discovery mode. You are getting things ser
 up to you that you may not specifically be going to look for at that moment in time.
 And that discovery mechanism is very important to brands, because that is actually
 how they often get into the hearts and minds of consumers.
+
 Carolyn Everson
 Doug Anmuth
 Dave Wehner
@@ -190,7 +195,8 @@ different objectives that you have. And the inventory that we have, what's the b
 way to match that against it? So you can think of it of being effectively at the overall
 CPM.
 Okay. Just taking a step back. So the work that you are doing and then some others
-obviously in the industry, really feels like still the early days of a massive shift in theCarolyn Everson
+obviously in the industry, really feels like still the early days of a massive shift in the
+Carolyn Everson
 Dave Wehnermarketing landscape. As you are measuring these business results or outcomes, can
 you talk about your efforts in tying Facebook ads to conversion both online and
 oﬄine?
@@ -226,7 +232,8 @@ So what it is allowing marketers to do is to become much more scientific around
 what is the best approach to deliver the most value for their bid.
 
 Yes. And I think just -- our capabilities of that sort of people-based approach, really
-where you are able to do those studies against a select group of people andDoug Anmuth
+where you are able to do those studies against a select group of people and
+Doug Anmuth
 Dave Wehnercompare, that is really one of the key unique features of Facebook versus trying to
 do that any other way, with cookies or anything like that.
 Okay. We're going to get to audience questions in a couple minutes. So if you have
@@ -262,7 +269,8 @@ more advertisers; we just have over 2 million advertisers on the platform. It me
 getting different types of advertising objectives into this system.
 So the more diversity we can bring in on that side, the better we can get at targeting
 and bringing those sophisticated targeting tools into place, the better yield we can
-get from the inventory that we have. So ultimately that is what we focus on. AndDoug Anmuth
+get from the inventory that we have. So ultimately that is what we focus on. And
+Doug Anmuth
 Dave Wehnerhopefully if we do everything right we can drive good effective CPMs for ourselves
 but also great outcomes and great ROI that's sustainable for our advertisers.
 Great. Dave, let's switch gears a little bit and talk about expenses and the guidance
@@ -297,7 +305,8 @@ platform, which is, we believe virtual reality; and Oculus is our big investment
 Then also investing in areas like Internet.org and artificial intelligence that we think
 will help support and drive the business in the long run.
 But all of those investments have sort of come into play. No big changes. But just
-better tuning on what we expect.Doug Anmuth
+better tuning on what we expect.
+Doug Anmuth
 Carolyn Everson
 Dave Wehner
 Q - Doug Anmuth
@@ -332,7 +341,8 @@ then also advertising; and then where WhatsApp fits in the three, five, 10 produ
 (multiple speakers).
 
 Sure, I'll take Instagram and Dave will cover WhatsApp. We've been in the market
-with Instagram for a little over a year now; it is at 300 million users and growing.A - Dave Wehner
+with Instagram for a little over a year now; it is at 300 million users and growing.
+A - Dave Wehner
 Q - Doug Anmuth
 A - Carolyn EversonThere is, I think, very good response from marketers. They are excited about it. It is a
 mobile-first, mobile really only product. And they realize how popular it is with
@@ -369,7 +379,8 @@ not have that same degree of direct-response advertising, which of course has be
 very lucrative.
 
 Well the similarities are they are essentially mobile platforms, number one. Number
-two, they are feed-based. So in the sense of being feed-based, what I mean is that'sQ - Doug Anmuth
+two, they are feed-based. So in the sense of being feed-based, what I mean is that's
+Q - Doug Anmuth
 A - Carolyn Eversonhow consumers are scrolling through and consuming the content.
 What we are seeing on Instagram is a mixture of some marketers thinking about it as
 a replacement for print, where they were having the opportunity to put an image ad
@@ -405,7 +416,8 @@ person if they are on these different devices.
 So our point of view is that people-based measurement versus cookies -- so real
 people versus an actual cookie -- is really going to be a big differentiator for us. We
 are able to tell a marketer now that they can serve an ad to a consumer in the
-morning.If you take a quick-service restaurant like McDonald's or Burger King Wendy's, they
+morning.
+If you take a quick-service restaurant like McDonald's or Burger King Wendy's, they
 may have a message that they want to get to you in the morning about stopping in
 for breakfast. That message will be very different later in the day and in the evening.
 So we are able to allow the marketer to target different points of the day on different
@@ -441,7 +453,8 @@ overarching belief is, as Dave talked about, we are extremely focused on getting
 right ad to the right person.
 We believe by using people-based marketing that the entire digital ecosystem can
 be a lot more effective, because we will not only get the right ad to the right person
-on Facebook and Instagram. But what would it look like for the entire ecosystem toQ - Doug Anmuth
+on Facebook and Instagram. But what would it look like for the entire ecosystem to
+Q - Doug Anmuth
 A - Dave Wehner
 A - Carolyn Everson
 A - Dave Wehner
@@ -477,7 +490,8 @@ One is on the mobile side. And you've seen the Samsung Gear VR. Then the
 consumer version coming out in Q1 of 2016 is basically an extension of what we've in
 the past called our developer kits, our DK1 and DK2 products, which is more of a PC
 peripheral. That will be the higher-end experience versus the mobile Gear VR
-experience.Q - Doug Anmuth
+experience.
+Q - Doug Anmuth
 A - Dave Wehner
 A - Carolyn EversonWe are really excited about the capabilities that that product will bring. But I would
 say that we are still in very much the early adopter phase of VR. That's going to take

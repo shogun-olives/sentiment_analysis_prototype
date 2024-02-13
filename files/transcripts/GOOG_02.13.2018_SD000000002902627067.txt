@@ -21,7 +21,8 @@ Welcome, Diane. You're going to start with a presentation.
 
 All right. Hello. Thanks so much for having me here, Heather. And I'm going to
 quickly go through an update on Google Cloud and then we'll get into questions.
-Okay.So just to level set what Google Cloud is, when we say Google Cloud, it's our secure,
+Okay.
+So just to level set what Google Cloud is, when we say Google Cloud, it's our secure,
 open, leading technologies, Google Cloud Platform and all its services, all the way
 up to G Suite, our secure productivity tool suite. And Google Cloud at this point is --
 the entire Google Cloud is, I think, highly differentiated as the most -- it's got security
@@ -61,7 +62,8 @@ deal blocker that an enterprise might have. And I'm happy to say that by the end
 this last year, we had really done that. We had user-managed encryption keys, peer-
 to-peer networking, audit logs with fine-grained access control and identity
 management, all the things -- the regulatory, the compliance, all the things an
-enterprise needs.So I was pretty happy to see the growth as we completed all these. And I think it puts
+enterprise needs.
+So I was pretty happy to see the growth as we completed all these. And I think it puts
 us in a great position. And I'll just share an anecdote that a friend of mine that's a
 tech CEO said that runs on both clouds. The friend said that looking at what
 happened last year product-wise, they felt that Google Cloud out-executed the other
@@ -103,7 +105,8 @@ ads data. You can bring that together in Google Cloud. You can bring that to mar
 Media, gaming, communications, Nintendo and PokÃ©mon Go. And there's a lot of
 gaming companies. Manufacturing and energy, Schlumberger uses us for HPC, for
 machine learning. Colgate is a big G Suite user and now GCP, partnering with us and
-SAP. Retail, we really had a spectacular Black Friday through Cyber Monday this year,Q - Heather Anne Bellini
+SAP. Retail, we really had a spectacular Black Friday through Cyber Monday this year,
+Q - Heather Anne Bellini
 A - Diane B. Greene
 Q - Heather Anne Bellini
 A - Diane B. Greene
@@ -142,6 +145,7 @@ Although it's very secure, you can't beat...
 Exactly. But the point is, did the amount of time it took for you to -- because you said
 those deal blockers are gone now. The amount of time it took for you to kind of, I
 guess, remove those from the system, did it...
+
 Q - Heather Anne Bellini
 A - Diane B. Greene
 Q - Heather Anne Bellini
@@ -187,7 +191,8 @@ vertical and really get into things we can do to move their business forward. An
 course, that's really fun. And so that -- in the large customers, that is going on. The
 other thing that's changed is our engagement with developers, our engagement
 with training. We have phenomenal training programs out there, everything from
-online to in-person, the hackathons and the whole thing. And we -- people -- we'reQ - Heather Anne Bellini
+online to in-person, the hackathons and the whole thing. And we -- people -- we're
+Q - Heather Anne Bellini
 A - Diane B. Greene
 Q - Heather Anne Bellini
 A - Diane B. Greene
@@ -228,7 +233,8 @@ Then IoT is pretty interesting area.
 
 Right. So if you were sitting down with a CIO and they asked you, "What are your top
 3 competitive advantages versus the other cloud providers?" What would be those 3
-things?A - Diane B. Greene
+things?
+A - Diane B. Greene
 Q - Heather Anne Bellini
 A - Diane B. Greene
 Q - Heather Anne Bellini
@@ -273,7 +279,8 @@ one of the more novel things we have is Google -- we have a lot of novel kind of
 think how you go-to-market in cloud is not finalized yet because of the complexity of
 the business. And you're basically merging 2 engineering teams and operating it
 together when a company moves to the cloud. And it has to work seamlessly, which
-is possible because of the cloud, because of how you can share. But -- so we did thisQ - Heather Anne Bellini
+is possible because of the cloud, because of how you can share. But -- so we did this
+Q - Heather Anne Bellini
 A - Diane B. Greene
 Q - Heather Anne Bellini
 A - Diane B. Greene-- Google embedded site reliability engineers for each of Google's billion-plus active
@@ -318,7 +325,8 @@ care of. And so we have done exceptionally well, I think, on getting these large
 customers. And that makes it much, much easier to bring in the mid-market and so
 on. We get all the SMBs through our G Suite product and really nice things have
 been happening. We're really getting a lot -- well, I think we're growing faster than
-we expected to on G Suite with large customers, like we have Verizon, 150,000 seats.Q - Heather Anne Bellini
+we expected to on G Suite with large customers, like we have Verizon, 150,000 seats.
+Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Diane B. Greene
 Q - Heather Anne Bellini
@@ -361,7 +369,8 @@ that you put together and your 6-year-old is going to be developing valuable app
 in not that long. But anyhow. So Apigee is part of that story and it hooks you to the
 machine learning and other useful things.
 
-There was a -- I think there was a question over here. Was there -- a phone call.Q - Heather Anne Bellini
+There was a -- I think there was a question over here. Was there -- a phone call.
+Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Diane B. Greene
 Q - Heather Anne Bellini
@@ -405,7 +414,8 @@ high-end CIOs. And they -- you know all the questions -- and it was on my birthd
 remember, it was very unpleasant -- and all the questions were, Google's going to
 compete with us. I mean, they thought we were going to become insurers. They
 thought we were going to do everything. And I was like, no, we're not going to do
-that. We're pretty focused. But -- and now nobody worries about that with GoogleQ - Heather Anne Bellini
+that. We're pretty focused. But -- and now nobody worries about that with Google
+Q - Heather Anne Bellini
 Q - Unidentified Participant
 A - Diane B. Greene
 Q - Unidentified Participant
@@ -444,7 +454,8 @@ And yes, we're going to take our last question right here. Just give the -- you 
 be -- here we go.
 I would love to hear how you think about -- just as you think about GCP, would love
 to hear how you think about the different buckets of sales and different products that
-you offer. Like how do you think about it in terms of basic compute versus machineQ - Heather Anne Bellini
+you offer. Like how do you think about it in terms of basic compute versus machine
+Q - Heather Anne Bellini
 A - Diane B. Greene
 Q - Heather Anne Bellini
 A - Diane B. Greenelearning? Like how do you guys internally or you just think about the different

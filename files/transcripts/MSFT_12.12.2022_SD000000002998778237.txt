@@ -1,6 +1,7 @@
 Thank you, Operator, and good morning, everyone.
 Anna and I are really excited to be here this morning to take your questions on the
-partnership we announced this morning with Microsoft.Judson AlthoffThere's no better way to reﬂect that partnership than our being joined here by
+partnership we announced this morning with Microsoft.
+Judson AlthoffThere's no better way to reﬂect that partnership than our being joined here by
 Judson Althoff, who is Executive Vice President and Chief Commercial Oﬃcer at
 Microsoft. Judson has been leading this partnership on their side, and Judson, it is
 great to have you here with us. Judson and I will each make some brief introductory
@@ -40,7 +41,8 @@ Let me turn it over to Judson for a few remarks.
 
 Thank you, David. And let me start off by saying it's a real pleasure to be able to be
 here with you today, and thank you all for listening this morning. We're really excited
-at Microsoft about this new strategic partnership with the London Stock ExchangeGroup. It has been, as David said, a journey over this last year, coming together in
+at Microsoft about this new strategic partnership with the London Stock Exchange
+Group. It has been, as David said, a journey over this last year, coming together in
 partnership. And we're really excited about Microsoft's partnership with LSEG across
 many, many facets here, and I think it would be great to spend a little bit of time to
 dive into some of the things that David said about the characteristics of the
@@ -80,7 +82,8 @@ entering with LSEG. Again, we're very excited about being able to help LSEG
 continue to transform digitally, leveraging the power of the Microsoft Cloud, and
 then bringing these great new technologies to our customers through the
 advancements of Teams and integration with LSEG Workspace and bringing these
-data and analytics services capabilities to the cloud.David Schwimmer
+data and analytics services capabilities to the cloud.
+David Schwimmer
 Operator
 Q - Bruce Hamilton
 A - David Schwimmer
@@ -113,7 +116,8 @@ I'm going to start with revenue, and we've said that this partnership will meani
 accelerate revenue. Although we're going to have a couple of years of product
 development, so we won't see that revenue ﬂowing through until 2025. It will be
 delivered by selling more of our existing products, accessing white spaces and also
-better pricing the broader set of products that we've got.A - David Schwimmer
+better pricing the broader set of products that we've got.
+A - David Schwimmer
 A - Judson AlthoffTo bring that to life a little bit, you've just heard Judson describe what making
 Workspace native within the Microsoft 365 that really could look and feel like, that is
 going to help us accelerate our trading or banking revenue. But also on top of that, it
@@ -153,7 +157,8 @@ think fundamentally about both LSEG and Microsoft as differentiated entities
 themselves and the power of the two of them coming together. Let me say a little bit
 more about that.
 Look, LSEG is unique in the market in that they have systemic market infrastructure,
-data assets and Workspace technologies that bring data forward to the folks thatOperator
+data assets and Workspace technologies that bring data forward to the folks that
+Operator
 Q - Andrew Coombs
 A - David Schwimmer
 A - Judson Althoffactually need to make decisions in real time to support their customers. Microsoft, at
@@ -192,7 +197,8 @@ with my last answer, which is how we'll serve the market together. We think both
 integrated Workspace solutions coming together with Teams and AI-driven next best
 action in the financial services market is a huge revenue opportunity for both
 companies, and LSEG will monetize their assets as Microsoft will monetize hours. The
-second piece comes from serving up the data and analytic capability for financialA - Anna Manz
+second piece comes from serving up the data and analytic capability for financial
+A - Anna Manz
 Q - Andrew Coombs
 A - Anna Manz
 Operator
@@ -230,7 +236,8 @@ for LSEG and comes with that revenue coming, and the other fees comes from
 broader network effect across financial services.
 The next question is coming from Arnaud Giblat from BNPP Exane.
 
-Could I please ask for a clarification?A - David Schwimmer
+Could I please ask for a clarification?
+A - David Schwimmer
 A - Anna Manz
 A - David Schwimmer
 A - Judson AlthoffIf I heard well the answer to Bruce's question on the revenue -- the incremental
@@ -266,7 +273,8 @@ unique capability we'll be able to bring to life with LSEG's Workspace technolog
 and Microsoft Teams, as well as all of the data services that we can bring to life on
 Microsoft Cloud.
 Maybe that ﬂows into the question about some of the scenarios, and how do you
-think it's different than it is today. So you've all sat on video calls, one or two over theOperator
+think it's different than it is today. So you've all sat on video calls, one or two over the
+Operator
 Q - Philip Middleton
 A - David Schwimmerlast three years. And whether you've used Zoom or whether you've used Microsoft
 Teams, you -- most likely, you know how to switch in between your voice, video and
@@ -302,7 +310,8 @@ that kind of thing, and that also ought to be a big opportunity for you? Are you
 looking at that as well?
 
 Thanks, Philip.
-Anna, you want to touch on the first question? I'll take the second one.A - Anna Manz
+Anna, you want to touch on the first question? I'll take the second one.
+A - Anna Manz
 A - David Schwimmer
 A - Judson Althoff
 Q - Philip Middleton
@@ -343,6 +352,7 @@ than ever before. You can think about it as simply as no system can be any more
 intelligent than the data over which it reasons [ph]. So if we can create a data gravity
 and a network effect around the LSEG data, we can help people reason over more
 effectively than ever before.
+
 A - Judson Althoff
 A - Anna Manz
 A - David Schwimmer
@@ -380,7 +390,8 @@ And then with respect to your third question. LSEG will -- so first of all, we'r
 good shape in terms of the Refinitiv integration. We've made great progress there,
 and this builds on top of that. You've seen that we've done a number of transactions
 this past year, and we will continue to evaluate opportunities. And if they make sense
-from a strategic and financial perspective, then we certainly have the capability to doA - Anna Manz
+from a strategic and financial perspective, then we certainly have the capability to do
+A - Anna Manz
 Operator
 Q - Johannes Thormann
 A - David Schwimmerthat. And as I said, we'll continue to focus on the Refinitiv integration process and the
@@ -415,7 +426,8 @@ there are likely to be significant benefits for the overall business. We've talk
 you all in the past about how we are harnessing all the different parts of LSEG,
 bringing them together, and getting the benefit of the broader ecosystem. And I
 should also mention that as we touched on in the release, we are working -- going to
-be working with Microsoft on digital markets infrastructure. And although this is aQ - Johannes Thormann
+be working with Microsoft on digital markets infrastructure. And although this is a
+Q - Johannes Thormann
 A - Anna Manz
 Operator
 Q - Ian White
@@ -453,6 +465,7 @@ please?
 
 Sure. Anna, you want to take the first one? And I'm happy to touch on the second
 one.
+
 A - David SchwimmerYes. And feel free to build. So maybe just to sort of unpack some of the drivers of
 revenue growth. So absolutely, there's market share gain, and I'll give you some
 examples of each of them in a minute. The ability to reach a broader customer set,
@@ -492,7 +505,8 @@ to market together. And as part of this, in terms of alignment of incentives, th
 term commitment.
 I mentioned earlier, Scott Guthrie will be joining our Board. Microsoft is taking a
 significant minority stake in LSEG, so just an entirely different category here in terms
-of the level of collaboration going forward.Q - Ian White
+of the level of collaboration going forward.
+Q - Ian White
 A - Anna Manz
 Operator
 Q - Ben Bathurst
@@ -532,7 +546,8 @@ average over that period is a single-digit proportion of our overall cost base. 
 would say to very much keep it in that proportion.
 
 And Ben, on your second question, we have significantly reduced the overhang here
-through the transfer from the Blackstone Consortium to Microsoft. We're thrilled toOperator
+through the transfer from the Blackstone Consortium to Microsoft. We're thrilled to
+Operator
 Q - Philip Middleton
 A - Anna Manz
 Q - Philip Middleton
@@ -566,7 +581,8 @@ Yes. That's the way to think about it.
 There are no further questions on the conference line.
 I will now hand over to the management for closing remarks.
 
-Thank you all for joining the call. I really appreciate the interest.As I imagine you can tell, we are very, very excited about this partnership between
+Thank you all for joining the call. I really appreciate the interest.
+As I imagine you can tell, we are very, very excited about this partnership between
 LSEG and Microsoft, and we look forward to updating you further in 2023.
 With that, we'd like to wish you all a happy and peaceful holiday season, and look
 forward to catching up with you all soon. Thank you very much.

@@ -14,7 +14,8 @@ So Colette, Happy New Year. Thank you for joining us. Let me go ahead and turn i
 over to you.
 
 Well, thank you so much, Harlan, for having us. 10 years, it is a great trend to be
-kicking off your conference, and we're very pleased to be that lead for yourconference.
+kicking off your conference, and we're very pleased to be that lead for your
+conference.
 Let me first start. I do have to make an opening statement, but as a reminder, this
 presentation contains forward-looking statements, and investors are advised to read
 our reports filed with the SEC for information related to risk and uncertainties facing
@@ -53,7 +54,8 @@ Those are some of the key things that we had from our gaming perspective, but ve
 similar to what we've seen in prior years, this is also a great time to talk about
 automotive and the work that we've been doing there.
 Automotive right now, you are seeing the use of Orin to be such an important driver
-of the AI computer with inside these cars. That will also be followed by Thor, whichA - Unidentified Speaker
+of the AI computer with inside these cars. That will also be followed by Thor, which
+A - Unidentified Speaker
 Q - Harlan Sur
 A - Colette Kresswill be available as well.
 We're seeing new NEV OEM wins from Great Wall Motor and Xiaomi, who are -- both
@@ -89,7 +91,8 @@ term growth. And how should we think about the overall growth profile for the
 different businesses, right, gaming, data center, Pro Viz and automotive?
 
 Yes. Our -- we are just getting ready to complete our fiscal year '24 this month. And
-that will therefore start our new fiscal year, our fiscal year '25. The opportunities forgrowth pretty much hit all of our different business and different business models
+that will therefore start our new fiscal year, our fiscal year '25. The opportunities for
+growth pretty much hit all of our different business and different business models
 that we have.
 So we can first start with the thoughts regarding data center. This is an important era
 that it doesn't change at the change of the calendar year. I understand the brand
@@ -128,7 +131,8 @@ But when we think about our growth and data center, it comes from many different
 areas. It comes not only from here in the U.S. as we sit today, but thinking about the
 regional and sovereign AI that is being built now worldwide. This is a very important
 multi-billion dollar market that is growing, and our support of that will be a very key
-part of this next calendar year.Q - Harlan Sur
+part of this next calendar year.
+Q - Harlan Sur
 A - Colette Kress
 Q - Harlan SurEnterprise AI and helping all different enterprises on their work as they focus on
 solutions, particularly for those that are software companies, and modernizing their
@@ -166,7 +170,8 @@ it's clear that the demand profile remains extremely strong.
 You touched upon this a little bit, but what's the team's view of your supply-demand
 balance here as we enter calendar '24 and as we progress through the year? Help us
 understand maybe some of the puts and takes just around the overall data center
-business. And the confidence level, it sounds like the team is confident on drivingA - Colette Kress
+business. And the confidence level, it sounds like the team is confident on driving
+A - Colette Kress
 Q - Harlan Sur
 A - Colette Kress
 Q - Harlan Sur
@@ -205,7 +210,8 @@ Yes.
 
 -- coming to market. This is where our H200, our Grace Hopper is also coming to
 market, as well as we discuss in terms of a transition again from an architecture
-perspective.Q - Harlan Sur
+perspective.
+Q - Harlan Sur
 A - Colette Kress
 Q - Harlan Sur
 A - Colette KressThis is front mind of our work both now reworking that supply to get ready for those
@@ -244,7 +250,8 @@ So as Jensen responded to that question, he focused that says, yes, we can grow 
 we move into calendar '25. There's an opportunity for both new product, new
 architectures. And as we see now, the work that we are doing on AI, the market's
 adoption of AI is just in the beginning stages. This is likely something for decades to
-come as we continue to grow out and the inclusion of AI in so many differentQ - Harlan Sur
+come as we continue to grow out and the inclusion of AI in so many different
+Q - Harlan Sur
 A - Colette Kress
 Q - Harlan Sursolutions. So our work is still in front of us, bringing these new products to market.
 But yes, he did say that we can grow in calendar '25.
@@ -283,7 +290,8 @@ demand sustainability through 2025 and beyond, right? And the NVIDIA team has
 highlighted the high ROI opportunity in GPU hosting, right? With a dollar of upfront
 investments translating into $5 in cloud service provider revenue over four years,
 right, combined with the proliferation of generative AI applications in enterprise
-software.A - Colette KressTaking that into account, and if you look at sort of the third-party forecast out there,
+software.
+A - Colette KressTaking that into account, and if you look at sort of the third-party forecast out there,
 data center infrastructure market, which is what we define as server plus networking,
 right? That's about a $220 billion market in 2027. So, what's the right way to think
 about about the normalized percentage of NVIDIA GPU spending, as it relates to
@@ -323,7 +331,8 @@ Tools that you have used for decades now have the likely infusion of generative 
 them and it will be an important part for them to monetize going forward. But you
 see generative AI with a lot of different use cases. We've talked about the
 productivity tools such as Microsoft Oﬃce, but you also have, for example, how
-they've infused AI just into Search. Search has been with us for a couple decades,Q - Harlan Sur
+they've infused AI just into Search. Search has been with us for a couple decades,
+Q - Harlan Sur
 A - Colette Kresshas transformed over and over again with the use of AI and our solutions to help
 them.
 You see the overall creators and the overall professional creators really working to
@@ -362,7 +371,8 @@ So, the PC market for many years has been focused on x86, but you're right. Ther
 an opportunity for more ARM-powered products, particularly at the PC.
 We are focusing, as you know, right now, on ARM in terms of data center. And that's
 a great progress that we've made with our solutions on AI to now use ARM, which is
-one of the most energy-eﬃcient types of operating systems, to enable moreQ - Harlan Sur
+one of the most energy-eﬃcient types of operating systems, to enable more
+Q - Harlan Sur
 A - Colette Kressproductivity as we look in the data center. We welcome more ARM-powered
 products as we move forward and we'll continue to grow and support that broader
 ecosystem.
@@ -402,7 +412,8 @@ backwards compatibility (inaudible) compatibility. As they move forward and thin
 about new architectures like that software is going to continue to work for them.
 Now, our growth will be consistent, let's say, with what we're seeing in terms of the
 infrastructure or the hardware that we're also selling. Because as we sell the
-hardware, we are looking for them to adopt the software with those solutions as well.Q - Harlan Sur
+hardware, we are looking for them to adopt the software with those solutions as well.
+Q - Harlan Sur
 A - Colette KressNo matter if you're doing that hardware infrastructure both on-premise or you're in
 the cloud, we're giving an opportunity for them to purchase that software and help
 them in their business.
@@ -438,7 +449,8 @@ Mercedes is likely to ramp in calendar '25. You'll see JLR ramping in calendar '
 Both will drive opportunities of meaningful scale, both from a hardware and a
 software perspective for us. But right now, we are also seeing new design, new
 business wins, or it has been very, very key of any of these in the NEV market as they
-use it for both the computing platform and AI solutions together. You'll see Li Auto,Q - Harlan Sur
+use it for both the computing platform and AI solutions together. You'll see Li Auto,
+Q - Harlan Sur
 A - Colette Kress
 Q - Harlan Sur
 A - Colette Kressyou'll see Great Wall Motor, Xiaomi, and additional design wins likely to come as
@@ -477,7 +489,8 @@ Yeah.
 
 -- is our engineers. And when you think about how we are organized as a company
 to be quite horizontal, to be not a business group or business unit type of company,
-but all hands on deck, working at every level from the hardware up to the software,Q - Harlan Sur
+but all hands on deck, working at every level from the hardware up to the software,
+Q - Harlan Sur
 A - Colette Kress
 Q - Harlan Surfor us to be as agile as possible for the ever-changing parts of this market. So we are
 investing.

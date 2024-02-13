@@ -15,7 +15,8 @@ advance of this meeting and I'm always living there in fear that I just complete
 screwed it up and I've missed what's happened over the course of the last month
 and a half which changed the world.
 Let me just move right now and introduce our very important first speaker who of
-course has been always focused on innovation, strategy. And execution as much asTim Cook
+course has been always focused on innovation, strategy. And execution as much as
+Tim Cook
 Bill Shope
 Tim Cook
 Bill Shope
@@ -51,7 +52,8 @@ results or trends could differ materially from those statements. Information on
 potential factors that could affect Apple's financial results is included in our public
 reports filed with the SEC including our 10K for fiscal 2012 and our 10Q for the First
 Quarter of fiscal 2013.
-Questions And AnswersA - Bill Shope
+Questions And Answers
+A - Bill Shope
 A - Tim Cook
 A - Bill Shope
 A - Tim Cook
@@ -92,6 +94,7 @@ So there was a specific proposal last week from Greenlight on Apple issuing a
 perpetual preferred stock. I think it becomes a question around what that is and do
 we have examples? I'm sure you've dug into this. What are your thoughts on that
 type of security?
+
 A - Bill Shope
 A - Tim CookI think it's creative. And we are going to thoroughly evaluate their current proposal.
 We welcome all ideas from all of our shareholders including Greenlight and we're
@@ -133,7 +136,8 @@ issuance of preferred stock because this is something -- we have no preferred st
 as you know. This isn't a matter of increasing shares. We feel so strongly that
 common shareholders would do it, if we decide that this is in the best interest of
 shareholders to issue, we would clearly go for a vote regardless of whether our
-charter requires it or not. That's the way I see it.A - Bill Shope
+charter requires it or not. That's the way I see it.
+A - Bill Shope
 A - Tim Cook
 A - Bill Shope
 A - Tim Cook
@@ -173,7 +177,8 @@ a hole in our pocket.
 
 I'm going to shift off the balance sheet now.
 
-Yes. Great.A - Bill Shope
+Yes. Great.
+A - Bill Shope
 A - Tim Cook
 Over the past decade, Apple's reinvented computing, digital media consumption,
 mobile communication. There were many countless innovations in the decades prior
@@ -214,7 +219,8 @@ think we're unique in that. I think we're unrivaled in that. I think there are p
 trying desperately to catch up in that and I think they're finding it's not so easy to do.
 Now, in terms of leadership, when I look around the executive team table, I see
 superstars. I see people that are at the very top of their game. I see people like
-Johnny Ive who I think has the best taste in the world, is the best designer in theA - Bill Shope
+Johnny Ive who I think has the best taste in the world, is the best designer in the
+A - Bill Shope
 A - Tim Cookworld. He's now bringing his talents to our software as well. I'm just ecstatic about
 this. I see people like Bob Mansfield who I think is the top silicon expert in the world
 and I see people like Jeff Williams who -- there's nobody better in operations
@@ -256,7 +262,8 @@ over 500 million. However, over 40% of that happened last year. And so there's
 incredible momentum there and across that period of time we built an ecosystem
 that is the best customer experience on the planet and in addition it's fueling an
 incredible economic gain for developers and so we've already gone over, paying $8
-billion now to developers.A - Bill Shope
+billion now to developers.
+A - Bill Shope
 A - Tim CookIf you look back at the economy of the PC market or look at it today, there's money
 ﬂowing to two or three people. But you don't see a large number of people doing
 PC apps. I would challenge you to find any except the usual suspects now. The
@@ -298,7 +305,8 @@ things more affordable.
 Also if you look back at Apple's history what you would see is, if you take something
 like an iPod, when we came out with iPod it was $399. Where is iPod today? Today
 you can go out and buy an iPod Shuﬄe for $49. And so instead of saying -- How can
-we cheapen this iPod to get it lower? We said -- How can we do a great product?A - Bill Shope
+we cheapen this iPod to get it lower? We said -- How can we do a great product?
+A - Bill Shope
 A - Tim CookAnd we were able to do that at a cost that enabled us to sell it at a very low price of
 $49 and it appealed to a lot more people.
 The same thing. But a different concept in some ways is for years people said -- Why
@@ -338,7 +346,8 @@ fabulous experience when you open it and use the product.
 And so, if you look at displays, if you kind of contrast this to displays, some people
 are focused on size. There's a few other things about the display that are important.
 Some people use displays like OLED displays -- the color saturation is awful. So if
-you ever buy anything online and you want to really know what the color is as manyA - Bill Shope
+you ever buy anything online and you want to really know what the color is as many
+A - Bill Shope
 A - Tim Cook
 A - Bill Shope
 A - Tim Cookpeople do, you should really think twice before you depend on the color that -- of
@@ -381,7 +390,8 @@ game. The tablet market last year, the projections I've seen would indicate ther
 about 120 million tablets sold last year. The projection is that this is going to triple --
 triple -- in four years. And so when you think about that -- I think the actual number is
 375 million. That's more PCs that are being sold today around the world and the PC
-growth rate as you know is actually contracting, not growing.A - Bill ShopeSo the tablet is attracting people who have never owned a PC and people who have
+growth rate as you know is actually contracting, not growing.
+A - Bill ShopeSo the tablet is attracting people who have never owned a PC and people who have
 owned them but aren't great in the experience. And Apple is at the forefront. The
 iPad is absolutely the poster child of the post-PC revolution. So if you look at what
 we bring there, we've worked really hard on our ecosystem. There are over 300,000
@@ -422,7 +432,8 @@ They don't like it. They want integration and Apple can do that better than anyo
 Part of the success of the iPad last quarter was the iPad mini. By all accounts it was a
 hit over the holiday season. I think this also serves as a unique argument for the ﬂip
 side of the question I had earlier on pricing. You started out with the iPad at a very
-aggressive price point and then you came out with the iPad mini now which certainlyA - Tim Cooknot only in form factor but in price I think appeals to a whole new group of
+aggressive price point and then you came out with the iPad mini now which certainly
+A - Tim Cooknot only in form factor but in price I think appeals to a whole new group of
 customers.
 When you look at that, it did have an impact on iPad ASPs last quarter. It certainly
 had an impact on overall gross margins for Apple. From a financial perspective and
@@ -461,7 +472,8 @@ a huge opportunity. And so it seems perfectly reasonable to me to have an iPad a
 the iPad mini. I would argue it probably wouldn't be smart not to. This is one of the --
 I think this is going to be the mother of all markets. And so I think we did the right
 thing. Of course our customers are voting in their buying. We had a diﬃcult time last
-quarter with satisfying everyone. But we're working really hard on that.A - Bill Shope
+quarter with satisfying everyone. But we're working really hard on that.
+A - Bill Shope
 A - Tim Cook
 A - Bill Shope
 I think some of these questions are really -- from an investor perspective it's about
@@ -501,6 +513,7 @@ much in the very short-term. We're managing Apple for the long-term. I know
 people care about quarters and so forth and we care. But the decisions we make, the
 profound decisions we make, are for Apple's long-term health. Not for the short-
 term 90 day clock.
+
 A - Tim Cook
 A - Bill Shope
 A - Tim CookLooking at Apple as a platform Company, not a hardware Company, can you help us
@@ -545,7 +558,8 @@ purpose of serving. The Genius Bar helps you not only with an issue. But it help
 get more out of your Apple products over the life of them. The store acts as a
 gathering place. It's a place that has an important role in the community.
 So if you look at an agenda on an Apple store for any given day, you might find that
-there's a youth program going on where the kids from a local elementary school areA - Bill Shopecoming in the store as part of a field trip. You might find that there's a local musician
+there's a youth program going on where the kids from a local elementary school are
+A - Bill Shopecoming in the store as part of a field trip. You might find that there's a local musician
 that's entertaining people in that store that night. It's incredibly exciting what these
 stores do. I'm not even sure store is the right word any more. They've taken on a role
 much broader than that. They are the face of Apple for almost all of our customers.
@@ -586,6 +600,7 @@ level, I go in a store and it instantly changes. It's like a Prozac or something
 know. It's unbelievable, the energy in our stores and to talk to our team members
 and our customers in there. It's a feeling like no other. We're continuing to invest
 here.
+
 A - Tim Cook
 A - Bill Shope
 A - Tim CookIn closing, you've just finished your first full year as CEO. When you look back on this,

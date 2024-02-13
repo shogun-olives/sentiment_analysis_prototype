@@ -17,6 +17,7 @@ SEC filings and the website for potential disclosures. If you need any of those
 disclosures, Microsoft's representatives here in the front row. They'll hand those out
 to you. So just in terms of the disclosures.
 Questions And Answers
+
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jha
@@ -55,7 +56,8 @@ Exchange providing enterprise mail and calendaring, Yammer providing enterprise
 social. You've got SharePoint doing portals and team collaboration, Skype that does
 conferencing and meetings and voice. Then we've added Microsoft Teams.
 So the best way to think about Oﬃce is it's all experiences, end to end, that run on all
-the devices and delivered either on-prem or in the cloud. And the thing that we'veQ - Brent Thill
+the devices and delivered either on-prem or in the cloud. And the thing that we've
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jhadone now is expanded Oﬃce even more into areas like security and analytics and
@@ -96,7 +98,8 @@ Well I mean, for many years now, we have been all-in on the cloud. And for a bun
 of different reasons; the rate of innovation. Now you have Microsoft investing in
 upgrade, migration, deployment and you take the friction away from customers to
 get to your newest stuff. So the rate of innovation. The ability to provide the best user
-experiences because your customers all lit up today.Q - Brent Thill
+experiences because your customers all lit up today.
+Q - Brent Thill
 A - Rajesh JhaThe ability of democratizing the availability for product. So SMBs, small and medium
 businesses, where I described Oﬃce as being so many things, it's super hard for a
 small business to go put all of that together. And with the cloud delivery you make
@@ -138,7 +141,8 @@ today, premium SKU mix, is upward of 60%. And so, they see the value in E3.
 And what do we have in E3 that's not in E1? Well we've got the Oﬃce client. In E1 you
 get the web client so you bring your own client. In E3 you get always up-to-date
 cloud-updated Oﬃce client on all the end points. You get security compliance
-features.Q - Brent Thill
+features.
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh JhaThen, E5 is something that we are very excited about too. It's still early in E5. Our
@@ -177,7 +181,8 @@ remember who had shared this with you. But you want to reuse one of those charts
 So what we have today as a feature now in Oﬃce 365 is called Word Tap. So you're
 literally one tap onto the ribbon and we use the AI technique to bring all the relevant
 documents that you've seen in the past that may be interesting to the content that
-you're writing now. And we auto-bring those things into your right pane. You canQ - Brent Thill
+you're writing now. And we auto-bring those things into your right pane. You can
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jhascroll in the right pane. You can tap on the chart that you see and, boom, it's in your
@@ -217,7 +222,8 @@ last have been pushing it pretty hard. Are there any other kind of broad data po
 that you have to kind of support what's happening with Power BI adoption?
 
 I mean Power BI, today, is a part of E5. And we are still early with E5. It's just over I
-would say a few months -- maybe been a year in the market. So we are very pleasedQ - Brent Thill
+would say a few months -- maybe been a year in the market. So we are very pleased
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thillwith the, like I said, there are three key vision pillars for E5. One is around advanced
 security and compliance. The other is around analytics. And the third one is around
@@ -256,7 +262,8 @@ deep layer. But I think it's foundational in how experience might change. And so
 of it is where we make the experience just super well integrated across the two.
 
 Skype, it's been -- it's a great asset. You obviously purchased it for a large sum of
-money.A - Rajesh Jha
+money.
+A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
@@ -296,7 +303,8 @@ or other solutions.
 Sure.
 
 And maybe tell us a little bit how is Teams different than some of the other products
-you've had in the past or relatively differentiated to some of the competitors that areA - Rajesh Jhaout there.
+you've had in the past or relatively differentiated to some of the competitors that are
+A - Rajesh Jhaout there.
 
 That's a great question, Brent. I would first say communication and collaboration is a
 basic human need. All modern productivity, all economic activity starts with people
@@ -333,7 +341,8 @@ experience. When you're in the Teams experience, you can pin a SharePoint page,
 you can pin in an Excel document. We have 150 different integrations that are
 possible including Hootsuite and Zendesk and Asana and many others.
 And so, overall, I mean just the framing is it's not about Microsoft Teams alone. It's
-about making Oﬃce 365 the best collaboration toolkit. And for our customers whoQ - Brent Thill
+about making Oﬃce 365 the best collaboration toolkit. And for our customers who
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jhahave been on Oﬃce 365, I want to make sure they've got all the different ways that
@@ -374,7 +383,8 @@ go do that.
 Another one I would point to is Red Hat. What we have done with Red Hat is we have
 allowed our enterprise customers and given them more choice in how they do
 hybrid environments. And what is really cool is now Microsoft and Red Hat got
-together and we give our customers a completely unified support experience. TheyQ - Brent Thill
+together and we give our customers a completely unified support experience. They
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jha
@@ -412,6 +422,7 @@ Please.
 
 Maybe a little bit about the E5 adoption. What's driving it? How important has voice
 been?
+
 Yes. I'm not sure I did a good job explaining the tiering in Oﬃce all up. Say, your
 customer moves to a cloud. Let's say they start with mail and calendar. What that
 does is it generates a lot of their data and their content into our cloud. And if we do
@@ -451,7 +462,8 @@ have to bring their own PSTN conferencing in. And now, that is built in into E5.
 one-stop shop for all your conferencing needs.
 Another one that we are doing is PBX systems. Complicated to manage.
 Complicated to update. Can now be run completely into the cloud. So that's the
-other proposition of voice in E5. A third one is, now Microsoft will actually give youQ - Brent Thill
+other proposition of voice in E5. A third one is, now Microsoft will actually give you
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jha
@@ -490,6 +502,7 @@ in the commercial space.
 There have been several questions around security and specifically around email
 security and what you're doing there, given that many of these breaches do happen
 via email.
+
 Q - Brent ThillYes. No, email is -- it's the universal communication dial tone. And so, there's always
 a risk of abuse through email. So one feature that's really resonating for us in E5
 today is something called advanced threat protection. And the idea of advanced
@@ -530,7 +543,8 @@ Oﬃce at all tiers; E1, E3. And E5.
 
 Then, I guess there's a number of questions because likes to the potential
 partnership, better opportunity to work closely with the third-party security vendors
-like Proofpoint, Mimecast. Now, how is that relationship working?A - Rajesh Jha
+like Proofpoint, Mimecast. Now, how is that relationship working?
+A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
@@ -567,7 +581,8 @@ So today, the cloud is so clearly better in terms of complete solution. It's not
 - like I said, we are committed to our customers to serve them on-prem and allow
 hybrid. It is just that there is a bunch of AI and ML stuff that's incredibly hard. AI and
 ML require a lot of compute and a lot of access to the data, lots and lots of signals.
-It's super hard to lift that cloud infrastructure and move on-prem.Q - Brent Thill
+It's super hard to lift that cloud infrastructure and move on-prem.
+Q - Brent Thill
 A - Rajesh Jha
 Q - Brent Thill
 A - Rajesh Jha

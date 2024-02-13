@@ -1,7 +1,8 @@
 All right. Hello, everyone, we're finally going to get started here. So if everyone could
 go ahead and take a seat. I want to welcome you to NVIDIA's 2017 Annual Investor
 Day. It's great to see all of you here. We really appreciate you taking the time to be
-with us here today.Jensen Hsun HuangI'm Shawn Simmons from the Investor Relations team, at this time, I'd like to go
+with us here today.
+Jensen Hsun HuangI'm Shawn Simmons from the Investor Relations team, at this time, I'd like to go
 ahead and quickly walk through the safe harbor before we get to today's agenda.
 So we will be making forward-looking statements in today's program regarding our
 expectations and other future events, which may differ materially from NVIDIA's
@@ -39,7 +40,8 @@ exactly the most important problems we want to solve today. And whether it's AI 
 self-driving cars or robotics or cloud computing or -- it just happens to be -- it
 happens to be at the perfect place at the perfect time. And I guess it's the perfect
 storm or serendipity meets destiny. But I think we're feeling all of that right now at
-the same time.The thing that we've done, the thing that we have done as a company, that I really
+the same time.
+The thing that we've done, the thing that we have done as a company, that I really
 feel are good decisions, some of the decisions are this. As a business model, as an
 architecture of company, the first layer we are horizontal. We advance the computing
 platform on first principles. We architect it from the processor, to the system, to the
@@ -83,7 +85,8 @@ CAD, you name it, every single one, 100%, completely ported onto CUDA, a 100%.
 So in 10 years, it went from 0% to basically 100%. And that's our foundational layer,
 the first foundation.
 Then we build teams to go after work with the vertical industries one after another.
-We work with (Dusso) in manufacturing. We work with all of molecular dynamicscompanies in healthcare, just one industry after another industry. So that's our
+We work with (Dusso) in manufacturing. We work with all of molecular dynamics
+companies in healthcare, just one industry after another industry. So that's our
 horizontal approach, the horizontal approach.
 The second thing we do is for some of the select markets, we might decide to go all
 the way. We might decide to go all the way, like for example, gaming. You're going
@@ -126,7 +129,8 @@ Registry, 1 account.
 And so for deep learning, we decided that we're going to go all the way and we can
 actually going to be training developing networks, except we're not going to
 develop generic networks that are horizontal in application. We're not going to do
-voice recognition networks. There's no point in doing that because all of the cloudcompanies are going to do a fantastic job doing it. There's no sense us doing it.
+voice recognition networks. There's no point in doing that because all of the cloud
+companies are going to do a fantastic job doing it. There's no sense us doing it.
 There's no sense us doing basic visual recognition, computer vision networks.
 They're going to do a fantastic job doing that. What we are going to do is we going
 to work with each one of the domains that I've already talked about where we have
@@ -172,7 +176,8 @@ The point about a platform is not your investment. The point about the platform 
 their investment. What makes a great platform is the investment of the ecosystem
 around you. That's what makes AWS great, right? That's what -- does what makes
 AWS great. That's what makes Windows great. That what makes these Android great.
-That's what makes these platforms great. What makes them great is the fact thatJeffrey D. Fisherthere are so many developers who have developed on that platform. And here
+That's what makes these platforms great. What makes them great is the fact that
+Jeffrey D. Fisherthere are so many developers who have developed on that platform. And here
 comes the question, why would they develop on your platform if several conditions
 are not met completely, with complete confidence? One, that this platform adds
 unique value, otherwise use the current platform they have. Number two, that by
@@ -213,7 +218,8 @@ started.
 First of all, it doesn't always go without saying. But it goes without saying that the
 gaming market is incredibly big and growing. Of the roughly 2 billion people are
 gaming in the world today. That's about 1/3 of humanity. It's an entire generation. If
-roughly everybody probably younger than this group are gamers. All of our kidsgrew up gaming. They started on phones, they moved to tablets and ultimately, they
+roughly everybody probably younger than this group are gamers. All of our kids
+grew up gaming. They started on phones, they moved to tablets and ultimately, they
 moved to PC or some other platform. The overall gaming market is growing
 between 8% and 10% a year, about $100 billion, Jensen noted. It's a software
 revenue within gaming. PC gaming is growing about 6% to 7% a year as a CAGR.
@@ -256,7 +262,8 @@ from that to provide a complete -- to really support the complete gaming ecosyst
 Tons of engineers working with developers is a key part of that. But the heart of it
 really has turned into our gaming client, GeForce experience. GeForce Experience
 was launched in 2013. And it's really designed to be an essential client, the hub of
-any gaming PC, certainly, a GeForce gaming PC. Our GeForce Experience client nowis installed in over 90 million GeForce-based PCs worldwide. It's about a 15% year-
+any gaming PC, certainly, a GeForce gaming PC. Our GeForce Experience client now
+is installed in over 90 million GeForce-based PCs worldwide. It's about a 15% year-
 over-year increase. 27 billion hours of gameplay have taken place on clients with
 GeForce Experiences as the gaming hub, 20% year-over-year. So within our gamers,
 GeForce Experience gamers are more engaged or gaming more than the general
@@ -298,7 +305,8 @@ eSports, what may come to mind is the big tournaments are the pros and that's re
 not what I mean by eSports specifically. When you think about football, you don't just
 think about the Super Bowl or the NFL. You think about all the kids that are playing
 football, the entire culture, the lifestyle of football. And that's really what we refer to
-when we talk about eSports. Kids that liked to get into gaming, the competitivegaming, the social gaming nature of the PC have moved into the PC in great
+when we talk about eSports. Kids that liked to get into gaming, the competitive
+gaming, the social gaming nature of the PC have moved into the PC in great
 numbers. And eSports competitive gaming, social gaming is really what I would call
 a TAM driver. This segment of the market is what's bringing units in into the PC. And
 eSports, like any sport, is developing like any sport. If you look at the key attributes of
@@ -344,7 +352,8 @@ underway. And ultimately, the best teams will end up in Seattle. And finally, Le
 of Legends. League of Legends is the most popular eSports title in the world.
 Qualifiers start soon. And that's finals happen in November in Beijing. Throughout
 this entire competitive season, you will see -- we see increased engagements, new
-gamers coming to play and amplification of interest in the titles.We also -- if you look at that top 10 tournaments around the world driving hundreds
+gamers coming to play and amplification of interest in the titles.
+We also -- if you look at that top 10 tournaments around the world driving hundreds
 of millions of views, hundreds of thousands of attendees, millions of dollars of
 sponsorship, all of those (inaudible) count on GeForce to power their GPUs
 throughout the tournament. And as a result, it's the #1 GPU choice of pros as well.
@@ -385,7 +394,8 @@ there are gamers who play on very low end PCs. So this is just my installed base
 which is probably one of the highest performance bases. About 60% of my installed
 base is below 60 frames per second for playing Overwatch. Now I mentioned
 Overwatch, it's as an eSports title, which is indeed is. But it is the most graphically
-demanding eSports title.Average load, if I look at the midpoint, say roughly 2.5 on my load scale, about 80%
+demanding eSports title.
+Average load, if I look at the midpoint, say roughly 2.5 on my load scale, about 80%
 of my installed base is below my average delivered performance today, by my
 buyers today. Then Scorpio, we've talked about console in the past and how console
 is part of that content ecosystem. Game developers want to write for console and PC
@@ -428,7 +438,8 @@ You're going to hear more a lot about notebook from us. First of all, back in th
 when we designed our prior architectures, Tesla, GPU architecture, Fermi, our main
 mentality was to build a product that was fast. We weren't paying a lot of attention to
 power. The fastest possible GPU. The problem was there is a notebook market
-started consumer -- the notebook market started getting going, they would have theforce fit a gaming capable GPU into a notebook. And we've shown them to you
+started consumer -- the notebook market started getting going, they would have the
+force fit a gaming capable GPU into a notebook. And we've shown them to you
 before. These are big, beefy, effectively desktop replacements back in the Fermi
 days. In Kepler, it got a little better. But still no gaming notebooks, true gaming
 notebooks were not transportable. We sold a lot of GPUs in the notebook. But they
@@ -470,7 +481,8 @@ internal employees, including myself, that are playing it every day and really l
 We plan to roll out a external beta, an early beta by the end of the quarter. We've got
 a waiting list of tens of thousands of people that want to try it. And this is a service,
 as Jensen has mentioned, that we will be building over time. We're super excited
-about the promise. But we've got a lot of work to do. But the world will start to beShankar Trivediable to experience, I hope you try it sometime later this quarter. That's my update on
+about the promise. But we've got a lot of work to do. But the world will start to be
+Shankar Trivediable to experience, I hope you try it sometime later this quarter. That's my update on
 PC gaming.
 Next is Shanker, Mr. Datacenter, who's going to give you an update on Datacenter.
 Thank you.
@@ -511,7 +523,8 @@ actually showing and talking about their GPU accelerated applications. And these
 applications are what drive demand. Then of course, as more and more people
 consider, should I go on-prem or on to the cloud, GPUs have now become available
 in every single public cloud service, whether it's a small public cloud like Olympics
-that's running a boutique for high-performance computing, or the largest cloudservice providers, such as Amazon, AWS, (Macwood) was with Jensen on stage a
+that's running a boutique for high-performance computing, or the largest cloud
+service providers, such as Amazon, AWS, (Macwood) was with Jensen on stage a
 short while ago.
 And what I'm seeing more and more is enterprises are adopting AI accelerated
 computing. You can't go into a meeting now with any customer, any large
@@ -557,7 +570,8 @@ other enterprise companies are out there. So these developers are solving diﬃc
 problems, whether they are simulation problems or data analytics problems. Then
 they apply these problems to industry solutions. So we're right now in 2017. One of
 our first customers, an oil company, came to us and said we have this algorithm
-called reverse time migration. And according to their calculations, this was in 2009,they said that in this year, 2017, they would deploy reverse time migration to search
+called reverse time migration. And according to their calculations, this was in 2009,
+they said that in this year, 2017, they would deploy reverse time migration to search
 for oil under the sea, under the salt, that's way down, 7 miles under the surface of the
 sea. And we were able to work with them by optimizing their application. And we
 delivered it into their production datacenter in 2013. So that's an example if you take
@@ -604,7 +618,8 @@ nanoseconds. So this is a protein interacting so we know how that protein is goi
 interact with your body. This is a classic JAC benchmark. And you can see that on a
 CPU-only, non-accelerated system, 19 racks of computing can be done with 1 rack of
 our Pascal P100. In other words, the savings are $13 million per instance. And these
-savings are just huge for our customers. The reason there's not a single high-performance computing RFP, request for proposal, out there that does not require
+savings are just huge for our customers. The reason there's not a single high-
+performance computing RFP, request for proposal, out there that does not require
 some number of accelerators or GPUs. Many of them now specify 100% acceleration
 because they can see that in the future, more and more applications are accelerated.
 And so if you want to buy something that's going to last you for 3 to five years for
@@ -644,7 +659,8 @@ which is the cancer deep learning environment set up by our national laboratorie
 with the NCI, the National Cancer Institute, dataset. So this dataset, together with a
 deep learning framework, is being made available to all of the NIH researchers to
 help us find a cure for cancer faster than the traditional way. So deep learning can
-help cure cancer. And so that's the reason why all of this segment, which is a veryimportant segment for us as a scientific research community, is embracing deep
+help cure cancer. And so that's the reason why all of this segment, which is a very
+important segment for us as a scientific research community, is embracing deep
 learning and artificial intelligence.
 So now let me talk about the opportunity for deep learning training. And so deep
 learning training is everywhere. Alexa, which is Amazon's assistant, is trained with
@@ -685,7 +701,8 @@ neural networks to market in whatever shape they're looking for.
 So when I look at sizing this market, I sort of said, well, right now I can see here are
 all my customers, here's the kind of -- they're buying about 1.4 exaﬂops of training
 computing from us right now over the past few years. And based on the growth
-curves that I see, in terms of how people are using these neural networks and howoften they train, we can predict something like 55 exaﬂops of training will happen by
+curves that I see, in terms of how people are using these neural networks and how
+often they train, we can predict something like 55 exaﬂops of training will happen by
 the time we get to 2020.
 And I can size that market in a number of ways because I have to assume how much
 -- how many ﬂops will be in the processor, how many processors per system, et
@@ -725,7 +742,8 @@ analytics. And Deepu will share more about this when he talks about the
 implementation in smart cities for safety and security and so on. So this is a very, very
 large opportunity, traditional hyperscale servers.
 Oh, the dataset. So here's the way to think about it. 3.6 trillion searches on Google.
-3.6 trillion searches. Andrew Ng says 25% of those searches are going to be voiceand image searches. And that's going to increase over time, right? So you then say,
+3.6 trillion searches. Andrew Ng says 25% of those searches are going to be voice
+and image searches. And that's going to increase over time, right? So you then say,
 okay. So how many searches are there going to be? How many inferences are there
 going to be in the future? And we all know. You've all seen the explosion in
 Facebook Live. You've seen the explosion in terms of number of photos uploaded,
@@ -766,7 +784,8 @@ detection. All we're looking for is the traditional thing everyone talks about i
 learning, which is anomaly detection. You'll hear this word everywhere: anomaly
 detection. In the case of imaging, it's detecting where is the issue and assisting the
 radiologist or the doctor or the clinician to identify and show them the possible
-anomaly.And GE Ultrasound has been a great customer of ours. The cardiac group which
+anomaly.
+And GE Ultrasound has been a great customer of ours. The cardiac group which
 does the EK -- electrocardiograms, this guy called Eric Steen, he's been at our
 (GTUCs) for the last nine years. He's like a CUDA Fellow. And he decided to apply
 this technique, the deep learning technique to identify for their imaging that are
@@ -809,7 +828,8 @@ a really, really big market for us in the future. And it's just starting.
 So lastly, where are we in terms of momentum? And as I said, it all starts with the
 developers. You've seen -- our developer base has grown from about 50,000 to over
 500,000 people. The number of applications, when I first -- when we first, Ian and I,
-we kind of created this GPU-accelerated catalog, we decided -- it had 100 entriesRobert Csongorwhen we first published this catalog. That happened in 2012. five years later, we had
+we kind of created this GPU-accelerated catalog, we decided -- it had 100 entries
+Robert Csongorwhen we first published this catalog. That happened in 2012. five years later, we had
 nearly 500 applications. We'll probably cross the 500 pretty soon. So 5x as many
 applications. And what's interesting is, a year ago, we didn't have a start-up program.
 But we were already engaged with about 300 of these AI start-ups. And now we
@@ -847,7 +867,8 @@ And we outlined some of the opportunities for us. We outlined some of the partne
 that we're partnering with. But one of the things that I want to point out to you, one
 of the reasons we have our Investor Day here at GTC is that you have an opportunity
 to go out and actually see the grounds up or see what is actually happening beyond
-slides or beyond things that we say.So let me just give you a sense of what's happening here at GTC in terms of how
+slides or beyond things that we say.
+So let me just give you a sense of what's happening here at GTC in terms of how
 important is this solution that we're developing. Not only are we developing it as a
 full stack. But it's open. So how important is it for other people and what kind of
 activity is happening on top of NVIDIA's automotive solution?
@@ -886,7 +907,8 @@ And with DRIVE PX 2, as you know and we've talked about before, we have 4
 processors on that board: 2 Parkers, 2 GP106. Powerful processors. All of that, at the
 end of this year, is replaced by one single Xavier SoC. So the platform that we build
 and the work that's going on is just amazing. It gives you an indication of the type of
-things that matter.And I think what matters is, I think everyone has universally recognized that
+things that matter.
+And I think what matters is, I think everyone has universally recognized that
 autonomous vehicles, different from ADAS, autonomous vehicles require several
 things. First, conventional code is not suﬃcient. It requires a completely new
 computing model to achieve the goals of an autonomous vehicle. And for that, you
@@ -927,7 +949,8 @@ learn without the capability of having over-the-air update. And as you saw previ
 one of the advantages of NVIDIA is, because we are engaged in so many different
 industries, we can take the best of what we learn in those industries and leverage
 them into automotive. So as a result, the fact that we maintain an over-the-air update
-system to 100 million gamers in GeForce means we understand how that systemneeds to work and we can apply it into automotive, just like we do inferencing,
+system to 100 million gamers in GeForce means we understand how that system
+needs to work and we can apply it into automotive, just like we do inferencing,
 learning, training, all of those things.
 Beyond Level 3, Level 4 introduces an entirely new level of complexity. It introduces
 the concept of fail operations. If something happens to the computer, steering,
@@ -969,7 +992,8 @@ opportunities, of course. And you're already seeing automotive companies now
 buying DDX systems to do that training. Also the mapping companies who are now
 doing map processing to create those HD maps that self-driving cars are using. And
 at this point, I think we've announced with every single mapping company a
-partnership where we are working with them to solve this problem.All that information and the result of the training have to be OTA'd through an OTA
+partnership where we are working with them to solve this problem.
+All that information and the result of the training have to be OTA'd through an OTA
 server. Then the final result goes into a car where you have a computer and a full
 software stack which is doing the things I mentioned earlier: detection, localization,
 path-planning, driving and the AI.
@@ -1009,7 +1033,8 @@ the HD maps.
 So all of this, if you look at the opportunity, there's a number of different ways you
 can slice it. But fundamentally, we view our opportunity as the segments of the
 automotive market where artificial intelligence and high-performance computing are
-required for that market to exist. So within the segments that I talked about, ABIResearch numbers, targeting numbers at about 5 million for Level 4/5 and 15 million
+required for that market to exist. So within the segments that I talked about, ABI
+Research numbers, targeting numbers at about 5 million for Level 4/5 and 15 million
 cars for Level 2-plus and Level 3.
 Basically, Level 4 and Level 5, just to paint it for you, that type of a car today is a car
 with 7 PCs in the trunk. There is no room in the trunk for anything, okay? The idea of
@@ -1049,7 +1074,8 @@ look around. And you can get a feel of the type of energy and development work
 that's going on top of our work, I think you can't do anything but conclude that
 what's happening and what NVIDIA is doing in automotive is something very
 important to a lot of companies' efforts to develop these kind of autonomous
-vehicles. Okay? Thank you very much.Deepu TallaOh, I'd like to introduce Deepu Talla, who is going to talk to you about AI cities.
+vehicles. Okay? Thank you very much.
+Deepu TallaOh, I'd like to introduce Deepu Talla, who is going to talk to you about AI cities.
 (presentation)
 
 Okay. Good afternoon, everyone. So video today is, by far, the largest generative
@@ -1085,7 +1111,8 @@ trying to solve the problem.
 And now we power up deep learning and AI, as you've seen in many, many
 industries and applications. We can use deep learning now to solve this problem.
 And so achieving an AI city, both a safe city and a smart city through the power of
-deep learning.Now let's look at a -- what an architecture of an AI city looks like. It turns out that we
+deep learning.
+Now let's look at a -- what an architecture of an AI city looks like. It turns out that we
 actually need an edge to cloud architecture to solve this problem. Now here I show
 you in this picture -- first of all, there's cameras installed everywhere, right? So you
 could have a body camera on a police oﬃcer. Or this could be a camera that's
@@ -1123,7 +1150,8 @@ server all the way to the edge (access) of the camera.
 So we created a platform using the same software stack starting with our CUDA. But
 then on top of that, we have unified our different software development kit for AI to
 create a singular platform for doing intelligent video analytics to bring AI to cities.
-And that's the Metropolis platform.So typical installations have cameras, they have a video recorder or a server, an
+And that's the Metropolis platform.
+So typical installations have cameras, they have a video recorder or a server, an
 appliance on-premise. And we have -- we're using our Tesla platform for these high-
 end servers and Jetson platform for a very high-end camera or a small recorder
 that's typically taking 4 channels or 8 channels. Actually, if you do have the time, in
@@ -1166,7 +1194,8 @@ So the AI city platform, Metropolis, we have already over 50 platform partners t
 we've announced -- or they have announced products or engagements with us. And
 many of them actually are here at GTC showing their products. And many of them
 have actually started shipping these products as well. And these are some of the few
-examples that you see. Before, they've been working on traditional video analyticsColette M. Kressfor almost a decade. And just by using deep learning AI, within a year they could
+examples that you see. Before, they've been working on traditional video analytics
+Colette M. Kressfor almost a decade. And just by using deep learning AI, within a year they could
 increase accuracy significantly, going from 70%, 80% to over 90%. Then soon we
 expect that to increase significantly. Then traditionally those video analytics were
 being done on, obviously, traditional servers. And they're seeing significant speed-
@@ -1204,7 +1233,8 @@ If we looked back over the last three years in terms of the growth of the overal
 business, I think several years ago I came here and talking about the transformation
 that we were on, the transformation of thinking differently, of not a chip company
 and moving to our overall platform approach. You're now starting to see what that
-has evolved into in terms of our movement to a platform.We started off just three years ago at about a $4 billion company, doubling quite
+has evolved into in terms of our movement to a platform.
+We started off just three years ago at about a $4 billion company, doubling quite
 nicely in several of those businesses. But if you overall look in terms of where we are
 now, the growth platforms just represented about 60% of our business just three
 years ago. And we still had our OEM and IP business nearly 40% of our overall
@@ -1246,7 +1276,8 @@ Data Center. I think today and everything that you've heard today is really focu
 lot about our developers and really the transformation that we're seeing in the
 overall computing environment. The computing environment, that it changes to GPU
 computing and what does that mean? Remember, our Data Center business is not
-just one single total business. There's probably about 5 different businesses that arewithin there. You have our deep learning training, you have our inference, you have
+just one single total business. There's probably about 5 different businesses that are
+within there. You have our deep learning training, you have our inference, you have
 our high-performance computing. We sell full systems, DGX supercomputers, as we
 also have our grid business in order to do virtualization in the overall cloud.
 There's many different ways that we are bringing this to market as well. We're
@@ -1285,7 +1316,8 @@ platforms and away from our OEM and IP businesses has continued to help our
 overall gross margins also lift up in the right direction. So yes, we do still see a
 continuation of this going forward.
 As you can see from the slide, our continued mix change of moving to our growth
-platforms and away from our OEM and IP businesses has continued to help ouroverall gross margins also lift up in the right direction. So yes, we do still see a
+platforms and away from our OEM and IP businesses has continued to help our
+overall gross margins also lift up in the right direction. So yes, we do still see a
 continuation of this going forward.
 Our operating expenses and operating expense investments. We have what we
 called a unified architecture approach, the same architecture across all of our
@@ -1328,7 +1360,8 @@ slightly up and is nowhere near in terms of that overall cash ﬂow. And that is
 some of the key returns that we have done in terms of our cash that we have
 collected. Additionally, our U.S. cash, although we've had a change in terms of where
 we receive our U.S. cash, is still about the same levels, even where it was about three
-years ago. So we're continuing to find new sources of U.S. cash. As you know, we areA - Jensen Hsun Huang
+years ago. So we're continuing to find new sources of U.S. cash. As you know, we are
+A - Jensen Hsun Huang
 Q - W illiam Shalom Steina high global company and we receive a significant amount of our profit from
 overseas as well.
 Capital return. The key component in terms of our shareholder value message. And
@@ -1369,7 +1402,8 @@ awesome, huh, guys. Wow. I hardly had to do anything.
 
 Will Stein from SunTrust here. Thanks so much for hosting the Analyst Day. It's very
 educational and helpful. And in particular, sizing your opportunity in Datacenter, I
-think that's something that was very helpful. But it's a big number. In fact, it's biggerA - Jensen Hsun Huangthan Intel's DCG today. So I think what we'd really love is maybe an idea for what you
+think that's something that was very helpful. But it's a big number. In fact, it's bigger
+A - Jensen Hsun Huangthan Intel's DCG today. So I think what we'd really love is maybe an idea for what you
 think the future holds for the architecture of the Datacenter of the future relative to
 traditional Intel architecture servers versus GPUs and your new architectures that you
 talked about today?
@@ -1417,7 +1451,8 @@ servers, as I demonstrated today, you'd replace 500 servers. And you would. You
 would take an entire row of computers and you replace them by 2 racks. And so you
 would take an entire datacenter, replace it by 4 racks. And so that's kind of the future
 now. Of course, on the -- in the other hand, on the other hand, the amount of AI that
-we're going to start to do is going to start growing. So these 2 -- so there's aQ - Vivek Arya
+we're going to start to do is going to start growing. So these 2 -- so there's a
+Q - Vivek Arya
 A - Jensen Hsun Huangdynamic that's going to create more density, there's another dynamic that going to
 create more expansion. But my sense is that, you're going to create density faster
 than you expand for some time. Then -- and then, we're going to see expansion
@@ -1464,7 +1499,8 @@ billion, the inferencing is only a billion, right? And so you got to inference i
 millions of people simultaneously hit the Internet to infer something or we have that
 network on a trillion devices. Until that happens, it is just not true. And so if you look
 at the total inferencing market today, I believe it's approximately small. Okay? And
-that's why there's no inferencing companies that you know of. We talk about a lotQ - Atif Malik
+that's why there's no inferencing companies that you know of. We talk about a lot
+Q - Atif Malik
 A - Jensen Hsun Huang
 Q - Srinivas Reddy Pajjuribecause it's a sexy conversation. But the fact of the matter is there's no evidence of
 it. Now we are going to lean into it, we think that it's about time that people are
@@ -1508,7 +1544,8 @@ on competition. Obviously, you're the only game town in the Datacenter right now
 But if you look out, you got AMD with graphics, Intel with a variety of solutions and
 you got internal solutions as well as FPGAs. Can you maybe talk about puts and
 takes when you look at the competitors? And also who you're most concerned
-about, longer-term?A - Jensen Hsun Huang 
+about, longer-term?
+A - Jensen Hsun Huang 
 First of all, before you can answer the competition question, before you could figure
 out what is -- who's your competitor in a game, you got to figure out what is the
 game you're playing. And we used to be a very different sports franchise. We were in
@@ -1556,7 +1593,8 @@ called Deep Learning Institute. We teach deep learning all over the world. And w
 partner with Microsoft, we partner with Google, we partner with all of these
 companies that are coming to us because we help educate the world's deep
 learning engineers. We're going to educate 100,000 engineers this year. And so we
-would like to create future engineers that can take advantage of this new art form,Q - Mitchell Toshiro Steves
+would like to create future engineers that can take advantage of this new art form,
+Q - Mitchell Toshiro Steves
 A - Jensen Hsun Huang
 Q - Toshiya Harithis new computing way. Then we also want to make sure that on the end points, on
 the end points, that we completely democratize the ability to do inferencing, to the
@@ -1602,7 +1640,8 @@ thing, run the entire software stack of self-driving cars.
 
 Toshiya Hari, Goldman Sachs. Thank you very much for the opportunity today. I think
 you provided long-term TAM forecast for all your businesses but Gaming. So Jeff, I
-think you ran through all the growth drivers and collectively as a group, weA - Jeffrey D. Fisher
+think you ran through all the growth drivers and collectively as a group, we
+A - Jeffrey D. Fisher
 A - Jensen Hsun Huang
 A - Unidentified Speaker
 A - Jensen Hsun Huangappreciate all of those. But if you can help us translate some of those growth drivers
@@ -1645,7 +1684,8 @@ our last question.
 There's like -- we're having so much fun.
 
 We are hosting a reception with our management team right out here after this last
-question.Q - Matthew D. Ramsay
+question.
+Q - Matthew D. Ramsay
 A - Jensen Hsun Huang
 A - Colette M. Kress
 A - Jensen Hsun Huang
@@ -1688,7 +1728,8 @@ Ambrish from BMO. Thank you, Jensen. You laid out a vision for AI which is prett
 compelling, I've never doubted that. But I wanted to move on to a more mundane
 topic like AR and inventory and free cash ﬂow.
 
-Augmented reality? That's not mundane. Come on. Let's talk about it.Q - Ambrish Srivastava
+Augmented reality? That's not mundane. Come on. Let's talk about it.
+Q - Ambrish Srivastava
 A - Colette M. Kress
 Q - Brett Simpson
 A - Jensen Hsun Huang
@@ -1734,7 +1775,8 @@ of that. And it's a great processor. We select the good ones. In terms of the
 datacenters, I think datacenters use Intel because their energy eﬃciency is so good. I
 mean, the fact of the matter is, the craftsmanship of Intel Xeons are so great that
 practically most people -- and I don't know of one that is going to violate this rule
-that I'm about to say, okay? I don't know anybody who could actually give their CPUsQ - Brett Simpson
+that I'm about to say, okay? I don't know anybody who could actually give their CPUs
+Q - Brett Simpson
 A - Jensen Hsun Huang
 Q - Trip Chowdhryaway for free to companies and still be lower total cost of ownership than Intel. That
 says something about their craftsmanship. And until single-threaded software,
@@ -1779,6 +1821,7 @@ applications are not ported and accelerated, you can't benefit from it, okay? So
 think the -- there's nothing at all -- I mean the value exchange between the 2
 organizations is fantastic. And we are, quite frankly, years from breaking even on the
 investment, if you will.
+
 A - Jensen Hsun Huang
 Q - Trip Chowdhry
 A - Jensen Hsun Huang
@@ -1823,7 +1866,8 @@ number of employees and number of parts and number of dollars and those kind of
 things. And ERP systems today in IT, that's IT. But there's a new IT in town and it's
 HPC IT. And the IT departments of most enterprises don't understand it yet. But they
 will. HPC is coming in and it has to start with in-memory databases, very high-
-performance graph analytics, deep learning and AI on top of that, machine learningQ - James Wang
+performance graph analytics, deep learning and AI on top of that, machine learning
+Q - James Wang
 A - Jensen Hsun Huang
 Q - Stacy Aaron Rasgonon top of that, they're coming in. And I think that's going to be the future of IT, really.
 Yes there, young man? I saw you on TV the other day. Made me proud.
@@ -1869,7 +1913,8 @@ thousands to stave $10 million. So I guess in that light, do you view the rise o
 accelerated compute as helping to increase the overall spend on compute? Or is it a
 mechanism to better utilize and gain eﬃciency out of the spend that's already there
 now? I guess, put another way, do you think about your opportunity -- how should
-we think about your opportunity as benefiting from a shift in the architecture in termsA - Jensen Hsun Huangof where the current spend is actually going versus an ability to -- or a need to
+we think about your opportunity as benefiting from a shift in the architecture in terms
+A - Jensen Hsun Huangof where the current spend is actually going versus an ability to -- or a need to
 actually increase the overall spend on compute that is out there today?
 
 Yes, Sean (sic) (Stacy), that's a great question. And in fact, it looks almost exactly like
@@ -1917,7 +1962,8 @@ for these 10 applications. Based on this architecture this is how much it cost. 
 is my throughput." And so that's just a spreadsheet. It's simple now. And there, you
 get 1 of 2 answers. If you have a constant spend, meaning you got a budget. And you
 just got to spend $10 million. I don't know why you got to do it. But you just got to do
-it. There, you would like to have the highest throughput. In the event that you're justQ - Stacy Aaron Rasgon
+it. There, you would like to have the highest throughput. In the event that you're just
+Q - Stacy Aaron Rasgon
 A - Jensen Hsun Huang
 A - Colette M. Kress
 A - Shawn Simmons
@@ -1959,7 +2005,8 @@ Just get one last one, is that okay, can you get that Shawn?
 
 We have awards to give.
 
-After this, yes.A - Jensen Hsun HuangThis question is on autonomous driving. Jensen, you said earlier that we're down to
+After this, yes.
+A - Jensen Hsun HuangThis question is on autonomous driving. Jensen, you said earlier that we're down to
 2 platforms, you and Intel. And I assume you mean also
 Mobileye. You also said it's going to be a very big market. So my questions are why
 do you think your approach might be superior, maybe you can summarize it different
@@ -1999,7 +2046,8 @@ rather coherent in my opinion. And the other one is a collection of integrated c
 that to cobble up enough capability. And so our tow approaches are very different.
 As a result of our choice,
 our computing platform is programmable, meaning if you were a start-up you could
-actually get a drive PX2 and make an attempt to program it.Q - Unidentified Participant
+actually get a drive PX2 and make an attempt to program it.
+Q - Unidentified Participant
 A - Jensen Hsun Huang
 A - Colette M. Kress
 A - Jensen Hsun HuangYou can't acutally do it on the other one. Because of our acrhitecture, you can

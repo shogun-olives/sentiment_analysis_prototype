@@ -21,6 +21,7 @@ environment is sustaining (inaudible) execute on. So I want to take advantage of
 purview as being sort of the biggest company that I have here. What are you seeing?
 What are you seeing in terms of IT budgets overall and what people are willing to
 spend on software and some of the key technologies other than [ph] software?
+
 Keith Weiss
 Amy HoodJust at a very high level on the macro, I would say we talked a little bit about it on the
 earnings call -- seems like a long time ago always -- but China, Brazil, Russia and
@@ -63,7 +64,8 @@ I think that's why most people -- it's so funny -- while I do get asked those qu
 in terms of what's your COG growth and what's your on-prem growth, as a company,
 I deeply focus basically on the overall growth. We want to incent cloud selling, of
 course. But at the same time for us it's about going at the pace the customer wants
-to go. So whether that's on-prem, a hybrid-type story or doing all new data [ph] inKeith Weiss
+to go. So whether that's on-prem, a hybrid-type story or doing all new data [ph] in
+Keith Weiss
 Amy Hoodthe cloud and so in the intelligent cloud segment, it was a focus on growing double
 digits. That's certainly a share-taker across the board with that type of number.
 You are right. Most of the growth -- not most -- some of the growth is from the cloud
@@ -104,7 +106,8 @@ was that we had great coverage globally of sellers, of infrastructure, of talent
 technical leaders who can go to accounts and help them on their journey. We've had
 a lot of investment in that front for many, many years. And so frankly having
 customers that already trust you is not a hindrance in our situation to helping those
-customers make the transition in a thoughtful way.Keith Weiss
+customers make the transition in a thoughtful way.
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy HoodAnd so I think not only am I excited about the value prop, which you talked about.
@@ -144,7 +147,8 @@ That's basically how we do an upgrade now [ph].
 
 Yes, I understand that construct. What I would say generally is we've been growing --
 that's why we covered it -- we've been growing our installed base across Oﬃce,
-Exchange, SharePoint and what we call Lync or Skype for Business for a couple yearsKeith Weiss
+Exchange, SharePoint and what we call Lync or Skype for Business for a couple years
+Keith Weiss
 Amy Hoodnow adding to that and continuing to expand. I tend to think of that as more than
 protecting the base. It's growing the base. At the same time -- and that's been
 happening -- it's not just at the small business layer, it's also adding seats inside
@@ -186,7 +190,8 @@ have confidence in your products, or is security a market opportunity for Micros
 At the heart of your question, you are really asking do I think of security as a
 standalone vertical or do I think of it deeply horizontally. I do think the way we
 generally both think about it and the way you see it in our products is more
-horizontal than vertical. But that doesn't mean you’re selling motion is not verticallyKeith Weiss
+horizontal than vertical. But that doesn't mean you’re selling motion is not vertically
+Keith Weiss
 Amy Hood
 Keith Weissminded in terms of the value proposition directly to customers. I will give you an
 example. Windows 10, especially from an enterprise value prop, one of its strongest
@@ -227,7 +232,8 @@ Got it. On the first side of the equation in terms of the consumer PC market, th
 consumer PC market still looks pretty weak out there. The units aren't growing. It
 looks like Q1 could be another diﬃcult quarter. How do you guys think about that in
 terms of the Windows 10 cycle? I think there's definitely investor expectations that
-Windows 10, a new better operating system, helps spur that marketplace. Is itAmy Hood
+Windows 10, a new better operating system, helps spur that marketplace. Is it
+Amy Hood
 Keith Weiss
 Amy Hooddisappointing that we are still not in consumer PC growth or is this really too early for
 that to come back?
@@ -269,7 +275,8 @@ what many people think of as a digital agent strategy.
 It's also Cortana, our Cortana analytics product, which is now an enterprise product,
 came from much of the technology in the Bing team. So beyond the actual search
 growth, which we feel good -- again, some of the search growth is driven by the
-choice we just talked about on the Windows side, which was to upgrade the base.Keith Weiss
+choice we just talked about on the Windows side, which was to upgrade the base.
+Keith Weiss
 Amy HoodUpgrading the base, including the new browser, Edge, which performs better than
 IE. So the Edge strategy does encourage search differences. We've been pleased
 with our RPFs and so I feel very good about our ability to sustain that as the active
@@ -311,7 +318,8 @@ And so I think that remains our focus. It remains where the majority of our inve
 is. That doesn't mean that we won't continue -- we shipped the 950, the 950 XL and
 holiday [ph] and it said performed as well or better than we thought. But I think the
 main focus is strategically the core. It's having the experiences you know and love
-whether you are an end-user, in IT or a dev to be across all platforms.Keith Weiss
+whether you are an end-user, in IT or a dev to be across all platforms.
+Keith Weiss
 Amy HoodWe bought Xamarin this week or last. It kind of all blends. It must have been last
 week because today's like Monday or Tuesday and so what's important is for that to
 say, listen, we are going to be relevant in mobile for dev and for app dev, you write it
@@ -351,7 +359,8 @@ cleanly [ph]. I should also be clear, I think about the Azure business, there's 
 the IS [ph] cash margin profile. And then there's some of the more SaaS-like
 attributes whether that's BI or in analytics -- have very different margin profiles than
 what I would say is store and compute, or looks like store and compute. So I feel
-good about our trajectory in all of those.Keith Weiss
+good about our trajectory in all of those.
+Keith Weiss
 Amy Hood
 Keith Weiss
 Q - Unidentified Participant
@@ -390,7 +399,8 @@ Excellent. I have a bunch more questions I want to get to. But I want to also le
 time for the audience. Any questions from the audience before I keep going?
 Questions And Answers
 Thanks. Amy, two questions. So just you are viewing margins (inaudible) the trade-off
-you have in your core business. So just to make sure I understand correctly, withinA - Amy Hood
+you have in your core business. So just to make sure I understand correctly, within
+A - Amy Hood
 Q - Unidentified Participant
 A - Amy HoodMPC, which is (inaudible) for 265 [ph] and intelligent cloud with incremental growth
 driven by Azure. What is the right expectation for margins right now? And I ask that
@@ -431,7 +441,8 @@ rest of our commercial entity.
 Well you've seen us invest OpEx in intelligent cloud mostly. I don't think you've seen
 it in the same way in the other segments. Been able to reallocate or reuse most
 resources and we've been moving investment from NPC to intelligent cloud
-(technical diﬃculty).A - Keith Weiss
+(technical diﬃculty).
+A - Keith Weiss
 A - Amy Hood
 A - Keith Weiss
 A - Amy Hood

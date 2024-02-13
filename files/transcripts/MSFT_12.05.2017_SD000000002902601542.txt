@@ -23,7 +23,8 @@ So we've got a great lineup for you today. We've got a lot of -- I mentioned tha
 we've got Wells Fargo leaders here. So our CTO, Scott Dillon, is here. Our CIO, Ravi
 Radhakrishnan, is here. Our Chief Marketing Oﬃcer, for those of you who care about
 digital, Jamie Moldafsky, is here. Our Chief Innovation Oﬃcer, Steve Ellis, is here.
-And there are others as well. So there's a lot of back-and-forth that can happen.Philip Alan Winslow
+And there are others as well. So there's a lot of back-and-forth that can happen.
+Philip Alan Winslow
 Amy E. Hood
 Philip Alan Winslow
 Amy E. Hood
@@ -63,7 +64,8 @@ the installed base that would transition to the cloud over two years. So I would
 that portion was not as unknown. I think in many ways, for us, the bigger question
 was how quickly the transition on the customer side would happen. We felt pretty
 confident we could execute for Azure; and be competitive; and have an interesting
-story and a differentiated one, including the fact that we were committed to hybridQ - Philip Alan Winslow
+story and a differentiated one, including the fact that we were committed to hybrid
+Q - Philip Alan Winslow
 A - Amy E. Hoodfrom the beginning in our architecture. So for us, I think it was more a pacing of the
 market. And I do think things have gone pretty quickly on the customer side in terms
 of -- even you heard John talk about how important it is to Wells Fargo. There's
@@ -109,7 +111,8 @@ need for their infrastructure and platform if they buy on-prem licenses or buy A
 stuff. The one thing I cared differently about this year than, I think, in the past is we're
 really focused on Azure consumption as opposed to just a billing cycle, which is an
 important distinction. You always recognize revenue based on consumption. You
-don't get to recognize revenue just for selling something. And so really focusing onQ - Philip Alan Winslow
+don't get to recognize revenue just for selling something. And so really focusing on
+Q - Philip Alan Winslow
 A - Amy E. Hood
 Q - Philip Alan Winslowthat motion with customers to make sure they're successful is a really important pivot
 that we've taken.
@@ -155,7 +158,8 @@ where sort of I'm right or where I'm wrong. And so it is Oﬃce 365 might be hal
 past the point, in terms of adoption, that 50% in the installed base. But Microsoft is
 still in the early stages of migration to premium SKUs, i.e. E1 to E2, to -- sorry, E3, the
 E5 and maybe even E7 one day. And that's going to last through the next 5, 10 years.
-So where am I right. And where am I wrong in that statement?A - Amy E. Hood
+So where am I right. And where am I wrong in that statement?
+A - Amy E. Hood
 Q - Philip Alan Winslow
 A - Amy E. Hood
 You're right in that structurally you're through. What we would say is the model we
@@ -202,7 +206,8 @@ I think really to some of the unique attributes of each. So you'll see it show u
 across Oﬃce, across Dynamics. And within LinkedIn will be the most tangible side.
 But you won't probably see large big-bang moments. It's not really LinkedIn culture.
 And nor did ours, as much anymore. You'll just see thoughtful integration that
-customers will care about show up in products every few months.Q - Philip Alan Winslow
+customers will care about show up in products every few months.
+Q - Philip Alan Winslow
 A - Amy E. Hood
 Q - Philip Alan Winslow
 A - Amy E. Hood
@@ -248,7 +253,8 @@ while I continue to believe we have room for it to grow, it's really more about 
 the makeup of the revenue looks like. And so what you'll see going forward is Azure
 will continue to grow as a piece of that, which will put some structural downward
 pressure on it. But you'll see all of them probably continue to increase, which is what
-you want to see from a pricing and competitiveness standpoint.Q - Philip Alan Winslow
+you want to see from a pricing and competitiveness standpoint.
+Q - Philip Alan Winslow
 A - Amy E. Hood
 Q - Philip Alan Winslow
 All right. Well we've spent a lot of time talking about Oﬃce and Azure. But I want to
@@ -295,7 +301,8 @@ one in consumer.
 
 Got it. Now obviously Oﬃce 365 has been a phenomenal success. I think everybody
 in this tent would agree with that. Walk us through what is the opportunity of -- well,
-what is Microsoft Oﬃce 365? And what is the opportunity there?A - Amy E. Hood
+what is Microsoft Oﬃce 365? And what is the opportunity there?
+A - Amy E. Hood
 Q - Philip Alan Winslow
 A - Amy E. Hood
 Microsoft 365, I think, is our realization that from a customer perspective what they
@@ -342,7 +349,8 @@ for us, is both a Windows 10 story as well as an Azure IoT story around the
 connectivity of those devices back to a data source. And so I feel actually quite good
 about the investments we've made. And when I think about IoT or any endpoint --
 and when we say edge, think about it in the broadest term, right, whether it's a PC,
-which is the right way to interpret it; whether it's a phone; whether it's a sensor; orQ - Philip Alan Winslow
+which is the right way to interpret it; whether it's a phone; whether it's a sensor; or
+Q - Philip Alan Winslow
 A - Amy E. Hood
 Q - Philip Alan Winslow
 A - Amy E. Hood
@@ -386,7 +394,8 @@ I tend to give it slightly -- it's something like that. But I tend to think it's
 of a life cycle as a constant effort on all fronts, which is -- the first thing you said is
 really about picking the businesses we're in. That's the first one. Which businesses
 should you be in. Why you should -- why, how. That can change, markets change,
-competitive landscapes change. And suddenly maybe it's something that doesn'tQ - Philip Alan Winslow
+competitive landscapes change. And suddenly maybe it's something that doesn't
+Q - Philip Alan Winslow
 A - Amy E. Hoodmake as much sense as it used to. We still watch for that so we'll make sure that
 makes sense. But you're right, a lot of that, I would say, is are we in the right
 businesses, I feel like it's behind us. The next piece, which is really continuing to
@@ -433,7 +442,8 @@ Well it's a good way to think about in general. So confusing the two is super
 important. If you actually have a really thoughtful strategic plan and you're executing
 poorly, that can be interpreted inside the company as a bad strategy. You -- then you
 change course. It's a really -- and it wastes time. It wastes cycles. And more
-importantly, it wastes energy of your people. And the opposite could also be true.Q - Philip Alan Winslow
+importantly, it wastes energy of your people. And the opposite could also be true.
+Q - Philip Alan Winslow
 Q - Unidentified Participant
 A - Amy E. HoodYou can have a bad strategy and bad execution. Then you just say, "No, no. I'm right.
 Just let me fix this thing." That takes too much time. You're very far away from where
@@ -478,7 +488,8 @@ always been a winner. She's always been successful. So I kind of look and say I
 absolutely expect them to continue to be aggressive. I absolutely expect to see them
 at customers. I do think they -- we may not see them in the same way, in any level of
 the same way that we see Amazon at customer presence. It's very different. But I
-would say we certainly see them more than we used to. I would also say thoseQ - Philip Alan Winslow
+would say we certainly see them more than we used to. I would also say those
+Q - Philip Alan Winslow
 A - Amy E. Hood
 Q - Philip Alan Winslow
 A - Amy E. Hood
@@ -520,7 +531,8 @@ reform to return capital. I don't want to wait for a tax reform to buy smart ass
 many assets won't make any more sense or any less sense in a new environment. It's
 just not, I think, how we are structured to think about the world. And when it comes
 to how we think about spending, I think in general, as it -- our biggest capital spend
-is data centers. Data centers need to be built where they need to be built. So it's lessQ - Philip Alan Winslow
+is data centers. Data centers need to be built where they need to be built. So it's less
+Q - Philip Alan Winslow
 A - Amy E. Hood
 Q - Philip Alan Winslowabout is there an incentive to build one place versus in other. Data centers need to
 be built where customers or data privacy, data residency, where maybe national

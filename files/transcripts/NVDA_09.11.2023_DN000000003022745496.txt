@@ -14,7 +14,8 @@ has really helped to cement your dominance on the hardware side in AI?
 Yeah. Thank you, and pleasure being with you here this morning. And of course, as a
 reminder, this presentation contains forward-looking statements, and investors are
 always advised to read our reports filed with the SEC for information related to risks
-and uncertainties facing our business.Yes, we've been working on accelerated computing for quite some time. In fact, the
+and uncertainties facing our business.
+Yes, we've been working on accelerated computing for quite some time. In fact, the
 dates all way back to 2006 when we first introduced CUDA. Initially, the goal was to
 address how to program this new kind of architecture, this new kind of processor
 that had reached a level of programmability beyond just playing video games and
@@ -55,7 +56,8 @@ So the performance delivered over time is the compounding of all of those
 innovations at the hardware side and system driver and developer software, and of
 course, all the libraries on top. And if you track that progress over time, it's quite
 dramatic. That's the benefit of accelerated computing. It allows for compounding
-value to be delivered.Q - Vivek Arya
+value to be delivered.
+Q - Vivek Arya
 A - Ian BuckIt also allows NVIDIA to innovate in an extreme click. We are not constrained by
 being by the interface at these lower levels like instruction sets. We're only
 constrained by the problems we think we can address up here. And if it requires us
@@ -96,7 +98,8 @@ So the -- then on top of that, you have of course the system software, all the
 compilers and libraries that then get integrated of the opening ecosystem, and these
 include our -- the hyperscalers, software like PyTorch, software like Pax ML And the
 wonderful part about AI is it's so open that we can all innovate together in that
-ecosystem.Q - Vivek AryaSo it's certainly possible to spike different implementations of different models into
+ecosystem.
+Q - Vivek AryaSo it's certainly possible to spike different implementations of different models into
 those stacks. What makes it hard is those platforms that I've mentioned that isn't in
 the community, you need to run on all of the different workloads to operate today
 across the entire data center. You don't build a data center around one model.
@@ -137,7 +140,8 @@ So on the training side, it seems like every day, somebody is launching yet anot
 large language model, and NVIDIA dominates the market for training a lot of those
 models. Do you see a point at which we get to some kind of cliff or maturation or
 demand for training? And do you think as people start to then look at optimizing the
-size of these models that, that actually somehow puts pressure on the demand forA - Ian Bucktraining hardware? How sustainable is the demand for AI training when we are
+size of these models that, that actually somehow puts pressure on the demand for
+A - Ian Bucktraining hardware? How sustainable is the demand for AI training when we are
 already producing so many large language models?
 
 Yeah. Large language models are different. We made them so and we'll make -- why
@@ -178,7 +182,8 @@ Does this tail off? I think it becomes a continuous space for innovation just ac
 board. And there is no -- there's not going to be one model to rule them all. It will be
 a -- there'll be a large diversity of different models based upon the innovation that
 are going to continue down the space and also specialization across all of these
-fields. And by the way, we're seeing in healthcare and science and drug discovery,Q - Vivek Arya
+fields. And by the way, we're seeing in healthcare and science and drug discovery,
+Q - Vivek Arya
 A - Ian Bucklarge language models doesn't have to just be the language of humans. It could be
 the language of biology or physics or material science as well.
 The -- so what is the growth vector and what does it look like? It becomes at how
@@ -220,7 +225,8 @@ you move from training to inference?
 
 So this -- thank you for that question. And I think people often get a little bit
 confused, perhaps. Certainly, your starting point for some of these models for
-deploying them begins with their training and clusters. And so they all stand up aninfrastructure and previously, A100's HGX systems. These systems are designed for
+deploying them begins with their training and clusters. And so they all stand up an
+infrastructure and previously, A100's HGX systems. These systems are designed for
 eight GPUs and getting connected via the maximum possible performance, and of
 course, have InfiniBand at scale across entire data center. Today, it's being deployed
 right now with Hopper (Technical Diﬃculty)
@@ -260,7 +266,8 @@ workload and for deliver performance. In case of inference, usually it's about d
 center throughput at a certain latency, and that's important. The other part of it -- the
 roadmap is software. So I want to go back to that because it's easy to look at a
 benchmark result and see a bar chart and assume the speed of the hardware, but it's
-often under-reported numbers when I say investments NVIDIA makes in the softwareQ - Vivek Arya
+often under-reported numbers when I say investments NVIDIA makes in the software
+Q - Vivek Arya
 A - Ian Buckstack for inference. It's actually even -- you can apply even more optimizations that
 you can do within -- than just in training because in inference you are kind of at the
 last mile. So you can do further optimizations of the model beyond what is perhaps
@@ -302,7 +309,8 @@ actually just now are bringing on their Hopper variants. So you'll see that 8X, 
 mean, from -- so in terms of our performance, where we were -- so in terms of our
 performance where we were, with honest, where we were (Technical Diﬃculty) from
 the hardware side and activate those capabilities and another bump again from the
-software side.Q - Vivek AryaSo I expect the interaction that you guys are experiencing to get better and get more
+software side.
+Q - Vivek AryaSo I expect the interaction that you guys are experiencing to get better and get more
 intelligent. I think there is a fixed latency that we all want to experience and then it
 becomes a question of size and capability of the model that can fit in that latency
 window. So the process of continuous improvement.
@@ -343,7 +351,8 @@ tens of billions, right, and expected to increase next year. Doesn't that give a
 more incentive to your hyperscale customers to create more custom ASIC solutions?
 One customer has already with the TPU product they have had a custom solution for
 a long time. There are -- the others are -- there's a lot of headlines about them
-wanting to have it done.A - Ian Buck
+wanting to have it done.
+A - Ian Buck
 Q - Vivek Arya
 A - Ian BuckSo first of all, what is the right positioning of your product versus their internal
 solution? Do they use one for -- one kind of workload and one for the other? Or
@@ -385,7 +394,8 @@ is -- NVIDIA is spending and investing billions in R&D to optimize for generativ
 for training and inference scale. And with every generation of our GPU, with every
 generation of our interconnect and InfiniBand and CX networking technology, with
 every innovation of NVLink, those things bring the TCO and increase performance
-dramatically, and also bring down the cost of training.Q - Vivek Arya
+dramatically, and also bring down the cost of training.
+Q - Vivek Arya
 A - Ian BuckNow, there obviously motivated to scale up what they can possibly do in order to
 develop something uniquely advanced and uniquely new or different that they can
 capitalize on, but by working with NVIDIA, they can basically opt new leverage the
@@ -427,7 +437,8 @@ and do use ourselves. You can also adjust the ratio of CPUs to GPUs. Today, if y
 look at our DGX system, it's two CPUs for eight GPUs, but we can do one to -- we can
 go one to four. We can do one to eight. We can do of course do two to one, or in
 Grace Hopper, we went all the way to one to one -- one next to each other. That's
-one angle.Q - Vivek AryaThe other part, though is about conversion. What happens when you combine CPUs
+one angle.
+Q - Vivek AryaThe other part, though is about conversion. What happens when you combine CPUs
 and GPUs and do something different than a traditional x86 architecture or CPU
 sitting over here and your PCIe to GPU over or there? First, by bringing the two
 converged together, you can dramatically improve the bandwidth, the
@@ -470,6 +481,7 @@ SoC architecture of Grace and how those cores can talk to each other is quite
 powerful and showing up in many of our benchmarks and it provides a great
 companion to those compute rich workloads that NVIDIA has been focused on for
 the last two decades.
+
 A - Ian BuckGot it. I know we only have a few minutes left, but I wanted to get your take on the
 last two questions, Ian. One of which is, what's the role of the networking stack in the
 optimized generative AI clusters? So how much of an advantage NVIDIA have
@@ -512,7 +524,8 @@ I fully expect the Ethernet and we are working with the community to actually
 improve Ethernet's performance as well, and -- which is great because it comes with
 all that manageability and that's software-defined. And the two exist -- there three
 will exist in the ecosystem for a while and continue to get the best as three layers of
-performance and scale, and of course, requirements between reliability orQ - Vivek Arya
+performance and scale, and of course, requirements between reliability or
+Q - Vivek Arya
 A - Ian Buck
 Q - Vivek Aryamanageability, or security or enterprise deployment versus maximum possible
 performance over time. The roadmap will continue for instance will go up. I
@@ -554,7 +567,8 @@ world is investing and building out that infrastructure for all the different de
 and all the different needs.
 
 Excellent. So on that exciting note, Ian, thank you so much for taking the time to be
-with us, sharing your perspective. Really appreciate that. And thanks to everyoneA - Ian Buck
+with us, sharing your perspective. Really appreciate that. And thanks to everyone
+A - Ian Buck
 Q - Vivek Aryawho joined this webcast. I got another 45 questions on the chat so I'll see if I can
 work with Simona to help answer some of those questions. But really, thank you so
 much, Ian, for taking your time. It's immensely useful to get your perspective. Thank

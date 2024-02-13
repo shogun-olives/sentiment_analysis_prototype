@@ -17,6 +17,7 @@ but also our portfolio that includes Windows Server and SQL Server, as well as
 business applications, which actually gets reported in a different segment, but that's
 also under my responsibility area. And then as you alluded to, the five years previous
 to that I was doing the Head of IR job, and so it's good to be back out here.
+
 Chris Suh
 Raimo Lenschow
 Chris SuhYes. Okay, perfect. And then as you know now from before, but also now like -- so
@@ -59,7 +60,8 @@ relationship that we've had with the vast majority of these companies who still 
 running predominantly on-premises, and so as they think about who their most
 trusted strategic IT partner will be, I think we have a very good shot at being that
 partner. I think we're in the best position to do so. And so, we are very much in the
-spur, the long game, and as a result I think we feel great about our market position.Raimo Lenschow
+spur, the long game, and as a result I think we feel great about our market position.
+Raimo Lenschow
 Chris Suh
 Raimo Lenschow
 Chris Suh
@@ -101,6 +103,7 @@ Azure side, like, we call -- such as -- kind of sometimes call it the premium se
 Can you talk a little bit about the mix that you see, because we have some of the -- I
 think the mobile product is part of that like, how is Azure evolving from like the
 different product offering?
+
 Raimo Lenschow
 Chris Suh
 Raimo LenschowIt's a good question and we get this one with some frequency. Azure as a product
@@ -144,7 +147,8 @@ because a good part will be even a bigger portion of it. It will start to replic
 
 Can you talk also like -- a little bit about the premium services. Like where are we -- I
 would assume like, you have advantage over some of the other corporates [ph],
-because you have already so much from your heritage as a software company, whereChris Suh
+because you have already so much from your heritage as a software company, where
+Chris Suh
 Raimo Lenschoweveryone else is like, either trying to steal it from an open source vendor and trying
 to make money out of that or just try to develop it. Where are we on that journey on
 premium services for you guys?
@@ -188,7 +192,8 @@ trusted partner for many of your clients, and it seems to be coming through, bec
 we are tracking like the incremental dollar that you gaining and that number is
 actually increasing, if you look at the bigger field there. And we saw like one of your
 competitors last week kind of trying to point out like oh please, you need to adopt
-more like, a better scale. Like how is that relationship kind of working into that, youChris Suh
+more like, a better scale. Like how is that relationship kind of working into that, you
+Chris Suh
 Raimo Lenschow
 Chris Suhknow that trust (inaudible) you have with your clients and do you see that coming
 through in terms of how the contracts are looking, like size of the contracts, how
@@ -229,7 +234,8 @@ the way get GitHub operates independently. I think you know that as well, like t
 part of -- sort of the new model that Satya and Amy have sort of implemented with
 companies like LinkedIn then and with GitHub, they operate independently. And yet
 there is still obviously a connection, because Nat, who runs GitHub, reports to Scott
-Guthrie, and the LinkedIn business reports directly to Satya.Raimo Lenschow
+Guthrie, and the LinkedIn business reports directly to Satya.
+Raimo Lenschow
 Chris Suh
 Raimo Lenschow
 Chris SuhSo there is strategic alignment, and yet they operate independently. And so I think
@@ -268,7 +274,8 @@ broad globally, thinking about our data center footprint. We've always been of t
 belief that, in the long run putting the data centers into places where customers want
 to consume the data and provision the services, is a strategic advantage. And so
 we've built out that datacenter footprint broadly, with 54 regions around the world,
-that is more regions than all of our competitors.Raimo Lenschow
+that is more regions than all of our competitors.
+Raimo Lenschow
 Chris SuhWe think that's a long-term strategic advantage, we think that it's important right to
 do that. That also though means, it does add complexity to the build-out, when we
 think about the ability to provision those services, though, even though it's more
@@ -311,7 +318,8 @@ all goes into the -- how you drive real margin improvement. I would say that, gi
 those moving parts, we're still confident in our ability to say, structurally our margin
 structure -- we have no like -- we don't believe a different world exists between us
 and other hyperscalers, in terms of our ability to reach industry leading margins. It's
-just the path that it may look a little different for us and for others, but yes.Raimo Lenschow
+just the path that it may look a little different for us and for others, but yes.
+Raimo Lenschow
 Chris Suh
 Raimo Lenschow
 Chris Suh

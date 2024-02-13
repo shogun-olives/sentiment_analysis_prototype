@@ -24,7 +24,8 @@ that allowed us to be front and center of the early stages of COVID-19 and what 
 early signalling was done. It's hard to know, with specifics how much was impacted
 with overall COVID-19, but some of the pieces that we saw right off the bat was a
 overall close of the retail channel, which impacted our gaming business at the start
-in terms of retail sales, as well as iCafe was now shut down in the overall Asia-pacJoseph Moorearea. But what we quickly saw was a move to e-tail, People in the Asia Pac area had
+in terms of retail sales, as well as iCafe was now shut down in the overall Asia-pac
+Joseph Moorearea. But what we quickly saw was a move to e-tail, People in the Asia Pac area had
 begun working from home, the schools were shut down, and it was a time for them
 to also learn from home and teach from home during that period. As you know,
 being in a shutdown worldwide, it led to all sorts of determining what the overall
@@ -65,7 +66,8 @@ the lineup for overall AI.
 Great, that's a helpful overview and and it's an impressive job of maneuvering in
 what's obviously been a really tough environment for everyone. So I wanted to walk
 through the segments a little bit more in detail, starting with cloud, since that's sort
-of the theme of our conference, as well as the fact that it's now over half of theColette KressCompany are on a trajectory to be over half of the Company at least. So and maybe
+of the theme of our conference, as well as the fact that it's now over half of the
+Colette KressCompany are on a trajectory to be over half of the Company at least. So and maybe
 we could start just looking back a little bit and putting this strength that you've seen
 into context, you grew 80% year-on-year this quarter, which is not something I saw
 coming. But again last year, you saw this kind of digestion. So I want to talk about
@@ -108,7 +110,8 @@ their project's, so that we can actually help inﬂuence the importance of lead 
 and how long it will take in order for them to build out their overall data centers and
 or qualify and then what we can do to overall help that. That overall significant
 breadth and depth that we now have with our customers, we hope will help us as we
-go forward. But, there is still that likely, that from time to time a single customer mayJoseph Moore
+go forward. But, there is still that likely, that from time to time a single customer may
+Joseph Moore
 Colette Kressbe digesting, may be finishing out their build before they start a new one. Our hopes
 is that more overall large projects stuck up on top of each other that keeps the
 overall outlook smooth. And we believe that our process of working with them from
@@ -152,7 +155,8 @@ overall hyperscales because you will see a lot of it also the part of overall cl
 computing and that cloud computing is really about enterprises using the overall
 cloud and you can think of many other instances that they will need the overall
 conversational AI, whether that be overall call centers, whether that be ways that they
-converse as an overall company as a whole.Joseph Moore
+converse as an overall company as a whole.
+Joseph Moore
 Colette Kress
 Joseph Moore
 Colette KressSo, focusing first in terms of some of the work that the hyperscalers have done, that
@@ -195,7 +199,8 @@ large market. A large market that we felt was appropriate for overall GPU comput
 The overall inferencing we're talking about though is not necessarily the inferencing
 of the past. You're correct, it's a very CPU dominated overall piece. A lot of that has
 been single function or very binary type of overall inference, for the CPU again, may
-be perfectly fine to do. But, when you think about using GPUs for overall inferencingJoseph Moore
+be perfectly fine to do. But, when you think about using GPUs for overall inferencing
+Joseph Moore
 Colette Kressgoing forward, the complexity of the inferencing and the models and the multiple
 stages puts the GPU in a great place both for the overall programmability, but also
 the overall speed that can be accomplished using overall GPOs. Using
@@ -239,7 +244,8 @@ overall V100. It is on 7 nanometers. It is the greatest performance on 7 nanomet
 is also the largest chip, on overall 7 nanometer. We're using this opportunity to
 launch A100 in a unique manner that we think will help both deployment and ability
 to bring it up in so many of our different customers. We are launching it with 8 GPUs
-together on an overall base board. That overall configuration, easily slipped in toJoseph Moore
+together on an overall base board. That overall configuration, easily slipped in to
+Joseph Moore
 Colette Kresstheir existing overall infrastructure and will in the future also be with overall OEM
 service as well.
 What is unique about it as we discussed, is it provides the ability to execute both
@@ -281,7 +287,8 @@ and custom silicone largely due to large workloads that they may see in front of
 them that may have a overall cost in silicon to support that. What we found is, we are
 the platform that is probably the most agnostic to any platform that is out there that
 we need to work with, any CPU, any other types of components in the data center as
-well as any other type of software that is out there. So, our ability to work seamlesslyJoseph Moore
+well as any other type of software that is out there. So, our ability to work seamlessly
+Joseph Moore
 Colette Kress
 Joseph Mooreacross different frameworks for AI as well as different types of cloud infrastructures is
 extremely important and why people think about using overall NVIDIA's GPUs to do
@@ -323,7 +330,8 @@ overall customer such projects at each one of them can follow if any single one
 customer goes through digestion.
 
 Okay. So maybe just sum all this up on the, your organic cloud business, you've sort
-of said, it seems like a pretty healthy growth in July. And you said that you probablyColette Kress
+of said, it seems like a pretty healthy growth in July. And you said that you probably
+Colette Kress
 Joseph Moore
 Colette Kressneed more time to assess what happens beyond July, which seems totally
 reasonable. But, it seems like a business that offers a lot more breadth of application
@@ -365,7 +373,8 @@ thinking about the other layers that software defined and acceleration can inﬂ
 acceleration as a whole is where we're overall focused on. Their leadership in terms
 of in the interconnects their leadership in high-performance computing and overall
 supercomputing puts them as probably one of the best partnerships that we could
-imagine, bringing on board at this time for data center. You'll see us both workingJoseph Moore
+imagine, bringing on board at this time for data center. You'll see us both working
+Joseph Moore
 Colette Kresstogether with the same sets of customers, but also thinking about products as we
 know, understand the full footprint of the data centers with these customers on how
 we can build better things to inﬂuence acceleration going forward.
@@ -408,7 +417,8 @@ overall home has really benefited us. We also saw demand surge as it related to
 overall steam, the amount of hours in time that they were playing online. This took
 the opportunity for folks to jump on GFN which you know is our cloud service that
 we recently just rolled out in February as an overall subscription offering as well.
-We've seen a surge not in each region, being very differently as they use a streamingJoseph Moore
+We've seen a surge not in each region, being very differently as they use a streaming
+Joseph Moore
 Colette Kressservice to get there for sometimes their first taste at overall gaming as they have an
 owned device to do that. So, is there pent-up demand, is there more just too early to
 overall say that, the demand is solid, based on what we've seen, which doesn't
@@ -452,7 +462,8 @@ Macquarie 5 is out there, Call of Duty, Control, you going to see Wolfenstein,
 battlefield fire, we can go on and on, cyber punk will probably be one that comes
 out in the future as well. So these, as you can see are important games and I'm sure
 every publisher as it thinks about games for the overall holiday season or beginning
-to write games knows that they have to make that decision on how to incorporateJoseph Moore
+to write games knows that they have to make that decision on how to incorporate
+Joseph Moore
 Colette Kress
 Joseph Mooreoverall ray tracing, because in the future, it will probably be a very important for
 high-end types of graphics games.
@@ -491,6 +502,7 @@ do have a authorization with our Board to repurchase up to $7.4 billion of stock
 repurchases before the end of 2022.
 So, we will stay nimble to find the opportunity, once we continue to build back our
 net cash position and then get started, in terms of stock repurchases.
+
 Colette Kress
 Joseph Moore
 Colette KressGreat, thank you. And then gross margins continue to be moving upward, 66% is a
@@ -532,6 +544,7 @@ declines this quarter, is that a macro issue, or is there any share issues in th
 infotainment space and then probably more importantly, when do you start to see
 the autonomous programs and the big investments that you've made there start to
 come to fruition from the revenue side?
+
 Joseph Moore
 Colette Kress
 Joseph MooreYes. This last quarter and the quarters we go into Q2, have been some of the most

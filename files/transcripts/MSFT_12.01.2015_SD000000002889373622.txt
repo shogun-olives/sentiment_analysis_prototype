@@ -15,7 +15,8 @@ It's great to be here. My name is Yusuf Mehdi. I run marketing and business for 
 Windows and Devices Group for Microsoft. This includes Windows, obviously. And
 all the devices that we build -- Xbox, Surface, Lumia phones, Band, HoloLens. And
 the services that we do, things like the music, video, search service, marketing. So
-those groups.Yusuf Mehdi
+those groups.
+Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
 Philip Winslow
@@ -51,7 +52,8 @@ make on Windows -- search, store, gaming. And subscriptions. The third area is h
 is Windows doing in enterprise, in particular? How are we doing with enterprise
 deployment? Then the last one is how are we doing with new devices. And new
 device sales.
-So those are the four buckets. So I can kind of jump into each (inaudible).Philip Winslow
+So those are the four buckets. So I can kind of jump into each (inaudible).
+Philip Winslow
 Yusuf Mehdi
 Yes, I was going to say that. Let's go down on this.
 
@@ -86,7 +88,8 @@ app store going. And that's been a big effort for us. In Windows 10, we have got
 off to a great start. We've had over 1.25 billion people visit the store, about 8X the
 rate on Windows 8.
 We've had a bunch hero apps, apps like Twitter and Netﬂix that have had good
-success. We focused on them and had successes. And now, the work and the valuePhilip Winslow
+success. We focused on them and had successes. And now, the work and the value
+Philip Winslow
 Yusuf Mehdiprop of run an app one time. And it'll run on not just the PC. But that app will now
 run on Xbox. It'll run on the phone. That is a big value prop that actually none of our
 competition has.
@@ -121,7 +124,8 @@ of that now, you can start to see some light for that opportunity.
 So the gaming business. And then the games in the store, on Windows store, are off
 and running. They're 9 of the top 10 apps in terms of monetization are games on
 Windows store. So that's been very positive.
-So that's the second bucket. Third bucket is how are we doing in enterprise.Philip Winslow
+So that's the second bucket. Third bucket is how are we doing in enterprise.
+Philip Winslow
 Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
@@ -156,7 +160,8 @@ something like 20% or 30% of the support costs for any IT manager is passwords.
 And believe it or not, oh, I forgot my password, or my password isn't very secure.
 With Windows Hellos, you remove that cost. You've got Device Guard, which is the
 ability to protect the boot sequence. And then you've got Windows Defender, which
-is probably the largest in-time malware service running on the planet.Philip Winslow
+is probably the largest in-time malware service running on the planet.
+Philip Winslow
 Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
@@ -192,7 +197,8 @@ talk to our CIO at Credit Suisse, it's like -- I mean, this is going to sound ba
 don't have a heart attack just yet when I say this -- but he said, I'd rather be dead
 than or retired by the time I have to do the next Windows upgrade.
 
-Yes.Philip Winslow
+Yes.
+Philip Winslow
 Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
@@ -228,7 +234,8 @@ are lighting up people. And we're in a new world now where it's BYOD. People bri
 their own devices. And IT has gotten more sophisticated and they know how to
 manage that.
 So these new devices like the Surface Book or the Surface Pro, in particular, are
-lighting people off. And they're getting very excited about that opportunity.Philip Winslow
+lighting people off. And they're getting very excited about that opportunity.
+Philip Winslow
 Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
@@ -266,7 +273,8 @@ And we've done a good job in a lot of -- and I think, we have a lot of sort of d
 data scientific look at which parts. I think there's part of the world we need to do a
 better job.
 China, I think, is a big opportunity. It's a huge PC market. We've had good success.
-But there's more opportunity there. Likewise with Japan.Philip Winslow
+But there's more opportunity there. Likewise with Japan.
+Philip Winslow
 Yusuf Mehdi
 Philip WinslowI think with certain types of devices, we're starting to have more success. We did a
 great job on Win 8. We're getting more Win 7 upgrades now.
@@ -302,7 +310,8 @@ new devices.
 Then let's -- you mentioned iOS at one of your comments. And I remember, I was at
 Build earlier this year. And I must say that was probably -- I've been to Builds in the
 past. And this was definitely the most, I think, excited and energized Build that I've
-been to.Yusuf Mehdi
+been to.
+Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
 Philip Winslow
@@ -337,7 +346,8 @@ an Xbox or get to a Surface Hub or get to one of the phones, that is a huge valu
 prop.
 But when you talk to the developers, a big part of what they say is, look, I've made
 this huge investment in code. Is there a way for me to leverage that? And the ability
-to take the iOS. And do that bridge, you're right, that got cheers at Build.Philip Winslow
+to take the iOS. And do that bridge, you're right, that got cheers at Build.
+Philip Winslow
 Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
@@ -371,7 +381,8 @@ If you want it.
 
 I want to shoot the bugs from analog.
 
-Okay.Philip Winslow
+Okay.
+Philip Winslow
 Yusuf Mehdi
 Philip Winslow
 Yusuf Mehdi
@@ -406,7 +417,8 @@ Yes.
 Well we just have a couple more minutes here. But I'll pause for -- I've got more
 questions. But I'll pause from the audience to see if there's anything. In the back
 here, please?
-Questions And AnswersQ - Unidentified Participant
+Questions And Answers
+Q - Unidentified Participant
 A - Yusuf Mehdi
 Q - Unidentified Participant
 A - Yusuf Mehdi
@@ -441,7 +453,8 @@ the games. We have 104 games that are available now. We plan to update some
 every month. And I'll check on Black Ops and on the DLC compatibility.
 There are some teenagers in Texas that would like that.
 
-(Laughter).A - Yusuf Mehdi
+(Laughter).
+A - Yusuf Mehdi
 Q - Philip Winslow
 A - Yusuf Mehdi
 Q - Philip Winslow
@@ -480,7 +493,8 @@ play here? Because to your point, the calendar, the calendaring system, the emai
 mean, shoot, even the Oﬃce documents, make sure you have the right documents
 for the meetings.
 When you kind of think about this genuine personal assistant, how much of it does
-come in with, like, hey, we're the only guys that can deliver this because of ourA - Yusuf Mehdi
+come in with, like, hey, we're the only guys that can deliver this because of our
+A - Yusuf Mehdi
 Q - Philip Winslow
 A - Yusuf Mehdi
 Q - Philip Winslow

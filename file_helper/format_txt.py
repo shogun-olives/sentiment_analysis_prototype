@@ -77,7 +77,7 @@ def format_txt(fn: str, dest: str, overwrite: bool = False) -> dict[str:str]:
     contents = re.sub(beginning, '', contents)
 
     page_mark = re.compile(fr'{re.escape('FINAL TRANSCRIPT')}.*?{re.escape('of')} [0-9]+', re.DOTALL)
-    contents = re.sub(page_mark, '', contents)
+    contents = re.sub(page_mark, '\n', contents)
 
     bio_mark = r'{(.*?)}'
     contents = re.sub(bio_mark, '', contents)

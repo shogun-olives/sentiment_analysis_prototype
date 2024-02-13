@@ -20,7 +20,8 @@ Thank you. Thank you, Eric. Thank you all for giving us this opportunity to shar
 you the trends we see in cloud computing. Google's strategy in the cloud market,
 why customers are choosing to adopt our cloud, and how we're bringing these
 solutions to market? Our mission and strategy of Google has been to accelerate the
-ability for every organization to digitally transform their business, by offering them aunified cloud computing platform that they can use to build on as the technology
+ability for every organization to digitally transform their business, by offering them a
+unified cloud computing platform that they can use to build on as the technology
 foundation for transformation.
 Over the past three years, we've seen four important trends in cloud computing.
 First, the market is in its very early stages still, and there's lots of growth, and there's
@@ -60,7 +61,8 @@ Secondly, customers don't want to have partial data solutions. They want a singl
 Data Cloud that allows them to run data warehouses, data lakes and machine
 learning tools. So all the people in the organization can collaborate together in
 understanding data. We do that for Walmart, we do that for Home Depot, we do that
-for many other companies. Third, the vast majority of our customers combine data inour data cloud from multiple clouds, from other cloud providers Amazon, Microsoft,
+for many other companies. Third, the vast majority of our customers combine data in
+our data cloud from multiple clouds, from other cloud providers Amazon, Microsoft,
 our cloud as well as on-premise data sources. Opening up our addressable market
 for our data cloud to all customers. An example being Unilever, which runs their
 supply chains sustainability analysis on our cloud.
@@ -102,7 +104,8 @@ We provide unified communications and unified collaboration. Just two years ago,
 million customers paid to use Google Workspace, 6 million individual companies. In
 two years, that number has grown to 8 million, because of the technology and the
 ease with which they can operate. The threats from cyber attacks continues to grow,
-they continue to proliferate. We are pleased today that Mandiant, the leading fiberintelligence security company and about 2,500 approximate employees are now
+they continue to proliferate. We are pleased today that Mandiant, the leading fiber
+intelligence security company and about 2,500 approximate employees are now
 part of Google.
 Our vision behind the acquisition of Mandiant was very simple. When we talk to
 CIOs and CSOs and CEOs, every cyber attack has been a black swan event. The day
@@ -142,7 +145,8 @@ partners deliver solutions on top of Google Workspace, that users use every day.
 From a cybersecurity point of view, we've identified vulnerabilities in 40,000 open-
 source libraries, protected just recently the largest distributed denial-of-service
 attack in the world. And we secure over six million websites from fraud, all of which
-represent opportunities for us in growing our business with these customers.Many of the leading companies around the world in every industry and geography
+represent opportunities for us in growing our business with these customers.
+Many of the leading companies around the world in every industry and geography
 today are customers of ours. And when you look at the largest companies in the
 world, just three years ago, we virtually were in none of these companies. Today,
 whether it's in telecommunications, retail, media, technology, almost all the leading
@@ -183,7 +187,8 @@ bringing that to market through a large, focused, scaled go-to-market organizati
 We also work with a broad network of partners, who are seeing large expansions of
 their business with us and the combination has led us to show not only customer
 adoption and traction, but also strong financial momentum.
-Thank you.Q - Eric Sheridan
+Thank you.
+Q - Eric Sheridan
 A - Thomas Kurian
 Q - Eric Sheridan
 A - Thomas KurianQuestions And Answers
@@ -224,7 +229,8 @@ during the macro environment, right? So for instance, much of cloud computing is
 because it provides a more cost-effective infrastructure rather than traditional
 models of operation. We offer for example, managed services, managed databases,
 managed data warehouse, managed analytic tools. These give people the ability to
-shift their people from managing machines to doing projects. So it also allows ITQ - Eric Sheridan
+shift their people from managing machines to doing projects. So it also allows IT
+Q - Eric Sheridan
 A - Thomas Kurian
 Q - Eric Sheridanorganizations that maybe people constrained to actually get projects done because
 they're not doing things like managing machines and devices.
@@ -266,6 +272,7 @@ from a point of view of investment eﬃciency. So we're very confident, obviousl
 work very closely with our leadership team. We're very proud of them, and we
 wouldn't be investing, if we didn't have absolute clarity with Ruth, Sundar and the
 rest of our leadership team on a path to profitability.
+
 A - Thomas Kurian
 Q - Eric Sheridan
 A - Thomas KurianGreat. Understood. You recently announced your first region in Mexico. How should
@@ -310,7 +317,8 @@ that was done in the Wall Street Journal on the work we did with UPS was actuall
 the Head of Logistics.
 So, the second thing we did was specialized our salesforce. We've also specialized
 by industry. Recently for example, we announced the creation of a public sector
-subsidiary, focused on selling to government agencies. And so, we specialize byQ - Eric Sheridan
+subsidiary, focused on selling to government agencies. And so, we specialize by
+Q - Eric Sheridan
 A - Thomas Kurian
 Q - Eric Sheridanindustry because different industries have unique needs. And then lastly, we sell to
 both traditional technology, traditional IT organizations and enterprises, as well as
@@ -354,7 +362,8 @@ wanted to turn to security for a minute. Can you talk about your own focus withi
 organization on security? How you think it differentiates Google Cloud? Maybe give
 us some examples of some of the risks or threats, you think that organizations are
 facing, and then bring it back to your explanation for why Mandiant was to write
-acquisition for you guys?A - Thomas Kurian
+acquisition for you guys?
+A - Thomas Kurian
 Q - Eric Sheridan
 A - Thomas Kurian
 We look at our security portfolio in -- with two simple lenses. The first is, if you are
@@ -396,6 +405,7 @@ everyone in their personal and professional lives, touch some elements of Google
 Workspace and the application suite. What are you hearing from clients about the
 future of hybrid work? The role Workspace may play in workﬂows? And how you're
 positioning Google Cloud against what you're hearing from customers?
+
 Q - Eric Sheridan
 A - Thomas KurianWhen hybrid work happened, we had lots of organizations. Media companies that
 were moving their recording studios, people who were issuing devices to their
@@ -439,7 +449,8 @@ to managed service providers that they work with. So bringing that ecosystem alo
 helped us also get into the large enterprise base, but we've been very focused these
 last three years. Obviously, we're very pleased with the results we've shown and
 demonstrated, and we remain very confident about our future as a real player in
-cloud computing.Q - Eric Sheridan
+cloud computing.
+Q - Eric Sheridan
 Great. Well, first, Thomas, thank you for making yourself available. I really enjoyed
 the conversation. Second, please join me in thanking Thomas Kurian from Google
 Cloud for being a part of our conference this year.

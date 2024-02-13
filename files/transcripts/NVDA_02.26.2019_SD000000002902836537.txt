@@ -21,7 +21,8 @@ year and how to think about this as we move into our new fiscal year. So for one
 that we sat back and looked at is essentially past the first cryptocurrency wave that
 ended in essentially the end of Q1 of last year. And we went and looked at what we
 saw in our Q2, Q3, Q4 as well as what we're guiding in terms of our Q1 and averaged
-those over that period of time to take a look at in terms of what we think about theQ - Joseph Lawrence Moore
+those over that period of time to take a look at in terms of what we think about the
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
@@ -65,7 +66,8 @@ us having higher overall excess inventory in the channel during that period of t
 
 Great. And I want to talk about some of the important new products that are maybe
 just on this inventory discussion. If we can talk about the 1660 that you launched just
-last week. Pretty compelling kind of mid-range, budget-priced product. How do youA - Colette M. Kress
+last week. Pretty compelling kind of mid-range, budget-priced product. How do you
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
@@ -110,6 +112,7 @@ prospect. Can you just talk about the importance of that? Then obviously, when y
 bring something that's breakthrough capability to the market, it has to really be
 programmed to optimal usage. What do you see in terms of the enthusiasm for
 (developers as well)?
+
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
@@ -155,7 +158,8 @@ software developers are very -- they develop the work that we're doing. They are
 also helping along with that. So it's actually a bit of a joint work going through that.
 Again, at any point in time that you bring a new technology, they may be at a certain
 stage in terms of building out their game. So keep in mind that we are working with
-them while they're in the middle of that project. As we see newer games come to theQ - Joseph Lawrence Moore
+them while they're in the middle of that project. As we see newer games come to the
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
@@ -197,6 +201,7 @@ Chinese overall demand has come back.
 Okay. And the 1660 has been pretty well reviewed so far as well.
 
 Absolutely.
+
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
@@ -242,7 +247,8 @@ simultaneously you saw an acceleration or did anything stand out?
 
 There are always tremendous great pieces of the data center that have been
 accelerating quite well over this time. Our experience, for example, in our overall
-DGX business has been phenomenal over the last year, really helping people take anQ - Joseph Lawrence Moore
+DGX business has been phenomenal over the last year, really helping people take an
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Mooreend-to-end overall high-end system, incorporating with all the different frameworks
 for software, as well as a significant amount of compute. It's been kicking off both in
@@ -288,7 +294,8 @@ that are focused on the opportunity and certainly, Intel and AMD are attacking i
 well. How do you think about that competition? And how -- is it CUDA that's sort of
 the main barrier or is it events like GTC that sort of teach people about how to do
 machine learning? Or what do you see as critical in terms of maintaining that early
-lead?A - Colette M. Kress
+lead?
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Yes. So first, when looking at other types of form factors of hardware, whether it be
@@ -335,7 +342,8 @@ architecture, which allows for multiple precision. As we move in terms of from
 training to overall imprint, the overall precision of accuracy is necessary for the
 overall speed of that overall workload. Our Tensor cores and the use of our overall
 software enables that. We've seen adoption quite quickly both from Google Cloud
-using it as well as in terms of Baidu that is using it also within their cloud and also inQ - Joseph Lawrence Moore
+using it as well as in terms of Baidu that is using it also within their cloud and also in
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
@@ -378,7 +386,8 @@ able to take that to an acceleration for enterprises is very key as well.
 
 Okay. Great. Then can you just talk a little bit about enterprise, bringing deep
 learning products to enterprise with DGX-1 and DGX-2? What drives that decision to
-sort of buy hardware in-house versus just using the cloud and what (inaudible) that?A - Colette M. Kress
+sort of buy hardware in-house versus just using the cloud and what (inaudible) that?
+A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
@@ -423,7 +432,8 @@ extremely an important part of our future in terms of automotive. When we had
 stepped back several years ago, our thought was that just passenger cars would be
 the #1 area. But as you've seen, there's also a tremendous effort on overall robotaxis
 as well and taking things to that Level 4 and Level 5. So what Level 2+ allows you to
-do is what we've developed in terms of an end-to-end platform for robotaxis orQ - Joseph Lawrence Moore
+do is what we've developed in terms of an end-to-end platform for robotaxis or
+Q - Joseph Lawrence Moore
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. Kress
@@ -467,7 +477,8 @@ the overall base in terms of what we need to overall grow in terms of in automot
 when we see into production in the next couple of years passenger cars more in
 volume than what we're seeing today.
 
-Okay. Let me pause there and see if we have questions from the audience.Q - Unidentified Participant
+Okay. Let me pause there and see if we have questions from the audience.
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. KressA simple question. A couple of years ago, I had a chance to listen to you, Colette.
@@ -511,7 +522,8 @@ desktop type of workstation to mobility. Okay, the mobility of the workstation a
 the overall designer to do their work anywhere, to access their lab in any place.
 That's been a key driver of the success that we've seen. Additionally, we refer to our
 success in terms of Max-Q. When you think about what we also love as overall
-normal desktops or normal notebooks in terms of the enterprise, the workstationQ - Joseph Lawrence Moore
+normal desktops or normal notebooks in terms of the enterprise, the workstation
+Q - Joseph Lawrence Moore
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Joseph Lawrence Moorefollows that same piece, which says if I can get to thin and light but also high
@@ -555,6 +567,7 @@ them and available in terms of an overall cloud experience. So we'll continue to
 on this. We'll bring it to market when we think it is ready. But again, in order to work
 through the overall infrastructure, the overall business model in the future, we still
 have a ways to go as an industry as a whole to make that system work.
+
 A - Colette M. Kress
 Q - Joseph Lawrence Moore
 A - Colette M. KressYou obviously still need a GPU in the cloud. Is there any reason to think that you

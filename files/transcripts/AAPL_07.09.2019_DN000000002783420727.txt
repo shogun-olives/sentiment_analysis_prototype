@@ -28,7 +28,8 @@ quarterly metrics, subscriber gains and losses. These are video subscriber gains
 losses by operator. And if you just see that red box there, we had record traditional
 subscriber losses in Q1 of this year. So close to almost 1.3 million losses. But along
 with this whole trend of cord cutting, while this has been in full force, the industry has
-also witnessed the emergence of a new breed of distributors called vMVPDs orMichael Greesonvirtual operators who basically aggregate linear TV content and deliver it over the
+also witnessed the emergence of a new breed of distributors called vMVPDs or
+Michael Greesonvirtual operators who basically aggregate linear TV content and deliver it over the
 Internet. And so the vMVPD, the main attraction there is they're priced really cheaply
 compared to your traditional subscriptions of typically around $40 or $45 a month
 versus the $85, $90 that you shell out for a traditional video subscription.
@@ -68,7 +69,8 @@ there. And so, we were forecasting a movement from 95 million in 2017 to
 somewhere between 73.5 million and 79.7 million by 2023. The 2018 numbers came
 in at approximately just under 92 million and so that's right between our worse -- or
 our low line and our mid line. So we're tracking at -- currently at the -- in the direction
-that we informed our clients we would be.Now, the question for many is just how significant -- after a record setting Q1, how
+that we informed our clients we would be.
+Now, the question for many is just how significant -- after a record setting Q1, how
 significant will losses continue to be, will they continue at a 3 million to 4 million
 subscriber loss per year or will that taper off sometime in the next five years. We're
 not particularly optimistic about that and we're still advising to prepare for worst
@@ -112,7 +114,8 @@ Q1 of this year. And it illustrates Hulu with live TV and then others include --
 others include the litany of operators that were on Geetha's list. And we're
 monitoring each and every one of them, but the breakout right now seems to be
 Hulu with live TV and that's a very fertile model for a number of reasons. We'll talk
-more about that when we get to pay TV 3.0, why this particular model might work.Geetha RanganathanI did want to make a quick note, and this is something that's not commonly
+more about that when we get to pay TV 3.0, why this particular model might work.
+Geetha RanganathanI did want to make a quick note, and this is something that's not commonly
 understood when it comes to calculating pay TV subscriptions. What a lot of people
 do generally is they'll take the number of legacy subs and the number of virtual subs
 and they'll add the two together and say that's the gross number of pay TV
@@ -155,7 +158,8 @@ Thanks, Michael. So before we get into how the industry evolves with pay TV 3.0,
 just wanted to quickly touch on how cord cutting has shaped adjacent industries and
 some of the winners and losers from the whole cord cutting revolution. So one of the
 platforms that has benefited greatly has been Roku. The stock has been
-gangbusters, more than tripling since the beginning of the year. Woo Jin Ho coversWoo Jin HoRoku for Bloomberg Intelligence and will now tell us a little bit about how the
+gangbusters, more than tripling since the beginning of the year. Woo Jin Ho covers
+Woo Jin HoRoku for Bloomberg Intelligence and will now tell us a little bit about how the
 company has been able to cash in, while folks have ditched their cable subscriptions.
 
 Great. Thank you, Geetha. And as Geetha said, I am the Lead Analyst of Roku for
@@ -196,7 +200,8 @@ beyond three or four services (inaudible) purposes of the cost benefits of strea
 versus traditional pay TV. And -- but at the same time, the amount of content
 continues to grow, amount of video content continues to grow and some of these
 smaller niche providers may need to come up with a -- come to a strategic decision
-to whether it be a subscription based or an ad based revenue model. And our viewGeetha Ranganathan
+to whether it be a subscription based or an ad based revenue model. And our view
+Geetha Ranganathan
 Michael Greesonis that Roku being one of the prevailing streaming platforms, coupled with its
 targeted ad insertion technology, it's well positioned to be one of the beneficiaries
 of the broadening landscape of that base streaming content. So as these -- as a long
@@ -235,7 +240,8 @@ precipitating a large number of both vertical and horizontal consolidation. That
 say, not only are large content companies buying up other large content companies,
 they're also buying up those that create the -- create other -- create and distribute
 other types of products, so they buy up the technology companies, they buy up the
-distributors. They have a presence in CPE. They're looking to take advantage of thenew value chain that's emerging. And to offset these losses, they're bypassing --
+distributors. They have a presence in CPE. They're looking to take advantage of the
+new value chain that's emerging. And to offset these losses, they're bypassing --
 they're choosing to add to their arsenal a product that bypasses traditional
 gatekeepers. And in lieu [ph] of that offering branded D2C services as was
 referenced for what we expect two of the largest players to the rolling services here
@@ -276,7 +282,8 @@ hypothetical service we've ever tested in TDG's history. The number of consumers
 that are interested in paying $6.99 a month for that particular content combination
 was astounding. So they're expecting 60 million to 90 million subscribers by 2024,
 two-thirds of those from international viewers. In other words, the domestic subs will
-range from 20 million to 60 million by their own numbers by 2024.Now, that's a lot of gray between 20 million and 60 million. Given the enthusiasm
+range from 20 million to 60 million by their own numbers by 2024.
+Now, that's a lot of gray between 20 million and 60 million. Given the enthusiasm
 that we observed in our May survey for this new offering, there's no -- I don't seeing
 any reason why Disney can't have as many of 20 million subs by 2021. This -- I think
 this service will move very fast. But more and more of the major networks, again,
@@ -319,7 +326,8 @@ Amazon channels or content collections in it. That's available to Prime video
 subscribers or Prime members, but they can easily dovetail some of that content into
 their own type of D2C channel if they wished. They still serve as an aggregator,
 there's no doubt about that. In terms of distribution, the -- these aggregators don't
-distribute the content in and of themselves, they provide a gateway to interact withthe app. The app and the company that owns the app are in charge of distribution
+distribute the content in and of themselves, they provide a gateway to interact with
+the app. The app and the company that owns the app are in charge of distribution
 and guaranteeing a quality experience.
 And consumption ultimately, it's still a BYOD model, but interestingly enough, many
 of these D2C aggregators have significant plays in the CPE realm. Amazon with Fire
@@ -358,7 +366,8 @@ increasing amount of live content, especially sports come into these portals via
 major league services as well as ESPN+, you'll see DASAN [ph] entering into these
 app stores as well. So it's a mix of on-demand and live channels and we expect that
 you'll see more and more live sports especially coming into the direct-to-consumer
-space.Now, just to give you an idea of the brand power of the folks involved and we've
+space.
+Now, just to give you an idea of the brand power of the folks involved and we've
 already touched on Roku a little bit, let's start with Amazon. 55% of adult broadband
 users report using Amazon Prime, with 38% watching Prime video and that's where
 Prime channels resides. Right now, we see that Amazon is -- Amazon channels as
@@ -401,7 +410,8 @@ strong model.
 Now, for the -- one of the key drivers in our observation about -- prediction about the
 rise of pay TV 3.0 is the amount of research we continue to do on this subject, one of
 the most fascinating questions we ask is we tested about -- we told consumers
-you've got -- imagine out of these 20 channels we've listed below that you canchoose five channels to populate a TV service, any five you want and we included in
+you've got -- imagine out of these 20 channels we've listed below that you can
+choose five channels to populate a TV service, any five you want and we included in
 that list (inaudible) apps like Netﬂix and premium channels like HBO as well as
 families of networks like NBC (inaudible) et cetera and we define what channels were
 involved in that. No big surprise, Netﬂix topped the list as the most popular channel
@@ -444,7 +454,8 @@ So this was very striking research that we've done on this subject and it led us
 believe that there is a model here and we believe that especially Amazon and Roku,
 they are looking closely at this model right now, how to aggregate these apps and
 present a form of a paid -- form of a pay TV bundle to their multi-app subscribers. So
-the future is virtual -- the future is streaming, the future is TV as an app, but the futureA - Geetha Ranganathan
+the future is virtual -- the future is streaming, the future is TV as an app, but the future
+A - Geetha Ranganathan
 A - Michael Greeson
 A - Geetha Ranganathan
 A - Michael Greeson
@@ -481,7 +492,8 @@ single-digit increases makes sense, given the context.
 Next question. Using an analogy from Internet usage, do you view these video
 aggregators like a portal i.e., Netscape or a search engine i.e., Google?
 Both, both. They'll integrate search and discovery and recommendations across
-multiple apps. Now, this is when they're more mature. Of course, we don't have anyA - Geetha Ranganathan
+multiple apps. Now, this is when they're more mature. Of course, we don't have any
+A - Geetha Ranganathan
 A - Michael Greeson
 A - Woo Jin Hoof these offerings on the plate right down. This is looking toward the meta, looking
 in the next several years how things are likely to evolve. Once they get to that point
@@ -526,7 +538,8 @@ thing, I think Michael pointed out very elegantly, is that there's a lot bigger
 underlying technology that's helping -- assisting the aggregation here. It's not only,
 number one, the aggregation of the different content, but also the billing. So there's
 a lot of back-end integration that needs to be done by these providers, but I don't
-know if a -- another third party may be willing to do. Google has the wherewithal toA - Geetha Ranganathan
+know if a -- another third party may be willing to do. Google has the wherewithal to
+A - Geetha Ranganathan
 A - Michael Greeson
 A - Geetha Ranganathan
 A - Michael Greesondo that, Amazon has the wherewithal to do that, Apple has the wherewithal to do
@@ -567,7 +580,8 @@ absolutely.
 
 Okay. So I know you spoke a little bit about sports and zone [ph]. A question here on
 regional sports networks. What is your view on regional sports networks? Where will
-they fit in in the pay TV 3.0 ecosystem?A - Woo Jin Ho
+they fit in in the pay TV 3.0 ecosystem?
+A - Woo Jin Ho
 A - Michael GreesonJust as an app, I would assume, just as their own D2C app just like many of the RSNs
 or many of the set of college leagues, et cetera, I would include in this conversation.
 They have their own linear channels, so they have their own apps. So if they have a
@@ -612,7 +626,8 @@ and that's part of their lifestyle like an Outdoor Channel would be for maybe a
 hunter or a fisher -- fisherman, then you might stand a chance on a fee based
 subscription level. But I would argue that the first play would -- for a small channel
 would probably be to go fee based through one of these portals and then wait
-before you do a free ad based service.A - Geetha RanganathanI see free ad based services as -- I know they're -- all the rage right now and that's
+before you do a free ad based service.
+A - Geetha RanganathanI see free ad based services as -- I know they're -- all the rage right now and that's
 largely driven by the success of SVAD or AVAD [ph] aggregators, like Pluto TV and
 XUMO and Tubi. They're the ones that are pulling in millions and millions of users,
 but the individual -- let me back up. I want to take -- let's take fuboTV as an example.

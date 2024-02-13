@@ -24,7 +24,8 @@ production quality parts. In December of 2018 we had the autonomous driving stac
 running on the new hardware and we're able to start retrofitting employee cars and
 testing the hardware and software out in the real world.
 Just last March, we started shipping the new computer in the Model S and X and just
-earlier in April we started production in Model 3. So this whole program, from thehiring of the first few employees to having it in full production in all three of our cars,
+earlier in April we started production in Model 3. So this whole program, from the
+hiring of the first few employees to having it in full production in all three of our cars,
 is just a little over three years and it's probably the fastest system development
 program I've ever been associated with. And it really speaks a lot to the advantages
 of having a tremendous amount of vertical integration to allow you to do concurrent
@@ -65,7 +66,8 @@ that comes in from the eight cameras that are in the car. You can see the two se
 driving computers in the middle of the board. And then on the left is the power
 supply and some control connections. And so I really love it when a solution is boiled
 down to its barest elements. You have video, computing and power, and it's
-straightforward and simple.Elon R. Musk
+straightforward and simple.
+Elon R. Musk
 Pete BannonHere's the original hardware 2.5 enclosure that the computer went into. And we've
 been shipping for the last two years. Here's the new design for the FSD computer.
 It's basically the same, and that of course is driven by the constraints of having a
@@ -104,7 +106,8 @@ the other actuators in the car. And then you can use the sensor suite to make su
 that it happens. So if you ask the car to accelerate or brake or steer right or left you
 can look at the accelerometers and make sure that you are in fact doing that. So
 there's a tremendous amount of redundancy and overlap in both our data
-acquisition and our data monitoring capabilities here.Moving on to talk about the full self-driving chip a little bit. It's packaged in a 37.5
+acquisition and our data monitoring capabilities here.
+Moving on to talk about the full self-driving chip a little bit. It's packaged in a 37.5
 millimeter BGA with 1,600 balls. Most of those are used for power and ground, but
 plenty for signal as well. If you take the lid off, it looks like this. You can see the
 package substrate and you can see the dye sitting in the center there. If you take the
@@ -147,7 +150,8 @@ exceeded our goal of 50 teraops by a fair bit. There's also a video encoder, we
 encode video and use it in a variety of places in the car including the backup camera
 display. There's optionally a user feature for a dash cam and also for a clip logging
 data to the cloud, which Stuart and Andrej will talk about more later. There's a GPU
-on the chip, it's modest performance, it has a support for both 32 and 16-bit ﬂoatingpoint and then we have 12 A72, 64-bit CPUs for general purpose processing. They
+on the chip, it's modest performance, it has a support for both 32 and 16-bit ﬂoating
+point and then we have 12 A72, 64-bit CPUs for general purpose processing. They
 operate at 2.2 gigahertz and this represents about 2.5 times the performance
 available in the current solution. There's a safety system that contains two CPUs that
 operate in lock step. This system is the final arbiter of whether it's safe to actually
@@ -189,7 +193,8 @@ for processing ReLU and pooling as well.
 Now this chip is operating in a thermally constrained environment. So we had to be
 very careful about how we burn that power. We want to maximize the amount of
 arithmetic we can do. So we picked integer add, it's nine times less energy than a
-corresponding ﬂoating point add and we picked 8-bit by 8-bit integer multiplied,which is significantly less power than the other multiply operations and there's
+corresponding ﬂoating point add and we picked 8-bit by 8-bit integer multiplied,
+which is significantly less power than the other multiply operations and there's
 probably enough accuracy to get good results. In terms of memory, we chose to use
 SRAM as much as possible and you can see there that going off chip to DRAM is
 approximately 100 times more expensive in terms of energy consumption than using
@@ -231,7 +236,8 @@ fusion which allows us to maximize the computing, each time we read data out of 
 SRAM and put it back. It also does some smoothing, so that the demand is on the
 memory system aren't too lumpy. And then we also do channel padding to reduce
 bank conﬂicts and we do bank aware SRAM allocation. And this is a case where we
-could have put more hardware in the design to handle bank conﬂicts. But byElon R. Musk
+could have put more hardware in the design to handle bank conﬂicts. But by
+Elon R. Musk
 Pete Bannon
 Elon R. Muskpushing it into software, we save hardware and power at the cost of some software
 complexity.
@@ -273,7 +279,8 @@ enable a new level of safety and autonomy in Tesla's vehicles without impacting 
 cost or range. Something that I think we're all looking forward too.
 
 I think, why don't we do a Q&A after each segments? So if you have questions about
-the hardware, they can ask right now. The reason I ask Pete to do just a detailed -- farPete Bannon
+the hardware, they can ask right now. The reason I ask Pete to do just a detailed -- far
+Pete Bannon
 Q - Tripatinder Chowdhry
 A - Pete Bannon
 Q - Tripatinder Chowdhry
@@ -313,7 +320,8 @@ At the time I started the design not all of the IP that we wanted to purchase wa
 available in 10 nanometer, so we had finished the design in 14.
 
 It's maybe worth pointing out that we finished this design like maybe 1.5 years 2
-years ago and began design of the next generation. We're not talking about the nextA - Pete Bannon
+years ago and began design of the next generation. We're not talking about the next
+A - Pete Bannon
 Q - Tripatinder Chowdhry
 A - Pete Bannon
 Q - Tripatinder Chowdhry
@@ -353,7 +361,8 @@ and more sophisticated. So it's a very big currency that you can spend on lots o
 interesting things to make the car better.
 
 I think that a Xavier power usage is higher than ours? Xavier powers is higher than
-ours, I think?Q - Unidentified Participant
+ours, I think?
+Q - Unidentified Participant
 A - Pete Bannon
 Q - Tripatinder Chowdhry
 A - Elon R. Musk
@@ -391,6 +400,7 @@ to you guys from an architecture standpoint?
 A chiplet based architecture?
 
 Yes.
+
 Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participant
@@ -426,7 +436,8 @@ effect than on highway. So you know, if you're driving for an hour in a city and
 had a solution hypothetically that, you know, it was a kilowatt, you'd lose for miles on
 a Model Three.
 So if you're only going, say 12 miles an hour, then that's like there wouldn't be a 25%
-impact on a range and city. It's basically, the power of the system, it has a massiveQ - Unidentified Participant
+impact on a range and city. It's basically, the power of the system, it has a massive
+Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speaker
@@ -453,7 +464,8 @@ No, I'm saying that like if I'm manufacturing these in mass, is this saving mone
 doing it yourself?
 Yes. A little bit.
 I mean most chips are made -- most people don't make chips with their own fab, it's
-pretty unusual.A - Unidentified Speaker
+pretty unusual.
+A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participant
@@ -481,7 +493,8 @@ Okay. And then the -- I guess the follow-on, would be there's probably a fair am
 of opportunity to reduce that footprint as you tweak the design?
 It's actually quite dense. So in terms of reducing it, I don't think so. It'll will greatly
 enhance the functional capabilities in the next generation.
-Okay. And then last question, can you share where you're fabbing this part?A - Unidentified Speaker
+Okay. And then last question, can you share where you're fabbing this part?
+A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participant
@@ -511,7 +524,8 @@ rates that associate to various parameters.
 Do you think a chip can do something to prevent anybody, maybe encrypt all the
 rates so that even you don't know what the rates are at the chip level. So that your
 intellectual property remains inside it and nobody knows about it and nobody can
-just steal it.A - Pete Bannon
+just steal it.
+A - Pete Bannon
 A - Elon R. Musk
 A - Pete Bannon
 A - Unidentified Speaker
@@ -552,7 +566,8 @@ with having data ingestion coming from real world miles versus simulated miles.
 Absolutely. The simulator we have is quite a good simulation too, but it just does not
 capture the long tail of weird things that happen in the real world. If the simulation
 fully capture the real world, well, will now would be proof that we're living in a
-simulation I think. Yeah. It doesn't. I wish. But it -- simulations to not capture the realQ - Unidentified Participant
+simulation I think. Yeah. It doesn't. I wish. But it -- simulations to not capture the real
+Q - Unidentified Participant
 A - Unidentified Speaker
 A - Andrej Karpathy
 A - Unidentified Speaker
@@ -585,7 +600,8 @@ trained these neural networks and that included situations at Stanford at openin
 Eye at Google and really just training a lot of neural networks not just for images, but
 also for natural language and designing architectures that couple of those two
 modalities for my Ph.D. So --
-And the computer science class.A - Andrej Karpathy
+And the computer science class.
+A - Andrej Karpathy
 A - Unidentified Speaker
 A - Andrej Karpathy
 A - Unidentified Speaker
@@ -625,7 +641,8 @@ iguana or a scissors. So this is very simple and effortless for us. This is not 
 computers. And the reason for that is that these images are to a computer really just
 a massive grid of pixels and that each pixel you have the brightness value at that
 point. And so instead of just seeing an image a computer really gets a million
-numbers in a grid that tell you the brightness values at all the positions.A - Andrej KarpathyYou may tell us, if you will, that really is the matrix.
+numbers in a grid that tell you the brightness values at all the positions.
+A - Andrej KarpathyYou may tell us, if you will, that really is the matrix.
 
 Yeah. And so we have to go from that grid of pixels and brightness values into high
 level concepts like iguana and so on. And as you might imagine this iguana has a
@@ -666,7 +683,8 @@ once the update is complete, the probability of iguana for this image will go up
 little bit. So it might become 14% and probability of the other things will go down.
 And of course, we don't just do this for this single image. We actually have entire
 large data sets that are labeled. So we have lots of images typically you might have
-millions of images, thousands of labels or something like that and you are doingforward backward passes over and over again. So you're showing the computer
+millions of images, thousands of labels or something like that and you are doing
+forward backward passes over and over again. So you're showing the computer
 here's an image. It has an opinion and then you're saying this is the correct answer
 and it tunes itself a little bit. You repeat this millions of times and you sometimes you
 show images, the same image to the computer hundreds of times as well. So the
@@ -708,7 +726,8 @@ you only annotate a random distribution of this data, your network will kind of 
 up on this random distribution on data and work only in that regime. So if you show
 it slightly different example, for example here is an image that actually -- the road is
 curving and it is a bit of a more residential neighborhood. Then if you show the
-neural network, this image, that network might make a prediction that is incorrect, itmight say that okay, well I've seen lots of times on highways, lanes just go forward, so
+neural network, this image, that network might make a prediction that is incorrect, it
+might say that okay, well I've seen lots of times on highways, lanes just go forward, so
 here's a possible prediction. And of course this is very incorrect.
 But the neural network really can't be blamed, it does not know that the train -- the
 tree on the left whether or not it matters or not, it does not know if the car on the
@@ -748,7 +767,8 @@ Now a number of companies have -- number of people have kind of pointed out
 that potentially we could use simulation to actually achieve the scale of the data sets
 and we're in charge of a lot of the conditions here, maybe we can achieve some
 variety in a simulator. Now at Tesla and that was also kind of brought up in the
-questions just just before this. Now at Tesla this is actually a screenshot of our ownQ - Unidentified Participant
+questions just just before this. Now at Tesla this is actually a screenshot of our own
+Q - Unidentified Participant
 A - Unidentified Speakersimulator. We use simulation extensively, we use it to develop and evaluate the
 software. We've also even use it for training quite successfully, So -- but really when it
 comes to training data from neural networks, there really is no substitute for real
@@ -789,7 +809,8 @@ make our neural network systems work extremely well.
 So let me take you through a concrete example of -- for example making the object
 detector work better, to give you a sense of how we develop these neural networks,
 how we iterate on them and how we actually get them to work over time? So object
-detection is something we care a lot about. We'd like to put bounding boxes aroundsay the cars and the objects here because we need to track them and we need to
+detection is something we care a lot about. We'd like to put bounding boxes around
+say the cars and the objects here because we need to track them and we need to
 understand how they might move around. So again, we might ask human annotators
 to give us some annotations for these and humans might go in and might tell you
 that, okay, those patterns over there are cars and bicycles and so on.
@@ -831,7 +852,8 @@ network to really understand what's going on here that these are animals and we
 want to deal with that correctly.
 So to summarize the process by which we iterate on neural network predictions
 looks something like this. We start with a SEED dataset that was potentially sourced
-at random. We annotate that dataset and then we train neural networks on thatdataset and put them in the car. And then we have mechanisms by which we notice
+at random. We annotate that dataset and then we train neural networks on that
+dataset and put them in the car. And then we have mechanisms by which we notice
 inaccuracies in the car when this detector maybe misbehaving. So for example if we
 detect that the neural network might be uncertain or if we detect that or if there's a
 driver intervention on any of those settings, we can create this trigger infrastructure
@@ -873,7 +895,8 @@ example, the cars are typically yard. They're moving this way, maybe the blinker
 on, all that stuff happens internally inside the neural net just from these examples.
 So, we as a ﬂeet automatically send out all these data, we can get 0.5 million or so
 images, and all of these would be annotated for cut-ins, and then we train network
-and then we took this cut-in network and we deployed it to the ﬂeet, but we don'tA - Elon R. Musk
+and then we took this cut-in network and we deployed it to the ﬂeet, but we don't
+A - Elon R. Musk
 Q - Unidentified Participantturn it on yet. We run it in shadow mode. And in shadow mode, the network is always
 making predictions. Hey, I think this vehicle is going to cut-in from the way it looks.
 This vehicle is going to cut-in. And then we look for mis-predictions.
@@ -914,7 +937,8 @@ the path that this person took because of the GPS, the initial measurement unit,
 wheel angle, the wheel ticks. So we put all that together and we understand the path
 that this person took through this environment.
 And then, of course, this -- we can use this for supervision for the network. So, we just
-sourced a lot of this in the ﬂeet. We trained the neural network on those trajectories,A - Elon R. Musk
+sourced a lot of this in the ﬂeet. We trained the neural network on those trajectories,
+A - Elon R. Musk
 A - Pete Bannon
 A - Elon R. Musk
 A - Pete Bannonand then the neural network predicts paths, just from that data. So, really what this is
@@ -954,7 +978,8 @@ So what I talked about so far is really the three key components of how we itera
 the predictions of the network and how we make it work over time. You require
 large, varied and real data set. We can really achieve that here at Tesla. And we do
 that through the scale the ﬂeet, the data engine, shipping things in shadow mode,
-iterating that cycle and potentially even using ﬂeet learning where no humanA - Unidentified Speaker
+iterating that cycle and potentially even using ﬂeet learning where no human
+A - Unidentified Speaker
 A - Pete Bannonannotators are harmed in the process, and just using it automatically and we can
 really do that at scale.
 So in the next section of my talk, I'm going to especially talk about depth perception
@@ -992,7 +1017,8 @@ a video going down, I think this is San Francisco of a Tesla. So these are our c
 our sensing, and we're looking at all -- I'm only showing the main camera, but all the
 cameras are turned on, the eight cameras of the autopilot. And if you just have this
 six second clip, what you can do is you can stitch up this environment in 3D using
-multiview stereo techniques. So this is supposed to be a video. Is not a video?I know it's -- here we go. So this is the 3D reconstruction of those six seconds of that
+multiview stereo techniques. So this is supposed to be a video. Is not a video?
+I know it's -- here we go. So this is the 3D reconstruction of those six seconds of that
 car driving through that path. And you can see that this information is purely -- is very
 well recoverable from just videos, and roughly that's through process of
 triangulation and as I mentioned multiview stereo, and we've applied similar
@@ -1034,7 +1060,8 @@ video. And the only way to be consistent is to be right as the neural network
 automatically predicts the correct depths for all the pixels and we reproduce some
 of these results internally. So this also works quite well.
 So in summary people drive with vision only no, no lasers are involved. This seems to
-work quite well. The point that I'd like to make is, that visual recognition and veryQ - Unidentified Participantpowerful visual recognition is absolutely necessary for Autonomy. It's not nice to
+work quite well. The point that I'd like to make is, that visual recognition and very
+Q - Unidentified Participantpowerful visual recognition is absolutely necessary for Autonomy. It's not nice to
 have, like we must have neural networks that actually really understand the
 environment around you, and LIDAR points are much less information rich
 environment. So vision really understands the full details just a few points around are
@@ -1075,7 +1102,8 @@ is why we're going to do extremely well. Thank you.
 It's all super impressive. Thank you so much. How much data -- how many pictures
 are you collecting on average from each car per period of time? And then it sounds
 like the new hardware with the dual-dual active-active computers gives you some
-really interesting opportunities to run in full simulation, one copy of the neural netA - Pete Bannon
+really interesting opportunities to run in full simulation, one copy of the neural net
+A - Pete Bannon
 A - Unidentified Speaker
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -1115,7 +1143,8 @@ Yeah. So one thing I will point out is I spoke about the data engine as iteratin
 neural networks. But we do the exact same thing on level of software and all the
 hyper parameters that go in to the choices of when we actually might change, how
 aggressive we are? We're always changing those, potentially run them in shadow
-mode and seeing how well they work. And so to tune our heuristics around when it'sQ - Unidentified Participant
+mode and seeing how well they work. And so to tune our heuristics around when it's
+Q - Unidentified Participant
 A - Elon R. Musk
 A - Pete Bannon
 A - Andrej Karpathy
@@ -1153,6 +1182,7 @@ movie.
 (Multiple Speakers) this is a game of chicken that's going on.
 (Multiple Speakers) And it will go after more aggressive options over time that how
 the user is specified. (Multiple Speakers) Yes (inaudible). Exactly.
+
 A - Unidentified Speaker
 Q - Jed Dorsheimer
 A - Unidentified Speaker
@@ -1191,7 +1221,8 @@ LIDAR is lame -- LIDAR is lame.
 Isn't there like a case where at some point 99999 down the road, where actually
 LIDAR may be helpful and why not have it as some sort of a redundancy or backup?
 So that's my first question. And the second -- so you can still have your focus on
-computer vision but just have it as a redundant. And my second question is, if that isA - Unidentified Speaker
+computer vision but just have it as a redundant. And my second question is, if that is
+A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participanttrue, what happens to the rest of the industry that's building their autonomy
@@ -1230,7 +1261,8 @@ on the car.
 So, it's -- based on that question, it sounds like you guys are in a really good position
 to have currently half a million cars in the future potentially millions of cars that are
 essentially computers representing free -- almost free data centers for you to do
-computational, is that a huge future opportunity for Tesla?A - Unidentified Speaker
+computational, is that a huge future opportunity for Tesla?
+A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participant
@@ -1265,7 +1297,8 @@ all?
 So, actually, like today, actually autopilot will do a decent job in snow even when lane
 markings are covered, even when lane markings are faded, covered or when there's
 lots of rain on them, we still seem to drive relatively well. We didn't specifically go
-after snow yet with our data engine, but I actually think this is completely tractableA - Unidentified Speaker
+after snow yet with our data engine, but I actually think this is completely tractable
+A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speakerbecause a lot of those images are -- even when things are snowy, when you ask a
 human annotator, where are the lane lines, they actually could tell you. They actually
@@ -1305,7 +1338,8 @@ because several of your competitors in the space over the past few years have ma
 planning capabilities that are kind of on the car platform with high definition maps of
 the areas that they are driving. Does that play a role in your system? Do you see it
 adding any value? Are there areas where you would like to get more data that is not
-collected from the ﬂeet but is more kind of mapping style data?Q - Unidentified Participant
+collected from the ﬂeet but is more kind of mapping style data?
+Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified SpeakerI think the high precision -- the high type -- high precision GPS maps and lanes are a
@@ -1344,7 +1378,8 @@ imitating humans, humans already like follow the car ahead and so that neural
 network actually incorporates those patterns internally. It's just it figures out that
 there's a correlation between the way the car ahead of you faces and the path that
 you are going to take. But that's all done internally in the net. So you're just
-concerned with getting enough data and the tricky data and the neural networkQ - Unidentified Participant
+concerned with getting enough data and the tricky data and the neural network
+Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Unidentified Participanttraining process, actually, it's quite magical, does all the other stuff automatically.
 And so you turn all the different problems into just one problem, just collect your
@@ -1386,7 +1421,8 @@ scenario which is I was on the right hand lane again, but my right hand lane was
 merging with the left lane and it wasn't a on-ramp it's just a normal highway --
 freeway lane. And my Model 3 wasn't able to detect really that situation and I wasn't
 able to slow down or speed up and I had to intervene, kind of. So can you -- from
-your perspective kind of share -- kind of the background on how a neural net would -A - Unidentified Speaker
+your perspective kind of share -- kind of the background on how a neural net would -
+A - Unidentified Speaker
 Q - Unidentified Participant
 A - Unidentified Speaker
 A - Stuart Bowers- how Tesla might adjust for that? And how that could be improved over the -- over
@@ -1426,7 +1462,8 @@ aspects of the business from how we rank the News Feed to how we deliver search
 results to how we make every recommendation across the platform. And that
 became the applied machine learning group, that is something I was incredibly
 proud of and a lot of that wasn't just the core algorithms and the really important
-improvements that happened there those that matters, a lot of actually theengineering practices to build these systems at scale and the same thing is true it's
+improvements that happened there those that matters, a lot of actually the
+engineering practices to build these systems at scale and the same thing is true it's
 Snap where I went where we were really, really excited to sort of actually help to
 monetize this product.
 But the hardest part is we were using Google at the time and they were effectively
@@ -1469,7 +1506,8 @@ the world around us. And this is actually not like an artist rendering of me sin
 actually the output of one of the debugging tools that we use on a team everyday to
 understand what the world looks like around us.
 So another thing I think is really exciting to me I think when I do hear about sensors
-like LIDAR, a common question is around just having extra sensor modalities like whynot have some redundancy in the vehicle and I want to dig in on one thing that's not
+like LIDAR, a common question is around just having extra sensor modalities like why
+not have some redundancy in the vehicle and I want to dig in on one thing that's not
 -- it's not always obvious with neural networks themselves. So we have a neural
 network running on our say wide fisheye camera, that neural network is not making
 one prediction about the world. It's making many separate predictions some of
@@ -1514,7 +1552,8 @@ way in the real world and you watch their interventions and we talk about it lik
 somebody takes over we can actually get that clip, try to understand what happens.
 And one thing we can really do is we can actually play this back again in an open
 loop way and ask. As we build our software, are we getting closer or farther from
-how humans behave in the real world. And one thing which is super cool with the fullA - Elon R. Musk
+how humans behave in the real world. And one thing which is super cool with the full
+A - Elon R. Musk
 A - Stuart Bowersself-driving computers we're actually building our own racks and infrastructure to
 basically compete for a full self-driving computers fully wrapped up build these into
 our own cluster and actually run this very sophisticated data infrastructure to actually
@@ -1556,7 +1595,8 @@ To the best of my knowledge, all those lane changes have occurred with zero
 accidents.
 
 That is correct.
-Yes I watch every single accidents.A - Elon R. Musk
+Yes I watch every single accidents.
+A - Elon R. Musk
 A - Stuart Bowers
 A - Elon R. Musk
 So it's conservative obviously. But it's hundreds of thousands going to millions of
@@ -1596,7 +1636,8 @@ Then (inaudible) the more affordable car with the Model S, we did that, again, w
 were told that's impossible. I was called a fraud and a liar and it was not going to
 happen, it is all untrue. Okay. Famous last words now is we're in production with the
 Model S in 2012, exceeded all expectations. There is still in 2019 no car that can
-compete with Model S of 2012.It's seven years later, still waiting as it would build a affordable car very highly
+compete with Model S of 2012.
+It's seven years later, still waiting as it would build a affordable car very highly
 affordable, as an affordable, more affordable with the Model 3. We bought the
 Model 3. We're in production. I said we'd get over 5000 cars of Model 3, at this
 point 5000 cars a week is a walk in the park for us. It's not even hard. So we do large
@@ -1639,7 +1680,8 @@ that summon your car or add at -- summon a Tesla or add your -- add or subtract
 your car to the ﬂeet, you'll be able to do that from your phone. So we see the
 potential for smoothing out the demand just pushing curve and having a car operate
 at a much higher utility than an old car operator, so like typically the use of a car is
-about 10 hours to 12 hours a week. So most people will drive 1.5 hours to 2 hours aday, typically 10 hours to 12 hours a week of total driving. But if you have a car that
+about 10 hours to 12 hours a week. So most people will drive 1.5 hours to 2 hours a
+day, typically 10 hours to 12 hours a week of total driving. But if you have a car that
 can operate autonomously, then most likely you could probably -- most likely you
 could have that car operate for a third of the week or longer. So there are 168 hours
 in a week. So probably you've got something on the order of 55 hours to 60 hours a
@@ -1682,7 +1724,8 @@ car in the US is taken from AAA. So it's currently about $0.62 a mile. It doesn'
 taken from the AAA website.
 The cost of ridesharing is according to Uber and Lyft is $2 to $3 a mile. The cost to
 run a Robotaxi, we think less than $0.18 a mile, and dropping. Like this is -- this would
-be current cost, future cost will be lower. If you say, what would be the probableQ - Unidentified Participant
+be current cost, future cost will be lower. If you say, what would be the probable
+Q - Unidentified Participant
 A - Unidentified Speaker
 Q - Analyst
 A - Elon R. Muskgross profit from a single Robotaxi. We think probably something on order of
@@ -1720,7 +1763,8 @@ pricing strategy?
 Sure. We would expect the -- solving for the snake charger, it's pretty straightforward
 from a vision standpoint. It's like a known situation. Any kind of known situation with
 vision is like a charge port is trivial. So yes, the cars would just automatically park and
-automatically plug in. There would be no one -- no human supervision required. Yes,Q - Colin Rusch
+automatically plug in. There would be no one -- no human supervision required. Yes,
+Q - Colin Rusch
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Muskso that was a pricing. We just threw some numbers on there. I mean I think definitely
@@ -1761,7 +1805,8 @@ Other question, if I'm Uber, why wouldn't I just buy all your cars? Why would I 
 put me out of business?
 
 There's a clause that we put into our cars. I think it was about three or four years ago.
-They can only be used in the Tesla network.Q - Unidentified Participant
+They can only be used in the Tesla network.
+Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
@@ -1796,7 +1841,8 @@ might not even be in the driver seat. So is the hardware already there for it to
 Robotaxi and it might get into situations such as a cop pulling it over where some
 human might need to intervene. Like using central ﬂeet of operators that remotely
 sort of interact with humans or I mean is all of that type of infrastructure already built
-in to each of the cars? Does that make sense?A - Elon R. Musk
+in to each of the cars? Does that make sense?
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Pete Bannon
 Q - Unidentified Participant
@@ -1834,6 +1880,7 @@ there might not be a driver option. Is that how you see it as well or like...
 In the future, there won't -- in future will -- the probability of the steering wheel being
 taken away in the future is 100%. Consumers will demand it.
 But initially you would...
+
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -1871,7 +1918,8 @@ count that, because you either need HD maps in which case if anything changes
 about the environment, the car will break down or you don't need HD maps in which
 case why you're wasting your time doing HD maps. So the HD maps thing like the
 two main crutches that are -- that should not be used and won't -- in retrospect,
-retrospect the obviously false and foolish are LIDAR and HD maps. Mark my words.Q - Unidentified Participant
+retrospect the obviously false and foolish are LIDAR and HD maps. Mark my words.
+Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
@@ -1907,7 +1955,8 @@ with our stationary storage, stationary storage solutions like power pack, we ar
 ready to play power pack with 4,000 cycle life capability.
 Can I ask a...
 
-Sorry.Q - Unidentified Participant
+Sorry.
+Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
@@ -1944,7 +1993,8 @@ crazy to buy any other car than Tesla. We need to make that
 Perfect. Thanks for bringing the future to present very informational time today. I was
 wondering like you did not talk much about Tesla pickup and let me give a context
 for that. I could be wrong but the way I'm looking at Tesla network, it will as a early
-adopter and something as a test bread, I think Tesla's pick up maybe the first phaseA - Elon R. Musk
+adopter and something as a test bread, I think Tesla's pick up maybe the first phase
+A - Elon R. Musk
 Q - Colin Langan
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -1984,7 +2034,8 @@ I just wanted just to -- some of the work we've done trying to better understand
 ride hail market. It looks like it's very concentrated in major dense urban centers. So
 is the way to think about this that the robo taxis would probably deploy more into
 that area, and the additional full self driving for personally own vehicles would be in
-these suburban areas?A - Elon R. Musk
+these suburban areas?
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -2022,7 +2073,8 @@ And maybe over here. Just going back to the sensor suite discussion on the -- on
 area I'd like to talk about is a lack of side radars in a situation where you have an
 intersection with a stop sign where there's maybe a 35 mile or 40 mile per hour
 cross traﬃc. Are you comfortable with the sensor suite the side cameras being able
-to handle that? Just maybe talk about that?A - Elon R. Musk
+to handle that? Just maybe talk about that?
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -2064,7 +2116,8 @@ That's basically -- our stationary battery business has been just kind of beatin
 scraps for quite a while. But like -- everything like the production is being, there are
 many, many constraints of a massive production system. It's like the degree to which
 manufacturing a supply chain is underappreciated is amazing. There are a whole
-series of constraints. And what is the constraint in one week, may not be theQ - Adam Jonas
+series of constraints. And what is the constraint in one week, may not be the
+Q - Adam Jonas
 A - Elon R. Musk
 Q - Adam Jonas
 A - Elon R. Musk
@@ -2105,7 +2158,8 @@ about?
 
 Yes. (Multiple Speakers) Something like that, yeah.
 And then just in terms of financing of it, there's a question earlier you mentioned you
-would do it. Is it cash ﬂow neutral to the robo-taxi program? Or cash ﬂow neutral toA - Elon R. Musk
+would do it. Is it cash ﬂow neutral to the robo-taxi program? Or cash ﬂow neutral to
+A - Elon R. Musk
 Q - Unidentified Participant
 A - Elon R. Musk
 Q - Unidentified Participant
@@ -2138,7 +2192,8 @@ To produce. Okay thanks.
 Maximize the number of autonomous units made.
 Thank you.
 
-I guess, maybe one last question.A - Elon R. Musk
+I guess, maybe one last question.
+A - Elon R. Musk
 A - Pete BannonHi, if I add my Tesla to the robo-taxi network, who is liable for an accident? Is it Tesla
 or is it me? If the vehicle has an accident and harms somebody.
 

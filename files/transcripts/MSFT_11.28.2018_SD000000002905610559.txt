@@ -1,5 +1,6 @@
 Good morning. Welcome. I'm John Thompson, Chairman of the Board at Microsoft.
-For those of you who are here with us at the Meydenbauer Center in Bellevue as wellas those of you viewing online, we welcome all of you to our Annual Shareholder
+For those of you who are here with us at the Meydenbauer Center in Bellevue as well
+as those of you viewing online, we welcome all of you to our Annual Shareholder
 Meeting. We're streaming live from our Investor Relations website. We strive to make
 the meeting as inclusive as possible by offering our shareholders the opportunity to
 participate and vote via the virtual shareholder meeting. I'd like to share with you the
@@ -37,7 +38,8 @@ and skills to provide guidance and oversight to help Microsoft effectively manag
 risk and realize its strategic opportunities in a dynamically transforming world.
 To better understand the Board's unique skills and perspective, I encourage all of
 you to view our directors video series. The series can be viewed on our corporate
-governance website.Carolyn FrantzNow I'd like to introduce the nominees for the Board of Directors who are here with
+governance website.
+Carolyn FrantzNow I'd like to introduce the nominees for the Board of Directors who are here with
 us today: first of all, our cofounder, Bill Gates; next, Reid Hoffman, our Technical
 Advisor to the CEO; Hugh Johnston is a member of our Audit Committee; Teri List-
 Stoll is a member of our Audit Committee and the Governance and Nominating
@@ -76,7 +78,8 @@ The first item is the election of directors. The following 14 people have been p
 nominated by the Board: William H. Gates III; Reid Hoffman; Hugh Johnston; Teri
 List-Stoll; Satya Nadella; Charles Noski; Dr. Helmut Panke; Sandra Peterson; Penny
 Pritzker; Charles Scharf; Arne Sorenson; John Stanton; John Thompson; and Padma
-Warrior. The Board recommends a vote for each of them.Amy E. HoodThe second item is an advisory vote to approve executive compensation as
+Warrior. The Board recommends a vote for each of them.
+Amy E. HoodThe second item is an advisory vote to approve executive compensation as
 disclosed in the company's proxy statement. The Board recommends a vote for this
 proposal.
 Last, the third item, we ask that you ratify selection of the company's independent
@@ -112,7 +115,8 @@ acquisitions in addition to GitHub, the largest platform for the developer commu
 We acquired Avere, a leading provider of high-performance storage for cloud,
 hybrid and on-premises environments, giving customers from all industries the
 ﬂexibility to process and store data wherever necessary for large-scale compute
-workloads.In gaming, we purchased PlayFab, a complete backend platform for mobile, PC and
+workloads.
+In gaming, we purchased PlayFab, a complete backend platform for mobile, PC and
 console game developers to build, scale and launch cloud-connected games.
 And we've announced the addition of 7 new studios since the beginning of fiscal '18
 to bolster our first-party content and fast-growing gaming services.
@@ -144,7 +148,8 @@ From a technology and licensing perspective, we're truly delivering differentiat
 value and giving our customers the ﬂexibility they need to transform at their own
 pace.
 Now let's turn to progress across our Microsoft 365 offering. We continue to see
-healthy commercial and consumer demand for Windows 10, increasing our base ofSatya Nadellaactive Windows 10 devices and contributing to growth in our search business. Our
+healthy commercial and consumer demand for Windows 10, increasing our base of
+Satya Nadellaactive Windows 10 devices and contributing to growth in our search business. Our
 Oﬃce business saw double-digit revenue growth, as we reached even more
 commercial and consumer users by helping people across all of our customer
 segments be more productive and collaborative.
@@ -180,7 +185,8 @@ opportunity that lays ahead.
 We're living in a very crucial time in history, where the impact of digital technology
 on every part of our daily life and work and every aspect of our society and economy
 is even more acute. It's therefore incumbent on us as industry leaders to ensure that
-the technology we build always creates more opportunity. Too often, we celebratetechnology disruption without reﬂecting on the unintended consequences. What the
+the technology we build always creates more opportunity. Too often, we celebrate
+technology disruption without reﬂecting on the unintended consequences. What the
 world needs is technology that benefits people in society more broadly and where
 trust is earned each day.
 At Microsoft, we are guided by our mission to empower every person and every
@@ -217,7 +223,8 @@ We're building Azure as the world's computer, innovating with new capabilities
 focused on both existing workloads like security and new workloads like IoT and
 Edge AI. We expanded our global data center footprint to 54 regions, more than any
 other cloud provider and with the most comprehensive compliance coverage in the
-industry.Azure is the only hyperscale cloud with a consistent computing stack that extends
+industry.
+Azure is the only hyperscale cloud with a consistent computing stack that extends
 from the data center to the edge, where there's consistency in identity, data,
 application platform and security and management.
 All this rich infrastructure will be used to build AI, which will be the defining
@@ -255,7 +262,8 @@ Finally, we added 7 new gaming studios to bolster the first-party content for ou
 growing gaming services like Game Pass subscription service as well as Mixer.
 In closing though, I want to really reﬂect on the optimism I have for the opportunity
 ahead. With this opportunity comes even the deep responsibility. It's why we are
-focused on instilling trust in technology across everything we do. We believe privacyUnidentified Speakeris a fundamental human right. That's why compliance is deeply embedded in all of
+focused on instilling trust in technology across everything we do. We believe privacy
+Unidentified Speakeris a fundamental human right. That's why compliance is deeply embedded in all of
 our processes and practices. We are working to ensure that our enterprise class
 security innovation not only helps our largest multinational customers. But also
 protects small businesses and individual consumers, who are often the most
@@ -291,7 +299,8 @@ devices. We're building a service that's consistent with the speed and high fide
 that gamers expect on their PCs and their consoles.
 This morning, we want to show you an amazing example of a product born from a
 need and a passion. So to help me with this, I'd like to invite on stage Solomon
-Romney, who is going to tell us more about the Xbox Adaptive Controller. Solomon?Solomon Romney
+Romney, who is going to tell us more about the Xbox Adaptive Controller. Solomon?
+Solomon Romney
 Unidentified Speaker
 Solomon Romney
 Unidentified Speaker
@@ -321,7 +330,8 @@ is my little PDP One-Handed Controller here, I plug it in. And away we go. So wh
 I've got figured here is what I like to call my 3-finger Forza setup. I'll have gas, brake
 and steering right here on my one-handed lightweight controller. So when you are
 ready...
-I'm ready. Let's go.Solomon Romney
+I'm ready. Let's go.
+Solomon Romney
 Unidentified Speaker
 Solomon Romney
 Unidentified Speaker
@@ -342,7 +352,8 @@ camera.
 All right. We will try this later. And we'll see who wins. But...
 Hopefully when the cameras are off.
 That's right.
-That way you can win.Unidentified Speaker
+That way you can win.
+Unidentified Speaker
 Solomon Romney
 Unidentified SpeakerSo up to this point, if someone needed to build a controller around their mobility,
 they had to hack apart our hardware, prototype, solder, assemble, build a whole new
@@ -379,7 +390,8 @@ So Outlook brings together your e-mail, calendar, contacts and files to help you
 stuff done, even on the smallest of screens. As you can see here, at the top, Outlook
 intelligently separates my mail into 2 tabs, focused and other. These mails on the
 other tab aren't necessarily junk, they're just less important than those in my focused
-inbox. Outlook is using AI to (where) what's most important to me and prioritizes thee-mail based on importance. We all use e-mail differently. But for me, I spend those
+inbox. Outlook is using AI to (where) what's most important to me and prioritizes the
+e-mail based on importance. We all use e-mail differently. But for me, I spend those
 precious moments I have between meetings prioritizing my e-mail. And Outlook
 makes this incredibly easy. You simply swipe to take an action on a message and
 Outlook will let you customize the action to match how you work. I have mine set up
@@ -417,7 +429,8 @@ them is the same as what you're already used to doing. Just search for it on Bin
 Bing search in every mobile browser for Chris Capossela, who is the CMO and my
 boss, gives me key information about him at a glance. Because I am signed into Bing
 with my Microsoft 365 credentials, I can see internal company information as well as
-Bing public search results, like his LinkedIn page and his Wikipedia entry.In addition, I can see his oﬃce location, files he's shared publicly, where he sits in the
+Bing public search results, like his LinkedIn page and his Wikipedia entry.
+In addition, I can see his oﬃce location, files he's shared publicly, where he sits in the
 org chart and even groups he's a part of. All of this from a single search in Bing and
 a browser on my phone. But of course, it's also available on PC.
 As you know, we're in the middle of the holiday season. And I'd love to take some
@@ -459,7 +472,8 @@ Phone is available on the Windows 10 and Android phone app stores today. So this
 gives you a sense for how I use Microsoft 365 each and every day. But so much of
 the work we do is about empowering others. So I'd like to invite on stage Jessica
 Rafuse from our Accessibility Team to show us some of the amazing work we've
-done to make presentations more inclusive. Jessica?Jessica Rafuse
+done to make presentations more inclusive. Jessica?
+Jessica Rafuse
 Unidentified Speaker
 Jessica Rafuse
 Unidentified Speaker
@@ -491,7 +505,8 @@ transformed into a beautiful timeline, again, very quickly.
 This one looks good.
 That would've taken me forever.
 I know. These inclusive tips are really good for everyone. So our slideshow is almost
-ready to go. But before we want to ship it, I want to make sure that the entireUnidentified Speaker
+ready to go. But before we want to ship it, I want to make sure that the entire
+Unidentified Speaker
 Sohana Punithakumar
 Unidentified Speakerpresentation is accessible to everyone by using the accessibility checker. In the
 review tab, right near spell check, you'll find the accessibility checker. This will not
@@ -523,7 +538,8 @@ experience that we hope will make every conference call and meeting more
 engaging than ever before. To show us, please welcome on stage Sohana
 Punithakumar. Sohana?
 Thanks, (Jamal).
-You're welcome.Sohana Punithakumar
+You're welcome.
+Sohana Punithakumar
 Unidentified Speaker
 Sohana Punithakumar
 Unidentified Speaker
@@ -550,7 +566,8 @@ Yay! Awesome. Thanks, (Daniella). I'm so glad we were able to meet here.
 I'll talk to you later.
 Okay. Let's take a moment to just recap what we saw. First, I was talking to a
 hologram, which means my colleague (Daniella) could have been anywhere in the
-world. But it felt like she was right here. Second, I was able to bring in a 3D model ofA - Michael Spencer
+world. But it felt like she was right here. Second, I was able to bring in a 3D model of
+A - Michael Spencer
 Q - John Osbornthe hardware that we wanted to discuss and Daniella , who was remote, could
 interact with it too. What we saw really just scratches the surface of what's possible
 with HoloLens and Mixed Reality. We think it could reshape the way people around
@@ -589,7 +606,8 @@ benefited, as many others have, those who have paid the price have included trib
 and First Nations. I'm here with a request. And that is that -- and I also asked this of
 Jeff Bezos at the Amazon Shareholder Meeting earlier this year that leadership here
 meet with the leadership of tribes and First Nations. It really is a crucial time. The
-Columbia River was once the world's richest salmon fishery. The dams have changedA - Satya Nadella
+Columbia River was once the world's richest salmon fishery. The dams have changed
+A - Satya Nadella
 A - Bradford L. Smith
 A - Michael Spencer
 Q - Unidentified Participant
@@ -632,6 +650,7 @@ Okay. Thank you for the question. Let's go to mic 3, please.
 (William Nyberg), shareholder. With Azure becoming the world's computer, what will
 be your strategy to navigate through the immense political differences, including
 tariffs?
+
 A - Bradford L. Smith
 A - Satya Nadella
 Q - Jesse L. JacksonI mean, overall, the goal we have is to ensure that the computing resource, which is I
@@ -678,7 +697,8 @@ there's an opportunity deficit. I've said before, inclusion leads to growth. Whe
 there's growth, everybody wins. The 100 largest cities, a majority of black and brown.
 2/3 of our neighbors in this hemisphere speaks Spanish. We cannot speak to each
 other in the hemisphere. And we make enemies of our allies and our natural friends.
-Over 100 million blacks and Latinos live in these -- the 100 cities. They must beA - Michael Spencer
+Over 100 million blacks and Latinos live in these -- the 100 cities. They must be
+A - Michael Spencer
 A - Satya Nadellaaddressed. And we want to copartner with you in such a process. We must close
 ranks as never before. How can Microsoft deepen and expand its efforts to
 accelerate African American and Latinos represented at the company, vertically and
@@ -724,7 +744,8 @@ that we are also working on is inclusion. Because if you get diversity in, one o
 main things that's going to keep them at Microsoft is their ability to find that sense of
 inclusion and belonging inside the Microsoft community. So we are working that
 every day. That means everyone at Microsoft needs to be trained and mindful and
-practice the inclusive behaviors. And so that's really what we are doing. But it's sortA - Amy E. Hood
+practice the inclusive behaviors. And so that's really what we are doing. But it's sort
+A - Amy E. Hood
 A - Bradford L. Smithof a very important initiative and an important priority for all of us. So maybe on the
 financial inclusion pieces, do you want to talk a little on that?
 
@@ -771,7 +792,8 @@ rights with our services. In the United States, a country that's only 3/5 the po
 of the EU, almost 3 million Americans have used their privacy rights. And I think that
 more than anything shows that this is an issue of interest to the American public. And
 we will continue to take new steps. And we are committed to continuing to be an
-industry leader when it comes to the protection of people's privacy.Q - Jesse L. Jackson
+industry leader when it comes to the protection of people's privacy.
+Q - Jesse L. Jackson
 A - Michael Spencer
 Q - Unidentified Participant
 A - Satya Nadella
@@ -812,7 +834,8 @@ societal need, to start as a nation. Are we really doing everything we can to re
 to the next generation during a critical period in self-development, to teach,
 motivate and develop the next generation to really understand career development.
 I can't think of a better platform than LinkedIn to help solve society's long-term labor
-problem.A - Satya Nadella
+problem.
+A - Satya Nadella
 Q - Ken Copley
 A - Michael Spencer
 Q - Unidentified Participant
@@ -856,7 +879,8 @@ communications is a super important element but so is text messaging and as well
 as this ability to collaborate and communicate in situ with the communications. And
 so that's kind of where we're going. Skype's an important asset. It's something that
 we have now improved the quality of the back end. So that people using mobile
-phones predominantly are also able to be good Skype users. Desktop to SkypeA - Michael Spencer
+phones predominantly are also able to be good Skype users. Desktop to Skype
+A - Michael Spencer
 Q - Doug Kilgore
 A - Satya Nadella
 A - Bradford L. Smith
@@ -897,6 +921,7 @@ Great. Thank you. Let's go back to mic 4.
 My name is (Bart). And first I'd like to compliment the early founders of Microsoft,
 how prophetic they were in building buildings 1 through 10 that it sort of looks like
 Xbox.
+
 Q - Unidentified Participant
 A - Bradford L. Smith
 Q - Unidentified Participant
@@ -940,7 +965,8 @@ Microsoft. And then you would spread out.
 You never know.
 
 Thank you for your question. So we actually have time for only one more question.
-And we have Investor Relations folks in the back of the room for those that we don'tQ - Tyler Eckel
+And we have Investor Relations folks in the back of the room for those that we don't
+Q - Tyler Eckel
 A - Satya Nadella
 A - Michael Spencer
 A - Satya Nadella

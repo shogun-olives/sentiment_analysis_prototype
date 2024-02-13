@@ -23,7 +23,8 @@ excited about how we can kind of drive our customer success forward going in the
 future.
 Questions And Answers
 
-(Question And Answer)A - Scott Guthrie
+(Question And Answer)
+A - Scott Guthrie
 Q - Brent Thill
 A - Scott GuthrieAnd you have the unique advantage point on clouds and trends 18 months ago.
 Satya said we saw three years worth of digital transformation in two months. How is
@@ -67,6 +68,7 @@ help with that, it's hopefully a good time also from our business perspective.
 When you think of this decentralization theme and the kind of -- the question is
 around, your views of the importance of Edge Computing and how you see playing
 a vital role on this going forward?
+
 Well, I think, one of the trends that's happening, I mentioned a couple of them like
 on the general retail or supply chain management, where those are key things
 during COVID where organizations are trying to kind of reinvent how they do things.
@@ -110,7 +112,8 @@ going there. But over time, we're going to see it in coffee machines.
 We're working with folks like Starbucks on, how does the Barista even out with an IoT
 chip in Starbucks coffee grinder and coffee machine so that Starbucks can ﬂow down
 new recipes and new tunings into each other coffee shops. That's another example
-of kind of an IoT workload that's fairly modern, fairly new and we're going to see itQ - Brent Thill
+of kind of an IoT workload that's fairly modern, fairly new and we're going to see it
+Q - Brent Thill
 A - Scott Guthriecertainly in healthcare and a big part of the acquisition we announced earlier this
 year with Nuance is around, how do we even enable AI and enable that data with
 Edge Computing to occur in a doctor's oﬃce so that you have a better patient-
@@ -156,7 +159,8 @@ very, very fast. I think -- and so, you're going to continue to see us investing
 and I think increasingly it's going to be around even take for example, I know there's
 a lot of financial analyst watching this conference today. Thinking about compliance
 inside your organization, how do you identify insider risk? How do you identify
-potentially behavior of insider trading or things like that? Historically, those are veryQ - Brent Thill
+potentially behavior of insider trading or things like that? Historically, those are very
+Q - Brent Thill
 A - Scott Guthriebespoke services. There's an awful lot of humans looking at data manually to try to
 detect that.
 With our new compliance tools in oﬃce, we help make that a lot easier and we can
@@ -199,7 +203,8 @@ them to run in a mode where they're going to be doing both for a long time? And 
 think, it probably would have been less (inaudible) we're not going to enable cloud
 and try to keep everyone on prem. You know that 10 years ago we could have done
 that, but we sort of said, no, we think the world is moving to cloud, it's moving to a
-more decentralized computing model.Q - Brent Thill
+more decentralized computing model.
+Q - Brent Thill
 A - Scott GuthrieLet's not fight that. Instead, let's really invest in, how do we make sure our on-prem
 products are really easily moved to cloud and what's some of the unique things that
 we can do with Azure or with Oﬃce 365 or Power Platform or the Dynamics Platform
@@ -245,7 +250,8 @@ services to a lot of Telcos that specifically help them run their core networks,
 a space that Microsoft historically does not have a lot of experience. And they
 brought a tremendous amount of knowledge in and helped us or helping us build
 these set of capabilities directly into Azure that we think are barely differentiated. I
-think the AT&T announcement is tremendous endorsement, not just because AT&T isQ - Brent Thill
+think the AT&T announcement is tremendous endorsement, not just because AT&T is
+Q - Brent Thill
 A - Scott Guthrie
 Q - Brent Thill
 A - Scott Guthrieone of the largest operators in the world, but they're also seen by other operators as
@@ -290,6 +296,7 @@ talked a lot about it and the next generation of the internet. And I guess you l
 your enterprise opportunity and the consumer opportunity here is pretty incredible. I
 guess, when you framed the metaverse opportunity and what you're doing, is there -
 - can you just give us a high level quick overview of what you've seen so far?
+
 Q - Brent Thill
 A - Scott Guthrie
 Q - Brent ThillYeah, I mean I think with all these things with AR and VR, we're just at the cusp. And

@@ -6,7 +6,8 @@ Philippe Ockenden, Chief Financial Oﬃcer of the Windows, Devices and Search
 businesses.
 On our investor relation's website is a slide deck which is intended to follow today's
 presentation.
-Following the call you can also replay this webcast and view the transcript.Amy HoodDuring this call we will make forward-looking statements which are predictions,
+Following the call you can also replay this webcast and view the transcript.
+Amy HoodDuring this call we will make forward-looking statements which are predictions,
 projections or other statements about future events.
 These statements are based on current expectations and assumptions that are
 subject to risks and uncertainties.
@@ -39,7 +40,8 @@ As an example, through our joint R&D, we are combining a new next generation
 OpenAI model that is more powerful than ChatGPT with Bing's real-time information
 to create a proprietary collection of capabilities that will power the new Bing and the
 new Edge. Through our new commercial agreement, we will benefit from each
-other's successes.Philippe OckendenBefore I move on to the business opportunity, I want to address our ongoing
+other's successes.
+Philippe OckendenBefore I move on to the business opportunity, I want to address our ongoing
 commitment to responsible AI. In addition to our comments this morning during the
 webcast last week, Brad Smith published a blog on responsible AI that I urge each of
 you to read. We are committed to the advancement of AI driven by ethical principles
@@ -73,7 +75,8 @@ we have a world-class browser with Edge, which is taking share for 7 consecutive
 quarters.
 Our search and news advertising revenue ex-TAC has grown double digits over the
 past 8 quarters faster than the market, and we have done that profitably and with
-growing margins. With that strong foundation, we are well positioned to transformthe search and browser experience with AI technology, and Windows is the best
+growing margins. With that strong foundation, we are well positioned to transform
+the search and browser experience with AI technology, and Windows is the best
 place to use it.
 We have more than 1.4 billion monthly active Windows devices and are seeing
 increased engagement that is up 10% versus pre-pandemic. We innovate the users in
@@ -108,7 +111,8 @@ Additionally, the new Bing will have the context into what the user is trying to
 accomplish. Ads will become more personalized, and while the user may see fewer
 ads, they will be of higher value to advertisers.
 While this new experience will be delivered at a higher cost-to-serve, gross margin
-dollars will grow as usage grows. Importantly, we'll bring more experiences to moreAmy Hood
+dollars will grow as usage grows. Importantly, we'll bring more experiences to more
+Amy Hood
 Brett Iversenentry points over time, including mobile, where getting an answer is more helpful
 and eﬃcient, given the smaller screen. Therefore, the volume and rate growth
 opportunities will materialize gradually as the full experiences, rollout and
@@ -141,7 +145,8 @@ With that, let's go to Q&A, Brett.
 
 Thanks, Amy.
 We'll now move over to Q&A. Out of respect for others on the call, we request the
-participants please only ask one question.Operator
+participants please only ask one question.
+Operator
 Q - Keith Weiss
 A - Amy HoodJoe [ph], can you please repeat your instructions?
 Questions And Answers
@@ -177,7 +182,8 @@ the first and most important thing is we're going to see usage growth. We're goi
 to continue to roll this out. We said to millions over the coming weeks. As we see
 usage grow, you'll see revenue growth. And for each of those new users or increased
 usage that's incremental gross margin dollars for us even at the cost-to-serve that
-we're discussing.A - Brett Iversen
+we're discussing.
+A - Brett Iversen
 Operator
 Q - Brent Thill
 A - Amy Hood
@@ -214,7 +220,8 @@ use and you saw on the webcast, but also good for advertisers. But I don't think
 requires ramp time for our advertisers. It's more about rolling it out to users and
 seeing them get engaged.
 
-Thanks, Brent. Joe [ph], next question, please.Q - Mark Murphy
+Thanks, Brent. Joe [ph], next question, please.
+Q - Mark Murphy
 A - Philippe Ockenden
 A - Amy Hood
 A - Brett Iversen
@@ -249,7 +256,8 @@ Joe [ph], next question please.
 The next question comes from the line of Kash Rangan with Goldman Sachs.
 
 Very much impressed with all the sudden burst of innovation that's coming out of
-Microsoft in this arena for a long time. So really happy to see that.A - Amy Hood
+Microsoft in this arena for a long time. So really happy to see that.
+A - Amy Hood
 A - Brett Iversen
 OperatorAmy and team, curious, as you look at generative AI, I think there are at least half a
 dozen projects that are really, really well funded. And sooner or later, some of the
@@ -284,7 +292,8 @@ innovation at all layers of the stack. And I do think users will see a differenc
 
 Thanks, Kash.
 Joe [ph], we have time for one last question.
-The next question will come from the line of Brad Zelnick with Deutsche Bank.Q - Brad Zelnick
+The next question will come from the line of Brad Zelnick with Deutsche Bank.
+Q - Brad Zelnick
 A - Amy Hood
 Congratulations on all the innovation and success. Clearly Microsoft has several
 significant advantages in these large and profitable markets we're talking about
@@ -323,7 +332,8 @@ new releases. We'll talk about adoption, which is the most important thing,
 particularly here. And we'll continue to talk about where we're innovating to make
 sure we can have high utilization of the infrastructure we're putting in place. And I
 think this is something we've been at a while now and certainly over the past few
-years, making investments into this platform.A - Brett Iversen
+years, making investments into this platform.
+A - Brett Iversen
 A - Amy Hood
 OperatorSo thank you, and thanks to everybody for joining us today.
 

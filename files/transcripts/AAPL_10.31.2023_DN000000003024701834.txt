@@ -24,7 +24,8 @@ Media Engine, Macs can do things, no other laptops can do.
 Tonight, we're doing something we haven't done before as we bring our latest
 technologies to a broader set of users more rapidly than ever. We are launching the
 next generation of Apple Silicon for the Mac by debuting three breakthrough chips
-at the same time. Introducing M3, M3 Pro, and M3 Max. They feature a number ofgroundbreaking technologies and show how far Apple Silicon for the Mac has come
+at the same time. Introducing M3, M3 Pro, and M3 Max. They feature a number of
+groundbreaking technologies and show how far Apple Silicon for the Mac has come
 since the debut of the M1 family. To start, they are the first chips for a personal
 computer built using the industry-leading three-nanometer technology. Utilizing
 state-of-the-art extreme ultraviolet lithography, three-nanometer technology creates
@@ -67,7 +68,8 @@ watt.
 Let's look at how far we've come since the M1. This architecture is able to deliver the
 same multi-threaded CPU performance as M1 with just half the power. And the GPU
 is able to deliver the same performance as the M1 using nearly half the power as
-well. These are tremendous gains in performance per watt. Now, when we compareJohn Ternusit against the latest 12-core PC laptop chip, it delivers the same CPU performance
+well. These are tremendous gains in performance per watt. Now, when we compare
+John Ternusit against the latest 12-core PC laptop chip, it delivers the same CPU performance
 using just one-quarter of the power. And when we compare it to the GPU
 performance of that chip, it delivers the same performance using just one-fifth of the
 power. It's incredible. M3, M3 Pro and M3 Max also have a faster and more eﬃcient
@@ -108,7 +110,8 @@ tasks and do their life's best work wherever they are. It's simply the world's b
 laptop. And with the M3 family of chips, it gets even better, making it a monster
 upgrade for anyone still on an Intel-based MacBook Pro. Introducing the new
 MacBook Pro. It raises the bar yet again for what a pro laptop can do. And to tell you
-all about it, here's Kate.Kate Bergeron(Video Presentation)
+all about it, here's Kate.
+Kate Bergeron(Video Presentation)
 
 The new MacBook Pro is scary fast. And with M3, M3 Pro, and M3 Max, there's a
 perfect model for everyone. Let's begin with the 14-inch MacBook Pro. It now starts
@@ -149,7 +152,8 @@ spanning multiple pro apps and plugins, like Substance 3D Painter, Maya, and
 Arnold. Or compose huge film scores with Pro Tools, where entire orchestral libraries
 are instantly available from memory. MacBook Pro with M3 Max can drive four high-
 resolution external displays, providing a vast amount of screen real estate for users
-who need an even larger canvas. And all models of the MacBook Pro deliver thesame phenomenal performance, whether plugged in or on battery, unlike many PC
+who need an even larger canvas. And all models of the MacBook Pro deliver the
+same phenomenal performance, whether plugged in or on battery, unlike many PC
 laptops. To top it off, the new MacBook Pro provides up to an extraordinary 22 hours
 of battery life for the ultimate in Pro portability, whether you're working all day or all
 night. These are the most powerful laptops we've ever created. They're a big
@@ -188,7 +192,8 @@ Monarch: Legacy of Monsters looks awesome, and it's coming to Apple TV+ next
 month. And macOS Sonoma takes full advantage of all the capabilities of Apple
 Silicon with powerful new features for pros, like the new performance mode in
 screen sharing, which enables extremely responsive remote access to another Mac,
-so pros can securely work on their highest quality content from anywhere. AndJohn TernusGame Mode, which prioritizes graphics tasks to deliver consistently high frame rates
+so pros can securely work on their highest quality content from anywhere. And
+John TernusGame Mode, which prioritizes graphics tasks to deliver consistently high frame rates
 and drastically reduces latency with your wireless accessories, so you can enjoy even
 more immersive gameplay in your favorite titles like Baldur's Gate 3. No matter what
 your passions are, in work and in life, there's a MacBook Pro that's perfect for you.
@@ -225,7 +230,8 @@ available later in November. There is nothing quite like the new MacBook Pro. It
 wicked fast, and in Space Black, it just looks awesome. And we're not done. We have
 another big treat for our users.
 We're updating the 24-inch iMac for the first time by giving it the M3 chip. Millions of
-users around the world, from families to business owners, absolutely love the 24-inchTim CookiMac. In fact, it's the world's best-selling all-in-one. Well, tonight, thanks to the
+users around the world, from families to business owners, absolutely love the 24-inch
+Tim CookiMac. In fact, it's the world's best-selling all-in-one. Well, tonight, thanks to the
 eﬃciency of Apple Silicon, we're giving iMac a giant leap in performance while
 keeping the same impossibly thin design and spectrum of seven vibrant colors. With
 M3, iMac is up to two times faster than iMac with M1. And you'll feel its speed and
@@ -265,7 +271,8 @@ Now back to Tim.
 (Video Presentation)
 
 There's never been a better time to experience a Mac. And we're innovating at a
-tremendous pace. We continue to make huge advances in Apple Silicon with theincredible new M3 family of chips, M3, M3 Pro, and M3 Max. They're the most
+tremendous pace. We continue to make huge advances in Apple Silicon with the
+incredible new M3 family of chips, M3, M3 Pro, and M3 Max. They're the most
 advanced chips ever created for a personal computer, taking the best Pro laptops in
 the world and making them even better. And with M3 coming to iMac, the world's
 best all-in-one gets even more powerful and more capable. MacBook Pro and iMac

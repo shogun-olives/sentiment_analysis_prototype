@@ -18,6 +18,7 @@ So I wonder if you could just talk to that? And you made the comments on the
 earnings call that in the last 60 days has all this enthusiasm has built, that you do see
 that transforming into demand for product on the road. Could you just talk about
 what those conversations are like right now?
+
 Q - Joseph Moore
 A - Colette M. KressYeah. So really good way to start, talking about where we ended with our earnings
 release and some of the great statements that we've made. But let me kind of step-
@@ -62,6 +63,7 @@ looking at scaling got out, is it driving new people to develop models from the
 ground-up? Is it generating interest for your own models that you guys were talking
 about? Just in general, how do you take that excitement and enthusiasm, how
 quickly does that turn into CapEx and NVIDIA opportunity...
+
 Q - Joseph Moore
 A - Colette M. KressYeah. It's a really good question in terms of how does that process start. What is
 interesting is all those places that you referred to is exactly what we see, all different
@@ -106,7 +108,8 @@ centers. But the important part is, the world has understood that Moore's Law is
 with us anymore, we will not drive that eﬃciency, you have the overall need for
 sustainability as well. So focusing on accelerated computing is going to be a priority.
 Accelerated computing, that is also demonstrating AI is also another added bonus
-for those that are focusing.Q - Joseph Moore
+for those that are focusing.
+Q - Joseph Moore
 A - Colette M. Kress
 Q - Joseph Moore
 A - Colette M. Kress
@@ -151,7 +154,8 @@ as we see this moving forward. We expect growth as we head into Q1. The quarter
 that we're in right now from a sequential standpoint, we expect strong growth and
 we also expect a little bit of year-over-year growth. So our focus is on accelerating
 that growth rate for the rest of the year and that can be an important piece for H100,
-but can also be for A100 and our other products in there as well.Q - Joseph Moore
+but can also be for A100 and our other products in there as well.
+Q - Joseph Moore
 A - Colette M. Kress
 Q - Joseph Moore
 A - Colette M. Kress
@@ -196,7 +200,8 @@ same platform. The more complexity that you are seeing in inferencing really ste
 from those large language models and those using accelerated computing for
 inferencing as well. So with software, with the utilization of power, with its overall
 accelerated computing, you'll probably see both training and inferencing costs
-come down over time.Q - Joseph Moore
+come down over time.
+Q - Joseph Moore
 A - Colette M. Kress
 Q - Joseph Moore
 A - Colette M. Kress
@@ -239,7 +244,8 @@ So our models -- that we are creating our models, whether it'd be a large langua
 model can be anything from just a footprint for them to start their work on or we can
 actually help in the full design of how they do that? We do that today in terms of
 helping optimize their models for eﬃciencies and we'll continue to do that. The CSPs
-but also may host models, but we still have that opportunity working with many ofQ - Joseph Moore
+but also may host models, but we still have that opportunity working with many of
+Q - Joseph Moore
 A - Colette M. Kress
 Q - Joseph Moore
 A - Colette M. Kress
@@ -280,7 +286,8 @@ They can now have that same capability, but all the needs that they have for AI,
 is work that they need to inﬂuence, how they will incorporate into their applications
 that they use. Our industry applications, our stock actually helps put that all together
 for them. They still in that case, have access to the software, but they also have
-access to the service that we can do as we continue to improve software overtime.Q - Joseph Moore
+access to the service that we can do as we continue to improve software overtime.
+Q - Joseph Moore
 A - Colette M. Kress
 Q - Joseph MooreNow, our software business right now is in the hundreds of millions and we look at
 this as still a growth opportunities we go forward. We've got three different areas
@@ -323,7 +330,8 @@ see a disruptive inﬂuence in cryptocurrency in six of those 10 years and causi
 kind of shortage (inaudible) cycle. if you don't have that going forward, is this just a
 much more steady growth type business that doesn't have that volatility? Or is there
 always going to continue to be somewhat more of a choppy trend, I mean, growth,
-obviously, but a choppier growth trend?A - Colette M. Kress
+obviously, but a choppier growth trend?
+A - Colette M. Kress
 Q - Joseph Moore
 Q - Unidentified Participant
 A - Colette M. Kress
@@ -366,7 +374,8 @@ ramping process of H100. Demand is strong. So there could be times, any week, an
 quarter that we have to be careful in terms of whether or not we're going to be able
 to make that strong demand. So we'll stay focused on it. But yes, demand right now
 is certainly at a important part for us right now and we've got a good process on
-supply, but let's see how it works.Q - Joseph Moore
+supply, but let's see how it works.
+Q - Joseph Moore
 A - Colette M. Kress
 Q - Joseph Moore
 A - Colette M. Kress
@@ -408,7 +417,8 @@ just the infrastructure. There may be a case that we may sell them the full soft
 and they may change in terms of different components or different parts of the data
 center infrastructure. All of these are important in terms of building out our
 ecosystem, building out that platform approach, but nothing that we would turn
-away from, because it all just helps, get AI and accelerated computing out there.Q - Joseph Moore
+away from, because it all just helps, get AI and accelerated computing out there.
+Q - Joseph Moore
 A - Colette M. Kress
 Great. We have a lot of opportunities in front of you. Thank you so much for your
 time today.

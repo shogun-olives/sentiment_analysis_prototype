@@ -19,7 +19,8 @@ We have a lot to talk about. There is always a lot of things going on in the wor
 things going on with Alphabet and it's always good to connect with you. It's -- you're
 approaching your 7-year anniversary at Alphabet in a couple of months from now. I
 wanted to sort of -- I was stuck with this question with you and talk about investment
-and innovation. When you sort of step back at the key priorities at Alphabet forRuth Porat
+and innovation. When you sort of step back at the key priorities at Alphabet for
+Ruth Porat
 Brian Nowak
 Ruth Poratwhere you're most focused on innovating for users, advertisers and the ecosystem,
 where are you most excited for what happens next?
@@ -62,7 +63,8 @@ transactions per customers?
 
 Absolutely. So we did talk about it quite a bit on the Q4 call, it was an important
 contributor to results and when we talk about Retail, we obviously talk about ads as
-well as the broader set of experiences, all that Bill Ready is doing with commerceBrian Nowak
+well as the broader set of experiences, all that Bill Ready is doing with commerce
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Poratand really excited about the effort that he has been leading. And I would say that a
@@ -105,7 +107,8 @@ that growth going?
 
 So, I think there are sort of two parts to your question as I hear it. One is, given you
 cited the year-on-year growth, obviously, as we talked about throughout last year, in
-many respects, that growth reﬂects how challenging 2020 was as much as anything.Brian Nowak
+many respects, that growth reﬂects how challenging 2020 was as much as anything.
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth PoratSo we have the benefit of lapping, we called it out throughout last year and that was
@@ -147,7 +150,8 @@ happen and what did that teach you about sort of what works well? What does not
 work well on YouTube?
 
 Yes. That's important because we talk a lot about the successes as much what you do
-is what you don't do and the whole notion of prioritizing within each of our productBrian Nowak
+is what you don't do and the whole notion of prioritizing within each of our product
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Porat
@@ -189,7 +193,8 @@ Okay. Want to talk about privacy and regulation a little bit, another recurring 
 we cover pretty much every year. Maybe just with all the changes that are going on,
 both changes that Alphabet is making, changes that other platforms are making,
 regulatory headwind changes, etc. Just maybe talk to us philosophically about what
-Alphabet is most focused on in the changes that you've sort of written about in someRuth Porat
+Alphabet is most focused on in the changes that you've sort of written about in some
+Ruth Porat
 Brian Nowak
 Ruth Poratof the blog post and what steps are you taking to minimize the friction for advertisers
 throughout any of these privacy changes you may implement?
@@ -232,7 +237,8 @@ it's really that full breadth and then when we step back and say, okay, how do w
 continue to differentiate. What we do keep hearing is so much public sector private
 sector, it's our data analytics and AI. It is all that we are able to offer in cyber security
 and look forward to extending that even further. It is the strength of what we do
-around cyber security and it's, again, what we're doing with Workspace and theBrian Nowak
+around cyber security and it's, again, what we're doing with Workspace and the
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Poratability to actually help companies and the public sector as they transform network
@@ -275,7 +281,8 @@ are also tremendous advantages to be together, which is why we were early to say
 we think hybrid is the way to go and we continue to believe that. At the highest level
 in your question, yes, we are focused on eﬃciencies. We always will be and you see it
 in some of the comments we make, technical infrastructure or other areas that
-continues to be a key focus. But we're also looking to invest consistent with what weBrian Nowak
+continues to be a key focus. But we're also looking to invest consistent with what we
+Brian Nowak
 Ruth Poratbelieve is important given the opportunities that we see. And you saw that in the
 fourth quarter, in particular head counts that we added 6500 people in the fourth
 quarter and I tried to be very clear that we intend to continue to hire aggressively
@@ -317,7 +324,8 @@ financial view that check-in out of which ﬂows are you executing against the m
 that were pre-ordained by the business leaders and the functional leaders as you go
 throughout the year.
 And so, yes, there is rigor around it. And, yes, it's an important question, because we
-want to make sure we're on boarding great talent, giving people an extraordinaryBrian Nowak
+want to make sure we're on boarding great talent, giving people an extraordinary
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Porat
@@ -357,7 +365,8 @@ And the capital return point, we saw Alphabet buyback $50 billion of stock in 20
 that's about $110 billion since 2018 total. The share count has declined by about 5%
 even through dilution over that period. Yet so clearly, the cash $140 billion of cash
 and marketable securities, we think you're going to generate about $85 billion to
-$100 billion a year going forward. It's a good preamble to just remind us again howRuth Porat
+$100 billion a year going forward. It's a good preamble to just remind us again how
+Ruth Porat
 Brian Nowak
 Ruth Poratyou think philosophically about capital allocation strategy, dividends versus share
 repurchases and how do you arrive at the size of the buybacks?
@@ -399,7 +408,8 @@ useful and helpful to you wherever you may happen to be and so adding Fitbit as 
 example to the family, it's like whether you're with your phone or with a watch or in
 the car, it's this notion of constantly being able to be as responsive as needed. And
 so that's the way we're continuing and the team is continuing to work against the
-program.Brian Nowak
+program.
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Porat
@@ -441,7 +451,8 @@ Digitization Fund and the notion was really to invest in that ecosystem to build
 and it's about confidence and where India actually can go and as you said, with
 Reliance, with Airtel, with Jio Reliance, we've made some investments and are
 looking to develop products that is specific to the market and potentially more
-broadly in NBU.Brian Nowak
+broadly in NBU.
+Brian Nowak
 Ruth Porat
 Brian Nowak
 Ruth Porat
@@ -481,4 +492,5 @@ Great.
 Thank you very much.
 
 Thank you so much.
+
 Thanks.

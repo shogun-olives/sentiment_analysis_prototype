@@ -19,7 +19,8 @@ focused on improving animations. This is a key area, because well-designed
 animations make your interface easy to use. They can provide feedback so your
 users know that something is happening, or they can confirm that a task has
 completed successfully. And that's why SwiftUI has had advanced features like
-reversible, interruptible, and cancelable animations from the beginning.This year, SwiftUI is taking animations even further. It starts with the way that they
+reversible, interruptible, and cancelable animations from the beginning.
+This year, SwiftUI is taking animations even further. It starts with the way that they
 move. Animations are often triggered by a user's gesture. So, now SwiftUI can
 automatically transfer the velocity of your gesture into your animation, providing a
 smooth transition. And animations now default to a spring-based motion that can be
@@ -59,7 +60,8 @@ conforming to observable object and adding the published property wrapper to
 each property.
 Swift's new Macro support makes this much simpler with a new Observable macro
 taking its place. Just annotate a class with @Observable and you're done. All publicly
-visible properties are published automatically. And when using an Observable inyour SwiftUI views, there's no need to use a property wrapper to trigger view
+visible properties are published automatically. And when using an Observable in
+your SwiftUI views, there's no need to use a property wrapper to trigger view
 updates. You just reference your variables directly, you'll write less code and get fast
 and correct behavior by default.
 Observable lets SwiftUI track access at a per-field level. So, your views body is only
@@ -98,7 +100,8 @@ modifier to set up the SwiftData container. And when I create a new backyard, I'
 insert it into the model context so that it gets persisted. And finally, I'll hook up my
 BackyardList view to the persisted data. That's really easy to do with the new @Query
 property wrapper. Because we're now loading saved data, I can remove the default
-sample data that I used when I was prototyping.Jonathan ThomassianBefore we test it out, let's also update a widget that I've been working on. I'll just set
+sample data that I used when I was prototyping.
+Jonathan ThomassianBefore we test it out, let's also update a widget that I've been working on. I'll just set
 up the container and query the same way. With the app's shared container enabled,
 SwiftData automatically makes my data directly accessible by the widget using the
 same API. Backyards are now persisted by SwiftData and delivered to the view by
@@ -135,7 +138,8 @@ recede into the background when a window has focus. And you can now make your
 widgets more useful with new support for interactivity. Simple actions that can be
 accomplished with a tap, like checking off a reminder, can now be handled directly
 from your widget. All of these new widget updates were enabled by their SwiftUI-
-based architecture.Your widget's code is run asynchronously to generate content, and the SwiftUI Views
+based architecture.
+Your widget's code is run asynchronously to generate content, and the SwiftUI Views
 it builds are then saved to an archive. Later, when the widget needs to be drawn, the
 archive can be loaded, rendered in the background, and then displayed as part of
 the system UI. When a user taps a button, its extension is run again to handle the
@@ -174,7 +178,8 @@ widget container background variable that lets me customize how my widget looks
 when the background is removed. Nice. Many of you have asked for the ability to
 interact with your app from your widget, and now you can. Let's add a button to refill
 my bird's water. Already defined an App Intent for this action, so all I have to do is
-associate it with a button in my widget.Darin AdlerLet's try it out in the simulator. And just like that, I've refilled my bird's water, and
+associate it with a button in my widget.
+Darin AdlerLet's try it out in the simulator. And just like that, I've refilled my bird's water, and
 that's WidgetKit. It's never been easier to surface your content in so many places
 across the system. We're excited about all the ways you can use interactivity and
 animated transitions to enhance your widgets.
@@ -209,7 +214,8 @@ WidgetKit, App Intents, TipKit, and AirDrop will help you build experiences that
 make your app's content available to your users in the right place and at the right
 time. We're looking forward to seeing how you'll use these to take your apps even
 further.
-And now, back to Darin.Brandon CoreyOur platforms are built to give you access to the unique hardware capabilities of our
+And now, back to Darin.
+Brandon CoreyOur platforms are built to give you access to the unique hardware capabilities of our
 products right out of the gate. Whether you're tapping into a neural engine to
 process a photograph, or using an accelerometer to measure sleep movements, our
 APIs give you the ability to harness the power of hardware technologies with ease.
@@ -248,7 +254,8 @@ Speaking of faster performance, we also have news to share about camera. Apple
 continues to push mobile photography forward and expand APIs that let you do
 incredible things with the world's most popular camera. AVCapture is used by over a
 third of iOS apps across all categories, from creativity to productivity, social media,
-and even health. And it's getting some powerful performance improvements thisyear. With zero shutter lag, you capture the exact moment when the shutter is
+and even health. And it's getting some powerful performance improvements this
+year. With zero shutter lag, you capture the exact moment when the shutter is
 pressed.
 With overlapping captures, the camera will dynamically adjust image quality when
 the shutter is pressed rapidly. And with deferred processing, high-quality images,
@@ -287,7 +294,8 @@ Capture Kit picker makes it simpler for users to start screen sharing in a more 
 and secure way. The picker also makes it simple for your app to capture multiple
 windows or even multiple apps all at once. Your users can start sharing right from the
 app they're in, and they'll appreciate that they see a preview of what's being shared
-in the new Video Effects menu.Lori Hylan-ChoAnother benefit of Screen Capture Kit is higher resolution content for better-looking
+in the new Video Effects menu.
+Lori Hylan-ChoAnother benefit of Screen Capture Kit is higher resolution content for better-looking
 screen shares when sharing a single window. We've also brought external camera
 support to iPad. Any USB camera can now be connected and used within your iPad
 app. And we are thrilled to add camera and microphone capabilities to an entirely
@@ -324,7 +332,8 @@ The new container background modifier lets you use color with gradient fills for
 readability to help users understand where they are within your app or make data
 more glanceable. For app designs that fill the screen, new toolbar item placements
 make better use of the corners and allow the time to automatically shift to the center
-if necessary.And for layouts with a strong source list/detail view association, NavigationSplitView
+if necessary.
+And for layouts with a strong source list/detail view association, NavigationSplitView
 is more compelling than ever on Apple Watch, using the same code you'd use on
 other platforms. And the pivot in and out of the detail view on Apple Watch even
 uses SwiftUI's new interactive spring animation. This animation is composed of 12
@@ -363,7 +372,8 @@ easier to spot when I need to refill food or water.
 The final tab lets contents scroll beyond the bounds of the screen, and I can still
 reach the list of backyards by tapping the source list button. It took just a few
 changes to make my app fit right in on watchOS 10. SwiftUI made our lives easier as
-we worked to make every app on the system look amazing, and as we just saw, it'llDarin Adler
+we worked to make every app on the system look amazing, and as we just saw, it'll
+Darin Adler
 Chris Fleizachmake updating your apps for these new design paradigms easy too. If you haven't
 moved to SwiftUI in your app yet, now is the time.
 In addition to these SwiftUI-based app updates, watchOS 10 also has a brand new
@@ -400,7 +410,8 @@ with tools and APIs to help you ensure that your apps are accessible to everyone
 Often, accessibility comes down to taking small steps that have a big impact. As an
 example, last year, we added the ability to detect and describe doors in the
 Magnifier app, helping people independently navigate their environment. This year,
-we're expanding our support for users, who are sensitive to animations and ﬂashingKatie Skinnerlights. These users often face a diﬃcult choice between avoiding potentially risky
+we're expanding our support for users, who are sensitive to animations and ﬂashing
+Katie Skinnerlights. These users often face a diﬃcult choice between avoiding potentially risky
 content, such as movies that begin with a ﬂashing lights warning, or consuming it
 without enough information, which can mean exposing themselves to health risks
 like seizures.
@@ -438,7 +449,8 @@ need read access to Calendar. They just need to write new events. For these case
 we've created a new add-only permission. This will help you get the access that you
 need, and the user will get a prompt that makes sense to them.
 And in photos, we've offered two choices for users to provide photos to your app.
-They can select which photos to share, or they can provide access to their full library.We wanted to make it even easier to help users select photos to share with your app
+They can select which photos to share, or they can provide access to their full library.
+We wanted to make it even easier to help users select photos to share with your app
 so you get exactly what you need and users share only what they intend. So, we're
 adding a new photo picker that you can embed into your app so users can easily
 select photos to share from inside your experience.
@@ -477,7 +489,8 @@ Sensitive Content Analysis Framework.
 With just a few lines of code, the framework helps you detect images and videos that
 contain nudity. And this happens entirely on device, so you can build positive
 experiences in your app for children who have Communication Safety-enabled. The
-Sensitive Content Analysis Framework uses the same technology that underpinsChris MarkiewiczCommunication Safety. The framework protects users' privacy by processing images
+Sensitive Content Analysis Framework uses the same technology that underpins
+Chris MarkiewiczCommunication Safety. The framework protects users' privacy by processing images
 and videos entirely on device.
 In addition, we wanted to give everyone the ability to blur sensitive content with
 Sensitive Content Warning. The Sensitive Content Analysis framework will let you
@@ -512,7 +525,8 @@ work on the Backyard Birds Pass subscription offering. I'll go into Xcode to add
 declarations to my Subscription Store view to match the look and feel of Backyard
 Birds. I'll customize the marketing content with the view, add a container
 background, and change the style of the subscription options. Now we have
-something that looks great and matches the app's branding.Darin Adler
+something that looks great and matches the app's branding.
+Darin Adler
 Ken OrrLet's also take a quick look at the simulator, where I can get the same full experience
 that my users would. Here I can select an offer, click subscribe, and complete the
 purchase. That's all it takes to build a customized purchase experience to show users
@@ -547,7 +561,8 @@ previews and live animations and built-in source control for making, reviewing, 
 sharing changes with your team, debugging, profiling and testing tools to help you
 evaluate and refine your app. All of it is connected in Xcode Cloud, a continuous
 integration and delivery service that simplifies distribution to TestFlight and the App
-Store.For Xcode 15, there are some big updates. Let's start where you spend most of your
+Store.
+For Xcode 15, there are some big updates. Let's start where you spend most of your
 time, the source editor. Code completion helps you get the code you want faster
 and with fewer mistakes. With Xcode 15, you'll start with the most relevant
 completions, with the editor using the surrounding code for prioritization, whether
@@ -586,7 +601,8 @@ language, and that helps me spot patterns. And there's a heat map to quickly sho
 me where to focus.
 Now, I've been working on a feature in the Backyard Birds app, and looking at my
 latest test run, I see I've got some issues. I'll start by clicking on this insight. Now, it
-looks like a tap gesture is failing across my new test. I'll click this test that failed,which gives me a detailed view of the test activities here on the left, along with a full
+looks like a tap gesture is failing across my new test. I'll click this test that failed,
+which gives me a detailed view of the test activities here on the left, along with a full
 recording of the app's UI over on the right. I can select a specific activity, or I can use
 the new timeline to jump to any moment. I can see marks for interesting points, like
 when the test scrolled this view here, or over here where it tapped the search field.
@@ -626,7 +642,8 @@ redesigned from the ground up, bringing massive improvements in link speed.
 Linking is up to 5x faster. The new linker also reduces the size of debug binaries by
 up to 30%. And for apps that embed a lot of frameworks, there's a new framework
 type that delivers faster builds during development and reduced app size and faster
-launch time for production.Darin Adler
+launch time for production.
+Darin Adler
 Mike RockwellFinally, we continue to make Xcode faster and easier to just get started. On the Mac
 App Store, Xcode is now 50% smaller and all simulators are downloadable on
 demand. And that means you can get started quickly and install the platforms you
@@ -664,7 +681,8 @@ side-by-side, much like multiple apps on a Mac desktop. The user has full agency
 reposition apps wherever they would like.
 Let's talk about the elements you can use inside a space, starting with the familiar
 window. On visionOS, your app can open one or more windows, which are SwiftUI
-scenes, and behave just as you would expect as planes in space. They can containGeoff Stahl
+scenes, and behave just as you would expect as planes in space. They can contain
+Geoff Stahl
 Enrica Casuccitraditional views and controls, and they even support 3D objects and reality views,
 allowing 3D content to sit alongside 2D content.
 Additionally, your app can create three-dimensional volumes, which are also SwiftUI
@@ -698,7 +716,8 @@ On visionOS, many of our frameworks have been extended to support spatial
 experiences. With SwiftUI, you can now add depth or add a 3D object inside a
 window. On iOS and macOS, a ZStack is typically used for layering views. VisionOS
 goes further, and you can separate them with depth. This gives your two-dimensional
-apps a three-dimensional feel.Edwin IskandarYou can add subtle changes in depth to your UI elements by using the new z-offset
+apps a three-dimensional feel.
+Edwin IskandarYou can add subtle changes in depth to your UI elements by using the new z-offset
 view modifier, a higher offset value presents the view in front of views with lower
 values. And you can use this to show emphasis or to indicate a change in modality,
 for example, when showing details for a selection. And with additional view
@@ -735,7 +754,8 @@ interfaces.
 3D content can bind to SwiftUI views and states, seamlessly coupling 2D and 3D
 visual elements together. RealityKit automatically adjusts the physical lighting
 conditions and grounds the experience in reality by casting shadows on ﬂoors and
-tables. This makes your app look like it belongs in the room.RealityKit also has significant new capabilities, including the ability to create portals
+tables. This makes your app look like it belongs in the room.
+RealityKit also has significant new capabilities, including the ability to create portals
 into 3D scenes, like the dinosaur we saw in the keynote, to render incredibly sharp
 text so you can read comfortably, and a customizable material system to create
 stunning visual effects.
@@ -775,7 +795,8 @@ made directly available to your full space apps.
 Inside a full space, your apps can interact realistically with the room by leveraging
 ARKit's plane estimation, scene reconstruction, image anchoring, and world tracking,
 which uses the same anchor concepts as ARKit on iOS. This makes migrating your
-existing ARKit app to visionOS easy.Thessa Buscar-AlegriaAnd on visionOS, you now also get access to skeletal hand tracking. You can use
+existing ARKit app to visionOS easy.
+Thessa Buscar-AlegriaAnd on visionOS, you now also get access to skeletal hand tracking. You can use
 hand tracking to create custom gestures for your app experience or even augment
 the user's hands with digital information. ARKit provides positioning and orientation
 of joints in the same skeletal model introduced on iOS.
@@ -814,7 +835,8 @@ which provides a powerful environment to run and debug your app. You can move
 and look around the scene using a keyboard, trackpad, or a compatible game
 controller. And you can interact with your app by simulating the system gestures. The
 simulator also provides three different simulated scenes with day and nighttime
-lighting conditions to help you visualize your app.Jason CahillWhen it comes to developing with your Vision Pro, you'll be building and running
+lighting conditions to help you visualize your app.
+Jason CahillWhen it comes to developing with your Vision Pro, you'll be building and running
 your app on the device to make sure it's working. I'm super excited to share this
 additional feature that will change the way you work.
 Mac Virtual Display lets you bring a high-fidelity 4K virtual monitor of your Mac right
@@ -852,7 +874,8 @@ I'll repeat this for the other nodes, too. At any time, I can preview my work ri
 my Vision Pro. I can scale it, move it, or rotate it, and make sure it looks and feels how
 I want. I like these changes. And then, jump back into Xcode where my changes have
 been reﬂected in my project and are ready for use in Xcode Previews or the
-simulator, just like that, ready for me to load in code and use in my app.Thessa Buscar-Alegria
+simulator, just like that, ready for me to load in code and use in my app.
+Thessa Buscar-Alegria
 Mike Rockwell
 Ralph HauwertWith Reality Composer Pro, your visionOS development process has a powerful new
 tool that works side-by-side with Xcode, making previewing and preparing 3D
@@ -886,7 +909,8 @@ And with this deep integration between Unity and visionOS, your apps can even
 appear alongside other apps in the shared space. By combining Unity's authoring
 and simulation capabilities with RealityKit's managed app rendering, content created
 with Unity looks and feels at home on visionOS. With Unity, you'll be able to get
-started quickly with our community, our tutorials, and templates.Mike Rockwell
+started quickly with our community, our tutorials, and templates.
+Mike Rockwell
 Jeff NorrisWe believe that Apple Vision Pro has launched the new frontier of spatial computing,
 and we're really excited to see the brand new apps and games that you will create.
 
@@ -923,7 +947,8 @@ RealityKit. If a user looks at a button, it highlights before they tap on it. An
 click of a mouse or a tap on an iPhone, your app is notified of a selection when a
 user taps their fingers. The user gets the visual feedback they need, and you receive
 the interactions you expect without needing to know where the user looks before
-they tap.Linda DongSharing and collaboration are a central part of the Vision Pro experience. Just like on
+they tap.
+Linda DongSharing and collaboration are a central part of the Vision Pro experience. Just like on
 macOS, Vision Pro users can share any app window with others on a FaceTime call.
 And with SharePlay, next generation shared experiences become possible. When
 your app adopts SharePlay with the GroupActivities API, the sharing control over
@@ -961,7 +986,8 @@ In addition to the Vision Pro simulator, we also have options for you to see how
 app works on Vision Pro. This summer, we're launching the Apple Vision Pro
 Developer Labs, where you can test your app on Vision Pro hardware. You'll have
 hands-on support and an ability to preview your experience before Vision Pro is
-released to customers. These labs will be located in several locations around theDarin Adlerworld, including our Developer Center here in Cupertino. And no matter where you
+released to customers. These labs will be located in several locations around the
+Darin Adlerworld, including our Developer Center here in Cupertino. And no matter where you
 are, you'll be able to submit a request for us to evaluate your app's compatibility
 with Vision Pro. We'll install your app and share any issues we may find.
 To get further updates on these exciting opportunities, visit the developer website.

@@ -17,6 +17,7 @@ a lot more subtle changes like improved gross margins. Can you walk us through
 your perspective on what have been some of the biggest changes we've seen in
 Microsoft over the past year and what are you most excited about going into the
 next year?
+
 Keith Weiss
 Amy HoodIt's interesting, I think, maybe what you perceive as a lot of changes, I would
 probably describe it's just accelerating a bit on the vision that we've had as a team.
@@ -57,7 +58,8 @@ Windows launches, both actually went a little better than we thought when that
 happened. You do you see that on-prem KPI be a little better. But over the long term
 the most important thing to me is continue to pivot it to an annuity business which is
 long-term commitments by customers to our platform and our products and then
-continue to break new TAM ground with many of the cloud solutions.Keith Weiss
+continue to break new TAM ground with many of the cloud solutions.
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy Hood
@@ -96,7 +98,8 @@ Got it. Then on the competitive environment, when we're talking about that sort 
 global scale, public cloud, utility, if you will, most people talk about you, Amazon
 Web Services and Google Cloud Computing, the big vendors in that space. How do
 you see that competitive dynamic having shifted over the past year, how do you see
-that evolving on a going forward basis?Amy Hood
+that evolving on a going forward basis?
+Amy Hood
 Keith Weiss
 Amy Hood
 Keith Weiss
@@ -136,6 +139,7 @@ Got it. One last quick question and then we'll shift gears to productivity and b
 process. Amazon recently lowered prices, you guys recently lowered prices. How
 should we be thinking about that on a going forward basis, sort of just the pricing
 dynamic going on on a go-forward basis?
+
 Keith Weiss
 Amy Hood
 Keith Weiss
@@ -175,7 +179,8 @@ experiences if you're running the modern clients. And when I say modern clients,
 mean Oﬃce 365 ProPlus, which is what we call the subscription form as opposed to
 the pure client perpetual licenses. You'll see some of the first integrations come
 there. The pace has been quite encouraging. We need, I think it's once a month to
-go through the technical roadmap, integration roadmap together. Their former headKeith Weiss
+go through the technical roadmap, integration roadmap together. Their former head
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy Hood
@@ -211,6 +216,7 @@ accounting team. We will have one internal audit team. The smart things will hap
 and we're pretty good at that type of activity and I'm just deeply, deeply focused on
 driving revenue growth. This deal was not done for cost savings. The deal was done
 to drive the topline.
+
 Amy Hood
 Keith Weiss
 Amy Hood
@@ -252,6 +258,7 @@ to be a trailer, it's a more complex workload. You're less likely to deploy it s
 at once across all your seats. So it tends to be something people opt-in through
 branch and other deployments that we've been encouraged. Obviously, we run on it.
 But we've been encouraged by large deployment.
+
 Amy Hood
 Keith Weiss
 Amy HoodAnd just double clicking real quickly on that analytics, analytics is something that we
@@ -295,7 +302,8 @@ terms of a PC and so we actually are seeing decent coverage of those, especially
 the non-oﬃce components of the suite Exchange, SharePoint and some of the
 comps components. So that's in the other big queue of overall driver and then the
 install base transition I think, it's gone actually pretty, pretty on plan is the term I
-would use to maybe even a little better than we had hoped.Keith Weiss
+would use to maybe even a little better than we had hoped.
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy Hood
@@ -334,7 +342,8 @@ frankly had a lot of piracy. It's not just geo-based, many people pirate and don
 know frankly that they are. And so a lot of the small and mid-size businesses in
 particular tended to have piracy challenges and I do think you could think about
 that. It's not the language I would normally use. But it is certainly a way to think about
-it in terms of having paid SMB growth could be a little bit of a proxy for that.Keith Weiss
+it in terms of having paid SMB growth could be a little bit of a proxy for that.
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy Hood
@@ -376,7 +385,8 @@ which you would hear us call believe it or not we have a Windows E5 just to make
 things confusing. But from customer perspective it's easier to name things the same.
 Those things all go into that metric. That metric has been growing, I think, like 6%
 this last quarter. It's a combination of excitement around Windows 10, the security
-value prop, the commitment, I think, companies are making and I do think you'reKeith Weiss
+value prop, the commitment, I think, companies are making and I do think you're
+Keith Weiss
 Amy Hoodstarting to see it in terms of OEM commercial demand. We've seen it in, I think, the
 industry in terms of shipments -- PC shipments and we shouldn't -- and have in the
 commercial business tended to be around that number. We're slightly higher than it
@@ -417,7 +427,8 @@ actually been encouraging. We're in those geos which I think is another aspect t
 your question. That being said, we're not laying down a bunch of concrete in
 advance of meeting it. So even though you are in a geo, you still got to lay down
 more concrete pads and water cooling systems as you need it. We're not building
-that stuff in advance.Keith Weiss
+that stuff in advance.
+Keith Weiss
 Amy HoodSo well, I think people like oh, you must be everywhere in the world, aren't you done
 buying land or you done hauling in -- away lots of dirt, no, we're not. It's just you
 more can be just in time. So I don't have a long lead in terms of the stand versus
@@ -458,7 +469,8 @@ to achieve it. We're going to spend -- and so I never know what that number will
 until I feel like I've looked under every pillow cushion and found that there is nothing
 left for me to find. Right now when I looked up the pillows on the couch, there's still
 some pennies in there and we can move on and the market changes, right. You can
-always retrain teams, you can move salespeople, geos sometimes aren't as healthierKeith Weiss
+always retrain teams, you can move salespeople, geos sometimes aren't as healthier
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy Hoodor are as healthy. You can move salespeople, you can change incentive plans. And
@@ -498,7 +510,8 @@ important component along with continuing to invest in ourselves and continue to
 invest capital in growing the business. But I don't -- it's not interest rate driven in the
 way that you are thinking about it per se. I mean, even if interest rates rise a little bit,
 there is still room to borrow and have it make sense for us and you'll continue to not
-see that as a constraint, in my mind, it's a math equation.Keith Weiss
+see that as a constraint, in my mind, it's a math equation.
+Keith Weiss
 Amy Hood
 Keith Weiss
 Amy Hood

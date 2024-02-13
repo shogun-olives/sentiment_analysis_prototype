@@ -18,7 +18,8 @@ Right. And as we think about the segments that Microsoft reports to investors an
 kind of the segments you look after, is it kind of fair to say commercial cloud is your
 big focus area?
 
-Yes, that's right. (Technical Diﬃculty)Q - Tyler Radke
+Yes, that's right. (Technical Diﬃculty)
+Q - Tyler Radke
 A - Corey Sanders
 Q - Tyler Radke
 A - Corey Sanders
@@ -59,7 +60,8 @@ Great. So maybe we could ask that question more specifically on Azure. So cloud
 consumption has been a big topic among investors. Some of your peers and
 partners that you work with through the marketplace have talked about some
 customers optimizing cloud spend. We've seen some slowdown in cloud
-consumption, even on the Azure business this most recent quarter. So can you justA - Corey Sanderstalk about the consumption trends you're seeing in Azure? And how are customers
+consumption, even on the Azure business this most recent quarter. So can you just
+A - Corey Sanderstalk about the consumption trends you're seeing in Azure? And how are customers
 approaching this managing or optimizing cloud spend topic?
 
 Yes. I think -- I mean, in general, I think the conversation with customers that we have
@@ -99,7 +101,8 @@ It also sort of changes a little bit of what we've built. And that's sort of aga
 my new team comes in and sort of what I've been excited to build is around
 leveraging the combination of these services and solutions. Again, to be able to
 drive value by getting the best of these services spanning left to right. And that
-opportunity then certainly reduces their overall spend by being able to takeQ - Tyler Radke
+opportunity then certainly reduces their overall spend by being able to take
+Q - Tyler Radke
 A - Corey Sanders
 Q - Tyler Radkeadvantage of that, and sometimes and frequently improves their top line as well by
 being able to create new value by putting these services together.
@@ -142,7 +145,8 @@ obviously, different parts of the globe are in different stages of cloud transit
 have more data centers versus cloud. I guess, how are you seeing kind of the
 regional performance differ? And in regions that may be seeing more of a slowdown
 from a macro perspective, are they prioritizing cloud more or less? Just give us a
-little bit of regional commentary in the context of cloud versus on-premise?A - Corey Sanders
+little bit of regional commentary in the context of cloud versus on-premise?
+A - Corey Sanders
 Yes. I think, I haven't -- from sort of my role, I haven't seen necessarily a specific
 regional shift or specific regions who are seeing notably increased slowdown from
 others. One of the interesting things about sort of a global business and the fact that
@@ -185,7 +189,8 @@ the rise, which is exciting. And so, offering opportunity to be able to take adv
 of public cloud where it makes sense and some of our sovereign capabilities, and
 our policy and governance controls, while also taking advantage of on-prem where it
 makes sense and being able to put it into their sort of environments and being able
-to leverage cloud capabilities, again, like Azure Arc to manage it.Q - Tyler Radke
+to leverage cloud capabilities, again, like Azure Arc to manage it.
+Q - Tyler Radke
 A - Corey SandersSo that's been one where we're seeing a little bit of both, and I do think we'll
 continue to see that as part of again, a sovereign and a government-based
 deployment. And certainly, there's more regions where that's sort of growing and a
@@ -228,7 +233,8 @@ to offer security in a consistent way. This is what actually is one of the most 
 aspects of hybrid is consistent security, and this is where services like Defender for
 Cloud or Sentinel offer that level of consistency.
 And then even bringing our cloud services to be able to run in an on-premise way.
-This is something we've invested pretty heavily to offer PaaS services that can thenQ - Tyler Radke
+This is something we've invested pretty heavily to offer PaaS services that can then
+Q - Tyler Radke
 A - Corey Sandersrun in those environments and on that on-premises-based solution. So I think that we
 will continue to see that on-prem server usage. And I think actually, we'll be able to
 take advantage of it or customers will be able to take advantage of it with more
@@ -271,7 +277,8 @@ commitment on a wide variety of services and requirements. And so, the Azure
 commitment allows you to, of course, use Azure services, but it also allows you to use
 key partner services like Azure Databricks and Azure NetApp Files. And even sort of
 supporting a recent announcement from Power Platform that is integrated now
-directly into the Azure experience and offering a pay-as-you-go model. This type ofQ - Tyler Radke
+directly into the Azure experience and offering a pay-as-you-go model. This type of
+Q - Tyler Radke
 A - Corey Sandersﬂexibility is really quite powerful for customers and allows them to, again, look
 forward as that strategic partnership over the potential to use any of these services
 to be able to achieve their outcome.
@@ -313,7 +320,8 @@ Dynamics 365 and Teams to basically create a more advanced connection points
 with their customers and offer more seamless customer experience that they could
 deliver.
 And so, this included sort of distributed order management. So sometimes local
-stores, they turned into sort of many warehouses and sort of bringing together.Q - Tyler Radke
+stores, they turned into sort of many warehouses and sort of bringing together.
+Q - Tyler Radke
 A - Corey SandersSome of the challenges that we see from retail as an example of sort of their online
 business and their in-person business and sort of enabling employees to continue to
 work while also reducing maybe their online -- excuse me, their in-person business
@@ -355,7 +363,8 @@ focus for you?
 Yes. Great questions. So from a healthcare perspective, I think the Nuance
 acquisition and the opportunity that I've had to work with the Nuance team has been
 fantastic, right? I think that their -- both their depth in sort of healthcare specific
-knowledge, solving sort of healthcare problems, coupled with their deepunderstanding of AI and ML and voice recognition, and transcription and so on, has
+knowledge, solving sort of healthcare problems, coupled with their deep
+understanding of AI and ML and voice recognition, and transcription and so on, has
 been fantastic. They've been a huge asset to join the effort, and I have great respect
 and opportunity to be able to learn from them.
 I think that the -- all up, from a healthcare perspective, we have a lot of opportunity, a
@@ -395,7 +404,8 @@ on the capabilities we have.
 But I also have a huge amount of humility for the fact that we are not experts in every
 industry. We are not experts in understanding exactly what's needed across each
 industry and our ability to do partner -- to partner with technology providers and
-technology solutions, whether classic technology solutions or existing companiesQ - Tyler Radke
+technology solutions, whether classic technology solutions or existing companies
+Q - Tyler Radke
 A - Corey Sandersthat are shifting to becoming technology companies. Or as you mentioned, sort of
 start-ups and sort of digital natives who are offering sort of net new technology
 solutions.
@@ -435,7 +445,8 @@ you close deals and digitize these customer environments?
 
 Yes, absolutely. I think the two probably big examples -- the two biggest examples
 I'd use, one -- well, maybe I'll use sort of three examples. There are certainly
-partnerships that we have at the horizontal level, right? And so, this is sort of just aQ - Tyler Radkegreat ecosystem of solutions that's offering sort of joint value for places that maybe
+partnerships that we have at the horizontal level, right? And so, this is sort of just a
+Q - Tyler Radkegreat ecosystem of solutions that's offering sort of joint value for places that maybe
 we don't offer or have sort of different services. And based on customer choice, we
 love to be able to support the full range of capabilities.
 And so, this is -- we recently announced an expanded partnership with Oracle, great
@@ -476,7 +487,8 @@ the company has called out in recent quarters as an area of strength. So how sho
 we think about the Azure offerings? You have Synapse and obviously the Power
 Platform. In the context of your close partnerships with things like Databricks and
 Snowﬂake, what are kind of the key differentiations and how are you positioning all
-that to customers?A - Corey Sanders
+that to customers?
+A - Corey Sanders
 Q - Tyler Radke
 Yes, absolutely. So Power Platform has such a unique position in the market. And so
 its integration with all the other services, it's just value-add for customers. And so, I
@@ -516,7 +528,8 @@ to their scenarios.
 
 Great. Well, I think we are a couple of minutes over, but I appreciate the time, Corey.
 And it sounds like you're doing great. So hopefully, you continue to recover quickly,
-and really appreciate you coming and supporting the conference virtually.A - Corey Sanders
+and really appreciate you coming and supporting the conference virtually.
+A - Corey Sanders
 Q - Tyler Radke
 A - Corey Sanders
 Yes, absolutely. Thank you so much for having me. And again, I wish I could have

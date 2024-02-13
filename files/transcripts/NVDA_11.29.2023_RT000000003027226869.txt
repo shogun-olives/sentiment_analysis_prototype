@@ -16,7 +16,8 @@ billion to $1.2 trillion. So, I'm going to start by just saying, good work. Cong
 been a phenomenal run. So, keep it going. Don't take your foot off the pedal.
 But before I start with the questions, Collette, I think you get the joy of reading the
 safe harbor, and then I think you might have some prepared comments as well. I'll
-kick it over to you.Colette Kress
+kick it over to you.
+Colette Kress
 Sounds great. Thank you, Aaron, for having us. I do have an opening statement, let
 me first say.
 As a reminder, this presentation contains forward-looking statements, and investors
@@ -48,7 +49,8 @@ Let's not forget our CSPs, also all growing in this last quarter, and we are con
 to see more of our specialized and regional CSPs also grow.
 So I just wanted to start it with just a beginning statement, and I'll turn it back over to
 you, Aaron.
-Questions And AnswersA - Colette Kress
+Questions And Answers
+A - Colette Kress
 Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
@@ -89,7 +91,8 @@ purchase commitments and inventory and prepaid capacity, it's like it grew 40%
 sequentially this last quarter. But the point of that is that you would expect that to
 continue to grow sequentially over the next handful of quarters.
 
-Correct.Q - Aaron Rakers
+Correct.
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
 A - Colette Kress
@@ -129,7 +132,8 @@ product cycle, is it fair?
 
 That's correct. Additionally, the market has advanced so much, the complexity of the
 type of AI and solutions that folks are working for, they would love to see something
-new for each of their new plans that they have.Q - Aaron Rakers
+new for each of their new plans that they have.
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
 A - Colette KressAnd so for us to work on more different products even in between architectures that
@@ -172,7 +176,8 @@ on every single one of our GPUs and has been for close to 15 years, that is a bu
 of not only a very strong development platform but a community that has joined that
 development platform. Everything that we do on our GPUs today is both backward-
 compatible and forward-compatibility. Every customer knows that. They changed
-generations of architectures to our new generation. Everything is still working.Q - Aaron Rakers
+generations of architectures to our new generation. Everything is still working.
+Q - Aaron Rakers
 A - Colette KressWe also have to think through where would that development community like to be.
 They like to be where all the other developers are because so much work has been
 built over time. Somebody would have to rebuild that. And so our position there has
@@ -213,7 +218,8 @@ our gaming business. We still bill for some of our other parts of our data cente
 business that we can sell in terms of that. But there would be a significant change in
 the quarter.
 But going forward, we will. We'll support China with the approval and the
-understanding of the of the U.S. government.Q - Aaron Rakers
+understanding of the of the U.S. government.
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
 A - Colette Kress
@@ -253,7 +259,8 @@ solutions for customers but our partnerships that we now have across so many of 
 peers that are in Israel. And our work, you're correct, we've reached now an annual
 run rate of nearly $10 billion in terms of our networking. That is looking where there's
 a very sizable amount where we are together when we are selling GPU systems and
-selling networks together.Q - Aaron Rakers
+selling networks together.
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
 A - Colette KressThey look for our high-end networking solutions. Why? Because they're the best-of-
@@ -295,6 +302,7 @@ GH200. So that's Grace Hopper, the combination of the ARM-based CPU and the
 Hopper GPU. Talk a little bit about where that fits in the strategy. What does Grace
 Hopper look like as we start to think about that piece of the product portfolio going
 forward?
+
 Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
@@ -335,7 +343,8 @@ provide it in terms of free.
 That is important and to the work that they're doing, but now there's a new
 opportunity for us to look at software as a monetization as well, but there's reasons
 for that. Our work is with enterprises. Our true end customer is the enterprises
-around the world of all shapes and sizes for their work that they do.Q - Aaron Rakers
+around the world of all shapes and sizes for their work that they do.
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
 A - Colette KressWhen they are building accelerated solutions or AI and they need help as they are
@@ -376,7 +385,8 @@ partners or is it consumed on traditional enterprise on-premise infrastructure?
 
 Yeah. The great thing is it's consumed in almost every form of the channel that you
 can think through. If you have in terms of, I'm going to self-design it with an ODM or
-with a Dell with an HP, or I'm going to have cloud credits and work with my cloudQ - Aaron Rakers
+with a Dell with an HP, or I'm going to have cloud credits and work with my cloud
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
 A - Colette Kress
@@ -417,7 +427,8 @@ come to market as they can on their product solutions.
 So two other real quick, on the software side. So Omniverse, I want to say, if my
 memory's right, kind of initially introduced back in the latter part of '21-ish timeframe,
 maybe I'm a year old, I don't know. I don't remember, but is that the progression of
-that software piece? It just takes a little bit longer, it's more significant changes.A - Colette Kress
+that software piece? It just takes a little bit longer, it's more significant changes.
+A - Colette Kress
 Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakers
@@ -458,7 +469,8 @@ for many of us on the P&L, keep in mind it doesn't capture everything when we ta
 about both our ASP or we think about the actual manufacturing costs. It really just is
 the manufacturing costs that are included in that because the work that we did in
 terms of the designing the software that is in many of this and/or just the full
-engineering work on many other solutions that keep giving even after we haveQ - Aaron Rakers
+engineering work on many other solutions that keep giving even after we have
+Q - Aaron Rakers
 A - Colette Kress
 Q - Aaron Rakersshipped the product, doesn't easily get represented. Most of that is still in the OPEC.
 So it's a metric and it's an important metric.
@@ -500,7 +512,8 @@ question, which is, you talk to hundreds of investors after earnings, right? You
 you're in, -- earnings don't end, and then you go and do something else. It's a
 continual ﬂywheel of discussion. What are you surprised that people aren't asking
 you about more? Is there any topic where you're like, man, I'm surprised I'm not
-getting this question? What would that be?A - Colette Kress
+getting this question? What would that be?
+A - Colette Kress
 Q - Aaron Rakers
 A - Colette Kress
 The surprise of the question that I am not getting. Well, I would look at it as our goal

@@ -19,7 +19,8 @@ emerge, I think we'll talk a bit about that becoming a major force in commercial
 software, but we also saw customers coming to us and asking us for more help in
 different areas.
 So today when you think about this business, you should think about everything that
-is used to deliver a productive work environment for employees that starts with theQ - Karl Keirstead
+is used to deliver a productive work environment for employees that starts with the
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro
@@ -61,7 +62,8 @@ There was very, very healthy PC demand, as I would say we saw the resurgence of
 the big screen. And people -- up to that point, it's hard to remember now, but at that
 point, all the momentum in my part of the business had been around smaller
 screens, and there's been so much talk of phones and tablets and what they would
-do to essentially kind of take over the world. Now I think during the pandemic, we'veQ - Karl Keirstead
+do to essentially kind of take over the world. Now I think during the pandemic, we've
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataroseen a moderation of that. We've seen kind of every device find its place. Phones
@@ -102,7 +104,8 @@ people turned all sorts of different, we would call them, point solutions and th
 want to rationalize those, but with the changing macroeconomic context, it really
 accelerated that consolidation base that we've seen.
 So whereas previously probably about six months to nine months ago, I was trying to
-derive consolidation. I was in there saying, hey, did you know that with Teams, youQ - Karl Keirstead
+derive consolidation. I was in there saying, hey, did you know that with Teams, you
+Q - Karl Keirstead
 A - Jared Spatarodon't need to have some of these other vendors? Today, those customers come to
 me. We very frequently have customers proactively come to me and say, hey, I'm
 using Zoom, I'm using Slack, but there's no reason for me to double pay, as I think
@@ -143,7 +146,8 @@ point solutions. That message at this moment is playing very, very well.
 The other place that I'd say that you might not think that there's opportunity would
 be in our frontline worker. We'll talk more about that and F&B, so small and medium-
 sized businesses. It's not to say these businesses aren't seeing opportunities in the
-market. It's just that they need to get more eﬃcient than they've ever been.Q - Karl Keirstead
+market. It's just that they need to get more eﬃcient than they've ever been.
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro
@@ -185,6 +189,7 @@ Okay.
 So moderation in new deal volume outside of E5 --
 
 E3, let's say.
+
 Q - Karl Keirstead
 A - Jared SpataroCorrect. So let me unpack that E3 component because I think that's important. Just
 to give you a sense of what that SKU lineup, maybe you know it already, but it looks
@@ -226,7 +231,8 @@ Microsoft 365. In that enterprise space, the play for me more than anything else
 two-fold. Number one, it is the price component. So we're trying to drive up ARPU.
 And it's a brand new queue in enterprise that is frontline worker. That's brand-new
 for us. It really has taken off, it was accelerated during the pandemic, and that's what
-you should understand that it is counterintuitive.Q - Karl Keirstead
+you should understand that it is counterintuitive.
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro
@@ -268,6 +274,7 @@ say it does, then the key becomes a lot more important. So let's talk about that
 actually.
 
 All right.
+
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro
@@ -307,7 +314,8 @@ component here of which SKUs were included. If you were to look in the
 announcement that we'd published under my name, we are very specific. I'll give
 some examples, we didn't increase price on ME5.
 
-Right.A - Jared Spataro
+Right.
+A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
@@ -348,7 +356,8 @@ increase for us, and security continues to be more and more complex for companie
 to administer. So we feel like, man, we've got a real driver there that doesn't feel like
 it's going to let up in the coming months.
 The second driver for us ends up being compliance. Now that also is a really
-interesting opportunity for us, particularly as we think about consolidation. The thirdQ - Karl Keirstead
+interesting opportunity for us, particularly as we think about consolidation. The third
+Q - Karl Keirstead
 A - Jared Spatarodriver of E5 is phone system. We haven't talked very much about that, but as people
 are moving their usage of communications on the Teams, very natural thing for them
 to do is then move their phone system from typically an on-prem version of the PBX
@@ -390,7 +399,8 @@ just kind of information work on productivity. We want to think about the produc
 of our entire enterprise, top to bottom from the C-suite to the shop ﬂoor. Can you
 help us think about that? So that's branding wise as part of what we've done.
 What that allows us to do now that we have M365 as a vehicle is to be very creative
-than about how we offer that value. We have an E3 SKUs as we talked about, we callQ - Karl Keirstead
+than about how we offer that value. We have an E3 SKUs as we talked about, we call
+Q - Karl Keirstead
 A - Jared Spatarothat our core SKU. We have an E5 SKU, that's our premium SKU. But we also have
 these FSKUs, these frontline worker SKUs that allow us to go down and literally
 provide, for instance, the airlines and the airline crew at Delta Airlines with the ability
@@ -431,7 +441,8 @@ chat, collaborate and automate. And it turns out you want to see how we drive th
 like power platform growth, well, it's through Teams. You want to see how we get
 really ensconced into people's business processes, well it's through Teams and the
 automation that we're doing. So we just have an arsenal now that makes it the
-asymmetric warfare, and this is an opportunity for us to take advantage of that.Q - Karl Keirstead
+asymmetric warfare, and this is an opportunity for us to take advantage of that.
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared SpataroThe other 3 percentage points, those points come from ARPU growth, and lots to
@@ -472,7 +483,8 @@ can be overly complex for the information worker, but some really great work
 happening in there. With Teams one more thing I'll say, in the Enterprise space, I'm
 really excited about the fact that we're retaining those users. I won't comment on all
 the specifics with Zoom, but you definitely see a pandemic up and a post-pandemic
-down. We're really seeing retention of our users.Q - Karl Keirstead
+down. We're really seeing retention of our users.
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro
@@ -513,7 +525,8 @@ would make the case most compelling about how the Teams phone side is
 becoming a dominant use case?
 
 Phone, what an interesting space. Let me just talk about the phone market as it exists
-today, and I'll give you my sense of where trends are taking in the future. So phoneQ - Karl Keirsteadtoday for many companies has been based on PSTN or these old ways of calling out
+today, and I'll give you my sense of where trends are taking in the future. So phone
+Q - Karl Keirsteadtoday for many companies has been based on PSTN or these old ways of calling out
 through the telco companies to phone end points. And we see companies
 continuing to invest there.
 What's happening right now, during the pandemic, they moved a bunch of
@@ -553,6 +566,7 @@ video me real quick and show me the problem with your product and moving up
 from that call that was a voice call to video, that's what Teams phone allows you to do
 is to have that modality together and so lots of companies are very open interested
 in that.
+
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared SpataroJared, I asked you earlier about vendor consolidation trends. You mentioned, you're
@@ -597,7 +611,8 @@ much hype about it and what's happening with open AI and the GPT-3 model, et
 cetera. But there really is value here as you think about taking that AI out of its kind
 of almost like every power position that it has right now and applying it directly into
 the scenarios where people get their work done. So a lot of what you will see from us
-in Teams will be the application of AI to getting your work done.Q - Karl Keirstead
+in Teams will be the application of AI to getting your work done.
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared SpataroIn essence, Teams Premium, a lot of what you would have heard was actually AI
@@ -640,7 +655,8 @@ motions as we think about getting to E3. The first motion is what we would call 
 to cloud or dark to Oﬃce 365. We have lots of opportunities still to move people off
 their on-prem installs, mostly down the market and in developing markets into the
 cloud. Sometimes we move them straight to ME3, but oftentimes they will go to OE3,
-so watch that.Q - Karl Keirstead
+so watch that.
+Q - Karl Keirstead
 A - Jared Spataro
 Q - Karl Keirstead
 A - Jared Spataro

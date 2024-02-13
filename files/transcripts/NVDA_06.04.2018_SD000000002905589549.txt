@@ -17,7 +17,8 @@ Great. Thanks, Chris. And for those who don't know me, C.J. Muse, covering the
 semiconductor space as well as semi equipment. From our perspective, we have
 both private and public companies, servicing, primarily AI and autonomous. We've
 got NVIDIA, Intel, Xilinx on the public side and then a handful of emerging ASIC
-companies, which, I think, will be quite interesting.Ian BuckTo kick start, we have NVIDIA. Very honored to have Ian Buck, Vice President of
+companies, which, I think, will be quite interesting.
+Ian BuckTo kick start, we have NVIDIA. Very honored to have Ian Buck, Vice President of
 Accelerated Computing, to kick things off. I think he'll present for roughly 10, 15
 minutes. And then we'll do a little fireside chat. After that, we'll open it up to Q&A to
 the audience.
@@ -56,7 +57,8 @@ around and run that program on every pixel of the screen. That's about 1 million
 pixels, 10,000 line program and you have to do that in about a 60th of a second,
 throw all the results away. And do it over again because the camera moved.
 That is the nature of what we do or have been doing for over 2 decades at this point
-in computer graphics. That same -- basically, over the evolution of still graphics, it'sbecome a massively parallel computing problem, running those very long programs
+in computer graphics. That same -- basically, over the evolution of still graphics, it's
+become a massively parallel computing problem, running those very long programs
 over massive sets of data, designing and then at incredible speeds and throughput,
 simulating life, if you will. The majority -- a vast majority of our processor is dedicated
 to specialized cores, we call them Tensor Cores, for accelerating that kind -- those
@@ -97,7 +99,8 @@ adding things like predictive execution, effective execution, branch predictors.
 enormous cache to keep the memory closer to the processors. And as a result, the IT
 industry could rely on getting about 2x performance in roughly over two years.
 That, of course, started to tail off. Around 2010, even with more and more transistors,
-we started running out of ideas. We passed out. And now CPUs today are starting toadd more and more cores to try to deliver more performance. So basically, they're
+we started running out of ideas. We passed out. And now CPUs today are starting to
+add more and more cores to try to deliver more performance. So basically, they're
 trying to go more parallel.
 In GPU end, we're very different. We started from actually parallel. We started from
 this different kind of use case. We never tried to run your Outlook -- or run the
@@ -136,7 +139,8 @@ and see it has a hexagon, it's red, it's got letters S-T-O-P. I'll write that up
 with AI, I'll just basically give it lots of data, lots of pictures of stop signs and it can
 learn how to see -- what that -- what -- how to recognize stop sign from an image,
 basically write that software for you. That same story plays out in every one of our
-industries as long as you have the data to drive it. Next slide.The history is -- well, I could go on for a long time about the history of AI to explain it
+industries as long as you have the data to drive it. Next slide.
+The history is -- well, I could go on for a long time about the history of AI to explain it
 to you -- to all. I think, AI found GPUs very early on with advent of CUDA. We've
 decided to make it available on all of our GPUs, not just our data center ones but our
 -- even down to our consumer-level GPUs. But anyone can go to Fry's or Best Buy
@@ -178,7 +182,8 @@ streams on a single GPU, running a neural network in every frame to look for
 suspicious behaviors, to catalog vehicles, a lot of content filtering, detecting hate
 speech. These are things that are modern-use of AI today.
 Then, there's all sorts of creative super resolution, which we now have magical
-enhanced button, where you can take a fuzzy image and make it crisp because wehave neural networks that have been trained on images and can detect from
+enhanced button, where you can take a fuzzy image and make it crisp because we
+have neural networks that have been trained on images and can detect from
 incomplete data to make high resolution and high quality data. Truly amazing stuff.
 Next slide, please.
 Fast forward to 2012 to today. NVIDIA, at its core, is a technology company. We try to
@@ -217,7 +222,8 @@ available to us in the world. Everything is archived in electronic medical recor
 can now take that data and train neural networks to tell a radiologist, "Hi. look here,
 this is a potential spot" just like (inaudible) therapy. It's not to replace doctors. I think
 that's not -- no one wants to rely entirely on a computer for the diagnosis. But to aid
-the doctors in identifying the spot really early.Transportation. Kansas City, you won't think of Kansas City as the bastion of
+the doctors in identifying the spot really early.
+Transportation. Kansas City, you won't think of Kansas City as the bastion of
 innovation for AI. But we are actually deploying neural networks to detect when
 potholes can form. They take all their traﬃc light data, all of the weather data, all of
 the -- all their street data and pump it through a neural network. And they can
@@ -260,7 +266,8 @@ incredibly complicated problem, lots of challenges. Getting to a production-wort
 Level 5 car is very challenging. A lot of it is having simulation as well. So we're taking
 our same GPUs that we use in the data center, same graphic capabilities and
 simulating all these things. We might be able to drive 1 million miles on the road to
-test drive a real car. But we can do billions of miles in simulation. So a big part of ourQ - Christopher James Muse
+test drive a real car. But we can do billions of miles in simulation. So a big part of our
+Q - Christopher James Muse
 A - Ian Buck
 Q - Christopher James Musedata center business actually is trying to show up in the automotive companies,
 buying racks of our data center GPUs and servers for doing simulation of self-driving
@@ -301,6 +308,7 @@ cranking at new architectures, well, almost annually now. And because of how fas
 this industry is moving and what people want to do. I (inaudible). We can innovate at
 so many different levels and which is why we go from top to bottom, at the same
 time, you have to be at the forefront of it because it's evolving so quickly.
+
 A - Ian Buck
 Q - Christopher James Muse
 A - Ian BuckI think one of the major areas of focus is competitive positioning. And so can you
@@ -347,7 +355,8 @@ correlates AGCT DNA sequences with a doctor's electronic medical records or
 database. It's a specialized kind of processing that, I think, needs a different kind of
 framework than just generic TensorFlow. There will always be TensorFlow and there
 will always be PyTorch and those 2 companies will keep those things aﬂoat. But we're
-seeing AI be for spaces and all those workﬂows and eventually into the softwareQ - Christopher James Muse
+seeing AI be for spaces and all those workﬂows and eventually into the software
+Q - Christopher James Muse
 A - Ian Buckitself. So I think, while the vast majority of AI today is probably done on TensorFlow
 or PyTorch and legacy Caffe, you're starting to see this emergence of the rest of the
 AI software ecosystem developing new software. And there's just, again, how do you
@@ -394,7 +403,8 @@ thermostats, the shoe laces, whatever. In that scenario, I kind of believe that 
 either going rely on the cloud for truly intelligent AI services or you can specialize for
 very specific use cases. We don't need -- I mean, to build an AI chip that can
 recognize the word Alexa. You can take -- and to get its cost down to that whole
-hockey puck is $20. Now it's worth the R&D and effort in time and specialization toQ - Christopher James Muse
+hockey puck is $20. Now it's worth the R&D and effort in time and specialization to
+Q - Christopher James Muse
 A - Ian Buck
 Q - Christopher James Muse
 Q - Unidentified Participant
@@ -438,7 +448,8 @@ Well data ﬂow is interesting. When I was first getting my Ph. D., the first ve
 parallel programming that we're thinking about was the data ﬂow architectures
 because you can keep stuff on check. I think it hasn't -- one of the challenges of data
 ﬂow is the programming model, being constrained to, let's say, I do this and then --
-the pipeline does this, the pipeline does this, the pipeline does this, restricts theQ - Unidentified Participant
+the pipeline does this, the pipeline does this, the pipeline does this, restricts the
+Q - Unidentified Participant
 A - Ian Buckprogram model to be fairly constrained. And there's always a question of why can't
 you fuse most of the layers together. Well we end up -- the other problem, I think, is
 that neural networks are getting bigger and faster. There are roughly -- I think, it's
@@ -484,7 +495,8 @@ turns and reblock the computation to run more eﬃciently to keep in memory, it 
 also reduce precision. So instead of expressing the neural network in 32-bit ﬂoating
 point, it'll automatically compile it down to 16-bit ﬂoating point or even 8-bit and
 measure our operations, which can operate 4x faster and be 4x smaller. But -- so the
-compiler guys are thrilled. They now have this other thing they can play with. ThoseQ - Christopher James Muse
+compiler guys are thrilled. They now have this other thing they can play with. Those
+Q - Christopher James Muse
 A - Ian Buck
 Q - Christopher James Museare beginning inputs at super high-level, which gives them all sorts of room to play.
 And they get to do this thing called precision reduction. So they often sit with the

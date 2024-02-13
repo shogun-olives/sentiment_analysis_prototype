@@ -12,7 +12,8 @@ that trajectory. And what stage you're in, and where you see that going.
 Sure. So thank you for having me. NVIDIA has definitely worked on transforming
 away from that single PC platform. And our concentration has really been on key four
 market platforms in order to take that same GPU technology. But do a platform effect
-across those four markets.Those four markets are gaming, enterprise, high-performance computing and cloud.
+across those four markets.
+Those four markets are gaming, enterprise, high-performance computing and cloud.
 And automotive. Following just our Second Quarter results, our gaming and our
 gaming PC revenue couldn't be stronger, growing more than 50% year on year, as
 the market for PC gaming is quite vibrant out there, with the excitement of new
@@ -48,7 +49,8 @@ markets that we approach, to develop the hold on the market that we have in so
 many of these key parts.
 As we move forward, we'll continue to concentrate on these four key markets. But
 what we've even saw in the first 2 quarters of the fiscal year -- our overall revenue
-growth for the Company for those first 2 quarters is about 4% to 5%.A - Sean Vocke
+growth for the Company for those first 2 quarters is about 4% to 5%.
+A - Sean Vocke
 A - Colette Kress
 A - Sean VockeBut if you actually just pull out those growth platforms and our focus, that growth
 rate is nearly 25%. So our concentration on these markets is working, as we've really
@@ -84,7 +86,8 @@ for that. But we're very excited for the growth.
 Okay. Thanks. And when you look at the gaming business, what do you see are the
 biggest drivers for that business? Is it macro? Is it new game launches, like the Call of
 Dutys -- the Metal Gears? And is it -- new hardware out there, right? Like, a Skylake
-refresh, for example.A - Colette Kress
+refresh, for example.
+A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
@@ -119,7 +122,8 @@ Right. Then when we look at the PC gaming base, it largely concentrated in the U
 Is it Asia? Is it Europe? Maybe talk a little bit about --
 
 Yes. The great thing is, it's all over the world. In the US, we have the love of working
-on multiple different platforms. So you have PC gamers and console gamers, a lot.A - Sean Vocke
+on multiple different platforms. So you have PC gamers and console gamers, a lot.
+A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
 A - Colette KressIn our Asia-Pacific and China, China is very in love with the overall PC platform for
@@ -154,7 +158,8 @@ Sure. And can you remind us what your ASPs have done over the last year or two?
 Our ASPs, remarkably, have grown over that period of time. So our average ASPs for
 our gaming GPUs continues to go upward. We'll still concentrate on that to be our
 focus. Our focus of -- not on price. But our focus on delivering value in terms of the
-platform and what we can do.A - Sean Vocke
+platform and what we can do.
+A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
@@ -191,7 +196,8 @@ Maybe get your thoughts on the PC OEM business.
 I mean, for you guys it's obviously not what it used to be -- a little bit soft in the
 Second Quarter and then -- I just want to get your thoughts on how you see the rest
 of the year playing out. We've heard mixed commentary here at the conference so
-far. So interested in seeing your take on the PC OEM business today.A - Colette Kress
+far. So interested in seeing your take on the PC OEM business today.
+A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
 Yes. The PC OEM business -- what we refer to that is just a general-purpose GPU.
@@ -228,7 +234,8 @@ We just finished our SIGGRAPH, where we announced a couple new graphic cards
 under our Maxwell architecture. And for [ph] design for that market in the second
 half of the year. So we're pretty excited with what we have coming out.
 Secondly, our overall Tesla business. Now, our Tesla business is a different business,
-focused on the data center and focused on high-performance computing as well asA - Sean Vocke
+focused on the data center and focused on high-performance computing as well as
+A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
 A - Colette Kressoverall accelerated computing. And some of our key highlights -- workload for deep
@@ -262,7 +269,8 @@ The overall Tesla GPU can be leveraged both for its overall performance and its 
 for programmability. It programs in terms of -- on the CUDA development language,
 which is taught in so many high-end universities in more than 500 different places
 around the world. So those freshly coming out of university research are going into
-the business, knowing how easy it is to program on the GPUs.A - Sean Vocke
+the business, knowing how easy it is to program on the GPUs.
+A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
@@ -299,7 +307,8 @@ I think FPGAs have been around for quite a while. I think the recent consolidati
 put a lot more attention to it, on that. But it is -- it will be interesting to see how the
 market changes with that awareness now.
 All right. Do we have any questions from the audience right now? Okay. Let's move
-on to automotive. I think -- sorry, one back here.A - Colette Kress
+on to automotive. I think -- sorry, one back here.
+A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
 A - Sean VockeI had one about the virtual reality. What kind of ASPs do you think you could get? I
@@ -336,7 +345,8 @@ and researchers in the industry, for them to take it, work with it, move their o
 software algorithms -- us work together on that -- and we'll come soon with our next
 steps in terms of our DRIVE.
 Sure. So I think you talked about ADAS. We had a company here yesterday called
-Mobileye, talking about them having about 80% of the ADAS market today. MaybeA - Colette Kress
+Mobileye, talking about them having about 80% of the ADAS market today. Maybe
+A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
 A - Sean Vocketalk about how your solution is different from, say -- not just a solution guy, like a
@@ -373,7 +383,8 @@ Okay. Do we have any other questions right now? All right. Let's talk about your
 model. And if you look at your profitability, your margins are now -- I think gross
 margins are over 55%; operating margins over 20%. Maybe talk about how your
 margins and profitability have been able to expand so much over the last couple of
-years.A - Colette Kress
+years.
+A - Colette Kress
 A - Sean Vocke
 A - Colette Kress
 With our focus on the four key markets and focused on a platform position, it really
@@ -409,7 +420,8 @@ felt we could address the need for connectivity potentially with an outside part
 and not necessarily having to build it ourselves. It was a tough decision. It was an
 important part of our overall business.
 But after much discussion and needs of our businesses for investments, we decided
-it was the best for us to either wind down or sell the operations. So we ended upA - Sean Vocke
+it was the best for us to either wind down or sell the operations. So we ended up
+A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
 A - Colette Kresschoosing to wind it down in the Second Quarter. And we're still working through that
@@ -446,7 +458,8 @@ Our range of expenses for this year is about $70 million to $90 million so far f
 fiscal year. But that incorporates multiple components of both the offense side of the
 ITC. But also our structure on the defense side that we have to do as well. As we go
 into fiscal year 2017, we'll just have to see the direction of where this goes. We're just
-waiting right now for the courts.A - Sean Vocke
+waiting right now for the courts.
+A - Sean Vocke
 Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
@@ -481,7 +494,8 @@ go over that again?
 Yes. The hearing took place at the end of June and, as we enter in the first part of
 October, the first week of October, we are expected to hear from the judge on that
 ruling. Most likely after that single judge ruling, it will move to the Commission in the
-January/February timeframe, for them to also make a ruling on the case.A - Sean Vocke
+January/February timeframe, for them to also make a ruling on the case.
+A - Sean Vocke
 A - Colette Kress
 A - Sean Vocke
 A - Colette KressBefore we finish up, I wanted to touch on the GRID business real quick. Maybe talk
@@ -517,6 +531,7 @@ you're -- I think it's over about $3 billion in net cash.
 What are your long-term plans for cash? How much do you need to run the
 business? And are you potentially looking at getting involved in the M&A party out
 there?
+
 A - Sean Vocke
 A - Colette Kress
 A - Sean VockeSo our capital return program is a key component of our shareholder value. We

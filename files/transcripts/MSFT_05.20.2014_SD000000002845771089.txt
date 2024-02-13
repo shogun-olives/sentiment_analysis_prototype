@@ -17,6 +17,7 @@ bring to bear in a set of markets across the IT industry that are booming from
 devices, the cloud, big data and data analytics and social.
 And we have assets that allow us to capitalize on value like no other company across
 those markets. So thrilled to be here and excited to get through the session today.
+
 Judson Althoff
 Sterling Auty
 Judson Althoff
@@ -56,7 +57,8 @@ the mainstay for growth and profitability for the Company.
 That stated, it is a big company, right? And to state that we have seen dramatic
 change in the first 100 days of a new CEO would, frankly, be a little lofty. But we are
 very excited about the direction the Company is headed in. And we think Satya
-brings great energy and background from the technology side.Sterling Auty
+brings great energy and background from the technology side.
+Sterling Auty
 Judson Althoff
 Sterling Auty
 Judson Althoff
@@ -93,7 +95,8 @@ So the One Microsoft effort, frankly, is a journey. I would say we are well star
 that journey. Maybe we are now down to maybe like three or four Microsofts instead
 of 22 Microsofts when I started from a product standpoint. But what it allows us to do
 is really capitalize on better opportunity in the marketplace in a differentiated
-capacity. And let me explain what I mean by that.Sterling Auty
+capacity. And let me explain what I mean by that.
+Sterling Auty
 Judson Althoff
 Sterling AutyThere are four major growth trends that we see that are really driving the IT industry
 right now. First of all, the explosion of all of the heterogeneous device form factors
@@ -129,6 +132,7 @@ But when you look across those elements -- I completely agree in terms of that
 integration. But there still has to be a starting point to the discussion.
 
 Sure.
+
 Judson Althoff
 Sterling Auty
 Judson AlthoffSo where do you see, in terms of your customer set within your organization, where
@@ -165,7 +169,8 @@ pilot book rather than the big briefcases they carry around all the time.
 So what was issued to us was actually a device RFP. And frankly, if we would've just
 shown up with our bright, shiny objects versus everybody else's bright and shiny
 objects, we probably would've lost the opportunity. But by actually sitting down with
-a customer and having a much broader conversation about what are the experiencesSterling Auty
+a customer and having a much broader conversation about what are the experiences
+Sterling Auty
 Judson Althoff
 Sterling Auty
 Judson Althoff
@@ -202,7 +207,8 @@ Exactly. Let's actually take a step up to the high level. When we think about IT
 spending and the cyclical nature of it, from my aspect it felt like the US economy
 stagnated during 2013.
 What are you hearing from customers in terms of their spending appetite? Before we
-get to what's the things that you see them putting in place, just -- do you see themJudson Althoff
+get to what's the things that you see them putting in place, just -- do you see them
+Judson Althoff
 Sterling Auty
 Judson Althoffmore eager to spend? And what types of projects? Or are they a little cautious. And
 why?
@@ -237,7 +243,8 @@ I do. I think it actually is representative of Microsoft's growth and the health
 own balance sheet, because of the fact that when companies are making on-premise
 investments today they are making them with the future in mind. They are making
 them with the thought that they may eventually go to the cloud; they may eventually
-roll out to hybrid environments and support both.Sterling Auty
+roll out to hybrid environments and support both.
+Sterling Auty
 Judson Althoff
 Sterling Auty
 Judson AlthoffSo having singular code lines that work in both environments is sort of table stake for
@@ -273,6 +280,7 @@ eﬃciencies and collaboration in the cloud.
 In terms of the points that you can really spark that discussion, how much of that is
 coming around contract renewals versus other points that you can begin that
 discussion?
+
 Sterling Auty
 Judson AlthoffYes. Contract renewals certainly provide a moment to have a customer conversation.
 We try not to have that be the defining moment, quite frankly, in terms of our
@@ -311,7 +319,8 @@ couple of years. But we see a much more aggressive approach towards doing that
 the next fiscal year, which for us starts in July.
 The second thing is the growth in the cloud around enterprise workloads with Azure.
 We have seen explosive growth with Azure, nearly 200% on average worldwide. And
-that has come across both traditional infrastructure as well as platform as a service.Sterling Auty
+that has come across both traditional infrastructure as well as platform as a service.
+Sterling Auty
 Q - Unidentified Participant
 A - Judson Althoff
 Q - Unidentified Participant
@@ -349,6 +358,7 @@ Do you want to repeat that?
 Exactly. For the benefit of the webcast: can you help size and frame the opportunity
 for Oﬃce 365 in that SMB and midmarket, where they may not be on Software
 Assurance or an ELA?
+
 Q - Unidentified Participant
 A - Sterling Auty
 A - Judson Althoff
@@ -385,7 +395,8 @@ infrastructure to manage; and you are far more nimble at going to the next great
 features that come out with the product.
 I meant for Microsoft.
 
-Oh, what are we forgoing? Very little if any, very little.Q - Unidentified Participant
+Oh, what are we forgoing? Very little if any, very little.
+Q - Unidentified Participant
 A - Sterling Auty
 A - Judson Althoff
 Q - Unidentified Participant
@@ -421,7 +432,8 @@ consumer or a commercial-based customer.
 And that experience is what we're really after, quite frankly, whether it's on our first-
 party hardware or third-party OEM hardware or, frankly, even a competitor's
 platform. What we are trying to do is create services that are sticky, that start from the
-consumer level, that are largely freemium at the consumer level.A - Sterling Auty
+consumer level, that are largely freemium at the consumer level.
+A - Sterling Auty
 A - Judson Althoff
 A - Sterling AutyIf you think of services like OneNote and OneDrive and Skype, we are investing in
 creating better aﬃnity circles around those snackable applications such as they
@@ -459,7 +471,8 @@ And we look at it mostly from a share-of-eyeball play. In other words, in a devi
 that has greater share of human beings' eyeballs will be the ones that we try to
 target over time with our services.
 
-Other questions? Yes?Q - Unidentified Participant
+Other questions? Yes?
+Q - Unidentified Participant
 A - Sterling Auty
 A - Judson Althoff
 A - Sterling Auty
@@ -495,7 +508,8 @@ the next-generation Surface product.
 
 Other questions? One of the questions that I had is: you look at the opportunity; you
 mentioned mobility, etc., especially now that you have got Oﬃce available on other
-form factors. Do you already have the infrastructure in place?A - Judson Althoff
+form factors. Do you already have the infrastructure in place?
+A - Judson Althoff
 A - Sterling Auty
 A - Judson AlthoffSo as I think about working remotely -- so I am here at the conference; I have all my
 models in Excel back on a shared drive. Is the infrastructure there in place where
@@ -533,7 +547,8 @@ So we see growth very much in the same areas that I articulated: in these
 consumable, viral, freemium applications on the consumer side; and tons of growth
 in really three areas on the commercial side. One on the front end of productivity,
 from productivity through enterprise social and unified communications in that. And
-CRM.A - Sterling Auty
+CRM.
+A - Sterling Auty
 A - Judson AlthoffWe see huge growth in platform as a service through what we will recognize in
 Azure; and then huge growth on the data side with SQL 2014, and Power BI and the
 analytics capabilities that we provide out to the common user every day.

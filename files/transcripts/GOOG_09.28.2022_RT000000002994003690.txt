@@ -22,7 +22,8 @@ computers. We getting closer by making huge leaps in computer science. We're now
 able to understand information in its many forms from language to images to things
 in the real world. With this deeper understanding, we are going far beyond the
 search box to create search experiences that work like -- more like our minds that are
-as multi-dimensional as people are.As we enter this new era of search, you'll be able to find exactly what you're looking
+as multi-dimensional as people are.
+As we enter this new era of search, you'll be able to find exactly what you're looking
 for by combining images, sounds, text, and speech. You'll be able to ask questions
 with fewer words, or even none at all, and we'll still understand exactly what you
 mean and even suggest things you might find useful. And you can explore
@@ -60,7 +61,8 @@ is made possible by our in-depth understanding of local places and product
 inventory, informed by the millions of images and reviews on the web. I'm excited to
 announce that Multisearch Near Me will start rolling out in the U.S. later this fall.
 One of the most powerful aspects of visual exploration is its ability to break down
-language barriers. We've gone beyond translating text to translating pictures. OurDounia Berradatechnology already identifies texts in screenshots or pictures of the world around
+language barriers. We've gone beyond translating text to translating pictures. Our
+Dounia Berradatechnology already identifies texts in screenshots or pictures of the world around
 you and translates it in real time, making anything you see readable in your
 language.
 People use Google to translate text in images over 1 billion times a month, across
@@ -98,7 +100,8 @@ again. But this time, instead of selecting an image from my gallery, I'm just go
 open up the camera. And you can see now the translation blending the image as
 though that's how it was created, and we can still see all of the details of the image.
 So cool, you might say it's out of this world. We're excited to bring you this improved
-experience later this year.Prabhakar Raghavan
+experience later this year.
+Prabhakar Raghavan
 Nick BellBack to you, Prabhakar.
 
 Thanks, Dounia. We've just shared some incredible ways you can search visually. And
@@ -136,7 +139,8 @@ Maps, zoom in on a neighborhood, see what's popular, and quickly get the vibe of
 an area, so you can find what fits your mood. Let's check out the Latin Quarter.
 Browsing the map, you can instantly get a feel for what it's like and quickly find the
 most popular things to do, like admiring beautiful landmarks, strolling in the gardens
-or enjoying breakfast at one of the trendy sidewalk cafes.This is possible because we combine information about a place, like how busy it is,
+or enjoying breakfast at one of the trendy sidewalk cafes.
+This is possible because we combine information about a place, like how busy it is,
 with insights from people like you, who, every day, contribute to Google Maps with
 more than 20 million reviews, photos and more. This new way to get the vibe of a
 neighborhood will roll out globally in the coming months. And this is only the start of
@@ -176,7 +180,8 @@ Say, you're headed to an outdoor market in an unfamiliar part of town, but on yo
 way, you remember that you'll need some cash. Today, finding a nearby ATM would
 involve lots of steps. You have to stop, search for ATMs on your phone, locate the
 closest one on the map, and then know how to get there. We're excited to announce
-that we're radically transforming, how you can explore places nearby.Sophia LinSoon, you'll be able to lift up your phone, tap on the camera in the Maps search bar
+that we're radically transforming, how you can explore places nearby.
+Sophia LinSoon, you'll be able to lift up your phone, tap on the camera in the Maps search bar
 and instantly see what's around you appearing overlaid on the real world, like that
 ATM you were looking for. You'll be able to see all kinds of places, coffee shops,
 grocery stores, transit stations and more. You can also check business hours and how
@@ -214,7 +219,8 @@ Let's say my friend posts a delicious-looking pastry, but I'm not sure what it i
 croissant? A muﬃn? Using Lens in the Google app, I can search a screenshot of the
 post to identify that it's a kouign-amann, a French pastry made with layers of butter
 and dough. Thanks to Multisearch, which Prabhakar mentioned earlier, I can add
-Near Me to see local bakeries where I can try one.Or maybe you already know exactly what dish are craving. We're completely
+Near Me to see local bakeries where I can try one.
+Or maybe you already know exactly what dish are craving. We're completely
 reorganizing Google's food information to bring you exact dish results, when that's
 what you're looking for. Like those soup dumplings. I can simply search for them on
 Google to see all the soup dumplings near me with pictures and reviews to help me
@@ -253,7 +259,8 @@ From first search to first bite, Google is making it easier to find the food and
 you love. We recently put these new features to the test. We sent our very own Yul
 Kwon to New York to try them out with one of the city's toughest food critics,
 Comedian Ronny Chieng. Let's have a look.
-(Audio-Video Presentation)Lilian Rincon
+(Audio-Video Presentation)
+Lilian Rincon
 At Google, we recognize that shopping is about so much more than just buying. It's
 about tapping into your natural human curiosity, browsing, exploring new products
 and brands, finding the best deal. And of course, that awesome feeling when you
@@ -292,7 +299,8 @@ Now, sometimes there are certain product categories that require a lot more
 research before you know what to buy. For example, when my nine-year old wanted
 a mountain bike, I read tons of articles, opened countless tabs on my browser, and
 spent ages researching which models were best for his size, the nearby terrain and
-so on.For shopping moments like these, we've created the Buying Guide, which collects
+so on.
+For shopping moments like these, we've created the Buying Guide, which collects
 the most helpful insights from a wide range of trusted sources all in one place. With
 this information at my fingertips, I can research and make a decision quickly and with
 confidence. The Buying Guide recently became available in the U.S. with more
@@ -331,7 +339,8 @@ We're bringing you new shoppable ideas, right in Discover on the Google app.
 Discover already helps you stay on top of what you're into with articles suggested
 based on what you like and have searched, and starting soon, you'll also see
 suggested styles based on what you've been shopping for and what others have
-searched for too.Prabhakar RaghavanFor instance, because I'm into vintage styles, I'll see suggested queries of popular
+searched for too.
+Prabhakar RaghavanFor instance, because I'm into vintage styles, I'll see suggested queries of popular
 vintage looks. Here, one of my favorite artists, Selena Gomez, is rocking a classic
 band tee. So if her tee or anything else catches my eye, like this dress, I can simply
 use Lens to see options of where to buy. From inspiration to purchase, we're making
@@ -368,7 +377,8 @@ The other foundational element I mentioned is connecting you to the widest array
 diverse sources. People come to Google with questions, big and small, general and
 specific, hoping to find that perfect article, video, image, restaurant or retailer to help
 them. But for many questions, there's no single, right answer. The answers come
-from the breadth of human experience and expertise.No matter what the question, someone somewhere out there has the knowledge to
+from the breadth of human experience and expertise.
+No matter what the question, someone somewhere out there has the knowledge to
 help. Like, how do I get these white shoes white again? Or, how do I bake an
 erupting volcano birthday cake? A more common query than you would think. But
 there's more we can do to help you find first-hand experiences in Search. For times

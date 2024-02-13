@@ -6,7 +6,8 @@ I'd like to remind you that our call is being webcast live on NVIDIA's Investor
 Relations website. The webcast will be available for replay following this call. In
 addition, you can find a presentation on the proposed transaction, as well as FAQs
 on the NVIDIA Investor Relations website. The content of today's call is NVIDIA's
-property. It can't be reproduced or transcribed without our prior written consent.Jensen HuangDuring this call, we may make forward-looking statements based on current
+property. It can't be reproduced or transcribed without our prior written consent.
+Jensen HuangDuring this call, we may make forward-looking statements based on current
 expectations. These are subject to a number of significant risks and uncertainties,
 and our actual results may differ materially. For a discussion of factors that could
 affect our results and business, please refer to our most recent Forms 10-K and 10-Q,
@@ -45,7 +46,8 @@ datacenter-scale workloads, again, across the entire stack from the compute node
 networking to storage. For this reason, Mellanox's system-to-system datacenter-scale
 interconnect technology is important to us. We believe our platform would be
 stronger and deliver the best possible performance for datacenter customers by
-innovating across the computing, networking and storage stacks.Eyal Waldman
+innovating across the computing, networking and storage stacks.
+Eyal Waldman
 Colette KressBeyond these significant product synergies, we're excited about the tremendous
 cultural fit with Mellanox. Like NVIDIA, they have performance-driven culture with a
 focus on innovation. I look forward to working even more closely with their talented
@@ -84,7 +86,8 @@ Mellanox's customer base and channel partners have significant overlap with our
 own, and customers include large hyperscale and cloud service providers, as well as
 many of the world's largest super-computing centers, direct customers, including
 many of the same large IT infrastructure OEMs that we partner with for our go-to-
-market. We believe that there will be opportunities to cross-sell and enhance ourOperator
+market. We believe that there will be opportunities to cross-sell and enhance our
+Operator
 Q - C.J. Muse
 A - Jensen Huangbroader solution set over time given each company's technology assets and
 customer bases in high-performance computing, enterprise, and hyperscale. But we
@@ -120,7 +123,8 @@ major segments if you will from the way we look at datacenters.
 As you know that one of the most important drivers in the datacenter world today is
 a new type of workload that's emerged and it's a data-centric type of workload. It
 requires an enormous amount of data and a huge amount of computation to infer
-insight, to extract insight out of data. We call it artificial intelligence and machineQ - C.J. Muse
+insight, to extract insight out of data. We call it artificial intelligence and machine
+Q - C.J. Muse
 A - Colette Kress
 Q - C.J. Muselearning and data analytics. This type of workload is just simply too big to fit on any
 one computer. And there's a couple of ways that you could solve the problem, but
@@ -160,7 +164,8 @@ datacenter. Mellanox is well managed and it already has quite a lean organizatio
 We have many areas of operational leverage that we can accelerate for both of our
 development plans as we move forward. And over the long term, we certainly see
 opportunities for operating leverage of bringing these two companies together.
-Thank you.Operator
+Thank you.
+Operator
 Q - Aaron Rakers
 A - Colette Kress
 A - Jensen HuangAnd your next question is from Aaron Rakers with Wells Fargo.
@@ -202,7 +207,8 @@ fantastically throughout.
 Now, we're going to continue to work with switch companies all over the world and
 the reason for that is, of course, datacenter is heterogeneous by nature, there are
 parts of the datacenter where certain partners are going to be particularly great at.
-Arista is great in the segments that they serve and Cisco continues to be incrediblyQ - Aaron Rakers
+Arista is great in the segments that they serve and Cisco continues to be incredibly
+Q - Aaron Rakers
 Operator
 Q - Pradeep Ramani
 A - Jensen Huang
@@ -244,7 +250,8 @@ architecture between the GPUs that NVIDIA designs and sells and the interconnect
 that Mellanox designs and sells. We can now move onto the next stage of integration
 and build more eﬃcient datacenters for wide number of applications and markets.
 The way we've done it now is through external connectivity. The next stage of
-building smarter, more eﬃcient and more productive datacenters will be higherQ - Pradeep Ramani
+building smarter, more eﬃcient and more productive datacenters will be higher
+Q - Pradeep Ramani
 Operator
 Q - Stacy Rasgon
 A - Jensen Huang
@@ -283,7 +290,8 @@ Hey, Stacy. This is Colette. I'll try and answer that question. At this time, we
 changing our guidance that we just provided about a month ago for the current
 fiscal year. When this deal actually closes, I will be able to give you more color
 regarding what we see going forward in terms of guidance with the two companies
-together and we'll talk about the overall reporting at that time.Q - Stacy Rasgon
+together and we'll talk about the overall reporting at that time.
+Q - Stacy Rasgon
 A - Jensen Huang
 Operator
 Q - Unidentified Participant
@@ -323,7 +331,8 @@ The second is just alignment of vision of the future of the industry. We both se
 same way, that this transaction is about uniting the two of the leading technology
 companies in high-performance computing, it's about doubling down it's
 datacenters, it's about inventing the future of datacenters, which is going to be
-workloads that run across the entire datacenter. Imagine one application that's splitQ - Will Stein
+workloads that run across the entire datacenter. Imagine one application that's split
+Q - Will Stein
 Operator
 Q - Mark Lipacis
 A - Jensen Huangup in containers that's operating in servers all over the datacenter and results are
@@ -366,7 +375,8 @@ about connecting multiple systems also with the same sensibility of very low lat
 very high throughput and just incredibly well optimized software stacks that are
 integrated with the gigantic body of software that's running on top of the datacenter.
 If you look at their body of work, whether it's in high-performance computing,
-supercomputing, enterprise computing or in hyperscale computing, their softwareQ - Mark Lipacis
+supercomputing, enterprise computing or in hyperscale computing, their software
+Q - Mark Lipacis
 A - Jensen Huang
 Operatorstack is integrated deeply into the world's body of work if you will. And so, I think. I
 think their interconnect and our interconnect, their software and our software, has

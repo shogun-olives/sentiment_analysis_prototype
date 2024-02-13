@@ -20,7 +20,8 @@ busy with that right now.
 You brought it up, so we'll keep pulling the thread on Copilot. 99.5% of the
 questions I get are on this, and everyone asks. I know you haven't availed everything,
 maybe not all the pricing's out, but what does this look like in five years in terms of,
-does everything have a Copilot? Are we going to have a Copilot across everyA - Jared Spataro
+does everything have a Copilot? Are we going to have a Copilot across every
+A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thillapplication and it's going to be all fueled by AI? I mean just share your vision of what
@@ -59,6 +60,7 @@ disruptive opportunity over time.
 Back then, you haven't seen anything quite like this.
 
 Yeah, sure.
+
 A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataro
@@ -101,7 +103,8 @@ up to.
 
 The monetization strategy, we can see it in GitHub at a pretty nice price uplift. I
 mean, when you think about kind of what's baked in at the core versus what's the
-incremental add-on, how do you think about this? I know you can't avail the pricingA - Jared Spataro
+incremental add-on, how do you think about this? I know you can't avail the pricing
+A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataroright now, but how do you think about this? And how should we think about is, we're
 all going to be probably evaluating the soon as customers what --
@@ -140,7 +143,8 @@ I'm not saying you're doubling the price per seat -- per user per month, but if 
 did, it would be because of value productivity and then the cost to run. It's just -- so
 we see --
 
-All those factors, yes, that's right.Q - Brent Thill
+All those factors, yes, that's right.
+Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataro
@@ -182,7 +186,8 @@ speaking, our position is we're very tech optimist. We don't think that this all
 sudden automates people out of jobs. We think they go on to do higher-value jobs
 within the functions that they run. And I'd also say that it gives us an opportunity with
 AI that we're very excited about with some products that are public to also start to
-move from just a plain per user type of charge to more consumption-based charges.Q - Brent Thill
+move from just a plain per user type of charge to more consumption-based charges.
+Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thill
 A - Jared SpataroAnd that combination could be pretty interesting for the productivity space that I'll
@@ -222,7 +227,8 @@ looks like because you're using ChatGPT, very sophisticated. But then that's not
 Typically when I demo to customers, I'll ask them if I can transcribe the meeting, and
 I'll start then I'll let it go for about 15 minutes, and then, I'll say, hey, can I show you
 something. And I pull-up Copilot and I say, ask any question about what we've
-talked, or any question. And first they start typically with tentative kind of basicQ - Brent Thill
+talked, or any question. And first they start typically with tentative kind of basic
+Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thillquestions like what did Jared ask? What did Bob answer? But then they start to
 realize that the thing is very, very good at analyzing sentiment you can ask.
@@ -262,7 +268,8 @@ actually think Windows has a moment of revival coming as AI really changes what
 operating system can be in personal computing. And I'm happy to talk more about
 that if you'd like to or we can just skim over it.
 
-Yes, please.A - Jared Spataro
+Yes, please.
+A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thill
@@ -302,7 +309,8 @@ So we think there's something there.
 
 Everyone has been super surprised by Oﬃce. I mean to put up 17% to 21% constant-
 currency growth consecutively, it's like Jimmy Butler or Steph Curry, or you go
-through like it's just the consistency is insane, like how do you do that.A - Jared Spataro
+through like it's just the consistency is insane, like how do you do that.
+A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thill
@@ -344,7 +352,8 @@ starting to see Power Tip from this early part of the market into what we call a
 majority buyer. So what used to be BDM type buyers where it'd be like we do
 pockets within the enterprise. Now that buying habit has switched over very clearly
 for us over into IT. That's good because IT typically will do these broad wall-to-wall
-type purchases. So we're definitely seeing kind of an opportunity right now as theQ - Brent Thill
+type purchases. So we're definitely seeing kind of an opportunity right now as the
+Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thill
 A - Jared Spatarotechnology is maturing and the market itself is maturing across all of those different
@@ -387,7 +396,8 @@ from application to application essentially kind of trying to piece together rea
 are the meta goals of their job, which is how do I serve my customers better, what
 should I do next, what's the next most high-value action I should take. And we really
 think that these natural language interfaces can change. And we do anticipate that
-people spend less time in biz app-type scenarios -- interfaces, we think that peopleQ - Brent Thill
+people spend less time in biz app-type scenarios -- interfaces, we think that people
+Q - Brent Thill
 A - Jared Spataro
 Q - Brent Thill
 A - Jared Spataro

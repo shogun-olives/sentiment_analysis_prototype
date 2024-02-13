@@ -13,7 +13,8 @@ Walmart's CEO, Doug McMillon, understands the power not just of investing in
 technology but also of investing in people. When he was just a teenager, Doug got
 his start at Walmart, working a summer job unloading trucks.
 He knows the value of hard work and of adapting and running with new ideas. Over
-more than 30-year career at Walmart, he served in senior leadership roles in everyDoug McMillon
+more than 30-year career at Walmart, he served in senior leadership roles in every
+Doug McMillon
 Gary Shapiro
 Doug McMillonone of Walmart's business segments. And he's helped make Walmart the world's top
 retailer with more than 10,000 stores in 19 countries and worldwide revenues of $611
@@ -50,7 +51,8 @@ and some roles will change. And some of them should like the ones that involve
 lifting heavy weight or doing repetitive tasks.
 As that's happening, we're designing new roles that our associates tell us are more
 enjoyable and satisfying and also often result in higher pay. So we're investing to
-help our associates transition to this shared future. We've changed and are changingMegan Croziera lot, so much so that lately I've been asked how do you even describe Walmart
+help our associates transition to this shared future. We've changed and are changing
+Megan Croziera lot, so much so that lately I've been asked how do you even describe Walmart
 today. We're a people-led, tech-powered omni-channel retailer dedicated to helping
 people. We want to help people live better.
 That starts with saving them money, but it doesn't stop there. Simply put, our team is
@@ -87,7 +89,8 @@ My time. And that focus on delivering great items and saving our customers a
 member's time, that's what's driving us to reimagine the future of retail. So I'm
 excited to take a few minutes to share how we're bringing it to life in our clubs. First
 of all, we have a digital relationship with our members. And when we say digital,
-most people think of our curbside pickup or delivery services, which are awesome.Latriece WatkinsBut something we're really proud of at Sam's Club is the digital relationship we have
+most people think of our curbside pickup or delivery services, which are awesome.
+Latriece WatkinsBut something we're really proud of at Sam's Club is the digital relationship we have
 with our members while they're physically shopping our clubs, and that's through
 our app. Our app is far more than a place to store your digital membership cards. It
 has all sorts of features from an AI-powered did you forget prompt that helps a
@@ -123,7 +126,8 @@ Watkins.
 Hi, everyone. At Walmart, we have a clear purpose: to help people save money and
 live better. As merchants, we're proud of the role we get to play in delivering that
 purpose. We help customers solve problems. We do it with innovative products and
-technology.As Doug said, we've chosen the second path where people come first. For
+technology.
+As Doug said, we've chosen the second path where people come first. For
 merchants, that means the customer. As we choose products, we consider things like
 quality, sustainability, the supply chain, including how the people who make our
 items are treated. And of course, we give customers value for their money. We're
@@ -159,7 +163,8 @@ stage, we announced InHome delivery.
 It was a first-of-its-kind service that allows customers to have their groceries
 delivered all the way into their homes and even further into their refrigerators.
 Today we're announcing that we're taking that service a step further with a new
-replenishment feature that we're currently building.Whitney Pegden
+replenishment feature that we're currently building.
+Whitney Pegden
 Latriece Watkins
 Whitney Pegden
 Latriece Watkins
@@ -189,7 +194,8 @@ poured and then go for the milk and nothing.
 Yes. You're right. Things get off track real fast if that coffee routine isn't right.
 You're right. The good news is we've solved that. Customers who are Walmart+
 InHome members will soon have access to replenishment. It's a feature we're
-building using AI to create a personalized replenishment algorithm. It learns aLatriece Watkins
+building using AI to create a personalized replenishment algorithm. It learns a
+Latriece Watkins
 Whitney Pegden
 Latriece Watkins
 Whitney Pegden
@@ -222,7 +228,8 @@ control. Bottom line, the entire shopping experience is automated from building 
 basket to delivering to your refrigerator, whether that's in your kitchen or garage.
 
 That's pretty cool.
-We think so.Latriece Watkins
+We think so.
+Latriece Watkins
 Whitney Pegden
 Latriece Watkins
 Doug McMillon
@@ -257,7 +264,8 @@ Our new search fundamentally changes the way customers engage with us. We
 become a partner in accomplishing a broader goal like throwing a great party. The
 new search is rolling out to our iOS users today and to all platforms this quarter. This
 isn't the only work we're doing with Microsoft. We've been strategic partners for
-many years.Satya Nadella
+many years.
+Satya Nadella
 Doug McMillon
 Satya Nadella
 Doug McMillon
@@ -293,7 +301,8 @@ developer to be able to go into your editor and suddenly start saying, wow, I ca
 also write code now again. And taking the drudgery -- the thing that struck me was
 taking the drudgery out, bringing the joy back to the craft of software engineering.
 That was just an unbelievable moment for me personally. And since then, of course,
-now when you think about search, you're not searching.Doug McMillon
+now when you think about search, you're not searching.
+Doug McMillon
 Satya Nadella
 Doug McMillon
 Satya Nadella
@@ -331,6 +340,7 @@ my thing -- intent and to be able to understand that intent and the day you can 
 that.
 That, I think, is a very powerful place. So I think starting with your associates and then
 scaling to the customers is where I think a lot of this technology can be applied.
+
 Satya Nadella
 Doug McMillon
 Satya NadellaI'm so excited as it relates to search that we're able to step change improvement and
@@ -373,6 +383,7 @@ the way that you approach this issue. And for those of you that don't get to tal
 Satya as much as I do, I can just tell you that he is being very deliberate and
 thoughtful trying to shape things towards empowerment and good given these new
 capabilities that can really literally change the world.
+
 Doug McMillon
 Suresh Kumar
 Doug McMillon
@@ -408,6 +419,7 @@ are right there. We are ready for them. And then third is receive, right? So thi
 experience that customers have receiving goods, whether it is by delivery, by pickup,
 InHome. The goods need to reach customers where they are and when they want
 them.
+
 Suresh Kumar
 Doug McMillon
 Suresh KumarWell, we've shown some of the innovations that are impacting our customers already
@@ -444,7 +456,8 @@ Yes. So Doug, the -- all the three systems that we had built, they work well
 individually, but we had an opportunity to reimagine the entire system. To simplify
 something that is so extremely complicated is never been done before, not at this
 scale. So a modern supply chain requires built-in intelligence that can do two things.
-Number one, it can forecast what customers want and when they want it.Doug McMillon
+Number one, it can forecast what customers want and when they want it.
+Doug McMillon
 Suresh Kumar
 Doug McMillon
 Suresh KumarAnd number two, it can orchestrate the movement of very, very different products
@@ -483,7 +496,8 @@ experience for customers can be pretty complicated.
 Yes. So Doug, this is the power of technology that's working behind the scenes. And
 by the way, it's only going to get better. Our connected supply chain, this is just the
 beginning. To realize our vision for adaptive retail, we will see a lot more
-interconnectedness between online and off-line consumer experiences, between ourDoug McMillon
+interconnectedness between online and off-line consumer experiences, between our
+Doug McMillon
 Suresh Kumar
 Doug McMillon
 Prathibha Rajashekhardistribution centers and our e-commerce fulfillment centers, stores and over time,
@@ -520,7 +534,8 @@ heavy lifting to automation. Implementing and connecting these four types of
 automated storage and retrieval systems is a huge part of our supply chain
 transformation, but it's not the only component. As Suresh said, demand forecasting
 is becoming more advanced on the front end, and we are innovating all the way
-through to the customer with the last mile of delivery.Doug McMillonWhen it comes to delivery, our focus is on giving customers convenient and
+through to the customer with the last mile of delivery.
+Doug McMillonWhen it comes to delivery, our focus is on giving customers convenient and
 affordable delivery solutions that complements their busy lives. For example, if you
 needed something delivered at four p.m. on a Tuesday, we can do that through
 scheduled delivery. If you needed something delivered into your refrigerator, as
@@ -555,7 +570,8 @@ It's here today. And like everything else we do, it's about one thing, serving t
 customer. So if you're in the DFW area, we can't wait for you to try it.
 
 Thank you, Prathibha. Well, we've shared a few tech-powered experiences today
-designed by our associates to help people live a better life. Of course, we want tohelp people save money on quality merchandise. That's where our purpose starts
+designed by our associates to help people live a better life. Of course, we want to
+help people save money on quality merchandise. That's where our purpose starts
 and what customers and members have relied on us for. And having the one-stop
 shop of a supercenter within 10 miles of 90% of Americans helps people save time.
 And with today's technology, we can save people even more time and create
@@ -595,7 +611,8 @@ brings some fantastic digital and HR experience to our company, but she brings a
 amazing heart for our associates. But first, I've asked Vishal Kapadia, who has more
 than a decade of experience in renewable energy and now leads our energy
 strategy, to talk about our goals.
-Vishal?Vishal Kapadia
+Vishal?
+Vishal Kapadia
 Donna Morris
 Thanks, Doug. At Walmart, we've been on a journey to reduce the impact of our
 operations on the environment, and we've made tremendous progress. We're on
@@ -636,7 +653,8 @@ this is a story about people. It's about the associates that built the technolog
 you've seen today. It's about the merchants who buy the items, and it's about the
 InHome delivery associate who places the carton of eggs exactly where you want
 them because of the meaningful connection they have with you that cannot be
-replaced by technology.It's also a story about people and work that continues to change. It looks different
+replaced by technology.
+It's also a story about people and work that continues to change. It looks different
 than it might have a year ago. And these people are embracing change in the
 service of our customers and our members, people and associates like Lisa. Let's
 take a look. (video playing)
@@ -676,7 +694,8 @@ the retail experience, but we believe it is essential to bring that exact same
 experience to our very own people. We're building technology tools to help our
 associates improve their jobs, enhance their experience for work today and to equip
 them with the skills for the future, creating the opportunity to turn a job into a career.
-As our company becomes more tech powered, we'll continue to evolve the rules toDoug McMillonsupport our associates' growth while also meeting the needs of our customers and
+As our company becomes more tech powered, we'll continue to evolve the rules to
+Doug McMillonsupport our associates' growth while also meeting the needs of our customers and
 our members.
 At the end of the day, we want our people to grow and thrive, and we want everyone
 to know that they belong at Walmart, our associates, our customers and our
@@ -708,4 +727,5 @@ describe the future of shopping.
 But remember that this is a story about people who are learning and adapting to
 make that future real.
 We all have a choice to choose a future that puts people first. If we keep doing that,
-we can help people around the world live a better life. That's what we want to do.That's the world we want to help create.
+we can help people around the world live a better life. That's what we want to do.
+That's the world we want to help create.

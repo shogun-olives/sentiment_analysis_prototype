@@ -20,7 +20,8 @@ Thank you. Thank you, Heather. Thank you all for giving me the time to speak wit
 you. Our strategy at Google for cloud computing is to help organizations advance
 and transform. I think there's clickers.
 
-Here we go.Thomas Kurian
+Here we go.
+Thomas Kurian
 There you go. Is to help organizations in different industries accelerate how they use
 digital technology.
 We do that with four important capabilities. Infrastructure, Platform, Solutions for
@@ -58,7 +59,8 @@ From a why we win, the differentiation that we see a lot of the reasons why we w
 are based on technology differentiators. First, we have deep support for core
 enterprise workloads. Metro Group, the largest retailer in Germany runs their SAP
 system on Google Cloud. And the reason is, they never have to take down the
-system ever, either for patching, maintenance or upgrades, super important for aretailer, that's running supply chain order management. We're the only cloud
+system ever, either for patching, maintenance or upgrades, super important for a
+retailer, that's running supply chain order management. We're the only cloud
 provider, that provides that.
 From a security point of view, Fortinet, Palo Alto, McAfee, Splunk a number of the
 leading security companies use our cloud to run their own cyber offerings. The
@@ -95,7 +97,8 @@ they chose us and migrated from another cloud provider to us was because of
 scalability and capability for analytics portfolio.
 And lastly, if you listen to Hulu and you call their contact center. A software agent
 answers the phone, improving the quality of customer service and lowering the cost
-of customer service. That software agent is a Google software agent, that speaks anatural language and can translate your questions in nine languages and eliminates
+of customer service. That software agent is a Google software agent, that speaks a
+natural language and can translate your questions in nine languages and eliminates
 the need for a human being to have to wait for a contact center agent.
 These are all examples of capability that we offer around data processing that are
 very differentiated in the market.
@@ -134,7 +137,8 @@ people the ability to build a vast -- large number of applications on our platfo
 thereby, making our platform more sticky.
 Our differentiators in this segment largely come to the unique capability that Google
 has in understanding consumers and understanding buying behavior and also
-optimizing AI.Next slide, please. So if you look at industry-specific solutions. In retail, we obviously
+optimizing AI.
+Next slide, please. So if you look at industry-specific solutions. In retail, we obviously
 understand a lot based on our search expertise, how to allow people to discover
 products. Many retailers are working with us to improve product discovery, because
 of our expertise in search. They would love to have the ability to take the inventory
@@ -173,7 +177,8 @@ ability to reach people.
 Last year, we trained 750,000 developers, increased the number of certified experts
 by 3.5 times. And today, if you're in the IT community, the highest-paid certification
 as measured by global knowledge is Google's Cloud certified professional. And that
-reﬂects the demand people are seeing for our technology.Here, our customers that have chosen to use us, we would not have been able to
+reﬂects the demand people are seeing for our technology.
+Here, our customers that have chosen to use us, we would not have been able to
 serve, for example, the Department of Transportation or the Arizona government,
 because we didn't have compliance certifications, now we do. We would not have
 been able to serve for example Home Depot, because we needed to provide some
@@ -213,7 +218,8 @@ than 2018, and we have seen strong growth in both certifications at partner-sour
 deals.
 Here are examples of partners. Just to give you a sense of reach, last week, we
 announced with Airtel, one of the largest telecommunications companies in India. A
-plan to distribute our technology to hundreds of thousands of small and mediumQ - Heather Bellinibusinesses. Somebody that we would not be able to reach directly, but through
+plan to distribute our technology to hundreds of thousands of small and medium
+Q - Heather Bellinibusinesses. Somebody that we would not be able to reach directly, but through
 them, we are able to reach.
 We also introduced for financial services, a partnership with Temenos, a large
 financial institution ISV that many financial institutions now find that because they run
@@ -247,7 +253,8 @@ Yeah. So why don't you have a seat, Thomas will go through a couple of these and
 then we'll open it up to the mic runners in about 10 minutes and so. But first of all,
 thank you, it's a great presentation. I wanted to ask first about you joined the firm as
 CEO of Google Cloud a little over a year ago. What's been the most surprising to
-you?A - Thomas Kurian
+you?
+A - Thomas Kurian
 Q - Heather Bellini
 A - Thomas Kurian
 Q - Heather Bellini
@@ -290,7 +297,8 @@ If you look at retail, it's a similar thing. We go to retailers and they ask us,
 whole e-commerce thing is helping me grow, but the cost of shipping one T-shirt
 from my store to the home, that's becoming a big cost driver for me. And if the
 fashion cycles are fast, maintaining an inventory assortment of size, color, all that is
-really going to be a huge cost driver. Can you guys help me optimize?Q - Heather Bellini
+really going to be a huge cost driver. Can you guys help me optimize?
+Q - Heather Bellini
 A - Thomas KurianSo first thing that we're very focused on is building that suite of industry-specific
 solutions, because while there's AI and machine learning technology, most
 organizations don't have the skillset with data scientists to build that. So the faster we
@@ -332,7 +340,8 @@ do the upgrades and all of that yourself.
 Then if you went forward to 2006 and looked at cloud, that was the emergence of
 infrastructure-as-a-service. And infrastructure-as-a-service was not -- was shut down
 your data center and use mine and most of it was an economic argument, cost-
-eﬃciency. It will be cheaper and more eﬃcient if you run it in mine. Where peopleQ - Heather Bellini
+eﬃciency. It will be cheaper and more eﬃcient if you run it in mine. Where people
+Q - Heather Bellini
 A - Thomas Kurian
 Q - Heather Belliniwant cloud to be is not about those two things. It's really about, can you give me new
 capability that I could not get before? And so when we look at the market, number
@@ -376,6 +385,7 @@ that the platform provider provides. But by the ecosystem of solutions that run 
 that platform. And so it's not just a near-term thing, it's a long-term strategic bet that
 the platforms that win are not those that are differentiated just by the cloud provider
 solutions, but by the ecosystem of best-of-breed solutions available on it.
+
 Q - Unidentified Participant
 A - Thomas Kurian
 Q - Heather Bellini
@@ -416,7 +426,8 @@ where we're expanding top-of-funnel online and then bottom-of-funnel conversion.
 We've hugely optimized our spend as well as our eﬃciency in that area and we're
 driving that digital demand to our own organization, meaning sales teams as well as
 to partners. I think, given -- I think you would expect Google, given our experience in
-advertising that we would know how to do digital reach pretty well.Q - Heather Bellini
+advertising that we would know how to do digital reach pretty well.
+Q - Heather Bellini
 A - Thomas Kurian
 Q - Heather Bellini
 A - Thomas Kurian

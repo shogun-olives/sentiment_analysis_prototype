@@ -23,7 +23,8 @@ So with that I'll now move into Al, who can give a quick introduction of himself
 then we'll start the discussion.
 
 Great. Thanks, Anurag. This is Al Gillen so I'm responsible for a number of areas of
-research at IDC. I've been doing the operating systems research both client andserver side since 1999 at IDC. I also oversee our virtualization software research and
+research at IDC. I've been doing the operating systems research both client and
+server side since 1999 at IDC. I also oversee our virtualization software research and
 our enterprise server research so collectively we see that all as infrastructure
 research the foundation for cloud as well as the OS layers on the client devices.
 So what I wanted to start was -- start with was just a brief overview and just offer a
@@ -61,7 +62,8 @@ Windows early or early Windows applications.
 So start menu Microsoft got a lot of grief for removing the start menu. There was a
 half-hearted addition of the start button at least to Windows 8.1 and the update and
 really what that did is it brought you back to the native UI, which is native to the
-Windows 8 environment.So what they've done is they've actually brought back the UI, which looks a lot more
+Windows 8 environment.
+So what they've done is they've actually brought back the UI, which looks a lot more
 and performs and behaves a lot more like the Windows 7 start button, which frankly
 for business users is very, very important. And again the paradigm shift that didn't
 happen here is that the users did not go out and replace all of their applications to
@@ -103,7 +105,8 @@ The application experience -- the Microsoft store is going to offer a convergenc
 point for all of the applications that customers will want. So everything from their
 phone to their PC applications will be able to be acquired through the Microsoft
 store, which again creates a more unified experience for Microsoft's customers that
-creates a larger ecosystem for the developers, which again is pretty important.I think I talk a little bit about unification of the experience. I think that -- again that
+creates a larger ecosystem for the developers, which again is pretty important.
+I think I talk a little bit about unification of the experience. I think that -- again that
 together with the universal application platform those two features really go hand in
 hand. We've got some new technologies; the Edge browser got a lot of publicity
 earlier this year when Microsoft rolled it out. We recognize that that Internet Explorer
@@ -145,7 +148,8 @@ did anything that truly got developers excited.
 Surface Hub is another one, you've probably seen the announcement of that I think it
 was last week and two weeks ago possibly the Surface Hub is a really a collaboration
 system, which is designed for large format and it provide some great interoperability
-with other Microsoft products and it's going to create a -- I think -- we think it's goingAnurag Rana
+with other Microsoft products and it's going to create a -- I think -- we think it's going
+Anurag Rana
 Al Gillento create some waves in the large collaboration space. Equally important is that's a
 Windows 10-based device as well and we'll be bringing more windows 10
 opportunities from a development perspective, so again more target locations for
@@ -187,7 +191,8 @@ negative and see it is not being attractive for the developers.
 So from the positive side, Microsoft is able to leverage what is frankly a very large
 developer community around the Microsoft Windows product base. And when you
 think about it, there is an excess of $1 billion PCs, in market billion and a half PCs
-something like that installed and majority of those are running some form ofAnurag Rana
+something like that installed and majority of those are running some form of
+Anurag Rana
 Al Gillenwindows. So they have this really large community. They had been able to sell a lot
 of product and developers have been really successful there. So from that
 (inaudible) from that point of view, Microsoft is leveraging its strength; leveraging its
@@ -225,7 +230,8 @@ their license fee for smaller screen devices.
 Yeah. So you touched on two different things, you talked about ecosystem; you
 talked about the motivation for Microsoft to give away product in certain market
 segments, which relates very directly to ecosystem. So my sense, my perspective is
-that Microsoft absolutely did the right thing in making Windows free for small formAnurag Rana
+that Microsoft absolutely did the right thing in making Windows free for small form
+Anurag Rana
 Al Gillenfactor devices mobile devices and in particular. that's important simply because
 there is no revenue to be gained there.
 I mean, of course Apple doesn't sell, it doesn't sell iOS exclusive of its hardware just
@@ -264,7 +270,8 @@ Yeah, they are doing pretty well. It was a year ago, it was last spring when Mic
 made that announcement. It was around the same timeframe when they announced
 the version of Oﬃce for iOS, which also was very much a mobile first driven decision.
 So from my point of view big part of this was Satya Nadella trying to make clear that
-he was going to create a Microsoft ecosystem in these spaces.Anurag Rana
+he was going to create a Microsoft ecosystem in these spaces.
+Anurag Rana
 Al GillenAnd with regard to the restructuring yesterday, I mean, obviously, we don't know
 how that's all going to sort itself out in the end. But it seems fairly clear that they are
 deemphasizing some of their focus on hardware. But at the same time, they're also
@@ -304,7 +311,8 @@ ecosystem in the future. And part of that involves supporting the workloads and 
 me underscore the word workload, not operating system that customers want to run.
 So if a customer wants to run something on Linux on Azure, Microsoft is selling the
 cycles and really is there any difference in the monetization that Microsoft
-experiences running a Linux instance on Azure versus Windows instance on -- in IaaSAnurag Rana
+experiences running a Linux instance on Azure versus Windows instance on -- in IaaS
+Anurag Rana
 Al Gillenenvironment on Azure. The answer is no, not really. I mean Microsoft is selling the --
 they are selling the cycles; they are selling the disk space; they are selling network
 connectivity that's all part of what they are doing there.
@@ -342,7 +350,8 @@ applications that are already being deployed.
 In terms of using Azure, Azure is really the vehicle that Microsoft is banking on as
 being one of their key revenue producers in the future. It's reasonable to believe that
 existing installed instances of Windows Server and pick your number, whether it's
-2008 or 2012 or even some of the old server 2003, they are still out there.Anurag RanaAll the applications that are running on those windows instances continue to live in --
+2008 or 2012 or even some of the old server 2003, they are still out there.
+Anurag RanaAll the applications that are running on those windows instances continue to live in --
 in a Windows environment; they are not going to be ported to some uniquely
 different environment certainly not for Linux and probably not natively to Azure. They
 are going to be running in an IaaS environment probably for the rest of their lives,
@@ -380,7 +389,8 @@ stuff like that would be integrated at either in the core operating system or it
 part of as something like an Azure Active Directory where you don't have to pay a
 whole lot for it. I mean you pay something for it.
 But in case of tying up [ph] products it becomes a little more easier in that case than
-it is buying a separate bundle. What are your views on that?Al Gillen
+it is buying a separate bundle. What are your views on that?
+Al Gillen
 Anurag Rana
 Al Gillen
 Yeah. I mean, if you think about what has happened through the last 20, 20 [ph] plus
@@ -420,6 +430,7 @@ an edge over here compared to other companies given they already have a huge
 installed base; they already have applications that's written on Windows with these
 kind of integrated tools; they can actually make that switch a little bit easier. What's
 your thoughts on that?
+
 Anurag Rana
 Al GillenYeah. Well, so I mean there is really a big distinction between consumer markets and
 professional or business markets. And you're right, Microsoft has deep penetration
@@ -460,7 +471,8 @@ enterprise agreements with software assurance. So the software assurance gives y
 access to the next more current version of the product each time it comes out. And
 large companies tend to be the ones that would buy software assurance contract.
 On the consumer side or both on the small business side, on the consumer side, we
-don't see customers buying those kinds of agreements and certainly consumersAnurag Rana
+don't see customers buying those kinds of agreements and certainly consumers
+Anurag Rana
 Al Gillencan't buy -- they can't buy a maintenance contract for their windows product. What
 the consumers would do is they would go down to Staples and they would buy a
 box of software, which says Windows 10 upgrade buy this for replacement of your
@@ -497,7 +509,8 @@ one-year upgrade offer.
 So when you start to add in, factor in the net new PCs and phones and tablets that
 ship over the next three years getting a billion devices is not so -- it's not outrageous
 at all. In fact, I had have to argue that that was almost a fairly conservative statement
-that they made, and from my point view it's doable.Anyway, back to the point, what happens is we think that the consumer side of the
+that they made, and from my point view it's doable.
+Anyway, back to the point, what happens is we think that the consumer side of the
 market, we'll make a fairly aggressive move to Windows 10. And again assuming that
 number one, that when customers click on upgrade me to Windows 10, it works
 effectively and doesn't break for a lot of users. Number two, if after they've done the
@@ -539,7 +552,8 @@ to two years or something like that, they're prepared to do it. And again it all
 down to building at that immediate ecosystem, so that the developer community
 feels the pressure to get their applications upgrade for Windows 10 and new
 developers, they maybe don't have Windows, Windows-based products at all today
-say iOS or Android developers are going to look at this and say okay, yeah thereAnurag Rana
+say iOS or Android developers are going to look at this and say okay, yeah there
+Anurag Rana
 Al Gillen
 Anurag Rana
 Al Gillenreally are a lot of devices out there running on the Windows ecosystem maybe I
@@ -580,6 +594,7 @@ users right now. For any software development, the better feedback that you have
 the better your product is going to be. So why is that that has taken them so long to
 even think that something like this they should be -- why didn't they do this like five
 years ago or seven years ago or anything like this?
+
 Anurag Rana
 Al Gillen
 Anurag RanaWell, Microsoft used to make early copies of their products available to a finite
@@ -620,6 +635,7 @@ for Windows PCs.
 But we do think that it helps maintain the market evolution and frankly will help
 move customers more quickly toward considering new PC's by just giving them the
 experience of having touched Windows 10.
+
 Al Gillen
 Anurag Rana
 Al Gillen
@@ -660,6 +676,7 @@ we'll see the Windows Server 2008 products starting to taper down and being
 displaced by server 2012 and server 2016. And from my point of view, that's going to
 be the product that's going to bridge a lot of customers into cloud-based
 deployments.
+
 Al GillenSir, it's a very good point. Maybe we'll do another webinar just to talk about that.
 Thanks so much for your time Al and thanks everyone for listening.
 

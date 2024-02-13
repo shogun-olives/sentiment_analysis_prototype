@@ -14,7 +14,8 @@ month after we announced the Ampere, open AI introduced a model called GPT3.
 It's a 175 billion parameter model, and that's 10 times more compute intensity to train
 these models.
 So, that continues, the trajectory continues, 30 times more compute intensity to train
-the largest model, since we launched Volta. And this requires large scale computers,C.J. Muse
+the largest model, since we launched Volta. And this requires large scale computers,
+C.J. Muse
 Paresh Kharyabecause otherwise it could just take years to train these massive models. So that's
 the first trend. The second trend is, because these AI models are now so accurate,
 there is pervasive AI-powered applications everywhere, from conversational AI to
@@ -54,7 +55,8 @@ can optimize with a single architecture, while optimizing the utility and utiliz
 because the same investment to accelerate the Data Center, can accelerate a full
 range of applications, whether it's data analytics, artificial intelligence, AI inﬂuencing,
 virtual graphics, but all of that can be accelerated by the same infrastructure and the
-same investment.C.J. Muse
+same investment.
+C.J. Muse
 Paresh Kharya
 C.J. MuseFinally, for supercomputing, you mentioned we introduced next-generation of
 NVLink, and combined with our Mellanox InfiniBand technology, along with our
@@ -95,7 +97,8 @@ cycle of adoption, because the more developers, because they find it easy to
 develop on our platform, it implies creating more applications and more deployed
 endpoints, because there are more deployed endpoints, it attracts even more
 developers on our platform. So because of our full platform approach, we are able
-to sustain this virtuous cycle of adoption that's so vital in this industry.Paresh Kharya
+to sustain this virtuous cycle of adoption that's so vital in this industry.
+Paresh Kharya
 C.J. Muse
 Paresh KharyaI guess playing Devil's Advocate here, talking to some folks in the industry that
 clearly, I think this is more one to two years ago, there is a notion that, if you can just
@@ -136,7 +139,8 @@ inference, it's deeply integrated with TensorFlow. Similarly, it's deeply integr
 Microsoft ONNX Runtime. So, with the hyperscalers, our approach is to deeply
 integrate our software stack. On the other side, hyperscalers also contribute to our
 software stack. Just last week for example, Microsoft announced DeepSpeed. It's
-used for extreme scale training of models on thousands of GPUs, for models thatC.J. Muse
+used for extreme scale training of models on thousands of GPUs, for models that
+C.J. Muse
 Paresh Kharya
 C.J. Musereached trillions of parameters, really important contribution by Microsoft, and it
 benefits, because it's an open source project, it benefits every NVIDIA customer. So,
@@ -176,7 +180,8 @@ That's great, I appreciate that. Hoping to pivot now to different business verti
 think something that's special to NVIDIA is that you're clearly taking a customized
 approach to each vertical. And I guess, can you speak to which businesses are
 currently the fastest to adopt accelerated computing for AI and how are they
-benefiting from your platform?Paresh Kharya
+benefiting from your platform?
+Paresh Kharya
 C.J. Muse
 Paresh Kharya
 Yeah. So we're seeing adoption across retail, industrial, automotive, healthcare,
@@ -217,7 +222,8 @@ today is just spent just preparing for data, not even training, just preparing f
 So, data analytics is a big computing challenge and Spark is the most popular data
 analytics framework for distributed computing, for distributed data analytics. There
 are 16,000 enterprises and 0.5 million data scientists that use -- that use Spark for
-data analytics, primarily running on CPU servers.C.J. Muse
+data analytics, primarily running on CPU servers.
+C.J. Muse
 Paresh Kharya
 C.J. Muse
 Paresh KharyaNow with Spark 3.0, we are bringing GPU acceleration to this vital part of our end-to-
@@ -257,7 +263,8 @@ that is, developers today are writing applications that are not limited to the c
 of a single server. The modern applications that are being deployed today, these are
 micro services based, and they run everywhere in the Data Center. In fact, in some
 cases, they are running on the hybrid cloud as well. So the on-premise, the cloud
-and the edge is no longer siloed. There are hybrid applications that are takingC.J. Muse
+and the edge is no longer siloed. There are hybrid applications that are taking
+C.J. Muse
 Paresh Kharyaadvantage of each as needed. So, Spark in particular, is a great example of
 distributing data analytics processing and similarly Kubernetes is used to manage all
 of these clusters, at the Data Center scale.
@@ -298,7 +305,8 @@ partners like Red Hat Open shift to make GPU acceleration natively supported. An
 also with our partners like VMware for mainstream enterprise computing. Last year,
 we announced virtual compute server, that enables VMware vSphere to be used as
 the management layer for AI, and data analytics workloads that are GPU accelerated.
-And finally, we make all of our software stacks available, has containerized stacks forC.J. Muse
+And finally, we make all of our software stacks available, has containerized stacks for
+C.J. Muse
 Paresh Kharyaenterprise deployment, to help with this transition to the modern infrastructures and
 enterprises.
 So, (inaudible), we have about five minutes left. So, I figured I'd kind of conclude with
@@ -337,7 +345,8 @@ with NIH, we are able to create this model that detects with over 90% accuracy, 
 -- when pneumonia is due to COVID-19 and we made this model available on NGC
 for anyone to deploy.
 So use cases are immense and we are still in the nascent phases, as we drive our
-roadmap, it opens up new possibilities for developers and what's possible. So we'reC.J. Muse
+roadmap, it opens up new possibilities for developers and what's possible. So we're
+C.J. Muse
 Paresh Kharya
 C.J. Muse
 Paresh Kharya

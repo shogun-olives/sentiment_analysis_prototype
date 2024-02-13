@@ -14,7 +14,8 @@ We're really focusing on one thing and one thing only and that is how do we get
 electric cars to work, how do we get them to be as cheap as possible, et cetera, et
 cetera.
 So in order to build the Model 3, we have to build the largest battery factory in the
-world, which is Gigafactory in Reno. I'm just wanting to put something intoUnidentified Participant
+world, which is Gigafactory in Reno. I'm just wanting to put something into
+Unidentified Participant
 Martin Viechaperspective of how significant this factory is.
 Last year, in 2018, if you look at all non-Tesla electric vehicles sold around the world,
 the total number of batteries used in all non-Tesla EVs was about 46 gigawatt hours
@@ -51,7 +52,8 @@ The metric that we look at, which is an equivalent metric, is miles per kilowatt
 And it's very easy to calculate. Again, you take the EPA range of any electric vehicle.
 So 310 miles for Model 3 divided by the battery size and you get 4.0 miles per
 kilowatt hour of eﬃciency. And if you -- you can see that the difference between
-Model 3 and the rest of the industry is quite substantial.But that's not the only part of the story. The second part of the story is that
+Model 3 and the rest of the industry is quite substantial.
+But that's not the only part of the story. The second part of the story is that
 acceleration is actually significantly faster as well. So better acceleration, better top
 speed and the best-in-class eﬃciency.
 What this chart is basically telling you is that Model 3 can have pretty much half the
@@ -89,7 +91,8 @@ After less than 12 months of sales, Model 3 started to outsell BMW 3 Series, Aud
 Lexus IS, Mercedes C-Class and Jaguar XE combined. This -- I've never seen this in
 the automotive industry before, maybe in the '70s when Toyota Corolla came to the
 U.S. market for the first time and completely blitzed the competition. It's extremely
-rare to see this in the industry.And it's just not one point. So since July 2018, one year later, this is what happened.
+rare to see this in the industry.
+And it's just not one point. So since July 2018, one year later, this is what happened.
 So this is the last 12 months. Again, Model 3 substantially higher number of sales
 than all the main competitors combined.
 So what are the reasons for this? Because a lot of people say, hey, all these other
@@ -128,7 +131,8 @@ profit generation is pretty limited for electric vehicles. That's why carmakers 
 really -- sorry, dealerships are not really incentivized to sell many EVs. That's exactly
 why many other carmakers were forced to build their own dealer networks, such as
 BMW i, their own dealer networks to be able to sell some EVs. And lastly, of course,
-Autopilot.So the other thing I wanted to speak about is that many people tell me that, well, this
+Autopilot.
+So the other thing I wanted to speak about is that many people tell me that, well, this
 is unsustainable. This massive gap between us versus all of our competitors
 combined doesn't make any sense. It's not sustainable. There's actually something
 more behind that. Only 12% of our trade-ins -- so this is a database of all the trade-ins
@@ -167,7 +171,8 @@ automotive-related company that I have ever worked with. And it's -- by far the 
 difference that I have seen is the pace of innovation. And I'll try to give you one
 example.
 This is the original Roadster. We stopped making the original Roadster in 2012. And
-at this time, we were able to produce about 10 units a week. And it wasn't -- probablyQ - Unidentified Participant
+at this time, we were able to produce about 10 units a week. And it wasn't -- probably
+Q - Unidentified Participant
 A - Martin Viecha
 Q - Unidentified Participant
 A - Martin Viecha
@@ -201,7 +206,8 @@ So when car gets scrapped, on average, it would have about 120,000, 150,000 mile
 on the clock. So we gave a warranty of 120,000 miles. And I think the battery is also
 8-year warranty. But of course, I mean, we've had Model Ss and Xs that have run
 200,000, 300,000, 400,000 miles. And they're still working.
-Can you talk a little bit about storage and generation (inaudible)?A - Martin Viecha
+Can you talk a little bit about storage and generation (inaudible)?
+A - Martin Viecha
 Q - Unidentified Participant
 A - Martin Viecha
 Q - Unidentified Participant
@@ -239,7 +245,8 @@ You need to have the infrastructure. As long as people see service in their city
 bunch of supercharging stations in their city, like, that's going to make them go
 online and buy the car. But store growth, we've noticed, historically, does not really
 generate that much demand.
-What portion of your customers have test driven the car?A - Martin Viecha
+What portion of your customers have test driven the car?
+A - Martin Viecha
 Q - Unidentified Participant
 A - Martin Viecha
 Q - Unidentified Participant
@@ -273,7 +280,8 @@ Your production...
 
 I don't want to talk in that detail just because it's the most sensitive topic. And we've
 already talked about it in our last earnings call. But...
-(inaudible)A - Martin Viecha
+(inaudible)
+A - Martin Viecha
 Q - Unidentified Participant
 A - Martin Viecha
 Q - Unidentified Participant

@@ -23,7 +23,8 @@ people come into gaming. Gaming is arguably the most important entertainment
 medium in the world today. It provides competitive -- a competitive environment,
 provides a social environment, provides immersive storytelling and ultimately, we
 evolve into a complete interactive entertainment experience. And for these reasons,
-we've continued -- we see a continued growth in folks coming into gaming.This is also evident in Steam concurrent gamers. They saw a surge of concurrent
+we've continued -- we see a continued growth in folks coming into gaming.
+This is also evident in Steam concurrent gamers. They saw a surge of concurrent
 gamers through the pandemic and work from home. But they continue to see
 growth setting new records are now 33 million concurrent gamers on Steam. And if
 you compare GeForce gaming growth to the consumer PC market, the consumer PC
@@ -65,7 +66,8 @@ cinematic games and Tensor Cores for AI.
 The first technology we delivered -- AI technology we delivered for gaming was
 DLSS, and DLSS provided a massive performance boost. DLSS 3, our latest
 innovation is a generative AI approach to rendering games. DLSS 3 uses generative
-AI to create 7 pixels for every pixel rendered. And you guys now, I think most folksknow how Gen AI works. But it has become a very powerful performance boost and
+AI to create 7 pixels for every pixel rendered. And you guys now, I think most folks
+know how Gen AI works. But it has become a very powerful performance boost and
 quality -- image quality boost to games and gamers. And we now have over 400
 games and apps that are supporting DLSS in our ecosystem.
 From the start of our RTX launch, we've continued to innovate both in Ray Tracing
@@ -105,7 +107,8 @@ assets to NVIDIA to train a character to become knowledgeable, specifically on t
 domain of the game.
 If you talk to a character inside of a game, you could ask anything about the history
 or lore of the game. But if you ask it something about the 2024 presidential election
-or about Vivek, you don't want it to answer. You wanted to have no clue what's goingVivek Arya
+or about Vivek, you don't want it to answer. You wanted to have no clue what's going
+Vivek Arya
 Jeff Fisher
 Q - Vivek Aryaon. It will take you out of context. So this is what our AI foundry does, is effectively,
 you bring your assets, you train them on our models and then you have a domain-
@@ -139,7 +142,8 @@ Questions And Answers
 I think we could watch that game all day long and not go through Q&A. But can we?
 So maybe just to start, so you showed that very impressive chart of how there's a big
 upgrade opportunity. How large is the deployed base for NVIDIA gamers? And how
-has that deployed base grown over time?A - Jeff Fisher
+has that deployed base grown over time?
+A - Jeff Fisher
 Q - Vivek Arya
 A - Jeff Fisher
 Q - Vivek Arya
@@ -181,7 +185,8 @@ As you go down the stack, especially in the 60 series, those gamers have a much
 longer replacement cycle, they'll go back two generations or longer. So their
 comparison is relative to a Turing or a lower-end device or something even pre-
 Turing. And they're easily -- in that class, they're even at basic raster gaming, they're
-going to see a 2x performance as well.Q - Vivek Arya
+going to see a 2x performance as well.
+Q - Vivek Arya
 A - Jeff Fisher
 Q - Vivek Arya
 A - Jeff Fisher
@@ -225,7 +230,8 @@ Is it an easy way, Jeff, to look at how much -- so you mentioned you have seen
 double-digit kind of unit growth, right, in your installed base. What about the
 content expansion for NVIDIA is? Has that also been 5%, 10%? What is the right way
 to think about what that content growth has been over time? And I asked that
-question because I think there have been two instances where I hesitate to use thatA - Jeff Fisher
+question because I think there have been two instances where I hesitate to use that
+A - Jeff Fisher
 Q - Vivek Arya
 A - Jeff Fisher
 Q - Vivek Arya
@@ -264,7 +270,8 @@ Yeah. Relative to what they had in their PCs.
 
 Right. So if you were to do a similar mix up math over long periods of time. Is that
 also kind of a double-digit avergae across your base? Or is that a simple -- we like
-simplicity, so if you give us -- units and mix up, it will help us.A - Jeff Fisher
+simplicity, so if you give us -- units and mix up, it will help us.
+A - Jeff Fisher
 Q - Vivek Arya
 A - Jeff Fisher
 Q - Vivek Arya
@@ -306,6 +313,7 @@ lot of concern about consumer spending, right, the non-rebound in China and so
 forth. So how do you think about the growth of gaming? Do you think you're
 expecting kind of a typical seasonal lift? Or do you think that right, things are going
 to be tougher in the second half, given all the consumer macro concerns?
+
 Q - Vivek Arya
 A - Jeff Fisher
 Q - Vivek Arya
@@ -348,7 +356,8 @@ market share, right, among enthusiast gamers. Your competitor is also bringing o
 number of new products, and they can also buy transistors from the same foundries
 if you can.
 
-Yeah.Q - Vivek Arya
+Yeah.
+Q - Vivek Arya
 A - Jeff Fisher
 Q - Vivek Arya
 A - Jeff Fisher

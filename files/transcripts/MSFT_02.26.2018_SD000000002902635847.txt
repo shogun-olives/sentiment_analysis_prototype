@@ -19,7 +19,8 @@ But you aligned everybody in the right direction. You pointed the ship and got i
 moving in a much more forward direction than Microsoft had been aimed.
 
 Yes, I mean, a couple of things, Keith. I mean, the way I think about my life at
-Microsoft is not from the day I became CEO. I've been at Microsoft for 25 years. AndQ - Keith Weiss
+Microsoft is not from the day I became CEO. I've been at Microsoft for 25 years. And
+Q - Keith Weiss
 A - Satya Nadellaclearly, the responsibility that I have and the accountability that I have is
 unquestionably more today as CEO than it was before. And so therefore, even trying
 to take credit for what has happened in the last four years without realizing that the
@@ -66,7 +67,8 @@ have one capability of people who are able to tape out new silicon which can hel
 us in our innovation. That culture that cultivates great silicon engineers to come, join,
 work with the silicon industry, too. So it's not just about us building our own. But to
 shape that ecosystem so that we can be on the frontier of innovation, that, to me, is
-the most important long-term indicator. That doesn't mean you -- you have to catchQ - Keith Weiss
+the most important long-term indicator. That doesn't mean you -- you have to catch
+Q - Keith Weiss
 A - Satya Nadella
 Q - Keith Weiss
 A - Satya Nadellanew trends. You're not going to have a perfect batting average. In our case, if you
@@ -111,7 +113,8 @@ the recent machine reading comprehension test that Stanford did, we were #1 and
 Alibaba was another #1. So if you look at speech, we hold the WR -- WER record still.
 Computer vision, some of the first original ImageNet records were held by us. So in
 some sense, you got to have, whether it's speech, whether it's reasoning, whether it's
-machine reading or vision, you got to have the capability. And that's something thatQ - Keith Weiss
+machine reading or vision, you got to have the capability. And that's something that
+Q - Keith Weiss
 A - Satya Nadellawe have. And we are applying that in our own applications, if you look at Oﬃce 365
 and what Cortana is capable of doing. Even this morning, Cortana woke up and sort
 of talked about a couple of commitments I had made in e-mail about following up.
@@ -158,7 +161,8 @@ into the point of sale is that much more accurate. There is computer vision
 customization that is happening so that in a manufacturing line when somebody
 wants to really get highly accurate around detecting defects, they can customize it.
 So that ability to have a tool chain that makes it possible for businesses to then take
-their business process and add machine learning and AI and make it that much moreQ - Keith Weiss
+their business process and add machine learning and AI and make it that much more
+Q - Keith Weiss
 A - Satya Nadella
 Q - Keith Weissproductive and that much more eﬃcient is what, I think, the real innovation is. It's not
 just having the technology. But to be able to really deliver the deployed solution.
@@ -204,7 +208,8 @@ investing a lot in, that Microsoft's going to be bringing capabilities to the fi
 the 5-, 10-year time frame. But something much sooner. Can you help us frame this
 topic for our audience? Can you help them -- can you help me get them to read my
 report on quantum computing? Are we there yet? Where are we in terms of sort of
-getting that technology production-ready?A - Satya Nadella
+getting that technology production-ready?
+A - Satya Nadella
 Q - Keith Weiss
 A - Satya Nadella
 Yes. When I think about all of the opportunities that we have in front of us, if I look at
@@ -251,7 +256,8 @@ build the containers in which you can have a general-purpose computer, which
 requires breakthroughs even in cryo computing to be able to achieve that. But the
 place where I think we are going to shine is -- beyond what is going to be
 groundbreaking work on the physics side, is going to be the software stack. In some
-sense, this goes back to the very first question. Most companies, in spite of whateverQ - Keith Weiss
+sense, this goes back to the very first question. Most companies, in spite of whatever
+Q - Keith Weiss
 A - Satya Nadella
 Q - Keith Weiss
 A - Satya Nadellanew technologies and capabilities, have something innate in them. If you look at
@@ -296,7 +302,8 @@ about it creating surplus in my own region?" And that's where I feel Microsoft's
 fundamental grounding in our mission of empowering every person and every
 organization on the planet to achieve more is super important to me. It's not just a
 set of words. It guides the choices we make about the businesses we're in, the
-business models. And as I said, the surplus it creates. So I can sort of go to New YorkQ - Keith Weiss
+business models. And as I said, the surplus it creates. So I can sort of go to New York
+Q - Keith Weiss
 A - Satya Nadella
 Q - Keith Weissor Istanbul or anywhere and say, "Here is Microsoft's contribution to your small
 business productivity, your public sector eﬃciency, your multinational
@@ -342,7 +349,8 @@ Right. When I talk to customers and they talk to me about their progression on O
 365 from E1 to E3 to E5, one of the probably -- the top responses that I get back of
 what's drawing people up that stack is security, is the discrete security functionalities
 that you expand with that. So there is a monetization angle. There is a monetization
-of this security technology that you're deploying into the stack.A - Satya Nadella
+of this security technology that you're deploying into the stack.
+A - Satya Nadella
 Q - Keith Weiss
 A - Satya Nadella
 Oh, for sure. I mean, as I said, whether it is the -- that migration up from the E1 to E5,
@@ -389,7 +397,8 @@ capability in the edge because the amount of data that's going to get generated 
 needs to be reasoned over in real-time to take action will require compute to be
 where storage is. So when I think about what we are building, when we describe our
 hybrid computing architecture or this intelligent cloud intelligence, I feel we're, in
-fact, leading that change today. And now beyond that, I think what you see is theQ - Keith Weiss
+fact, leading that change today. And now beyond that, I think what you see is the
+Q - Keith Weiss
 A - Satya Nadellasecular market demand for this type of computing. As every industry and every
 country is being digitized, the one thing that they need more is that core
 infrastructure. And we participate at the core infrastructure, both on the edge and in
@@ -435,7 +444,8 @@ an operating system for them. Windows is part of it. Windows -- Oﬃce is part o
 is Android. So is iOS devices. We don't care. We want to be able to really help users
 with their productivity and collaboration and organizations with what they want. So
 that's the expansive nature. And by the way, security is going to be part of that. So
-not only is it about productivity. But it's about trust and security as well.Q - Keith Weiss
+not only is it about productivity. But it's about trust and security as well.
+Q - Keith Weiss
 A - Satya Nadella
 Q - Keith Weiss
 Q - Unidentified Participant
@@ -479,7 +489,8 @@ business growth, whether it's first-line growth, the richness of applications, t
 security and gaming. Gaming is another place where fundamentally we are going
 and trying to build out a gaming service which says, the console is going to be
 important to us, continue to be the place where the most heaviest gamers are. PC as
-a gaming device is, in fact, increasing in popularity. And our ability to build Xbox LiveQ - Keith Weiss
+a gaming device is, in fact, increasing in popularity. And our ability to build Xbox Live
+Q - Keith Weiss
 Q - Unidentified Participant
 A - Satya Nadella
 Q - Keith Weiss

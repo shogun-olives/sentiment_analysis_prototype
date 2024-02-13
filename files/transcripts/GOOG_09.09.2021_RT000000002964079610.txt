@@ -20,6 +20,7 @@ spent 22 years at Oracle Corporation, where most recently he was President of
 Product Development. Thomas's degrees include an MBA from Stanford University
 and BSW in Electrical Engineering and Computer Science from Princeton University.
 And with that, why don't we dive right into the fun. Is that okay, Thomas?
+
 Q - Brad Zelnick
 A - Thomas Kurian
 Q - Brad Zelnick
@@ -61,6 +62,7 @@ consistent. Maybe a bigger picture question, I think many are familiar or have a
 perception of how GCP positions itself within the marketplace. Could you maybe
 speak more broadly about how the offering is differentiated? And what factors are
 driving customer wins for you?
+
 Q - Brad Zelnick
 A - Thomas KurianI mean what's really driving is that shift to digitization has introduced five or six new
 requirements in organizations, and we designed our cloud to support these needs.
@@ -102,6 +104,7 @@ every single day in the news. How much of security is table stakes for everythin
 you might provide versus a discrete opportunity to go after the $100 billion plus
 spent every year on cyber defense. Is there a reason customers can feel even more
 secure running in Google Cloud versus others?
+
 Q - Brad Zelnick
 A - Thomas KurianWe are focused, Brad on three important things. One, how to make sure that the way
 software is built is secure to avoid things like the SolarWinds attack, which is
@@ -146,7 +149,8 @@ help them optimize how long and how eﬃciently their trucks and their ﬂeet ca
 scheduled.
 If you look at for example, Best Buy and the e-comm, the electronics -- consumer
 electronics business. They want to be much more accurate in understanding their
-customers and merchandising products for them. And their whole data platform inQ - Brad Zelnick
+customers and merchandising products for them. And their whole data platform in
+Q - Brad Zelnick
 A - Thomas Kurianthe retail business runs on our cloud. And then lastly, many-many hospital systems,
 when a doctor talks to a patient they need to have a full view of the record of the
 patient. All of their history there, what their biomedical factors may be, the genetic
@@ -192,7 +196,8 @@ technology from multiple companies. TELUS in the network operations, they wanted
 to use our cloud to transform their network, but they wanted to build their
 technology in a much more much more modern way, using modern cloud-native
 technology and that allows them to use a much more open architecture. And then
-we see for example, you've been reading about some outages that occurred withQ - Brad Zelnick
+we see for example, you've been reading about some outages that occurred with
+Q - Brad Zelnick
 A - Thomas Kuriansome of the cloud providers in Japan recently. And many companies ask us, can they
 run their workloads across multiple cloud providers to provide for example better
 resilience and reliability. And our design center has been to facilitate that to make
@@ -235,7 +240,8 @@ organization.
 And lastly, we would not be where we are without our partners. We have always felt
 strongly we're a products and solutions company. We have an ecosystem, and the
 ecosystem has helped us scale the business really well and we're working super well
-with our partners in a variety of different parts of the world. So a lot of this is credit toQ - Brad Zelnick
+with our partners in a variety of different parts of the world. So a lot of this is credit to
+Q - Brad Zelnick
 A - Thomas Kurian
 Q - Brad Zelnickthe senior talent that we brought into the sales organization. They know how to sell,
 they know how to do relationship selling and that competency, many people ask us
@@ -280,7 +286,8 @@ clients together.
 
 Great. That's very-very clear. So thank you for the comprehensive answer. And just on
 the other front, you talked industry verticals and frankly throughout our entire
-conversation. You've mentioned many customer examples, much of which is verticalA - Thomas Kurian
+conversation. You've mentioned many customer examples, much of which is vertical
+A - Thomas Kurian
 Q - Brad Zelnick
 A - Thomas Kurianspecific in terms of what you're delivering for them. But can you maybe double-click
 a bit further about speaking the language of the customer and your vertical market
@@ -325,6 +332,7 @@ customers, world's leading brands like Ford, Target, Univision, even Deutsche Ba
 Can you talk about the nature of some of your most strategic longer duration
 agreements? And how often might be even involved offerings from other Google
 divisions, whether it be YouTube or Android, for example?
+
 Q - Brad Zelnick
 A - Thomas KurianYou know the fundamental thing Brad that we see is that with the shift to digital,
 many-many organizations are wanting to go directly to customers, whether that's a
@@ -371,7 +379,8 @@ who want digital tools to collaborate, most products were written for the sort o
 professional, some people call it white-collar workforce, which were oﬃce workers.
 But in many industries, for instance, we work with Ascension Health in the healthcare
 and they have far more nurses and doctors than they have professional oﬃce
-workers and those people today need collaboration tools. A nurse talking to aQ - Brad Zelnick
+workers and those people today need collaboration tools. A nurse talking to a
+Q - Brad Zelnick
 A - Thomas Kurianpatient wants to consult a doctor, they have a smartphone, they want a tool and a
 product for communication and collaboration that was optimized for that
 experience. So, our product helps these, some people call them first-line workers to
@@ -415,7 +424,8 @@ Germany. And you'll see us continue to broaden our regional footprint. That said
 even on top of that, as cloud becomes an important technology infrastructure in
 different countries, there are new regulatory requirements coming in, this notion of
 sovereign cloud and the ability to require data to be located in each country. And we
-have capability on top of our cloud to provide this sovereign capability in many-Q - Brad Zelnick
+have capability on top of our cloud to provide this sovereign capability in many-
+Q - Brad Zelnick
 A - Thomas Kurian
 Q - Brad Zelnick
 A - Thomas Kurian

@@ -22,7 +22,8 @@ years now. We constantly refer it as intelligent edge and intelligent cloud. And
 Satya really means by that when he brings that phrase up is the notion that we're
 moving into a world where we believe most things will be cloud-based, most
 interactions you have with a database or customer service structure or how your
-company operates, et cetera, but more and more of that computing interaction isQ - Keith Bachman
+company operates, et cetera, but more and more of that computing interaction is
+Q - Keith Bachman
 A - Michael Spencergoing to be pushed to the edge. Historically, it would have been running on a server
 or via the web, but more and more it's moving to mobile devices, it's moving into
 your thermostat in your house, it's moving to centers on a manufacturing line, it's
@@ -68,7 +69,8 @@ seen in previous quarters. But within the quarter, we had a number of factors th
 were more -- that stuck out more than we've seen previously. First and foremost, with
 the introduction of COVID back in March, we actually launched a trial, an E1 trial that
 really saw broad adoption, much stronger adoption than we anticipated. And so, we
-had a number of customers, especially lower tier customers opt into the trial, whichQ - Keith Bachman
+had a number of customers, especially lower tier customers opt into the trial, which
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachmansome portion of those would have been purchasers in the past. And so, it was a six-
 month trial. The trial ended as of July 1st. And so, we did a great job now of filling the
@@ -110,6 +112,7 @@ how we should be thinking about it or is that the wrong calibration?
 I think that's relatively in the right ballpark. The thing I would tell you, obviously, we
 don't guide on specific numbers on growth, but the biggest factor that I called out,
 the number one factor there is the trials dynamic.
+
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael Spencer
@@ -153,7 +156,8 @@ structure associated with Windows. And then, when you move up the stack on
 Windows E5, that brings in the security layers of threat protection on Windows. And
 so, you're right, there's kind of two vectors to think about. There's vertically up the
 stack within Oﬃce 365, E1, E3 to E5, and then there's horizontal and vertical, so
-across the stack to Microsoft 365 E3 and then up to Microsoft 365 E5.Q - Keith Bachman
+across the stack to Microsoft 365 E3 and then up to Microsoft 365 E5.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael SpencerI would tell you two different things that we're seeing in the market. One is in this
@@ -197,7 +201,8 @@ it, 15, 16 months ago, we introduced a security bundle and a compliance bundle,
 both around $8 -- $8 or $9, I can't remember the exact price. But -- and that was
 intended to capture the value of the security structure and the compliance structure
 within E5. We started to see good success there. And then (Technical Diﬃculty) E5,
-you really had to believe in two plus workloads in E5.Q - Keith Bachman
+you really had to believe in two plus workloads in E5.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith BachmanAnd so, we weren't quite there from tipping the scale to the full suite sale. And
 what's changed is Teams really has brought telephony to the forefront. So, now, we
@@ -243,7 +248,8 @@ call that BMO just standardized on Teams. So, we're certainly pushing forward it
 Staying within PBV, my favorite is actually Dynamics. The way -- the comment I've
 made you in the past is I still think Microsoft is underserved by Dynamics. And the
 reason I draw that conclusion is it's, call it, 3% of Microsoft's revenues and 3% market
-share and market serve. And so, that's -- in my mind, that's not good enough. Right?A - Michael SpencerBecause it's Microsoft and you should be doing more. So, how do you think about --
+share and market serve. And so, that's -- in my mind, that's not good enough. Right?
+A - Michael SpencerBecause it's Microsoft and you should be doing more. So, how do you think about --
 Satya still brings it up a lot a on the conference calls, but how does Dynamics
 become more relevant?
 
@@ -286,7 +292,8 @@ super excited about this space, where we have seen success in customers like
 Chevron. It's gone viral very quickly. And so, you can see the building blocks there,
 this land and expand motion on a SaaS-based offering of D365 and we feel like
 we've got the tenants in place and now it's about execution and serving our
-customers there.Q - Keith Bachman
+customers there.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael Spencer
@@ -328,7 +335,8 @@ CRM structure.
 
 Okay. Maybe we'll end on M&A and come back to this for a second, but we'll
 migrate on to the IC segment. Let's talk about Azure. I think there was a little bit of
-disappointment on the last quarter, although, how industrial expectations shapeA - Michael Spenceraround, that's always interesting. But maybe just talk about the components of
+disappointment on the last quarter, although, how industrial expectations shape
+A - Michael Spenceraround, that's always interesting. But maybe just talk about the components of
 growth on Azure that you want to remind us, particularly when you dissect
 consumption-based models versus user-based models? And how those dynamics,
 for a lack of better word, play out in helping us think about the growth potential
@@ -372,7 +380,8 @@ The big thing in Q4 that was a surprise, but a pleasant surprise, which we
 highlighted, but didn't show up in revenue in Q4 was that sales were actually
 stronger than we anticipated. If you go back to the April dialogue, we actually
 anticipated a slowdown in larger longer-term Azure deals. We expected customers
-maybe to hold back a little bit on their commitment. We actually saw the opposite.Q - Keith Bachman
+maybe to hold back a little bit on their commitment. We actually saw the opposite.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael SpencerWe saw customers actually push harder. And so, the larger longer-term
@@ -416,7 +425,8 @@ obviously, we've had a lot of success in areas like retail is a good example. Yo
 seen Google actually talk about some of these in the retail space as well versus I
 think AWS and a lot of success they've seen in what they've called out on some of
 their public acknowledgements is extensions and legacy business growing and
-extending into the future. And that just speaks to the lead that they've had in theQ - Keith Bachman
+extending into the future. And that just speaks to the lead that they've had in the
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael Spencermarket as being the first out of the gate. And so, you're seeing that benefit carryover,
@@ -458,7 +468,8 @@ recognition for that. In general, though, I would say that a lot of what you're 
 our data offerings, especially around our Quantum offering within Azure, you're
 going to see more and more push from the customer base to really go after large
 sets of data that they have either locked on-premise or are in the process of building
-and aggregating.Q - Keith Bachman
+and aggregating.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith BachmanRight now, to circle back to the first question you asked today, Keith, around
 intelligent edge, the amount of data and volume coming in now for our customer
@@ -501,6 +512,7 @@ existing applications. And so, we've been hyper-focused on that as well. And so,
 general, I would say, security is a very broad play for us. EMS is the lead security
 offering. We talked about it on the SaaS side of things, but it's also embedded in the
 Azure offerings as well with specific security services like Azure Sentinel.
+
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael Spencer
@@ -544,7 +556,8 @@ Right. But when she was talking about continued improvement, it wasn't just this
 quarter, it was the longer-term opportunity, not just because the 67 or whatever it is,
 but it is a longer term opportunity.
 
-Yeah.Q - Keith Bachman
+Yeah.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael Spencer
@@ -588,7 +601,8 @@ I think if you look at previous launch trends around the console cycles for us, 
 that's a good benchmark. I think there's two things to think about when it comes to
 the upcoming console launch. One is for folks that have -- we've seen a good -- and
 we highlighted this. During this current crisis, console sales have actually been
-stronger than anything we anticipated. So, we're going to enter the console launchQ - Keith Bachman
+stronger than anything we anticipated. So, we're going to enter the console launch
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith Bachman
 A - Michael Spencercycle this upcoming holiday period with a leaner inventory than we had on previous
@@ -633,7 +647,8 @@ look back in Q2 last year, we had a terrible Q2 in gaming and all that was a For
 comp. And so, what you saw in Q4 is you not only saw strength of Fortnite, but you
 actually saw a couple of other third-party titles come into the fold, which balanced
 out the third-party dimension. We had first-party strength in things like Minecraft and
-some of our other titles, like Sea of Thieves, and then Game Pass momentum.Q - Keith Bachman
+some of our other titles, like Sea of Thieves, and then Game Pass momentum.
+Q - Keith Bachman
 A - Michael Spencer
 Q - Keith BachmanAnd so to your point, if we can balance the ecosystem with a solid foundation or a
 recurring revenue stream with Game Pass moving forward to help balance out some

@@ -19,7 +19,8 @@ put into the software and the ecosystem we put around it. So that's where those
 come from.
 Then even with Tegra, what we have with Tegra now is we have the same GPU, again.
 But now wrapped in -- again, a whole bunch of software, an ecosystem. But also
-some silicon as well. And so now it's a system on chip and that's our Tegra business.David Wong
+some silicon as well. And so now it's a system on chip and that's our Tegra business.
+David Wong
 Chris Eveden
 David Wong
 Chris EvedenBut it's all about leveraging the IP that we've got for our core competence, if you like,
@@ -54,7 +55,8 @@ someone is buying a PC to play games and so they have a specific need for that P
 whereas the OEM business is -- the OEMs are buying GPUs really to differentiate
 their PC within the marketplace.
 No OEM wants to sell an entry-level notebook because you don't make any money
-on them. So they want to upsell you. One of the key up cells is the GPU. But thatDavid Wong
+on them. So they want to upsell you. One of the key up cells is the GPU. But that
+David Wong
 Chris Eveden
 David Wong
 Chris Evedenwhole market is under a lot of pressure right now because typically, the average
@@ -88,7 +90,8 @@ Right. So professional -- let me just stop and take a really high level and then
 through each one. So at a very high level, I see it as GeForce and Quadro are -- they
 are growing slowly, single-digit GDP. But they are generating an awful lot of cash.
 And that's cash that we are returning quite a lot of the cash to shareholders at the
-moment.Tesla is a proven growth story now. So it's off a smaller base. But it's very profitable
+moment.
+Tesla is a proven growth story now. So it's off a smaller base. But it's very profitable
 and it's growing very strongly.
 GRID is an option on growth if you like. So there's a lot of excitement around GRID.
 But it's very early days. It is enterprise AT. So it's a two-year purchase cycle.
@@ -123,7 +126,8 @@ sells Tesla servers. So he phones up his IBM salesman and gets one delivered on
 Friday.
 It's completely different. So now. So 1.5 years ago we knew all of our customers. And
 now there are many, many customers that we just don't know. And of course that's
-the way the business has to scale.And IBM is -- I used IBM randomly. But they are particularly important partner
+the way the business has to scale.
+And IBM is -- I used IBM randomly. But they are particularly important partner
 because they have about 32%, according to IDC, of the worldwide installed base of
 supercomputers, which is more than twice as much as anybody else. So they build
 more supercomputer systems than anybody else.
@@ -159,7 +163,8 @@ not even using a 3-D graphics card at all. But that's still too much 3-D for a v
 desktop infrastructure.
 But by putting our card in there, you now support all the 3-D applications you want.
 So it makes more detailed nature, if you like on that. But from a high-level business
-perspective we have hundreds of trials running worldwide.David Wong
+perspective we have hundreds of trials running worldwide.
+David Wong
 Chris Eveden
 David Wong
 Chris EvedenIt's a two-year product cycle; bit early to say exactly where it's growing at. But there's
@@ -192,7 +197,8 @@ enough to drive a friend's Tesla car and that has a digital dashboard as well.
 But those are wholly different experiences, right? The Tesla one is clearly a
 dashboard inside a $100,000 car and the Prius one isn't. And that really brought it
 home to me how that -- how the quality of the pixels impinges on your -- affects your
-ability -- your impression of the quality of the car.David Wong
+ability -- your impression of the quality of the car.
+David Wong
 Chris EvedenAnother example is I was looking at a car a couple of years ago and it was a great
 car, a nice engine, beautiful leather seats, great stereo, sportive, handled really well
 and everything. But I couldn't get over the fact that the nav system was clearly badly
@@ -227,7 +233,8 @@ Unreal Engine 4. It's built into many games. It's going to appear in Titanfall, 
 the biggest game of the moment right now. And you're going to see features based
 on that that improves the immersiveness in the whole gaming experience.
 So that's how we differentiate with software. Quadro -- it's about performance as
-well. But it's also about stability and reliability. And we do an enormous amount ofqualifications with an enormous list of professional applications across an
+well. But it's also about stability and reliability. And we do an enormous amount of
+qualifications with an enormous list of professional applications across an
 improbably large list of system configurations.
 And that's because of -- an IT director does not want to have to waste time
 supporting products. They need that level of qualification and we give it to them.
@@ -263,7 +270,8 @@ who are competitor was, which was your traditional Xeon CPU. And so, the challen
 that we always had to overcome was inertia.
 We would go into a potential customer and we would say hey, look at all the great
 things you can do with our power processing -- much more performance per watt,
-much more raw performance, better deal for you. And some of them would reject itDavid Wongand say well if I wait until next year, Intel is going to come out with a much better
+much more raw performance, better deal for you. And some of them would reject it
+David Wongand say well if I wait until next year, Intel is going to come out with a much better
 CPU and everything is just going to get better automatically right? I wouldn't have to
 do anything. I won't have to do any of that code reporting you've warned me about.
 Everything will just get faster automatically.
@@ -300,6 +308,7 @@ differentiator already. And as we move to the next generation of advanced driver
 automation systems, ADAS, we'll have an even stronger differentiation because
 we're the only people who can do anything like that sort of image processing right
 now.
+
 A - Chris Eveden
 Q - David Wong
 A - Chris Eveden
@@ -332,7 +341,8 @@ you know --?
 They have the best technology. They have the best commercial terms and they've
 been a fantastic, fantastic partner for us for many, many years.
 We've used other suppliers the past and been badly burned. And that doesn't mean
-to say we are completely blind to the idea that actually having only one supplierQ - David Wong
+to say we are completely blind to the idea that actually having only one supplier
+Q - David Wong
 Q - Unidentified Participant
 A - Chris Eveden
 Q - David Wong
@@ -368,7 +378,8 @@ Anyone else? I was wondering about your comments about smartphones. And
 you've exited mainstream smartphones. So where does that leave your baseband
 capabilities?
 So we still need the baseband, if only for automotive. Connectivity is going to
-become increasingly important in all those markets. So we'll keep developing aQ - David Wong
+become increasingly important in all those markets. So we'll keep developing a
+Q - David Wong
 A - Chris Eveden
 Q - David Wong
 Q - Unidentified Participant
@@ -403,7 +414,8 @@ Valve game. And it's a game I absolutely loved on the PC when it came out a few
 years ago and now it's running perfectly well on Shield. And so it will be available
 publicly soon.
 And I was playing this last night and, if I can put that on a console I've now got a
-high-end -- I've got a real gaming console experience so, what, $100 or maybe $130.Q - David Wong
+high-end -- I've got a real gaming console experience so, what, $100 or maybe $130.
+Q - David Wong
 A - Chris Eveden
 Q - David Wong
 A - Chris Eveden

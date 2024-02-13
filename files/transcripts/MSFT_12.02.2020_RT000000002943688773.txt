@@ -18,6 +18,7 @@ Absolutely. So I've been at Microsoft almost 20 years now, long time and the pas
 years, I've been leading the Azure and server product marketing. So kind of all
 things are Azure cloud services as well as things like Windows Server, SQL Server,
 Visual Studio, Developer tool chain as well.
+
 A - Julia WhiteFair. All the fun stuff, all the stuff I love it's that we can have a great conversation. So I
 guess 2020, what you guys have been so far. I think back in April on your fiscal Q3
 earnings call Satya noted that you'd seen two years of digital transformation the first
@@ -61,7 +62,8 @@ when we see the increase of those projects and the size of those projects increa
 as they go. So -- and then I think the last bit is as we've looked at the different
 industries and how they're impacted, the high impacted industry is certainly cloud
 adoption fell, right? They cost optimized down, they did other things, but the impact
-the industries that were not as impacted absolutely spiked so it kind of bounced offQ - Philip Winslow
+the industries that were not as impacted absolutely spiked so it kind of bounced off
+Q - Philip Winslow
 A - Julia Whiteand we're now actually seeing even the high impacted industries come back to more
 normal rates and so it's starting to see that level off.
 
@@ -104,7 +106,8 @@ based on the urgency there. So that was certainly a big one.
 And then I think to your question what hasn't changed, but maybe is continuing as
 strong pace is analytics and again those -- the modernization of analytics was very
 much underway and is underway, a lot of people still sitting on old legacy systems
-that aren't keeping up and COVID just put pressure on that, right? People like usedQ - Philip Winslow
+that aren't keeping up and COVID just put pressure on that, right? People like used
+Q - Philip Winslow
 A - Julia White
 Q - Philip Winslow
 A - Julia Whiteto be fine. Then I got 60 day and 90 day old data, like no way I need like 12 hour
@@ -147,7 +150,8 @@ under appreciated. So all three of those things, but really keeping an eye towar
 the Microsoft cloud growth all up and then Microsoft cloud experience all up. So that
 is the first thing I might speak to you. Then within Azure more specifically, you get
 exciting emerging and underappreciated? I'll break those down. I'd say let's start
-with the critical, but underappreciated Azure SQL. It's a big business that's a placewhere customers really look to us. And the thing that's so strong there is we've taken,
+with the critical, but underappreciated Azure SQL. It's a big business that's a place
+where customers really look to us. And the thing that's so strong there is we've taken,
 our third year old database engine that we perfected and secured in it's the same
 on-prem, the same in Azure, it's even same as edge.
 And so you have this amazing capability and eﬃciency. So you have the same skill,
@@ -189,7 +193,8 @@ see how that's going to really take off. And then more on the industrial side of
 that is digital twins. And again the idea of -- in the kind of the next generation shift
 from IoT, right, where you have connected things and this is essentially taking it to
 connected environments. So now you have whole systems and understanding how
-the system of connected things works together. How do you optimize it? How doQ - Philip Winslow
+the system of connected things works together. How do you optimize it? How do
+Q - Philip Winslow
 A - Julia White
 Q - Philip Winslow
 A - Julia Whiteyou run it with greater inside? How do you understand the overall environment that's
@@ -232,7 +237,8 @@ From an increased perspective, as I referenced before, analytics lot of investme
 there, machine learning, those two are both evolving really maturing into broad TAM
 into themselves. And so expect those to be get big work forces overall as I move
 forward. And then a few of the new areas like we've moved into our operators and
-helping telecom communications and operators, and we acquired Metaswitch and aQ - Philip Winslow
+helping telecom communications and operators, and we acquired Metaswitch and a
+Q - Philip Winslow
 A - Julia White
 Q - Philip Winslow
 A - Julia Whitefirm networks, in that space as well. So big investments there and really helping that
@@ -274,7 +280,8 @@ in an edge called to cloud world where they are kind of the glue.
 
 Absolutely. Yes, all those pieces have to come together and there are -- they are,
 right, and not all here yet. But you start to see that at pattern and as we know the
-cloud and edges that's really in our simple terms and application pattern and theQ - Philip Winslow
+cloud and edges that's really in our simple terms and application pattern and the
+Q - Philip Winslow
 A - Julia White
 Q - Philip Winslow
 A - Julia White
@@ -316,7 +323,8 @@ supports it as well to ensure that customer value holistically.
 Yes. One of the words I think it's been probably the biggest change may be the most
 impactful change over the best called 12 -- 24 months, has been the word multi, not
 just simply hybrid cloud, but multi-cloud the future. A couple questions here, what
-are you seeing in the field as the top reasons why customers' strategies are shiftingA - Julia White
+are you seeing in the field as the top reasons why customers' strategies are shifting
+A - Julia White
 Q - Philip Winslowto multi-cloud? And where you think the implications for Azure are and in particular
 how do you sort of defend your mode in world of multi-cloud?
 
@@ -359,7 +367,8 @@ them to do that.
 Yes, definitely. I mean even going back to your Virtual Bill 2020, there's a lot of buzz
 around Azure. I just wanted to spend a moment on that maybe help investors
 understand sort of what Azure Arc is? Why is it important? And you touch on a little
-bit, but what does it enable customers to do kind of moving forward?A - Julia White
+bit, but what does it enable customers to do kind of moving forward?
+A - Julia White
 Q - Philip Winslow
 A - Julia White
 Yes. No, I'm glad you asked, because it is a bit of a complicated area, right? So
@@ -402,7 +411,8 @@ think about it that way, but a manufacturing plant, right? You have all these
 connected systems and it's you -- of course, using cloud for data and analytics.
 Even like big company we work with has their few their gas pumps at the fuel station
 can connected so they can check for safety is someone smoking while they're
-pumping up their gas like those kind of things as Edge compute working with theQ - Philip Winslow
+pumping up their gas like those kind of things as Edge compute working with the
+Q - Philip Winslow
 A - Julia Whitecloud compute or retail shelves and notify people that are out of stock, cloud and
 edge, contactless delivery systems, smart appliance and all those things are just
 examples of Cloud and Edge application patterns, some of the code is sitting on that
@@ -446,7 +456,8 @@ is having beyond the serve, our customers were locally, where they sit from a
 performance perspective, but also from a data set, data privacy, data governance
 capability, which has also become increasingly important. So both of those drivers
 are what's really the catalyst for our continued global expansion into very broad
-regions of the world. So that's going to be an important part certainly our work inQ - Philip Winslow
+regions of the world. So that's going to be an important part certainly our work in
+Q - Philip Winslow
 A - Julia White
 Q - Philip Winslow
 A - Julia Whitepartnership with the operators and we even have today our edge zones in terms of

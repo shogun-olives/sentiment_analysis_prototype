@@ -19,7 +19,8 @@ Well, let me just start, because I would suspect that a lot of people on Wall St
 don't know who you are, maybe some do. But just before we go anywhere, you
 joined Alphabet what in 2000 I think?
 
-2020, January of 2020.Q - Jason Bazinet
+2020, January of 2020.
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
@@ -58,7 +59,8 @@ scale. And so, then started to really enjoy innovating and building a scale and 
 a lot of opportunity to do that in Commerce at Google.
 And so that was -
 
-Okay.A - Bill Ready
+Okay.
+A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
@@ -100,7 +102,8 @@ joined. That was just (Multiple Speakers)
 Yeah, not initially. The thought there was -- there's a lot to do in Commerce that was
 adjacent to what I've done in payments in the past. But then Commerce and
 Payments go hand-in-hand a bit as well. So, it's been nice to bring those groups
-together and drive more innovation across those teams.Q - Jason Bazinet
+together and drive more innovation across those teams.
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
@@ -143,7 +146,8 @@ moment. So, but we're doing all that with our shopping graph that we announced a
 Google I/O, and that's bringing together a very extensive product catalog. So that
 when the user has a question about, what's the best product? What's the best value?
 What's the best place to get that product? Who has it in stock? Can I get it online or
-in-store? Who has curbside? All these questions, users can come to be able to getQ - Jason Bazinet
+in-store? Who has curbside? All these questions, users can come to be able to get
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
@@ -187,7 +191,8 @@ opportunities do you see for Alphabet in this pretty complicated, pretty crowded
 space?
 
 Yeah. And it's a great question and is a place where we think there's a lot of
-opportunity to really support that ecosystem. That's our focus as how Google canuniquely support that ecosystem. So when it comes to shopping, we support a free
+opportunity to really support that ecosystem. That's our focus as how Google can
+uniquely support that ecosystem. So when it comes to shopping, we support a free
 and open Commerce ecosystem just as Google has long been a supporter of free
 and open web. We think about supporting the free and open commerce ecosystem
 as well. And this is really important, especially for small and mid-sized businesses,
@@ -232,7 +237,8 @@ So, if you look back at what we've done just over the course of the last 18 mont
 so, we started out by reducing the financial barriers for those merchants to list. We
 made it free for any retail or of any size to make the full inventory available, on our
 services when we announced our free shopping listings. We've been reducing
-integration barriers by partnering more closely with their providers. Like, theQ - Jason Bazinet
+integration barriers by partnering more closely with their providers. Like, the
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinetexample I gave of Shopify, Square, BigCommerce, WooCommerce GoDaddy. So
 making it easier to access and really making it (Technical Diﬃculty) so that those
@@ -278,7 +284,8 @@ That makes sense. So, (inaudible) sometimes talks about the syntax gap, that is 
 difference between what a consumer might type into the search box versus what it is
 that they're really looking for or what they really want to buy. And I would guess your
 firm is probably better than anyone at closing the syntax gap given how much you
-know about this. But how much of a structural advantage is sort of -- Google's sort ofA - Bill Readyhistory in sort of search and closing the syntax cap as investors sort of think about
+know about this. But how much of a structural advantage is sort of -- Google's sort of
+A - Bill Readyhistory in sort of search and closing the syntax cap as investors sort of think about
 the e-commerce opportunity?
 
 Well, this is definitely a place for we think we can be very helpful to the retail
@@ -321,7 +328,8 @@ merchants ecosystem that's being able to connect with the user at multiple stage
 their journey and really express their value prop to users in new ways and new
 stages of the journey as well. And again, only possible because, we're working with a
 vibrant community of merchants and doing so in a way that is built on an open
-ecosystem and supportive of an open ecosystem.Q - Jason Bazinet
+ecosystem and supportive of an open ecosystem.
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
@@ -367,7 +375,8 @@ you may not know what that product is, but you get really interested in and you 
 to know what is that? Probably tell me more about it and you talk about a syntax gap,
 you don't even know what that product is yet, and now you can just point your
 phone at it and we can connect that to that shopping graph of 24 billion plus listings
-and recognize what's the product you're point your phone at, tell you more about it,Q - Jason Bazinet
+and recognize what's the product you're point your phone at, tell you more about it,
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
 A - Bill Readygive you great user reviews, tell you where to buy it and all kinds of other
@@ -411,7 +420,8 @@ more need for a blended digital experience as people come back into the store an
 as I mentioned before, Google Lens is very much our (Technical Diﬃculty) pack play
 into that omni-channel experience and a place where we can uniquely bring
 together physical and digital worlds of commerce and that very much pairs with our
-AR and VR capabilities as well.Q - Jason Bazinet
+AR and VR capabilities as well.
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason BazinetSo, initially couple of examples like with Google Photos and the ability to search the
 photo with Lens and/or point your phone at some PC in the real world and know
@@ -455,7 +465,8 @@ intentions of being a bank, but we do think that our platform can be very benefi
 to banks, financial institutions and financial service providers and fintechs to connect
 more users with the financial services that they provide.
 
-So how will you monetize Google Pay?A - Bill Ready
+So how will you monetize Google Pay?
+A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
@@ -499,7 +510,8 @@ matter where that journey ends. So, we're trying to leverage our technology to o
 great experience for users across all points in the journey, from inspiration to price
 comparison to booking. A good example of that would be Google ﬂights, where we
 can deliver near instantaneous results from a massive data set of ﬂight prices that
-changes from moment to moment. And just like shopping, we would help usersQ - Jason Bazinet
+changes from moment to moment. And just like shopping, we would help users
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinetcompare and understand all their options -- all the options available to them and
 promote a healthy ecosystem and democratize great digital capabilities for that
@@ -544,7 +556,8 @@ will get upset if I don't. So Philipp noted that travel was a big driver of the 
 strength. With this sort of delta variant, have you seen sort of any undulations or
 changes in terms of this travel recovery? Or does it feel like everything is still going
 to head at sort of the normal sort of pace of recovery that we would expect as
-COVID moves to the background?A - Bill Ready
+COVID moves to the background?
+A - Bill Ready
 Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinet
@@ -588,7 +601,8 @@ early stages of development, but can effectively start bridging online discovery
 in-store intent. And it's not just Lens, so many things where we see initial uptake for
 example on things like tap to pay in store that has seen acceleration, but it's still in
 early stages. And so, overall it's a, excited about the opportunity that digitization
-provides. And the fact that, is rapid as that has been, there's so much more of that toQ - Jason Bazinet
+provides. And the fact that, is rapid as that has been, there's so much more of that to
+Q - Jason Bazinet
 A - Bill Ready
 Q - Jason Bazinetgo and so much opportunity for us to be an enabler for the ecosystems and multiple
 spaces like we talked about with shopping and with travel and as well as payments

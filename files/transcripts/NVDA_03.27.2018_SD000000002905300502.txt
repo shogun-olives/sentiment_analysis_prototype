@@ -16,7 +16,8 @@ driving force of GPUs. Since 1979, when Turner Whitted wrote the paper on recurs
 ray tracing; in 1986, when Jim Kajiya described the rendering equation, the
 computer graphics industry and computer sciences all over the world have been
 pursuing this holy grail, this dream of recreating photorealistic images. This is the
-way film is done.They trace rays through a scene as it strikes a surface, calculates the absorption, the
+way film is done.
+They trace rays through a scene as it strikes a surface, calculates the absorption, the
 reﬂection, the refraction, the luminescence, accumulates light from all the different
 sources and reﬂections and calculates the reﬂectance functions based on the
 materials that it strikes, accumulates all of that information and generates a
@@ -59,7 +60,8 @@ combination with our shader programs to recreate reﬂections or we could do it
 using ray tracing. Incredibly computationally intensive. But much, much more
 beautiful. We could do refractions as light travels through that glass. But as you guys
 know, refractions are hard to do, especially with a glass because the glass has curved
-surfaces. And every time when you guys look at sun shining through a swimmingSteven Parker
+surfaces. And every time when you guys look at sun shining through a swimming
+Steven Parker
 Jensen Hsun Huang
 Steven Parkerpool, the curved surfaces accumulate a light volume that causes the refraction to
 look with these spines of shapes of light, we call caustics.
@@ -96,6 +98,7 @@ been the endeavor of literally so many people in research, in software, in
 architecture, in hardware, everybody's working together to make this possible. Now
 here -- what he's going to show us now are some of the special effects that you could
 imagine that you can do if you have ray tracing.
+
 Jensen Hsun Huang
 Steven Parker
 Jensen Hsun Huang
@@ -133,6 +136,7 @@ That's incredible. Well let's take a look at another scene.
 Let's see something shining...
 
 This is shadows and lighting. Now this is reﬂection.
+
 Jensen Hsun Huang
 Steven Parker
 Jensen Hsun HuangSo another thing that ray tracing is really good at is reﬂections. We can see them
@@ -173,7 +177,8 @@ Thank you, guys. So ladies and gentlemen, we're announcing the NVIDIA RTX
 technology. This has been 10 years in the making. You've seen us demonstrate
 pieces of it over time. But today, this is a very, very big deal. This is a very big deal
 because for the very first time, for the very first time -- and by the way, I want to thank
-the team at ILMxLABs and Epic and all the engineers at NVIDIA that worked on this,this piece of work, the Star Wars, rendering in real-time is really one of the first times
+the team at ILMxLABs and Epic and all the engineers at NVIDIA that worked on this,
+this piece of work, the Star Wars, rendering in real-time is really one of the first times
 that ray tracing has ever been done at -- it is the first time that ray tracing has been
 done at this level in real-time. So thank you very much, guys. Super proud of you
 guys.
@@ -216,7 +221,8 @@ game in advance. And wherever there are static lights, bake it, put it right int
 map. As a result, you get these wonderful crevices and shadows and all of these
 details come out. And the whole world looks -- comes to life. The film industry uses
 this technology. Mowgli and Bagheera wouldn't be possible if it wasn't because of
-rendering technology; 500 movies made each year. Every single frame has beenrendered multiple times during design and then finally has to be done in final film;
+rendering technology; 500 movies made each year. Every single frame has been
+rendered multiple times during design and then finally has to be done in final film;
 10 hours on the highest performance GPU per frame, just imagine how many CPUs --
 excuse me, CPUs per frame, how many CPUs are in those render farms. Product
 design. When you see advertisements and you see these commercials and these
@@ -260,7 +266,8 @@ GPU, which was a graphics accelerator as a beginning, would become more and
 more general purpose. We wanted to become more and more general purpose
 because we felt that in order to create virtual reality, we had to simulate reality, we
 had to simulate light, we had to simulate physics. And that simulation has so many
-different algorithms, from particle physics and ﬂuid dynamics. And of course, whatyou just saw earlier, ray tracing. The simulation of the physical world requires a
+different algorithms, from particle physics and ﬂuid dynamics. And of course, what
+you just saw earlier, ray tracing. The simulation of the physical world requires a
 general purpose supercomputing architecture.
 My kids told me this morning, Spencer and Madison told me this morning that this is
 our 10th-year anniversary. The first year was called NVision. Since then, it was called
@@ -303,7 +310,8 @@ then we need larger computers. The world needs larger computers because there
 are serious work to be done. There are serious groundbreaking science to be done
 and there are so many examples of them. Whether it's reinventing the way we store
 energy, trying to understand the earth core to predict future disasters,
-understanding and simulating weather or just understanding how HIV viruses work.Each one of these simulations take days on the world's largest supercomputers. In
+understanding and simulating weather or just understanding how HIV viruses work.
+Each one of these simulations take days on the world's largest supercomputers. In
 the case of the work that is done at Caltech seven days on a Titan -- 2 weeks on a
 Titan, 840 days, almost three years on the Piz Daint supercomputer. And of course,
 Blue Water, almost 2 weeks to simulate the HIV virus.
@@ -346,7 +354,8 @@ with system makers to create new systems. And on top of that, we work with all o
 application developers to refactor, to optimize our software so that the entire
 algorithm could be highly accelerated. Now the benefit to science is incredible. This
 is what a supercomputing rack looks like. It's much, much more densely populated
-because most supercomputers deliver a lot more power per rack, 20,000, 30,000watts per rack. This is 600 dual CPU servers, 360,000 watts. And this is what it looks
+because most supercomputers deliver a lot more power per rack, 20,000, 30,000
+watts per rack. This is 600 dual CPU servers, 360,000 watts. And this is what it looks
 like if it was GPU accelerated. That's right. Work with me here. The more you buy, the
 more you save.
 This is not a complicated talk. Guys, this is not a complicated talk. I want to -- first of
@@ -388,7 +397,8 @@ way that reveals a lot more insight using cinematic rendering than we ever could
 before. The entire stack of NVIDIA from the GPU, the GPU containers, the virtualized
 GPUs, the CUDA, cuDNN, RTX, OpenGL, all of the solvers and all the libraries
 integrated into these imaging applications. That entire stack is identical to everything
-that I've talked to you about. It's identical to everything I've already talked about.Fausto Milletari
+that I've talked to you about. It's identical to everything I've already talked about.
+Fausto Milletari
 Jensen Hsun Huang
 Fausto Milletari
 Jensen Hsun Huang
@@ -424,7 +434,8 @@ Dr. Dr. Jensen.
 That's right. Every time I call him doctor, he calls me doctor, doctor. And another
 inside joke. With your friends in the company, you've got a lot of inside jokes. And so
 Dr. Fausto has been working on medical imaging for some time. And so what he's
-about to show you is something that's really amazing. This -- go ahead, tell us.Fausto Milletari
+about to show you is something that's really amazing. This -- go ahead, tell us.
+Fausto Milletari
 Jensen Hsun Huang
 Fausto Milletari
 Jensen Hsun Huang
@@ -461,7 +472,8 @@ network here that is running on the original black and white gray scan that you 
 And from that scan -- from that ultrasound scan, it inferred what this left ventricle --
 where the left ventricle is. It segmented it out. It segmented it out in motion and it
 segmented it out in 3D. Guys, if that's not amazing. That's pretty incredible. That's
-pretty incredible. Fausto, that's amazing work man. Go ahead.Jensen Hsun Huang
+pretty incredible. Fausto, that's amazing work man. Go ahead.
+Jensen Hsun Huang
 Fausto Milletari
 Jensen Hsun HuangOf course, there is more even to this story. So now we can get values. We can get
 very precise explanation what we are seeing and markers that tell us how well the
@@ -500,7 +512,8 @@ algorithms.
 Our strategy at NVIDIA is to advance GPU computing for deep learning for AI at the
 speed of light, from the processer development to the systems, the interconnects,
 the way we construct systems, to all of the software layers that are on top of it,
-making it available and partnering with cloud service providers and OEMseverywhere. Irrespective of what AI framework you use or what AI network you are
+making it available and partnering with cloud service providers and OEMs
+everywhere. Irrespective of what AI framework you use or what AI network you are
 trying to create, wherever you are, we will support it. And we will support it from end-
 to-end. So that the frameworks that you use to develop the networks and models will
 be deployable in large scale. And we would even make it possible for you to access
@@ -543,7 +556,8 @@ parameters is now hundreds of layers and billions of parameters, 8 layers and
 hundreds of -- and millions of parameters to hundreds of layers, billions of
 parameters. Neural network models have increased in complexity, not to mention
 the number of species, the thousands of species that are now out there. Neural
-network models have now grown in complexity 500x in just five years, 500x in fiveyears. Remember, Moore's Law would have only kept up with 10x of that. 500x in five
+network models have now grown in complexity 500x in just five years, 500x in five
+years. Remember, Moore's Law would have only kept up with 10x of that. 500x in five
 years. So the world wants, the researchers all over the world wants just a gigantic
 GPU. Not a big one, a gigantic one. Not a huge one, a gigantic one. And so ladies
 and gentlemen, today, I would like to announce the world's largest GPUs.
@@ -582,7 +596,8 @@ Okay. This switch has 2 billion transistors, made of TSMC's 12-nanometer FinFET.
 one of these switches has 18 links, which are 8 bits wide, 8 -- 18 NVLinks, 8 bits wide,
 with a SerDes that's moving at 25 gigabits per second, 25 gigabits per second now
 in just one signal. There is 8 of them per link, there is 18 links on this one chip. And
-it's bidirectional. Altogether, it creates 7.2 terabits per second or 900 gigabytes persecond. So 900 gigabytes per second, by the way, of bandwidth, well, that's a lot of
+it's bidirectional. Altogether, it creates 7.2 terabits per second or 900 gigabytes per
+second. So 900 gigabytes per second, by the way, of bandwidth, well, that's a lot of
 movies too. So 7.2 gigabits -- 7.2 terabits per second, not 100 gigabytes per second
 goes through one switch. There are 12 switches, 12 switches. What that basically says
 is that every single GPU, every single GPU can communicate to every other single
@@ -625,7 +640,8 @@ pounds and just beautiful. This is what an engineer finds beautiful. You guys, t
 sexy. This is beautiful. This is unbelievable. Incredibly beautiful.
 And not to -- guys, did you guys notice the animation? NVIDIA's artists are so
 spectacular. This entire animation was shot with 112 shots. It's photographed, a stop
-motion animation. This is not 3D. You know that we could do it in 3D. But we chosenot to. Why? Because it's more fun. Do you guys want to see it again? Oh, stop
+motion animation. This is not 3D. You know that we could do it in 3D. But we chose
+not to. Why? Because it's more fun. Do you guys want to see it again? Oh, stop
 motion animation guys. Check it out. Guys, I love you guys. It's incredible. Tim
 Burton, you've got nothing on us. Look at that. The world's largest GPU, 350 pounds.
 Well let's see what it can do? 10x faster than DGX-1. Does that even make any sense?
@@ -668,7 +684,8 @@ progress that we've made is literally incredible. And I think it's just be kind 
 to do a report card. See what happened in the last five years. This is what it looks like.
 This is what Alex Krizhevsky trained AlexNet on. Two DGX -- 2 GTX 580s. And it took
 him six days. But those were 6 worthwhile days. Because he became world famous,
-he won ImageNet and kicked off the deep learning revolution. five years later, wecould train it in 18 minutes. five years later, we could train it in 18 minutes, 500x faster.
+he won ImageNet and kicked off the deep learning revolution. five years later, we
+could train it in 18 minutes. five years later, we could train it in 18 minutes, 500x faster.
 Isn't that amazing, guys?
 To be able to do a task 500x faster in five years. To be able to do any task 500x
 faster, any task of great importance, 500x faster, or to be able to do a task of great
@@ -710,7 +727,8 @@ now been certified, we've certified. We have a test each and every one of these
 architectures on the data centers that we run on. We've certified AWS. And just
 today, we're announcing that Google Cloud Platform GCP, AliCloud, Oracle cloud
 will also be certified -- has also been certified. Okay. So now they're available on
-multiple clouds. This is the only architecture that is any cloud. And in fact, it also runs,obviously, on DGXs. So it runs on any cloud and in-prem. So that's hybrid cloud. So
+multiple clouds. This is the only architecture that is any cloud. And in fact, it also runs,
+obviously, on DGXs. So it runs on any cloud and in-prem. So that's hybrid cloud. So
 ladies and gentlemen, our latest release of NGC.
 PLASTER. Programmability, because the number of network species is growing
 exponentially. And they're evolving. They're getting more and more complicated.
@@ -753,7 +771,8 @@ recommendation systems, recommenders, speech synthesis, speech recognition.
 They've all kinds of different type of networks, sequence-to-sequence networks,
 deep generator networks -- something -- where's MLP? Where's Mike Houston?
 Multilayer Perceptrons, for God sake, neural collaboration filters. Okay. Recurring
-neural networks, CNN, of course.And so we started working on TensorRT, which takes the output of these frameworks,
+neural networks, CNN, of course.
+And so we started working on TensorRT, which takes the output of these frameworks,
 which are these massively complex computational graphs. And we have to target for
 all of the parameters that I just told you about. We're -- we've got to make that
 network as small as possible, as high performance as possible and yet retain all of its
@@ -798,7 +817,8 @@ we're going to speed up hyperscale data centers with our GPUs with this generati
 of optimizations 100x. We would increase the throughput by 100x. Or another way of
 saying it is, we are going to save a lot of money. You guys -- come on, we've done
 this before. You guys know the drill. The more you buy, the more you save. And with
-100x speed up, just imagine how much you will save.Ryan Olson
+100x speed up, just imagine how much you will save.
+Ryan Olson
 Jensen Hsun Huang
 Ryan Olson
 Jensen Hsun Huang
@@ -836,7 +856,8 @@ Yes, yes. No, no. That's all right.
 
 You got nervous.
 
-No, no. It's not me.Ryan Olson
+No, no. It's not me.
+Ryan Olson
 Jensen Hsun Huang
 Ryan Olson
 Jensen Hsun Huang
@@ -873,7 +894,8 @@ thing.
 
 Yes. We got it running in Kubernetes. So imagine like our app gets so popular,
 everyone wants to know about ﬂowers and we get a larger load. So we're going to
-scale this up. Let's look at what a larger load looks like. There we go. That's a largerJensen Hsun Huang
+scale this up. Let's look at what a larger load looks like. There we go. That's a larger
+Jensen Hsun Huang
 Ryan Olson
 Jensen Hsun Huang
 Ryan Olson
@@ -915,7 +937,8 @@ Wow, that's an incredibly good demo. Ladies and gentlemen, this is a demo of
 resilience where before and after is exactly the same. I bet you really enjoyed that.
 We don't have to show it again, because guess what guys, it looks exactly the same.
 Okay? A demonstration of resilience. And this is one of the most amazing things
-about modern hyperscale computing. And we now have cloud-to-cloud, we haveany cloud, we have cloud-to-prem, we have any prem. And so the NVIDIA
+about modern hyperscale computing. And we now have cloud-to-cloud, we have
+any cloud, we have cloud-to-prem, we have any prem. And so the NVIDIA
 architecture, all of these frameworks, all GPU accelerated is now possible
 orchestrated under Kubernetes. So that it can basically run everywhere. Ladies and
 gentlemen, Ryan.
@@ -957,7 +980,8 @@ processor architectures, programming models, all the way to computer graphics an
 deep learning, those aren't that many. And this is 200 people strong across the
 world. And the thing that's really special about the way we do NVIDIA Research, it's
 really a hub-and-spoke system. They're collaborating and doing research with all of
-the product research teams. We have hundreds of researchers around the company.All working together to advance the future of computing. Some of their
+the product research teams. We have hundreds of researchers around the company.
+All working together to advance the future of computing. Some of their
 contributions, you have already seen. NVIDIA Research initially started RTX. And the
 10 years' worth of work that they've done has resulted in the NVIDIA RTX or NVIDIA
 OptiX and NVIDIA RTX technology; NVIDIA Switch that was described today, that
@@ -999,7 +1023,8 @@ the transportation industry. One, first of all, the cities are getting too crowd
 people are having to move further and further away. The online purchasing
 phenomenon, the Amazon phenomenon, is causing more and more people to not
 go to the store. But to wait for the store to come to us. Somebody has to drive those
-atoms to us. And as a result of so much increase in population, another billionpeople are going to come into society in the next 12 years. We already have over a
+atoms to us. And as a result of so much increase in population, another billion
+people are going to come into society in the next 12 years. We already have over a
 billion parking spaces. We have 2 or 3 billion parking spaces waiting for us right now
 as we speak in anticipation of us needing it. And it's being built in the most precious
 places in the world, city centers. Autonomous vehicles has the opportunity to reduce
@@ -1040,7 +1065,8 @@ high. A level that, the computer industry has really not dedicated itself to und
 because this is something in the transportation industry, something that is, obviously,
 very well understood in the airplane industry. We've dedicated our last 5 to seven
 years to understand this entire system. And what NVIDIA is dedicating ourselves to
-do is to solve the problem from end to end.There are 4 basic pillars to what we do. There is collecting of data. These cars are
+do is to solve the problem from end to end.
+There are 4 basic pillars to what we do. There is collecting of data. These cars are
 collecting petabytes and petabytes of data. We take these data and we have, well,
 collecting of data, I'm going to back to that. Training models. These models, of
 course, cars, roads, signs, people, bikes, trains, motorcycles, trees, hydrants, you
@@ -1079,7 +1105,8 @@ code is your data. And all the code and all the training methodologies and recip
 that you applied in order to create that model, because you want to be able to trace
 it, you want to be able to repeat it. This infrastructure inside NVIDIA is called the
 Perception infrastructure. It's a massive investment and it's just something that I'm so
-proud of.At the end of it, it produces networks. We already have 10 networks inside our car.
+proud of.
+At the end of it, it produces networks. We already have 10 networks inside our car.
 The self-driving car is not one network, it's a whole bunch of networks and there'll be
 a whole bunch more. We already have 10. By the time that we ship in a couple of
 years, call it 20 or 30, each one of the 10 networks, there are 10 DGXs assigned to
@@ -1118,7 +1145,8 @@ an HD map. You want to figure out where you are relatively using -- relatively i
 space using your camera as well. Camera localization even to HD map. So if you had
 an HD map, we could figure out where we are -- it's an additional sensor in fact.
 Then, lastly, every single car is also a mapping car. If you have all of this technology
-inside your car that I just mentioned, your car becomes a mapping car, which meansthat when you drive it in the beginning, every time you drive it, you're mapping your
+inside your car that I just mentioned, your car becomes a mapping car, which means
+that when you drive it in the beginning, every time you drive it, you're mapping your
 space. And so as we -- as you know, 99% of the time, we're driving the same route.
 And most of those routes won't have an HD map in the beginning. And so we'll use
 our own cars -- your car to map and create a really high fidelity 3-dimensional map.
@@ -1155,7 +1183,8 @@ sleepy, she is never sleepy. I've never seen her sleepy once. And so she is
 pretending like she is sleepy. And our AI inside the car is monitoring her, making
 sure that she is looking in the right direction that her gaze is still active that somehow
 she doesn't appear sleepy making sure that, that everything in the cabin is safe and
-nobody is doing crazy stuff.And so using driver monitoring and cabin monitoring and AI, we're able to make
+nobody is doing crazy stuff.
+And so using driver monitoring and cabin monitoring and AI, we're able to make
 sure that not only is the car doing the right thing. But the passengers inside are
 doing the right things. This entire infrastructure, this entire system is just such a great
 undertaking. And we're doing this -- we're doing this in a way that is mindful of the
@@ -1197,7 +1226,8 @@ driving car system development all over the world. We're sampling both of them
 today. Both of them will be in production by the end of this year. Completely
 architectural compatible, auto grade to the extreme temperatures and operating
 conditions of a car. It is super energy eﬃcient because battery life matters,
-redundancy matters and it is also ASIL D. This is the first lineup of computers thatNVIDIA has ever made. That stands up to the highest standard of functional safety,
+redundancy matters and it is also ASIL D. This is the first lineup of computers that
+NVIDIA has ever made. That stands up to the highest standard of functional safety,
 ISO 26262, ASIL D is a rigor like you have never seen before. From processed --
 because ASIL D has only been done on small computers, not computers of this type
 and not on a software stack of this complexity. This is just a gigantic investment on
@@ -1238,7 +1268,8 @@ how to build virtual reality worlds. And so we imagine this that in the future, 
 be thousands of these virtual reality worlds with thousands of different scenarios
 running at the same time. And our AI car is navigating itself and driving and testing
 itself in all of these virtual reality worlds. And if any of those tests were to fail, it would
-send us an e-mail, we would jump into it in virtual reality and figure out what's goingMark Daly
+send us an e-mail, we would jump into it in virtual reality and figure out what's going
+Mark Daly
 Jensen Hsun Huang
 Mark Daly
 Jensen Hsun Huang
@@ -1274,7 +1305,8 @@ And the key here is that the fidelity of the simulation has to be suﬃciently h
 the sensors stack all the software that we create would just operate as they would in
 real life.
 
-That's exactly right.Jensen Hsun Huang
+That's exactly right.
+Jensen Hsun Huang
 Mark Daly
 Jensen Hsun Huang
 Mark Daly
@@ -1313,7 +1345,8 @@ Okay. So let's switch to the other system.
 
 And so this is one of the beautiful things. In virtual reality, we could create whatever
 scenario we want. And as you know, in test car driving, you could go days, months,
-weeks and never run into a weird scenario.Mark Daly
+weeks and never run into a weird scenario.
+Mark Daly
 Jensen Hsun Huang
 Mark Daly
 Jensen Hsun Huang
@@ -1350,7 +1383,8 @@ unchanged. We just OTA it directly into the car and it should just work. Then, t
 we could use it to create extreme corner rare scenarios and it's completely
 repeatable. Every single time, that police car shows up exactly the same way.
 
-That's right.Jensen Hsun Huang
+That's right.
+Jensen Hsun Huang
 Mark Daly
 Jensen Hsun Huang
 Mark Daly
@@ -1388,7 +1422,8 @@ is how we're going to bridge the gap between test -- actual test driving and the
 trillions of miles and the billions of miles that we need to experience over time.
 Well as I mentioned, NVIDIA has created a platform, it's an open platform. And it
 takes a community to build the future of autonomous driving. It's about the car
-companies, it's about the trucking companies, about mobility service companies. It'sabout the Tier 1 suppliers that are expert in building these systems and components
+companies, it's about the trucking companies, about mobility service companies. It's
+about the Tier 1 suppliers that are expert in building these systems and components
 for car companies. But it's about mapping companies, it's about sensor companies.
 We work so closely with all the LiDAR companies and all the camera companies to
 make sure that these future sensors are as high fidelity, as high performance and as
@@ -1428,7 +1463,8 @@ So ladies and gentlemen, this is the Isaac robotics platform ready to come to th
 world.
 (presentation)
 Ladies and gentlemen, Isaac, our new platform, the future of robotics. This is a
-development system. Lots of software developed for it. And of course, a simulatorJustin Ebert
+development system. Lots of software developed for it. And of course, a simulator
+Justin Ebert
 Jensen Hsun Huang
 Justin Ebert
 Jensen Hsun Huangthat goes along with it. And this little tiny computer we call Jetson. It's been put
@@ -1465,7 +1501,8 @@ We call this drive lab. And this is where we have a virtual car where we can tak
 Our operator, Tim here, is sitting on the side stage and we can see sensors coming in
 from the vehicle, the remote vehicle that needs help.
 
-Hi. don't go anywhere, Justin -- hey...Justin Ebert
+Hi. don't go anywhere, Justin -- hey...
+Justin Ebert
 Jensen Hsun Huang
 Justin Ebert
 Jensen Hsun Huang
@@ -1497,7 +1534,8 @@ Yes, yes. no problem. So -- yes, as Jensen said, this is actually out back here 
 a private area. And let's bring in Tim. So we can show him taking over inside of this
 vehicle here. And let's show that he has control over the car as well. So there's the
 real car out there. (inaudible) You can turn the steering wheel a little bit. We can see
-that we've got...Jensen Hsun Huang
+that we've got...
+Jensen Hsun Huang
 Justin Ebert
 Jensen Hsun Huang
 Justin Ebert
@@ -1531,7 +1569,8 @@ Tim isn't there. Guys, there is Tim right there. The invisible man.
 And Tim's view is very broad. He can see all 3 screens and get a full perception of
 everything that's going on in the car. In the future, we can represent all kinds of
 LiDAR systems and everything slowly, slowly. So yes, maybe we could take a look
-there.Jensen Hsun Huang
+there.
+Jensen Hsun Huang
 Justin Ebert
 Jensen Hsun Huang
 Justin Ebert
@@ -1569,7 +1608,8 @@ reach the hyperscale workﬂows around the world. In aggregate, speeding it up b
 100x, which allows us to enable people to buy more GPUs and save more money.
 And not only that, we made it easy to deploy.
 Kubernetes is now on NVIDIA GPUs, Kubernetes on NVIDIA GPUs. Just really, really
-exciting. And don't forget what makes TensorRT such an incredible achievement andwhat inference is so hard is because of one word, you guys know that word,
+exciting. And don't forget what makes TensorRT such an incredible achievement and
+what inference is so hard is because of one word, you guys know that word,
 PLASTER, that's right. And so what a great audience, what a great audience.
 Then, lastly, on our driving stack, we introduced our one architecture, we are in --
 we'll be in production by the end of this year with our first full ASIL D, full driving

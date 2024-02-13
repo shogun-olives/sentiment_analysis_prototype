@@ -21,7 +21,8 @@ introduce this new experience that redefined what is possible with mobile
 computing. And Windows 8 was built for a world that blends our work and our
 personal lives. It was built for a world where we believe people would expect touch-
 first experiences everywhere. And also, a world that is always on the go and expects
-to be always connected.And with the launch of Windows 8. And since the launch of Windows 8, we've seen
+to be always connected.
+And with the launch of Windows 8. And since the launch of Windows 8, we've seen
 our partners really deliver more innovation than ever before. And that's across
 tablets, that's across touch laptops, as well as convertibles. And today, when you
 walk into retail, you'll find we now have touch laptops for just over $400. And in fact,
@@ -60,7 +61,8 @@ whether it's continuous updates through Windows Update, updates through the app
 store, as well as Windows 8.1, which will be available generally at the end -- near the
 end, later on in the year, in the calendar year.
 Thank you. Your questions, John?
-Questions And AnswersQ - John DiFucci
+Questions And Answers
+Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 Wow. Okay, that was great. Thanks. Thanks, Tami. Then some of my questions you
@@ -100,6 +102,7 @@ developed markets, we would expect to see even up to 50% of the sellthrough in
 developed markets be touched. And emerging markets, the delta between
 developed markets and emerging markets continues to get smaller, in terms of the
 overall touch percentage both on shells as well as sellthrough to customers.
+
 A - Tami Reller
 Q - John DiFucci
 A - Tami RellerSo are you saying that, in emerging markets anyway, you see less touch sellthrough
@@ -144,7 +147,8 @@ with the introduction of Surface Pro, we've also -- we also -- we knew this was 
 case, which is, customers wanted to be able to see both products, to look at both of
 them. And determine sort of which Surface was going to be right for them. That
 certainly is a dynamic we've seen in markets where we have both products. So far,
-we only have Surface Pro in a few markets. But that's quickly expanding throughoutQ - John DiFucci
+we only have Surface Pro in a few markets. But that's quickly expanding throughout
+Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Rellerthe month of May and into June. And so we know that will make a difference for
@@ -185,7 +189,8 @@ But you also have to manage on a quarter-to-quarter basis too.
 Well it's hard to picture a time in technology where there wasn't some inﬂuential
 voice saying, hey, just around the corner are some amazing things. I mean, that's the
 beauty of technology. And so, of course, are there going to be interesting things
-around the corner? Absolutely. Are there interesting things in the market today?Q - John DiFucci
+around the corner? Absolutely. Are there interesting things in the market today?
+Q - John DiFucci
 A - Tami RellerI mean, again, you just -- if you just look at -- I mean, we have touch laptops that are
 just over $400. And these are beautiful mobile touch laptops. And that's, again, the
 beauty of Windows 8. It can scale from the smallest tablets all the way up to very
@@ -226,7 +231,8 @@ interesting survey work to ask customers what form factor categories are interes
 And have found that convertibles have a lot of interest -- convertibles and
 detachables. And their customers are weighing in that they're not quite sure exactly
 which types of convertibles in those categories are interesting. And so our partners
-just continue to do a lot of innovation there.Q - John DiFucci
+just continue to do a lot of innovation there.
+Q - John DiFucci
 A - Tami RellerAll-in-ones are a fascinating new category, whether it's an 18-inch, 20-inch, or up into
 25 or 27-inch, depending upon where you want to -- how portable you want it to be
 within your home. And whether you want a battery in the device or not. And so, a lot
@@ -268,7 +274,8 @@ difference.
 Then because we have really moved to this continuous product improvement cycle
 with Windows 8, I mean so far, even with Windows 8 through Windows Update,
 we've delivered 739 updates. And that doesn't even count these sort of first-party
-app updates that are coming through the Windows store, which make a difference toQ - John DiFucci
+app updates that are coming through the Windows store, which make a difference to
+Q - John DiFucci
 A - Tami Reller
 Q - John DiFuccimany customers as well. So I think all of that makes a difference to how enterprise
 customers are looking at it.
@@ -311,7 +318,8 @@ force, which we absolutely do. And so, that is -- I think that is -- that's what
 reﬂected in the numbers, for sure.
 
 So are people or corporations, as they upgrade to Windows 7, are you seeing more
-corporations upgrade to the Enterprise Edition?A - Tami Reller
+corporations upgrade to the Enterprise Edition?
+A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
@@ -353,6 +361,7 @@ important for our business model as well.
 Okay. Great. I'm going to ask one more question. And then I'm going to open it up
 to the audience. And the question is going to come back to Windows Blue, which is
 now called (multiple speakers) Windows 8.1.
+
 Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
@@ -392,7 +401,8 @@ underscore that.
 
 Okay. Yes, even I understand that.
 
-Good.Q - John DiFucci
+Good.
+Q - John DiFucci
 A - Tami Reller
 Q - John DiFucci
 A - Tami Reller
@@ -433,7 +443,8 @@ push updates down.
 Enterprises have the capability to decide sort of how they onboard those updates.
 We've also had that capability -- really, back to your point, John, on, as part of our
 Enterprise capability. Enterprises can decide sort of how often and how they want to
-bring that into their enterprise, completely, completely their choice.Q - Unidentified Participant
+bring that into their enterprise, completely, completely their choice.
+Q - Unidentified Participant
 A - Tami Reller
 Q - Unidentified Participant
 A - Tami RellerThen we also have the Windows store capability to update. And so for all of those
@@ -471,6 +482,7 @@ found.
 One more, if I may. As you are the incoming CFO, how do you think about
 optimizing the balance sheet in Microsoft? And how would you link that with the
 shareholder returns in terms of buybacks and divestitures?
+
 Q - John DiFucci
 Q - Unidentified Participant
 A - Tami Reller

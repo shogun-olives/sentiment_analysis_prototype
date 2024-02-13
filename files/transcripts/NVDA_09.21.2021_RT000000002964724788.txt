@@ -27,7 +27,8 @@ But we have cases where customers also ask us to build their autonomous driving
 application, and do the training and simulation for them. And we design this stack in
 a modular way such that you can actually pick and choose what you want from
 NVIDIA. And the fact that we sort of build this stack end-to-end ourselves, makes our
-product better across the stack.And just to note that we also have customers who don't use our computers in the
+product better across the stack.
+And just to note that we also have customers who don't use our computers in the
 car, but they work with us in the cloud for training and simulation. And so, having
 that open and modular platform that happens to be end-to-end is really fundamental
 to our strategy and a big reason of the success that NVIDIA's having in the
@@ -70,7 +71,8 @@ Okay. So once we move up into the application software, there's just a lot of wo
 OEMs to do. And one of the areas that we're differentiated is, we have the full self-
 driving application that's available for our partners. And so if OEM right now wants
 to invest in electrification and the base vehicle OS, they can partner with us to do the
-Parking application, the self-driving application, the end cap application for them.And this is more about, do OEMs want that help or not. But having that capability,
+Parking application, the self-driving application, the end cap application for them.
+And this is more about, do OEMs want that help or not. But having that capability,
 one gives us the opportunity to help OEMs in more ways than just a standard
 component supplier. But it also -- all that learning that we have in developing this
 application feeds into our next generation chip. And our chips are actually better
@@ -113,7 +115,8 @@ significant growth. There's traditional OEM's, like a Mercedes, and a Volvo, and
 Hyundai; but there's a whole slew of NEVs [ph] most of which were building a car the
 way you would want to build it, if you could reimagine what a future car would be.
 Most -- all of those companies are developing on the NVIDIA platform, whether it's
-Neo, the Auto, X Pang, Farady Futures. And then all those companies are alsoQ - C.J. Muse
+Neo, the Auto, X Pang, Farady Futures. And then all those companies are also
+Q - C.J. Muse
 A - Ali Kanibuilding robotaxis, or autonomous trucks, vast majority of them are also developing
 on our platform. And I think that ecosystem is also a source of advantage. And the
 reason is, is when people develop on our platform, we learn from them. They tell us,
@@ -150,7 +153,8 @@ and will continue to dwindle away, and combined with smart cockpit together lega
 infotainment, smart cockpit is a little over half of our business today. But I think what
 you'll find is that the mix of AV and self-driving will ramp and grow over time, we'll
 start to see an inﬂection later next year and will really try to scale it in calendar year
-'23 and '24.Q - C.J. Muse
+'23 and '24.
+Q - C.J. Muse
 A - Ali Kani
 Q - C.J. Muse
 A - Ali KaniAnd in terms of that inﬂection in this second half of '22, what's principally driving that
@@ -189,7 +193,8 @@ is faster generation advancements from OEMs, whereas before they build one
 architecture, you have to keep it for six to eight years, because they don't want to
 change the architecture. But our products are architecture compatible, and so what
 they can really do is just unlock new features and functionality, because there's a
-form factor and architecture compatible upgrade available with Atlan.Q - C.J. Muse
+form factor and architecture compatible upgrade available with Atlan.
+Q - C.J. Muse
 A - Ali KaniHelpful. I guess maybe to expand on that, IAA Mobility. You focused on speed of
 development ﬂow as a key differentiator for the AV market. You spoke to it again
 today. I was hoping maybe you could dig a little bit deeper into the meaning of that?
@@ -229,7 +234,8 @@ this eﬃciently requires an understanding of the infrastructure and tools neede
 new kind of software development. There's very few companies in the world who
 actually even know how to do that. And for NVIDIA it's something very unique, right,
 is that all these companies that are training their AI networks, they're training them
-on DGX systems. And then we've built our own simulator based on Omniverse, toQ - C.J. Muse
+on DGX systems. And then we've built our own simulator based on Omniverse, to
+Q - C.J. Muse
 A - Ali Kanimake it such that when you simulate AV, it's actually truly accurate, you could actually
 train networks on simulated objects that we build.
 You can't do that on like an open GL simulator, you have to build a new kind of
@@ -269,7 +275,8 @@ application development maybe later or maybe never, right? And so we try to have
 solution from them. But if you actually can do it, I think, we're perfectly fine saying, let
 the Tier 2 and the Tier 3 and the Tier 1 define what they want to do and just develop
 our platform, and I think that's great business and we want to make sure you can
-support those customers.Q - C.J. Muse
+support those customers.
+Q - C.J. Muse
 A - Ali Kani
 Q - C.J. Muse
 A - Ali KaniHelpful. A lot of excitement around your partnership with Mercedes-Benz. So curious
@@ -307,7 +314,8 @@ So there's in some cases more than $10,000 with content per robotaxi for NVIDIA.
 And when you take that and you multiply it by a large volume base, I think that's
 another big sort of inﬂection point that you'll see in the years to come. So I think all
 of those will ramp in this time frame that you're saying. And that's why the pipeline
-actually is growing and healthy.Q - C.J. Muse
+actually is growing and healthy.
+Q - C.J. Muse
 A - Ali Kani
 Q - C.J. Muse
 A - Ali KaniHelpful. I know Jetson has a focus on driving recurring revenues, and just curious,
@@ -346,7 +354,8 @@ solution that's kind of unique to NVIDIA. And so having that end-to-end platform
 especially with differentiation and infrastructure, really helps us differentiate. And
 then we have cases where customers want to build the self-driving application in
 some more traditional way. You mentioned (Inaudible) and Mobileye use. Their
-approach is a little bit more NCAP fixed-function CV based AV. Our approach is aQ - C.J. Muse
+approach is a little bit more NCAP fixed-function CV based AV. Our approach is a
+Q - C.J. Muse
 A - Unidentified Speaker
 A - Ali Kani
 Q - C.J. Muse
@@ -379,7 +388,8 @@ relevant, and let you kind of conclude our half-hour with investors. Can you hea
 I don't think Ali can hear you.
 I couldn't hear anything.
 Can you her me now?
-I can hear you. I can hear you.A - Ali Kani
+I can hear you. I can hear you.
+A - Ali Kani
 Q - C.J. Muse
 A - Ali Kani
 Q - C.J. MuseSo we've got a minute left. I was just going to turn it over to you to either share
@@ -416,5 +426,6 @@ Can I get your Jetson's oven inside my car? Well, Ali, thank you so much for tod
 It's always great to spend time with you. So thank you and wish you great health, and
 will close there.
 Thank you, guys. Appreciate it.
-You're on.A - Ali Kani
+You're on.
+A - Ali Kani
 Bye.

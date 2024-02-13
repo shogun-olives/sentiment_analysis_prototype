@@ -17,7 +17,8 @@ I usually like to start the fireside chats with more of a longer-term strategic 
 but we're sort of less than two weeks removed from your quarterly earnings. And I
 think there's still some unanswered questions that investors have on the October
 quarter that might be helpful to go through initially before going into some longer-
-term questions.A - Colette Kress
+term questions.
+A - Colette Kress
 Q - John Pitzer
 A - Colette KressThe first is really on the gaming side where you're currently in the midst of an
 extremely strong sort of product cycle with the RTX 30 Series, up almost 40%
@@ -61,7 +62,8 @@ having different characteristics as it goes through seasonality. We've also disc
 that we have often seen in our strongest overall demand focus around the holidays.
 But keep in mind, the holidays in terms of what we're referring to, are holidays that
 start as early as October and move into the new year through to the overall Chinese
-New Year, so it's an important piece.Q - John Pitzer
+New Year, so it's an important piece.
+Q - John Pitzer
 A - Colette Kress
 Q - John Pitzer
 A - Colette KressBut I think there's very important statement that you made there, that is correct. We
@@ -106,7 +108,8 @@ data center yet again another record level, not only a record level in terms of 
 compute, but an overall record level in terms of Mellanox. We had expected our
 overall sequential increase to stem primarily from our NVIDIA core compute, but we
 also saw strong growth in terms of Mellanox between Q2 and Q3, largely due to a
-China OEM and purchases that we didn't feel would repeat in overall Q4.Q - John Pitzer
+China OEM and purchases that we didn't feel would repeat in overall Q4.
+Q - John Pitzer
 A - Colette KressSo the record levels of Mellanox you couldn't be more pleased with our
 performance in the first couple of weeks, first couple of quarters here at NVIDIA.
 They have done tremendous. And we've been even excited in terms of all of our
@@ -145,7 +148,8 @@ year and the vaccine gets more widely distributed?
 Yes, it's a really good question that says COVID and the pandemic had pluses and
 minuses and there are companies that have benefitted, there're companies that had
 really struggled. But I think it's important to understand some of those pieces and
-how that inﬂuenced such as the data center and such as the enterprise.Q - John Pitzer
+how that inﬂuenced such as the data center and such as the enterprise.
+Q - John Pitzer
 A - Colette KressSo if you look in terms of our ProViz business, there's an example that says, the
 overall ProViz business was purchasing from our overall OEMs.At the initial onset of
 the pandemic, a real struggle to both get overall components and building through
@@ -187,7 +191,8 @@ of computing, but the future of computing and the future of accelerated computin
 which will be with us for many decades going forward.
 In order to scale to that accelerated computing and the use of overall AI, it required
 a full stack approach to how we approach this overall market, meaning, we just are
-still thinking about the silicon, thinking about the best performance that you can getQ - John Pitzerfor the overall hardware, but we are also focused on systems and software, because
+still thinking about the silicon, thinking about the best performance that you can get
+Q - John Pitzerfor the overall hardware, but we are also focused on systems and software, because
 that full stack really differentiates us and is what is going to be necessary to achieve
 this transformation to accelerated computing as we go forward.
 The overall work of just focusing on just our hardware performance, but not
@@ -229,7 +234,8 @@ goes after. You look at your core gaming growth, it's been 30% annual growth, yo
 compound annual growth over the last five years. What's amazing about that is half
 has been ASPs which is to me a value capture. Can you talk a little bit about that
 application framework and maybe as you discuss, it brings specifically into the
-conversation the announcement you made with Mercedes-Benz earlier this year?A - Colette Kress
+conversation the announcement you made with Mercedes-Benz earlier this year?
+A - Colette Kress
 Q - John Pitzer
 A - Colette Kress
 Yes, so when you think about our value and why people continue to come back to
@@ -272,7 +278,8 @@ overall hardware and the chip. We are really talking about keeping the overall
 software capabilities up to speed and there is going to be new updates all the way
 through the ownership of that car. So you're correct, that's a long-term overall
 revenue stream that easily with overall Daimler will reach in terms of in the billions
-[ph].Q - John Pitzer
+[ph].
+Q - John Pitzer
 A - Colette Kress
 Q - John PitzerSo we're really pleased with such a great opportunity to really build out our
 automotive business. You'd say how much will this be as a percentage of our
@@ -316,7 +323,8 @@ But I think you guys done a good job over the last several years debunking the m
 that you're very strong in machine learning and training, but not that strong in
 inference. Can you talk a little bit about the positioning an inference? And as you
 think about augmenting your silicon with software, how important does that become
-as an incremental mode for competition?A - Colette Kress
+as an incremental mode for competition?
+A - Colette Kress
 Q - John Pitzer
 A - Colette Kress
 Yes, so we did. We were very open in terms of indicating that we were going to
@@ -360,7 +368,8 @@ versus being able to put up very healthy operating margins?
 Yes. So let's focus on gross margin first. So our gross margins really simply the
 number one thing we want you to think about is our gross margins are most
 inﬂuenced by mix and most inﬂuenced by more software. What I mean is the
-absence of the software cost helps our gross margins, because the software cost isQ - John Pitzer
+absence of the software cost helps our gross margins, because the software cost is
+Q - John Pitzer
 A - Colette Kressdown in R&D. And so, people are purchasing our platforms for their full capabilities
 in aiding them with their overall applications and we benefit from a gross margin.
 But there are many of our platforms that are not fully software-rich that we still say. So
@@ -400,5 +409,6 @@ thank you for participating again and wish you, your immediate family and your
 extended family a safe and healthy rest of 2020. It's been a very trying year and
 there is a lot of us that are looking forward to 2021.
 
-I agree. Thank you for hosting. Have a happy holidays.Q - John Pitzer
+I agree. Thank you for hosting. Have a happy holidays.
+Q - John Pitzer
 Take care.

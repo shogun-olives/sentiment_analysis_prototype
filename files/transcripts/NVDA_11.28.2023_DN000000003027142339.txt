@@ -22,7 +22,8 @@ terms of new types of workloads, each and every day across this customer sat. Th
 are important areas that we've been working on in terms of both large language
 models but also generative AI applications, recommended or engines are still an
 important part of our business in an accelerated computing as well and that
-continues to grow.Tim Arcuri
+continues to grow.
+Tim Arcuri
 Colette KressAdditionally, we've added some key important areas that we are seeing around the
 world. We've talked about our AI factories that we see being built, but also the
 expansion in terms of sovereign AI around the world as many that involved in terms
@@ -63,7 +64,8 @@ Yeah. So as we finished here at the end of 2023, one of the things that you've h
 of over the last several months now in terms of talking about, one of it is really
 speeding up and broadening our ability to bring new products to the market. We
 think this is an essential piece of our growth going forward. Why? The overall
-expansion of this market since the onset of generative AI has continued to bothTim Arcuri
+expansion of this market since the onset of generative AI has continued to both
+Tim Arcuri
 Colette Kressincrease the TAM associated with that, but also the many different variants that we're
 seeing in AI.
 We're bringing new products to market as a faster rate than probably what we've
@@ -102,7 +104,8 @@ improvement in terms of our demand versus supply piece of that. But you're corre
 Right now, we are still working on building more supply particularly one of the key
 areas would be our (inaudible) but each and every quarter we have advanced start.
 As you've seen in terms of how we've given our outlook and we'll continue to do
-that.Tim Arcuri
+that.
+Tim Arcuri
 Colette KressSo when we know that we already have a significant amount of demand and already
 starting to help them plan for the next generation, we just believe this expanded
 market has contributed a lot of that interest and will still be with us as we look in
@@ -141,7 +144,8 @@ pilot. (inaudible) already received a tremendous amount of return on investment
 from the work they've done. Time and time, there are new capabilities of (inaudible)
 inferencing capability of our GPUs. But it has been world-known across much of our
 search customers that we have, recommender engines were just yet another one on
-that inferencing.Tim Arcuri
+that inferencing.
+Tim Arcuri
 Colette Kress
 Tim Arcuri
 Colette KressMarketing as it exists today has changed. The digital marketing and the use of
@@ -183,7 +187,8 @@ times on the call that the TAM might ultimately be much larger than how we're
 looking at it today. So can you talk about that?
 
 Yeah. So let's just kind of break that down. When we talk about what did we mean by
-sovereign AI. Today, one of the most popular generative AI applications ChatGPTTim Arcuri
+sovereign AI. Today, one of the most popular generative AI applications ChatGPT
+Tim Arcuri
 Colette Kress
 Tim Arcurireally centered regarding the country we're in right now, regarding the US. US
 culture, US data, US speak in terms of that matter. Each country will look to develop
@@ -225,7 +230,8 @@ the market to serve.
 And it seems a little bit -- you know, correct me if I'm wrong, but it seems a little bit
 different than last time where, okay, here are the lines in the sand. And then you
 came out with SKUs that just sat beyond those lines in the sand. They're sort of
-offering in the documentation. If you read it, it's sort of more of a we're willing toColette Kress
+offering in the documentation. If you read it, it's sort of more of a we're willing to
+Colette Kress
 Tim Arcuri
 Colette Kresswork with you to allow export of even a SKU that is technically banned as long as you
 can include technology that can track its use case, that can guarantee its use case.
@@ -264,7 +270,8 @@ but that is another piece of it.
 The next place that we turn to are different types of investments, investments that
 can also be forms of M&A as well. We have always been very thoughtful in terms of
 the M&A that we've done. Probably the most important key M&A that we did was
-Mellanox, probably one of our most favored M&A that we've had, and really beingTim Arcuri
+Mellanox, probably one of our most favored M&A that we've had, and really being
+Tim Arcuri
 Colette Kresssuch a great win for us, a great working together, something that just took off and
 did just phenomenal. Working together not only on accelerated computing with a
 GPU but the entire data center now as we understand that importance of
@@ -303,7 +310,8 @@ for them to use to start with, written out, start with these models, great overa
 exceptional software for them to overall use.
 Omniverse is the next one that's very key to us. Omniverse is a new area really
 focusing on that 3D Internet, that overall 3D look in terms of both building out
-factories or manufacturing. Last piece of it is our automotive software, our AVTim Arcuri
+factories or manufacturing. Last piece of it is our automotive software, our AV
+Tim Arcuri
 Colette Kress
 Tim Arcuri
 Colette Kress
@@ -342,6 +350,7 @@ enterprises. That's good for them. Similar to -- we're not here to do TSMC's wor
 either. So that's an important part of why this whole process works. They do that.
 We've added in terms of the software and support to help them get there and it's a
 great partnership.
+
 Colette Kress
 Tim Arcuri
 Colette Kress
@@ -381,6 +390,7 @@ that done.
 Got it. Maybe as a last question, is there a way that you can look at the networking
 attach rate? So for each dollar of compute you're shipping, is there a way to quantify
 what your networking attaches to each dollar of your shipping?
+
 Tim Arcuri
 Colette Kress
 Tim ArcuriDepending on the compute and who we are working with, it is very, very common

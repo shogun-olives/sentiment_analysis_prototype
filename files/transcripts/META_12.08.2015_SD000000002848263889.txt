@@ -18,7 +18,8 @@ or prospects of Facebook.
 Facebook cautions you to consider the important risk factors that could cause actual
 results to differ materially from those in the forward-looking statements. These risk
 factors are described under the caption risk factors in Facebook's quarterly report on
-Form 10-Q filed with the SEC on November 5, 2015.Carolyn EversonIn addition please note that any forward-looking statements that Carolyn makes are
+Form 10-Q filed with the SEC on November 5, 2015.
+Carolyn EversonIn addition please note that any forward-looking statements that Carolyn makes are
 based on assumptions as of today. And Facebook undertakes no obligation to
 update these statements as a result of new information or future events.
 So now we have that behind us, maybe I'll start with the big picture Carolyn. I think
@@ -54,7 +55,8 @@ topic is at the CEO and Board level conversation that we're having with all of o
 companies. So that's the second thing that they are thinking about.
 The third is then more granular on advertising. Advertising for decades used to be
 advertising at people. We built factories, we build brands by doing mass reach
-advertising and it worked very effectively for many, many years.Eric Sheridan
+advertising and it worked very effectively for many, many years.
+Eric Sheridan
 Carolyn EversonNow that consumers have the most personal device they've ever had in the history
 of devices their expectation around marketing has changed dramatically. The
 expectation is if you're going to show up on my phone which is very personal, it's my
@@ -91,7 +93,8 @@ Facebook is to grow our client's business be it a small business or it's the wor
 largest companies. And we think we have very effective ways to measure the
 effectiveness of it and everything marketers should do should have a business
 outcome. As opposed to social metrics which is where the industry was several years
-ago when companies were measuring things likes, share, comments or followers.We want to be held accountable for are we driving online conversion, off-line sales,
+ago when companies were measuring things likes, share, comments or followers.
+We want to be held accountable for are we driving online conversion, off-line sales,
 brand awareness, lift. So on and so forth. So that's how we think about it from a
 principal standpoint.
 In terms of where it is today we have invested in ad tech more broadly. Atlas is really
@@ -126,7 +129,8 @@ sales. But if you're an emerging market some of those capabilities don't exist.
 So we launched mobile polling as an example where a brand can get a very quick
 read on the device where the ads are actually being served whether or not it's
 actually driving a result. And so we do mobile polling now not only with Nielsen but
-with Millward Brown and that's being widely used in emerging markets.Eric Sheridan
+with Millward Brown and that's being widely used in emerging markets.
+Eric Sheridan
 Carolyn Everson
 Okay. I want to shift a little bit to the types of marketers and how they interact with
 Facebook. Maybe we'd start first with brand advertisers.
@@ -163,7 +167,8 @@ innovations we've made on video. Sight, sound and motion has been a format that
 they had loved for many, many years, of course.
 It's been what they've used on TV very, very effectively. And with not only our
 autoplay video but all of the innovations that we're making with 360 video and
-testing out video home and suggested videos they are definitely seeing anEric Sheridan
+testing out video home and suggested videos they are definitely seeing an
+Eric Sheridan
 Carolyn Eversonopportunity to tell their story in a mobile environment which is incredibly important
 to them.
 I think the biggest surprise to me just in terms of ads I think about mobile over the
@@ -198,7 +203,8 @@ And so Facebook pages actually are becoming their presence in the mobile
 environment. And they are not having to invest in building out a full website in the
 desktop world. So we're definitely seeing that trend.
 We try very hard to build self-serve tools for small businesses to be able to actually
-start to advertise in a very seamless and easy way. The most used product for smallEric Sheridan
+start to advertise in a very seamless and easy way. The most used product for small
+Eric Sheridan
 Carolyn Eversonbusinesses is actually just to boost the post which is a very simple thing. If they are
 making a post about an offering or a new product or service they literarily can click
 and with very, very not a lot of effort they can actually add a little bit of a boost, pay
@@ -235,7 +241,8 @@ create individual ads for millions of products which some of these obviously the
 retailers have millions of different product offerings, we can dynamically generate
 the right product and the right ad to the person at the right time based on
 potentially somebody leaving it in their shopping cart and they didn't purchase it or
-they were browsing for a particular product.Eric Sheridan
+they were browsing for a particular product.
+Eric Sheridan
 Carolyn EversonAnd it's even as sophisticated as knowing that maybe you did buy it so make sure
 you don't show that product again because that would be a wasted ad. If you just
 purchased something why do you need to see an ad for that again?
@@ -272,7 +279,8 @@ to address that long-term opportunity.
 Sure. So I just got back from India. I took my global leadership team to India, twice a
 year I take them to markets that are incredibly important for us from a cultural
 immersion perspective to learn how a product is being used and also to understand
-the needs of the marketers.And so this is a very important area for us. So let me just start very broadly, there's
+the needs of the marketers.
+And so this is a very important area for us. So let me just start very broadly, there's
 about 40% of people connected to the Internet today. That number differs a little bit,
 depending on the source you use it's about 40% which means there are over 4
 billion people that are still not connected to the Internet.
@@ -307,7 +315,8 @@ What we're doing on the monetization and product front is number one, you have t
 recognize that the phones that we're all probably using and the tablets that we all
 have in front of us today we have pretty good connection thanks to AT&T who was
 just here and Verizon and others that have wired it for us. But the majority of these
-markets are still living with 2G connections.Eric Sheridan
+markets are still living with 2G connections.
+Eric Sheridan
 Carolyn EversonSo we have Facebook Lite which is only uses 1 megapixel of data. So it's a very
 lightweight version of Facebook so that can be used in 2G connections. We are
 allowing people to make a post when they are off-line and then when they get into a
@@ -346,7 +355,8 @@ communicate for consumers first and foremost.
 And we really focus on making sure the consumer product and the consumer usage
 is delightful before we start thinking about how the ad products work into that.
 Because one of your earlier questions was how do you balance consumer
-engagement in ads. At the end of the day we have to deliver a valuable product toconsumers every single time they interact with our products and that's the first and
+engagement in ads. At the end of the day we have to deliver a valuable product to
+consumers every single time they interact with our products and that's the first and
 most important thing that we do.
 In terms of how marketers are thinking about video they are thinking about it in a
 number of different ways. First of all, the mobile environment is very different than
@@ -382,7 +392,8 @@ If you're at home at night and you happen to be on a tablet we can then send
 something else. So the notion of building sequential storytelling and video is
 something that's very, very appealing to marketers.
 So I would say we're in the early days of video. It's a beloved medium. Consumers
-are clearly clamoring for it and using it more and more.Eric Sheridan
+are clearly clamoring for it and using it more and more.
+Eric Sheridan
 Carolyn Everson
 Eric SheridanIt was really a major inﬂection point by the way in August 2014 with the ice bucket
 challenge. When 440 million people around the world were consuming an ice
@@ -419,7 +430,8 @@ it's very much to be sort of a bridge to the future of where we think the market
 needs to go.
 
 Okay. You've referenced Instagram a few times. I know it's front of mind for investors
-also.Carolyn EversonEarlier this year you expended the ability to advertise on Instagram. Help us
+also.
+Carolyn EversonEarlier this year you expended the ability to advertise on Instagram. Help us
 understand what the long-term plan is with respect to Instagram, what the early days
 have shown you about how advertisers are putting money to work on Instagram and
 what that's doing for broader advertising budgets.
@@ -454,7 +466,8 @@ measurement that they were used to on Facebook. And frankly once we built it for
 Facebook it sort of starts to become table stakes. Marketers expect the ability to use
 those targeting capabilities and the measurement.
 And so we're seeing a lot of interplay between the two platforms these days. As I
-mentioned. And I referenced Macy's has done some fabulous work between the twoEric Sheridan
+mentioned. And I referenced Macy's has done some fabulous work between the two
+Eric Sheridan
 Carolyn Everson
 Eric Sheridanplatforms for the holiday season as has Target with their cartwheel app. And you can
 actually interplay the two.
@@ -491,6 +504,7 @@ Instagram initially than they are on Facebook. And so we're really learning betw
 the two over time what we want both platforms to be are the most important growth
 drivers for businesses small to large. And we're going to keep innovating on the
 products to make sure we get there.
+
 Carolyn EversonOne of the things you referenced earlier was the Atlas transaction. You've talked a lot
 about targeting capabilities.
 Two other pivots you made at the backend on advertising was to acquire LiveRail
@@ -527,7 +541,8 @@ reaching women 18 to 34 and they find out wow, I'm actually reaching a lot of me
 that are 45 and above.
 And that's like a shock to the system when that happens. And so we're trying to solve
 more accurate targeting and more relevant messaging both on our platforms as well
-as off.Eric Sheridan
+as off.
+Eric Sheridan
 Carolyn Everson
 Eric Sheridan
 Got it. So as we wrap up maybe just one last broad question. You led with talking
@@ -560,5 +575,6 @@ So this is a profound shift. It changes marketing and it changes business models
 And I think we're going to continue to talk about it for the next few years.
 
 Great. Well please join me in thanking Carolyn Everson and the whole Facebook
-team for being here.Carolyn Everson
+team for being here.
+Carolyn Everson
 Thank you.

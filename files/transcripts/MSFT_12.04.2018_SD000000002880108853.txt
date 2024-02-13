@@ -21,6 +21,7 @@ gone through a lot of change over the past few years. From your perspective,
 obviously having been there 20 years now, if you could provide a little bit of color on
 the evolution of the company and the culture and the impact Satya and Amy have
 had on the direction and culture of the company.
+
 Q - Philip Alan Winslow
 A - Ron MarkezichYes. I think the -- if I look at when Satya came in, one of the first things he did was get
 us grounded on a mission that was fresh and new for the company. I think if you look
@@ -68,7 +69,8 @@ hours just to talk about, as CIO, as a customer of Microsoft product, how could 
 products get better, which is a horrible signal, customer as one. Now as we move to
 cloud services through Azure, through Microsoft 365, you get such great signal from
 customers across segments, geographies, industries, et cetera. And what -- the
-change has really been around our ability to be agile in that customer feedback. AndQ - Philip Alan Winslow
+change has really been around our ability to be agile in that customer feedback. And
+Q - Philip Alan Winslow
 A - Ron Markezich
 Q - Philip Alan Winslow
 A - Ron Markezichthe way in which Satya has reengineered the engineering organization and improve
@@ -113,7 +115,8 @@ the dialogue with customers, particularly in your area of focus, O365, M365?
 Yes. There's a few things we need to do. We needed to get deeper technical
 expertise in our field as our product portfolio has broadened. I mean, you look at
 Azure, Azure is a compilation of about 50 different services. Microsoft 365, we run
-from taking over -- allowing you to run your PBX in the cloud to set a securityQ - Philip Alan Winslow
+from taking over -- allowing you to run your PBX in the cloud to set a security
+Q - Philip Alan Winslow
 A - Ron Markezichcomponent. So we needed to have deeper expert -- technical expertise in the field.
 We also needed to organize more around industry. So many of our solutions
 become tailored by industry differently. If you look at our Dynamics business, that's
@@ -160,7 +163,8 @@ Things like shift capabilities, shift sharing, HoloLens to help people with supp
 the field so they can tap into an expert back at headquarters, a number of those
 scenarios. So that's TAM, that subscriber expansion and the population that frankly
 never subscribed to anything from Microsoft. Then there's customers. We've made
-great progress in certain segments. But there's a lot of room to go in otherQ - Philip Alan Winslow
+great progress in certain segments. But there's a lot of room to go in other
+Q - Philip Alan Winslow
 A - Ron Markezich
 Q - Philip Alan Winslow
 A - Ron Markezichsegments, certainly emerging markets, smaller businesses, customers that tend to
@@ -204,6 +208,7 @@ talk about just a momentum you're seeing there. And how do you think about sort 
 continuing to differentiate Oﬃce 365? Obviously, Teams being a sort of recent
 addition to the package. But how do you think about sort of continuing to
 differentiate Oﬃce 365? So Teams and then kind of the go forward.
+
 Q - Philip Alan Winslow
 A - Ron Markezich
 Q - Philip Alan WinslowYes. Teams is super important to us because it is the hub for teamwork in Microsoft
@@ -250,7 +255,8 @@ I'm a fan of the vanishing ninja, a big fan of that. But let's transition over t
 pause. But back at Build, I thought it was really interesting because I'd describe it as
 almost sort of a reposition of Microsoft 365. It's not just simply sort of a bundle,
 Windows 10, O365 and enterprise mobility and security. But rather it's a platform for
-developers and it blends web application and -- web and traditional applicationA - Ron Markezich
+developers and it blends web application and -- web and traditional application
+A - Ron Markezich
 Q - Philip Alan Winslow
 A - Ron Markezichenvironment. So how do you think -- how are sort of -- inside of Microsoft, how you
 think about 365? And how do you sort of position that as a platform?
@@ -296,7 +302,8 @@ same thing, allow you to have us manage the clients so you always have the lates
 and greatest. We see a large shift for customers that are on Windows 7 with that
 coming up to end of life using that to shift to what we could call the modern device
 or modern desktop. So they always have the latest and greatest across Oﬃce,
-Windows and EMS on those devices and desktops.Q - Philip Alan Winslow
+Windows and EMS on those devices and desktops.
+Q - Philip Alan Winslow
 A - Ron Markezich
 Q - Philip Alan Winslow
 A - Ron Markezich
@@ -342,7 +349,8 @@ threat analytics that I've mentioned, signal that allows you to anticipate where
 might be coming to address things before an attack happens; has Microsoft Cloud
 app security. So you can look at all the cloud apps that are used within an
 organization, manage those and control those. It's the age-old problem of a CIO,
-how do I manage all this shadow IT? Well now, shadow IT, you don't even need aQ - Philip Alan Winslow
+how do I manage all this shadow IT? Well now, shadow IT, you don't even need a
+Q - Philip Alan Winslow
 A - Ron Markezich
 Q - Philip Alan Winslow
 A - Ron Markezich

@@ -18,7 +18,8 @@ tenure, he asked me to move jobs from where I was to take on the CMO role. And s
 yes, it's been an incredible run for 17 months or so.
 
 Got it, got it. So I guess I wanted to start out, there has been a lot of changes we
-have seen at the Company in the last 18 months, as you have highlighted, with SatyaChris Capossela
+have seen at the Company in the last 18 months, as you have highlighted, with Satya
+Chris Capossela
 Walter Pritchard
 Chris CaposselaNadella taking over as CEO. Maybe you could take your marketing hat off because I
 know a lot of it is messaging and things like that. But some of it is actual real changes
@@ -56,6 +57,7 @@ example, put Oﬃce on other platforms, which would probably not have been done
 ago at Microsoft.
 Can you just talk about what is the role of Windows as we move forward? Is it still the
 focus that it was before or how do you guys think about it?
+
 Walter Pritchard
 Chris Capossela
 Walter Pritchard
@@ -91,6 +93,7 @@ I think we've thought of that as a PC -- the Company has outlined a goal of, I t
 billion Windows 10 devices by 2018.
 
 Yes.
+
 Chris Capossela
 Walter Pritchard
 Chris CaposselaAnd we have gotten used to, I think, measuring your PC business on the basis of
@@ -127,7 +130,8 @@ That will be phones, that will be tablets, that will be laptops, that will be de
 that will be big surface hubs, that will be Xbox. Xboxes today run Windows. And so
 every time we sell an Xbox, we are actually creating a Windows active device that
 hopefully people love it. It is their gaming device in their living room. It is not a
-separate animal. It is literally a Windows device.Walter Pritchard
+separate animal. It is literally a Windows device.
+Walter Pritchard
 Chris Capossela
 Walter PritchardSo the device shape and size is going to change in the next four years. What is not
 going to change is our desire to have lots and lots of very happy and very actively
@@ -165,7 +169,8 @@ some sort of --
 2 in 1s, some Surface -- almost third-party Surface-type devices, which look great. I
 think there is still an investor question out there on the phone form factor, where
 you've to some degree retrenched from the market, to some degree left the door
-open to go back into that market.Chris Capossela
+open to go back into that market.
+Chris Capossela
 Walter Pritchard
 Chris Capossela
 Walter Pritchard
@@ -201,7 +206,8 @@ much, much better solution and much better business than we have today. Four
 years from now, too hard to predict. I think we have too much to do in front of us
 right now to get back in the game with the two audiences that we think we can serve
 incredibly well. And then we will see how things evolve and we will take it one step
-at a time.Walter Pritchard
+at a time.
+Walter Pritchard
 Chris Capossela
 Walter PritchardBut obviously, we want to be in the phone space. We're excited about the phones
 we are delivering this holiday for those customer segments. But we are just going to
@@ -238,6 +244,7 @@ do the best we can with A, B. And C.
 And that mentality has really, I think, resonated with Silicon Valley. It has resonated
 certainly with the press. And hopefully it is going to show in the partnerships that we
 do.
+
 Chris Capossela
 Walter Pritchard
 Chris Capossela
@@ -275,7 +282,8 @@ finished line of business apps that take advantage of it. And that's an area for
 do better.
 
 So that would be the existing -- it's not just CRM. But the Dynamics ERP portfolio, all
-that.Chris Capossela
+that.
+Chris Capossela
 Walter Pritchard
 Chris Capossela
 Walter Pritchard
@@ -311,7 +319,8 @@ From our mainstream Oﬃce 365 customers, there are new areas that we are going
 into that will allow them to see a lot more value from the solution than they do today
 and new licensing opportunities for us to expand how much of our share of wallet
 we get, that today they are paying to maybe five, six, seven different vendors that we
-can essentially consolidate.Walter Pritchard
+can essentially consolidate.
+Walter Pritchard
 Chris Capossela
 Walter PritchardSecurity is a big area for us with Oﬃce 365. Enterprise data protection is coming for
 Oﬃce 365 and we think that will be a really critical thing. Nobody wants to have what
@@ -348,6 +357,7 @@ opportunities for us to reach those -- a broader set of workers that we haven't 
 today. And probably a much, much lower-priced offering. It doesn't have nearly the
 full functionality of what you and I might use on a daily basis. But there is some new -
 - I think there is some addressable types of users that we haven't gotten to yet.
+
 Chris Capossela
 Walter Pritchard
 Chris Capossela
@@ -385,7 +395,8 @@ wanted to talk about just developers and Microsoft. And I think there is the fam
 video of Steve getting all sweaty up on stage, yelling developers, developers,
 developers. And there is no doubt that the developer has been a core sort of
 constituent that the Company has been built on the back of over the last couple
-decades.Chris Capossela
+decades.
+Chris Capossela
 Walter Pritchard
 Chris Capossela
 Walter Pritchard
@@ -422,7 +433,8 @@ you are able to move to the cloud without touching it with a single line of code
 have line of business apps that today run on a Linux server; you can move that Linux
 server to Azure. We will run it for you; it runs unchanged. You don't have to touch it.
 But if you are building something from scratch and if you are building an e-
-commerce platform for your company, your website, if you are the next Facebook,Walter Pritchard
+commerce platform for your company, your website, if you are the next Facebook,
+Walter Pritchard
 Chris Capossela
 Walter Pritchard
 Chris Caposselayou are not just porting workloads. You are literally starting from scratch. And that's
@@ -458,7 +470,8 @@ nine months. The rapid rate of innovation that we have had with new services
 coming to Azure at a rate that our own sales people have a hard time keeping up, it's
 just been amazing to see.
 And I think if you do follow this space, people have been blown away by how fast
-the team has executed. Great new services, the Enterprise Mobility Suite, theWalter Pritchard
+the team has executed. Great new services, the Enterprise Mobility Suite, the
+Walter Pritchard
 Chris CaposselaOperations Management Suite, the Cortana Analytics Suite, the IoT Suite, these are
 heavy hitting cloud services built on Azure in relatively short order.
 We need to do a great job leveraging our enterprise sales force to make sure we're
@@ -494,7 +507,8 @@ Salesforce, you should be able to do it on Azure. If you have been on Oracle, yo
 should be able to have your Oracle databases all running on Azure. If you are a huge
 Linux shop, you should know that our Linux -- our support for Linux is unparalleled. If
 you have a container strategy with Docker, you should know that we support that. If
-Hadoop is your database of choice, we support that as well.A - Walter Pritchard
+Hadoop is your database of choice, we support that as well.
+A - Walter Pritchard
 Q - Kevin Statler
 A - Chris Capossela
 A - Walter Pritchard
@@ -531,7 +545,8 @@ We typically want to either get the great talent or get the great technology. I 
 wouldn't rule any of those out. I am not here to announce any sort of acquisition,
 needless to say. But we are not against it.
 
-Any other questions out there?A - Chris Capossela
+Any other questions out there?
+A - Chris Capossela
 Q - Unidentified Participant
 A - Chris CaposselaI'm not sure if I said the question correctly. But as far as I understand, AWS'
 customers are pretty sticky and mainly because of the fact that it is really hard to
@@ -570,7 +585,8 @@ model. And then we monetize on the enterprise side with Skype for Business. And
 there you are essentially paying for all the IT value that consumers really don't care
 about. But that enterprises care a lot about.
 So that might be quality of service. That might be auditability, logability, discovery,
-obviously security, those types of things.Q - Unidentified Participant
+obviously security, those types of things.
+Q - Unidentified Participant
 A - Chris CaposselaWhen you think about the Skype for Business category, you are really talking about
 corporate instant messaging, audio conferencing, video conferencing, remote
 meetings, real-time collaboration. It's all of those spaces blended into one toolset.
@@ -605,7 +621,8 @@ to, you could include FaceTime. There is not really an enterprise version of tha
 though.
 But you are dealing with a big ecosystem of telephony providers, Polycom, Cisco,
 some of those are our partners. Polycom is a great partner. Some of them we
-compete more with every day.A - Walter Pritchard
+compete more with every day.
+A - Walter Pritchard
 A - Chris Capossela
 A - Walter Pritchard
 A - Chris Capossela
@@ -643,7 +660,8 @@ over where we are putting our money.
 I am spending far more heavily on the cloud this year than I spent last year. And the
 same was true last year. The cloud continues to go up and up and up. And I am
 funding that by finding areas of ineﬃciency that I think we can do without. And that's
-in general a very, very good thing.A - Walter Pritchard
+in general a very, very good thing.
+A - Walter Pritchard
 A - Chris Capossela
 A - Walter Pritchard
 A - Chris Capossela

@@ -21,7 +21,8 @@ also held our annual GPU Technology Conference. This is our time that we pull in
 of the different developers and ecosystem partners around the world and focusing
 on the latest and greatest in terms of GPU acceleration and computing. It's not
 similar to what we do in some of our other conferences where we talk about
-specifically gaming and the latest and greatest. But it's really, really focused on GPUand GPU computing. A great event for us, probably our highest attendance that we
+specifically gaming and the latest and greatest. But it's really, really focused on GPU
+and GPU computing. A great event for us, probably our highest attendance that we
 have seen in the eight years of running. And also an extension, given that, in this last
 year, we had also used our GPU Technology Conference to go worldwide. And we
 held 7 other events worldwide in the fall, talking about the importance of GPU
@@ -63,7 +64,8 @@ frameworks that are currently running and are popular in the world. And think ab
 AI worldwide, supporting what AI frameworks are here being used in the U.S. as well
 as those that are using in many of the other countries, including overall China.
 So our AI supercomputer. And thinking about that evolving and the use of the cloud
-to also enable AI, is the introduction in terms of NVIDIA cloud services as we goQ - Harlan Sur
+to also enable AI, is the introduction in terms of NVIDIA cloud services as we go
+Q - Harlan Sur
 A - Colette M. Kressforward as well. We'll be able to extend exactly what people are working on in terms
 of with their AI supercomputers or what they're using with a Titan, what they're using
 a workstation. And extend that from an on premise to a cloud as we go forward.
@@ -105,7 +107,8 @@ development language that enables you to overall program the GPU, people were
 very confused and couldn't understand, why would you need that? Why would you
 enable it across every single one of your GPUs, whether that be a gaming, a PC or, in
 terms of the future, in terms of what we're using? When you think about that
-investment and decision more than 10 years ago, it seems perfect to look at in termsQ - Harlan Surof how GPU computing has now evolved and the importance of being able to write
+investment and decision more than 10 years ago, it seems perfect to look at in terms
+Q - Harlan Surof how GPU computing has now evolved and the importance of being able to write
 very, very specifically to the GPU and extracting the overall APIs to our overall
 software and applications that we're seeing. No one would have maybe predicted or
 would have thought to come forward about the slowdown of Moore's Law and the
@@ -153,7 +156,8 @@ enthusiast GPU businesses and, at some point, fully autonomous. But -- that as y
 expect to grow from these higher value-added segments of the market, that gross
 margin should continue to expand. But is there any way to think about sort of
 incremental margin? We always tend to think about, is there any way that we can sort
-of, back-of-the-envelope, think of some way of thinking about it? How should weA - Colette M. Kress
+of, back-of-the-envelope, think of some way of thinking about it? How should we
+A - Colette M. Kress
 Q - Harlan Surthink about margin expansion as your revenue -- gross margin expansion as your
 revenues expand?
 
@@ -199,7 +203,8 @@ R&D over the past decade. You're investing, as you mentioned, more in software
 developments, relative to chip or hardware design. Datacenter is a great example
 where you're not only driving innovation of the platform itself. But you're actually
 helping to build the actual ecosystem, right, for your customers. And so what part of
-the R&D spend is actually spent on things like ecosystem enablement?A - Colette M. Kress
+the R&D spend is actually spent on things like ecosystem enablement?
+A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
@@ -245,7 +250,8 @@ think that best area is with our shareholders, then that's what we'll provide to
 
 Got it. Okay. Before I jump into some of the product categories, do we have any
 questions from the audience? If you do have a question, just -- if I could just ask you
-to please wait for the microphone. Right up here. We have one right up here.Q - Unidentified Participant
+to please wait for the microphone. Right up here. We have one right up here.
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Harlan Sur
 Q - Unidentified Participant
@@ -288,7 +294,8 @@ just how the clients are using that technology?
 Sure, sure. So the question is really about our Datacenter business, our clients, our
 customers. What are you seeing? And how are they using these GPUs in terms of
 there? Let me start by first understanding what is within our Datacenter business.
-Our Datacenter business, in our Q1 results that we just reported, topped over $400million and nearly tripled from a year ago. It grew sequentially about 38% as well. So
+Our Datacenter business, in our Q1 results that we just reported, topped over $400
+million and nearly tripled from a year ago. It grew sequentially about 38% as well. So
 it is -- it's been moving quite fast. A lot of discussion in terms of what are those
 customers. The customers within there is every hyperscale on the globe uses overall
 GPUs. They use them both for their internal use and research and applications that
@@ -337,7 +344,8 @@ that enables them a quick start and the ability to put containers and containers
 together. We also saw the manufacturing arms in the Asia Pac area also look to string
 together more AI supercomputers. So our business is continuing to broaden, both
 from a breadth and depth. Our customers aren't just buying for their first projects.
-Some may be, some may be buying on the fifth, 10th, 20th project that they've beenQ - Unidentified Participant
+Some may be, some may be buying on the fifth, 10th, 20th project that they've been
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Harlan Sur
 Q - Unidentified Participantoverall working on. But there is a good amount of working on enabling the cloud. So
@@ -380,7 +388,8 @@ both for datacenter, automotive and the future of overall gaming, to assure that
 products all take in terms of those risks and that we keep the loyalty of our
 customers and the brand promise that we have.
 
-One question up here.A - Colette M. Kress
+One question up here.
+A - Colette M. Kress
 Q - Unidentified Participant
 A - Colette M. Kress
 Q - Harlan Sur

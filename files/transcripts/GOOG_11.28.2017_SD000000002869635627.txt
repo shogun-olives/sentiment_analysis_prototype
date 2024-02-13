@@ -21,7 +21,8 @@ Mountain View and Google's business in Northern as well as Central Europe when
 he was based in London. Prior to joining Google in 2005, Philipp was the Senior Vice
 President at AOL Germany, where he was running the company's marketing and
 sales activities and serving as a member of the management board for six years.
-Questions And AnswersQ - Stephen D. Ju
+Questions And Answers
+Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp Schindler
@@ -67,7 +68,8 @@ experiences for merchants. We want to create amazing experiences for consumers,
 frictionless experiences. And we have a platform for that, which is Google Express.
 We heavily invested in some of the relationships you mentioned on a senior
 management level. We all take the Walmart example, we all spend a lot of personal
-time, myself, Shridhar, Sundar, with our -- with the teams at Walmart. We went there.Q - Stephen D. Ju
+time, myself, Shridhar, Sundar, with our -- with the teams at Walmart. We went there.
+Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp SchindlerWe visited them. They visited us over many, many years. And we got to a point where
@@ -112,7 +114,8 @@ of smaller agencies as well. We see agencies as trusted advisers to the customer
 and clients. And in any ideal scenario, we work exactly in those triangle-type of set
 up with us, with the agency and with a partner. And this covers a very big range of
 different use cases from them simply using all products, which takes a lot of time and
-efforts on their end, to very, very complex integration. Just to give you an example,Q - Stephen D. Ju
+efforts on their end, to very, very complex integration. Just to give you an example,
+Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp Schindlerwithout mentioning a name, there is a very, very -- one of the largest agencies in the
@@ -157,7 +160,8 @@ computer vision, understanding consumers and their contacts, all based on machin
 learning and deep learning approaches that we needed for a lot of our existing core
 products. And I think it is the natural evolution that we think about more assistive-
 type of experiences going forward. Similar as the transition we've seen from desktop
-to mobile, I think it is pretty obvious that we will see a next evolution that makes it aQ - Stephen D. Ju
+to mobile, I think it is pretty obvious that we will see a next evolution that makes it a
+Q - Stephen D. Ju
 A - Philipp Schindlerlot easier to actually interact with computing-type of interfaces. And that's a very
 interesting revolution. We're obviously thinking about monetization models there.
 There's a whole lot of different approaches that you can take, action-type of
@@ -204,7 +208,8 @@ it with you. And now you're moving on to -- which will, of course, in many cases
 involve the mobile device. And now you're moving on to a much more assistive,
 more natural language processing-based interaction. I mean, look just at some of the
 numbers. We already have I think 20% of our queries on the app, on the Android
-app in the United States, already voice-based. So you move towards this moreQ - Stephen D. Ju
+app in the United States, already voice-based. So you move towards this more
+Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp Schindler
@@ -248,7 +253,8 @@ definitions in that sense.
 
 Yes. Sticking with search a little bit. There is a perception out there that when you
 increased the ad load on search a couple of years ago from 2 links, through
-sponsored links on mobile, to 3, I mean, that was theoretically mutually exclusive withA - Philipp Schindler
+sponsored links on mobile, to 3, I mean, that was theoretically mutually exclusive with
+A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
@@ -293,6 +299,7 @@ bit. So talk about what your business looks like in the emerging markets, especi
 the APAC region. I mean, it seems like -- that those markets are less further along,
 obviously. So there's probably more of an opportunity for Google to do more
 interesting things there versus the already developed markets.
+
 Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. JuYes. It's interesting that you're asking because I literally just came back from APAC,
@@ -339,7 +346,8 @@ we'll continue to do very well there.
 
 Okay, got it. Let's switch it back to the developed markets. And I guess, can you talk
 about the changes you made in response to the ruling from the EC and the impact
-that would have to your business? It's an open-ended question but...A - Philipp Schindler
+that would have to your business? It's an open-ended question but...
+A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
@@ -384,7 +392,8 @@ That's a pretty significant number. And on the political ad side, we have been e
 stricter. We have only offered very, very limited targeting options, a very clear vetting
 process on our end. And we will obviously continue to work with authorities and
 everyone necessary to basically avoid any potential type of election meddling, as
-you mentioned. And be even better at it going forward, that's number one. On theQ - Stephen D. Ju
+you mentioned. And be even better at it going forward, that's number one. On the
+Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
 A - Philipp Schindlerfake news side, remember, I mean, we want to provide quality access and quality
@@ -430,6 +439,7 @@ Got it. Switching topics again. Let's talk about ad blocking. I mean, this techn
 has the potential to harm your business. It seems a little bit odd to see you
 proactively proposing if you just add on the Chrome browser. So seems like a
 conﬂict of interest. So how do you navigate, I guess, what it is effectively a (inaudible)
+
 Q - Stephen D. Ju
 A - Philipp Schindler
 Q - Stephen D. Ju
@@ -475,6 +485,7 @@ think within YouTube, there's, I think, creative tool that allows you to have mu
 creatives so you can target more effectively. So can you talk about all the different
 ways that you're trying to take? Because using machine learning to take friction out
 for the advertiser...
+
 Q - Stephen D. Ju
 A - Philipp SchindlerYes. I mean, yes, we're really using machine learning everywhere now and on the
 advertising side and again, in many, many places. I mean, you can go through a lot

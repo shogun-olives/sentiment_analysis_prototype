@@ -20,7 +20,8 @@ thinking going forward.
 So at the beginning of last year, I think we started with a ﬂood in Thailand. We had 28
 nanometer supply issues with TSMC. We had our previous generation Fermi (part)
 instead of Kepler. The android market on the tablet side was in a fair amount of
-disarray. I don't think there were any tablets below $500. And I would say that lastyear our position was that we had a Tegra 3 mobile processor that was the fastest
+disarray. I don't think there were any tablets below $500. And I would say that last
+year our position was that we had a Tegra 3 mobile processor that was the fastest
 mobile processor in the world. But we had no modem.
 That was the beginning of how our year started. And at the time I think everyone
 went out of their way to point out all of the headwinds that were there in front of us
@@ -59,7 +60,8 @@ percentage from 8% four years ago to 20% this most recent year.
 And of course, as part of that story the other thing we've been very successful in
 driving is a continuous growth in gross margins. So increasingly, every year again we
 always heard the same things. Integrated graphics is going to eat into your graphics
-business. ATI said they're going to do this. There is always some sort of headwindevery year and some sort of competitive pressure and some sort of market pressure.
+business. ATI said they're going to do this. There is always some sort of headwind
+every year and some sort of competitive pressure and some sort of market pressure.
 But I think hopefully what we're demonstrating and what these slides show you is
 that NVIDIA has a pretty good record of executing through headwinds and
 consistently driving the metrics of the business upwards. And we're not ashamed of
@@ -99,7 +101,8 @@ embedded and then we have other new things coming like special types of devices
 like a new product called Project SHIELD, which is a gaming device. So there's a lot --
 you're going to see a lot more streams of Tegra revenue coming into the picture.
 Last year I mentioned earlier that our position last year in Mobile was defined as, we
-have the fastest mobile processor in the world. And we have no modem, right,fastest mobile processor and we have no bananas. This year we have the world's
+have the fastest mobile processor in the world. And we have no modem, right,
+fastest mobile processor and we have no bananas. This year we have the world's
 fastest mobile processor and we have two modems. So if you were to ask me what is
 the most exciting time at NVIDIA in recent history, I would say that right now we are
 about as excited as I can remember. We've been waiting for this moment for four
@@ -141,7 +144,8 @@ understand the architectural design that went into creating this chip and how
 aggressively we're going after this segment of the market. We, created a brand new
 engine all right. And when I say engine, the CPU engine. We have a choice of lots of
 different engines that we can use from our quad-core A15s on the high end to our
-earlier generation quad-core A9s. What we did for the Tegra 4i is create a brand newengine, which internally we call the R4. The R4 is a custom-developed Cortex-A9. We
+earlier generation quad-core A9s. What we did for the Tegra 4i is create a brand new
+engine, which internally we call the R4. The R4 is a custom-developed Cortex-A9. We
 co-developed it with ARM. It souped up and clocked at 2.3 gigahertz.
 We coupled that with the integrated i500 core that's LTE. We took Tegra 4's graphics
 engine, the GPU architecture engine instead of 72 cores, we used 60 core and again
@@ -179,7 +183,8 @@ So for example, if you want to ship into China you load HSPA+ and then ship it i
 China Unicom. You take that exact same core, you load LTE and now you ship it into
 AT&T in the United States. I'm using these as examples, right. So the die size of our
 modem is considerably smaller than the competition modem. And this is a
-substantial strategic weapon for us obviously.The company that helps us do this and the company we acquired is Icera. I think a lot
+substantial strategic weapon for us obviously.
+The company that helps us do this and the company we acquired is Icera. I think a lot
 of people may say hey NVIDIA is doing their very first modem, what do they know
 about modems and qualifications. Icera actually knows a lot. Icera is already certified
 in 95 carriers in 65 countries. These guys have gone through this a ton. They know all
@@ -219,7 +224,8 @@ The Quadro market which was down for us last year due to softness in the market
 was actually a disappointment for us. We actually expected Quadro go up last year
 because we were going to (ramp) to Kepler into it. But it didn't happen. And the
 reason was that the Kepler launch, the Kepler refresh into Quadro market was
-delayed by the launch of the Romley platform from Intel. So we believe that this yearQ - Betsy Van Heeswe're already seeing -- you may have seen that our Q4 revenue was up slightly which
+delayed by the launch of the Romley platform from Intel. So we believe that this year
+Q - Betsy Van Heeswe're already seeing -- you may have seen that our Q4 revenue was up slightly which
 is a little unusual for Q4 for Quadro, what you're seeing is the beginning of that
 refresh starting to happen. So we think Quadro market is going to upgrade to Kepler
 this year. That will be good for us.
@@ -255,7 +261,8 @@ No, you didn't go too long. Thank you very much. That was a great presentation, 
 We really appreciate it. And so I'm going to start with the cherry on top. I am going
 to start with Project Shield only because I of course was at the CES and I was at the
 press conference that you guys had and then came (inaudible) and then I got the
-opportunity to actually play with it, Project Shield. Yes, I got a private demo.A - Rob CsongorSo I thought it was pretty cool myself, not being the gamer. But I had a hands on
+opportunity to actually play with it, Project Shield. Yes, I got a private demo.
+A - Rob CsongorSo I thought it was pretty cool myself, not being the gamer. But I had a hands on
 opportunity to play with that. It was very interesting. So the reviews from the gaming
 community have been very great, the reviews from the financial community hasn't
 been that great. So why are you guys so excited and think that this is going to (sell)?
@@ -296,7 +303,8 @@ course the people who wrote those articles will deny it. But we know who they ar
 we saw it, it's written.
 There is nothing that an iPad can do that an iPod Touch can't, literally not one single
 app, there is not one app you can run on an iPad that you can't run on your iPhone
-or your iPod Touch. All that the iPad does is make reading better because it's aQ - Betsy Van Hees
+or your iPod Touch. All that the iPad does is make reading better because it's a
+Q - Betsy Van Hees
 A - Rob Csongor
 Q - Betsy Van Hees
 A - Rob Csongor
@@ -337,6 +345,7 @@ that time I said well I don't know, I don't know what seasonal as yet. So I thin
 point, I'm going to call it seasonal.
 
 Okay.
+
 Q - Betsy Van Hees
 A - Rob Csongor
 Q - Betsy Van HeesWhat you're seeing is a Tegra business that is tablet-centric. The tablets are a one-
@@ -378,6 +387,7 @@ market share versus last year where we had only high market share for only half 
 year.
 
 All right. Well with that we're out of time. But Rob you have got a full schedule today.
-So for any questions, I think audience (inaudible) breakout session. So thank you veryA - Rob Csongormuch and we really appreciate you.
+So for any questions, I think audience (inaudible) breakout session. So thank you very
+A - Rob Csongormuch and we really appreciate you.
 
 Okay. Thanks a lot, Betsy. Thank you, guys.

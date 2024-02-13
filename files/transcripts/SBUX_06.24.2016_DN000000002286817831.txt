@@ -26,7 +26,8 @@ dedicated data library from third-party data sources as well as publicly availab
 data, you can monitor tools for news and data on companies within the industry. My
 colleague Jen Bartashus and I cover 25 publicly traded restaurant companies.
 And so with that, I'd like to give the formal introduction to Mike Lukianoff, the Chief
-Analytics Oﬃcer of Fishbowl. Mike and I met earlier this year and his two restaurantMike Lukianoff
+Analytics Oﬃcer of Fishbowl. Mike and I met earlier this year and his two restaurant
+Mike Lukianoff
 Unidentified Speaker
 Mike Lukianoffnerds we hit it off immediately. You might be familiar with some of his work, he was
 the brains behind the Shake Shack site selection research that Bloomberg
@@ -63,7 +64,8 @@ location in order to have the experience the social aspect, and then of course
 sensors that are going to start making the hyper-local technologies become a lot
 more meaningful.
 Now, what what's important I think about this is that really the -- the data that it
-creates when you -- when you think of the intersection of these new technologies,that's really the big and the sustainable potential advantage. How are you using that
+creates when you -- when you think of the intersection of these new technologies,
+that's really the big and the sustainable potential advantage. How are you using that
 data to -- to make the messaging more relevant, more timely, more topical and
 actually converted into -- into insights that will drive a competitive advantage.
 And I'll talk a little bit about what I mean by this. So, one thing that's important to
@@ -105,7 +107,8 @@ making their dining decisions, so -- so when we think about things being context
 you know, we think about, say for instance Amazon and what Amazon has done
 online. They've got a -- they -- if you go and -- and look at something, they see what
 your -- what your search history was, they think about, you know, what other people
-have purchased. So, when you buy a pair of hiking boots, and they've suggested,you buy a pair of socks with that, it doesn't feel like spam, it feels very contextually
+have purchased. So, when you buy a pair of hiking boots, and they've suggested,
+you buy a pair of socks with that, it doesn't feel like spam, it feels very contextually
 relevant to you. What's happening in restaurants is that, we're trying to figure out
 how to actually take that context and deliver it in the time and the place with the
 correct message to the right audience.
@@ -144,7 +147,8 @@ of purchase and that enjoy bond and advocate stage really happen simultaneously.
 So in -- right after or during a dining experience, you are most likely to -- to advocate
 -- advocate for that -- for that brand. And if -- if it's a positive experience, and -- and
 really at the end of the -- at the end of the experience is going to determine whether
-you go into this loyalty move or whether you go back into the consideration set.What's happening right now in the industry is that a lot of -- a lot of the targeted, say
+you go into this loyalty move or whether you go back into the consideration set.
+What's happening right now in the industry is that a lot of -- a lot of the targeted, say
 the things that people are calling targeted and localized marketing is really just a
 different iteration of what their TV and radio and mass media strategy would be just
 being pushed out not necessarily being customized at that local level.
@@ -183,7 +187,8 @@ Now, if you start thinking about really a complete solution, it really gets into
 depths of data, being able to not just collect the sign up information the -- the
 customers -- that customers had, but actually being able to collect more meaningful
 user data, right. Who -- who are those, who are those people who -- who are -- who
-are coming in to dine.Multiple means of future contact, right. So, you know, in a loyalty app for instance if --
+are coming in to dine.
+Multiple means of future contact, right. So, you know, in a loyalty app for instance if --
 if it's just a single purpose, and the only way that you've got to communicate with
 people is through that loyalty app, you know, really -- you know, really limiting the --
 the -- the potential for -- for how you can target people in -- in different stages of the
@@ -223,7 +228,8 @@ your restaurant at the meal-time, then they're not a viable -- they're not a via
 target. Time is also extremely important, right. You need to understand if your
 concept and if your target is making a planned decision a couple of days ahead for
 date night or what have you or if it's a spontaneous purchase, they're just going to
-purchase a lunch when and where it's available.Purchase history tracking by customer, also extremely important. There are a lot of
+purchase a lunch when and where it's available.
+Purchase history tracking by customer, also extremely important. There are a lot of
 chain restaurants out there, they still don't have uniform point-of-sale systems. They
 don't have a uniform PLUs. So it's -- so in order for them to be able to really track
 what people have purchased, there are still a long way from being able to -- to
@@ -264,7 +270,8 @@ loyalty app. It includes really payment structured rewards, there's surprise and
 delight sort of component, as well as -- as well as stored value. What's -- what's
 important to -- to know about Starbucks, it's not just what they are doing, but also
 how other concepts you'd really use them is the gold standard, just sort of follow
-what they're doing.But they need to be extremely cautious on this, because Starbucks is a little bit
+what they're doing.
+But they need to be extremely cautious on this, because Starbucks is a little bit
 different, it's a extremely high frequency business. So -- so some of the loyalty --
 loyalty components make a lot of -- a lot of sense.
 There's also I think a misconception that -- that -- that people are signing up just for
@@ -306,7 +313,8 @@ I think you know, yet -- yet to be seen is -- is what -- what KFC is going to be
 up with, but from -- from what they've been saying about what their approach is, I
 think it's -- I think it's encouraging. When Chris Caldwell in -- in a -- in an article
 recently was -- was -- was stating that, you know, what I see with a lot of QSRs is this
-me too, meaning that, you know, they see -- they see an app that works or a programthat works for somebody else and then they just adopt it and assume that is right for
+me too, meaning that, you know, they see -- they see an app that works or a program
+that works for somebody else and then they just adopt it and assume that is right for
 their customers. And designing the technology that the customer experience and
 not the other way around is an extremely important part of -- of making sure that this
 is -- that any program is -- is successful and future-proof.
@@ -346,7 +354,8 @@ is -- is changing -- is changing very, very rapidly. So this is not a question r
 of, you know, if you will adopt a new approach, it's really a question of when they will
 adopt, because if they don't -- if they don't do it themselves, they'll eventually be
 forced.
-Questions And AnswersA - Michael Halen
+Questions And Answers
+A - Michael Halen
 A - Mike Lukianoff
 A - Michael Halen
 A - Mike Lukianoff
@@ -385,7 +394,8 @@ on to be able to message them in the right -- in the right time, in the right pl
 Great. Thanks. Also it seems to be pretty important for restaurants to know their
 customers and to use that knowledge for targeted marketing and menu
 construction. So what -- what change can you point to that seem to be doing this
-well right now?A - Michael Halen
+well right now?
+A - Michael Halen
 A - Mike LukianoffI think that there are, you know, certainly, you know, certainly Starbucks, I think is, you
 know, is one of those that, you know, as -- as we talked about a little bit that, you
 know, has gotten the best app. What I don't know and I don't have a visibility into is
@@ -426,7 +436,8 @@ And you could put all of your brand power, you know, brand might behind that, yo
 know, that it's going to -- that that's going to catalyze the behavior. You know,
 McDonald's then started getting, you know, really more sophisticated thing. We got
 the exact same product, you know, and it's not going to -- it's not -- you're not going
-to get food poisoning, it's not going to make you ill, it's going to be the sameA - Michael Halen
+to get food poisoning, it's not going to make you ill, it's going to be the same
+A - Michael Halen
 A - Mike Lukianoff
 A - Michael Halen
 A - Mike Lukianoff
@@ -464,7 +475,8 @@ going to be an embedded -- an embedded component.
 Yes. And the ROI piece, you're speaking before, I mean, how much of it is to actually
 generate an ROI versus, you know, we need to do this to -- to survive?
 Yes. That's a great question. I think that the mentality of restaurants has always been
-the technology is something to reduce cost. And that's a really dangerous place toA - Michael Halen
+the technology is something to reduce cost. And that's a really dangerous place to
+A - Michael Halen
 A - Mike Lukianoff
 A - Michael Halen
 A - Mike Lukianoffcome from right now, because really these new technologies are about driving
@@ -503,7 +515,8 @@ really the big expense, right. What if I can develop 20 different messages or 40
 different messages for different -- different types of buckets, then how the
 psychographic messaging actually help me do that?
 And the answer is it becomes a lot less meaningful. When we talk about behavioral
-targeting, this requires purchase data, right. So you're actually looking at how peopleA - Michael Halen
+targeting, this requires purchase data, right. So you're actually looking at how people
+A - Michael Halen
 A - Mike Lukianoff
 A - Michael Halen
 A - Mike Lukianoffhave purchased things, you're -- you're using multiple means to collect information
@@ -542,7 +555,8 @@ you know, new menu roll-out for the spring, you know, we're saving you a spot at
 chef's table, right.
 That's the -- the -- the other spectrum, but it speaks to -- to a different type of a
 customer. You know, the -- the problem with adopting a Starbucks like app if it's not
-appropriate for your -- for your situation is that I think exactly to the point now you'veA - Michael Halen
+appropriate for your -- for your situation is that I think exactly to the point now you've
+A - Michael Halen
 A - Mike Lukianoff
 A - Michael Halengot something that's not going to -- not going to make sense. In aggregator app, I
 think is a -- I think that I agree with the premise, I'm not necessarily sure that an

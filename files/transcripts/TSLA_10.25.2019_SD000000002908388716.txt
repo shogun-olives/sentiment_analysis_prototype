@@ -14,7 +14,8 @@ from now, you look around the neighborhood. And that's how it is.
 Now the Solar Glass Roof is not going to make financial sense for somebody who
 has a relatively new roof because this is, itself, a roof that has integrated solar power
 generation. So it's -- it has, therefore, the cost of roofing a house in addition to the
-cost of solar panels or solar cells.However, we've been able to achieve with Version 3 a cost -- a price point that is less
+cost of solar panels or solar cells.
+However, we've been able to achieve with Version 3 a cost -- a price point that is less
 than what the average roof costs plus the solar panels. So if you're looking at 2
 options, one is you need a roof or you either need a new roof or you need to reroof
 your house. And -- but you look at the cost of that, the average cost of that and then
@@ -54,7 +55,8 @@ But for the Tesla Solar Glass Roof, I think it's a different situation. It is a 
 have like local sales monopolies. There's -- it's a highly competitive market. And I
 think it's going to make sense, therefore, to have like a Tesla certified installers who's
 going to install the Solar Glass Roof. And I think that will be a very powerful driver of
-demand and allow us to grow much faster than we could otherwise grow.Operator
+demand and allow us to grow much faster than we could otherwise grow.
+Operator
 A - Elon R. Musk
 A - Andrew D. BaglinoAnd this is all going to be produced at the Giga New York, our factory in Buffalo,
 where people have been working really hard. And I'd just like to say it, our
@@ -92,7 +94,8 @@ number of parts and subassemblies in the tile by more than half. All of this goe
 the direction of lower cost and easier manufacturability. We also changed some of
 the materials in use, changed the methods that we're using to -- the technology that
 we're using to achieve the hidden solar cells to something that's more scalable. We -
--A - Elon R. Musk
+-
+A - Elon R. Musk
 A - Andrew D. Baglino
 A - Elon R. Musk
 A - Andrew D. Baglino
@@ -133,6 +136,7 @@ the edge effects of where multiple planes of a roof meet, I think we can add and
 apply some of the world's best engineering to that. I think we can actually have the
 Solar Glass Roof installed faster than comp shingle, which is -- that's -- like that's the
 target.
+
 A - Elon R. Musk
 A - Andrew D. Baglino
 A - Elon R. Musk
@@ -171,7 +175,8 @@ literally come back and -- just go to work, come back and you've got a new roof
 that's generating electricity. Well that's our target too, 8-hour roof.
 I do see that done on some of the roofing company now.
 
-Yes. Yes. So this is kind of like a roofing company is going to sort of install the roof.A - Andrew D. Baglino
+Yes. Yes. So this is kind of like a roofing company is going to sort of install the roof.
+A - Andrew D. Baglino
 A - Elon R. Musk
 Operator
 A - Elon R. Musk
@@ -210,7 +215,8 @@ week? I think the answer is yes. Then long term, we want to obviously do like 10
 roofs a week and then 20,000 roofs a week. So it's -- I think, like, the addressable
 market here is something on the order of 100 million houses worldwide.
 So that's -- you obviously want to ramp up as quickly as possible. And we're starting
-off with kind of the textured black glass. And then hopefully, we'll be able to bring toOperator
+off with kind of the textured black glass. And then hopefully, we'll be able to bring to
+Operator
 A - Elon R. Musk
 A - Andrew D. Baglino
 A - Elon R. Musk
@@ -247,7 +253,8 @@ Version 2 -- hopefully, it would not be 3.1 in our case but we're going to keep
 improving the roof as we scale.
 And we're hiring a lot of installers.
 
-Yes. We're hiring a lot of installers, yes.A - Kunal Girotra
+Yes. We're hiring a lot of installers, yes.
+A - Kunal Girotra
 A - Elon R. Musk
 Operator
 A - Elon R. Musk
@@ -282,6 +289,7 @@ Our first question from the phone lines comes from Kyle Field with Clean Technic
 It's Kyle from CleanTechnica. The cost of the solar roof has been a big barrier to-date
 for Version 2. Can you speak a little bit about the relative improvement in cost from
 Version 2 to Version 3 of the Solar Glass Roof?
+
 Q - Kyle Field
 A - Elon R. Musk
 A - Andrew D. Baglino
@@ -319,7 +327,8 @@ process. It took a lot of time, created a lot of wastage on-site, needed extra t
 We've gotten rid of all that in V3. And that's a big, major improvement. Just total
 number of material and parts reduction from V2 to V3 has massively reduced the
 number of touches our installers have to do on-site. And that reduces the time they
-have to take to install.A - Elon R. Musk
+have to take to install.
+A - Elon R. Musk
 Operator
 Q - Phil LeBeau
 A - Elon R. Musk
@@ -355,7 +364,8 @@ definitely installing solar roof in all those states because we already have ene
 warehouses and we'll be installing solar roof there as well.
 And as Elon said, we'll be expanding across the country with our own crews as well
 as third-party crews. So that's all we can say right now. But we are in 25 states
-installing solar. And solar roof will be there in all those states as well.Q - Sean O'Kane
+installing solar. And solar roof will be there in all those states as well.
+Q - Sean O'Kane
 A - Andrew D. Baglino
 A - Elon R. Musk
 A - Andrew D. Baglino
@@ -392,7 +402,8 @@ say, what do you want the world -- just what do you want the world to look like?
 it's like, do you want a future where you look around at the houses in the
 neighborhood and they're generating electricity and they're beautiful and they're
 long-lasting? Of course. So that's the future we need to make happen.
-Our next question comes from Kim Javaheri from the YouTube channel, Like Tesla.A - Elon R. Musk
+Our next question comes from Kim Javaheri from the YouTube channel, Like Tesla.
+A - Elon R. Musk
 A - Kunal Girotra
 A - Elon R. Musk
 A - Kunal Girotra
@@ -430,7 +441,8 @@ product.
 There's quite a big market for roofs, actually. I mean on the order of 100 million roofs
 in North America. And they get replaced out every 25 years. So set up like maybe 4
 million roofs a year.
-4 million roofs.A - Andrew D. Baglino
+4 million roofs.
+A - Andrew D. Baglino
 A - Elon R. Musk
 Operator
 Q - Roberto Baldwin
@@ -470,7 +482,8 @@ Glass Roof.
 
 Yes. And if you haven't ever had solar, I mean, just drive around your neighborhood
 and look at homes. And you can see the quantization problem of the panel. And like,
-you've got skylights, you've got stove pipes restoration.A - Elon R. Musk
+you've got skylights, you've got stove pipes restoration.
+A - Elon R. Musk
 A - Kunal Girotra
 A - Elon R. Musk
 A - Andrew D. Baglino
@@ -508,7 +521,8 @@ Yes. Yes.
 Our next question comes from Darrell Etherington with TechCrunch.
 I was just wondering, do you see any other potential formats or incarnations of this
 technology that might enter the market in different ways or be offered to consumers
-in different ways?A - Elon R. Musk
+in different ways?
+A - Elon R. Musk
 Operator
 Q - Hope King
 A - Elon R. Musk
@@ -547,7 +561,8 @@ Yes. I think this is very important. The fundamental goal of Tesla is to acceler
 advent of sustainable energy. So we have to, therefore, generate the energy in a
 sustainable way. Then -- so which really means solar primarily, in our view. So that's
 for solar at the residential level, at the commercial level and at the utility level. Then
-we -- since the sun obviously doesn't shine at night.Operator
+we -- since the sun obviously doesn't shine at night.
+Operator
 Q - Karissa Bell
 A - Elon R. Musk
 Q - Karissa Bell
@@ -586,7 +601,8 @@ typical roof under 8 hours, which means we really think it's better to basically
 fairly big crew attack the roof all at once, kind of like surgical strike. And get it done
 quickly versus a small number of people take a long time to do the roof because that
 minimizes -- having it be done fast just minimizes the inconvenience to the
-homeowner.A - Andrew D. Baglino
+homeowner.
+A - Andrew D. Baglino
 A - Kunal Girotra
 A - Elon R. Musk
 A - Kunal Girotra

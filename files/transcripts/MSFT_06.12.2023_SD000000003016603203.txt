@@ -28,7 +28,8 @@ that we're calling Co-pilots, is the models over the past handful of years have
 become to behave really like a platform.
 So, they are things where you're not training them and conditioning them for a
 single use, but they're big pieces of infrastructure that you build, and you can use
-across like many, many, many, many things. And, if I look at how technology cyclesA - Amy Hood
+across like many, many, many, many things. And, if I look at how technology cycles
+A - Amy Hood
 A - Kevin Scotthave gone just in my lifetime, so there's been personal computing, there's been the
 Internet, and there's been the mobile revolution. And I think, this is sort of the next
 thing on that progression of the evolution of technology, where it really changes the
@@ -72,7 +73,8 @@ we talked about a little bit of that this year at Build, like this notion of a C
 which is just as distinctive, I think, as the LAMP stack was at the beginning of the
 internet revolution.
 And so -- it is -- the thing that I will say about us is we just have this one through line
-that we've been investing on the past five years. And the reason that you see all ofA - Amy Hood
+that we've been investing on the past five years. And the reason that you see all of
+A - Amy Hood
 A - Kevin Scott
 A - Amy Hood
 A - Kevin Scott
@@ -115,6 +117,7 @@ aspect. There'll be something that shows up that's AI-enabled. And I think, that
 reason this'll be our sort of the next generation AI business will be the fastest
 growing $10 billion business in our history. I think I have that confidence because of
 the energy we're seeing.
+
 A - Amy Hood
 A - Kevin Scott
 A - Amy Hood
@@ -160,7 +163,8 @@ with our responsible AI principles? Because I know this is one of the key compon
 that you think about every day in the scene.
 
 Yeah, it's one of those things where I think it actually is another strategic advantage
-in how it is that we are building the platform. So, I think you have to think aboutA - Amy Hood
+in how it is that we are building the platform. So, I think you have to think about
+A - Amy Hood
 A - Kevin Scottsafety and responsibility and security of these systems as one of the necessary bits of
 the platform itself. You just can't have a platform without it for just a whole number of
 reasons, like maybe starting with customer trust. You have to have trustworthy
@@ -206,7 +210,8 @@ regulation on the sort of endpoint of the technology, where it actually gets del
 into a product that a user is touching. And so I don't know exactly what that
 regulation will look like.
 Brad did a really brilliant job, I think, a couple weeks ago articulating like what our
-initial point of view is. And we also believe that there's going to be a lot of debateA - Amy Hood
+initial point of view is. And we also believe that there's going to be a lot of debate
+A - Amy Hood
 A - Kevin Scott
 A - Amy Hood
 A - Kevin Scottand public conversation about what it is that regulation really needs to be. But, so,
@@ -249,7 +254,8 @@ able to come in with an incredibly high level of ambition for what they were try
 do with AI. They would put pressure on all of our infrastructure and system software,
 so that we could make sure that we were building the best possible platform for
 training and serving these new large-scale frontier models as we're calling them
-now.A - Amy HoodAnd so, like I think if anything like that has worked incredibly well. Like we've been
+now.
+A - Amy HoodAnd so, like I think if anything like that has worked incredibly well. Like we've been
 able to design this infrastructure along with Open AI like we very quickly after the
 partnership, built our first AI supercomputer that was the thing that GPT-3 was
 trained on. And in addition to them using our infrastructure like we've also been able
@@ -293,7 +299,8 @@ how foundational that is to being able to make progress. And both of us can
 independently make this technology available to our respective users and
 developers. You're seeing that happen. I think that's good for everyone. And really
 keeps the innovative spirit. And this AI capability is built into the Azure foundation.
-And so, I think it's sort of a long way of Kevin and I -- of saying that we feel very goodA - Kevin Scottabout the position we're in both with the partnership and with access to the IP over
+And so, I think it's sort of a long way of Kevin and I -- of saying that we feel very good
+A - Kevin Scottabout the position we're in both with the partnership and with access to the IP over
 the long-term.
 Now, let's go back to I think what a lot of people always asking me is about, it's like,
 "Hey, listen, you're really hearing from customers that they're going to deploy this?"
@@ -335,7 +342,8 @@ real prize here are these more generally capable AI systems that can really go s
 big problems. Like the thing that I talk about with folks, and I don't know when this
 will happen, but it's sort of the aspirational thing.
 If you had an AI that was -- that had the scientific expertise and the ability to go think
-about a problem for a really long time. And you said, hey, $100 million worth ofA - Amy Hood
+about a problem for a really long time. And you said, hey, $100 million worth of
+A - Amy Hood
 A - Kevin Scottcompute with this AI expert to go cure pancreatic cancer in all of its forms. Like that
 would be the easiest $100 million that human beings had ever gone to spend. The
 amount of pain and suffering and economic losses and just general misery that

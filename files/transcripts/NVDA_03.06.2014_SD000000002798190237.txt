@@ -16,7 +16,8 @@ really been pretty strong throughout this week or period for (inaudible)--
 Yes. It's been great.
 
 -- had a nice uptick. What do you think drove that uptick. And what does it tell us
-about 2014?Chris Evenden
+about 2014?
+Chris Evenden
 Joe Moore
 Chris Evenden
 Well we've been fairly consistent in the way we've talked about this for a while. When
@@ -54,7 +55,8 @@ So while they are a data point and we all like data points, I do caution people 
 they look at them. Because there have been quarters where our share has gone
 down and our revenue has gone up. Our revenue share has gone up. And that is
 purely around the fact that someone has gained a load of $12, 25% gross margin
-notebook chips at the low end.Joe Moore
+notebook chips at the low end.
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris Evenden
@@ -92,7 +94,8 @@ loss with the Mac Pro, the workstation (multiple speakers).
 
 Yes. Which wasn't a workstation.
 
-It was a GeForce.Chris Evenden
+It was a GeForce.
+Chris Evenden
 Joe Moore
 Chris Evenden
 Joe Moore
@@ -127,6 +130,7 @@ into it. It is reasonably significant volumes by the standard of workstations.
 I guess that is how --.
 
 But the marketshare doesn't seem to have changed nearly as much as we expected.
+
 Chris Evenden
 Joe Moore
 Chris Evenden
@@ -165,7 +169,8 @@ why Intel entering this market is actually a positive for us is because the bigg
 obstacle to our selling Tesla was (inaudible) around using existing Xeon CPUs. So
 what we are competing against with Tesla is Xeon CPUs and supercomputing.
 And so the argument for using Tesla is you are going to have to do a little bit -- you
-are going to have to port your code because it is massively parallel architecture. ButJoe Moore
+are going to have to port your code because it is massively parallel architecture. But
+Joe Moore
 Chris Evendenyou are going to get much faster code and it is going to be much more power
 eﬃcient, which matters to data centers because they are all limited by the amount of
 power they can get in and the amount of heat they can wick out.
@@ -202,7 +207,8 @@ And is there a another step function where it becomes a lot bigger at some point
 is this kind of holding steady?
 
 Well I think it is growing very strongly. I think it grew 37% year on year last year. So I
-don't see any reason why that wouldn't continue. Having said that, the consumerJoe Moore
+don't see any reason why that wouldn't continue. Having said that, the consumer
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris EvendenInternet companies are a pretty interesting new market for us now, with big data
@@ -239,7 +245,8 @@ And so then the CPU obviously running Windows is running the Oﬃce. And then it
 actually does the compositing as well of putting together the desktop, compresses it
 into a video stream, squirts it down the network; you get it. And so the CPU is good
 at some of those tasks. But it is poor at other of those tasks, the compositing and the
-compression.Joe Moore
+compression.
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris EvendenSo what that means is you get a user experience that is a little bit outdated by
@@ -274,7 +281,8 @@ obviously, we have been working with Citrix and VMware directly as well to ensur
 native support for the virtual GPU in the software environment.
 And so where we are today as we have hundreds of trials worldwide. And that has
 been increasing quite rapidly; 40% Q-on-Q actually. But the purchase cycle in
-enterprise IT is two years or so. We have only been doing it for six months or so.Joe Moore
+enterprise IT is two years or so. We have only been doing it for six months or so.
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris Evenden
@@ -312,7 +320,8 @@ can outperform them at the same power level or we can be at the same performance
 and a lower power level by about a factor of 1.5. So it is pretty significantly better.
 But obviously, it really shines when you start cranking it up and it supports all the PC
 features like OpenGL, 4.4, DirectX 11. And we have even demonstrated that we've
-ported Unreal Engine 4 across to it. And that is a big deal because that enablesJoe Moore
+ported Unreal Engine 4 across to it. And that is a big deal because that enables
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris Evendengame developers to fairly easily port games across. So all game -- one of the
@@ -347,7 +356,8 @@ Who would be?
 
 Yes, What types of --?
 
-I can't be specific.Joe Moore
+I can't be specific.
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris Evenden
@@ -385,7 +395,8 @@ advanced driver automation systems, ADAS systems -- sorry, driver assistance. So
 where we are now is Volkswagen Audi Group is a big customer. BMW is a big
 customer. So we are in the A3, the A4, A6, A8, A7. We are in BMW i3 and i8 and the
 357s as well. And probably in the even-numbered ones, though I haven't had that
-stated to me explicitly. We are in the Volkswagen Golf.Because we are in some really very attractive -- not the Volkswagen Golf, because it
+stated to me explicitly. We are in the Volkswagen Golf.
+Because we are in some really very attractive -- not the Volkswagen Golf, because it
 isn't a very attractive car by the way. But like some marquee wins like Tesla. People
 sort of associated us with that, Tesla, the model S. People have associated with that.
 But it is in the Golf, it is in the A3, it is in -- I'm trying to think whether it is in MINI or
@@ -424,7 +435,8 @@ at taking data and turning it into an image, a GPU is also very good at taking a
 image and turning it into data.
 So in this context, image recognition is tremendously important. So we have shown
 demos where the Tegra K1 is taking a video stream in real-time recorded from the
-front of a car, from a car parking camera, if you like. It knows where the white linesJoe Moore
+front of a car, from a car parking camera, if you like. It knows where the white lines
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris Evendenare. It recognizes the white lines on the road. So it knows where the car is in the lane.
@@ -462,7 +474,8 @@ was about $300 million. And that was including Icera. So that is taking a strict
 what extra do we have to spend for Tegra. So for example, Kepler, the GPU, that is
 allocated. Some of that was allocated to Tegra and that is what you will see in the Ks
 and the Qs. But really and truly, we have to do Kepler anyway. We were going to do
-it anyway for the GeForce and Quadro businesses.Joe Moore
+it anyway for the GeForce and Quadro businesses.
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris EvendenSo what extra, what fraction of that was actually required for Tegra? So that is how
@@ -501,7 +514,8 @@ have thousands of engineers working on clever processer technologies. It is
 inevitable at some point we will develop the same thing. Not maliciously, not
 through copying; it is just we are working in the same spaces trying to do the similar
 things. So in that scenario, you don't want your engineers constantly looking over
-their shoulders worrying about what the other guys have done.Joe Moore
+their shoulders worrying about what the other guys have done.
+Joe Moore
 Chris Evenden
 Joe Moore
 Chris EvendenSo you sign a cross-licensing deal and, in general, money is paid from the larger

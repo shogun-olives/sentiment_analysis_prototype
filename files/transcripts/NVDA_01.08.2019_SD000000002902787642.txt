@@ -19,7 +19,8 @@ intelligence, deep learning, next-generation compute and automotive, next-
 generation gaming, to name a few, all of these timely topics here at CES.
 The team held their press conference on Sunday. I'll ask Colette to start us off with an
 overview of what the team unveiled Sunday night. And then we'll go ahead and kick
-off the Q&A.Colette M. KressSo Colette, thank you for joining us this morning.
+off the Q&A.
+Colette M. KressSo Colette, thank you for joining us this morning.
 
 Okay. Thank you for allowing us to kick off your conference. It's great to be here at
 the Bellagio to help start off, in terms of CES. The team's already busy this morning.
@@ -55,7 +56,8 @@ the overall 970, that have purchased in terms of the overall 1060 or others or a
 1/3 of our installed base who now have the ability to upgrade and use what we can
 have with the overall 2060. So it was one of our very key announcements.
 Additionally, we announced bringing Turing to our overall notebook or overall
-mobility. There has been a trend over the last couple of years, as you had seen us,Q - Harlan Surbring out Max-Q. Max-Q was really associated with overall trend of thin and light
+mobility. There has been a trend over the last couple of years, as you had seen us,
+Q - Harlan Surbring out Max-Q. Max-Q was really associated with overall trend of thin and light
 notebooks but also bringing the overall high performance that is necessary to do the
 gaming with that.
 Why should they have to choose between "I want premium light" or "I want high
@@ -92,7 +94,8 @@ Turing architecture has been centered around Ray tracing capability. Obviously, 
 key capability. But the thing that struck me is that Turing is also the first gaming
 platform to actually bring artificial intelligence to graphics and gaming. And the
 Tensor Core technology, combined with -- you've got an image-based neural
-network called DLSS. And you can essentially use AI to improve the quality andA - Colette M. Kress
+network called DLSS. And you can essentially use AI to improve the quality and
+A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kressperformance of the gaming platform. So maybe help us understand how DLSS works
 at a high level and how many of the upcoming games are actually going to support
@@ -138,7 +141,8 @@ installed base that would be potentially looking at this is an opportunity for t
 use this as an upgrade. So what we have is not only those that were in Pascal and
 focused in terms of on the 1060 -- but remember, at every architecture, we don't
 upgrade every single person before we start the next architecture out there. So there
-are many that are on the Maxwell. So when you think about the opportunity that youQ - Harlan Sur
+are many that are on the Maxwell. So when you think about the opportunity that you
+Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
 A - Colette M. Kressare on Maxwell, you are at 960, you are at 970 and you think about using a 2060,
@@ -183,6 +187,7 @@ shipments of midrange GPU platforms into the channel, with the goal of working
 down those inventories. So what kind of progress has the team made in reducing
 channel inventories? And do you expect -- or when do you think you'll have a better
 view on when you can start to ship to consumption?
+
 Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
@@ -228,7 +233,8 @@ pricing on some of the older SKUs. But Jensen did say on the earnings call that 
 target was to get to normalized channel inventories exiting this quarter. But...
 
 So our (full) is we feel we'll be in a fairly good position. Essentially, you're never
-going to be at 0 channel of inventory before we're actually moving to some of theQ - Harlan Sur
+going to be at 0 channel of inventory before we're actually moving to some of the
+Q - Harlan Sur
 A - Colette M. Kress
 Q - Harlan Sur
 Q - Unidentified Participant
@@ -272,7 +278,8 @@ consumers there might be buying or not?
 Sure. So let me address the first one. There's many different ways in terms of how we
 are trying to work through the overall inventory. Bundling has been quite popular as
 you have seen through the overall holiday seasons. From time to time, yes, we also
-look in terms of rebates. But you have to be careful with that. In many times, that'sQ - Harlan Sur
+look in terms of rebates. But you have to be careful with that. In many times, that's
+Q - Harlan Sur
 A - Colette M. Kressvery hard to get to because the overall inventory has probably already worked
 through down the channel. So we don't have necessarily the direct contact as we do
 with the initial part of our sale that we do to the AICs. But we do work from time to
@@ -319,7 +326,8 @@ whether that be Battlefield V, whether that be a host of overall games that we w
 going in the future. We are very, very dedicated to it as well as they are. So I think
 there's an important part that they also see the use of ray tracing as bringing
 excitement to these overall games. So we see the conglomerate of this high end in
-terms of a choice. In terms of where, we're still in the early stages of seeing this goQ - Harlan Sur
+terms of a choice. In terms of where, we're still in the early stages of seeing this go
+Q - Harlan Sur
 A - Colette M. Kressthrough. But as a whole, we think this will lead to great game purchasing and also
 buying into an architecture for the future.
 
@@ -366,7 +374,8 @@ we know that this is something with our work, which we have the tenacity often t
 through a very, very diﬃcult problem to put together, we think we can do. So we
 have several of these continuing to be built. You saw us work on terms of that with
 deep learning. You see us now moving in terms of overall machine learning. You've
-seen us in the earliest, earliest days do high-performance computing. High-Q - Harlan Sur
+seen us in the earliest, earliest days do high-performance computing. High-
+Q - Harlan Sur
 A - Colette M. Kressperformance computing was a 10-year project to get to where we are. And now
 we're probably -- the majority of everything that's in supercomputing that uses
 (ASIC) acceleration. So we also have a focus in terms of -- a small focus in terms of

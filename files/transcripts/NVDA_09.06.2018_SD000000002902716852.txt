@@ -22,7 +22,8 @@ position at that time to say there are plenty other more use cases that we can t
 about, where accelerated computing will continue to take off. Many of the things that
 we have in place in the markets that we approach today still approaching overall
 gaming in a very significant part of our business. But many have also now followed
-us in terms of our work, in terms of the data center, our work in terms ofQ - Atif Malik
+us in terms of our work, in terms of the data center, our work in terms of
+Q - Atif Malik
 A - Colette M. Kressprovisualization and graphics for the enterprise as well as our work in terms of
 automotive. Each and every single one of these is all based on the exact same
 underlying architecture, which allows us the overall leverage and the scale to
@@ -68,7 +69,8 @@ developers across all of our different platforms, whether that be focused on gam
 or focused on data center or even in terms of in automotive. CUDA is that key factor
 underneath that, that brings that developers close in. And there is absolutely a case
 with developers that they really want to do the work that other developers are also
-working on. It is very cost effective for them in terms of an investment that they canQ - Atif Malik
+working on. It is very cost effective for them in terms of an investment that they can
+Q - Atif Malik
 A - Colette M. Kressbranch together on to a new area of AI, a new area on the platform in terms of both
 working together in terms of developing on top of it. And that's where we have
 continued to see more and more developers, more and more learning overall
@@ -112,7 +114,8 @@ tremendously to the natural language processing, essentially doing search with
 voice commands. But also thinking about all the recommendation engines.
 As you know, your news that comes to you every single morning is smarter and
 smarter. There are ideas in terms of your next restaurant is also smarter and smarter.
-That is all based on the technology of AI and using overall GPUs in many of thoseQ - Atif Malik
+That is all based on the technology of AI and using overall GPUs in many of those
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malikcases. This is a combination of both training as well as inference. There's a
 tremendous amount of work in terms of training these large data sets, these deep
@@ -156,7 +159,8 @@ deployments are going quite well as you have seen in terms of results today and 
 look forward to shipping DGX-2.
 
 Great. How does the launch of Turing impact growth in inferencing? You haven't
-shared much about the Turing impact on your data center. But the number I pickedA - Colette M. Kress
+shared much about the Turing impact on your data center. But the number I picked
+A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
@@ -201,6 +205,7 @@ chips for certain workloads and applications. Can you talk about the merits of G
 versus an ASIC? I think there's a bit of confusion. You guys are moving towards an
 ASIC type core competency. But just talk about the merits of GPU versus ASIC for
 machine learning?
+
 Q - Atif Malik
 A - Colette M. KressYes. There is always a lot of discussion of potential startups that may be working on
 creating our custom ASIC. Sometimes when we go back, I think, a lot of us think of
@@ -247,7 +252,8 @@ moment that you may pause whether or not that is a film or whether or not that i
 game. So we're extremely excited to bring this overall technology first to the market
 and as widespread as we are. So these cards will be available shortly within the
 quarter. But we're very excited about the excitement both in the ecosystem with the
-developers as well as what this brings to the overall gamers.Q - Atif Malik
+developers as well as what this brings to the overall gamers.
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
@@ -293,7 +299,8 @@ improvement without even dealing with overall ray tracing on your existing games
 terms of the existing performance. That is probably one of our largest leaps in terms
 of architecture-to-architecture, in terms of what we are doing in Turing. When you
 get into ray tracing, you are now talking about a 6x improvement. So a substantial
-improvement in terms of performance also using the ray tracing.Q - Atif Malik
+improvement in terms of performance also using the ray tracing.
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kress
@@ -337,7 +344,8 @@ as it really relates to a more taxi approach or a robotaxi is what we are hearin
 referring to it. That says, in a confined area whether that be a square mile or larger,
 you could actually map out that situation and get it to where it is fully autonomous,
 that is, no steering wheel, no driver, no brake pedal. It essentially has been able to
-move around that area. You will see and probably see the more outside moreQ - Atif Malik
+move around that area. You will see and probably see the more outside more
+Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. Kressrobotaxis in your area as they are testing those overall surrounding areas, as we also
@@ -381,6 +389,7 @@ the cars, the trucks and robotaxis.
 Okay. And can you help us map the ASP or your dollar opportunity over time as you
 go from an autopilot to driverless robotaxi? What kind of ASPs we should expect
 from your products?
+
 Q - Atif Malik
 A - Colette M. Kress
 Q - Atif Malik
@@ -425,7 +434,8 @@ very first one to the market, extremely successful partnership in terms of there
 decision to try and build their own is their decision, probably a little different than, I
 would say, most of the other auto manufacturers knowing the importance of top-end
 computing platform for their overall cars. The overall comparisons, they may be
-comparing about something that is three years old. And as you know, we have suchQ - Unidentified Participant
+comparing about something that is three years old. And as you know, we have such
+Q - Unidentified Participant
 A - Colette M. Kress
 Q - Unidentified Participanta significant workforce that is always pushing out tremendous platforms each and
 every quarter, even every month in some cases. So comparison in terms of what we
@@ -469,7 +479,8 @@ something that you can keep up with every single day. So of course, this is stil
 extremely important part of our capital return program is to return that. And so you'll
 see us continue to do that going forward. Now in terms of our overall cash levels, our
 cash levels for our overall market cap are within reason in terms of that to have. But
-again, we are going to focus on capital return for the long term.A - Colette M. Kress
+again, we are going to focus on capital return for the long term.
+A - Colette M. Kress
 Q - Atif Malik
 A - Colette M. KressYes. Interested in the margin profile of Turing versus Pascal, I guess, there is maybe a
 bigger (inaudible) maybe some more cost that also has a healthy step-up in ASP. So

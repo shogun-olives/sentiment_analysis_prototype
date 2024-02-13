@@ -8,7 +8,8 @@ stakeholders have the option to view the meeting through Microsoft Teams on the
 Investor Relations website. The team's broadcast will use Microsoft translator and
 Azure service that uses cognitive services for real-time translation in several
 languages. I'd like to share with you the presenters for our meeting. Speaking will be
-Satya Nadella, our Chief Executive Oﬃcer; Amy Hood, our Executive Vice Presidentand Chief Financial Oﬃcer; Dev Stahlkopf, our Corporate Vice President and General
+Satya Nadella, our Chief Executive Oﬃcer; Amy Hood, our Executive Vice President
+and Chief Financial Oﬃcer; Dev Stahlkopf, our Corporate Vice President and General
 Counsel and Corporate Secretary.
 Dev will address the business and procedural portion of the meeting, followed by
 Amy, who will review Microsoft financial results, and finally Satya will reﬂect on our
@@ -50,7 +51,8 @@ serving as the Chair of the meeting and Dev will be serving as the Secretary. As
 of the meeting, I have adopted an agenda that will govern the Order of business
 and the Rules of Conduct for the meeting. Copies of the agenda and rules are
 available on the virtual meeting site as well as the annual meeting page on the
-Investor Relations website. The rule of conduct also govern the Q&A session. DevDev Stahlkopfwill now report the notice of the meeting, the proxies received and present the
+Investor Relations website. The rule of conduct also govern the Q&A session. Dev
+Dev Stahlkopfwill now report the notice of the meeting, the proxies received and present the
 matters to be voted on. Dev?
 
 Thank you, John and welcome everyone. I'll walk us through the short formal
@@ -89,7 +91,8 @@ properly nominated by the Board. Reid Hoffman, Hugh Johnston, Teri List-Stoll, S
 Nadella, Sandra Peterson, Penny Pritzker, Charles Scharf, Arne Sorenson, John
 Stanton, John Thompson, Emma Walmsley and Padmasree Warrior. The Board
 recommends a vote for each nominee. Our Board nominees are attending today's
-meeting via Microsoft Teams.Mari SchwartzerThe second item is an advisory vote to approve executive compensation as
+meeting via Microsoft Teams.
+Mari SchwartzerThe second item is an advisory vote to approve executive compensation as
 disclosed in the Company's proxy statement. The Board, excuse me, the Board
 recommends a vote for this proposal.
 For the third item, we ask that you ratify the selection of the Company's independent
@@ -127,7 +130,8 @@ exploration of the ways in which non-management employees to attain membership
 on the Board of Directors. We believe that more eﬃcient communication between
 employees and the Board could lead to increased engagement and retention, faster
 alerts to potential pending crisis, more eﬃcient expression of employee assessments
-and workforce morale directly to the Board and much more.Dev StahlkopfWe believe that all employees are critical to our company's continued success and
+and workforce morale directly to the Board and much more.
+Dev StahlkopfWe believe that all employees are critical to our company's continued success and
 deserve a voice. We also believe that employees with a seat at the table are more
 likely to remain engaged and committed to the company.
 Our employees are the driving force of our company, but if their trust in
@@ -169,7 +173,8 @@ Directors was not approved, receiving less than 6% votes cast. We expect to post
 details of the final voting results on all of these matters on our Investor Relations
 website later today. We'll also report the results in a Form 8-K that will be filed with
 the Securities and Exchange Commission within four business days. With that, we've
-completed the formal portion of the meeting and the meeting is now adjourned.Amy HoodLet me hand it over to our Chief Financial Oﬃcer, Amy Hood.
+completed the formal portion of the meeting and the meeting is now adjourned.
+Amy HoodLet me hand it over to our Chief Financial Oﬃcer, Amy Hood.
 
 Thank you, Dev. Hello, everyone, and thank you for joining us today. As John
 mentioned, the past fiscal year was unprecedented, transforming the way our
@@ -212,7 +217,8 @@ to realize the mission critical nature of the PC, driving demand for Windows and
 productivity apps. Windows 10 surpassed 1 billion monthly active devices. Our oﬃce
 business saw double-digit revenue growth, even as we helped more commercial and
 consumer users around the world to be more productive, collaborative and secure.
-And as service, revenue grew to over $6 billion as we innovated across our existingSatya Nadellaportfolio, with the latest Surface Pro, Laptop, Go, and Book devices, as well as the
+And as service, revenue grew to over $6 billion as we innovated across our existing
+Satya Nadellaportfolio, with the latest Surface Pro, Laptop, Go, and Book devices, as well as the
 new Surface Duo, dual screen device, adding to our family of category-creating
 devices.
 In LinkedIn, revenue exceeded $8 billion and grew 20% and in a challenging job
@@ -251,7 +257,8 @@ Thank you, Amy, and thank you to all our shareholders for joining today. Thank y
 for your continued investment in Microsoft. 2020 has been a year like no other. We
 saw world come to a near standstill confronted by compounding challenges of
 public health and an economic crisis, persistent issues of racial injustice and inequity
-and the devastating effects of climate change.I want to extend my deepest gratitude to everyone who is working tirelessly to get us
+and the devastating effects of climate change.
+I want to extend my deepest gratitude to everyone who is working tirelessly to get us
 through especially those in the front lines across healthcare, education, public sector,
 critical manufacturing, grocery and retail. Amid this disruption, I'm proud of how our
 ecosystem has stepped up to help people and organizations apply technology to
@@ -293,7 +300,8 @@ that the way we work, learn and experience events has changed dramatically over
 the last year.
 With Microsoft 365 and Teams we are empowering people and organizations to be
 more productive and secure as they adapt to new ways of working and learning. The
-PC has become mission critical to sustained productivity in a remote everything [ph]A - Mike Spencerworld. Windows 10 monthly active devices are up double digits year-over-year and
+PC has become mission critical to sustained productivity in a remote everything [ph]
+A - Mike Spencerworld. Windows 10 monthly active devices are up double digits year-over-year and
 Teams now has more than a 115 million daily active users. Teams is the only solution
 with meetings, calls, chat, content collaboration with Oﬃce, as well as business
 process workﬂows, and we are accelerating our innovation shipping more than 100
@@ -333,7 +341,8 @@ Welcome to the Q&A portion of the meeting, I'm Mike Spencer, Head of Investor
 Relations here at Microsoft. I'm joined today by Satya, Amy and John, as well as
 Microsoft President, Brad Smith. We want to thank you for all the questions you
 submitted in advance and during the meeting. We will try to get to as many as we
-candidate. If we don't get your question in today's meeting, we will post documentA - Satya Nadella
+candidate. If we don't get your question in today's meeting, we will post document
+A - Satya Nadella
 A - Mike Spencer
 A - Brad Smithafter meeting with responses on our Investor Relations website. As we reviewed the
 submissions, there were several questions asked on similar topics, so we've selected
@@ -374,7 +383,8 @@ things that I think are really important to think about. We have long not just b
 but known that we do our best work when we have an employee population that
 reﬂects the diversity of the customers that we need to serve. And in the United States
 today 14.6% of the people who live here are black or African-American. We're
-nowhere near close to that inside Microsoft.A - Mike Spencer
+nowhere near close to that inside Microsoft.
+A - Mike Spencer
 A - Satya Nadella
 A - Mike SpencerSo we have important work to do and we believe that this is the kind of work that will
 enable us to better serve a very large and important group of customers. Think
@@ -418,7 +428,8 @@ services to power their gaming experiences going forward.
 
 Great. Thanks Satya. For Brad, we have another question on diversity, Maryann Hayes
 [ph] asks what is the strategy to increase workforce diversity to reﬂect Microsoft's
-global customer base, Brad?A - Brad Smith
+global customer base, Brad?
+A - Brad Smith
 A - Mike Spencer
 A - Satya Nadella
 A - Mike Spencer
@@ -462,7 +473,8 @@ edge, and truly powerful experiences such as HoloLens and augmented reality and
 mixed reality is something that customers can use for training too, even gaming.
 
 Thanks, Satya. Our next topic is on capital return, which Amy take. We received over
-20 questions on the topic and we were asked, are you going to increase dividends inA - Amy Hood
+20 questions on the topic and we were asked, are you going to increase dividends in
+A - Amy Hood
 A - Mike Spencer
 A - Satya Nadella
 A - Mike Spencerthe future? And could you help us understand your overall capital return strategy,
@@ -503,7 +515,8 @@ right services for security and compliance.
 
 Thanks, Satya. I'm going to turn to Brad for this next one. And we have received
 several questions related to privacy, including one from the shareholder who asked,
-what more can be done to protect consumers privacy, Brad?A - Brad Smith
+what more can be done to protect consumers privacy, Brad?
+A - Brad Smith
 A - Mike Spencer
 Well, I think it's a great question and it's such evident importance to so many
 customers and shareholders around the world. I would start with the tenant that
@@ -545,6 +558,7 @@ leaders alike in the Senate, where there is a major effort to pursue privacy leg
 and we're hopeful that 2021 will be the year when we see it in active. I think you put
 those things together, what really underscores is this need for us to be thinking
 broadly and acting comprehensively, you can see, that's what we're striving to do.
+
 A - Satya Nadella
 A - Mike Spencer
 A - Brad SmithThanks, Brad. Our next question is about LinkedIn, it comes from Fritz Eikelberg [ph].
@@ -589,7 +603,8 @@ from I think a lot of other national security or public safety issues for a very
 reason. So much of our digital infrastructure is in the hands of the private sector,
 whether it's the cables that go underneath the ocean or data centers or servers and
 in many ways that even extends to individuals and enterprises because after all, we
-all have devices that we carry around with us that are connected all the time. So whatA - Mike Spencer
+all have devices that we carry around with us that are connected all the time. So what
+A - Mike Spencer
 A - Brad Smithwe've been focused on doing is taking more steps, not just individually, but as an
 industry to increase what we're doing.
 At Microsoft, we sponsored and really help champion two years ago, what's called
@@ -632,7 +647,8 @@ And that continues as we approach the end of the year to be I think the kind of
 brand goal, the world needs and it's a goal that we're still hoping other companies
 will step forward and match. I think it's worth thinking about what does it mean to be
 carbon negative, well in part, it really requires that we reduce our own carbon
-emissions so that we're emitting less. And this is where Amy part of the company hasA - Mike Spencerreally led the way in my view with a host of operational improvements. We have an
+emissions so that we're emitting less. And this is where Amy part of the company has
+A - Mike Spencerreally led the way in my view with a host of operational improvements. We have an
 internal carbon tax that now applies to all of the various carbon emissions, we have
 not just directly, but indirectly from our supply chain and from the use of our
 products. We've rolled out new reporting expectations for everybody in our supply

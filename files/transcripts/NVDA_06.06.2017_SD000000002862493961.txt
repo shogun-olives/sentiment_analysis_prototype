@@ -18,7 +18,8 @@ second half, do you think you are more positive, more cautious, more even? Just 
 simple one-word answer. And then we will go into the fundamentals.
 
 I think that's always hard to use one word to talk about it because I think everybody
-realizes NVIDIA has quite a diverse portfolio of different things that we are lookingQ - Vivek Arya
+realizes NVIDIA has quite a diverse portfolio of different things that we are looking
+Q - Vivek Arya
 A - Colette M. Kress
 Q - Vivek Aryaat. It's not a run-of-the-mill types of things that we're doing. When we look at the
 businesses that we are focused on and our focus on AI, I think that is a great driver of
@@ -64,7 +65,8 @@ Got it. So at your recent Analyst Day, you showed some data that said Gaming has
 grown at 30% plus compounded over the last five years. I think in semiconductors,
 you're really not used to seeing that kind of growth. So that's why we are always very
 wary about seeing those kind of numbers. But if you sort of break it down in terms of
-units and content. So units have grown at a double-digit pace. So is that a refresh ofA - Colette M. Kress
+units and content. So units have grown at a double-digit pace. So is that a refresh of
+A - Colette M. Kress
 Q - Vivek Arya
 A - Colette M. Kress
 Q - Vivek Arya
@@ -109,7 +111,8 @@ them to think about in terms of upgrades going forward and expanding that overal
 base. Gaming is across many, many different genders. You have people of all ages in
 terms of gaming. So you still have a continuation from refreshing and also an ability
 for them to think about consoles or consoles plus now PCs in terms of gaming. So
-that's how I would look at it.Q - Vivek Arya
+that's how I would look at it.
+Q - Vivek Arya
 A - Colette M. Kress
 Q - Vivek Arya
 A - Colette M. Kress
@@ -154,7 +157,8 @@ price points that have been rather static over the last decade or even longer, w
 still have an opportunity. But that's not necessarily the goal. We want to make sure
 we're well connected to that gamer in terms of the types of games that they want,
 the community they want and providing them that brand that establishes such that
-whatever game they want to play works seamlessly in terms of on the technology.Q - Vivek Arya
+whatever game they want to play works seamlessly in terms of on the technology.
+Q - Vivek Arya
 A - Colette M. Kress
 Q - Vivek Arya
 A - Colette M. Kress
@@ -200,7 +204,8 @@ Yes. So we've been competing with AMD for many, many, many years. Probably a
 pretty significant change in terms of how the 2 companies address the market about
 five years ago. We really started to think about the entire ecosystem and really
 focusing on that gamers. We looked at it as more and more capability and
-performance would drive the overall gaming market. And that is what we have seen.Q - Vivek Arya
+performance would drive the overall gaming market. And that is what we have seen.
+Q - Vivek Arya
 A - Colette M. KressWe have seen a game portfolio that is significantly higher than what people would
 have thought what have been just good enough. We're nowhere near the good
 enough in terms of overall graphics, in terms of what those capable. So we know
@@ -247,7 +252,8 @@ of data that is out there was key and very focused for us to concentrate on. But
 thirdly, the use of GPUs and the use of parallel processing and understanding how
 to program them surfaced the era of AI and surfaced deep learning, deep learning
 and research, deep learning as a focus of AI, of an accomplishment that they weren't
-able to do for the last 20 years, reach superhuman capabilities and in forms ofQ - Vivek Arya
+able to do for the last 20 years, reach superhuman capabilities and in forms of
+Q - Vivek Arya
 A - Colette M. Kressdetection, image detection or voice translation. And they -- leveraging a GPU using
 that, that has put us where we are today, okay? We've continued to now focus not
 just on the hardware. The hardware is probably top-notch. It's probably leaps or
@@ -294,7 +300,8 @@ workload or internal application that they have. They're also going to focus on
 probably certain frameworks that they are very popular with or they -- TensorFlow,
 for example, with Google. Now keep in mind, we're going to focus on availability for
 all. We want the availability that you can start in one cloud, move to another cloud,
-you can move to on-premise. You don't want to be limited by the overall framework.Q - Vivek Arya
+you can move to on-premise. You don't want to be limited by the overall framework.
+Q - Vivek Arya
 A - Colette M. Kress
 Q - Vivek Arya
 A - Colette M. Kress
@@ -337,6 +344,7 @@ customer concentration? Or so if -- like do you already have a good sense of how
 the back half is going to shape up? Or do you still think that it is still dependent on
 certain customers making certain decisions that could create wide swings in what
 that number could be, positive or negative?
+
 Q - Vivek AryaYes. So I think you have to look at the Datacenter business about the breadth and
 depth of its expansion over the last several years and what we have within our
 Datacenter business. There is still a phenomenal high-performance computing
@@ -384,7 +392,8 @@ customers. It's a big, big group that are all happening at the same time.
 
 One thing we saw in the Gaming business is as the gamers moved to Pascal, that was
 a very good expansion in your content than the value that you are providing. Do you
-see something similar in the Datacenter side? Because I don't think Pascal is asA - Colette M. Kress
+see something similar in the Datacenter side? Because I don't think Pascal is as
+A - Colette M. Kress
 Q - Vivek Arya
 A - Colette M. Kresswidely adopted in the Datacenter quite yet. So as those customers move to Pascal
 and then to Volta, should we expect a similar expansion in your content?
@@ -430,7 +439,8 @@ driver. We will get to autonomous driving." But there was a very important subse
 car manufacturers and start-ups that said, "Actually, we need compute. We need a
 significant amount of compute because this is a very diﬃcult computing problem."
 The amount of the data that is coming together that needs to be triangulated to find
-a pathway for the overall car to travel is the importance. It's not about detectingQ - Vivek Aryaeverything along the road. Detecting a stop sign, detecting a sidewalk doesn't help
+a pathway for the overall car to travel is the importance. It's not about detecting
+Q - Vivek Aryaeverything along the road. Detecting a stop sign, detecting a sidewalk doesn't help
 you how to drive. It just tells you what's on the road. And having that pathway, your
 brain thinks about all of those different parameters on what is the best method to
 overall drive. So that has emerged as a very well-known understanding and as may
@@ -477,7 +487,8 @@ there's also a lot of consolidation in the sector. So just in terms of use of ca
 think the priority is still returning cash to shareholders as you have been doing right
 on a very consistent basis over the last few years? Or do you think there is room,
 right, for looking at inorganic opportunities also for NVIDIA? Or you just don't need
-to?A - Colette M. Kress
+to?
+A - Colette M. Kress
 Q - Vivek Arya
 A - Colette M. Kress
 So our first focus on cash to be really clear is what we need for the business and

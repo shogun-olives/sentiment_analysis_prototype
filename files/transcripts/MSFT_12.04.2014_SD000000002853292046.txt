@@ -23,7 +23,8 @@ To level set, the Company, Microsoft, is 39 years old. Our 40th anniversary, as 
 of you may know, is next year. The first 39 years of our company, we had one of the
 greatest business models of all time built around certainly the Windows Client
 operating system and the PC operating system and catching that wave of innovation
-certainly was very good to the Company. Then followed suit with the Oﬃceproductivity suite and all of the workloads associated with that. That was our second
+certainly was very good to the Company. Then followed suit with the Oﬃce
+productivity suite and all of the workloads associated with that. That was our second
 big franchise. Then our foray into the enterprise and really coming out with Windows
 server and building out and building and extending that into SQL and other
 enterprise products and solutions.
@@ -64,7 +65,8 @@ and platform company. But we are also taking some very bold decisions and taking
 some very important steps. The Nokia synergies and streamlining and eﬃciencies
 and strategic alignment, getting into that particular piece of first party hardware was
 important for us to get a footprint in the mobile space. Modernizing our engineering
-organization so that we can be faster and have more speed and agility andquickness and responsiveness to the marketplace. That is all supported and backed
+organization so that we can be faster and have more speed and agility and
+quickness and responsiveness to the marketplace. That is all supported and backed
 up by some massive organizational changes that we have done.
 We now have one operating systems group, one cloud group, one applications
 group, one hardware and devices group, one marketing organization. Those are not
@@ -103,7 +105,8 @@ to accelerate.
 And you are seeing a whole new level of innovation in the marketplace running
 Windows today. You're seeing $200 laptops, you are seeing $99 Windows tablets
 embracing and extending the ecosystem by lighting up some of these new business
-model scenarios, allowing us to monetize the lifetime of that customer throughservices and different add-ons that we are able to be able to incorporate with that
+model scenarios, allowing us to monetize the lifetime of that customer through
+services and different add-ons that we are able to be able to incorporate with that
 solution.
 Oﬃce and .net going cross-platform, very important for us again to embrace and
 extend. And I'm excited about those changes, being able to run on iOS and Android
@@ -142,7 +145,8 @@ premises product like SQL Server, System Center and Windows server. And I believ
 the strategic reason behind that is because we are able to do these massive
 hyperscale 1 million square foot data center cloud environments. We are taking the
 learning from that space and incorporating that into our on premise products. A
-great example of that is our SQL Server platform.SQL is now the TPC benchmark leader in two different categories. And it's 30 times
+great example of that is our SQL Server platform.
+SQL is now the TPC benchmark leader in two different categories. And it's 30 times
 faster than the previous version. It has in-memory technology built into it. And it's a
 third the price of our competitors. So that's why you see us making so much
 progress on the on-premise products is because of incorporating that functionality
@@ -184,7 +188,8 @@ your choice -- .net, Java, C++ on our cloud -- is an incredible opportunity for 
 open that up. So we actually make it very easy for enterprise customers specifically
 to on-ramp and onboard our commercial cloud. And this, coupled with hyperscale,
 coupled with our three different types of clouds, is something no other company can
-offer a customer today.Now, the other thing that I would tell you, particularly in the private cloud space, is
+offer a customer today.
+Now, the other thing that I would tell you, particularly in the private cloud space, is
 our Hyper-V product for virtualization is on fire. And I'm sure most of you look at the
 share numbers. Each and every quarter we go up. Each and every quarter our
 biggest competitor in that space goes down. And we are growing at over twice their
@@ -226,7 +231,8 @@ able to build an application now and have it run across that entire spectrum of
 devices tailored to the individual device with minimal touch and changes. So now
 you can write that application, have it actually run across Internet of Things, have it
 run across your mobile devices, have it run across your laptop and your desktops.
-And your TV with Xbox. And you have a common kernel within that.Q - Philip WinslowWe have one developer API now. We have one interface to silicon with Windows 10.
+And your TV with Xbox. And you have a common kernel within that.
+Q - Philip WinslowWe have one developer API now. We have one interface to silicon with Windows 10.
 And so that gives us the capability of having one store, which also gives us the
 capability of having one experience tailored to every device.
 So as you see, this opportunity that we have for Windows 10 is huge by leveraging
@@ -263,7 +269,8 @@ Questions And Answers
 
 Fantastic. I'll start with some questions before opening up to everyone in the
 audience. But what you described is really a very interesting call it year and a half at
-Microsoft. You're the new CFO. Obviously, you have a new CEO, Satya Nadella.A - Kevin Turner
+Microsoft. You're the new CFO. Obviously, you have a new CEO, Satya Nadella.
+A - Kevin Turner
 Q - Philip WinslowI'm wondering if you can talk about kind of what you just ended on here to the
 degree, the momentum that you talked about in the business. What are the
 leadership changes and you're obviously still COO. What has changed from a
@@ -304,7 +311,8 @@ really struck me and I know talking to investors was viewed as very un-Microsoft
 or kind of against maybe historical dogma was when you actually moved some of
 the oﬃce productivity applications to iOS. By the way, I've got them on my phone
 and I love them, use them all the time. And many people in the audience have talked
-about it at this conference, about using them across multiple devices. What was theA - Kevin Turner
+about it at this conference, about using them across multiple devices. What was the
+A - Kevin Turner
 Q - Philip Winslow
 A - Kevin Turnerstrategy behind it? What made you make that jump. And how does this feed into the
 Oﬃce 365 strategy?
@@ -347,7 +355,8 @@ So customers, the response of customers have been fantastic around that product.
 And it's been very well embraced by the marketplace. And it's a big dog. It's
 growing and it pulls and a lot of other opportunities that we have.
 So look, across our cloud businesses. And I think you all know the numbers. But
-previously we announced the fact that that was more than -- across our commercialQ - Philip Winslow
+previously we announced the fact that that was more than -- across our commercial
+Q - Philip Winslow
 A - Kevin Turner
 Q - Philip Winslow
 A - Kevin Turnercloud was more than a $4.4 billion run rate business for us. And it's growing, as you
@@ -388,7 +397,8 @@ a service trying to become a platform as a service. So we actually have a unique
 value proposition there to be able to on-ramp and bring people to the future. And
 the future is really about being able to take advantage of an elastic cloud. You can't
 take advantage of an elastic cloud until you get the platform as a service. So it's been
-very strategic for us in how we both go to market and moving existing infrastructure.Q - Philip Winslow
+very strategic for us in how we both go to market and moving existing infrastructure.
+Q - Philip Winslow
 Q - Unidentified Participant
 A - Kevin Turner
 Q - Philip Winslow
@@ -430,7 +440,8 @@ and below devices explode because that was an area, candidly, that was blocked o
 and I had no share of what was getting built. But it is a very fascinating transition for
 us. And finding new ways to monetize the lifetime of that customer on those
 devices? Again, I would tell you we are learning, we are growing and we're smarter
-and wiser every day. And we still have some more learning and growing to do in thatQ - Philip Winslow
+and wiser every day. And we still have some more learning and growing to do in that
+Q - Philip Winslow
 A - Kevin Turner
 Q - Philip Winslow
 A - Kevin Turner
@@ -468,7 +479,8 @@ it is something that our company is going to continue to take the right approach
 both short-term and long-term perspectives and create long-term shareholder value.
 That's what we are about.
 
-Other questions up front?A - Kevin Turner
+Other questions up front?
+A - Kevin Turner
 Q - Unidentified Participant
 A - Kevin Turner
 Q - Philip Winslow
@@ -508,7 +520,8 @@ What does this mean in the server world?
 Sure. I know that we've got great relationships going on with a lot of our partners like
 HP and Dell and others. And we are charting the accounts and doing the mapping
 and going after those as aggressively as we can. At the same time, we want to
-migrate as many of those as we can to the cloud.Q - Philip Winslow
+migrate as many of those as we can to the cloud.
+Q - Philip Winslow
 A - Kevin Turner
 Q - Philip WinslowFor Microsoft, the majority of our enterprise customers are on an enterprise
 agreement today from an annuity perspective. And that's something that is very

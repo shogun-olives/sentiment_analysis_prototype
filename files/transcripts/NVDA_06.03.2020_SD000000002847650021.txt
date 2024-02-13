@@ -19,7 +19,8 @@ our usual financial disclosures about forward-looking statements.
 So NVIDIA, of course started out as a gaming company, and that's still a very big part
 of what we do, and there's great growth there.
 But as you know, AI is transforming every industry. And NVIDIA is sort of at the heart
-of that AI revolution. There's really two aspects to AI. There's first, the developmentof the AI, the training, and we play a very active role in that, and our data center
+of that AI revolution. There's really two aspects to AI. There's first, the development
+of the AI, the training, and we play a very active role in that, and our data center
 business is innovating in that space. And we just had new announcements with our
 new Ampere architecture, and data center growth is enormous.
 But then there's also the aspect of what we call edge AI or also inference where
@@ -55,7 +56,8 @@ DRIVE platform that is running different software stacks.
 We have our DRIVE AV, which is the autonomous vehicle stack, that's doing all the
 sensing, perception, mapping, localization and path planning. And then our DRIVE IX
 software stack, which is our intelligent experience, which will leverage sensors inside
-the vehicle, maybe a driver or passenger-facing cameras to do driver monitoring,detecting someone is drowsy or distracted. And with that, we'll integrate with the
+the vehicle, maybe a driver or passenger-facing cameras to do driver monitoring,
+detecting someone is drowsy or distracted. And with that, we'll integrate with the
 outside sensors to enable new safety features or convenience features.
 So again, this is the industry's only platform that goes from end to end, a single
 architecture that the software that's been developed and trained on NVIDIA is then
@@ -90,7 +92,8 @@ So this is a full hardware in the loop simulation that lets us take a vehicle th
 only be operating a couple of hours a day and now operated in the cloud 24/7. And
 so this is a way that we can then rack up all of these servers, and this will be a whole
 ﬂeet of vehicles that, again, are not just driving on the roads where testing is
-essential on the roads, of course.But usually, those are boring tests, meaning nothing happens. A good thing, of
+essential on the roads, of course.
+But usually, those are boring tests, meaning nothing happens. A good thing, of
 course.
 But really, what we want to be able to do is test those really dangerous, challenging,
 hazardous scenarios, and they often won't even occur after days and days or months
@@ -121,7 +124,8 @@ There's a new Ampere GPU. There's programmable vision accelerators. There's
 deep-learning accelerators. Again, this is a whole computer, a system on a chip
 designed for autonomous vehicles.
 So many different types of algorithms are running simultaneously, providing diversity
-and redundancy required for safe operation.It's a 7x performance boost over our previous generation. So again, we've been able
+and redundancy required for safe operation.
+It's a 7x performance boost over our previous generation. So again, we've been able
 to make it more energy-eﬃcient and increase the performance dramatically.
 Now with this new architecture, with our Ampere architecture, on the GPU side, it's
 much more energy-eﬃcient. And now we're able to broaden our offering. Again, the
@@ -156,7 +160,8 @@ So grand total of 2,000 tops able to run many different applications simultaneou
 It delivers now 6x the performance of our current Pegasus offering, which is what is
 in development for many of the robotaxi companies. And again, greater
 performance per watt.
-So energy consumption has gone down dramatically.What I want to do is show you a little video clip now. Over the bandwidth there, you
+So energy consumption has gone down dramatically.
+What I want to do is show you a little video clip now. Over the bandwidth there, you
 might not see full frame rate.
 But this is a recent drive in one of our test vehicles.
 We have a ﬂeet, a small ﬂeet compared to our customers, but we need to
@@ -188,7 +193,8 @@ at home working and being extremely productive, even while in stay-at-home
 orders.
 So our ecosystem that's leveraging our technology is vast. There are hundreds of
 companies that are building and testing and deploying their vehicles on NVIDIA
-DRIVE. And so we've made announcements, of course with big OEMs like Mercedes-Benz and Volvo, Toyota. In China, we have a number of automakers as well. The
+DRIVE. And so we've made announcements, of course with big OEMs like Mercedes-
+Benz and Volvo, Toyota. In China, we have a number of automakers as well. The
 trucking industry is doing a lot of development work. And in fact, during recent
 pandemic months, right, we've seen a shift from there's less people out on the road.
 This ride-sharing has gone down.
@@ -222,7 +228,8 @@ DRIVE OS. They can use our libraries. They can use our algorithms. Our DriveWork
 are DRIVE AV stack, and they can customize and build their own applications. This is
 key -- and that no automaker wants to outsource their future, which is AV.
 So again this open software-defined, software-updatable architecture is key to the
-future. Again, we have a vast ecosystem.A - Rajvindra GillSo regardless of the kind of sensor they want to use, we work with the Tier 1
+future. Again, we have a vast ecosystem.
+A - Rajvindra GillSo regardless of the kind of sensor they want to use, we work with the Tier 1
 suppliers, of course.
 We're not competing with them.
 But it's a partnership between NVIDIA, the Tier 1 and the OEM to build these systems
@@ -252,7 +259,8 @@ engagements? Have they been on Level 2+ or Level 3, Level 4? We know that Level
 regulation and liability and uncertainty around the market.
 So I wanted to kind of dig deeper in terms of your engagements for Level 2, Level
 2+, which seemed to be what the market will be over the next 10 years and how your
-solution, maybe it's more cost-effective or has lower power than the competition?A - Danny Shapiro
+solution, maybe it's more cost-effective or has lower power than the competition?
+A - Danny Shapiro
 A - Rajvindra Gill
 A - Kimberly Powell
 Sure. So you're right. I mean we have a lot of different engagements. There's a lot of
@@ -287,7 +295,8 @@ existing kind of competition there, and I'm just wondering how your solution wil
 kind of compete if it's not as advanced requirements that are needed in more Level
 2, Level 3 -- versus Level 2, Level 3.
 
-Sure.A - Rajvindra Gill
+Sure.
+A - Rajvindra Gill
 A - Danny ShapiroWell I think what we will see is the deployment of higher-end system in more and
 more vehicles, even if the software isn't activated. And so again, there's one
 particular company out there in the market that's taken this approach. It has a very
@@ -322,7 +331,8 @@ algorithms. There's going to be apps that come out a year or two from now that
 haven't even been thought of today.
 But because of the software-defined nature of our platform, it's not a problem.
 And the thing is, today, everyone has an iPhone, an Android phone. Could you
-imagine buying a phone that doesn't get software updates? You wouldn't do it,A - Rajvindra Gill
+imagine buying a phone that doesn't get software updates? You wouldn't do it,
+A - Rajvindra Gill
 A - Danny Shapiro
 A - Rajvindra Gillright? You're not going to have this fixed function device. And virtually, every car on
 the road today is like that old phone that you can't update.
@@ -360,7 +370,8 @@ auto number that is reported in our data center business.
 Right. And I think that's an interesting point.
 So data center for automotive is kind of in data center in general, and so you're
 seeing kind of an uptick based on what you're saying for simulation versus kind of
-physical, manual –A - Danny Shapiro
+physical, manual –
+A - Danny Shapiro
 A - Rajvindra Gill
 A - Danny Shapiro
 It's interesting. And again, even there are some companies that aren't using NVIDIA
@@ -396,7 +407,8 @@ this accident or not. And so again, in simulation, we can let it all play out. A
 something happens in sim, we just restart the simulation, and we update the
 software.
 We learned from that. You don't have that luxury in the real world if something bad
-happens.A - Rajvindra Gill
+happens.
+A - Rajvindra Gill
 A - Danny Shapiro
 A - Rajvindra Gill
 A - Danny Shapiro
@@ -434,6 +446,7 @@ So you talked about kind of 4x the performance and power eﬃciency over your
 Xavier solutions. I was wondering if you can go into some details and explain how
 does Orin do this from a technological point of view. Is it primarily on the process
 node migration? Is it more on the algorithm side?
+
 A - Rajvindra Gill
 A - Danny ShapiroIt's a combination of both, really. Yes. So the process node.
 But again, we're able to -- I mean it is incredibly complex chips, 17 billion transistors.
@@ -469,7 +482,8 @@ moving people around.
 But then there's also these -- whether they're fixed robots and assembly lines, more
 cobots, right? Instead of robots that have to basically shut down whenever a human
 gets there or in manufacturing of these big changes around the robots, we're going
-to see a lot more really smart robots that are able to sense their environments andA - Rajvindra Gill
+to see a lot more really smart robots that are able to sense their environments and
+A - Rajvindra Gill
 A - Danny Shapirobe able to work alongside with other humans as well as logistics, whether it's in
 factories, warehouses. Even in health care, the market opportunity is very large there.
 We see great growth potential.
@@ -505,7 +519,8 @@ Again, it's not just about what goes in the car, but training that AI, they don'
 have two totally different systems that they're collecting data, two different initiatives.
 They're doing different development, different training, different testing, different
 validation when they can do all this across a single architecture. It's an enormous
-cost savings.A - Rajvindra Gill
+cost savings.
+A - Rajvindra Gill
 A - Danny Shapiro
 A - Rajvindra Gill
 A - Danny Shapiro

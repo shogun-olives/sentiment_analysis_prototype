@@ -13,7 +13,8 @@ cars. This is a key piece of using some of the key features in the graphics that
 you have with the Maxwell architecture, key shading, key ability to render materials
 that you have in the car exactly into those digital displays.
 The second piece that we discussed was our overall Drive PX. And our Drive PX is
-our automated driving overall module. And that is really helping us in the deepUnidentified Participant
+our automated driving overall module. And that is really helping us in the deep
+Unidentified Participant
 Colette Kress
 Unidentified Participantlearning and the computer vision for the future inside of cars, the ability for it to
 detect 12 different cameras around your car and being able to recognize all different
@@ -51,7 +52,8 @@ So help us understand. So Tegra in the most recent quarter was about 15% of your
 total revenues. Can you just help us quantify what percentage of that mix is
 automotive? And I know automotive leadtimes are very long and you've got a pretty
 solid pipeline of design wins. So help us understand -- give us a snapshot today of
-automotive mix within Tegra and then kind of give us a sense for your pipeline andColette Kress
+automotive mix within Tegra and then kind of give us a sense for your pipeline and
+Colette Kress
 Unidentified Participant
 Colette Kress
 Unidentified Participanthow that pipeline unfolds from a revenue perspective as we look out, one, two, three
@@ -85,7 +87,8 @@ You know, I think there is still tremendous opportunities in the rest of the Teg
 business as well. And we see growth in those businesses as well on many of the
 embedded portions associated with gaming, gaming tablets, a very specific tablet
 with the key horsepower of that application processor. So we will just have to see in
-terms of when we may break that out and whether or not we will going forward.Colette KressOkay. Given that we are at the beginning of the year and as you think about your
+terms of when we may break that out and whether or not we will going forward.
+Colette KressOkay. Given that we are at the beginning of the year and as you think about your
 product and design win pipeline in 2015, Colette, give us your view on what you
 believe will be the drivers of your business this year in your computing and graphics
 segments and data center and cloud and mobile. We talked about automotive but
@@ -121,7 +124,8 @@ workload. Research in terms of high-end education is really bringing this forth 
 we are seeing large Internet service providers build extremely large projects
 associated with this GPU.
 This is our overall Tesla business. We experienced record levels of Tesla both in Q3
-and Q2 associated with the emergence of machine learning and deep analytics.Unidentified Participant
+and Q2 associated with the emergence of machine learning and deep analytics.
+Unidentified Participant
 Colette KressSecondly, in our cloud and data center business is our overall GRID and our
 virtualized GPU. Now we are taking a platform where you have normally had a GPU
 associated with a one-to-one relationship, either one to the overall computer to the
@@ -159,7 +163,8 @@ viable options. What we find is it's not necessarily us driving but really the c
 coming forth and what they are interested in.
 What you find in this new world is many different ways to solve a lot of their desires
 and problems that they want in terms of this IP technology. So we are focused both
-on protecting our IP and our IP being used without our approval and then we areUnidentified Participant
+on protecting our IP and our IP being used without our approval and then we are
+Unidentified Participant
 Colette Kress
 Unidentified Participant
 Q - Unidentified Participant
@@ -193,7 +198,8 @@ about what type of ASPs are we talking about. I think the key thing to help
 understand what we are bringing to the automotive world is not bringing just a chip,
 as many of our other overall competitors may do. We are actually bringing a key
 aspect of software and key software that has been programmed truly for the car and
-really taking advantage of our overall CUDA development platform.Q - Unidentified Participant
+really taking advantage of our overall CUDA development platform.
+Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified ParticipantWe have more software engineers at NVIDIA than we actually do hardware
 engineers, really focused on building out the complex algorithms that are going to
@@ -230,7 +236,8 @@ Let's focus on the GeForce gaming segment of your business. I remember when I
 first started covering NVIDIA five years ago and any time our hardware analyst would
 change his PC forecast we would either raise or cut numbers on NVIDIA.
 But over the years it has become quite a different business now. And in fact that
-relationship has decoupled to a point where NVIDIA's GeForce gaming business, orA - Colette Kressthe GeForce business overall, is being more driven by the trends within the PC
+relationship has decoupled to a point where NVIDIA's GeForce gaming business, or
+A - Colette Kressthe GeForce business overall, is being more driven by the trends within the PC
 gaming segment of the market, which has been growing significantly faster than the
 overall PC market. And so if I just take a look at that part of your business, which is
 still tied to the PC/OEM channel, as you mentioned, it is about 25% of your overall
@@ -267,7 +274,8 @@ business. When you have cost competitive what you are dealing with is probably n
 our highest margins of our business and what we have.
 So there is a low percentage of our overall revenue. We have indicated it is less than
 25% of our GeForce business and it's even a lesser % as you think about overall
-profitability or gross margin associated with that business. But again we will still playQ - Unidentified Participant
+profitability or gross margin associated with that business. But again we will still play
+Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
 A - Colette Kressin that business as we do still see it as an important part to make sure we have our
@@ -304,6 +312,7 @@ And so for the team I think ahead of you you still have either the migration to 
 nanometers or 16 nanometer and 14 nanometer FinFET technology. Help us
 understand the manufacturing roadmaps and when does NVIDIA feel it is the right
 time to be intercepting these new manufacturing process builds?
+
 Q - Unidentified Participant
 A - Colette KressSo manufacturing process is not a short-term decision. It is something that we've
 been working on for many years in terms of when is that right time to change to the
@@ -341,7 +350,8 @@ really a focus on profitability and really leveraging the investments that we ha
 over the last couple of years.
 So moving into the new year we will talk about at the end of Q4 our overall
 investment strategy going into our fiscal year 2016. But what you can expect us to do
-is to make sure that A, we think about our overall investments necessary to continueQ - Unidentified Participant
+is to make sure that A, we think about our overall investments necessary to continue
+Q - Unidentified Participant
 A - Colette Kress
 Q - Unidentified Participant
 A - Colette Kressthe success of some of our key growth platforms but we must continue to look for

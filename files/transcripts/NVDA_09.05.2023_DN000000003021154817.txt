@@ -16,7 +16,8 @@ successful career at both Microsoft and Dell. What initially attracted you to NV
 How has the experience of the company played out so far relative to your original
 expectations? I think, I know the answer to that question, but I'll ask it anyway. And as
 the Head of Enterprise Computing, how do you spend your time? What are some of
-the key priorities for you?Q - Toshiya Hari
+the key priorities for you?
+Q - Toshiya Hari
 A - Manuvir DasYeah, that's three great questions. So let me do them one-by-one. I think the reason I
 joined NVIDIA, Toshiya, because I grew by Microsoft, the ultimate software platform
 company. We understood that a platform is only as good as the applications that are
@@ -54,7 +55,8 @@ And then. I think your third question is about what I do?
 Key goals, priorities. How you prioritize.....
 Yeah. So, I think at NVIDIA, we have a big team of people who do actually all the
 work. I'm just a talking head. But I think I do two things, right? One is. I work with the
-leadership team on our strategy, how we actually approach this opportunity viaQ - Toshiya Hari
+leadership team on our strategy, how we actually approach this opportunity via
+Q - Toshiya Hari
 A - Manuvir Das
 Q - Toshiya Hari
 A - Manuvir Das
@@ -92,7 +94,8 @@ So basically you teach the model by giving it human-generated examples, right?
 Here is the photograph. I'm telling you there is a car in it. You know the photograph,
 I'm telling you that there is a dog in it, right? And so, humans have to go to the
 process of creating a lot of this data set that is fed into training and that creates a
-bottleneck and that creates this barrier-to-entry.Q - Toshiya Hari
+bottleneck and that creates this barrier-to-entry.
+Q - Toshiya Hari
 A - Manuvir DasAnd then the AHA was, this advent of unsupervised learning, which is if you think
 about it, a lot of how people learn to, right? You don't always learn just by sitting in a
 college and a professor is teaching you. You learn by just absorbing and what's
@@ -132,7 +135,8 @@ company, right? We work with the ecosystem. We very rarely produce direct
 solutions for the customer ourselves. Right, We encourage our ecosystem to do that.
 So often the conversation is that educate you on the landscape on the technology
 stack. And then, let's show you who you can work with to implement. Right. And
-we're underneath everybody.Q - Toshiya Hari
+we're underneath everybody.
+Q - Toshiya Hari
 A - Manuvir Das
 Got it. In terms of the long-term market potential for AI, it's extremely diﬃcult from
 where we stand in predicting how big this could be. And perhaps it's challenging for
@@ -171,7 +175,8 @@ forefront of that shift.
 So all our analysis of our market opportunity starts with that, that there's going to be
 this dramatic secular shift. We believe in it very strongly. Now we have the ultimate
 killer app for it, if you will, with generative AI and that is the beginning of our market
-opportunity.Q - Toshiya Hari
+opportunity.
+Q - Toshiya Hari
 A - Manuvir Das
 Q - Toshiya HariAnd then the other stuff, the numbers that we did, a lot of which is bottom-up is to
 ask ourselves, okay, if I break that down, how much of that is systems and hardware,
@@ -209,7 +214,8 @@ of enterprise. I'm sure there is a pretty broad range in terms of sophistication
 guys are doing quite a bit to democratize AI. I think you've got frameworks. You've
 got partnerships with the likes of Snowﬂake and VMware, Hugging Face, maybe talk
 about the significance of those partnerships and what you're doing to make it easier
-for your customers to deploy AI.A - Manuvir Das
+for your customers to deploy AI.
+A - Manuvir Das
 Yeah, this is the thingI work on and think about every day, Toshiya. I think there is a
 couple of different aspects of the democratizing, right? I think the first thing is we
 need to really understand the power of large language models or LLMs in
@@ -249,7 +255,8 @@ in your applications, well, what do you need? You need to be able to take model,
 in your briefcase and take it wherever your application is. That's what you need,
 right?
 You need this -- VMware called it the Private AI, but basically, how am I empowered
-so that if I just pick a model, I have the right run-time and I use all the tools right now.Q - Toshiya Hari
+so that if I just pick a model, I have the right run-time and I use all the tools right now.
+Q - Toshiya Hari
 A - Manuvir DasI already have a farm of servers deployed with VMware. My IT team already knows
 how to manage that, right, how to scale that, all of that, right?
 I work with people who do my big transformations and deployments. I have a
@@ -290,7 +297,8 @@ be the Scout team, right, and we established DGX with all these use cases and th
 helped the system manufacturers understand that this new computing model is
 actually interesting and there's a market here.
 And as soon as they realized there was a market, we actually took the secret sauce of
-DGX. We actually took the internals of it and we productized it into an engineeredQ - Toshiya Hari
+DGX. We actually took the internals of it and we productized it into an engineered
+Q - Toshiya Hari
 A - Manuvir Das
 Q - Toshiya Hari
 A - Manuvir Dassolution that we gave to the system manufacturer. And we said, you go sell your own
@@ -329,7 +337,8 @@ computing where all the system manufacturers, they have their mainstream product
 line and then they've -- eventually is the point where they have a product line for
 accelerated computing with NVIDIA. And the L40S is really saying those two worlds
 don't have to be separate worlds anymore. Your mainstream server line, every server
-can have a GPU in it. And that's why we think datacenters are headed.Q - Toshiya Hari
+can have a GPU in it. And that's why we think datacenters are headed.
+Q - Toshiya Hari
 A - Manuvir DasI want to say this, Toshiya, you know that, if you ask me what is the thing that makes
 NVIDIA special, okay, and how we build our GPUs, it's that we have one architecture.
 We have one programming model based on CUDA. And so what that means is that
@@ -371,7 +380,8 @@ Yeah. I think it's of course the hardware. We're very proud of our chips and we
 innovate on our chips in a very rapid fashion and we are standing on a body of work,
 right? It's the hardware we've developed over time, all the circuitry. But remember,
 we're 80% of software company and our software and hardware team work in
-conjunction, right? The reason why the H100 does what it does so well for deepQ - Toshiya Hari
+conjunction, right? The reason why the H100 does what it does so well for deep
+Q - Toshiya Hari
 Q - Unidentified Participant
 A - Manuvir Daslearning and for LLM inference is because the software team at NVIDIA is at the
 forefront of figuring out what I actually want that chip to do, right, which allows me to
@@ -410,7 +420,8 @@ responsible AI, I think is the thing, right? So, we're a platform company, right
 our job is to provide foundational technology. So, we think of this in two ways. Right?
 The first way is that from the point of view of companies who are deploying AI, how
 do we empower them to run AI in the way that they want to, right? So how do we
-make it portable?Q - Unidentified Participant
+make it portable?
+Q - Unidentified Participant
 A - Manuvir DasAnd this is why we produce the software stack that you can take with you, right? So
 you can run the AI in your building, on your premises. You have a compliance
 regime, right? Your data is sitting in certain places. So instead of making you come to
@@ -448,7 +459,8 @@ a company that thinks about, should I have 25% share of something or should I ha
 40% share of something. I think our view on this is very simple that most computers,
 servers and workstations going forward, we'll be in a position where they'll be used
 for inference. And we believe that we have been working on the best hardware and
-software stack for inference. And so, that's my answer to you.Q - Toshiya Hari
+software stack for inference. And so, that's my answer to you.
+Q - Toshiya Hari
 A - Manuvir Das
 Q - Toshiya Hari
 A - Manuvir Das
@@ -488,7 +500,8 @@ much more far-reaching effects, because all your workloads like data processing 
 you normally have been doing on traditional computing, are going to be
 accelerated dramatically.
 And in the same footprint, you're going to be able to do 10 times the amount of
-work, 100 times the amount of work that you could do in that existing footprintQ - Toshiya Hari
+work, 100 times the amount of work that you could do in that existing footprint
+Q - Toshiya Hari
 A - Manuvir Dastoday. And this is important not just for saving money, but for the energy footprint of
 the world. And so that's what we are on the cusp of and that's what we are truly
 excited about as NVIDIA, and that's what we see as the opportunity going forward.

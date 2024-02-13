@@ -24,7 +24,8 @@ probably since we've last discussed after Q3 earnings. Ada, Ada which is our
 architecture for our gaming platforms is off to a great start. We began earlier
 launching our 4090, launching our 4080, which is also becoming one of the most
 popular GPUs in retail, and we're here today to announce our RTX 4070 Ti version as
-well. So we're fairly pleased in terms of what we're seeing. But of course, our Adaarchitecture is leading and we are still working in terms of our inventory correction,
+well. So we're fairly pleased in terms of what we're seeing. But of course, our Ada
+architecture is leading and we are still working in terms of our inventory correction,
 which is going as expected right now.
 Secondly, we are focused on bringing to market a large lineup of new products,
 particularly in our datacenter, we have our Hopper architecture, working on for many
@@ -63,7 +64,8 @@ the other automotive companies that are really seeing the need of the digital tw
 the factories to find the perfect combination of how to run those factories very
 eﬃciently and using the AI. So those are some of the key highlights I wanted to start
 with. There's a couple other ones, but a really great show, and we're really pleased to
-be here in person.Harlan Sur
+be here in person.
+Harlan Sur
 Colette Kress
 And I appreciate that, Colette. Thank you for that. So I'll start-off with the first few
 questions and I'll certainly turn it over to the audience to see if you guys have any
@@ -105,7 +107,8 @@ opportunities of that ray tracing that really takes us into the workstations on 
 about the use of ray tracing and all of the work that they are doing.
 But then lastly, we're continuing a growth trajectory on our automotive business.
 Orin has been a home-run, both working in terms of that compute platform of many
-of the NEVs, but we also have an $11 billion pipeline moving forward and we're just atHarlan Sur
+of the NEVs, but we also have an $11 billion pipeline moving forward and we're just at
+Harlan Sur
 Colette Kress
 Harlan Surthat turning point that we could be getting to grow to a $1 billion business in our
 automotive realizing that potential of that $11 billion pipeline. But keep in mind, there
@@ -147,7 +150,8 @@ CapEx growth last year and the team has driven roughly about a 70% CAGR over the
 past three years, which is about 2x, the annualized growth rate relative to the cloud
 CapEx spending growth. Our hardware team is forecasting cloud CapEx spending
 still up high single-digits this year, but more of the spending is focused on strategic
-compute initiatives like accelerated compute, right?Colette Kress
+compute initiatives like accelerated compute, right?
+Colette Kress
 Harlan Sur
 Colette KressAnd so you combine this with the next-generation Hopper ramp, H100 ramp
 continued strong enterprise adoption, strong networking demand pool. History
@@ -190,7 +194,8 @@ so far with the H100 and how that compares to the A100 cycle?
 
 Yeah, each generation now of bringing our data center architecture to market has
 had more advancements and more connectivity with our customers. When we think
-about the work that we've done to bring this to market, it's not alone, it's with ourHarlan Sur
+about the work that we've done to bring this to market, it's not alone, it's with our
+Harlan Sur
 Colette Kress
 Harlan Surpartners, it is with our customers, and so much of the work and the anticipation of
 Hopper may have not been an excitement of here it is, because we've been working
@@ -234,6 +239,7 @@ track for sampling in the first-half and we'll bring this to market in the secon
 the year. This is an area where the design-wins of working with many of our
 customers, as they see this connectivity of putting the two products together to be
 great for their opportunities and we'll continue to work on that.
+
 Colette Kress
 Harlan SurLet's shift the focus over to gaming. Despite the challenging consumer market
 demand for the new Ada 40 series gaming products. The initial ones, the 4090,
@@ -275,7 +281,8 @@ enabling customers to come to market rapidly by developing full stack. We've
 always talked about the NVIDIA strategy as focused on ecosystem enablement,
 right? And a part of that is full stack development, turnkey solutions, managed
 services, you're monetizing your software platforms and you've got monetization
-opportunities across all of your end markets, right? The business is running.Colette Kress
+opportunities across all of your end markets, right? The business is running.
+Colette Kress
 Harlan SurI believe the software, services and ratable type of revenue streams, I think, is
 running in sort of low sort of $100 million sort of annualized run rate today, and
 you're now selling software separately, right? You've got NVIDIA AI enterprise,
@@ -317,7 +324,8 @@ In automotive, as you mentioned, team has an $11 billion design win pipeline tha
 expected to unfold over the next few years, but that business started to inﬂect pretty
 meaningfully in Q2 of last year. In fact, it's driving like 100% year-over-year growth. I
 think, this quarter driven by your Orin-based platforms, which are starting to ramp.
-You also still have in front of you the revenue-sharing opportunities with Daimler,Colette Kress
+You also still have in front of you the revenue-sharing opportunities with Daimler,
+Colette Kress
 Harlan Sur
 Colette KressJaguar Land Rover in front of you. How should we model -- think about the ramp into
 this $11 billion automotive pipeline over the next three to four years?
@@ -358,7 +366,8 @@ eﬃciency. What I mean that is, remember, we're essentially one architecture ac
 everything that we do. All of our software is both forward compatibility and
 backwards compatibility. So having that consistent unified architecture has really
 allowed the eﬃciencies and how we structure the organization as a whole. And in
-this environment, that is helping us fuel bring this stuff together. So we'll continue toHarlan Sur
+this environment, that is helping us fuel bring this stuff together. So we'll continue to
+Harlan Sur
 Colette Kress
 Harlan Surfocus on making the appropriate investments to bring these products to market, but
 we're always looking for new areas to find eﬃciencies.

@@ -20,7 +20,8 @@ Singapore; and our senior analysts average 20 plus years of buy and sell-side
 experience. And again, we're not a broker dealer, we don't provide buy, sell, hold
 recommendations, industry and company context.
 Specifically on the semiconductor industry, terminal users can explore Bloomberg
-Intelligence analysis of pressing industry themes, company issues, as well asJennifer Rieregulatory and IP trends, by typing in BI SEMI G. And we also have IDC data and
+Intelligence analysis of pressing industry themes, company issues, as well as
+Jennifer Rieregulatory and IP trends, by typing in BI SEMI G. And we also have IDC data and
 semiconductor data from SEMI, the industry trade body, on the dashboard.
 I thought we talk a few companies that are in the thick of anti-trust and/or litigation
 matters or undergoing some significant intellectual property issues, companies such
@@ -59,7 +60,8 @@ to the way they license their standard essential patents, and so that's pretty m
 finished. Now, these investigations are intrusive, they're a distraction, but at the end
 of the day, I really only see one potentially having any kind of real impact on the
 company and that would be in Europe -- by the European Commission. So let's talk
-about what's going on there first. Now, what the European Commission has done isrecently sort of formalized an investigation of two different kinds of anti-trust
+about what's going on there first. Now, what the European Commission has done is
+recently sort of formalized an investigation of two different kinds of anti-trust
 conduct. The first one is an older investigation that's been kind of lagging, it's been
 around for a few years. It started with some customer complaints related to chipsets
 that comply with 3G standards for mobile phones.
@@ -101,7 +103,8 @@ a percentage between 5% and 30% of the sales of the products for which the wrong
 doing is directed. And they look at the severity of the antitrust defense. And in this
 case exclusive dealing is considered sort of on the less severe side of antitrust
 conduct. So you'd probably be looking at something below 10%. In Intel's case, they
-took 5%. They multiply that percentage of sales by the number of years theAnand Srinivasan
+took 5%. They multiply that percentage of sales by the number of years the
+Anand Srinivasan
 Jennifer Rie
 Anand Srinivasan
 Jennifer Rie
@@ -139,7 +142,8 @@ discussions to make license agreements for. But let's say -- and also there is p
 change of business practices, but it also has a broader impact on the industry.
 Matt, can you talk a little bit about what the NDRC's settlement does from an
 intellectual property perspective? Does it provide a framework for other companies
-to stay out of its cross hairs?Matt Larson
+to stay out of its cross hairs?
+Matt Larson
 Yeah, certainly. The NDRC settlement is interesting in a couple of different ways. It
 certainly provides a roadmap to -- for companies like Qualcomm who are looking to
 license their standard essential patents in China.
@@ -179,7 +183,8 @@ guide post in the NDRC settlement.
 And the third point that I think is worth raising about standard essential patent
 licensing out of this Qualcomm-NDRC settlement is the fact that companies are no
 longer allowed to bundle their standard essential patents with their non-essential or,
-we'll call them their "Cadillac" patents in these licensing deals. So if I've gotAnand Srinivasan
+we'll call them their "Cadillac" patents in these licensing deals. So if I've got
+Anand Srinivasan
 Matt Larsontechnology that covers Wi-Fi standards. I have to license those separately than the
 bells and whistles that I have in my patent portfolio. What companies are previously
 doing is lumping them all together and generating a premium on licensing the
@@ -218,7 +223,8 @@ China the introduction of intellectual property and strict enforcements and
 recognition of intellectual property is a developing area of law in China, there the
 bulk of their patent protection has been introduced as the globalization of their
 economy has come up, it's a developing area where you contrast that with the US,
-intellectual property is baked into the constitution, the holding of private propertyAnand Srinivasan
+intellectual property is baked into the constitution, the holding of private property
+Anand Srinivasan
 Jennifer Rierights and ability to monetize those has always been a central factor to the US
 governments and US markets, whereas China is just now getting up to speed. I read
 somewhere that someone called China's patent system a vibrant yet ﬂawed system.
@@ -260,7 +266,8 @@ competition.
 And so, we have to continue to see how this develops. But if this is how we're
 viewing it now and the approach that might be taken, and what we have to expect is
 that the industrial areas where the Chinese anti-trust enforcers are going to be
-looking at, is where they have the most robust domestic industry. And that's a bit ofAnand Srinivasan
+looking at, is where they have the most robust domestic industry. And that's a bit of
+Anand Srinivasan
 Jennifer Rie
 Anand Srinivasan
 Matt Larsonwhat we've seen, we've seen them active in tech, in software, electronics, auto parts
@@ -300,7 +307,8 @@ with the intent purpose of excluding your competition from using that technology
 You came up with the secret sauce, you want to use that in your products, you don't
 want anybody else to use it or misappropriate it, you want to reap the benefit of
 being able to sell as much of that widget as you can. That's kind of the traditional
-defensive portfolio, and that's why companies will invest in R&D, they'll have theirAnand Srinivasan
+defensive portfolio, and that's why companies will invest in R&D, they'll have their
+Anand Srinivasan
 Matt Larsoninventors submit disclosures to the lawyers, who then protect the stuff that's getting
 incorporated in the products. That's a strong defensive portfolio.
 On the other side, companies are starting to look at these massive investments, not
@@ -341,7 +349,8 @@ Long story short, Carnegie Mellon went after Marvell in a patent infringement su
 wound up steamrolling Marvell in the trial. Post-trial, there were some additional
 damages that were tacked on. And when the dust settled, Marvell was looking at a
 $1.5 billion verdict and judgment against them. Marvell obviously didn't pay, they
-had the opportunity to appeal and question some of the findings that the DistrictAnand Srinivasan
+had the opportunity to appeal and question some of the findings that the District
+Anand Srinivasan
 Matt LarsonCourt had made that, the jury had implemented and try to pick the judgment apart a
 little bit.
 One of the -- a couple of the grounds that they were looking at, the jury awarded
@@ -380,7 +389,8 @@ you won't be able to enforce it. Is that a fair characterization?
 
 That's a fair character as a notion of extra territoriality that US patents protects under
 US law. And so there is a question of how far the contacts to foreign jurisdiction have
-to be before you really escape the long arm of the law, so to speak.Anand Srinivasan
+to be before you really escape the long arm of the law, so to speak.
+Anand Srinivasan
 Matt LarsonAnd so, that's -- it's an interesting question in this case, it's a close call, Carnegie
 Mellon presented the argument that because all the design occurred here, because
 it's basically everything happened in the US and then they shipped the designs
@@ -418,7 +428,8 @@ Samsung that uses graphics technologies from some of NVIDIA's major competitors.
 You've got Samsung sourcing graphics from Qualcomm, from ARM and from
 Imagination. And so NVIDIA by going after Samsung of Galaxy devices and similar
 devices is able to generate revenue from three of its graphics competitors in an area
-where they're not operating.Anand Srinivasan
+where they're not operating.
+Anand Srinivasan
 Jennifer RieSo they approached Samsung, licensing negotiations broke down, and, as usually
 happens after companies have reached a standstill, litigation ensued. They are going
 after each other fairly aggressively looking to resolve the dispute on a pretty short
@@ -458,7 +469,8 @@ competitive overlap between these companies, to create issues for anti-trust
 regulators. And I think sometimes when we see a statement that there's an anti-trust
 problem, it's really just getting confused with where they may have an issue in the
 US, which is in front of the Committee on Foreign Investments in the United States,
-and that is often called CFIUS.Anand Srinivasan
+and that is often called CFIUS.
+Anand Srinivasan
 Matt Larson
 Anand SrinivasanCFIUS is an executive branch organization which is charged with identifying potential
 national security risks posed by foreign acquisitions of US businesses. This
@@ -501,7 +513,8 @@ property assets that could be leveraged by a potential buyer.
 Got it. Thank you. And we're getting to the end of our sort of the CAN discussion, if
 you may. But I did have one question. Jen, why is there a pylon effect from a
 regulatory viewing of a particular company, one regulator in one region looks at
-Qualcomm. And then before you know it, by the time they have reached theirJennifer Rie
+Qualcomm. And then before you know it, by the time they have reached their
+Jennifer Rie
 Anand Srinivasan
 Matt Larson
 Anand Srinivasansettlement, four other regulatory agencies have started looking at it. No fair, right?
@@ -540,6 +553,7 @@ the actual terms of agreements where -- whereas others are a little bit more han
 off or parties will differ to court system to actually get the details nailed down. But
 you're seeing a little bit of variability just because of those differences and patent
 law and approaches to how to resolve the disputes.
+
 Matt Larson
 Anand Srinivasan
 Jennifer Rie
@@ -580,6 +594,7 @@ be filed with antitrust authorities and the authorities given chance to review, 
 have to usually reach certain thresholds; they have to be of a certain size or a certain
 amount of assets within those countries or certain amount of sales in those countries.
 And so, it just depends where the products in question are being sold.
+
 Matt Larson
 Anand Srinivasan
 Matt Larson
@@ -620,7 +635,8 @@ different industries and areas in antitrust and they sort of move... there are d
 times when their focus moves... they focused a lot recently at healthcare industry. But
 at an event in April with anti-trust enforcers from all over the world and FTC
 enforcers speaking on panels, one of the things they said is that they are moving into
-looking at standard essential patents and they're making that a priority.Matt Larson
+looking at standard essential patents and they're making that a priority.
+Matt Larson
 Anand SrinivasanAnd I think that, that tells us that any company that owns and licenses standard
 essential patents, it's going to kind of come under the looking glass by the US FTC
 going forward in the next couple of years. They made it really clear that. This is

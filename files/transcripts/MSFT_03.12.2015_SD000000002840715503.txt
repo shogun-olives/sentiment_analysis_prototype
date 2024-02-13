@@ -20,6 +20,7 @@ your cloud, some of it in my cloud. It all works together.
 If we could maybe just get you to talk a little bit about Azure, what is Microsoft doing
 in the cloud. And give us a bit of a competitive assessment and differentiation, that
 would be a good place to start.
+
 Absolutely. First, I want to thank you for having us. This is an exciting first event. And
 so we want to really thank you for letting us participate.
 There was a lot of detail built into that lead-up that you said. So I think it would be
@@ -59,7 +60,8 @@ about that. They want to have their cloud provider in their geography, in their 
 for multiple reasons, from a data sovereignty standpoint, geopolitical reasons. But
 also just from a practicality of an end-user experience standpoint. You can't really
 change the speed of light. And so you want to have the proximity of the cloud
-service close to your customers and ultimately their customers.Rick Sherlund
+service close to your customers and ultimately their customers.
+Rick Sherlund
 Mike SchutzIn order to do that, we've invested significantly in building out this global
 infrastructure to power our cloud service. And so you have seen us do that over the
 last several years, increasing our footprint into regions like Australia, into China. We
@@ -96,7 +98,8 @@ number of customers that start with Infrastructure-as-a-Service.
 We don't view that as the destination. We believe that Infrastructure-as-a-Service is a
 great place to start. It's easy for customers to get started there because they
 understand, because of virtualization, the concept of taking a virtual machine and
-putting it in the cloud and running it that way.Rick Sherlund
+putting it in the cloud and running it that way.
+Rick Sherlund
 Mike SchutzOne of the things that our customers are finding with Infrastructure-as-a-Service is
 while it's great for certain workloads, it still inherits some of the same complexity that
 running virtualization on premises does. You still have to manage the operating
@@ -135,7 +138,8 @@ we're moving the complexity of managing all the underlying parts, see tremendous
 benefit and particularly agility that they get from -- for the development
 organizations to be able to respond to the business more rapidly, because Microsoft
 is taking and managing that underlying stack from the app down instead of from the
-operating system down.Rick Sherlund
+operating system down.
+Rick Sherlund
 Mike Schutz
 Rick SherlundFrom an offering standpoint, we believe we have a more mature offering in Platform-
 as-a-Service. In addition, because of what you mentioned in terms of the footprint
@@ -172,6 +176,7 @@ It is extremely powerful. They used to take months to do a proof of concept now 
 can do in days. It's the agility for them to respond to the needs and feedback they're
 getting from their customers, it's just tremendous. And that's largely powered by the
 eﬃciency they can get from the cloud and Platform-as-a-Service.
+
 Mike Schutz
 Rick SherlundIs the market ready, I think, to build new things on Azure or are they going to move
 existing things over? And if they are going to build new, would they pick the .NET
@@ -207,7 +212,8 @@ earnings and you see that, well, you are cannibalizing some of your business. Bu
 they sort of have to do it because that's where the market is going.
 But I hear really good things from Silicon Valley about Microsoft in the cloud. It
 seems like Azure is a product that people respect and I think your ability to support
-open standards takes people by surprise because it's not the history of Microsoft.Mike Schutz
+open standards takes people by surprise because it's not the history of Microsoft.
+Mike Schutz
 Rick Sherlund
 Mike Schutz
 Rick SherlundBut I guess to that degree that you are supporting open standards, you can appeal
@@ -245,7 +251,8 @@ that's an interesting environment.
 Now you own your own data centers. I have asked Oracle, don't you need to own
 your own data centers? And they argue, no, no, we can just use colocation, which a
 lot of the SaaS industry uses. But they will be a competitor in infrastructure and PaaS
-as well.Mike Schutz
+as well.
+Mike Schutz
 Rick Sherlund
 Mike Schutz
 Rick Sherlund
@@ -281,7 +288,8 @@ Amazon, I was at their re:Invent conference in Vegas in November and they
 announced the SQL relational database. But I don't typically think of them as being --
 having as much of a platform. They will give you SQL Server, Oracle database. But
 you own it and run it, right? Do you see them coming up with more and more of
-their own platform and trying to be a broader Platform-as-a-Service vendor?Mike Schutz
+their own platform and trying to be a broader Platform-as-a-Service vendor?
+Mike Schutz
 Rick Sherlund
 Mike Schutz
 Rick Sherlund
@@ -319,7 +327,8 @@ very, maybe, high I/O on the other. And so it's provides us a great diversity of
 applications to be able to learn and build the best platform so that when our
 customers want to put their applications in our cloud, we can do that.
 It also does provide us those economies of scale that come with deploying that
-really broad global infrastructure.Rick Sherlund
+really broad global infrastructure.
+Rick Sherlund
 Mike Schutz
 As you go out to the market, if everyone is already running your technology in their
 business, which almost everybody is. And to the degree that you give them some
@@ -357,7 +366,8 @@ and what's running in the cloud.
 Storage is one. We have never really been able to monetize storage in the past. But
 yet that's an area where we are able to think about it now. And again another
 example of how Azure is incremental to the existing Windows Server and System
-Center and business on premises.Rick Sherlund
+Center and business on premises.
+Rick Sherlund
 Mike Schutz
 Rick Sherlund
 Yes, I think your business is growing over 100% a year. But Amazon, obviously they
@@ -394,7 +404,8 @@ customers to our premium services is very key to what we are (multiple speakers)
 
 It could be it is not that customers don't care about price; it is just that everyone is
 the same, right, in this market. Now the market is pretty eﬃcient in pricing the
-storage and compute.Mike Schutz
+storage and compute.
+Mike Schutz
 Rick Sherlund
 Mike Schutz
 Rick Sherlund
@@ -434,7 +445,8 @@ Company, SaaS apps. So whether that be Salesforce or Oﬃce 365, CRM, Box,
 Concur, or Workday, you have it, users are bringing their own cloud. And therefore
 the intersection of cloud-based SaaS applications and mobility presents a real
 challenge for IT from a security perspective in helping end users be productive from
-anywhere.Rick Sherlund
+anywhere.
+Rick Sherlund
 Mike Schutz
 Rick Sherlund
 Mike Schutz
@@ -471,7 +483,8 @@ So you would say that relative to the other EMM vendors, you don't see a
 competitive disadvantage being at Microsoft trying to support those platforms.
 
 No. We have had a great success with Intune as it has matured through the years to
-be able to now expand the offering to Android and iOS.Rick Sherlund
+be able to now expand the offering to Android and iOS.
+Rick Sherlund
 Mike Schutz
 Rick Sherlund
 Mike Schutz
@@ -508,7 +521,8 @@ security element, there is a privacy element. And then there is a compliance ele
 And so from a security standpoint, we are very focused on providing not just the
 underlying security of the platform. But also the tools so that organizations can own
 their own encryption keys, as an example, like who has access to their data. And so
-by offering a service that we call Key Vault, a customer can bring their own key andRick Sherlund
+by offering a service that we call Key Vault, a customer can bring their own key and
+Rick Sherlund
 Mike Schutzwe don't have access to that key. And so they can actually help ensure that the data
 is encrypted and that they manage their own key. So that is one example of some of
 the security capabilities we are providing.

@@ -6,7 +6,8 @@ Questions And Answers
 So, why don't we just start Yusuf with a little bit of your background and your role at
 Microsoft as Chief Marketer for the Consumer?
 
-Yeah. Great.A - Yusuf Mehdi
+Yeah. Great.
+A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
@@ -46,6 +47,7 @@ on with that.
 Wonderful. Wonderful. And we'd love to get your -- your comments on the OpenAI
 partnership and the integration there with Bing, and in general across Microsoft, if
 you could.
+
 Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
@@ -86,7 +88,8 @@ Sure, yeah. At the time we were essentially were running on an early version of 
 we had more advanced results and people were asking why your result is so great.
 It's because we had been working on an early version. So that's what we were
 referring to, OpenAI confirmed that about a month or so later after they announced
-it.Q - Bradley Sills
+it.
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
@@ -125,7 +128,8 @@ applied it to our search ranker. And for those of you who follow Search closely,
 improvements in search ranking is very tough, it's been 20 years for us and Google.
 The largest increase I think in at least a decade if not longer came after we applied
 the AI sort of techniques to the search ranker. And so, now our results, I would say
-rival Google's results in terms of relevancy.Q - Bradley Sills
+rival Google's results in terms of relevancy.
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf MehdiInteresting. Okay. Great. And you demoed some new use cases when you rolled-out
@@ -165,7 +169,8 @@ the AI. That's a very unique thing that we can do.
 And then thirdly, we -- because we're more of a challenger or if you will, we have
 smaller share, we're very focused on the new emerging customer needs and we can
 take more, we can take more steps to be innovative. So, the user experience that
-we've done with chat, what we're doing with Search on the search page itself, andQ - Bradley Sills
+we've done with chat, what we're doing with Search on the search page itself, and
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
@@ -206,7 +211,8 @@ million. We were sort of on that -- we were on a path of growth, but that has ce
 picked up since we launched the new Bing. Likewise, our Edge browser has been
 growing share for the last eight quarters in a row, that's continued. If anything, we
 see when people use the new Edge with chat, they spend more minutes on it, and
-they use it even more.Q - Bradley Sills
+they use it even more.
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
@@ -243,7 +249,8 @@ we do a lot of training to protect against sort of bad actors. We don't want peo
 use the AI to cause harm, self harm and harm in otherwise sort of bias against
 people.
 So, there's a lot of work that has been put in between ourselves and OpenAI to make
-sure we have really an inclusive and equitable solution.A - Yusuf Mehdi
+sure we have really an inclusive and equitable solution.
+A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
@@ -281,7 +288,8 @@ where you can essentially create images, just by typing in words. So you can say
 for example I've used this, I'm doing a home remodel design, so I've said, help me
 design a mid-century modern living room that has brass and wood and whatever,
 and it will come back with a picture. And then I could say, oh hey, make that
-rounded, and let's change the color from black to white, and they can do that.Q - Bradley Sills
+rounded, and let's change the color from black to white, and they can do that.
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley SillsIt's an incredible thing. Since we've launched that, we've had hundreds of millions of
 people -- images now created, and it's probably one of the most exciting features
@@ -320,7 +328,8 @@ and the PC business? What are some of the key focus areas for consumer in the
 roadmap for Windows?
 
 Yeah. Windows broadly?
-Yeah, please.A - Yusuf Mehdi
+Yeah, please.
+A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
 Yeah. So, couple of different things, so I'll just start and just kind of give an update on
@@ -360,7 +369,8 @@ the individual messaging.
 That's great.
 
 And then most recently the AI has now come in. And so, we announced at Build two
-weeks ago, Windows Copilot. Windows Copilot is essentially powered by Bing, soQ - Bradley Sills
+weeks ago, Windows Copilot. Windows Copilot is essentially powered by Bing, so
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
@@ -398,7 +408,8 @@ focus on the product line? Anything on the roadmap there as well, yeah, please?
 
 Yeah. So we're -- we're really focused on the core of our Surface portfolio, which is
 primarily the Surface laptop and the Surface Pro, our two-in-one. You know, the
-Surface Pro continues to be really an unrivaled and unique product on theQ - Bradley Sills
+Surface Pro continues to be really an unrivaled and unique product on the
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
@@ -436,7 +447,8 @@ Great, great. I think you're also -- you have responsibility [ph] for Skype.
 Yes.
 Okay. Great. And there's clearly an investment being made there. Any commentary
 on where those key investment areas are for Skype, and how does that fit into the
-broader consumer portfolio?A - Yusuf Mehdi
+broader consumer portfolio?
+A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
@@ -477,6 +489,7 @@ Wonderful. And maybe just a higher-level question. When you think about the
 Microsoft brands, again, a lot of enterprise association, how does that benefit
 Microsoft in the consumer with Windows PCs and some of the other offerings you
 talked about?
+
 Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
@@ -515,7 +528,8 @@ on your PC, and games on the console. Historically those have been three differe
 worlds, and frankly different audiences. We -- our vision for Xbox is that you should
 be able to play the games you want, with the people you want, on the devices you
 want. And so what we've done is, we've built much more of a cloud gaming solution
-that can now work across all those devices.Q - Bradley Sills
+that can now work across all those devices.
+Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
@@ -554,7 +568,8 @@ to build sort of digital twins, if you will. And so, yeah, I think there's a lot
 there.
 Wonderful. We're running short on time here. But, any other comments Yusuf that
 you'd want to make, any kind of closing comments on kind of the state of the
-Microsoft consumer brand across multiple franchises?A - Yusuf Mehdi
+Microsoft consumer brand across multiple franchises?
+A - Yusuf Mehdi
 Q - Bradley Sills
 A - Yusuf Mehdi
 Q - Bradley Sills

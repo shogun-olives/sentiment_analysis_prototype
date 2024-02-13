@@ -20,7 +20,8 @@ and you can grab one and then you'll want to hand it to Lisa Brenten from
 Computershare.
 Tesla's Board of Directors has appointed Lisa to serve as Inspector of Elections for
 this meeting. She has taken and signed an oath as Inspector of Election.
-Computershare has certified that, starting on April 20, 2017, the proxy materials or aAeisha Mastagninotice of Internet availability of the proxy materials were mailed or provided to all
+Computershare has certified that, starting on April 20, 2017, the proxy materials or a
+Aeisha Mastagninotice of Internet availability of the proxy materials were mailed or provided to all
 stockholders of record as of April 13, 2017.
 We have a majority of the outstanding shares represented at the meeting. So there's
 a quorum present and we can proceed with the meeting. The items on the agenda
@@ -61,7 +62,8 @@ on increasing shareholder value. Moreover, academic studies have found that
 classified boards are associated with lower firm value, poor pay for performance.
 And greater likelihood of value-destroying acquisitions.
 Classified boards are increasingly rare, especially among larger companies.
-Accordingly to the 2017 ISS Board Practices Study, over 65% of S&P 1500 companiesTodd A. Maron
+Accordingly to the 2017 ISS Board Practices Study, over 65% of S&P 1500 companies
+Todd A. Maron
 Elon R. Muskand almost 90% of S&P 500 companies elect all directors annually. Tesla's board has
 changed little since it went public. Founder Elon Musk's brother, Kimbal Musk, serves
 on the board, as do 3 directors with business ties to Elon Musk. Only 1 of those
@@ -99,7 +101,8 @@ adjourned. We can now move on to Elon's presentation, which I promise you, will 
 more interesting.
 
 Hi, everyone. Well welcome. I'm glad to see you, too. I always love these shareholder
-meetings. I mean, I tell people I like doing the shareholder meeting and it's like,man, it always feels like a party and I love seeing you guys. And it's like -- and they're
+meetings. I mean, I tell people I like doing the shareholder meeting and it's like,
+man, it always feels like a party and I love seeing you guys. And it's like -- and they're
 like, "Really? That's not like normal shareholder meetings."
 So I want to go through the kind of a high-level overview. I think it's been a really
 great year for Tesla and I think there's even better years to come. And so I'm going
@@ -139,7 +142,8 @@ you're driving down the road. You're like, whoa, they're not good.
 So this is a roof that's going to be better-looking than a normal roof. It's going to last
 practically forever. Like, I wanted to have an infinite-year warranty. But then the
 finance department said, "Well that's diﬃcult to account for." So I said, "Well okay. It's
-infinite or when your house falls down, whichever comes first." You'll get the bestrequest. [ph] But basically, it's going to last forever. You think of it like a cathedral
+infinite or when your house falls down, whichever comes first." You'll get the best
+request. [ph] But basically, it's going to last forever. You think of it like a cathedral
 with stained glass windows. Those stained-glass windows are about the only thing --
 and the stone walls -- the only thing that's lasted over half a millennium.
 So great-looking, durable, affordable when you consider the cost of a roof and the
@@ -178,7 +182,8 @@ important that there be batteries to load-level the grid and enable a full trans
 sustainable energy.
 So the -- and then it has a great advantage, which, I think it's this kind of thing where
 only you really notice it when the power is out. Like, if there are frequent power
-outages because a substation went down or a bird ﬂew into wires, or in many partsof the world, power is intermittent and they have to have generators, which run on
+outages because a substation went down or a bird ﬂew into wires, or in many parts
+of the world, power is intermittent and they have to have generators, which run on
 very expensive diesel fuel. But even here in California, we know we're due for the big
 one, that it's been saving up. So there's going to be earthquakes in California.
 There'll be hurricanes in the Southeast. There'll be ice storms in the Northeast.
@@ -217,7 +222,8 @@ well.
 So you can see your energy usage during the day. So you can tell if maybe you
 should be turning off certain devices or reprogramming your air-conditioning
 system. And it gives you a good idea of, like, where you're using power that you may
-not even realize that you're using.And if you are drawing energy from the grid, it'll tell you how much energy you drew
+not even realize that you're using.
+And if you are drawing energy from the grid, it'll tell you how much energy you drew
 from the grid and how much you powered yourself. So I think it's -- and this
 functionality is just going to get better and better. This is what's working today. So
 this is not speculative. This is the current app that does this.
@@ -256,7 +262,8 @@ exceeding the ability of the Hardware 1 cars.
 So Hardware 2 cars have all of the hardware necessary for full autonomy. So 8
 cameras, 12 of the most advanced ultrasonic sonar sensors, a radar, a very good GPS,
 an IMU. And everything necessary to go full autonomy. It's really about upgrading
-the software over time.So I think with the next release of the software, which is maybe as soon as next week,
+the software over time.
+So I think with the next release of the software, which is maybe as soon as next week,
 we will finally exceed the experience of the Hardware 1 cars and then it's going to
 advance very rapidly from there. And our goal remains being able to drive
 autonomously from a parking lot in California to a parking lot in New York without
@@ -294,7 +301,8 @@ And we've shown it to a number of the organizations that buy heavy-duty trucking
 and they all love it. And they just want to know how many can they buy and how
 soon. It's like, cool.
 And we're involving them in -- thank you. And we're getting them closely involved in
-the design process. So the biggest customers of the heavy-duty Tesla semi areUnidentified Participant
+the design process. So the biggest customers of the heavy-duty Tesla semi are
+Unidentified Participant
 Elon R. Musk
 Unidentified Participant
 Elon R. Muskhelping ensure that it is specified to their needs.
@@ -326,7 +334,8 @@ Maybe. Could be. Who knows?
 Model 3 configurator. So we expect that configurator to go live towards the end of
 next month when we deliver the first production Model 3. So yes, we're definitely on
 track to deliver the first production Model 3 next month. That's going to be really
-exciting. Then we'll have the configurator go live right at that point.Now I should say that the -- we've kept the initial configurations for Model 3 very
+exciting. Then we'll have the configurator go live right at that point.
+Now I should say that the -- we've kept the initial configurations for Model 3 very
 simple. This is critical to achieving a rapid production ramp. Big mistake we made
 with the X, which primarily is my responsibility, way too much complexity right at the
 beginning. That was very foolish.
@@ -364,7 +373,8 @@ maybe as much as 20.
 How long of a wait will it be for customers wanting Model 3 who haven't placed a 1k
 deposit? This will be a long wait. There's a lot of people that have ordered the car.
 I'm guessing if you put a deposit down on Model 3 now, it's probably -- well, it's
-going to be over a year, end of next year before you get it, something like that.On the other hand, we -- there are more and more deposits every week. So if you
+going to be over a year, end of next year before you get it, something like that.
+On the other hand, we -- there are more and more deposits every week. So if you
 want it, then definitely, put down the deposit. The line isn't getting shorter.
 We're doing our best to do this ramp -- we got to do the ramp right. We got to make
 sure the quality is good, the safety is good.
@@ -402,7 +412,8 @@ bells and whistles, it's still going to be our premium car. But anyway. So used 
 going to get a lot more attention on our website. And yes.
 And so what changes are being made to address safety? So this is something we're
 driving really hard on every week, being with the safety team every week to say, what
-can we do to make it better? And like I said, I think we're well on our way to havingan injury rate that is half that of the rest of the auto industry and way better than any
+can we do to make it better? And like I said, I think we're well on our way to having
+an injury rate that is half that of the rest of the auto industry and way better than any
 other car company.
 A key change that was actually already made late last year was having 3 shifts instead
 of 2. So the -- a lot of the injuries would happen when somebody whose -- had like a
@@ -438,7 +449,8 @@ the car. It actually helps if you do have a collision with another car.
 Then we -- the hood is designed to be like a sort of trampoline. Now, it's not the
 funniest trampoline. But again, there's no big engine block that you're going to hit.
 So you can sort of -- if you do hit a pedestrian, the -- it's not a good time. But the --
-essentially, the spring effect of having a hood that doesn't impact a big steel engineblock is -- really makes a big difference to the lives of a pedestrian if one is hit. So
+essentially, the spring effect of having a hood that doesn't impact a big steel engine
+block is -- really makes a big difference to the lives of a pedestrian if one is hit. So
 yes.
 Will we offer a package deal? Well I guess effectively, when you consider the
 installation cost of the roof, the Powerwall and the home connector -- technically, it's
@@ -477,7 +489,8 @@ you're ordering something from Amazon or Apple or whatever. Just go on the
 website and order it and it shows up. It's like that. Then we'll take care of service.
 Really? Some of these questions, by the way, I'm seeing as you are seeing them.
 What do I do for relaxing? Well it may not shock you but sports is not like a thing that
-I do a lot of. I do listen to music, particularly in the car. And in terms of the musicselection, I think there's going to be some exciting announcements in terms of how -
+I do a lot of. I do listen to music, particularly in the car. And in terms of the music
+selection, I think there's going to be some exciting announcements in terms of how -
 - the music selection. I think it's very hard to find good playlists or good matching
 algorithms. We have something that works okay right now. But I think it could work
 really, really great, yes.
@@ -513,7 +526,8 @@ Gigafactory just to allow for Model 3 expansion.
 So how do I allocate my time across several companies? Yes. So I think it's very
 important to appreciate that tweet frequency does not -- there's no correlation with
 what I actually do for a work basis. It's like I might tweet a lot about like The Boring
-Company, which is basically a hobby. It's like, I wouldn't even call that a realcompany at this point. It's got like 3 people, some interns and some part-time
+Company, which is basically a hobby. It's like, I wouldn't even call that a real
+company at this point. It's got like 3 people, some interns and some part-time
 people. We're making pretty good progress for all that. But like that's just kind of like
 a fun thing to do, where there's like no pressure. Everyone thinks it's going to fail. So
 it's like okay, can only go up from there. So it's like low expectations are great.
@@ -551,7 +565,8 @@ they will be a little lower power. But in between a high-power Supercharger, whi
 optimized for long-distance trips. But more power than would typically be found in a
 home garage. So wherever their car is being parked, whether it's at the apartment or
 work or somewhere in between, we're going to make sure that there's a place to
-charge their car, even if you live in an apartment.OperatorOne of the key things for apartments is to manage the power. And so if you've got a
+charge their car, even if you live in an apartment.
+OperatorOne of the key things for apartments is to manage the power. And so if you've got a
 lot of cars parked in your garage and you have to design the system to handle a
 hypothetical case, where all cars are drawing maximum power at the same time, then
 you need a crazy amount of power. So it's important to have a system that load levels

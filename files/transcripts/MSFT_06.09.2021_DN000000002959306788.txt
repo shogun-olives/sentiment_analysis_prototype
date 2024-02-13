@@ -19,7 +19,8 @@ benefits, performance and development and then HR business insights. And I think
 of my role as an important part of the HR function, that's really thinking about the
 overall employee experience, and trying to ensure that Microsoft is an exceptional
 place to work. So I work with my colleagues across HR to think about how we bring
-our programs and services together, to make sure that they really support ourQ - Josh Baer
+our programs and services together, to make sure that they really support our
+Q - Josh Baer
 A - Kristen Roby Dimlowemployees, so that we -- our goal is that we empower our employees so they can
 empower the planet.
 
@@ -62,7 +63,8 @@ weeks grace period. Many of our parents with younger age, school age children
 were really struck by surprise that the kids were also at home. So they were trying to
 work from home, teach from home.
 And so, we very quickly put together pandemic support globally, a pandemic leave.
-Also as things were on into the summer time, we and realize that schools were goingQ - Josh Baer
+Also as things were on into the summer time, we and realize that schools were going
+Q - Josh Baer
 A - Kristen Roby Dimlow
 Q - Josh Baer
 A - Kristen Roby Dimlowto come back necessarily, particularly in the United States, we put together resources
@@ -103,6 +105,7 @@ collaborate on work in those sorts of things.
 Great. And you also mentioned about your ability to get some of the data and
 insights. So like what was the feedback from customers on that experience. Like,
 what was the good, what was the bad.
+
 Q - Josh BaerYeah, I think, so the customers I think, I'm not for external customers, I'm probably
 not the expert on this. But my sense is that we were very engaged with what was
 going on. I heard amazing stories about people actually sleeping in datacenters in
@@ -143,7 +146,8 @@ Great. Wanted to just take a moment for any investors listening in. There is the
 to ask questions on the quarter. We'll also try to get to those. So now, Kristen, I
 wanted to shift a little bit into ask a few on culture. From my seeing on the software
 team, we've been really watching the culture changed under Satya for years. And it's
-been a shift more to innovation and openness both with technology and partnership.A - Kristen Roby DimlowAnd so I'm wondering from your perspective, how has culture evolved over your
+been a shift more to innovation and openness both with technology and partnership.
+A - Kristen Roby DimlowAnd so I'm wondering from your perspective, how has culture evolved over your
 career at Microsoft and how are you able to maintain that culture through the
 pandemic?
 
@@ -185,7 +189,8 @@ And I think the thing that Satya said that was great is, there is sort of this i
 espoused culture and espoused values and we want to make sure that our group
 experience is close to that, that we're closing the gap on those things. And so there
 is real focus. In my own world, I spent a lot of time thinking about my programs and
-services and how I can support the culture. So a really big one is performance andQ - Josh Baerdevelopment. And probably about 6 years ago, right about all this time that this was
+services and how I can support the culture. So a really big one is performance and
+Q - Josh Baerdevelopment. And probably about 6 years ago, right about all this time that this was
 happening, we shifted the performance and development approach from sort of a
 monolithic annual review process to something that's more agile, where we do sort
 of three to four connects a year, where manager and employee get together.
@@ -224,7 +229,8 @@ That's great. Want to ask one more on culture as well. I'll ask a few on the fut
 work and then pass it over to Mark. So on sticking to culture for a moment and over
 the last 15 months as you've been hiring and on boarding employees. How do you
 keep that company culture that you've been describing when a lot of teams haven't
-even met the people in person?A - Kristen Roby Dimlow
+even met the people in person?
+A - Kristen Roby Dimlow
 Yes. This has been one of the happiest surprises to me about COVID. So I was
 stunned to see data, that new employees are saying they basically are reading their
 experience with our managers on, on-boarding higher post pandemic when
@@ -264,7 +270,8 @@ engagement, and also when you're thinking about attracting talent today, it's no
 interested in compensation and benefits. They care a lot about the companies they
 work for. And they really are looking for companies that are sincerely behind what
 they say, so not just what they say. But what they do on these matters.
-So I get long winded, sorry.Q - Josh Baer
+So I get long winded, sorry.
+Q - Josh Baer
 A - Kristen Roby Dimlow
 No. Very interesting. And I know Mark has some follow-ups on diversity and
 inclusion. Just wanted to round out the conversation on the future of work for
@@ -305,7 +312,8 @@ and walking down the hall, grabbing a whiteboard work on a problem.
 And so our Teams team is looking a lot at the future of work and trying to enable sort
 of those virtual rooms. We have whiteboards and things like that, we have work to do
 to make them even better. And then, even just thinking about meeting protocol, so
-when we return and some people will be in a conference room, how do we makeQ - Josh Baer
+when we return and some people will be in a conference room, how do we make
+Q - Josh Baer
 A - Kristen Roby Dimlow
 Q - Josh Baer
 Q - Mark Carlucci
@@ -346,7 +354,8 @@ mission, our mission is to empower every person and every organization on the
 planet to achieve more.
 And so diversity and inclusion is core to us. And I think that we felt like we could do
 more to support. And so anyway, they came out with statements and then we also
-tried to not -- it's not -- I think one of the things I hear from the community is there'sQ - Mark Carlucci
+tried to not -- it's not -- I think one of the things I hear from the community is there's
+Q - Mark Carlucci
 A - Kristen Roby Dimlowsuch a fear of cynicism, where we have heard words before, and we want companies
 who backup their words with real action. And so it's very important to the senior
 leadership team and also HR leadership team and BAM leadership to think about
@@ -388,7 +397,8 @@ trying to find new talent in this backdrop?
 
 Great. It has been enormously challenging. And I -- my hats are off to everybody
 involved especially my colleague who runs Microsoft Global Staﬃng. We, one
-example of Herculean effort was trying to -- we hire about 3,000 interns every yearQ - Mark Carlucci
+example of Herculean effort was trying to -- we hire about 3,000 interns every year
+Q - Mark Carlucci
 A - Kristen Roby Dimlow
 Q - Josh Baer
 A - Kristen Roby Dimlowand they had to although -- they all had to go virtual in a matter of weeks, and it

@@ -8,7 +8,8 @@ helpful for everyone is the most significant way we can make progress on our
 mission. We'll then hear from Eli Collins, Vice President of Product at Google
 DeepMind. He'll share more on our approach to AI responsibility and principles.
 Then Kathryn Hall, our Vice President of Corporate, Legal, and Assistant Corporate
-Secretary, will go through the formal business of the meeting.Finally, we'll have a Q&A session where we will answer a number of stockholder
+Secretary, will go through the formal business of the meeting.
+Finally, we'll have a Q&A session where we will answer a number of stockholder
 questions that have been submitted online. We will focus on addressing the topics of
 most interest to stockholders. You can see all the rules and procedures for this
 meeting posted on the Virtual Annual Meeting platform.
@@ -50,7 +51,8 @@ Our Board is no different. I'm proud of the diversity of backgrounds represented
 our Board, including those our most recently appointed directors. Nearly 2/3 of our
 directors identify as female or from an underrepresented community. Our robust
 director selection process most recently led to the appointment of Marty Chavez in
-July. Marty brings years of deep experience from the worlds of finance andSundar Pichaitechnology to our Audit and Compliance committee. He joins Frances Arnold and
+July. Marty brings years of deep experience from the worlds of finance and
+Sundar Pichaitechnology to our Audit and Compliance committee. He joins Frances Arnold and
 Robin Washington as Board members appointed in just the past five years.
 Looking ahead, it's an exciting time for technology, full of opportunity for our
 company and the broader industry. Alphabet remains among the top R&D investors
@@ -88,7 +90,8 @@ deeply in AI to begin with. With each breakthrough, we have made it more helpful
 and intuitive, from improvements in language understanding to computer vision and
 multi-modality. Today, even if you don't have the words to describe what you're
 looking for, you can search anything you see with Google Lens. In fact, Lens is used
-for over 12 billion visual searches every single month. Advances in large languagemodels allow us to better connect people to the richness of the web and help them
+for over 12 billion visual searches every single month. Advances in large language
+models allow us to better connect people to the richness of the web and help them
 more easily find and understand what they are looking for.
 In Search, this means unlocking entirely new types of questions that people never
 thought Search could answer. As we take the early steps to incorporate our latest
@@ -128,7 +131,8 @@ communities to build their own transformative products and services using AI. AI
 platform shift that creates opportunity for every organization, so we are focused on
 making it easy and scalable for others to innovate. Google Cloud is providing access
 to our computing infrastructure and foundation models, and the tooling for
-companies to train and run their own models. One example is Generative AI supportin Vertex AI. Developers can now easily use, customize, and deploy foundation
+companies to train and run their own models. One example is Generative AI support
+in Vertex AI. Developers can now easily use, customize, and deploy foundation
 models to production, opening up a new era of useful applications. Finally, we are
 building and deploying AI responsibly so everyone can benefit. Our AI principles,
 launched in 2018, continue to guide our overall approach. As the technology
@@ -167,7 +171,8 @@ and a deep commitment to get it right. As we have said, that's the race that mat
 most and where we are focused. We are in the early days and the best is still ahead.
 Thanks for being with us on this journey and for joining us today.
 I'm going to turn it over now to Eli Collins, our VP of Product at Google DeepMind,
-who's going to go a bit deeper on AI responsibility.Eli Collins
+who's going to go a bit deeper on AI responsibility.
+Eli Collins
 Thanks, Sundar. Hi, I'm Eli Collins, VP of Product for Google DeepMind. As Sundar
 shared, our vision is to develop AI in a bold and responsible way. So let me give you
 a sense of what this looks like at Google.
@@ -207,7 +212,8 @@ Finally, there are challenges we can tackle head on. We're one of the first comp
 to launch automated adversarial testing for large language models. We're doing this
 for Bard at a scale that's never been done before at Google. It significantly improves
 the speed, quality, and coverage of testing. We're sharing this through our
-Perspective API, which was originally created to help publishers mitigate toxicity, butKathryn Hallit's been used to create an industry evaluation standard. And today, all significant
+Perspective API, which was originally created to help publishers mitigate toxicity, but
+Kathryn Hallit's been used to create an industry evaluation standard. And today, all significant
 large language models, including from OpenAI and Anthropic, use this standard to
 evaluate toxicity in their models. And of course, we bring all of the benefits of these
 innovations to our billions of users directly through our products.
@@ -245,7 +251,8 @@ our Independent Accountants.
 The polls are open and will close after the presentation of our formal business
 matters. As John noted earlier, after we have finished the formal business of the
 meeting, there will be a question-and-answer session. We received a number of
-questions from stockholders before today's meeting.Stockholders may continue to submit questions during the meeting. To do so, please
+questions from stockholders before today's meeting.
+Stockholders may continue to submit questions during the meeting. To do so, please
 enter your question in the Ask a Question box on the virtual meeting website.
 Stockholder questions or remarks must be relevant to the meeting. Thanks in
 advance for your cooperation with all of the rules of procedure posted on the virtual
@@ -284,7 +291,8 @@ recommended that our stockholders approve on an advisory basis compensation
 awarded to named Executive Oﬃcers as described in detail in our proxy statement.
 The next matter being submitted to our stockholders is an advisory vote on the
 frequency of advisory votes to approve compensation awarded to named Executive
-Oﬃcers. Our Board of Directors has recommended a vote for a frequency of onceMatthew Illian
+Oﬃcers. Our Board of Directors has recommended a vote for a frequency of once
+Matthew Illian
 Kathryn Hallevery three years for the stockholder advisory vote on compensation awarded to
 named Executive Oﬃcers as described in detail in our proxy statement.
 The next 13 items being submitted are stockholder proposals that were included in
@@ -320,7 +328,8 @@ Thank you for presenting this proposal. We and our Board of Directors are
 committed to transparency in our public policy and lobbying activities. Our U.S.
 public policy transparency website provides robust and detailed disclosures of our
 public policy activities and lobbying efforts that already contain much of the
-information requested by this proposal, including oversight by our Board ofUnidentified SpeakerDirectors and senior management team of our lobbying and political engagement
+information requested by this proposal, including oversight by our Board of
+Unidentified SpeakerDirectors and senior management team of our lobbying and political engagement
 activities, details on lobbying expenditures, trade association participation, and other
 key elements of our approach to engaging with policymakers.
 Given the depth and breadth of our existing disclosures and frequency of our
@@ -359,7 +368,8 @@ likely an outright lie, but even if it isn't, though the Board probably doesn't 
 that's still a shocking admission, because using our money to fund evil with willful
 ignorance, just so that company executives can schmooze and dabble with other
 corporate executives on the shareholder dime is not much better than using our
-money to fund that same evil with an explicit intent to do so.Kathryn HallThe Board has a legal obligation to serve our interests as shareholders, not their own
+money to fund that same evil with an explicit intent to do so.
+Kathryn HallThe Board has a legal obligation to serve our interests as shareholders, not their own
 personal interests at the expense of shareholders, and that includes vetting how the
 money that the company gives away is spent. So the issue is not whether or not
 every Board member agrees with every position of every organization that the
@@ -398,7 +408,8 @@ and Zevin Asset Management as lead filers, and the Benedictine Sisters of Virgin
 and the Benedictine Sisters of Mount St. Scholastica as co-filers, along with a number
 of other co-filers.
 The proponents have submitted a prerecorded presentation in support of the
-proposal. I recognize Kristen Lang for a period of three minutes to present thisKristen Langproposal.
+proposal. I recognize Kristen Lang for a period of three minutes to present this
+Kristen Langproposal.
 Good morning, members of the Alphabet Board, the management team, and fellow
 shareholders. My name is Kristen Lang, and I am the Deputy Director of ESG
 Investing at Boston Trust Walden.
@@ -436,7 +447,8 @@ strengthen global climate action efforts through the Paris Agreement.
 These commitments to smart climate policy are undermined by Alphabet's public
 support of organizations that actively lobbied against the Paris Agreement, including
 Americans for Tax Reform, Taxpayers Protection Alliance, and the Competitive
-Enterprise Institute. By strengthening its oversight processes and disclosure withKathryn Hall
+Enterprise Institute. By strengthening its oversight processes and disclosure with
+Kathryn Hall
 Natasha Lambregards to climate policy advocacy, Alphabet will not only ensure shareholders
 understand how the company is identifying and managing risks presented by
 misalignment, but also may serve to protect the credibility of Alphabet's leadership
@@ -474,7 +486,8 @@ move Proposal 9, asking Alphabet to examine the risks associated with how it
 handles user data when facing abortion-related law enforcement requests.
 Reproductive freedom is under siege in the United States, increasing the risk that
 consumer data will be used for the enforcement of state laws that ban or restrict
-abortion access. In such cases, law enforcement relies on consumer data toKathryn Hallinvestigate and prosecute individuals who provide, aid, or receive an abortion, even
+abortion access. In such cases, law enforcement relies on consumer data to
+Kathryn Hallinvestigate and prosecute individuals who provide, aid, or receive an abortion, even
 if the procedure was conducted in a state where abortion remains legal.
 Notably, Meta-platforms faced significant negative backlash when it turned over to
 law enforcement Facebook messages of a mother and daughter discussing an
@@ -514,7 +527,8 @@ turned on if users opt in. We save the mobile device locations of users who opt 
 location history, but if our systems identify that they have visited a potentially
 sensitive location, including counseling centers, domestic violence shelters, abortion
 clinics, fertility centers, addiction treatment facilities, weight loss clinics, and cosmetic
-surgery clinics, we delete these entries from location history soon after they visit.AnalystGoogle users also have the ability to manage their own data, privacy, and security
+surgery clinics, we delete these entries from location history soon after they visit.
+AnalystGoogle users also have the ability to manage their own data, privacy, and security
 controls with proactive tools in their Google accounts, including in Google Maps.
 Beyond the policies and procedures we have implemented for our own products,
 Google has long advocated for limits on government access to user data to support
@@ -553,7 +567,8 @@ of Saudi's brutal abuses. And if they were Google Cloud users before, they will 
 be ﬂocking to other services that will not jeopardize their security. I will be one of
 those people. We expect Alphabet shareholders to prevent it from violating its
 stated commitment to human rights and vote to pass Resolution 10. Thank you so
-much for your support.Kathryn Hall
+much for your support.
+Kathryn Hall
 Thank you presenting this proposal. Google Cloud's goal has always been to bring
 our cutting-edge technology to businesses across the globe. We are proud to
 currently have 37 cloud regions around the world and have announced plans for 12
@@ -593,7 +608,8 @@ siting data centers. Therefore, our Board of Directors believes the additional r
 requested by this proposal would not provide additional useful information to our
 stockholders and recommends a vote against this proposal.
 The next stockholder proposal is being brought by the Shareholder Association for
-Research and Education on behalf of the United Church of Canada Pension Plan. IOperator
+Research and Education on behalf of the United Church of Canada Pension Plan. I
+Operator
 Sarah Couturier-Tanoh
 Kathryn Hallrecognize Sarah Couturier-Tanoh for a period of three minutes to present this
 proposal. I'll advise you when your time is about to expire. Operator, please open
@@ -630,7 +646,8 @@ Thank you.
 
 Thank you for presenting this proposal. Our existing policies are designed to
 safeguard user privacy and safety and work in tandem with our human rights
-governance and management structure. For example, our Google Publisher policiesJonas Kronrestrict publishers from publishing content that incites hatred or promotes
+governance and management structure. For example, our Google Publisher policies
+Jonas Kronrestrict publishers from publishing content that incites hatred or promotes
 discrimination of, harasses, or intimidates individuals based on their identities or
 beliefs.
 These protections shield against harm based on race or ethnic origin, religion,
@@ -669,7 +686,8 @@ of Stockholders, has not been implemented by the company, and we believe it stil
 deserves investor support for the following reasons.
 According to current and former Alphabet employees and internal documents, The
 New York Times reported that the rise of ChatGPT has led Google to take greater
-risks with ethical guidelines. It also reports that researchers are alleging that GoogleKathryn Hallis, quote, taking risks by releasing technology that even its developers don't entirely
+risks with ethical guidelines. It also reports that researchers are alleging that Google
+Kathryn Hallis, quote, taking risks by releasing technology that even its developers don't entirely
 understand. Similarly, a January 2023 report stated that Google now intends to
 unveil more than 20 new products and demonstrate a version of its search engine
 with chatbot features this year, while at the same time, scaling back its workforce.
@@ -709,7 +727,8 @@ do and how it works in general terms. That is why we publish a number of policie
 reports that provide meaningful visibility into how those services operate, as well as
 provide easy-to-use tools that put users in control, including an overview of how
 Search works and how YouTube works, a YouTube Community Guidelines
-transparency report, ad safety report, and a number of other reports.Lauren CompereWe invest significant resources in developing and maintaining the industry-leading
+transparency report, ad safety report, and a number of other reports.
+Lauren CompereWe invest significant resources in developing and maintaining the industry-leading
 quality of the algorithms used by our various services. Multiple academic and
 journalistic studies of our services, including Search, Ads, YouTube, and more, have
 found that those services deliver high-quality results and do not reﬂect political or
@@ -750,7 +769,8 @@ eﬃcacy of such policies. This requested disclosure goes beyond mandatory
 disclosure under various regulatory frameworks and focuses on investors' ability to
 assess how Alphabet's policy to align YouTube policies and procedures with the
 most rigorous online safety regulations and thereby minimize legal and reputational
-risk. Further transparency from the company is necessary for investors to understandKathryn Hall
+risk. Further transparency from the company is necessary for investors to understand
+Kathryn Hall
 Paul ChesserYouTube and Alphabet's risk assessment and preparedness for upcoming regulation
 and to align the Company's policies and procedures with best practice to keep
 ahead of emerging digital online safety regulation. We believe that Alphabet's
@@ -790,7 +810,8 @@ Here we are a year later, and the incidents of bias and censorship I brought up 
 year's Alphabet meeting in support of that version of our transparency proposal
 have only been further confirmed with more evidence that has come to light. Now
 there is an even greater number of bias and censorship examples at Alphabet since
-a year ago. I have a 15-page document on my laptop of just links to examples ofKathryn HallAlphabet's rampant and vicious practices of suppression, demonetization, and
+a year ago. I have a 15-page document on my laptop of just links to examples of
+Kathryn HallAlphabet's rampant and vicious practices of suppression, demonetization, and
 deplatforming.
 Alphabet opposes our proposal by saying it has, quote, safeguards in place to
 prevent, quote, improper bias. So how do Google and YouTube define proper bias?
@@ -828,7 +849,8 @@ world's information and make it universally accessible and useful, and we have a
 responsibility to prevent such abuses. Our business model depends on our services
 providing a useful and trustworthy source of information for all of our users. That is
 why we have undertaken substantial efforts to prevent the manipulation and abuse
-of our platforms and have publicly reported on many of these efforts.Unidentified SpeakerOur product, policy, and enforcement decisions in this complex environment are
+of our platforms and have publicly reported on many of these efforts.
+Unidentified SpeakerOur product, policy, and enforcement decisions in this complex environment are
 guided by a set of principles. Across the spectrum of our products and services, we
 commit to value openness and accessibility, respect user choice, and build for
 everyone. These priorities have guided our evolving approach, taking into account
@@ -867,7 +889,8 @@ game, has documented 1,385 children that have also died of the Blackout Challeng
 alone. This is just the tip of the iceberg.
 Thousands of parents across the globe have discovered just how dangerous
 Alphabet's products, specifically YouTube, can be to younger users. It's not just
-dangerous challenges that are a concern. Too often, YouTube serves younger usersKathryn Hallcontent that involves violence and militia, markets fad diets, promotes drug use and
+dangerous challenges that are a concern. Too often, YouTube serves younger users
+Kathryn Hallcontent that involves violence and militia, markets fad diets, promotes drug use and
 more. And young users are more vulnerable to the untruthful, biased, and even toxic
 material delivered through AI in a human-like way. Alphabet is in action and actively
 serving these harmful videos to young users should give investors pause. It
@@ -908,7 +931,8 @@ videos removed were first ﬂagged by machine learning technology, and the vast
 majority were removed before they even received 10 views. Specifically when it
 comes to protecting young people, YouTube has built age-appropriate experiences
 for children that provide safer options for exploring online, including YouTube Kids,
-a standalone app for the youngest users, and supervised experiences for olderAnalystchildren that provides tailored content, digital well-being, and privacy protections,
+a standalone app for the youngest users, and supervised experiences for older
+Analystchildren that provides tailored content, digital well-being, and privacy protections,
 parental controls, and limited features.
 As it relates specifically to the contents of this proposal, while we share the
 proponent's belief in the importance of robust risk oversight, particularly on issues
@@ -947,7 +971,8 @@ groups hold 3% for three years and groups are limited to 20 members. That sets u
 a situation where proxy access can't really be done without one of the big four fund
 families. They administer retirement savings plans for companies and have never
 even filed a shareholder proposal, let alone challenged Directors. Therefore, proxy
-access has gone unused.Kathryn HallNow, after decades, the SEC adopted Rule 14a-19, allowing shareholders under
+access has gone unused.
+Kathryn HallNow, after decades, the SEC adopted Rule 14a-19, allowing shareholders under
 specified conditions to split votes between Board nominees and challengers without
 attending annual meetings, but will the universal proxy rule go the way of so-called
 proxy access? After reading bylaws adopted by Mossimo, Bloomberg's Matt Levine
@@ -987,7 +1012,8 @@ advance notice provisions since our IPO as Google, Inc in August 2004, and these
 provisions have always included a market standard timeframe of requiring advance
 notice by stockholders not later than the close of business on the 90th day, not
 earlier than the close of business on the 120th day prior to the anniversary date of
-the immediately preceding annual meeting.Operator
+the immediately preceding annual meeting.
+Operator
 AnalystSecond, the proponent requests that we amend our bylaws to mandate stockholder
 approval for any advance notice bylaw amendments that impose new disclosure
 requirements for director nominees. Our current bylaws do require certain
@@ -1024,7 +1050,8 @@ senior executives that might delay implementation of this proposal. Requiring se
 executives to hold a significant proportion of stock obtained through executive pay
 plans would focus our executives on our company's long-term success, a
 Conference Board task force report stated that hold-to-retirement requirements give
-executives an ever-growing incentive to focus on long-term stock price performance.Kathryn Hall
+executives an ever-growing incentive to focus on long-term stock price performance.
+Kathryn Hall
 Mari SchwartzerThe Board of Directors' response to this proposal states that it shares the
 proponent's focus on the importance of aligning the interests of Alphabet's senior
 management with those of shareholders. This proposal will simply further align
@@ -1064,7 +1091,8 @@ three minutes to present this proposal.
 My name is Mari Schwartzer from NorthStar Asset Management in Boston. I am
 presenting Resolution number 18, a request that Alphabet's Board take all
 practicable steps to initiate and adopt a recapitalization plan for all outstanding
-stock to have one vote per share. We've been coming to this shareholder meeting toKathryn Halltalk about equal shareholder voting for many years since 2015, and year-after-year,
+stock to have one vote per share. We've been coming to this shareholder meeting to
+Kathryn Halltalk about equal shareholder voting for many years since 2015, and year-after-year,
 the vast majority of outside shareholders support our request.
 We believe that it's clear that shareholders want to have a say in the important
 matters of the companies in which they invest. Yet at Alphabet, ordinary
@@ -1104,7 +1132,8 @@ heavily in the big bets we hope will make a significant difference in the world.
 The implementation of our holding company Alphabet in October 2015 further
 reinforces this view. Our success is owed in large part to the leadership and vision
 originated by our Co-Founders and carried on today by Alphabet CEO, Sundar
-Pichai. We have established a robust governance structure that ensures effectiveAnalystindependent oversight and enables our Board of Directors to hold management
+Pichai. We have established a robust governance structure that ensures effective
+Analystindependent oversight and enables our Board of Directors to hold management
 accountable to the best interests of the company and our stockholders. Our Board
 leadership structure is regularly evaluated and has been modified at times to uphold
 strong independent oversight in our evolving business and operating environment,
@@ -1142,7 +1171,8 @@ long-term performance. Instead, they're rewarding performance over three years.
 That's too short to adequately and thoughtfully evaluate the impact an Oﬃcer has
 personally contributed to the company's long-term success versus external factors,
 such as the macroeconomic tailwinds, position in the business cycle, interest rates,
-and the competitive environment within which Alphabet finds itself.Operator
+and the competitive environment within which Alphabet finds itself.
+Operator
 A - Kathryn HallPerformance stock units reward Alphabet's performance against the standard and
 poorest 100. PSU payouts are determined over a three-year window, and they fully
 vest at the end of those three years. PSUs were first granted in 2019, with subsequent
@@ -1179,7 +1209,8 @@ Compensation Committee considered peer and broader market practices when
 establishing the performance period and believes that the current performance
 periods are appropriate to encourage and motivate long-term performance.
 As the compensation of our named executive oﬃcers is already tied to long-term
-performance, their interests are closely aligned with our stockholders' interests, andthey are motivated to make decisions with a focus on performance over a multi-year
+performance, their interests are closely aligned with our stockholders' interests, and
+they are motivated to make decisions with a focus on performance over a multi-year
 period. As such, our Board of Directors recommends a vote against this proposal.
 The persons named as proxy holders, including myself, have discretionary authority
 in voting the proxies under Rule 14a-4(c) under the Exchange Act, and I hereby
@@ -1218,7 +1249,8 @@ Chief Financial Oﬃcer, and Kent Walker, President, Global Affairs and Chief Le
 Oﬃcer will be answering questions. Okay, let's get started. We'll focus on topics of
 most interest to our stockholders.
 The first question is about AI. Stockholders asked, what is Google's approach to AI?
-And how do we go about maximizing the positive impacts to society, whileA - Sundar Pichai
+And how do we go about maximizing the positive impacts to society, while
+A - Sundar Pichai
 A - Kathryn Hall
 A - Ruth M. Poratmitigating the risks?
 
@@ -1258,7 +1290,8 @@ is valuable given we operate in such a dynamic and competitive area.
 We're very pleased to have the new $70 billion authorization and we do remain
 focused on repurchasing both Class A and Class C shares. We do regularly evaluate
 our cash and capital structure, including the size, pace, and form of capital returns to
-shareholders and we do not have plans to issue a dividend. Thanks for the question.A - Kathryn Hall
+shareholders and we do not have plans to issue a dividend. Thanks for the question.
+A - Kathryn Hall
 A - Kent Walker
 A - Kathryn Hall
 A - Ruth M. Porat
@@ -1297,7 +1330,8 @@ returns with reinvestment in our business.
 This is Ruth. I'll answer this one. So I outlined our approach to capital allocation a
 moment ago. And the capital return program is additive to our investment in the
 business, and it does not crowd out where we want to, and can, and do invest in our
-business.A - Kathryn Hall
+business.
+A - Kathryn Hall
 A - Kent WalkerAs I noted, our primary use of capital is to invest in the business for long-term
 growth, and we're investing aggressively in areas, including AI, Search, YouTube,
 Ads, Cloud, Hardware, and Android. In terms of the numbers, last year we invested
@@ -1338,7 +1372,8 @@ serve the interests of our stockholders.
 Our nominating and corporate governance committee reviews Google's corporate
 policies and activities, including expenditures made with corporate funds. Google's
 NetPAC contributions, our direct corporate contributions to state and local political
-campaigns, and our policy prohibiting trade associations and other organizationsA - Kathryn Hall
+campaigns, and our policy prohibiting trade associations and other organizations
+A - Kathryn Hall
 A - Sundar Pichai
 A - Kathryn Hall
 A - John L. Hennessyfrom using Google funds for political expenditures. Thanks for your interest in the
@@ -1379,4 +1414,5 @@ new policy is aligned with best practice. This policy ensures directors have su�
 time to devote to the Board, and in the context of the views of our stockholders. All
 of our directors are aligned with this policy.
 This concludes the question-and-answer period. Thank you for all the questions
-you've submitted. We truly appreciate you for taking the time to join us and for yourcontinued support of Alphabet. Take care, and we'll see you next year.
+you've submitted. We truly appreciate you for taking the time to join us and for your
+continued support of Alphabet. Take care, and we'll see you next year.

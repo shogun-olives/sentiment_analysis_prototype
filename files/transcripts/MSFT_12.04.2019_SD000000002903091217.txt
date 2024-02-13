@@ -10,7 +10,8 @@ also our consumer experiences. So it's covering Oﬃce, Windows, Surface and all
 our hardware products, Gaming and Search.
 Yes. The -- let's all -- let's start with Microsoft 365 then. It's like -- perhaps you all have
 heard of it. But the -- we've obviously been hearing a lot about Microsoft 365. Can
-you help us understand how M365 fits into just the larger vision of Microsoft?A - Bill Duff
+you help us understand how M365 fits into just the larger vision of Microsoft?
+A - Bill Duff
 Q - Unidentified Participant
 A - Bill Duff
 Yes. M365 is our productivity cloud. And so it consists of Oﬃce 365. So our
@@ -49,7 +50,8 @@ progress there. Compliance is also a big opportunity for us going forward.
 Then there's 2 new areas that we're excited about from a growth perspective. One is
 around business processes and workﬂows. So whether you think about Teams as
 really a platform for business processes, we think there's a lot of opportunity in
-vertical spaces in that specific area.Q - Unidentified Participant
+vertical spaces in that specific area.
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill DuffThen the fourth one is really a more forward-looking one around knowledge. We
@@ -92,7 +94,8 @@ security is about picking up these signals, picking up these data, making
 connections and then being able to do something about it, right? The future of
 security is really about how do you automate these processes. So once you have
 these signals, how do you automate things like shutting down an endpoint or
-protecting the overall estate. We think we have world-class technology. We think it'sQ - Unidentified Participant
+protecting the overall estate. We think we have world-class technology. We think it's
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill Duffa huge opportunity. That's a specific area where we see big opportunity going
@@ -134,7 +137,8 @@ years. As a matter of fact, if you looked at our Windows revenue, let's say, 7 t
 years ago versus today, the most significant change in the way that we are capturing
 revenue on the Windows side has been the growth of Windows Commercial. It's
 been a pretty consistent double-digit grower from a build perspective. For financial
-analysts out there, there's some accounting.Q - Unidentified Participant
+analysts out there, there's some accounting.
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill Duff
@@ -172,7 +176,8 @@ demand we're seeing now and the number of devices that we still see on Windows 7
 out there, particularly in small and medium business, we still think we have a ways to
 go.
 Got it. Then this is a question I get asked a lot. Is there going to be a Windows 11 or
-are we sticking on perfect 10 forever?A - Bill Duff
+are we sticking on perfect 10 forever?
+A - Bill Duff
 Q - Unidentified Participant
 A - Bill Duff
 Perfect 10. I don't know. I'm not going to make any news on the naming front. When
@@ -216,7 +221,8 @@ based want people to be able to play anywhere. And so that's really our strategy
 gaming. We're really sort of thinking about a much, much broader TAM and
 investing behind that. And really, our investments are in 3 areas. One is on the cloud
 side and investing in cloud infrastructure in order to deliver those experiences on
-those endpoints. Content, you've seen us be very aggressive on the content side.Q - Unidentified Participant
+those endpoints. Content, you've seen us be very aggressive on the content side.
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill DuffOver the last 18 months, we've doubled our capacity for first-party games in terms of
@@ -259,7 +265,8 @@ great, as we talked about, highly engaged user base that's already engaging with
 our products. So initial users might be already Xbox users that say, "Hi. look, I have
 this great Halo experience at home. And I want to experience that when I'm on a
 mobile device outside the home," something like that. There's all sorts of scenarios
-you can think about. And so from a end point perspective, it's really aboutQ - Unidentified Participant
+you can think about. And so from a end point perspective, it's really about
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill Duffexpanding our overall endpoint strategy. Azure is the underlying fabric for that.
@@ -301,7 +308,8 @@ the ecosystem has in Microsoft and how we're going to work both in a first-party
 perspective and we're going to be aggressive in going after opportunities. We
 talked about it with xCloud. We've talked about it with M365. But we're also going to
 be very, very strong partners to everybody in the ecosystem. And we deeply believe
-we're a platform company. We deeply believe that we have a big opportunity withQ - Unidentified Participant
+we're a platform company. We deeply believe that we have a big opportunity with
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill DuffAzure and our other infrastructure -- our other infrastructure investments to work
@@ -343,7 +351,8 @@ Duo. So I guess how -- what was the decision or thought process of sort of getti
 back into the smartphone business but also the twist is on the Android platform?
 
 Yes. I think it blew a lot (of peoples' minds). We're not the best at -- I shouldn't say it
-this way. But everything leaked before the Surface event, except for Duo, which wasQ - Unidentified Participant
+this way. But everything leaked before the Surface event, except for Duo, which was
+Q - Unidentified Participant
 A - Bill Duffkind of amazing. And I think it was a little bit of a head-scratcher. And people were
 saying, "Well what's going on here?" And really, it comes back to our focus on the
 user. And so we feel like there's some really interesting innovation that's going on in
@@ -387,7 +396,8 @@ silos in your organization? How do you increase the effectiveness of your sales 
 There's all of these things that, once you have this data. And this data is -- can be
 reasoned against in a central location, you can think about all sorts of new scenarios
 around AI that are really productive for organizations. And that's one of the most
-exciting areas that we see.Q - Unidentified Participant
+exciting areas that we see.
+Q - Unidentified Participant
 A - Bill Duff
 Q - Unidentified Participant
 A - Bill Duff

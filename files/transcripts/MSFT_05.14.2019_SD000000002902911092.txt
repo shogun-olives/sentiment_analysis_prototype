@@ -17,7 +17,8 @@ Mobility Suite, a Security suite as well as Windows 10 in the Enterprise and a b
 of other stuff.
 
 So I think people are familiar with Oﬃce. They're familiar with Windows. They're
-probably a little less familiar with the whole suite of products, which you areA - Kirk Koenigsbauer
+probably a little less familiar with the whole suite of products, which you are
+A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbaueroverseeing now. Can you give us a little bit of an overview of Microsoft 365 and just
 how it fits into the overall Microsoft portfolio?
@@ -61,7 +62,8 @@ essentially a play that is a P x Q business. We look at the installed base of so
 We constantly want to look at how we can grow that socket pool. Then we look at
 how we can increasingly drive the ARPU for all those sockets that we have. On the
 socket side, from a growth perspective, certainly, we're well positioned in the
-enterprise and in corporate space. But we still see room to expand seats in thoseQ - Mark Ronald Murphy
+enterprise and in corporate space. But we still see room to expand seats in those
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauerbusinesses primarily as we think about entering markets like regulated industries
 that we have historically had challenges selling into. Now with the sort of cloud and
 unit economics of Microsoft 365 and so forth, we're able to reach pockets of users
@@ -104,7 +106,8 @@ that's resonating really quite well. And so we've benefited from our investments
 work around GDPR and other regulations that you see sort of happening all over the
 world. Customers trust, whether it's public sector customers or of course, large
 organizations, they trust our hyperscale cloud infrastructure and the work that we're
-doing there. And that's a big deal.Q - Mark Ronald Murphy
+doing there. And that's a big deal.
+Q - Mark Ronald Murphy
 A - Kirk KoenigsbauerAnother big differentiator that we are seeing increasingly is around data and AI. And
 as we -- I'll just pick security as one example. When you think about all the signal
 that's out there in the world, all the security signal that we have, whether it's coming
@@ -150,7 +153,8 @@ can better target their population of people by integrating their tech with the
 Microsoft Graph to have it be more precise. Or for that matter, even just building a
 simple line of business applications, integrating them into experiences like Microsoft
 365, they can use that graph data to make those experiences better for their people.
-Those are some of the ways that we think about the graph.Q - Mark Ronald Murphy
+Those are some of the ways that we think about the graph.
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
@@ -193,7 +197,8 @@ dial pad and so forth. There's a bunch of work we're doing with third parties to
 create Teams-oriented hardware devices, whether they're for meetings, for
 conference calls, whatever, what have you.
 Then also, we've integrated the Oﬃce applications into Teams. And when I say the
-Oﬃce apps, I don't just mean Word, Excel or PowerPoint, those are, of course,Q - Mark Ronald Murphy
+Oﬃce apps, I don't just mean Word, Excel or PowerPoint, those are, of course,
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbauerintegrated into the experience. But also things like OneDrive for storage or
@@ -236,6 +241,7 @@ managed in a way that works for that business.
 Now is this going to be one of the hooks for pulling enterprises into your premium
 SKUs like the E5 SKU? Maybe you could talk to us about how the customer
 conversations are shaping up around E5 or even E3?
+
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
@@ -278,7 +284,8 @@ Okay. It's just interesting that Teams would be in that context already at this 
 point.
 
 Yes. It might not be -- it may be not intuitive initially. But again, if you think about it as
-something that is driving just incredibly rapid usage inside of accounts, that in and ofQ - Mark Ronald Murphy
+something that is driving just incredibly rapid usage inside of accounts, that in and of
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbaueritself lays the foundation upon which you can go and drive that up-sell to higher tiers
@@ -321,7 +328,8 @@ are fitting in as part of this broader Microsoft 365 conversation?
 
 Sure. Sure. So it's a -- so EMS, the Enterprise Mobility and Security suite is a core
 component of Microsoft 365. Think of it as the -- one of the 3 legs of the stool
-essentially. And for folks that aren't aware, EMS essentially has 4 core workloads as aQ - Mark Ronald Murphy
+essentially. And for folks that aren't aware, EMS essentially has 4 core workloads as a
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauerpart of that suite. There is a workload around identity. And identity is just so core
 today, particularly from the security perspective, although there are also other
 important ways that identity is used in organizations. But with sort of perimeter-
@@ -365,7 +373,8 @@ cloud. They want to move to these SaaS apps. They want a variety of different
 devices that their employees can use for whatever task that they're working on. But
 at the end of the day, they really are quite concerned about the risk on the security
 front. So that's why this is such a hot topic is that it is that thing that's getting in the
-way to their digital transformation.Q - Mark Ronald Murphy
+way to their digital transformation.
+Q - Mark Ronald Murphy
 A - Kirk KoenigsbauerAnd so the other piece as you referenced in the space is that this is a hard category
 in the sense that there are just simply not enough security professionals in the world
 to keep up with the sorts of cyber threats that are out there. We -- as you referenced,
@@ -407,7 +416,8 @@ Yes. It's -- you should almost think of it -- most simply, think of it as, again
 based, think of it as a tool that allows a CSO, sec ops people generally to be able to
 look across their infrastructure, all the signals that they have, to be able to identify
 threats across, again, literally all of their different security systems. So it's something
-that is -- you should think of it almost as an aggregation layer across of -- across theirQ - Mark Ronald Murphy
+that is -- you should think of it almost as an aggregation layer across of -- across their
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
@@ -450,6 +460,7 @@ months will really be quite a bit of activity in the space.
 
 Kirk, if you were me, how much would you be thinking about growth versus the PC
 market in this point in the cycle?
+
 Q - Mark Ronald Murphy
 A - Kirk Koenigsbauer
 Q - Mark Ronald Murphy
@@ -492,7 +503,8 @@ the kinds of ISV solutions and so forth. So there's a huge investment around Tea
 across the board on so many different dimensions. It will be a really big 12 to 18
 months for Teams, I think.
 Security, we talked a little bit about sort of a similar profile. We're investing quite a
-bit in the security space from R&D through sales and channel and partner andQ - Mark Ronald Murphy
+bit in the security space from R&D through sales and channel and partner and
+Q - Mark Ronald Murphy
 Q - Unidentified Participant
 A - Kirk Koenigsbauerinvesting quite a bit there. There are other investments that we're making as well.
 Those are the top 2. But I would highlight things like we were just talking about. It is
@@ -533,7 +545,8 @@ over-year, not at the rates that we're seeing the growth of something like Teams
 we expect e-mail to be around for a long, long time.
 With Teams, the use case is a little bit different. Teams is really designed around how
 you work, how an individual works with the broad set or collection of Teams that they
-are a part of. And so in my work environment, I have -- I'm probably a member of, IQ - Mark Ronald Murphy
+are a part of. And so in my work environment, I have -- I'm probably a member of, I
+Q - Mark Ronald Murphy
 A - Kirk Koenigsbauerdon't know, 40 different Teams that I participate on. And there's a conversation sort
 of ongoing all the time about any of those. And I can sort of use Teams to sort of tick
 through those and stay current and share content and information. Teams is, in many

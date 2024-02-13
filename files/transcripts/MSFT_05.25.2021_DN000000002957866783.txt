@@ -9,7 +9,8 @@ started in our developer division, way back when[ph]. And then moved to run our
 Azure division. So, it was at the time of cloud and enterprise in the US subsidiary.
 And then four years ago moved to be the product marketing -- the Global Product
 Marketing lead for Dynamics 365. So, right as we were moving from an on-prem
-business into a cloud business and really sort of what we call mainstreaming theQ - Mark Murphy
+business into a cloud business and really sort of what we call mainstreaming the
+Q - Mark Murphy
 A - Alysa Taylorbusiness, moving it out of a kind of end-to-end business unit into a more functional
 model. So, I was brought in to run the Product Marketing for Business Applications,
 which is inclusive of Dynamics 365 and our Power platform.
@@ -49,7 +50,8 @@ applications. We actually saw an accelerated momentum to people rapidly adopting
 cloud-based commerce systems, new modern supply chains being able to engage
 customer service that had to move completely to a remote, that entire customer
 service departments were shut down and moved into a remote capacity. And cloud-
-based applications are needed to be able to facilitate that ongoing customerQ - Mark Murphy
+based applications are needed to be able to facilitate that ongoing customer
+Q - Mark Murphy
 A - Alysa Taylor
 Q - Mark Murphyinteraction, whether it be sales or service. And so, we actually saw an acceleration of
 our customer base and our business in the pandemic, which was very counter[ph] to
@@ -92,7 +94,8 @@ operations offering, which was a new insight. When we think about that business
 line, it's roughly the scale of a Workday or a ServiceNow right, but it's growing faster
 here at about 40%. What do you attribute that type of acceleration doing? Were
 there any particular workloads or verticals where you are seeing pronounced
-strength?A - Alysa Taylor
+strength?
+A - Alysa Taylor
 Q - Mark MurphyYes. And so you -- when you look at our growth rate, we are growing, from a growth
 rate standpoint, faster than any of our major competitors. And we are newer to the
 market, right? I said Dynamics 365 is 4.5 years old, but we're very pleased with our
@@ -133,7 +136,8 @@ types of workloads are what are really fueling our acceleration in our growth.
 
 Yeah. The range of these use cases and how quickly companies pivoted, it's just
 amazing. There is so much in that portfolio and you mentioned Power platform which
-I want to come back to in just a moment, because I think there's is a lot to talk aboutA - Alysa Taylor
+I want to come back to in just a moment, because I think there's is a lot to talk about
+A - Alysa Taylor
 Q - Mark Murphythere. But there is one other element I think of what you've been doing with the
 applications, there was this comment about proactive versus reactive business
 systems, that vision has been pretty intriguing to us. Can you help us understand
@@ -176,7 +180,8 @@ this new modern intelligent applications that are proactive in nature.
 It sounds like a very skillful way that you are leveraging a lot of the common core
 services that are up and down the Microsoft stack. The -- and I think we're starting to
 understand that Power Platform is one of those, is going to become one of those
-layers. Interestingly, in our most recent Microsoft partner survey, these PowerA - Alysa TaylorPlatform products rated almost as strong as Azure in terms of the product
+layers. Interestingly, in our most recent Microsoft partner survey, these Power
+A - Alysa TaylorPlatform products rated almost as strong as Azure in terms of the product
 momentum that Microsoft partners are seeing. We were surprised by that. And so, I
 think we have some understanding, it spans across RPA, low-code no-code, virtual
 agents, Power BI is in there so, you have analytics. But how would you describe, if it's
@@ -217,7 +222,8 @@ that take a lot of time and drain productivity. And so, being able to in a very 
 and easy way, in an if-then type statement to be able to automate data and take out
 a lot of that repetitive nature that happens in organizations every day. And so, that's
 Power Automate. And we announced at -- in the springtime, making Power Automate
-available to all windows users. So, really getting out -- that tool out into the hands ofQ - Mark Murphy
+available to all windows users. So, really getting out -- that tool out into the hands of
+Q - Mark Murphy
 A - Alysa Taylorthose users to be able to automate whatever tests they deem as manual and
 repetitive.
 And so, when you think about why you're seeing -- my guess is, why you're seeing
@@ -259,7 +265,8 @@ manufacturing, how do you build out a digital factory? And how do you do out-of-
 the-box process -- process automation on your factory ﬂoor looking at not-for-profit
 and having discrete donor management capabilities. And then in financial services,
 doing things like loan management and doing the workﬂows for how you actually
-take loan origination and then move it very quickly through the loan lifecycle,Q - Mark Murphy
+take loan origination and then move it very quickly through the loan lifecycle,
+Q - Mark Murphy
 A - Alysa Taylorincreasing -- decreasing the lead times to getting a loan originated into the hands of
 those that are the -- that are doing the lending.
 And so that type -- those are the type of workﬂows and very specific vertical
@@ -301,7 +308,8 @@ about customer service but how do you do transcription and voice recognition to
 improve things like your interaction between the customer service agent and the
 customer. How -- we have a set of fraud Dynamics 365 Fraud Protection using their
 Nuance's capabilities to really augment that portfolio and predict fraud before it
-happens. And so, their securities and biometrics is an incredible asset into kind ofQ - Mark Murphy
+happens. And so, their securities and biometrics is an incredible asset into kind of
+Q - Mark Murphy
 A - Alysa Taylorcoming together to help organizations be predictive, bolstering security, and fraud
 protection.
 And then, sort of largely across the transcript capabilities, an enormous amount of
@@ -341,7 +349,8 @@ orchestration is something that we just recently announced and that's the abilit
 connect all of the marketing signals into the sales environment and be able to do
 things like real-time attribution and real-time targeting of a customer. Really highly
 personalizing the acquisition layer and then bringing that seamlessly into how you
-either digitally sell or into bringing again into the physical sale as well.Q - Mark Murphy
+either digitally sell or into bringing again into the physical sale as well.
+Q - Mark Murphy
 A - Alysa Taylor
 Q - Mark MurphyIntelligent Order Management is another area of investment for us. Again, it's
 around kind of that modern supply chain and giving visibility both to the supplier
@@ -382,5 +391,6 @@ in all these areas and really make it tangible and bring it to life. So, thank y
 much for carving out this time with us, and we certainly hope that one year from
 today, we'll be able to do this event back in person in a physical format in Boston.
 And we look forward to learning about the enhancements that you've got between
-now and then. So, thank you again, and hope you have a wonderful night.A - Alysa Taylor
+now and then. So, thank you again, and hope you have a wonderful night.
+A - Alysa Taylor
 Thank you for having me. It's been a pleasure.

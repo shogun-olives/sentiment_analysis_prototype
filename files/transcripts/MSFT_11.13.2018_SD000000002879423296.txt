@@ -23,7 +23,8 @@ the things that's really impressed people over the last few years is the brand
 transformation at Microsoft and just -- investor perceptions but also market
 perceptions have shifted fairly dramatically, can you talk a little bit, because we've
 seen other companies try and make that shift from being a successful client server
-company, PC era company to being a successful brand in the cloud? And most haveChristopher C. Capossela
+company, PC era company to being a successful brand in the cloud? And most have
+Christopher C. Capossela
 Jennifer Alexandra Swanson Lowereally struggled to do that. Microsoft is certainly the shiny example of success. So can
 you just talk a little bit about how that happened and what the mindset was?
 
@@ -69,7 +70,8 @@ side of the company.
 Okay. And maybe before we sort of dig into the business a little more, I thought --
 one of the questions that people ask is, Microsoft spends so much money on sales
 and marketing. And it has been a bit more eﬃcient than in years past. But it's still a
-very big number. So as you look at your own budget and look at where investmentsChristopher C. Capossela
+very big number. So as you look at your own budget and look at where investments
+Christopher C. Capossela
 Jennifer Alexandra Swanson Loweare happening, where you see the greatest return on that incremental marketing
 dollar, what do you see as sort of the best opportunities to continue and advance the
 story?
@@ -115,7 +117,8 @@ you have a pretty concrete example of how data is driving value in your own
 organization. But maybe taking that up a little higher. I mean, digital transformation is
 just broadly one of the big talking points within the investment community and
 within your customer base. And as you think about -- going back to what you were
-saying, the truth in the message and making sure that you're able to deliver on whatChristopher C. Capossela
+saying, the truth in the message and making sure that you're able to deliver on what
+Christopher C. Capossela
 Jennifer Alexandra Swanson Loweyou promise. As you think about digital marketing, what's sort of the right message
 that you should have in the marketplace now around digital transformation? How do
 you balance having a visionary point of view around things like AI that may be a little
@@ -161,7 +164,8 @@ from now or five years from now."
 And if you think about sort of that continuum, because it's great when you have
 customers that have long tenure with Microsoft using some of the more innovative
 things that you're doing these days. But it might take time for a big Fortune 500
-customer. So is there sort of a middle area where things like quantum computing areChristopher C. Capossela
+customer. So is there sort of a middle area where things like quantum computing are
+Christopher C. Capossela
 Jennifer Alexandra Swanson Lowestill very much largely in the realm of academia versus the -- I mean, UBS isn't the
 best example. But a company that's fully embraced Azure and has great experiences.
 And they can talk about that. But what happens with the things in the middle, where
@@ -205,7 +209,8 @@ the next few years, do you reach a point where everybody is converted to Oﬃce
 365? And what's the next leg of growth? So as you think about the pricing strategy in
 a business like Oﬃce 365, both bundling and also hitting new user groups, what's
 sort of -- how do you approach that? What's the strategy from a marketing
-perspective?Christopher C. Capossela
+perspective?
+Christopher C. Capossela
 Jennifer Alexandra Swanson Lowe
 Yes. So Microsoft is in a bunch of different businesses that have different sort of
 economic models, I guess, I would say. Gaming now has a very heavy usage-based
@@ -252,7 +257,8 @@ of move people up that stack.
 And given some of the earlier commentary about the granularity you have into
 things like LTV versus CAC. And as you get into these higher volume, lower price
 point audiences, are you able to sort of sustain the LTV to CAC? Or maybe some of
-that data and granularity helps you get comfortable that that's ultimately a profitableChristopher C. Capossela
+that data and granularity helps you get comfortable that that's ultimately a profitable
+Christopher C. Capossela
 Jennifer Alexandra Swanson Lowe
 Christopher C. Capossela
 Jennifer Alexandra Swanson Loweeffort? I'd just be curious to get the perspective on the volume versus the higher
@@ -295,7 +301,8 @@ Okay. Great. And looking at areas where -- at least there is a perception that
 Microsoft might compete with itself, things like Azure, where you have a great base
 of customers who are paying you under annuity contracts. And have been great
 customers for a long time, making sure that they remain happy and feel good about
-the product that they have if that's a choice they've made versus trying to get peopleChristopher C. Capossela
+the product that they have if that's a choice they've made versus trying to get people
+Christopher C. Capossela
 Jennifer Alexandra Swanson Loweexcited about Azure and moving to the cloud and that's really where the innovation,
 at least the perception is that's sort of the innovation center right now. How do you
 balance those audiences and those different products within the Microsoft portfolio
@@ -341,6 +348,7 @@ a copy of Oﬃce and they don't want to be a subscription. They just want the di
 they just want Oﬃce, for goodness sakes. And we're not going to turn that off. We're
 not going to say, no, we don't like those customers. But we're going to market the
 cloud because we need that transformation to be clear in everyone's mind.
+
 Christopher C. CaposselaAnd as you think about that marketing audience, the enterprise is an area where
 you've been strong for a long time, broadly. Consumer is an area where you have a
 strong brand as well. I think there's sort of a view that developers are increasingly
@@ -388,7 +396,8 @@ done a lot of technical things to do that, including bringing the Linux command 
 to Windows. So on your Windows box, you can actually work with Linux. Those are --
 there are these many, many small things that we've done that are adding up to
 people saying, "Oh, I see Microsoft caring a lot more about us than we thought."
-And like I said earlier, there's not a big company I meet with that isn't trying to hireJennifer Alexandra Swanson Lowe
+And like I said earlier, there's not a big company I meet with that isn't trying to hire
+Jennifer Alexandra Swanson Lowe
 Christopher C. Caposselamore developers than they can hire. They want more developers than they can
 possibly find. And if you look at the #1 tool that developers use, what is the line of
 business system that developers use? If salespeople use CRM as their #1 line-of-
@@ -434,7 +443,8 @@ they're going to buy us -- buy one for us that's just like it. It's funny, the r
 world or maybe investors like to think about commercial and consumer. Well we
 actually don't. We think about gamers. We think about IT pros. We think about
 developers. We think about end users. We know we have to appeal to end users. We
-know we have to win end users in small business, in education, at home. And if weJennifer Alexandra Swanson Lowe
+know we have to win end users in small business, in education, at home. And if we
+Jennifer Alexandra Swanson Lowe
 Christopher C. Capossela
 Jennifer Alexandra Swanson Lowedo a good job there, we know that that's going to carry over into the workplace, too,
 if that makes any sense.
@@ -478,7 +488,8 @@ product that's successful in its own right. But at least at the outset, it was p
 as inspiration for your partner ecosystem and what -- how much of that you want to
 do versus really just inspire. For you, what's a win? Is it creating a big Surface
 business? Or is it seeing a lot of other people come in with their Surface-like devices
-and taking the lead?Christopher C. Capossela
+and taking the lead?
+Christopher C. Capossela
 Jennifer Alexandra Swanson Lowe
 Yes. I think there's 2 things that we look at as a leadership team in terms of what is
 success for Surface. The first is Surface should be the very best experience for
@@ -525,7 +536,8 @@ audience as well, is if you think about the layers of success within a hardware
 business, some of it's the form factor and having one that's appealing. But some of
 it's also the breadth of applications. And at this point in time, Surface is a smaller
 installed base than some of the alternatives out there. So how do you think about
-getting the applications that you need? And is there sort of a long tail where there'sChristopher C. Capossela
+getting the applications that you need? And is there sort of a long tail where there's
+Christopher C. Capossela
 Jennifer Alexandra Swanson Lowe
 Christopher C. Capossela
 Jennifer Alexandra Swanson Lowe
