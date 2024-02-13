@@ -129,20 +129,20 @@ def deletion_prompt(files: list[str]) -> list[str]:
     return files
 
 
-def all_pdf_to_txt(directory: str, destination_directory: str = None, overwrite: bool = None,
+def all_pdf_to_txt(directory: str, dest: str = None, overwrite: bool = None,
                    display_progress: bool = False) -> None:
     """
     Takes all pdf files in directory and converts them to txt files in target_directory
     :param directory: Directory with pdf files
-    :param destination_directory: Directory to store txt files in (defaults to [given directory]/../txt)
+    :param dest: Directory to store txt files in (defaults to [given directory]/../txt)
     :param overwrite: Whether to automatically overwrite all values or not. True to replace all, False to replace none,
     None to prompt user
     :param display_progress: True to show process progress, otherwise writing process gives no print statements
     :return: None
     """
     # if no target directory, sets target directory as txt in the same directory as given directory
-    if destination_directory is None:
-        destination_directory = os.path.join(os.path.dirname(directory), 'txt')
+    if dest is None:
+        dest = os.path.join(os.path.dirname(directory), 'txt')
 
     # makes sure that given directory is valid
     try:
@@ -155,12 +155,12 @@ def all_pdf_to_txt(directory: str, destination_directory: str = None, overwrite:
     txt_files = [Path(file).stem + '.txt' for file in pdf_files]
 
     # if directory exists, find which files already exist in it
-    if file_exists(destination_directory):
-        exist = existing_files(txt_files, destination_directory)
+    if file_exists(dest):
+        exist = existing_files(txt_files, dest)
 
     # otherwise, create directory and set exists to an empty list
     else:
-        os.makedirs(destination_directory, exist_ok=True)
+        os.makedirs(dest, exist_ok=True)
         exist = []
 
     # If overwrite is None, allow user to choose to overwrite specific files through console
@@ -191,7 +191,7 @@ def all_pdf_to_txt(directory: str, destination_directory: str = None, overwrite:
         pdf_path = os.path.join(directory, item)
 
         txt_fn = Path(item).stem + ".txt"
-        txt_path = os.path.join(destination_directory, txt_fn)
+        txt_path = os.path.join(dest, txt_fn)
 
         # writes pdf as txt to new location
         t1 = timeit.default_timer()
