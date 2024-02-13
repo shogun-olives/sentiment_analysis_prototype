@@ -1,7 +1,7 @@
 """
 This module is used to convert pdf files to txt files
 """
-from .shared import file_exists, ensure_fn_path, existing_files
+from .shared import file_exists, get_path, existing_files
 import os
 import timeit
 from pathlib import Path
@@ -10,8 +10,8 @@ from PyPDF2 import PdfReader
 
 def rapid_pdf_to_txt(pdf_path: str, txt_path: str) -> bool:
     """
-    Reads in a pdf file and writes it to a text file\n
-    Abbreviated version where sanity checks are performed in
+    Abbreviated version where sanity checks are skipped\n
+    Reads in a pdf file and writes it to a text file
     :param pdf_path: path to pdf
     :param txt_path: path to file
     :return: True if process succeeded, otherwise False
@@ -53,8 +53,8 @@ def pdf_to_txt(pdf_fn: str, txt_fn: str, pdf_directory: str = None, txt_director
         txt_fn += '.txt'
 
     # ensure fn and path are seperated
-    pdf_path, pdf_name, pdf_directory = ensure_fn_path(pdf_fn, pdf_directory)
-    txt_path, txt_name, txt_directory = ensure_fn_path(txt_fn, txt_directory)
+    pdf_path, pdf_name, pdf_directory = get_path(pdf_fn, pdf_directory, True)
+    txt_path, txt_name, txt_directory = get_path(txt_fn, txt_directory, True)
 
     # attempts to read file
     try:
@@ -134,9 +134,8 @@ def all_pdf_to_txt(directory: str, dest: str = None, overwrite: bool = None,
     """
     Takes all pdf files in directory and converts them to txt files in target_directory
     :param directory: Directory with pdf files
-    :param dest: Directory to store txt files in (defaults to [given directory]/../txt)
-    :param overwrite: Whether to automatically overwrite all values or not. True to replace all, False to replace none,
-    None to prompt user
+    :param dest: Directory to store txt files in (defaults to directory\\txt)
+    :param overwrite: Whether to automatically overwrite all values or not. True to replace all, False to replace none, None to prompt user
     :param display_progress: True to show process progress, otherwise writing process gives no print statements
     :return: None
     """

@@ -3,7 +3,6 @@ This module contains functions that are commonly used throughout this package
 """
 
 import os
-import datetime
 
 
 def remove_overlap(str1: str, str2: str, split: str) -> (str, str):
@@ -23,11 +22,12 @@ def remove_overlap(str1: str, str2: str, split: str) -> (str, str):
     return split.join(arr1), split.join(arr2)
 
 
-def ensure_fn_path(fn: str, directory: str = None) -> (str, str, str):
+def get_path(fn: str, directory: str = None, get_fn_dir: bool = True) -> str | (str, str, str):
     """
     Ensure that fn and directory are properly split
     :param fn: Name of file
     :param directory: Name of directory
+    :param get_fn_dir: Returns path, fn, and dir if True, otherwise just path
     :return: Absolute path to file, File name, Absolute directory
     """
     if directory is not None:
@@ -47,6 +47,10 @@ def ensure_fn_path(fn: str, directory: str = None) -> (str, str, str):
         # if no directory, merged path is just absolute path to fn
         fn = os.path.abspath(fn)
         merged_path = os.path.normpath(fn)
+
+    # if not getting fn and dir, just return merged path
+    if not get_fn_dir:
+        return merged_path
 
     # gets new directory and dn based on merge
     abs_dir, abs_fn = os.path.split(merged_path)
@@ -125,14 +129,14 @@ def find_index(search_for: list[str], word_arr: list[str]) -> int | None:
     return None
 
 
-def get_symbol(fn: str, directory: str = None) -> str | None:
+def txt_get_symbol(fn: str, directory: str = None) -> str | None:
     """
     Gets the stock symbol of a transcript by reading its first two lines
     :param fn: name of file to extract stock symbol from
     :param directory: directory to search for file in, if left blank, defaults to current working directory
     :return: Stock symbol if found, otherwise None
     """
-    path, fn, directory = ensure_fn_path(fn, directory)
+    path = get_path(fn, directory)
 
     # opens file
     with open(path, 'r', encoding='utf-8') as file:
@@ -160,129 +164,3 @@ def get_symbol(fn: str, directory: str = None) -> str | None:
 
     # if no "(" is found, method failed and None is returned
     return None
-
-
-def company_name_from_fn(fn: str) -> str | None:
-    """
-    Extracts company name from file name
-    :param fn: Name of file
-    :return: company name if found, otherwise None
-    """
-    # separate file name from path in case user mistake
-    fn = os.path.basename(fn)
-
-    # separate words in title based on space
-    words = fn.removesuffix('.txt').split(' ')
-
-    # searches for company name based on suffixes
-    comp_suffixes = ['Inc', 'Corp']
-    comp_end_index = find_index(comp_suffixes, words)
-
-    # constructs company name
-    if comp_end_index is not None:
-        company_name = ' '.join(words[:comp_end_index + 1])
-    else:
-        company_name = None
-
-    return company_name
-
-
-def presentation_type_from_fn(fn: str) -> str | None:
-    """
-    Extracts presentation type from file name
-    :param fn: Name of file
-    :return: presentation type if found, otherwise None
-    """
-    # separate file name from path in case user mistake
-    fn = os.path.basename(fn)
-
-    # separate words in title based on space
-    words = fn.removesuffix('.txt').split(' ')
-
-    # searches for company name based on suffixes
-    comp_suffixes = ['Inc', 'Corp']
-    comp_end_index = find_index(comp_suffixes, words)
-
-    # searches for presentation type name based on suffixes
-    pres_suffixes = ['Day', 'Call']
-    pres_end_index = find_index(pres_suffixes, words)
-
-    # constructs presentation type
-    if comp_end_index is not None and pres_end_index is not None:
-        presentation_name = ' '.join(words[(comp_end_index + 1):(pres_end_index + 1)])
-    else:
-        presentation_name = None
-
-    return presentation_name
-
-
-def date_from_fn(fn: str) -> datetime.date | None:
-    """
-    Extracts date from file name
-    :param fn: Name of file
-    :return: date if found, otherwise None
-    """
-    # separate file name from path in case user mistake
-    fn = os.path.basename(fn)
-
-    # separate words in title based on space
-    words = fn.removesuffix('.txt').split(' ')
-
-    # checks if format is valid
-    date_str = words[-2]
-    if not date_str.isdigit() or len(date_str) < 7:
-        return None
-
-    # constructs date
-    yr = int(date_str[:4])
-    month = int(date_str[4:-2])
-    day = int(date_str[-2:])
-    date = datetime.date(yr, month, day)
-
-    return date
-
-
-def id_from_fn(fn: str) -> str:
-    """
-    Extracts id from file name
-    :param fn: Name of file
-    :return: id if found, otherwise None
-    """
-    # separate file name from path in case user mistake
-    fn = os.path.basename(fn)
-
-    # separate words in title based on space
-    words = fn.removesuffix('.txt').split(' ')
-
-    # id is the last item in the title
-    id_str = words[-1]
-
-    return id_str
-
-
-def get_fn_data(fn: str) -> dict[str: str | datetime.date | None]:
-    """
-    Extracts a dictionary containing metadata that can be extracted from file name
-    :param fn: Name of file
-    :return: dictionary containing metadata for data that was found, otherwise, value is None
-    """
-    # get company name
-    company_name = company_name_from_fn(fn)
-
-    # get presentation type
-    presentation_type = presentation_type_from_fn(fn)
-
-    # get date
-    date = date_from_fn(fn)
-
-    # get id
-    conf_id = id_from_fn(fn)
-
-    data = {
-        'ID': conf_id,
-        'Company': company_name,
-        'Date': date,
-        'Type': presentation_type,
-    }
-
-    return data

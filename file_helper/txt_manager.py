@@ -1,7 +1,8 @@
 """
 This module takes an unformatted text file and formats it for sentiment analysis
 """
-from .shared import file_exists, get_symbol, date_from_fn, id_from_fn, ensure_fn_path
+from .shared import file_exists, get_path
+from .txt_metadata import txt_get_symbol, txt_get_date, txt_get_id
 import pandas as pd
 import re
 import os
@@ -15,11 +16,11 @@ def format_title(fn: str, directory: str = None) -> str:
     :param directory: Name of directory
     :return: new file name
     """
-    path, fn, directory = ensure_fn_path(fn, directory)
+    path, fn, directory = get_path(fn, directory, True)
 
-    symbol = get_symbol(fn, directory)
-    date = date_from_fn(fn)
-    conf_id = id_from_fn(fn)
+    symbol = txt_get_symbol(fn, directory)
+    date = txt_get_date(fn)
+    conf_id = txt_get_id(fn)
 
     return f'{symbol}_{date}_{conf_id}.txt'
 
@@ -37,12 +38,12 @@ def format_txt(fn: str, dest: str, curr: str = None, overwrite: bool = False) ->
     new_fn = format_title(fn, curr)
 
     # determine absolute path to destination directory
-    curr_path, curr_fn, curr_directory = ensure_fn_path(fn, curr)
-    dest_path, dest_fn, dest_directory = ensure_fn_path(new_fn, dest)
+    curr_path, curr_fn, curr_directory = get_path(fn, curr, True)
+    dest_path, dest_fn, dest_directory = get_path(new_fn, dest, True)
 
     # create array storing data
     data = {
-        'ID': [id_from_fn(curr_fn)],
+        'ID': [txt_get_id(curr_fn)],
         'File': ['.\\' + os.path.relpath(dest_path, os.getcwd())]
     }
 

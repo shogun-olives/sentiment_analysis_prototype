@@ -2,7 +2,7 @@
 This module is used to save and retrieve data from a database
 """
 
-from .shared import ensure_fn_path
+from .shared import get_path
 from sqlalchemy import create_engine
 import pandas as pd
 import os
@@ -22,7 +22,7 @@ def df_to_db(df: pd.DataFrame, db_name: str, table_name: str, directory: str = N
         db_name += '.db'
 
     # ensure fn and path are seperated
-    path, db_name, directory = ensure_fn_path(db_name, directory)
+    path = get_path(db_name, directory)
 
     # if directory does not yet exist, construct it
     if directory is not None:
@@ -49,7 +49,7 @@ def db_to_df(db_name: str, table_name: str, directory: str = None) -> pd.DataFra
         db_name += '.db'
 
     # ensure fn and path are seperated
-    path, db_name, directory = ensure_fn_path(db_name, directory)
+    path = get_path(db_name, directory)
 
     # attempts to create connection to table
     # fails if database doesn't exist
