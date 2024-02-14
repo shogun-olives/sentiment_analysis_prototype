@@ -3,6 +3,7 @@ This module contains functions that are commonly used throughout this package
 """
 
 import os
+import pandas as pd
 
 
 def remove_overlap(str1: str, str2: str, split: str) -> (str, str):
@@ -22,7 +23,7 @@ def remove_overlap(str1: str, str2: str, split: str) -> (str, str):
     return split.join(arr1), split.join(arr2)
 
 
-def get_path(fn: str, directory: str = None, get_fn_dir: bool = True) -> str | (str, str, str):
+def get_path(fn: str, directory: str = None, get_fn_dir: bool = False) -> any:
     """
     Ensure that fn and directory are properly split
     :param fn: Name of file
@@ -127,3 +128,45 @@ def find_index(search_for: list[str], word_arr: list[str]) -> int | None:
 
     # if none of the search words are found in word_arr, return None
     return None
+
+
+def extract_all(func, directory: str) -> pd.DataFrame | None:
+    """
+    calls func on every file in directory and returns a dataframe containing all data extracted this way
+    :param func: a function to be called on every file in a directory returning a dict of data
+    :param directory: directory to extract from
+    :return: pandas dataframe if no error, otherwise None
+    """
+    # empty array to store data
+    data = []
+
+    # for each file, try to extract metadata
+    for file in os.listdir(directory):
+        row = func(file, directory)
+
+        if row is None:
+            continue
+
+        # ensures every val in dict is list for concatenation
+        for key in row:
+            if not isinstance(row[key], list):
+                row[key] = [row[key]]
+
+        # adds row to data
+        data.append(pd.DataFrame.from_dict(row))
+
+    # concatenate all data into a dataframe
+    try:
+        df = pd.concat(data, ignore_index=True)
+    except ValueError:
+        return None
+
+    return df
+
+
+def no_numeric(string: str) -> bool:
+    for char in string:
+        if char.isnumeric():
+            return False
+
+    return True

@@ -1,8 +1,8 @@
 """
-This module is used to maneuver data between databases and dataframes
+This module is used to extract metadata from txt files
 """
 
-from .shared import find_index, get_path
+from .shared import find_index, get_path, extract_all
 import os
 import pandas as pd
 import datetime
@@ -18,28 +18,33 @@ def txt_get_symbol(fn: str, directory: str = None) -> str | None:
     path = get_path(fn, directory)
 
     # opens file
-    with open(path, 'r', encoding='utf-8') as file:
-        # reads first two lines
-        for _ in range(2):
-            line = file.readline()
+    try:
+        with open(path, 'r', encoding='utf-8') as file:
+            # reads first two lines
+            for _ in range(2):
+                line = file.readline()
 
-        # converts line into list
-        words = line.split(' ')
+            # converts line into list
+            words = line.split(' ')
 
-        # 2nd line of file always contains
-        #   [Company Name] ([Stock Symbol] US Equity)
-        # searching for "(" will reliably find the stock symbol
-        for word in words:
-            if '(' in word:
-                # once "(" is found, remove it from prefix
-                word = word.removeprefix('(')
+            # 2nd line of file always contains
+            #   [Company Name] ([Stock Symbol] US Equity)
+            # searching for "(" will reliably find the stock symbol
+            for word in words:
+                if '(' in word:
+                    # once "(" is found, remove it from prefix
+                    word = word.removeprefix('(')
 
-                # if potential symbol is longer than 4 char, only get first 4 chars
-                if len(word) > 4:
-                    word = word[:4]
+                    # if potential symbol is longer than 4 char, only get first 4 chars
+                    if len(word) > 4:
+                        word = word[:4]
 
-                # return constructed symbol
-                return word
+                    # return constructed symbol
+                    return word
+    except FileNotFoundError:
+        return None
+    except PermissionError:
+        return None
 
     # if no "(" is found, method failed and None is returned
     return None
@@ -111,6 +116,10 @@ def txt_get_date(fn: str) -> datetime.date | None:
     # separate words in title based on space
     words = fn.removesuffix('.txt').split(' ')
 
+    # check list length
+    if len(words) <= 1:
+        return None
+
     # checks if format is valid
     date_str = words[-2]
     if not date_str.isdigit() or len(date_str) < 7:
@@ -145,20 +154,17 @@ def txt_get_id(fn: str) -> str:
 
 def get_fn_data(fn: str) -> dict[str: str | datetime.date | None]:
     """
-    Extracts a dictionary containing metadata that can be extracted from file name
+    Extracts a dictionary containing metadata that can be extracted from unformatted txt file
     :param fn: Name of file
     :return: dictionary containing metadata for data that was found, otherwise, value is None
     """
-    # get company name
+    # gets just file name
+    path, fn, directory = get_path(fn, get_fn_dir=True)
+
+    # gets data
     company_name = txt_get_comp_name(fn)
-
-    # get presentation type
     presentation_type = txt_get_pres_type(fn)
-
-    # get date
     date = txt_get_date(fn)
-
-    # get id
     conf_id = txt_get_id(fn)
 
     data = {
@@ -171,42 +177,38 @@ def get_fn_data(fn: str) -> dict[str: str | datetime.date | None]:
     return data
 
 
-def get_metadata(fn: str, directory: str = None) -> dict[str: list[str, None, datetime.date]]:
+def txt_get_metadata(fn: str, directory: str = None) -> dict[str: list[str, None, datetime.date]]:
     """
-    Extract metadata from file
+    Extract metadata from unformatted txt file
     :param fn: name of file
     :param directory: optionally, directory to file
     :return: dictionary containing data that was found, otherwise value is None
     """
+    path, fn, directory = get_path(fn, directory, get_fn_dir=True)
+
+    if not fn.endswith('.txt'):
+        return None
+
     metadata = get_fn_data(fn)
     symbol = txt_get_symbol(fn, directory)
 
     data = {
-        'ID': [metadata['ID']],
-        'Company': [metadata['Company']],
-        'Symbol': [symbol],
-        'Date': [metadata['Date']],
-        'Type': [metadata['Type']],
+        'ID': metadata['ID'],
+        'Symbol': symbol,
+        'Company': metadata['Company'],
+        'Date': metadata['Date'],
+        'Type': metadata['Type'],
     }
 
     return data
 
 
-def get_metadata_df(directory: str) -> pd.DataFrame:
+def txt_get_all_metadata(directory: str) -> pd.DataFrame:
     """
     Extracts metadata from all files in a directory as pandas dataframe
     :param directory: directory to extract from
     :return: pandas dataframe
     """
-    # empty array to store data
-    data = []
-
-    # for each file, try to extract metadata
-    for file in os.listdir(directory):
-        row = get_metadata(file, directory)
-        data.append(pd.DataFrame.from_dict(row))
-
-    # concatenate all data into a dataframe
-    df = pd.concat(data)
-
+    # completes operation on files in directory
+    df = extract_all(txt_get_metadata, directory)
     return df
