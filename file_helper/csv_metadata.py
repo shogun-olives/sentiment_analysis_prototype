@@ -2,7 +2,7 @@
 This module is used to extract metadata from csv files
 """
 import pandas as pd
-from .shared import get_path, extract_all, no_numeric
+from .shared import get_path, extract_all
 from datetime import datetime
 import re
 
@@ -41,18 +41,20 @@ def csv_get_symbol(fn: str, directory: str = None) -> str | None:
 
     try:
         with open(path, 'r') as file:
-            while not line.endswith(".O") or (len(line) > 4 and no_numeric(line)):
+            while ".O" not in line:
                 line = file.readline()
 
                 if not line:
                     return None
+
+                line = line.split(",")[0]
 
     except FileNotFoundError:
         return None
     except PermissionError:
         return None
 
-    symbol = line.split(",")[0].strip().removesuffix(".O")
+    symbol = line.removesuffix(".O")
 
     return symbol
 

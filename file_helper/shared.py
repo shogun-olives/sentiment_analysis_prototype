@@ -1,9 +1,9 @@
 """
 This module contains functions that are commonly used throughout this package
 """
-
 import os
 import pandas as pd
+import timeit
 
 
 def remove_overlap(str1: str, str2: str, split: str) -> (str, str):
@@ -170,3 +170,63 @@ def no_numeric(string: str) -> bool:
             return False
 
     return True
+
+
+def format_all(func, extension: str, curr: str, dest: str, overwrite: bool = False, display_progress: bool = False
+               ) -> pd.DataFrame | None:
+    """
+    Formats all files by given func in curr directory and saves them in dest directory
+    :param func: function to call on each item in directory
+    :param extension: extension to call function on
+    :param curr: Directory where files are currently stored
+    :param dest: Directory to store files
+    :param overwrite: Whether to overwrite all files or not
+    :param display_progress: Display time to complete operation
+    :return: Pandas dataframe with all IDs and new file names
+    """
+    # empty list to put data in
+    data = []
+
+    # counters
+    count = 0
+    t0 = timeit.default_timer()
+
+    if display_progress:
+        print('Writing:')
+
+    # iterates through each file to rewrite
+    for file in os.listdir(curr):
+        # times operation
+        t1 = timeit.default_timer()
+
+        if not file.endswith(extension):
+            print("ext invalid")
+            continue
+
+        # writes data
+        row = func(file, dest, curr, overwrite)
+
+        # only keeps track of files that were successfully written
+        if row is None:
+            continue
+
+        # appends data to dataframe
+        data.append(pd.DataFrame.from_dict(row))
+        t2 = timeit.default_timer()
+
+        # displays progress
+        if display_progress:
+            print(f"\t{count}.\t[{row['File'][0]}] written in {t2 - t1} sec")
+
+    # times entire operation
+    t3 = timeit.default_timer()
+    if display_progress:
+        print(f'\nOperation completed in {t3 - t0:.2f} seconds')
+
+    if len(data) == 0:
+        return None
+
+    # concatenates all data into one dataframe
+    df = pd.concat(data, ignore_index=True)
+
+    return df

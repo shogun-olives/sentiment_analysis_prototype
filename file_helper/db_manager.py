@@ -3,7 +3,7 @@ This module is used to save and retrieve data from a database
 """
 
 from .shared import get_path
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, exc
 import pandas as pd
 import os
 
@@ -26,14 +26,16 @@ def df_to_db(df: pd.DataFrame, db_name: str, table_name: str, directory: str = N
         db_name += '.db'
 
     # ensure fn and path are seperated
-    path = get_path(db_name, directory)
+    path, fn, directory = get_path(db_name, directory, True)
 
     # if directory does not yet exist, construct it
-    if directory is not None:
-        os.makedirs(directory, exist_ok=True)
+    os.makedirs(directory, exist_ok=True)
 
     # Create a SQLite database file in the specified directory
-    engine = create_engine(f"sqlite:///{path}", echo=False)
+    try:
+        engine = create_engine(f"sqlite:///{path}", echo=False)
+    except exc.OperationalError:
+        return False
 
     # write data to database
     with engine.begin() as connection:

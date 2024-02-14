@@ -1,12 +1,11 @@
 """
 This module takes an unformatted text file and formats it for sentiment analysis
 """
-from .shared import file_exists, get_path
+from .shared import file_exists, get_path, format_all
 from .txt_metadata import txt_get_symbol, txt_get_date, txt_get_id
 import pandas as pd
 import re
 import os
-import timeit
 
 
 def format_title(fn: str, directory: str = None) -> str:
@@ -102,42 +101,6 @@ def format_all_txt(curr: str, dest: str, overwrite: bool = False, display_progre
     :param display_progress: Display time to complete operation
     :return: Pandas dataframe with all IDs and new file names
     """
-    # empty list to put data in
-    data = []
-
-    # counters
-    count = 0
-    t0 = timeit.default_timer()
-
-    if display_progress:
-        print('Writing:')
-
-    # iterates through each file to rewrite
-    for file in os.listdir(curr):
-        # times operation
-        t1 = timeit.default_timer()
-
-        # writes data
-        row = format_txt(file, dest, curr, overwrite)
-
-        # only keeps track of files that were successfully written
-        if row is None:
-            continue
-
-        # appends data to dataframe
-        data.append(pd.DataFrame.from_dict(row))
-        t2 = timeit.default_timer()
-
-        # displays progress
-        if display_progress:
-            print(f"\t{count}.\t[{row['File'][0]}] written in {t2 - t1} sec")
-
-    # times entire operation
-    t3 = timeit.default_timer()
-    if display_progress:
-        print(f'\nOperation completed in {t3 - t0:.2f} seconds')
-
-    # concatenates all data into one dataframe
-    df = pd.concat(data, ignore_index=True)
-
+    # runs template on given function
+    df = format_all(format_txt, ".txt", curr, dest, overwrite, display_progress)
     return df
