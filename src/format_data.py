@@ -44,6 +44,7 @@ def format_data(pdf_loc: str, txt_loc: str, csv_loc: str, format_txt_loc: str, f
     :param db_name: location of dataframe
     :return: None
     """
+    print('Data formatting in progress...')
     # start timing process
     t1 = timeit.default_timer()
 

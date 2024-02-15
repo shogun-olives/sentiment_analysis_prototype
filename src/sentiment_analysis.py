@@ -109,15 +109,12 @@ def analyze_all_sentiments(df: pd.DataFrame) -> pd.DataFrame:
         pass
 
     processed = pd.concat(data, ignore_index=True)
-
-    print(processed)
-
     new_df = pd.merge(df, processed, on='Processed', how='outer')
 
     return new_df
 
 
-def analyze(db_name: str):
+def analyze_data(db_name: str):
     """
     Takes a database that stores presentation data and analyzes sentiment for each presentation
     :param db_name: location of database
@@ -130,22 +127,26 @@ def analyze(db_name: str):
         nltk.download('all')
 
     # gets data from database
+    print('Sentiment analysis in progress...')
+    t1 = timeit.default_timer()
     df = fh.db_to_df(db_name, "transcripts")
     df = preprocess_all(df)
     df = analyze_all_sentiments(df)
     fh.df_to_db(df, db_name, "transcripts")
+    t2 = timeit.default_timer()
+    print(f'Time elapsed: {t2-t1:.2f} seconds')
 
 
 def main() -> None:
     # Paths should be with respect to root
     db = './files/sentiment_analysis_data.db'
-    file = 'C:/Users/Oliver/Documents/Pycharm/sentiment_analysis_prototype/files/preprocessed_transcripts/FB_2015-03-02_SD000000002855672852.txt'
+    file = './files/preprocessed_transcripts/FB_2015-03-02_SD000000002855672852.txt'
 
     root = '../'
     os.chdir(root)
 
     # analyzing entire database
-    analyze(db)
+    analyze_data(db)
     pd.set_option('display.max_columns', None)
     df = fh.db_to_df(db, "transcripts")
     # print(df)
