@@ -148,7 +148,7 @@ def main() -> None:
     analyze(db)
     pd.set_option('display.max_columns', None)
     df = fh.db_to_df(db, "transcripts")
-    print(df)
+    # print(df)
 
 
 if __name__ == "__main__":
