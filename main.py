@@ -37,7 +37,8 @@ def main() -> None:
     # display data
     # only display data if sentiment analysis has been completed
     # TODO Work in Progress
-    # display_data()
+    stock = "NVDA"
+    display_data(db_name, stock_symbol=stock)
 
     df = fh.db_to_df(db_name, "sentiment_analysis")
     pd.set_option('display.max_rows', None)

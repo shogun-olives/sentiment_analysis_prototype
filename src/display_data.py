@@ -7,14 +7,37 @@ import matplotlib.pyplot as plt
 def get_existing_data(db_name: str):
     df = fh.db_to_df(db_name, "sentiment_analysis")
     df.dropna(inplace=True)
-    df = df[df["Symbol"] == "NVDA"]
-    print(df)
 
-    pass
+    return df
 
 
-def display_data():
-    pass
+def display_data(db_name, stock_symbol):
+    df = get_existing_data(db_name)
+    df = df[df["Symbol"] == stock_symbol]
+
+    fig, ax = plt.subplots(2, 2)
+
+    nltk_types = ['neg', 'neu', 'pos']
+    x_labels = ["Negative Sentiment", "Neutral Sentiment", "Positive Sentiment"]
+    axes = [ax[0, 0], ax[0, 1], ax[1, 0]]
+
+    dfs = df.groupby("Type")
+
+    for label, data in dfs:
+        for a, sentiment, x_label in zip(axes, nltk_types, x_labels):
+            a.scatter(data[sentiment], data['Stock'], alpha=0.5, label=label, s=5)
+            a.set_xlabel(x_label)
+            a.set_ylabel("Stock Performance")
+            a.legend(fontsize="4", loc="upper left")
+
+    # improve resolution of output
+    plt.gcf().set_dpi(1000)
+
+    # show graph
+    fig.tight_layout()
+
+    # shows plots
+    plt.show()
 
 
 def main() -> None:
@@ -23,7 +46,8 @@ def main() -> None:
     root = '../'
     os.chdir(root)
 
-    get_existing_data(db_name)
+    comp = "NVDA"
+    display_data(db_name, comp)
 
 
 if __name__ == "__main__":
