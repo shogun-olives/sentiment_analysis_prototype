@@ -1,7 +1,7 @@
 from src.format_data import format_data
 from src.sentiment_analysis import analyze_data
 from src.prepare_data import prepare_data
-from src.display_data import display_data
+from src.display_data import display_data, display_all_data
 import file_helper as fh
 import pandas as pd
 
@@ -38,7 +38,7 @@ def main() -> None:
     # only display data if sentiment analysis has been completed
     # TODO Work in Progress
     stock = "NVDA"
-    display_data(db_name, stock_symbol=stock)
+    display_all_data(db_name)
 
     # df = fh.db_to_df(db_name, "sentiment_analysis")
     # pd.set_option('display.max_rows', None)
