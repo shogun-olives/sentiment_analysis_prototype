@@ -16,6 +16,7 @@ def format_transcript_data(pdf_loc, txt_loc, format_txt_loc):
     meta_df = fh.txt_get_all_metadata(txt_loc)
     txt_df = fh.format_all_txt(txt_loc, format_txt_loc, overwrite=False)
     df = pd.merge(meta_df, txt_df, on='ID', how='outer')
+    df['Date'] = pd.to_datetime(df['Date'])
     return df
 
 
@@ -62,7 +63,6 @@ def format_data(pdf_loc: str, txt_loc: str, csv_loc: str, format_txt_loc: str, f
 
 
 def main() -> None:
-    # TODO modify to work on personal device, paths may be relative or absolute
     # Paths should be with respect to root
     pdf_loc = './raw/transcripts/pdf'
     txt_loc = './raw/transcripts/txt'

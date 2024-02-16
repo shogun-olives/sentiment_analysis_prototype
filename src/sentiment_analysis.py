@@ -140,16 +140,12 @@ def analyze_data(db_name: str):
 def main() -> None:
     # Paths should be with respect to root
     db = './files/sentiment_analysis_data.db'
-    file = './files/preprocessed_transcripts/FB_2015-03-02_SD000000002855672852.txt'
 
     root = '../'
     os.chdir(root)
 
     # analyzing entire database
     analyze_data(db)
-    pd.set_option('display.max_columns', None)
-    df = fh.db_to_df(db, "transcripts")
-    # print(df)
 
 
 if __name__ == "__main__":
