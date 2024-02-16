@@ -1,7 +1,7 @@
 from src.format_data import format_data
 from src.sentiment_analysis import analyze_data
-from src.prepare_data import prepare
-from src.display_data import display
+from src.prepare_data import prepare_data
+from src.display_data import display_data
 
 
 def main() -> None:
@@ -17,21 +17,22 @@ def main() -> None:
     # formats data
     # only execute if converting raw data to formatted
     # TODO Do not mess with this, it could reset the database
-    format_data(pdf_loc, txt_loc, csv_loc, format_txt_loc, format_csv_loc, db_name)
+    # format_data(pdf_loc, txt_loc, csv_loc, format_txt_loc, format_csv_loc, db_name)
 
     # sentiment analysis
     # only execute if database does not yet have sentiment analysis
     # TODO Do not mess with this, it could reset the database
-    analyze_data(db_name)
+    # analyze_data(db_name)
 
     # prepare data
     # Only execute if data has not yet been prepared for graphing
     # TODO Do not mess with this, it could reset the database
-    prepare(db_name)
+    # prepare(db_name)
 
     # display data
     # only display data if sentiment analysis has been completed
-    # display_data.display()
+    # TODO Work in Progress
+    # display_data()
     pass
 
 

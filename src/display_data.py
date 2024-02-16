@@ -6,5 +6,5 @@ def get_existing_data(db_name: str):
     pass
 
 
-def display():
+def display_data():
     pass

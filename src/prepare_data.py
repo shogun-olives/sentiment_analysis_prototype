@@ -9,8 +9,8 @@ def get_data(row: pd.DataFrame, stock_data: pd.DataFrame) -> pd.DataFrame | None
     end_date = start_date + pd.Timedelta(days=7)
 
     try:
-        start_row = stock_data[stock_data['Exchange Date'] <= start_date].sort_values('Exchange Date', ascending=False).iloc[0]
-        end_row = stock_data[stock_data['Exchange Date'] <= end_date].sort_values('Exchange Date', ascending=False).iloc[0]
+        start_row = stock_data[stock_data['Exchange Date'] < start_date].sort_values('Exchange Date', ascending=False).iloc[0]
+        end_row = stock_data[stock_data['Exchange Date'] >= end_date].sort_values('Exchange Date', ascending=True).iloc[0]
     except IndexError:
         return None
 
