@@ -7,6 +7,9 @@ import pandas as pd
 
 
 def main() -> None:
+    # TODO download all packages. Run the following in terminal
+    # pip install -r requirements.txt
+
     # TODO modify to work on personal device, paths may be relative or absolute
     # Paths should be with respect to root
     pdf_loc = './raw/transcripts/pdf'
