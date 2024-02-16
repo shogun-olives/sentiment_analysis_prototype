@@ -19,30 +19,30 @@ def main() -> None:
     format_csv_loc = './files/stock_data'
     db_name = './files/sentiment_analysis_data.db'
 
-    # formats data
+    # 1. formats data
     # only execute if converting raw data to formatted
     # TODO Do not mess with this, it could reset the database
     # format_data(pdf_loc, txt_loc, csv_loc, format_txt_loc, format_csv_loc, db_name)
 
-    # sentiment analysis
+    # 2. sentiment analysis
     # only execute if database does not yet have sentiment analysis
     # TODO Do not mess with this, it could reset the database
     # analyze_data(db_name)
 
-    # prepare data
+    # 3. prepare data
     # Only execute if data has not yet been prepared for graphing
     # TODO Do not mess with this, it could reset the database
     # prepare(db_name)
 
-    # display data
+    # 4. display data
     # only display data if sentiment analysis has been completed
     # TODO Work in Progress
     stock = "NVDA"
     display_data(db_name, stock_symbol=stock)
 
-    df = fh.db_to_df(db_name, "sentiment_analysis")
-    pd.set_option('display.max_rows', None)
-    print(df)
+    # df = fh.db_to_df(db_name, "sentiment_analysis")
+    # pd.set_option('display.max_rows', None)
+    # print(df)
 
     pass
 
