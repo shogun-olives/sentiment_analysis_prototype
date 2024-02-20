@@ -36,15 +36,12 @@ def main() -> None:
 
     # 4. display data
     # only display data if sentiment analysis has been completed
-    # TODO Work in Progress
     stock = "NVDA"
     display_all_data(db_name)
 
     # df = fh.db_to_df(db_name, "sentiment_analysis")
     # pd.set_option('display.max_rows', None)
     # print(df)
-
-    pass
 
 
 if __name__ == "__main__":

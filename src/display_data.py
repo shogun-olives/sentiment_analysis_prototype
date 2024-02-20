@@ -1,7 +1,7 @@
 import file_helper as fh
 import os
 import matplotlib.pyplot as plt
-
+from itertools import chain
 
 def get_existing_data(db_name: str):
     df = fh.db_to_df(db_name, "sentiment_analysis")
@@ -54,7 +54,7 @@ def display_all_data(db_name):
 
     nltk_types = ['neg', 'neu', 'pos']
     x_labels = ["Negative Sentiment", "Neutral Sentiment", "Positive Sentiment"]
-    axes = [ax[0, 0], ax[0, 1], ax[1, 0]]
+    axes = list(chain.from_iterable(ax))
 
     dfs = df.groupby("Symbol")
 
