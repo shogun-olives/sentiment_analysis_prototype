@@ -20,6 +20,7 @@ def get_data(row: pd.DataFrame, stock_data: pd.DataFrame) -> pd.DataFrame | None
     affect = (end_perf-start_perf)/start_perf
 
     data = {
+        "ID": [row["ID"]],
         "Symbol": [row["Symbol"]],
         "Type": [row["Type"]],
         "neg": [row["neg"]],

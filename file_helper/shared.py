@@ -59,26 +59,23 @@ def get_path(fn: str, directory: str = None, get_fn_dir: bool = False) -> any:
     return merged_path, abs_fn, abs_dir
 
 
-def file_exists(fn: str, directory: str = None) -> bool:
+def file_exists(fn: str) -> bool:
     """
     Checks if a file exists in d directory
     :param fn: name of file to search for
-    :param directory: directory to search for file in, if left blank, defaults to current working directory
     :return: True if file exists and has data, otherwise False
     """
-    # Constructs relative path to given file
-    if directory is not None:
-        path = os.path.join(directory, fn)
-    else:
-        path = fn
-
     # Checks if file exists
-    if not os.path.exists(path):
+    if not os.path.exists(fn):
         return False
 
-    # If file exists, checks if file has data
-    if os.path.getsize(path) == 0:
-        return False
+    # Checks if file or dir has data in it
+    if os.path.isdir(fn):
+        if len(os.listdir(fn)) == 0:
+            return False
+    else:
+        if os.path.getsize(fn) == 0:
+            return False
 
     # if file doesn't exist or has no data, return true
     return True
@@ -104,10 +101,26 @@ def existing_files(file_names: list[str], directory: str) -> list[str] | None:
     exist = []
     for file in file_names:
         # checks if file exists in directory
-        if file_exists(file, directory):
+        if file_exists(file):
             exist.append(file)
 
     return exist
+
+
+def not_existing_files(file_names: list[str], src_dir: str) -> list[str] | None:
+    """
+    Gets a list of files that already exist in directory
+    :param file_names: list of files to search for in directory
+    :param src_dir: directory to search in
+    :return: list of files that exist in directory or None if directory does not exist
+    """
+    # makes sure that given directory is valid
+    try:
+        files = os.listdir(src_dir)
+    except FileNotFoundError:
+        return None
+
+    return [f for f in file_names if f not in files]
 
 
 def find_index(search_for: list[str], word_arr: list[str]) -> int | None:

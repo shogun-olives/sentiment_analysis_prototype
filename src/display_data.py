@@ -3,6 +3,7 @@ import os
 import matplotlib.pyplot as plt
 from itertools import chain
 
+
 def get_existing_data(db_name: str):
     df = fh.db_to_df(db_name, "sentiment_analysis")
     df.dropna(inplace=True)

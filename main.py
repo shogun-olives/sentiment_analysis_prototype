@@ -2,6 +2,7 @@ from src.format_data import format_data
 from src.sentiment_analysis import analyze_data
 from src.prepare_data import prepare_data
 from src.display_data import display_data, display_all_data
+from src.display_earnings import earnings_model
 import file_helper as fh
 import pandas as pd
 
@@ -36,8 +37,12 @@ def main() -> None:
 
     # 4. display data
     # only display data if sentiment analysis has been completed
-    stock = "NVDA"
-    display_all_data(db_name)
+    # TODO Uncomment to display stock data
+    # display_all_data(db_name)
+
+    # 5. earnings analysis
+    # Uses Logistic Regression to determine exceeding predictions or not based on sentiment
+    earnings_model(db_name)
 
     # df = fh.db_to_df(db_name, "sentiment_analysis")
     # pd.set_option('display.max_rows', None)
