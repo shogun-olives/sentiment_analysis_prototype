@@ -1,12 +1,12 @@
 """
-Ensures import hierarchy is correct
+Package for managing raw files
 """
 
-__all__ = ["csv_manager", "csv_metadata", "db_manager", "pdf_to_txt", "txt_manager", "txt_metadata"]
+# Type conversions
+from .convert_file import *
 
-from .csv_manager import format_csv, format_all_csv
-from .csv_metadata import csv_get_metadata, csv_get_all_metadata
+# Database
 from .db_manager import db_to_df, df_to_db
-from .pdf_to_txt import pdf_to_txt, all_pdf_to_txt
-from .txt_manager import format_txt, format_all_txt
-from .txt_metadata import txt_get_metadata, txt_get_all_metadata
+
+# File exist logic
+from .check_file import exists, file_exists, dir_exists

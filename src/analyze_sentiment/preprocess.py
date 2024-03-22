@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import pandas as pd
-from file_helper.shared import file_exists
+from file_helper.check_file import file_exists
 import timeit
 import os
 
