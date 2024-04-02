@@ -1,4 +1,4 @@
-from .user_interface import Page_Commands
+from .user_interface import isExit
 from .src_config import get_sentiment_analysis_menu
 
 
@@ -7,7 +7,6 @@ def prompt_user() -> None:
     Prompt user to select an option from the menu. If the user selects an option, execute the function associated with the option.
     :return: None
     """
-    # TODO check if user functionality works
     # use menu to get user option
     overwrite_mode = False
     full_menu = get_sentiment_analysis_menu()
@@ -15,7 +14,7 @@ def prompt_user() -> None:
     result = full_menu.navigate()
     
     # while result is not exit, continue to prompt user
-    while result != Page_Commands.EXIT and result is not None:
+    while not isExit(result) and result is not None:
         # if result is callable, execute it
         if callable(result):
             try:

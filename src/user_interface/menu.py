@@ -7,6 +7,16 @@ class Page_Commands(Enum):
     EXIT = 3
     CONTINUE = 4
 
+def isExit(item) -> bool:
+    """
+    Returns True if the input is the exit command, False otherwise.
+    :param item: input to check
+    :return: True if the input is the exit command, False otherwise
+    """
+    if item == Page_Commands.EXIT:
+        return True
+    return False
+
 class Menu:
     """Keeps track of the menu options and their corresponding functions."""
 
