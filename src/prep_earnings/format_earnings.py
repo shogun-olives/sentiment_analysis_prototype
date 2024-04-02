@@ -1,65 +1,86 @@
 import os
-from ..file_helper import db_to_df, df_to_db
-from ..shared import conditional_delete_row
-from alive_progress import alive_bar
+from io import StringIO
+from .earnings_metadata import earnings_metadata
+from ..file_helper import file_exists
+from ..shared import format_all
 import pandas as pd
-import numpy as np
 
-# TODO remember wtf I was doing here
-def remove_second_row(src_dir: str) -> None:
-    src_dir = os.path.abspath(src_dir)
-    match_str = 'Average of Absolute Values,,,,,,,,,,,'
-    with alive_bar(len(os.listdir(src_dir)), force_tty=True, title='Removing unnecessary data') as bar:
-        for file in os.listdir(src_dir):
-            if file.endswith('.csv'):
-                conditional_delete_row(os.path.join(src_dir, file), match_str)
-            bar()
 
-# TODO remember wtf I was doing here
-def all_performance_binaries(db_name: str, src_dir: str) -> None:
-    src_dir = os.path.abspath(src_dir)
-    df = db_to_df(db_name, "transcripts")
-    dfs = df.groupby(by="Symbol", dropna=True)
-    updated_dfs = []
+def new_fn(
+        fn: str
+) -> str:
+    """
+    Takes a file and returns an abbreviated file name
+    :param fn: Relative or Absolute path to old file
+    :return: new base name of file only
+    """
+    fn = os.path.abspath(fn)
+    data = earnings_metadata(fn)
 
-    files = os.listdir(src_dir)
-    with alive_bar(0, force_tty=True, title='Analyzing earnings') as bar:
-        for symbol, grouped_df in dfs:
-            earnings_files = [file for file in files if symbol.lower() in file.lower()]
-            for file in earnings_files:
-                performances = performance_binary(grouped_df, os.path.join(src_dir, file))
-                if 'EPS' in file:
-                    grouped_df = grouped_df.assign(EPS=performances)
-                else:
-                    grouped_df = grouped_df.assign(REV=performances)
-                updated_dfs.append(grouped_df)
-                bar()
+    symbol = data['Symbol']
+    s_type = data['Type']
 
-    df = pd.concat(updated_dfs)
-    df = df[['ID', 'Symbol', 'Type', 'neg', 'neu', 'pos', 'EPS', 'REV']]
-    df_to_db(df, db_name, 'earnings')
+    if any(item is None for item in (symbol, s_type)):
+        return fn
 
-# TODO remember wtf I was doing here
-def performance_binary(df: pd.DataFrame, fn: str):
-    csv_df = pd.read_csv(fn)
-    csv_df = csv_df[['Ann Date', '%Surp']].dropna(inplace=False)
-    csv_df['Date'] = pd.to_datetime(csv_df['Ann Date'])
-    csv_df['Surplus'] = pd.to_numeric(csv_df['%Surp'].str.removesuffix('%'), errors='coerce').apply(lambda x: 1 if x > 0 else 0)
-    csv_df.sort_values('Date', ascending=False, inplace=True)
+    return f'{symbol}_{type}.txt'
 
-    performances = []
-    for index, row in df.iterrows():
-        try:
-            performances.append(csv_df[csv_df['Date'] < row['Date']].iloc[0]['Surplus'])
-        except IndexError:
-            performances.append(np.nan)
 
-    return performances
+def format_earnings(
+    src_fn: str,
+    dst_dir: str = None,
+    overwrite: bool = False
+) -> dict[str:str]:
+    
+    src_fn = os.path.abspath(src_fn)
+
+    if dst_dir is None:
+        dst_dir = os.path.dirname(src_fn)
+    
+    dst_fn = os.path.join(dst_dir, new_fn(src_fn))
+
+    data = earnings_metadata(src_fn)
+    data['File'] = os.path.basename(dst_fn)
+
+    if file_exists(dst_fn) and not overwrite:
+        return data
+    
+    with open(src_fn, 'r') as file:
+        data = file.read()
+
+    # Remove misc data
+    match_str = 'Average of Absolute Values'
+    data = StringIO('\n'.join([line.strip() for line in data.split('\n') if match_str not in line]))
+    df = pd.read_table(data, sep=",")
+
+    # Only keep columns of interest
+    df = df[['Ann Date', 'Per', 'Per End', 'Reported', 'Estimate', '%Surp']]
+    df.rename(columns={"Ann Date": "Date"}, inplace=True)
+    
+    # Convert date to datetime
+    df['Date'] = pd.to_datetime(df['Date'])
+    df['Per End'] = pd.to_datetime(df['Per End'], format='%m/%d')
+
+    # Add if expectations were beat or not
+    df['Beat Pred'] = pd.to_numeric(df['%Surp'].str.removesuffix('%'), errors='coerce').apply(lambda x: 1 if x > 0 else 0)
+
+    # save to file
+    os.path.makedirs(dst_dir, exist_ok=True)
+    df.to_csv(dst_fn, index=False)
+    return data
+
 
 def format_all_earnings(
     src_dir: str,
     dst_dir: str,
     overwrite: bool = False
 ) -> pd.DataFrame:
-    # TODO finish this function
-    pass
+    df = format_all(
+        format_earnings,
+        "Formatting Earnings",
+        ".csv",
+        src_dir, dst_dir,
+        'Symbol',
+        overwrite
+    )
+    return df
