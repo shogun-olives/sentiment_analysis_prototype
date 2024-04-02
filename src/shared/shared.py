@@ -1,15 +1,12 @@
 """
-Module containing functions shared accross src
+Module containing functions shared across src
 """
-import pandas as pd
-import os
-from alive_progress import alive_bar
 
 
 def find_index(
         array: list[str],
         substr: str | list[str]
-    ) -> int | None:
+) -> int | None:
     """
     Finds first string in array containing substr
     :param array: list of strings
@@ -29,7 +26,7 @@ def find_index(
 def merge_dicts(
         dict_1: dict,
         dict_2: dict
-    ) -> dict[any:list[any]]:
+) -> dict[any:list[any]]:
     """
     Merges two dicts\n
     For each key:\n
@@ -41,16 +38,18 @@ def merge_dicts(
     :param dict_2: second dict
     :return: Merged dict
     """
-    keys = set(dict_1.keys() + dict_2.keys())
+    keys = list(dict_1.keys())
+    keys += [key for key in dict_2.keys() if key not in keys]
     final_dict = dict()
 
     for key in keys:
         if key in dict_1 and key in dict_2:
+
             if isinstance(dict_1[key], list) and isinstance(dict_2[key], list):
                 final_dict[key] = dict_1[key] + dict_2[key]
-            elif isinstance(dict_1, list):
+            elif isinstance(dict_1[key], list):
                 final_dict[key] = dict_1[key] + [dict_2[key]]
-            elif isinstance(dict_2, list):
+            elif isinstance(dict_2[key], list):
                 final_dict[key] = [dict_1[key]] + dict_2[key]
             else:
                 final_dict[key] = [dict_1[key], dict_2[key]]

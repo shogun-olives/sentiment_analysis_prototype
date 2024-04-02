@@ -1,9 +1,8 @@
-import file_helper as fh
-import pandas as pd
+from src import prompt_user
 
 
 def main() -> None:
-    pass
+    prompt_user()
 
 
 if __name__ == "__main__":

@@ -2,8 +2,8 @@
 This module takes an unformatted csv file and formats it for sentiment analysis
 """
 from ..shared.format_all import format_all
-from .extract_stock_metadata import get_metadata
-from file_helper.check_file import file_exists
+from .stock_metadata import stock_metadata
+from ..file_helper.check_file import file_exists
 import pandas as pd
 import os
 from datetime import datetime
@@ -11,14 +11,14 @@ from datetime import datetime
 
 def new_fn(
         fn: str
-    ) -> str:
+) -> str:
     """
     Takes a file and returns an abbreviated file name
     :param fn: Relative or Absolute path to old file
     :return: new base name of file only
     """
     fn = os.path.abspath(fn)
-    data = get_metadata(fn)
+    data = stock_metadata(fn)
 
     symbol = data['Symbol']
     date = data['End_Date']
@@ -33,7 +33,7 @@ def format_stock(
         src_fn: str,
         dst_dir: str,
         overwrite: bool = False
-    ) -> dict[str:str]:
+) -> dict[str:str]:
     """
     Formats a stock csv file for sentiment analysis
     :param src_fn: name of unformatted file
@@ -48,8 +48,8 @@ def format_stock(
     
     dst_fn = os.path.join(dst_dir, new_fn(src_fn))
 
-    data = get_metadata(src_fn)
-    data['File'] = '.\\' + os.path.relpath(dst_fn, os.getcwd())
+    data = stock_metadata(src_fn)
+    data['File'] = os.path.basename(dst_fn)
 
     os.makedirs(dst_dir, exist_ok=True)
 
@@ -84,7 +84,7 @@ def format_all_stocks(
         src_dir: str,
         dst_dir: str = None,
         overwrite: bool = False
-    ) -> pd.DataFrame:
+) -> pd.DataFrame:
     """
     Formats all stock csv files in src_dir and saves them in dst_dir
     :param src_dir: Directory with transcript txts
@@ -96,8 +96,8 @@ def format_all_stocks(
         format_stock,
         "Formatting Stocks",
         ".csv",
-        src_dir,
-        dst_dir,
+        src_dir, dst_dir,
+        ["Symbol"],
         overwrite
     )
     return df

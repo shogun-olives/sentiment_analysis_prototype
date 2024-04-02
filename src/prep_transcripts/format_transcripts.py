@@ -1,9 +1,9 @@
 """
 This module formats transcipts to be analyzed for sentiment
 """
-from ..shared.format_all import format_all
-from .extract_transcript_metadata import get_metadata
-from file_helper.check_file import file_exists
+from ..shared import format_all
+from .transcript_metadata import transcript_metadata
+from ..file_helper.check_file import file_exists
 import pandas as pd
 import re
 import os
@@ -11,30 +11,30 @@ import os
 
 def new_fn(
         fn: str
-    ) -> str:
+) -> str:
     """
     Takes a file and returns an abbreviated file name
     :param fn: Relative or Absolute path to old file
     :return: new base name of file only
     """
     fn = os.path.abspath(fn)
-    data = get_metadata(fn)
+    data = transcript_metadata(fn)
 
     symbol = data['Symbol']
     date = data['Date']
-    id = data['ID']
+    uid = data['ID']
 
-    if any(item is None for item in (symbol, date, id)):
+    if any(item is None for item in (symbol, date, uid)):
         return fn
 
-    return f'{symbol}_{date}_{id}.txt'
+    return f'{symbol}_{date}_{uid}.txt'
 
 
 def format_transcript(
         src_fn: str, 
         dst_dir: str = None,
         overwrite: bool = False
-    ) -> dict[str:str]:
+) -> dict[str:str]:
     """
     Formats a transcript txt file for sentiment analysis
     :param src_fn: name of unformatted file
@@ -49,8 +49,8 @@ def format_transcript(
     
     dst_fn = os.path.join(dst_dir, new_fn(src_fn))
 
-    data = get_metadata(src_fn)
-    data['File'] = '.\\' + os.path.relpath(dst_fn, os.getcwd())
+    data = transcript_metadata(src_fn)
+    data['File'] = os.path.basename(dst_fn)
 
     if file_exists(dst_fn) and not overwrite:
         return data
@@ -96,7 +96,7 @@ def format_all_transcripts(
         src_dir: str,
         dst_dir: str = None,
         overwrite: bool = False
-    ) -> pd.DataFrame:
+) -> pd.DataFrame:
     """
     Formats all tramscript txt files in src_dir and saves them in dst_dir
     :param src_dir: Directory with transcript txts
@@ -108,8 +108,8 @@ def format_all_transcripts(
         format_transcript,
         "Formatting Transcripts",
         ".txt",
-        src_dir,
-        dst_dir,
+        src_dir, dst_dir,
+        ['Symbol', 'Date'],
         overwrite
     )
     return df
