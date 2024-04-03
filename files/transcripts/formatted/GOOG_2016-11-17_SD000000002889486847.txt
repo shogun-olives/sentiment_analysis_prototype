@@ -1,0 +1,177 @@
+Oliver. Good morning. You talked a bit about pulling together all of these disparate
+assets that Google has to delight the consumer and in moments leveraging the
+different tools from hotels to ﬂights to Zagat. Can you talk a bit about the
+monetization strategy? You touched on the commission model on the hotel front. But
+as you pull all of these together, talk a little bit about how you work with the
+conﬂicting interest sometimes between the media model and more of a commission
+channel model?
+So with the new product, the new destination experience that we showed, this is an
+early product for us still. So we are still ﬂexible on the exact monetization model for
+that product. We tend to focus on the user first and worry about monetization
+second. But it is including ﬂights and hotels and it's actually leveraging the products
+that we have for ﬂights and hotels. So our existing monetization models for ﬂights
+and hotels continue to work. But I think it's also obvious if you watch closely that
+there are new opportunities coming from that product, for example, in the package
+space. These are early thoughts for us. We want to first get this right for the user and
+then worry about the monetization. But I think there are exciting opportunities.
+
+A - Oliver Heckmann
+A - Elizabeth Harz
+A - Oliver Heckmann
+A - Elizabeth Harz
+A - Oliver HeckmannI imagine with your YouTube and shopping experience coming over to the travel
+vertical, pulling all these assets together is a big ambition of yours. Can you talk a
+little bit more about that? Today was a little peek into where you are headed. But
+there are many assets that you didn't lean into as much in that demo.
+Yes. So I only mentioned a subset of the things that we are doing given there was
+limited time and I wanted to have enough time to show you the demo and, as
+Elizabeth mentioned, I've been moving over to the travel space a year ago and I was
+working on YouTube before -- something I generally feel, by the way, that we are not
+fully leveraging -- you guys are not fully leveraging in the travel industry is actually
+the insane power that YouTube has. The amount of content that is there is actually
+mind-boggling. Every single hotel that I have stayed since I've moved over and work
+on travel has actually multiple YouTube videos available and there are surprisingly
+few ads for hotels shown in the context of these videos. So there are clear
+opportunities there.
+
+So as a consumer, I certainly see how my United ﬂight data goes from Google Mail to
+my calendar and I would just love to get Google's perspective on data strategy -- the
+collection, ownership, privacy. Many of those questions come up when you
+experience that kind of data movement.
+Yes, privacy is actually a topic that's important for us and as you know or might not
+know, there is something that's called the Google Dashboard that is creating
+transparency over the data that we have and the different services that Google has to
+the user. And it's using pretty clear language and it's giving the user full control and
+ownership of the data. And we feel that that's an important thing to do and as the
+user is in control and ownership of the data, he is more willing to have that data be
+used for us to create some delightful experiences. If the user is not opting out of
+those services, what we can do is we can, from the email receipt in his inbox, for
+example, that's a new version of Gmail, we can show you your travel information
+more structured so you don't have to -- you are landing in Paris; you are on roaming;
+you need to find your hotel and then the faster we can actually get you to that
+information, the more delightful and the less stressful your travel experience is going
+to be.
+
+But as you can imagine, from the supplier side and your partner side, there are some
+issues that are raised around that. Just thoughts for those in the audience that may
+think of that more as their data and how that is used on the platform?
+Yes. What we are doing and I showed this earlier when we said Book on Google,
+what we want to do here is we might actually share the user information with the
+supplier so that the supplier has the full information they would get if that user
+A - Elizabeth Harz
+A - Rod Cuthbert
+A - Oliver Heckmann
+A - Elizabeth Harz
+A - Rod Cuthbert
+A - Oliver Heckmannwould go directly to their page. The goal here is really to decrease the friction and
+offer -- the user will have less friction in the actual purchase process. But he will have
+the same experience because I'm buying the ticket from Lufthansa and Lufthansa has
+my email address and I'm getting the same email from Lufthansa that I would be
+getting if I would go to their page, create an account there, sign up manually on my
+mobile phone, enter all my address information and so on. That would be more
+friction. But it will lead to the same outcome.
+
+I have more questions but, Rod, you can't be quiet this long; you are going to --.
+
+Right. You mustn't hog the ﬂoor. I've been waiting for a long time to get on the
+couch with you, Oliver. I feel, on behalf of at least a portion of the industry, that we
+need to talk about our relationship. I think a lot of us felt that we were in a
+committed, exclusive relationship and now with the stuff that you've been doing with
+ﬂights and hotels and what we saw today, man, it looks like you are playing the field.
+I guess a lot of us are thinking how is this relationship going to play out now. Are you
+going to be the sort of partner -- because we felt we had this great partnership -- are
+you going to be the sort of partner that is committed to making it work and is open
+and wants to talk about it and find a way to make it work?
+That's why I'm here, yes.
+
+Don't interrupt your partner.
+
+Okay, that sounds good. Because we wouldn't want you to be the sort of partner that
+just said, well, that's how it is; deal with it. As Douglas so succinctly put it yesterday in
+his intro, he said maybe Google is biting the hand that feeds it. Is that a discussion
+that you have inside Google?
+First, generally, biting the hand that feeds you is not a good business strategy. And
+that's not what we are doing. Very clear we are not becoming an OTA. Google has
+actually been in the travel space since the beginning of Google. From the first day
+that we launched, users came to Google and asked us questions around traveling.
+And it's not just ﬂights and hotels. They have all kinds of questions that actually only
+Google and other search engines are answering them. Are there poisonous animals
+on Hawaii? Until which months can my pregnant wife still ﬂy?? Are there good
+hospitals close by? Where can I buy camping equipment after I land in Honolulu? Do
+I need a visa for entering Russia with a German passport? There are all kinds of
+questions. (inaudible) travel planning just means looking up a ﬂight and a hotel and
+clicking on the book links.
+A - Rod Cuthbert
+A - Oliver Heckmann
+A - Elizabeth Harz
+A - Rod Cuthbert
+A - Oliver Heckmann
+Q - Travis Katz
+That's all well and good. But the industry that you see here before you and I think
+Phocuswright really demonstrates what a considerable industry it is and a lot of fun
+too, the Amadeus party last night, I just want to say well done to the Amadeus team.
+Actually, on that topic, let me add something. I have worked on YouTube for almost
+nine years. I've been the creator person there so I've been working with the music
+industry, with Hollywood and with all the YouTube stars. So I have seen a lot of crazy
+parties in my past nine years. But I have to say you guys beat the music industry in
+partying and I didn't expect that.
+
+Oliver, we have a question from the audience. (multiple speakers).
+
+What I wanted to say was, it's all very well that you've been answering all those
+questions. But the industry that you see here before you, a large part of it was built
+by intermediaries, people like Expedia and Booking.com and TripAdvisor and Viator
+and Rome2rio and all sorts of other people. They are here today. They have spent an
+enormous amount of money with you and when we look at the things you are doing,
+we wonder about our place in your view of the future. It doesn't seem as though we
+have a place. We see you thinking about you and the consumer and we wonder
+where we are in that. And it's like a lot of people in the industry see Google as an
+existential threat, a clear-and-present danger to their business.
+Yes. We are partnering with all of you. The world is changing and that was the
+common theme across most of the talks yesterday and the day before. The travel
+industry -- but the same is true for the broader industry that Google is in -- is in a
+constant state of change and there is a constant amount of disruption going on. Like
+a few years ago, who would've thought that Uber would disrupt the transportation
+business or Airbnb would disrupt the hotel business the way that they have done it.
+So actually probably the next disruption is someone sitting on that side of the stage.
+And for Google as the broader search business that we are in as a tech company, we
+are living in a world that has these kind of similar disruptions that are affecting us on
+a day-to-day basis. And user behavior today is different. People have moved to
+shorter and shorter moments. They are on their mobile phone all the time. They have
+different expectations on what we need to provide them and if we at Google don't
+move and provide them the answers as quickly as possible as they are looking for it,
+then they will stop using Google and they will be using something else. (multiple
+speakers).
+
+A - Oliver Heckmann
+A - Unidentified SpeakerI'm Travis Katz from a company called Gogobot and I wanted to talk about the user.
+So one of the founding principles of Google is put the user first and all else will
+follow and you talked about your goal with travel is to provide users with exactly
+what they are looking for in the answers. But one of the core tenets of our economic
+system is what users really want is choice and what's happening with Google is we
+are seeing what you're doing is the travel product, which is beautiful by the way --
+congratulations on all your work -- you are not giving users anymore choice of where
+they get those answers from and a lot of people think that you are abusing your
+monopoly in search to drive your things [ph].
+So my question for you is, if the product is so good and if you really are providing
+users the answers that they are looking for, why are you forcing your results to go
+first in the search results as opposed to letting the core Google algorithm rank them
+against other competitive sites?
+We are not putting -- I'm not sure if you meant the hotel or the ﬂight product or both
+of them. We are not putting anything up -- the ranking of our services in Google
+search is strictly following what's good for the user and we measure all kind of
+metrics for that. So we are not putting for example the hotel search results first if we
+are not actually scientifically proving using all kind of metrics that that's the best
+thing for the user looking at short clicks, long clicks and all kind of other stuff, side-
+by-side comparisons, panels, retention and all kind of other metrics.
+The product is much better. The world has changed. If I am searching for a hotel, to
+stick with that example, 10 blue links are no longer going to cut it. And now uses are
+also not searching for hotels in New York or in Florida, in Miami. The user is not
+looking for another place where he can search for hotels. The user is trying to find
+hotels in Miami and our experience is showing you directly much better than 10 blue
+links where are on the map are the different hotels; what are the prices? This is fresh
+information. And by the way. And that product that is on the screen right now, the
+vast amount of the clicks from that product, it's an organic product. The vast amount
+of clicks here is still organic, meaning unpaid traﬃc.
+Ladies and gentlemen, Rod Cuthbert, Rome2rio; Elizabeth Harz, ADARA; and Oliver
+Heckmann, Google.
