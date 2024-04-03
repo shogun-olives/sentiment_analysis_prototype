@@ -874,3 +874,455 @@ unique.
 This OS reﬂects an important history. It's familiar but it's also entirely new in every
 detail. We love the mac, is the tool we use to make all the products that we put out
 into the world and macOS Big Sur is where it starts.
+
+So that's the thinking behind our new design. Now, let me show it to you in action
+with a demo.
+As Alan said we've refined some of the most iconic elements of the mac experience.
+Let's start with the dock. It has its elegant new design that ﬂoats along the bottom of
+your desktop. And you'll notice that we've created gorgeous new app icons for all of
+your favorite apps.
+Speaking of apps, let's take a look at the finder. You noticed it has a gorgeous new
+top to bottom design for the side bar and it has a compact space-eﬃcient toolbar,
+makes it really easy to get to all of your controls. Next, let's take a look at mail. You
+can see that mail has all new gliffs [ph] in the sidebar and you may have noticed that
+we brought color back as well. Now each app uses its own key color and that same
+colors use the elegant new rounded low selection style here in the message list.
+Now the toolbar makes it really easy to get to all your controls. Check out how the
+search bar expands as I click on it. And of course other operations like filtering, they
+are just a click away. Next let's take a look at photos. It's just stunning. You can get to
+all your albums and media types from the sidebar and the photo grid is backed by
+metal so animations are super smooth, whether I'm scrolling, transitioning or
+zooming all the way in or all the way out, beautiful.
+Now we've refreshed the design for all the apps on the system. From apps like
+calendar and notes to podcast and music with its new listen now pane. And an new
+version of iWork that features a simplified toolbar. You may have noticed we've also
+updated the menu bar. It's now translucent, and elegantly takes on the color of your
+desktop picture.
+And we've updated the layout of menus as well. We've given all the items just a little
+bit more room to breathe.
+Now on the mac we love our ability to get directly at controls like Wi-Fi or sound, and
+you can see that we've reworked these to be even more useful, but we've gone even
+further this year by giving you one place to get at all your controls. We've brought
+Control Center to the mac. All of my controls are here and it's really easy to make
+adjustments. For instance I can change display brightness here, or I can click to dive
+in for more, like turning on dark mode or activating night shift. And what's really cool
+is that I can customize the menu bar with any of these controls.
+So say I want one click access to do not disturb. Well I can just click and drag it right
+into my menu bar and customize just like that. Now we've also reinvented
+Notification Centre. You can access it by clicking on the time in the upper right and
+as you see we now have a single view that brings your notifications and widgets
+together all in one place.
+We now group related notifications together. You can easily expand them to take a
+closer look or clear them all out in one step and we're bringing our redesigned
+widgets to the mac. They're really beautiful. And you have all new ways to customize
+them. I'm just going to click edit widgets down here at the bottom. You can see I
+have a gallery of all my widget and they come in a variety of sizes. I can select
+between them just like this and developers can bring their own widgets as well, like
+this one here from day one.
+Now adding widgets is easy. Let's start by adding say the world clock, maybe I'll add
+notes in, and it will be kind of cool to add my reminders list as well. So that's a look
+at widgets Notification Centre and our all-new design in Big Sur. Next there are
+exciting updates for some of the most used apps on the mac. First, let's talk about
+messages. Messages on the mac is designed to work seamlessly with all of your
+devices. So your SMS and iMessage conversations are in sync, no matter what device
+you're using.
+Now this year, we're taking messages to the next level with a ton of great new
+features. We're introducing powerful search to help you find what you're looking for.
+We have a redesigned photo picker to make sharing photos and videos easier, and
+Memoji. You can now create and edit your Memoji right on your mac. And Memoji
+stickers bring personality to messages giving you fun ways to express yourself in all
+of your conversations. Messages affects, helps you celebrate special moments and
+get your point across and you're also getting pinned conversations that are synced
+across devices, so you can always get to them, along with new groups
+enhancements. So that's what's coming to messages on mac, powerful tools to
+manage your conversations and new ways to express yourself.
+Next app, Maps. Apple Maps is the best way to explore and navigate the world,
+whether you're planning a trip on the mac or using turn-by-turn directions on your
+iPhone. Today, I'm excited to announce an all new version of maps for the mac. To
+start, maps features a stunning new design that makes it easy to find your way
+around using Apple's detailed new map. And for the first time in the mac, favorites,
+like home, work and that great coffee shop in the corner are now just a click away.
+You can now create your own guides for all the places you want to visit right on your
+mac. And before leaving for the airport, you can check where you're gate is located
+with indoor maps or explore your destination city with look around which is
+incredible on the big screen.
+We've even brought other useful features to the mac, like the ability to see the
+progress of friends, who shared their ETA with you. And the mac gets all the other
+new maps features we just introduced in iOS 14. And that's just a taste of what's
+coming in the all-new Apple Maps on the mac.
+Next, let's talk about Mac Catalyst. Catalyst gives developers, a big head start in
+creating a mac App from an iPad app. Take for instance our recent release of Swift
+Playgrounds for Mac Catalyst gave us a big head start creating the App and we were
+able to spend our development time crafting a great mac experience.
+Today, we have some improvements to Mac Catalyst I'd like to share. This year,
+developers will be able to optimize their apps to fully utilize the native resolution of
+the mac screen, providing total control of every pixel. We've also given developers
+new capabilities, including powerful new menu and keyboard APIs and updated
+controls like check boxes and date pickers. They look great with the new design in
+macOS.
+In fact, we use catalyst with the new version of maps and just as you'd expect, it's a
+full-ﬂedged mac App that runs natively and is designed in a way that's true to the
+mac. So you get multiple re-sizable windows, keyboard shortcuts and everything else
+you'd expect from a native mac App. And we did the same thing for messages. Maps
+and messages joined the great set of apps from Apple that already use the Mac
+Catalyst technology. And there is a growing list of third-party catalyst apps available
+on the mac App Store.
+Next, Safari. Our users love Safari for its speedy performance, power eﬃciency and
+state of the art privacy protections and it delivers all of that while making it easy to
+get your bookmarks, tabs and browsing history across all of your devices. This year,
+we're building on Safari's amazing performance, elegant design and pioneering
+privacy protections to deliver the biggest update to Safari, since it was first
+introduced.
+As you know, Safari has long been the world's fastest desktop browser. This year,
+Safari is performance running JavaScript is better than ever and continues to
+significantly outpace all other major browsers. And now, when it comes to page
+loading, we're even faster there too. In fact when loading frequently visited websites,
+Safari is now in average more than 50% faster than Chrome, and Safari delivers this
+amazing performance while continuing to deliver industry-leading battery life. And
+of course Safari is continuing to build on its pioneering track record of protecting
+user privacy.
+Safari was the first browser to introduce private browsing, cookie blocking and most
+recently intelligent tracking prevention. This year, we want to give our users even
+more visibility into how each site they visit tries to track them and the ways that Safari
+protects them. So now users can click on the privacy report button in the toolbar
+when they visit a site to better understand how that site is treating their privacy.
+In addition to monitoring unwanted tracking, Safari now also securely monitors your
+saved passwords to ensure that they haven't been compromised in a data breach.
+And this is also a big year for extensions in Safari. We're adding support for the web
+extensions API, so developers can easily bring over extensions that they've built for
+other browsers. And we're building an all new category in the Mac app store to
+showcase Safari extensions so users can easily find them. Now extensions are very
+powerful but can introduce privacy challenges.
+In other browsers, extensions can access every page you visit, every tab you open,
+even everything you type. So we're doing even more here. In Safari, you choose
+Beth Dakinwhich sites each extension can work with. And you can even give them access just
+for the day, just for the website or all the time, but improved performance, power
+eﬃciency and privacy protections are only the start. We have a whole slew of new
+features this year from a customizable start page to redesigned tabs that are more
+elegant and powerful and native translation capabilities built right in the Safari.
+To tell you more, I'll hand it off to Beth Dakin.
+Thanks, Craig. I'm so excited to give you a tour of the brand new Safari. When you
+open Safari, right away, you'll notice the new-look. It's clean and fresh. I want to show
+you one of my favorite new features the customizable start page. I love it, because I
+can make it my own. It's easy to get to the customization controls here in the bottom
+corner.
+We think a lot of people are going to want to set a background image and there is a
+beautiful Gallery of curated wallpapers to choose from. You can use one of your own
+photos too and I know I want a photo of my son. I have a few really cute ones here in
+the downloads. I can just drag and drop to set it. That is so perfect.
+You can add new sections to the start page too. Let's add iCloud tabs and reading
+list. Let's take a look. There, this is perfect. I use reading lists all the time and now it's
+so easy to get to. Another way that you can dial in Safari to your specific needs is
+with extensions. I can't wait for you developers to bring your web extensions to
+Safari. I've gone ahead and downloaded a few web extensions to take a peek. So
+let's go here to the Safari preferences to enable them. And I'll enable Power
+Thesarus and Recipe Filter. So each of the extensions that I just enabled now has its
+own button here in the toolbox.
+Let me show you Recipe Filter. I love this one. So this extension will search the web
+page for a recipe and it finds line it will pop up in a little card. It's been a great
+accelerator for me when I'm building a grocery list. So the extension hasn't done
+anything yet because I haven't granted permission. So let me click on the toolbar
+button and I'm going to allow this extension for one day. And when I click here it will
+do its thing. So here we go. And there it is. So useful. Okay, so I have my personality,
+pretty thoroughly stamped over Safari at this point. And you know I use Safari for a
+lot of personal things. And Apple makes sure my private life stays private. Privacy is
+essential to everything we do at Apple and it's critical on the web. And now you can
+see what Safari is doing to protect you.
+If I click on the intelligent tracking prevention button, I can see the number of known
+trackers that Safari protected me from on this web page. I can click here to see a list
+of the known trackers right here in this pop over and the full privacy report is just
+one click away. And that's what we have for privacy in the new Safari.
+Next I'd like to talk about Tabs. If you love tabs, you're going to love the new safari.
+It's easier and more eﬃcient than ever to work with lots of tabs. So I have another
+Craig Federighi
+Tim Cookwindow here and right away, you'll notice that there are icons and tabs which makes
+it so easy to spot what you're looking for. And if I open more tabs, then you'll see
+more of them at once, because the tabs get smaller and uses the space more
+eﬃciently. If it's a little hard to find what you're looking for with this many tabs, that's
+no problem, you can just hover over tabs and see a nice preview of the page.
+I'm ready to clean up now and that's easy too. I can just bring up the context menu
+here and close all tabs to the right just like that. We are so excited that the new Safari
+has built in translation. Let me show you.
+So here on this website on El Mundo Safari has detected that this is not my primary
+language and it's added the translation icon to the smart search field. I can click here
+and let's translate this page to English. It will happen in line and as more content is
+added that gets translated dynamically too. So these are some highlights, but there
+are so much more to the new Safari.
+Back to you, Craig.
+
+Thanks, Beth. So that's Safari. It's a huge release with new ways to customize, big
+improvements to your browsing experience like tabs and translation and even
+stronger privacy protection to keep your browsing, your business. And that's macOS
+Big Sur, the biggest update to design since the original introduction of macOS X,
+significant updates to messages and maps and the biggest update to Safari ever. But
+these changes are only the beginning. For years now down deep below the surface
+we've been working on something truly profound.
+To tell you more, I'll hand it back to Tim.
+
+Thanks, Craig. Big Sur is going to be a great release of macOS. But that's only part of
+the story, because today is going to be a truly historic day for the mac. Today, we're
+going to tell you about some really big changes, how we're going to take the mac to
+a whole new level. From the very beginning, the mac redefined the entire computer
+industry. The mac has always been about innovation and boldly pushing things
+forward, embracing big changes to stay at the forefront of personal computing.
+The mac has had three major transitions in its history. The move to PowerPC, the
+transition to macOS X and the move to Intel. And now it's time for a huge leap
+forward for the mac. Because today is the day we are announcing that the mac is
+transitioning to our own Apple silicone. When we make bold changes, it's for one
+simple yet powerful reason. So we can make much better products. When we look
+ahead, we envision some amazing new products and transitioning to our own
+custom silicon is what will enable us to bring them to live.
+Johny SroujiAt Apple, integrating hardware and software is fundamental to everything we do.
+That's what makes our products so great and silicon is at the heart of our hardware.
+So having a world-class silicon design team is a game changer. To tell you more
+about Apple's silicon and how it will take mac to the next level, I'd like to send you
+over to Johny Srouji at one of our labs in an undisclosed location.
+(Video Presentation)
+
+Welcome to our lab. We've been building on refining our Apple silicon for over a
+decade. The result is a scalable architecture that is custom designed for Apple
+products and it leads the industry in features and performance per watt. So I'd love
+to tell you how we got here and what it means for the mac moving forward.
+It all started with the iPhone. The iPhone demanded performance and capabilities
+that were seen as impossible in a device that small. This is why we developed our
+relentless focus on performance per watt. Generation after generation, we pushed
+the boundaries of technology which enabled us to improve performance and energy
+eﬃciency while building advanced and industry leading features. Our team
+delivered 10 generations of increasingly complex enriched designs, always
+improving performance.
+In fact CPU performance in the iPhone has improved by over a 100 times, keeping
+the iPhones performance ahead of every other phone in the industry. Another
+opportunity for the team was the iPad. While iPhone chips could dive our midstream
+iPads, we wanted to push the iPad even further. It begun with the iPad's Retina
+display which demanded a custom chip. So the team's scaled our architecture and
+designed the most optimized and highest performance chip possible for the iPad,
+starting with A5X we built a line of SoCs specifically designed for the iPad.
+We doubled the iPhone's graphics performance through a larger GPU and a wider
+memory subsystem. This was the iPad in a class by itself. Compared to the very first
+iPad, the latest iPad 4 delivers over 1,000 times faster graphics performance in just 10
+years. This is part of the reason why the iPad 4 is faster than the vast majority of PC
+laptops. And this foreshadows how well our architecture will scale into the mac.
+Another place where we applied our focus was the Watch. We scaled our SoC
+architecture to optimize performance for the devices' unique low power
+requirements. And we built a chip perfectly suited for Apple Watch. All our SoC
+enable each these products with unique features and end up the leading
+performance per watt. And it makes each of them best in class. And we do this at an
+enormous scale.
+In fact, adding all of the processors across these three products, we shipped over 2
+billion in just 10 years. And we've designed and shipped billions of additional chips,
+that work together with ours SoCs to enable our amazing products. And now we're
+Craig Federighibringing all of that expertise and that same focused and disciplined approach to the
+mac.
+The first thing this will do is give them the mac a whole new level of performance.
+Now when we talk about performance, we have to talk about power, because all
+systems built today are constrained by power consumption, performance or both.
+Among today's consumer systems, desktops deliver the highest performance but
+consume the most power. Notebooks trade-off performance for lower power making
+them portable. As you can see normally to get more performance, you have to
+consume more power.
+When you take a closer look at this chart, you realize you want to operate in the
+upper left corner. You want to deliver the highest performance at the lowest power
+consumption and that's exactly where we want to take the mac, building upon our
+years of experience, designing the world's most energy eﬃcient chips, our plan is
+give the mac a much higher level of performance, while at the same time consuming
+less power. So much better performance is reason enough to transition to mac to
+Apple SoCs. But that's just part of the story. Our scalable architecture includes many
+custom technologies that when integrated with our software will bring even more
+innovation to the mac.
+With our advanced power management, we will maximize performance and battery
+life better than ever before. Our Secure Enclave will bring best-in-class security and
+our high performance GPU is going to bring a whole new level of graphics
+performance to every mac, making them even better for pro applications and really
+great for games. And combined with other neural [ph] engines, our chips will make
+the mac an amazing platform for machine learning. And we're bringing many other
+custom technologies such as our video display and image processing engines that
+will help make the mac better than ever before.
+So what does all of this meant for the mac. First, we're designing a family of SoCs
+specifically for the mac product line. Second, just like we did with the iPhone, iPad
+and Watch, we're going to bring great technologies to the mac. This will give the
+mac a unique set of features and incredible performance. And third, we'll have a
+common architecture across all of our product lines, making it far easier for
+developers to run [ph] an optimized software for the entire Apple ecosystem.
+Ultimately, we know that bringing our SoCs to the mac will allow us to build much
+better products. And the mac will take another huge leap forward. Now a key
+advantage we have is the tight integration of our silicon with our software.
+To tell you more about how macOS will earn on Apple SoCs here is my colleague,
+Craig.
+
+Thanks, Johny. Now let's talk about the technologies that we built into macOS Big
+Sur that will make the transition to Apple silicon smooth and seamless for both
+consumers and developers. These new mac systems will be incredible and users will
+want their favorite apps to take full advantage of the capabilities of our custom
+silicon and the best way to do that is with native apps.
+So of course, when we updated our apps for Big Sur, we built everything as native
+for Apple silicon. And I'm happy to say we have all of our own Apple apps including
+our most demanding Pro Apps like Final Cut Pro and Logic Pro up and running as
+native now and they'll be ready for customers on day one. So how do we do this?
+We're using Xcode just like all our developers will. Everything developers need to
+build apps for these new chips is built into the new version of Xcode.
+To get started developers just open their app projects and re-compile. The vast
+majority of developers can get their apps up and running in just a matter of days.
+And to deliver these apps, we've created Universal 2. It's a new type of universal
+binary that works on both Intel-based macs and macs built on Apple silicon.
+So developers can tap into the native power and performance of our new macs and
+still support Intel-based macs, all with a single binary for all of their users. Some of
+the biggest mac developers have already gotten started. Microsoft is hard at work on
+oﬃce for the mac. And we've been working with Adobe on their ﬂagship Creative
+Cloud and many of their apps are already up and running great. So let's take a look
+at macOS running on Apple silicon. So here we are on the desktop that we know and
+love. And I'm just going to open up about this mac. And what you see here is that we
+are running on our Apple development platform. This is a system built to support
+early development using the same A12Z processor currently shipping in iPad Pro.
+Now I have a confession to make. This isn't the first time you've seen macOS running
+here. In fact, this is the same mac that Beth and I used to demo all the new Big Serve
+features earlier. And as you saw earlier, we've updated all of our Apple apps and
+they're running great. Of course, a big part of the mac experience is third party apps
+and we've been working with our friends at Microsoft and they already have oﬃce
+up and running natively on our new macs.
+Let's take a look at word. It runs great. Scrolling is super smooth. Everything you do is
+just super responsive. Next, let's checkout Excel. Just as you would expect complex
+sheets and elements like this map all update instantly. And next, let's take a look at
+PowerPoint. It's using metal [ph] for rendering and it performs great. For instance,
+checkout how I can see all the layers of my slide in 3D. The animation is perfectly
+ﬂuid and we've also been working closely with our friends at Adobe to bring
+Creative Cloud to our new macs.
+Here's Lightroom running native on Apple silicon, navigating large libraries of D&G
+images is super-fast and all of Lightroom's editing controls are available right here.
+Let's apply an adjustment to this image. Well, that's much better and we can apply
+that same edit to all of these images in a single step. Looks great.
+Next let me show you the App. I know many of you want to see, Photoshop. Here's a
+5 gigabyte Photoshop filed by photographer Steven Wilkes. Now this is a heavy duty
+document with lots of layers. Now let's add one more bird in there. Not totally
+comfortable with the level of social distancing but let's keep going. And let's check
+out how smooth the animation is as I zoom out. Wow, beautiful. Finally, let's turn to
+one of our most sophisticated apps, Final Cut Pro. Here it is running on Apple silicon
+for the first time.
+Let's play back some 4K video. As you can see, playback is super smooth and all
+your filters are here and you can apply them in real time. Let's try some color
+correction. And I can even add animated titles and lens ﬂare all during live playback
+and Final Cut takes advantage of the unique capabilities of the Apple neural engine
+with a new feature that analyzes video and intelligently crop set to keep the most
+important action the frame. But that's not all. Final Cut fully exploit the system's
+multi-core architecture to let us play back, not just one or two but three streams of
+full resolution 4K Pro all on a A12Z processor. Amazing. So that's a first look at
+Universal apps on Apple silicon.
+We're really excited to see so much great work on native apps. These apps even get
+more amazing when they're built to take advantage of the silicon's powerful
+capabilities, like incredible CPU and graphics performance, a unified memory
+architecture and the Neural Engine which accelerates advanced machine learning
+tasks. The transition to Apple silicon is also great for developers who've already
+optimize their apps for other Apple platforms. The shared architecture across our
+products means that there code will absolutely sync on our new macs and there's
+even more to the story.
+We're doing some really important things to make this transition seamless for our
+users. Now while we expect most developers will go native immediately, we want to
+make sure that users can run all of their apps on day one, even if some apps haven't
+yet updated. Now we've been down this road before. When we transition from
+Power PC to Intel processors a cornerstone of that transition was Rosetta, a
+technology that makes it possible to run PowerPC apps on Intel-based macs.
+MacOS Big Sur will include a new version of Rosetta, Rosetta 2. Rosetta 2
+automatically translate your existing Mac apps. So they work on new Macs with
+Apple silicon. And this time Rosetta is even faster, more powerful and more
+compatible. It translates the apps when you install them so they can launch
+immediately instantly responsive and Rosetta 2 can also translate code on the ﬂy
+when needed. Like for web browsers with just in time JavaScript compilers or for
+Java code. It even handles the most complex Pro Apps, and their plugins.
+Rosetta 2 is transparent to users and the performance is amazing. We're also
+introducing new virtualization technologies in macOS Big Sur. So for developers who
+want to run other environments like Linux or tools like DARCO [ph], we have you
+covered. When you put all of these technologies together, Universal, Rosetta and
+virtualization, you will have a system that can run an amazing diversity of apps.
+Andreas Wendker
+Craig FederighiTo show you how this all comes together, I'll hand it over to Andreas Wendker.
+Thanks, Craig. Let's take a look at some existing apps running under Rosetta. Rosetta
+of course works great with all sorts of apps that use her every day, but for our first
+demo I'd like to see something a bit more challenging. This is Maya, the powerful
+animation and modeling software, running great here on Apple silicon. I already
+have a model open that consists of over 6 million polygons and as you can see I can
+ﬂuidly move around in the sea. So it's making it more challenging and bring textures
+and still everything is incredibly ﬂuid.
+So, Rosetta works great. And the performance is simply fantastic, but Rosetta isn't
+just for apps. It also looks amazing very with games. I can even use a game
+controller. This Shadow of the Tomb Raider, a high end AAA game that's using our
+metal APIs. I download it directly from the mac App Store, so it's completely
+unmodified and it is absolutely beautiful.
+Let me jump into the water. You see some of the lighting effects here and as I follow
+the path, you can see the game is responsive and smooth. And the best part is
+you're running at a 1080P as a translated app and emulation. So these new macs,
+they are fast. You can see some more of the lighting effects here. It's awesome, what
+Rosetta can do is existing games.
+Now, as Craig mentioned, many of our users rely on apps from other environments.
+So if you bring up a Linux VM imperatives desktop you can see the graphical user
+interface designed for Linux here, but of course many developers like to use Linux
+for hosting service. So let me dive down to the command line and launch an Apache
+Web server.
+And now I can simply bring up Safari and browse the web site of the survey I just
+launched in the Linux VM. Here it is. Now I want to show you one more type of app
+to run on these new macs, we haven't even told you about yet. And that is iPhone
+and iPad apps. Since they've been made to run on the same Apple silicon, that we
+are using in our new macs they will run natively completely unmodified on the new
+macs as well.
+Let me show you a few. This here is one of my favorite games, Monument Value 2. It's
+fun to play here on the new mac. And if I wanted to catch up on my guitar lessons, I
+can do so splendidly. Well, if I want to relax at the end of the day, a little bit, I can
+bring up the (inaudible). And that was just a quick look at Rosetta virtualization and
+support for iPhone and iPad app, giving you just amazing versatility for running apps
+and other environments this macOS on Apple Silicon. Back to you, Craig.
+
+Thanks, Andreas. As you saw, macs built with Apple silicon will be able to run iPhone
+and iPad apps directly. Starting day one, users can download these apps right from
+Tim Cookthe mac App Store and most apps will just work with no changes from the developer.
+With everything we're doing, the range of apps that users will be able to run on
+these new macs is truly unprecedented.
+Together, we have all the technologies in place to make this an amazing transition.
+The vast majority of mac apps can be re-compiled as Universal in a few days. So
+users can have fast native apps. Rosetta 2 runs existing mac apps, our virtualization
+technology makes it easier than ever to bring other environments like Linux to the
+mac. And mac users can for the first time run iOS and iPad OS apps directly tapping
+into the world's most vital app ecosystem.
+Now we know our mac developers will be eager to get started on this new platform.
+So to get them going right away, we're launching a QuickStart program. The focus of
+the QuickStart program is to enable developers to make their apps universal and
+take advantage of all the capabilities of Apple silicon. Developers will have access to
+documentation and sample code, forums on developer.apple.com, priority support
+incidents and access to labs around the world.
+This program also includes new developer transition kit hardware, so developers can
+get going even before we ship production systems. The DTK hardware takes the
+form of a mac mini, but one with an A12Z SoC inside. It has desktop specs, including
+16 gigabytes of memory, 512 gig SSD and a complement of mac I/O ports. Most
+significantly, it will include the macOS Big Sur developer beta and Xcode tools.
+Developers will be able to apply to the program at developer.apple.com today. We
+will be shipping units out starting this week. So you can get to work. So that's how
+macOS Big Sur is paving the way for a smooth transition to Apple silicon. This year
+we're elevating the mac to a whole new level and it's an incredible opportunity for
+developers. I can't wait to see what you all create and I can't wait until we can all be
+together in person again. And now back to Tim.
+
+Thank you, Craig. And thank you, Johny. It truly is a historic day for the mac. Our
+vision for the mac has always been about embracing breakthrough innovation and
+having the courage to make bold changes. Every time, we've done this the mac has
+come out stronger and more capable. And I have never been more confident about
+the future of the mac than I am today.
+So what's the timeline for this transition? Well, for developers it begins this week with
+the valuable information delivered at this conference as well as applying for the
+Quick Start program and for the customers, we expect to ship our first mac with
+Apple silicon, by the end of this year and we expect the transition to take about two
+years.
+We plan to continue to support and release new versions of macOS for Intel-based
+macs for years to come. In fact, we have some new Intel-based macs in the pipeline
+that we're really excited about. What a huge leap forward for the mac and for Apple.
+Apple silicon will bring amazing technologies, industry leading performance and a
+common architecture across all of our products.
+What an incredible day of announcements. As you've seen, we haven't stopped
+innovating. We pushed all of our platforms forward in some amazing new ways. Our
+OS releases will be available as developer betas today and each of them will have a
+public beta including watchOS for the very first time starting next. And all of this
+great software will be available to our customers this fall.
+We hope you've enjoyed this very special keynote and that you are ready for the big
+week ahead, with over 100 engineering-led video sessions, one-on-one
+consultations with Apple engineers and so much more. We can't wait to start
+working with all of you. And watch you do the best work of your lives.
+At Apple, we've always drawn strength from the diversity of our global community,
+because we truly believe when we all work together, we can change the world for
+the better. Thanks to you all for joining us. This has been such a big day and it's only
+the beginning of a huge week to come. So let's have a great WWDC.

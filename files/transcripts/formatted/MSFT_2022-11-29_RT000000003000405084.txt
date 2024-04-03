@@ -243,3 +243,79 @@ vertical solutions, and so investing in that and there's new capabilities we bro
 market. Our marketplace is a great example of being able to bring all of our partner
 solutions to our customers very quickly, through an integrated marketplace. So,
 those are some of the new areas of both investment and focus in our go-to-market.
+
+Alysa Taylor
+Phil Winslow
+Alysa Taylor
+Phil Winslow
+Alysa TaylorYeah. That's something that I've heard to, just on the go-to-market particularly sort of
+verticalization of it that especially call it in these times than having somebody that
+sort of speaks the language of the vertical, somebody that speaks sort of financial
+services -- selling to financial services and saying sort of this is how you even sell the
+project internally actually helps you or just sales cycle, your sales process win and
+sort of the sales person speaks the language of the customer, it can almost help the
+customers sell it internally so to speak.
+Yes.
+
+You're the call it, the Champion, you sell it internally.
+Yes. If you sit with the Chief Medical Oﬃcer and try to talk to her about the data
+center, him or her, that's not going to go very well. So you have to -- you actually
+have to deeply understand what a Chief Medical Oﬃcer is facing every day, things
+like, physician burn-out and patient engagement and being able to -- enable
+frontline workers. So it's a very, very different orientation for how you actually serve
+customers.
+
+Yes. So, a right time to make that change. The vertical alignment -- it's now as good
+as ever. So wrapping up here in the last couple of minutes here. Let's say we're
+sitting on stage two, three years from now, what technology change or trend you
+think we're going to look back on and say, hey, this was more widespread or more
+transformative for Microsoft's customers and maybe people were giving a credit for
+back-ended 2022?
+I think there's two areas, the first is there's a lot of buzz in the market right now about
+the Metaverse. And I think most people think of Metaverse, they think of gaming or
+social, but there's actually an industrial side of Metaverse that is emerging, that I
+think is one that has a ton of potential.
+So if you think, I talked a little bit about digital twins in the manufacturing, but if you
+think about being able to blend that physical and digital world in a way that allows
+you to do things like replicate entire buildings, replicate entire factory ﬂoors, being
+able to then remotely monitor those factories, as an example. So, being able to
+replicate, monitor and then actually drive eﬃciency. When we talk about the
+Industrial Metaverse that's what we're talking about.
+Phil Winslow
+Alysa Taylor
+Phil Winslow
+Alysa TaylorAnd so it's a Great Coca-Cola -- their Austrian Bottling Company, is a great example
+of. They actually would have to go out and have routine maintenance, which is you
+don't know if the factory needs to be maintained, but they actually stood up a digital
+twin. They can zero in to all of their different bottling companies around the world.
+And they actually can then maintain, so actually monitor and maintain that bottling
+facility. So they can look at things like water output, they can predict where there
+might be breaks in the line.
+And so, then they aren't doing the costly ﬂy out to that bottling company and do the
+standard 30, 60, 90 day maintenance, they're doing maintenance as needed and
+then they're doing predictive maintenance. And they're able to also have their
+experts from around the world troubleshoot without having to ﬂy them in.
+And so, if you think about that, like then you are both saving costs on things like
+maintenance, being able to be in a proactive state, you are actually able to do things
+like lower your carbon emissions, because you're not ﬂying people all around the
+world to maintain that factory, and you're able to do things like understand where
+there is automation that you can reply into the factory to make it more eﬃcient.
+And so, I think the industrial Metaverse is something that has huge potential and I
+think we're on the very early cusp of realizing that. And so I think that's one that I
+would say is we'll sit here and however many years and I think I think it'll be a much
+more prevalent type set of technologies that companies are using, because they can
+be more eﬃcient, they can save costs and they can be also more sustainable.
+
+Interesting.
+So, I put that at the top, first. And then I think just a bridge on that, I do think mostly
+because of where the world is going, and coupled with regulation, Sustainability and
+how you do, not only just carbon emissions but water and waste is another area that
+is going to be more and more I think at the top of everyone's list from a priority
+standpoint.
+
+Yeah. 100% on both those too. Great. Well, I appreciate the time. Like I said, thank
+you for your coming -- it was great conversation and well maybe check back in 2, 3
+years and we'll check on the Metaverse and sustainability clouds.
+I love it. Right. Thank you. Thank you for having me.
+Phil Winslow
+So, thank you very much. Appreciate it.

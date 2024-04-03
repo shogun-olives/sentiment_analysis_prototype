@@ -1,564 +1,710 @@
-FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 1 of 15, Vice President, Healthcare
-Analyst
-, J.P. Morgan
-Harlan Sur
-Kimberly PowellJ.P. Morgan 41st Annual Healthcare Conference 2023
-Company Participants
-Kimberly Powell
+FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 1 of 18, Research Vice President
+, Senior Technology Analyst, Bloomberg Intelligence
+Anurag Rana
+Carl OlofsonCompany Participants
+Carl Olofson
 Other Participants
-Harlan Sur
+Anurag Rana
 Presentation
-{BIO 6539622 <GO>}
-All right. Good morning, and welcome to J.P. Morgan's 41st Annual Healthcare
-Conference here in San Francisco. My name is Harlan Sur. I'm the Semiconductor
-Analyst for the ﬁrm. And for the fourth time in ﬁve years, we have the team from
-NVIDIA presenting. And in fact, in the 41-year history of the healthcare conference,
-NVIDIA has been the only semiconductor company to present here. So very honored
-to have them again here this year.
-For those of you that don't know NVIDIA, leader in accelerated computing
-semiconductor systems, hardware and software platforms, in areas like artiﬁcial
-intelligence and deep learning, powering some of the world's most powerful
-supercomputers and driving compute innovation for cloud and hyperscalers as well
-as large vertical markets like healthcare and life sciences.
-Here with us today is Kimberly Powell, Vice President of Healthcare at NVIDIA. She's
-responsible for the company's worldwide healthcare business, including hardware
-and software platforms for accelerated computing, AI, visualization, the power of the
-ecosystems, of imaging, genomics, life sciences, drug discovery and healthcare
-analytics. So Kimberly, thank you for joining us today, and let me go ahead and turn
-it over to you.
-{BIO 22145194 <GO>}
-Thank you, Harlan. Thank you very much. Good morning, everybody. Nice and dry.
-So an honor, really, and I thank you, Harlan and J.P. Morgan, for inviting us back. This
-is absolutely a diﬀerent kind of feeling year, and I'm excited to really share it with
-you.
-So let's just do the ﬁrst housekeeping. Let me start with a reminder that the
-presentation in QA contains forward-looking statements, and investors areFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 15encouraged to read our reports ﬁled with the SEC and the information that relates to
-our risks and uncertainties facing our business.
-Super. So you might know NVIDIA as an amazing chip company. And in fact, we are.
-But we're much, much more than that. We are an accelerated computing platform
-company. Some scientists, some industries actually describe us as a time machine.
-We launched our GPUs into general-purpose programmable processors with our
-programming model called CUDA. We now have well over 33 million CUDA
-developers. And then for the last 15 years, we've been developing a full stack of
-computing approach. So the ability to program the chips, but also be able to
-introduce acceleration libraries, applications and purpose-built computing
-platforms, whether that's large-scale datacenters for artiﬁcial intelligence or
-embedded supercomputers for the medical devices industry.
-And so for each ﬁeld of science and industry, and applications, we create a full stack,
-everything from gaming to design, earth and life sciences and self-driving cars and
-robotics. And this allows us to really serve $100 trillion worth of industry. But we're
-here to talk about healthcare.
-So for healthcare, we created a platform called NVIDIA Clara. It's after Clara Barton.
-She was the inventor of the American Red Cross, not after Santa Clara, where our
-headquarters is, and it's an AI computing platform for healthcare. We recognize that
-healthcare is becoming the absolute largest data-generating industry. And we have
-global challenges increasing the cost of healthcare delivery and access to
-healthcare.
-So we build computing platforms to serve these grand challenges, leveraging world-
-class chips and systems. We build platforms that span embedded edge, all the way
-through to cloud applications and frameworks that span from healthcare delivery to
-disease and drug discovery. And I'll hopefully show you some of that today.
-Our computing platform is why we adopted. We're relied on by all of the top
-medical imaging companies to turn sensor information into rich images. We're
-quickly becoming the de facto standard for surgical robotics platforms, for real-time
-sensor processing. We're helping the medical and cancer centers be able to be
-really data-driven in their clinical treatment decision-making. And we're increasing
-the accuracy and throughput of sequencing so that we can reduce the overall cost of
-genomics and hopefully bring it more into the standard of care. And we're turbo
-charging the drug discovery process using artiﬁcial intelligence to really illuminate
-biological meaning and explore literally the inﬁnite possibilities of small molecules
-and antibodies.
-So in healthcare delivery, imaging is the essential tool. It's used at every stage of the
-patient journey, which is why it was one of the application areas we chose to focus
-on when I started at NVIDIA 15 years ago. As sensors evolve, so do the computing
-platforms and the applications in the healthcare delivery need to evolve. So from 2DFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 15sensors that allow us to do annual screening into advanced 3D and 4D to do
-quantitative image analysis and to capture things like function in the new Photon CT
-scanners that have recently been released.
-And now we're entering into what I call the ﬁfth dimension where we can, in real
-time, with real-time sensing, we can -- these devices can really actually take action.
-They can do things like self-navigate. They can do things like adapt while you're in
-the middle of a radiation treatment. So very, very exciting times.
-And so much like the self-driving car industry, I love to use that parallel because we
-can all sort of understand it, the healthcare industry is becoming software deﬁned
-and is able to deliver great, great value through software. And in order to do so, you
-need two computing platforms. You need an AI development platform and AI
-deployment platform. And you need to connect these two so that the data that you
-were experiencing on the edge is very dynamic. And it's that data that you can
-collect at the edge to bring back in to improve these applications and redeploy
-them. This is the as-the-service architecture, and NVIDIA is building this end-to-end
-computing platform to serve it.
-So here's an example. NVIDIA Clara provides the imaging industry, radiology,
-pathology, all the surgical data, the AI development platform, it's called MONAI.
-MONAI is an open source AI framework that we codeveloped with the industry, the
-academic medical centers and experts. We open source it, and then we have an AI
-deployment platform called Holoscan. So using MONAI as the AI framework for
-imaging, we've had over 800 million downloads of this framework. It's absolutely
-accelerated. And it's a driving force in the exponential growth in the AI research. You
-can see that through the publications here.
-And then to help close the gap between research and clinical deployment, we
-announced last year, NVIDIA Holoscan is meant to be a commercial oﬀ-the-shelf
-more general purpose computing platform for these applications to live, so that not
-every medical device needs to reinvent their computing platform every time a new
-sensor technology comes to market.
-So a scalable real-time AI sensing platform and it can scale, as I said, from
-embedded to cloud. We have developer kits already out there in market, and we
-announced design wins with several robotic surgery companies already.
-The innovators in the industry are using NVIDIA platform to deliver new applications
-across radiology into therapy. So as you can see, just as we described, Carestream
-uses artiﬁcial intelligence to really have a complete smart AI X-ray room. It's at the
-room level all the way down to the device level to streamline workﬂows. You have
-Varian and Elekta where they can now use AI to do adaptive therapy, real-time
-adaptive therapy for their patients. I love the intuitive ion because it allows you to
-navigate into the lung and biopsy areas, otherwise no humans could travel. So these
-devices are absolutely opening up tremendous new capabilities, and we're excited
-to see the medical device market continue to go through this revolution.FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 15But I want to go quickly next to a modality that is just super, super exciting. And I
-think we all saw a 2022 that changed the landscape of genomics tremendously. So
-genomics is a modality that is delivering great value to healthcare as well as research
-and drug discovery. It is the largest data generator in healthcare and growing
-rapidly.
-We're witnessing the continued decline in cost, enabling large-scale genomics
-programs to transpire. However, we need to be sensitive to the fact that a lot of
-times, when you advertise the cost of sequencing, it's just the cost of sequencing
-and not the downstream analysis, which is ultimately the insights that we need to
-care for our patients and to deliver insights into discovery.
-And so this is why we are partnering across the genomics industry from new
-sequencers to bio informatics platforms to cloud services and large pharma. So 2022
-was an absolute breakout year for NVIDIA accelerated genomics. We partnered with
-Oxford Nanopore and Stanford and many others to achieve a Guinness record in
-clinical sequencing. We made NVIDIA Clara Parabricks free for research and
-partnered with the Broad Institute and put it in the Terra platform, so it's -- and it's
-also available in every public cloud.
-And just this week, our partners at BioNeMo announced our work in accelerating 96
-optical genome mapping workﬂows for high-throughput on-prem and cloud
-deployments, where they're having tremendous outcomes helping patients with this
-new structural variant capabilities.
-So AI is becoming vital to all areas of genomics analysis, in fact. Primary analysis,
-which takes the signal or image and turns it into the genomic base calls, is all done
-now through artiﬁcial intelligence algorithms because it helped realize a step
-function and accuracy as well as performance. And the higher the throughput of the
-instrument, the lower the cost of sequencing. So AI is also bringing that speed.
-And so just a few months ago, Seattle Children's and the University of Washington
-were able to deliver a genetic risk assessment within three hours of a newborn's life
-to rule out that a disease that their sibling had. By reducing the cost, increasing the
-speed and partnering with the clinical community, we can bring the condition to
-move sequencing more into the standard of care, and we're really excited to do that
-across the board with all of our sequencing partners.
-With more sequencing platforms and modalities entering the market, we are going
-to be pushing these 40 exabytes of genomic data out there into the world. And we
-already have 500,000 genomes into 1 million genome databases associated with
-patient data. And these are becoming readily available. And so we must harness the
-latest breakthroughs in artiﬁcial intelligence to drive our biological understanding
-and therapeutic discovery.
-So we had some incredibly exciting breakthroughs at the end of last year at the
-Supercomputing Conference. It's a super neat example of how you can harnessFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 15large genomic data to drive genomic understanding. And we worked with NVIDIA
-Argonne National Labs, University of Chicago and achieved this just last -- late last
-year and won the Gordon Bell Supercomputing Award.
-So you know the latest technology that is taking the world by storm is generative AI
-in large language models, most notably, ChatGPT. These models are trained on
-extremely large unlabeled data sets, and they can learn context and meaning by
-tracking relationships and sequential data. Sounds very much like genomics, if you
-ask me.
-And so the same can be used on genomic sequencing data, and we did just that, co-
-developed a model called Genes LM [ph]. And it's the ﬁrst genomic scale and the
-largest biological language model to date. So used 110 million bacteria sequences
-from the Patrick database. And then we ﬁne-tuned it with 1.5 million SARS-CoV-2
-genomes. And the model was able to not only predict the evolution of the virus, so
-potentially be useful for an early warning system, but it was also able to accurately
-identify variance of concern. And this is all published, and the paper is in the source
-there. So really, really super, super amazing breakthrough here.
-And I want to kind of give you a sense to what are these models learning? And how
-are we going to be able to really understand how they learn and represent
-biologically relevant information? So let me just kind of play this video that the team
-made this to sort of give you a description of what's going on.
-You can see through clustering that the model is ﬁnding semantic meaning in the
-latent space. And ﬁrst, you can see it cluster genomes by their sequence lengths,
-and then we're going to move into here. You can see it with this GC content
-indicating secondary structure stability. And then we could even zoom in on
-particular enzymes, and we can see the structural diﬀerences. And this is something
-actually the model was never trained for.
-And so these models are actually helping us with interpretability. No longer are the
-days of deep learning black boxes. These foundation models are -- give us a new
-ability and become the bedrock for us to really be able to read and start to
-understand biological meaning. So very, very exciting opportunities here. And this is
--- language models applied to genomics. We are just getting started.
-So like generative AI has set oﬀ broad use across all industries, AlphaFold set the
-image at moment for AM Biology. And standing on the shoulders of giants and the
-breakthrough is coming from deep mine and open AI, biology labs at Meta, Roast
-Lab, Baker Lab, Barsele Lab [ph] and thousands more published papers in 2022. So
-generative AIM biology is witnessing that same broad applicability across life
-sciences and drug discovery.
-Like I said, from pandemic early warning systems to target discovery, to protein
-structure prediction, to virtual screening, to drug target interactions and protein
-engineering, literally touching every phase of the drug discovery process. And soFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 15biology is going from an empirical science, experimentation and exploring the
-physical natural world to computer science and AI, and we're -- it's quickly moving
-from a science to an engineering.
-So just this morning, we're announcing exciting results of a collaboration between
-NVIDIA, InstaDeep, who -- congratulations, who just announced they were being
-acquired by BioNTech and Technical University Munich. And it's resulted in a state-
-of-the-art genomics language model. Genomic language models are still in early
-investigation, DMA Bart being one of the early notable ones. But you can imagine
-that much of this technology has been applied to natural language processing, but
-the genome has four letters in 3 billion -- of 3 billion long sequence. So it presents
-new challenges.
-And so we use the NVIDIA Cambridge-1 supercomputer. We trained a collection of
-large language genomic models. And the highest performing model called
-nucleotide transformer. It achieves state-of-the-art on not only one of the
-benchmarks, but on 15 out of 18. And that means that this large foundation model is
-able to generalize across many, many tasks, which otherwise were built model at a
-time quite narrowly.
-The paper is really, really informative, and it shows you that multi-species data was
-super important to be good at generalizing across these tasks. It was also very
-important in showing that you need larger and larger language model sizes. And
-that's why NVIDIA is here, so we can enable that to happen.
-So the highest performing model ranged from 500 million parameters to 2.5 billion,
-and the 2.5 billion parameter model absolutely went out. So this will be published in
-a paper in the coming hours as archived chunks through it, and then we will also
-make a fraction of these models readily available in the coming weeks.
-This is exactly why we created NVIDIA BioNeMo service, announced in September
-last year at our GPU Technology Conference, to enable the over $200 billion of R&D
-market and drug discovery. How can we give them access to the tools, the
-frameworks, the applications at data center scale to accelerate drug discovery?
-So BioNeMo is making it easier and more eﬃcient to build and use generative AI in
-large language models across every stage of that drug discovery process I just
-enumerated. BioNeMo is in early access, and we're working across the entire
-ecosystem with the leaders in biology and drug discovery ﬁeld from research to the
-tech bios, all the way through to the large pharmaceutical companies.
-Today, we are also announcing with our partner, Evozyme, that we've built a
-generative AI model for protein engineering called ProT-VAE. It's a protein
-transformer variational auto and coder. As you know, proteins are the building
-blocks of life. Every cell contains proteins. They're present in our everyday life from
-clothes we wear, food we eat, air we breathe. So the ﬁeld of protein engineering
-looks to discover new proteins that can help design more eﬀective drugs andFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 15remove carbon from the air or make more environmentally friendly clothes. However,
-the number of potential proteins far exceeds the number of particles in the universe.
-So Evozyme was able to use in a few short weeks, be able to use NVIDIA BioNeMo,
-use our pre-trained models, inject their special sauce with the VAE encoder and train
-a model and be able to, from sequence, generate proteins that they were able to
-experimentally synthesize and validate in the lab. The beauty about this is they use
-BioNeMo to ﬁne-tune that model for family of proteins. So you can ﬁne-tune it for a
-set of proteins that has the given properties function and characteristics that you
-want, and then it can generate a library of those.
-And so I want to, again, give you a little ﬂavor for what that looks like. So the -- here's
-an example of a protein called human PAH. It's a protein responsible for a precursor
-to making pigments, hormones, also neurotransmitters, and it can even cause some
-pretty rare disease disorders. So the ProT-VAE model, it was trained on PAH protein
-family. And here, we sampled two of the proteins generated and validated.
-The ﬁrst protein generated had 51 mutations, which is about 85% similarity to the
-original, and it has a 2.5x, a huge 2.5x enhancement in function. This is what exactly
-you want when you're developing new therapies.
-ProT-VAE also generated another protein with 167 mutations, so only 50% similar.
-This is where no human would intellectually go, but it was able to still achieve
-enhanced function. And so the protein language of ProT-VAE, it generated proteins
-nature's never seen before, but it was able to maintain the function for the desired
-properties that they were measuring for. So this is the promise of these large
-language models, the ability to explore way outside the space. And so we're going
-to extend what is today the common use of directed evolution and extend it into
-machine-guided directed evolution. And it's really an accelerator to be able to
-discover new proteins.
-And so I'll conclude with NVIDIA is building the compute platforms to address the
-breadth of healthcare to beneﬁt from extraordinary capabilities enabled by
-generative AI and accelerated computing. MONAI for imaging, Parabricks for
-genomics, BioNeMo for drug discovery are helping the industry harness the
-computation and massive accelerate R&D and the workﬂows that drive healthcare
-and life sciences.
-And so the time for generative AI and biology is now. An explosion of seminal work
-happened in just the last three months of last year. I've exempliﬁed them here with
-these models, and they are elucidating biological meeting. This is going to help us
-understand disease, and it will accelerate our ability to discover new therapies. And
-so we can build representations of large and complex data sets now and make
-meaningful predictions.
-So with that, I hope I leave you with a very bright and sunny future of what 2023
-holds to really harness this technology, and I look forward to answering yourFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 15Q - Harlan Sur
-Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-Q - Harlan Sur
-Q - Analyst
-A - Kimberly Powellquestions. Thank you.
-Questions And Answers
-{BIO 6539622 <GO>}
-(Question And Answer)
-Great presentation. Are there any questions out there? I'll just ask, did you wait for
-the mic? Got one back there.
-NVIDIA's revenues seem to have peaked in April of last year and have declined --
-quarterly declined since. Can you explain that? And why you think it's temporary?
-{BIO 22145194 <GO>}
-I cannot. I am not in our Investor Relations team, so I will politely decline that answer.
-Thanks.
-{BIO 6539622 <GO>}
-Questions? I've got one right over here in the middle.
-Yes. Can you just talk about the competitive landscape, your customers? What other
-alternatives they have? How much has done internally? How much they need to go
-outside for AI solutions?
-{BIO 22145194 <GO>}
-Yes. I think the competitive landscape in artiﬁcial intelligence is we are in a unique
-position at NVIDIA. We're the only AI company that can also work with every other AI
-company. Our platform is well adopted in every single public cloud. It's adopted by
-every single computer maker on the planet, and it ranges in sizes from embedded
-computers, all the way through to cloud platforms.
-And so if you look at that sort of future description of what we can oﬀer the market,
-it's a ubiquitous computing platform. And so it allows us to give the application
-developers, the industries the ability to transform business models and run these
-exciting new application workloads completely at scale.
-And as you know, we dedicated the company to artiﬁcial intelligence going back
-some 10 years ago -- yes, at least 10 years ago. And the description language IFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 15Q - Harlan Sur
-A - Kimberly Powell
-Q - Harlan Surdescribed called CUDA has been around even longer, 15 years. And so the ability to
-reinvent sort of that software ecosystem is very, very tricky.
-And that's why I really describe NVIDIA not as a chip company, but we are an
-accelerated data center company. And so to compete at that level is very, very
-diﬃcult. And the software investment that we've made and our ecosystem partners
-have made is really what diﬀerentiates us and allows us to remain -- allows us to
-innovate continuously at the speed of light, because we're a full stack company.
-{BIO 6539622 <GO>}
-Questions? I've got a question. So -- and maybe this will answer the gentleman's ﬁrst
-question. Obviously, the consumer part of your business was weaker last year
-because of the weaker macroeconomic trends, some of the lockdowns in China. The
-data center business, which is where your franchise belongs, that's -- I think that grew
-40%, 50% last year, and it's still on. It's still going at a very strong sort of double
-digits year-over-year clip.
-In fact, the data center business for NVIDIA has grown at a 70% CAGR over the past
-three years. It's 60% of your total revenues. Underneath that, accelerated compute
-spending within healthcare continues to grow at an extremely rapid rate as you sort
-of reﬂected in your presentation. Can you just give us a sense, snapshot of the
-revenue scale, the growth rate for your healthcare franchise over the past few years?
-And how do you see the SAM opportunity for healthcare over the next three to ﬁve
-years?
-{BIO 22145194 <GO>}
-Yeah. I mean healthcare is an extremely important industry, and it's quite broad. And
-I hope I was able to let you know that we're focused on some very important large
-markets within it, whether that be genomics, medical devices, the biopharma
-industry. So we believe that we could be the next $1 billion industry for NVIDIA.
-And you can -- as I described, there's these two computing platforms that are
-needed for the future of how we're going to innovate, develop software and as a
-service. And so one proxy you could use, Harlan, is look at the growth in AI research
-papers. It's all being done on that development platform. So in the last two years,
-120% growth, and then we're addressing the ability to deploy these applications.
-They're maturing now. They're running in the data center.
-But now they also want to run at the edge because there's a lot of incredible value
-you can provide the industry when you're developing real-time insights at the edge
-and then also have a ﬂexible computing platform to continue that analysis and
-development back in the data center in the cloud. So that's kind of the proxy that we
-use, and I think 120% growth sounds great.
-{BIO 6539622 <GO>}
-Yes, absolutely. Questions?FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 15Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-A - Kimberly PowellHi. Yeah. As a follow-up -- sorry, I lost my voice. As a follow-on from that perspective
-around this potentially becoming $1 billion industry for the data center sort of value
-proposition that NVIDIA can underpin, which of the traditional healthcare
-stakeholders need to enable or buy into the value chain of your end customers? So
-do you need reimbursement or regulatory or sort of government buy-in to the
-innovative products that get built on the stack for you to realize the $1 billion at your
-end?
-{BIO 22145194 <GO>}
-Yeah. I think -- I don't know if that's going to be our rate limiter at the moment. I think
-as I sort of alluded to, these large language models that we just described that were
-built in just the last three months of last year, they take an entire supercomputer to
-train them. So just to be able to explore this new capability in generative AI and
-large language models is a data center in itself for said customers.
-So the pharmaceutical industry, you can hear it all over the ﬂoor here at J.P. Morgan,
-they're building centers of excellence in AI. They're using all of the massive data sets
-that they've acquired over the last decades of drug development. There was $40
-billion of investment that was pumped into what the term I love, which is tech bios,
-technology-ﬁrst biology companies, because they're -- we're able now to generate
-so much biological data to really drive this model development.
-So I think purely from that realm, we can reach that potential $1 billion opportunity
-amongst many of the other opportunities, but the analysis of genomics. But
-generative AI and large language models is just a clear easy one to understand.
-How much of your healthcare business today comes from genomics versus radiology
-and robotic surgery and more conventional healthcare segments?
-{BIO 22145194 <GO>}
-I don't think we -- I don't know if I would be that granular about it. It used to be, call
-it, sort of like an 80/20 split where we would be so in the medical devices. I kind of
-grew what you described would be very medical device centric. That's where we
-started. That's where our heritage lies, going inside of CT scanners, inside the
-genomic sequencing instruments, powering the robotic surgery platform.
-So all of that was kind of, call it, 80% and 20% was kind of coming from simulation
-that's going on in the pharmaceutical industry, the genomic analysis. And we're
-deﬁnitely now coming into more of a 50/50, because of some of the dynamics that I
-just described of massive amount of computing that is being -- that is happening in
-pharmaceuticals. So the balance is there, but they're both growing at the sort of
-indicated pace of what you're seeing in the AI research.FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 15Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-Q - Harlan Sur
-Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-A - Kimberly PowellJust a quick follow-up. Did you say what your healthcare revenue is today? You said
-your --
-{BIO 22145194 <GO>}
-I did not.
-You don't release that?
-{BIO 6539622 <GO>}
-Questions?
-Thank you for a great presentation, a huge fan of NVIDIA.
-{BIO 22145194 <GO>}
-Thanks.
-And we buy a lot of your stuﬀ as an AI start-up. But I see that recently, the bio -- tech
-bio market has kind of declined. So some companies have, of course, grown
-dramatically, hopefully like us, but some have declined. So how do you see the split
-now between big pharma and tech bio going forward in terms of the GPU sales and
-also cloud sales? And because many pharmaceutical companies are still kind of in a
-little bit of an Intel world, but now, of course, everybody is switching to NVIDIA, but
-how do you see that split?
-{BIO 22145194 <GO>}
-Yeah. I don't want to predict the market, Alex. We're kind of -- as a platform
-company, we love to raise all boats and support the ecosystem the best way that we
-can. You're a fantastic partner at -- and Silico paved the way in showing that
-generative AI can be used across the complete drug discovery process coming to
-GTC for the last 10 years.
-So one, you have to be a believer. I think pharma is still trying to ﬁgure out, are we a
-believer in this technology? So they're doing a lot of dipping into it. And they're also
-kind of waiting and watching and partnering with the tech bio company.
-So I don't want to make a prediction. I think the industry and the number of
-therapies and the personalization of medicine, there's room for everybody if they
-were up to me. But I don't -- I think that there's a tremendous amount of promise. I
-think there is a need to think diﬀerently in this day and age with the tools that weFINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 15Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-A - Kimberly Powell
-Q - Analyst
-A - Kimberly Powellhave, with the automation of digital biology, that we need to see what the future
-holds.
-Thank you. I actually think that $1 billion is probably low balling it. I think that you are
-already at the billing That's type.
-{BIO 22145194 <GO>}
-Yeah, within the next ﬁve years.
-Thank you.
-{BIO 22145194 <GO>}
-Thanks, Alex.
-Thank you, Kimberly, for a great speak, --
-{BIO 22145194 <GO>}
-Thanks.
-That's vibration for the future. So yes, so I'm Kim from WinFrame in Vietnam, and we
-trade -- or we met on NVIDIA as a platform for training system as well as for
-production. So everything we moved from CPU onto GPU now.
-{BIO 22145194 <GO>}
-Thank you.
-So I have two questions for you. One is, what do you think about ChatGPT that will
-be inﬂuenced into healthcare from your point of view? And second is the generated
-like sequential majority of that, what do you foresee about?
-{BIO 22145194 <GO>}
-Yeah. Thank you, yes. ChatGPT is just -- it's an amazing technology, and it's -- you got
-to ask yourself, it's just about what do you want to use it for? I kind of think about it
-right now, and just because in my own little world, back when we started work on AI
-and radiology, everybody jumped to the conclusion that AI and radiology has to
-diagnose somebody. No, it doesn't. It has a massive amount of utility throughout the
-entire workﬂow and process of radiology.FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 15Q - Harlan Sur
-A - Kimberly PowellSo it's really about what do you want to do with the AI. Do you want it to write your
-assay? Did I wanted to write my presentation? No, I did not. But I might want to do it
-to learn about how an enzyme. Or yes, you can ask some interesting questions like
-that. So I think it will. I think the type of technology will have and should have a utility
-in healthcare. I'm not saying that it does today, but I think it will. And its utility will be
-diﬀerent than maybe where some people want to leap to. It doesn't have to be that
-far of writing up a medical report and discharging a patient.
-And then for generative AI, I think there's been -- Alex, who's just here just already
-has proof points how you're able to now discover novel targets and therapies that
-are in human trials. So that is well underway and being proven. And so if that isn't
-promised enough, but then where you have this large body of biologists and
-scientists who may not come from the computer science world, what I love about
-generative AI in these language models is we can now interrogate them in an
-interpretable way. So we can now learn together that the computer science
-community and the science community can learn this together and really start to
-unlock biological meaning.
-We know we don't know enough about the genome. So these models, my hope, is
-that they're going to help elucidate a lot of that. And then generative AI, like DALI,
-where you can go from one domain to another from text to an image, how could that
-not have massive utility in going through the diﬀerent types of data sets in
-healthcare, from health records to genetic marker to what they saw in your image to
-what your pathology report is looking at?
-So with the likes of Genomics England and U.K. Biobank, we're looking at, can we
-harness these new big data sets to see if there's a DALI in healthcare that has utility.
-So it's not a panacea. It's a utility. It's a tool, right? And the whole point is can we
-accelerate? Can we increase our understanding and really move this ﬁeld along and
-ﬁnd more therapies for patients who need them? Thanks for the question.
-{BIO 6539622 <GO>}
-Questions? I'm going to put my semiconductor cap back on because your chips and
-your hardware systems are the foundational building blocks, right? And you guys
-unlock all the innovation via your vertical markets with the platforms. The team just
-rolled out its next-generation compute acceleration platform, the H100. That's based
-on the Hopper architecture, 4-nanometer, leading-edge manufacturing technology,
-80 billion transistors on a single piece of silicon, one of the largest chip designers in
-the world.
-Typically, the team focuses a lot of its eﬀorts on cloud and hyperscalers at their early
-stages and followed by enterprise and vertical segments like healthcare. Talk to us
-about the adoption curve for the team's prior generation A100 platform, and how do
-you see the uptake and momentum for the next-generation H100 that the team is
-rolling out now?
-{BIO 22145194 <GO>}FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 14 of 15Q - Harlan Sur
-A - Kimberly Powell
-Q - Harlan Sur
-A - Kimberly Powell
-Q - Harlan Sur
-A - Kimberly PowellYeah. I think it's going to be incredible. So we've already started early access and
-early work in the area of genomics, as I said, right? There's an insatiable demand for
-compute to deal with the amount of data that's coming oﬀ those instruments. And
-the more throughput, the lower the cost. So we already have a tremendous pickup in
-that.
-What I'll say is, in the past, you had to wait for the technology to come up and
-become available. Well, we're moving at speed of life. And throughout the ﬁrst
-quarter of Q1, you're going to see H100 popping up in all of the public clouds, tens
-of thousands of them. So we're very excited that it's going to be readily available. So
-these workloads can automatically take advantage of it.
-And with some of the incredible features that it presents from a perspective of these
-large language models, it has a transformer core in it for the transformer large
-language models, it has in it to really squeeze down the eﬃciency and take these
-large language models, which would either be very expensive to inference and be
-able to do that very eﬀectively. So I think it's going to be a rapid migration to H100,
-and the market is prepared and ready for it.
-{BIO 6539622 <GO>}
-Perfect. Well, we're just about out of time. Kimberly, thank you for your participation
-and look forward to having the team back next year.
-{BIO 22145194 <GO>}
-Thank you so much for having us. Yeah.
-{BIO 6539622 <GO>}
-And look forward to monitoring the progress and execution of the team this year.
-{BIO 22145194 <GO>}
-Thank you all for coming. Appreciate it.
-{BIO 6539622 <GO>}
-Thank you.
-{BIO 22145194 <GO>}
-Thank you.
+{BIO 7440273 <GO>}
+Good afternoon, everyone. Welcome to the Bloomberg Intelligence, the State of the
+Database Market and the Cloud Webinar today with arguably the smartest existing
+databases that I have come across (inaudible).
+Just to start oﬀ with some housekeeping items, today's presentation will be recorded
+and available for playback. You can access the replay via the link sent to you in the
+email from Bloomberg webinars. At the bottom of the slide window, you can adjust
+the volume and maximize your screen. And then you can ask a question by
+submitting one to the right of the slides. We will address questions at the conclusion
+of the presentation.
+Also just a quick word about Bloomberg Intelligence, we provide in-depth research
+and data on industries, companies, credit litigation, etcetera. We have about 300-
+plus people that are in our department. We cover close to 2,000 companies. So with
+-- and you can access all of our research on the terminal be BI .
+The agenda for today is to talk a little bit about the overall state of the database
+market. How much is it going to grow? What's Oracle's cloud strategy? Comparing
+Amazon to Oracle and Microsoft. The alternative database technologies from NoSQL
+to Data Lakes and Carl will just present his summary and conclusions.
+With that, let me pass the presentation on to Carl that can go over the discussion.
+{BIO 21744954 <GO>}
+Thank you very much, Anurag (ph) and before I get started in our topic for today, let
+me just give myself a little bit of an introduction for you, so that you know who I am.
+My name is Carl Olofson. I am Research Vice President at IDC, covering Data
+Management Software. I've been in the IT industry for over 40 years. Spent part of
+that time as a programmer-consultant, much of that time as a software development,
+building database management software and as a Product Manager and as a
+Marketing Product Manager and for the past 21 years, I've been working at IDC,
+analyzing and researching the market.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 2 of 18So over that time course, we've seen a lot of change and you'll be seeing some of
+those changes reﬂected in my remarks today. Why don't we begin by talking about
+the overall state of the market?
+So in general terms, we're just going to -- just some high level revenue observation
+of the overall market growth for relational databases, which include products like
+Oracle database and Microsoft sequel server IBM Db2 and so forth, grew from 2016
+to 2017 by 6.9%.
+We saw most of that growth happening in the cloud and so, no surprise the
+strongest growth was shown by Amazon Web Services with their products RDS
+Aurora and Redshift and Microsoft with their product as your sequel database,
+whereas there was tepid to declining growth for the -- sort of the big mainstays in
+the industry Oracle, IBM, SAP and Teradata.
+Public cloud services share of the market is approximately 11% at present and the
+drivers include overall data growth. Just to say the amount -- the volume of data out
+in the world and how rapidly it's growing; Edge and IoT Data Analytics, management
+of analysis of Edge very important and data science.
+In the non-relational space, this includes legacy products that run on the mainframe
+and some many computers that are hierarchical or navigational in nature as well as
+end user databases and multi-value databases. That market grew by 2.2% from 2016
+to 2017, in that, it's a very stable market. Most customer relationships are decades
+old. Their applications are built-in with the database very dependent on the
+database and those people are very reluctant to change.
+The most interesting vendor in the space is InterSystems, which has modernized
+their database into something that has some completely diﬀerent characteristics and
+that product is called Cache. It's mostly to be found in the healthcare sector in the
+United States, but it's in a variety of sectors in other countries, especially in Western
+Europe and in Australia and New Zealand.
+The dynamic data management software market is the market that includes the
+things we typically refer to as Data Lake or Hadoop Software as well as no sequel
+database. It's called dynamic because unlike the other two products in this market
+do not require scheme (ph), in other words, they can ingest data that is not deﬁned
+to the system.
+What that also tells you is that most of the knowledge about the deﬁnitions and rules
+of the data exists in program codes rather than in any form of deﬁnitions within the
+database management system.
+The overall market growth for this space from 2016 to 2017 was 62% with the
+dominant vendors being Microsoft with HDInsight and Cosmos DB and Amazon with
+EMR and DynamoDB.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 3 of 18Most of the new development is on-prem at present, but cloud revenue drives
+growth and now why is that? Why would most -- you would think if you were doing
+most of the development and implementation on-prem, why would cloud be driving
+the growth and that's because most of these products are open source. So people
+are developing and gradually implementing these things in production using open -
+- the open source model.
+The open source model is a slow growth model because it's subscription-based and
+it's based on people using the product ﬁrst, getting to a certain point of maturity and
+the use of the product and then acquiring a subscription. So the growth rate is
+slower.
+Whereas in the cloud, you have to buy a subscription as soon as you go in because
+you have to pay for the use of the technology in the cloud and that's why cloud
+revenue is growing faster than on-prem revenue, even though the user base is larger
+on prem than it is in the cloud. And that will eventually all sort of normalize out.
+Drivers in this space include new operational data models, such things as managing
+data in smart apps that you have in handheld devices and so forth. Handling and
+routing data that maybe coming in from sensors, also general online state
+management applications and gaming applications and very specialized
+applications that are typically Internet based and require a lot of state data to
+operate as well as specialized data analytics that require functionality that's not
+native to a relational system.
+So if we look at the competitive situation amongst the vendors in the three markets
+that I just described and the relational area, Oracle continues to dominate with 42%
+of the market, Microsoft has 24%, IBM has 13%. What is interesting here is that
+Amazon Web Services has 3%, which looks really small and it's really small, but it is
+the fast -- it is one of the faster growing and is that -- so that piece of the pie is
+getting bigger, whereas IBM at 13%, that piece of the pie is getting smaller. The SAP
+is fairly stable.
+We really expect it had a lot of growth when they were driving so many of their
+customers to Hanna. It sort of tapered oﬀ a bit in the past year, but we expect that
+growth to continue, not as strong as before, but fairly strong nonetheless. A lot of the
+damper is not because people are not moving to Hanna, but because of people
+moving oﬀ of the legacy SAP products SAP ASE and SAP IQ.
+In non-relational space, which is actually on the right hand side of your screen, the
+dominant vendor is Microsoft with access, followed by IBM with IMS -- which is a
+mainframe hierarchical database and then you see InterSystems at 14%. That
+company has been growing steadily. In other words 10 years ago, it was sort of next
+to other and now it's got 14%. It's actually become the third largest vendor in that
+space. So important one to continue to watch.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 4 of 18In the dynamic data management software market, which is in the middle, we see
+Microsoft has the largest share by a little bit with -- as I've mentioned before,
+Dynamo, or sorry, Cosmos DB and HDInsight and Amazon following with EMR and,
+DynamoDB, that's going to continue to be a battle or a while.
+Google with -- has Bigtable, but Google is going to become an important player in
+the future and Cloudera and Hortonworks interesting that they recently announced
+their merger. We are not sure what this is going to mean for the company. So making
+long-range projections would be a little bit irresponsible. However, I think they're
+going to continue to be important in the space.
+Okay. So foretasted database market growth we expect the relational database
+market to grow by 7.7%. Compound annual growth rate to 2022 and the drivers
+include the continued need for analytic -- the need for analytic transaction
+processing, that means blending in analytic queries to transaction processing.
+Most transaction processing today involves just a few simple background queries
+such as you know, if you're processing an order, you look up the customer and that
+sort of thing.
+These are analytic queries, that are doing things like looking for patterns and data,
+not previously possible because of the overhead and demand that's placed on the
+database, but with these new models that involve (inaudible) and memory-optimized
+data management. They're capable of doing transactions and some fairly
+sophisticated, not full-on multi-table joint type query operations, but fairly
+sophisticated analytic operations against the data and so analytic transaction
+processing, which you can think of as a merger of OLTP and OLAP, is going to
+become increasingly important.
+Also higher quarter analytics and machine learning, one of the things that we're
+ﬁnding is that there was a lot of experimentation with using Hadoop and Spark for
+deep analytics machine learning and they are still going to be use -- they're still
+being used and will continue to be used for those things, but in many cases, people
+have found, they need the discipline of the relational database and they're moving
+that functionality back into the relational sphere.
+The cloud will be a signiﬁcant factor in relational database in the last couple of years
+of the forecast. In other words, it's a ﬁve year forecast. A lot of the companies are
+preparing to move to the cloud, haven't moved much -- that much to the cloud.
+Some smaller companies have moved production data to the cloud and a few
+leading-edge customers have moved data to the cloud -- their production data to
+the cloud, but most have not. So that's a thing to watch out for.
+Non-relational database is expected to decline by 2.2% compound annual growth
+rate by 2022. That's a ﬁve-year compound annual growth rate by the way. The
+customers -- the users are looking to move to the cloud -- users who are looking toFINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 5 of 18move to the cloud who are using mainframe, hierarchical and navigation databases
+are considering rewriting their applications.
+For years, they wouldn't consider this, this is what kept them on those systems, but
+now they're seeing that the total beneﬁt of moving to the cloud supersedes the cost
+and risk involved in rewriting those applications. So they're starting to look at that.
+Multi-value databases will probably be ﬂat, but not decline, which is important to
+know. So these are like the PICK databases and so forth and end user legacy
+mainframe will decline. A lot of the end user database functionality is now made
+available by other means, various kinds of in memory, analytics sandboxes and
+things that people used to use, things like Microsoft Access for and so forth. So we
+think that those are going to, in general decline.
+The dynamic data management software market system is expected to grow to -- by
+30% CAGR over 2022, again a ﬁve-year CAGR that's following a fairly normal growth
+curve for this market. I'm sure there are others who have more aggressive forecast
+from this, but because we're dealing with a space that's mostly open source, the
+revenue forecast estimates need to be necessarily conservative.
+The rapid growth of open source usage has resulted in lots of -- lots of users, but not
+lots of revenue, but we think that most of those accounts will subscribe over the ﬁve-
+year period and that's going to be a major growth driver in the space.
+The document databases are also becoming more business-friendly. They're doing
+things like they're including support for asset transactions, which never existed
+before in document database, well except from MarkLogic, but not in the other
+document databases and they're also adding enterprise-level security features.
+Obviously data security is a major concern for everyone these days and if you're
+going to be putting data, especially personal identifying information in document
+databases, you need to make sure that they're secure and can't be hacked.
+In the Data Lake space, they're settling into a supporting role. Years ago people
+thought that Hadoop is going to take over everything. Didn't quite work out that
+way. Hadoop of course is designed as a data collection space, driven by
+MapReduce. However, MapReduce today appears to be adopting a very limited role
+of initial ingest processings, sorting, ﬁltering and formatting or organizing the data
+and then the rest of the work, all the analytic work it seems is being handed over to
+Spark.
+HDFS survives as a ﬁle -- standardize ﬁle format for this environment and will
+continue, but it's unclear as to how much of the rest of the Hadoop cluster
+management, ﬁle management technology will actually come into play, especially as
+people move their Data Lakes to the cloud and look to see the data on cloud native
+object storage and run Spark directly against that, which seems to be a raising
+model for use.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 6 of 18This also means that the Cloudera Hortonworks combination will need to basically
+rise above the general den of confusion with respect to Data Lakes by oﬀering very
+comprehensive enterprise-friendly packages of capability that make it
+straightforward to deploy and manage.
+Okay. So for forecasting these are the ﬁve-year forecast for the three markets. I know
+the print is small. I think you have access to the slides after this. So you can look at
+that at your leisure. As you can see, the growth rates I mentioned are reﬂected here.
+The interesting thing to notice about these forecast is that the top part of each
+column is the cloud forecast and the bottom part is the on-prem.
+So as you can see, for relational database, the on-prem is actually about ﬂat, it's
+growing, it's growing by a percentage point or 2 less than 2% I think. Whereas in the
+dynamic data management software space, the cloud portion is the part -- portion is
+doing most of the growing.
+There is gradual growth on-prem and that's because people who have deployed
+various document database like MongoDB and Couchbase and so forth are
+purchasing licenses to protect their investment, their eﬀort investment in putting
+corporate information or at least business important data into those systems.
+But as they grow, we expect that most of them will be deploying in the cloud and a
+lot of new development will be going on the cloud for the very simple reason that
+the cloud is non-demand environment and we are doing development.
+This way you can just sort of say, I want to have a server of a certain size, of a certain
+amount of storage to do my development work on and immediately it's there.
+Whereas if you're operating in -- on a non-prem context, you have to make a
+requisition for the server, for the storage, you have to reserve the time for those
+systems, etcetera, etcetera and that slows down the development process and we
+are living in agile times when slow is no go.
+The non-relational database picture is on the right. As you can see it's declining. The
+only part that's showing some growth is cloud. There'll be a few elements, probably
+mostly in the end user space, things like ﬁle maker and so forth, that will -- that will
+be growing in the cloud the way that picture looks.
+Okay. So as far as Oracle's cloud strategy is concerned, a lot of questions have come
+up about this. It's important to understand that the cloud is a critical success factor
+for Oracle. They have as an absolute priority to move their as customers as many as
+possible to the Oracle cloud, not just to the cloud, but to the Oracle cloud.
+It's important to maintain account control, which has always been the key to Oracle
+success and it's largely for this reason Oracle came out with the autonomous
+database service versus the Oracle autonomous data warehouse service and now
+they've been talking a lot about our transactional service, which will be -- which we'll
+learn more about at Oracle OpenWorld.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 7 of 18These things are necessary in order to do two things. One is to demonstrate the
+value of the cloud as a place where you no longer have to assume responsibility for
+the physical management of the database, but also because you don't have to apply
+your own patches. You don't have to do any of those things, which means that the
+database is going to be available all the time. It's going to be running at top
+performance levels and your DBA and some technical people can work with
+developers to create applications and adjust systems to match enterprise needs
+rather than constantly tuning with database.
+So that's the value proposition of Oracle, the kind of database in a nutshell. And to
+be honest it is the most clear demonstration of why not just the cloud, but the Oracle
+cloud is important, because of course, the autonomous database is being managed
+by Oracle personnel, who are presumably the most knowledgeable and expert in
+managing that environment and they can also enjoy economies of scale because
+they are managing multiple customer instances at the same time and therefore their
+eﬀorts are -- their eﬀorts are spread across those and so it works out well for them
+and for the customer.
+This is really important to Oracle because it means that if they're successful with this
+program, they can retain the bulk of their database customer base, which is as I said,
+it's key to them. If customers move their Oracle databases to other clouds, such as
+AWS or Azure or Google or something else, that would be bad for Oracle because
+now they don't have that level of account control any more.
+They have to split the customer's attention and interaction between themselves and
+the cloud provider and that could ultimately mean not only that the customer spends
+less with Oracle and is less inﬂuenced by Oracle. But that they even could
+contemplate moving to another database systems such as Aurora or Spanner or
+something else and that would be a disaster for Oracle. So keeping Oracle
+customers on the Oracle cloud very important.
+Ideally those same customers will also if they are in the Oracle cloud, use Oracle
+infrastructure as a service for the non-Oracle workloads. In other words, they'll
+choose to keep all the data and operations together and that's obviously -- that's
+what they're pushing forward as well and you hear this, and if you read their
+quarterly reports and the management remarks, you'll see the infrastructure as a
+service coming up all the time for that reason.
+They also want to attract new customers. Now this is important because Oracle has
+not historically been really good at attracting new customers and the reason is pretty
+simple. Oracle has a large and expensive direct sales force and that direct sales force
+in order to get -- to justify the cost of sale that's embedded in using such a sales
+force, that sales force is concentrated on the largest users, which means that smaller
+users really don't get the attention.
+And therefore Oracle has had a hard time attracting them. Oracle has tended to
+respond to this problem by working with third parties with ISPs and with consultantsFINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 8 of 18who can bring in smaller customers, but that sometimes gets in the way of their own
+product strategy and historically, they haven't done a real good job of managing all
+that together.
+So moving to the cloud alleviates the essential problem because the Oracle cloud
+provides a direct means of ordering up services and so people can sign up online
+and adopt the pay as you grow pricing model, which means that when they're just
+using a little data, they pay a little and few processors and when they use more, they
+pay more and that is attractive on several levels.
+One is that the Oracle customers don't have to deal with the sales person, which a
+lot of people are glad for. They know exactly what they're getting and they are in
+control of how the account progresses.
+In fact, it can be said that even for larger customers, this model reduces the amount
+of interaction they need to have with the salesperson, once they move to the Cloud
+because they can see exactly where they stand. There will be no more audits, which
+everybody hates, but instead they will see where they stand online and they can
+make adjustments accordingly and it's -- everything is transparent and that should
+improve customer relations because customer relations between Oracle, typically
+what you ﬁnd is the technologists really like Oracle. The DbAs really like Oracle. The
+program really like Oracle. The business people don't, because of the friction that's
+created by the Oracle audit and having to deal with the Oracle sales force, which is
+powerfully motivated to increased sales wherever possible. So this could help them
+with customer relations.
+There was a question about BYOL or Bring Your Own License, largely motivated by
+customer demand that wasn't originally part of the Oracle cloud plan, but Oracle
+found that a lot of customers wanted to apply the value of their existing license to
+the cloud and so in order to get them to move to the cloud more swiftly, they
+adopted this policy, removes that friction so that accounts can apply their licenses in
+the cloud and get credit for them.
+And there is another reason why customers want to use their licenses or at least use
+perpetual used licenses in the traditional form and that is that they're license
+management people or typically lawyers or contract management people. There are
+uncomfortable subscriptions who are then dealt with them before.
+They understand the perpetual use license contract and support contracts very well
+because they've been working with them for years. And they're not sure of all the
+implications of switching to a subscription.
+We think that over time, they will switch to a subscription model because it gives
+them more ﬂexibility. Obviously, Oracle likes it because it gives them more of a
+guaranteed revenue stream, but for the time being there is some reluctance and so
+the BYOL policy in general, the policy of reporting perpetual used licenses in theFINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 9 of 18Cloud are necessary to overcome the objections I mentioned and get more people
+on the cloud sooner.
+So in comparing Amazon, Oracle and Microsoft in the relational database sphere,
+they really represent very diﬀerent -- their backgrounds are very diﬀerent. Amazon
+has been the -- has been sort of a darling of new application developers. These
+application developers who come to AWS to build applications that they make
+available to users in the cloud.
+They really like everything about Amazon and from relation, when they need a --
+transactional relational database, they naturally turn to Amazon for that too. Now
+RDS -- which is a relational database service, has a number of options in it, including
+a number of databases they don't control such as Oracle and Microsoft and my SQL
+and PostgreSQL.
+However, Aurora is the one that's not only managed by Amazon, but is optimized by
+Amazon for the AWS environment and so customers like that idea, it has had a
+MySQL service layers so that you can take a code that's from MySQL and run around
+it and it now also has a PostgreSQL service layer, so you can go with either of those
+depending on how you've chosen to write your application.
+That's gaining a lot of popularity within the AWS community and Redshift is their
+analytic database. It's their sort of data warehouse platform if you will and it's just
+those there -- it's a fairly frictionless adoption process for people who are committed
+to the AWS environment.
+With Microsoft, the situation is diﬀerent because Microsoft has a lot of legacy
+obviously that makes stuﬀ spin around a long time. They have a lot of existing
+customers. Their main challenge has been to move Microsoft SQL server users to
+Azure AQL database because if they don't do that, it's a lot harder to move their
+customers to Amazon -- sorry to Azure, because to get the most out of Azure, you
+really need to have a platform that is optimized for Azure like any cloud environment
+it's highly dynamic, the resources are virtualized, the system needs to be able to take
+advantage of that.
+And SQL server of course is designed to run on a deﬁned server, in a conventional
+environment with storage and all that. And so it's not going to give you the
+dynamism, the resource dynamism that you would need in the cloud. So -- but they
+had a problem, which was that the two -- they represented a code for a critical upper
+level, which meant that applications written for SQL server would not automatically
+run as your SQL database. They would have to be changed.
+So Microsoft is taking steps to change that so that the same applications can run on
+either platform. It seems like that should help in moving Microsoft-based
+applications on to seek Azure SQL database and therefore into Azure, which is what
+they hope to do. And of course they have a lot of client, I'm sorry, they have a lot of
+third-party vendors, providing software. Most of those existing Windows-basedFINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 10 of 18vendors have been reluctant to move to Azure until they feel that it is a frictionless
+process.
+So that hasn't happened a lot. There are lot of new vendors who have been
+developing on Azure and been quite happy with that. But -- so it's quite possible that
+we could see Azure, which has been growing fairly strongly anyway, gain even more
+momentum as a result of this shift.
+Emphasis on Microsoft, we do everything for your model. A big diﬀerence between
+Microsoft and Amazon is that Microsoft is heavily prescriptive, meaning that they put
+together the elements that you need for various used cases and say here are the
+tools and elements that you need to do these things whereas Amazon is more liked
+in as a Chinese menu.
+There are (inaudible) Amazon you can say, you can use Azure, or you can use Oracle,
+or you can use Microsoft, or MySQL any one of those, there are several MySQL
+variance also available on AWS. There are all these options that you have to choose
+from. It's very confusing and I've heard a lot of people complain that it's a little too
+hard for them to ﬁgure out how to conﬁgure their environment there and Microsoft is
+more cookbook oriented. So that's a diﬀerence there.
+Oracle is they're coming from the perspective of large enterprises well established.
+You need to move those enterprises, who are looking to go oﬀ -- get oﬀ the
+datacenter and go the Cloud. We need to move them to the Oracle cloud. So
+Oracle's ﬁrst job is customer retention in a big way and of course they have some of
+them most -- the largest and most demanding customers with the most demanding
+workloads and requirements and so that's been their entire focus.
+Now people don't -- a lot of people may not realize it but Oracle actually has three
+relational database systems. They have Oracle database times 10, which is in memory
+database that was developed separately and then acquired and MySQL which was
+also acquired.
+The role of times 10, the role of times 10 is as a pure in-memory database that's used
+for cases where in memory, the pure memory capability is critical where latencies are
+very, very low and a lot of data processing these we handle in memory and where
+the sizes aren't to huge. MySQL is basically its open source, it's a means of attracting
+new customers. They have a large -- there's a large MySQL community and even
+though many other people in that community are now using alternatives such as
+perCona and MariaDB, Oracle is still actively involved in them -- that MySQL
+community because it is an important prospect base for them.
+So as I mentioned here, the one issue that Oracle has in moving customers to their
+cloud is that many customers are reluctant to increase their dependence and
+investment in Oracle because of past experience. Oracle's hoping that the changes
+they've made will address that.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 11 of 18So at alternative database technologies, there's been a lot of excitement over the
+past 10 years, regarding so called Big Data Systems and no sequel databases and
+the result -- there are a lot of -- there are a lot of breathless explanations of how
+these systems are going to make relational databases absolutely as we've seen that
+hasn't happened. However these new systems do address new and emerging
+workloads very well in fact better than relational databases. Relational databases
+continue to address the workloads that they have traditionally addressed well.
+Relational database model was actually developed as a means of providing
+application neutral query data, prior to the relational concept, which came out in late
+60's oﬀered by Dr. Ted Codd. The only way to report on data was to write
+complicated programs that could navigate the database, ﬁnd the database, look for
+and then produce a report and Ted Codd's aim was to provide a system that you
+could dynamically query.
+And as a result its strength has been reporting and they still are because relational
+database is the only architecture designed so that if you do it right, if you fully
+normalize your data, you don't have to anticipate any of the questions are going to
+be asked.
+It will have answer any mathematically valid question that you pose to it along any
+line of query. You don't have to know about the structures. You don't have to collect
+certain structures to do it. You just ask the question and it would and it will give you
+an answer. It's the only system works that way. All others are dependent on structures
+that you have to retrieve and sift through to ﬁnd the details that you're looking for.
+The reason we have transactional database is that relational databases that
+customers didn't want to use one architecture for transactions and another for query.
+So it was necessary to provide a database that does both and it works reasonably
+well for classic two dimensional data structures such as lists and ledgers and most of
+the things that we do is sort of back oﬃce accounting things and maintaining
+customer list and stuﬀ like that.
+It has a tough time with diﬀerent shapes then two dimensional ones, such as
+precursor structures, graphs, embedded structures, graphical objects and so forth
+because these demand -- these demand or a style organization that either breaks
+the relational model from a perspective of how these databases work or if you try to
+impose relational model on them, they just don't perform, they just can't perform.
+And another aspect of this is that relational databases do require ﬁxed schema. In
+other words, the relational database is schematic database, which means the
+database needs to know the organization of the data before you put data into it.
+Whereas the new class of Dynamic Data Management service that are out there
+including no sequel and they do operate on the basis of the idea that you put the
+data in ﬁrst and then discover how it's organized. So that capability is supported by
+things like graph databases, in some cases people use key value stores, documentFINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 12 of 18databases and object-oriented databases, which are actually also schematic, but
+diﬀerent, can also serve some of those jobs and is used, especially when their
+relationship is very close with a language such as Java.
+So the alternative technologies include Data Lakes and what has been called no
+sequel databases, which originally have actually met no sequel and then they
+decided, well that's sounds too restrictive. So they call it not only sequel, but it really
+-- what it really means is that well we can support a sequel interface. So if you go
+through and you deﬁne data in just the right way and you mark it in just the right way
+and put in some metadata, you can execute sequel, but it's really not a relational
+database.
+So, Data Lakes serve three basic functions. The ﬁrst is initial ingestion, which includes
+all the ﬁltering, sorting, regularization. So for the also do discovery as to what data
+needs to be secured and so forth and then after that, you may either export it to a
+relational data warehouse or you may write it out to a object ﬁle system for analysis
+by Spark or you may run Spark directly on it and now when you do that, that's largely
+for these sort of deep one-oﬀ analysis conducted by data scientists who are looking
+to discover patterns and anomalies in data.
+So initial ingestion, deep analysis and then the third function is long-term data
+retention because it's cheap. So the related technology to Data Lakes includes
+Hadoop and all the sort of elements of the Apache Hadoop constellation of projects
+and also object storage, particularly native cloud storage such as AWS, S3, all
+operating or mediated through HDFS protocol.
+Some people are starting to use Parquet ﬁles and access those, which can enable
+user manage data in common format and spark, which has become the sort of pay
+factor standard for most analytics in this environment.
+And as an emerging role data, receiver data, organizer data router, which means it
+becomes a kind of operational data hub in which data comes in both from external
+sources maybe streaming sources in some cases and also from other structured,
+managed internal sources and it gets combined in diﬀerent ways and moved out.
+This is as I say an emerging role, but this I believe and I'm not speaking for them, but
+I believe this is a direction that Cloudera, Hortonworks combination will be looking
+to pursue.
+In the no-sequel space we see for general beneﬁts, that the lack of schema support
+means that developers can just go ahead and do their thing. They can build and
+make changes to their applications at will. The applications right, documents out to
+document database and the database will support it and so they can address
+constantly shifting requirements, they can fulﬁll the agile development model. And
+the operational constraints are not there, which gives you a greater -- required by
+asset are not there, which gives you greater scalability and ﬂexibility in their casesFINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 13 of 18where because the data that you're putting is unrelated to the other data that you're
+putting in the database, consistency isn't really an issue.
+Now, when it is an issue when there are formal relationships, then you need to be a
+little more worried about those things. Document databases are key on the
+operational side for no SQL databases that their contents are deﬁned by application
+code, but they are self-deﬁning meaning that the ﬁeld names actually occur in the
+documents.
+The documents can become inconsistent, which makes analytics diﬃcult, because
+remember there's nothing controlling this. You can put rules in some of these --
+some of these systems while you put rules in to force documents to be more
+consistent, but it's not a primary requirement.
+And there, most commonly used for online session management maintaining the
+data, session data as users use in online environment, which is important, not only
+for recoverability of user session, but also for later analysis and tracking.
+Also for IOT tracking and which is IOT data tracking and for gaming applications,
+very common and popularly used for gaming applications. Other no SQL systems
+include Viacom stores such as Cassandra, which is also Agile. You can add new
+comps at will -- but it doesn't do great at complex query.
+It's not that optimal for operations where performance is an issue, but it's pretty
+good for analytics, particularly aggregation analytics against very, very large
+collections of data. And the other key value stores, which are mainly used for the
+shared persistence of application internal data and also key value stores underlie a
+number of document databases that are out there as well.
+So you have sort of like a two layer system. You got the document, management
+layer on top and then you got the key value store underneath. And actually key value
+stores are usually being used by some emerging relational database systems as well.
+Now I am going to wrap up the formal portion here and so we can get onto the
+questions. Relational databases remain core for back-oﬃce data processing
+enterprise data warehouse, all the traditional boring things. Well, a lot of the
+developers that you're going to encounter at Strata or at Dreamforce or whatever we
+call boring, the relational databases will move to the cloud, but whose we don't
+know.
+Oracle, Microsoft Amazon, Contend; there are specialized providers for data
+warehouse functionality like Snowﬂake out there. Interesting to see how that all
+works out and in fact Teradata has a cloud called Intellicloud as well recently
+developed. Data Lakes and NoSQL are primarily served new workloads and those
+for which a relational database is historically ill suited. Oracle needs broad
+acceptance to the Oracle cloud to thrive long term critical requirement/.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 14 of 18Anurag Rana
+Carl OlofsonMicrosoft jumped out in front with this -- with Azure and people -- when they ﬁrst
+came out of Azure, people were scratching their head and said why do they even
+need to do this, but it turns out to have been a really smart thing for them to do.
+Amazon Web Services is as solid because they are like it doesn't matter to us. You
+can buy, you can use our stuﬀ, you can use other people's stuﬀ. Will deploy it
+manage it and they have Amazon's retail mentality. We have our brand products on
+the shelf, but we have other brands on the shelf as well. You buy those, we still win,
+because we're still doing business with you.
+So Amazon -- that's Amazon's approach. It's going to continue to be their approach,
+but it puts a lot of the burden of making decisions on the consumer.
+MongoDB and Horton Cloudera plus Hortonworks are growing pretty well. But the
+open source model makes it diﬃcult to track and predict. I mean the thing about
+Open Source is that in order to know where it's going, you really need to have a
+really strong sense of who's using it. but without revenue account, which is what we
+do at ITC.
+The only other way to do is through surveys, which we've done from time to time,
+but we need to measure the user basis of these products in order to give ourselves a
+better view. but we think we've got a pretty good handle on it. And we think that
+MongoDB, CouchBase and others are growing pretty well in their user communities
+and eventually that will translate into revenue growth as well.
+So those are -- that concludes the formal portion of my presentation. I'm going to
+hand it back over to Anurag and -- questions to answer.
+{BIO 7440273 <GO>}
+Yeah, we have a lot of questions Carl. Let me start oﬀ with a couple of them. Then I
+will read them out from the ones that are coming from the listeners and I would
+again request if you have more questions, please ﬁre them ahead.
+So one thing is very clear as you've mentioned, for Oracle to be successful long
+term, Oracle Cloud has to succeed and we have obviously seen slowdown in that
+perhaps largely because of the pace of migrations of these larger databases or their
+legacy clients to cloud in general. What do you think Oracle can do to accelerate the
+shift to Oracle cloud?
+{BIO 21744954 <GO>}
+So part of the problem, is this. They are largest customers and they really need their
+largest customers to come to the Oracle cloud. Also I have the most complex
+situations in their data centers and they just can't move -- they can't turn on a dime.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 15 of 18Anurag RanaIn other words, they need to -- not only do they have complex Oracle installations,
+they have a lot of other technology in their data centers. They need to make a lot of
+decisions. Once they've made those decisions, some of that technology can't be
+moved for various reasons.
+So what they are doing now is they are implementing hybrid cloud strategies and
+we're going to continue to see that going on for a while. As they formulate their
+plans, the other thing is that they have a lot of technology in the data center that is
+on depreciation schedule. They're not going to stop. They're not going to turn oﬀ
+expensive servers and storage systems until they've hit their depreciation limit. So
+that means that timing becomes important as well.
+So we really didn't expect a large number of those customers to have moved by
+now. I think what you've seen is that there is a sort of initial rush of people with the
+pent-up demand. We're past that now. And now we are into the more serious long
+term -- how do we get there kind of thing and it's just going to take several years. I
+don't know what Oracle could do to speed that up. One thing that they have -- there
+are two things they have done.
+One is the Oracle Autonomous Database Technologies that they've come out with is
+attractive enough that once it's mature shown to be mature and right now we don't, -
+- we've got a lot of people, we've talk to are beta customers. They need another year
+for us to get the experience of the people who have these technologies and
+production particularly because the transactional one isn't even available yet. But
+those are things that can help accelerate the process of moving to the cloud
+because it makes it easier.
+The other thing -- the other thing is this thing called Oracle Cloud Customer and this
+is a box that they have that works like a -- that works like a little piece of the Oracle
+cloud in your datacenter. So for people who say, well I can't move most of my
+systems yet. I'm not ready to do that, and they have to interact with these Oracle
+systems on a very low latency basis and so that we need to keep them connected to
+our internal network.
+You say -- okay, no problem, put in Oracle cloud customers. They run the Oracle
+database, Oracle is managing the database for you and right now Oracle clouded
+customer doesn't actually support Oracle at times database, but we think it will in the
+not too distant future.
+You put that in and that way you can sort of have your cake and eat it too because
+you can start the process of Cloud icing parts of your data center while actually
+keeping those elements in the data center physically connected through your
+internal network to the other systems. So that -- those are two things that Oracle is
+doing to try to accelerate that process.
+{BIO 7440273 <GO>}FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 16 of 18Carl OlofsonFair enough and we have seen now your stock works in a similar way and use a
+hybrid methodology. But let's talk about those legacy enterprises. So if I'm a very
+large customer that I'm an Oracle shop that I've been using Oracle databases for
+several years, and I'm a fairly big customer. I am one of your the most high paying
+customers for Oracle.
+If and when I decide to move my database to the cloud, what is the probability that I
+would go with either Oracle or Amazon or Microsoft like, which way am I more
+skewed to given my legacy investments?
+{BIO 21744954 <GO>}
+So I don't think there's a one size ﬁts all answer that question because it depends on
+what you're using the database for and how many specialized Oracle features you're
+using. If it's an in-house developed application and you have lots of PLC sequel,
+you're probably going to stick with Oracle technology.
+Now that doesn't mean you go the Oracle cloud. You could deploy Oracle and AWS
+rents and I think, believe you can even deploy it in Azure, but people who are going
+to go to Azure are people who are Microsoft-centric, I believe, and there Microsoft-
+centric people who have some Oracle systems and there are Oracle-centric people
+who have some Microsoft system. So if you're Microsoft-centric, you're going to be --
+the appeal of Azure is going to be pretty strong, but if you have a lot of PLC sequel,
+you're not going to move to another data.
+On the other hand, if you don't, if you mostly just use sort of generic sequel
+functions and third party applications that support multiple databases, then you
+might consider switching database systems as part of your cloud conversion
+process, which then means go anywhere and we see people considering all of these
+things.
+I tend to think at the end of the day that most of the large Oracle customers are
+more conservative in that and will stick with Oracle just because it's what they've
+used. They're not sure what would happen if they try to move their databases to
+another system. The mid-sized ones are the ones that might go to say an enterprise
+DB based post solution or something like that or they may even switch altogether.
+Every vendor as you probably know has their Oracle conversion tool that is
+supposed to help you move Oracle databases to their platform. So, but for those
+with a heavy investment in Oracle, I really don't see them moving oﬀ of Oracle and
+the appeal of the Oracle cloud, especially if you're also using Oracle applications
+pretty great.
+So the questions, I would ask are how heavily customized is your Oracle environment
+to use lots of PL sequel? Two, are you using lots of Oracle applications? Are you
+dependent ib Oracle applications? If either of those is the case, you're likely to go
+with Oracle and to go the Oracle cloud. If neither of those is the case, then there are
+-- there is a variety of options you might consider.FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 17 of 18Anurag Rana
+Carl Olofson
+Anurag Rana
+Carl Olofson{BIO 7440273 <GO>}
+That begs the second question and in the case of the second example that you gave,
+how easy is it to migrate a large database oﬀ of Oracle to let's say Amazon or
+somebody else?
+{BIO 21744954 <GO>}
+Well the ﬁrst thing you would need to do is look at the characteristics of the
+database or maybe it's a data warehouse. I don't know and ask yourself can the
+proposed target system handle it? And the answer to that may eliminate a lot of what
+you would consider potential options.
+If I'm looking at a large complex database data warehouse for instance, I'm probably
+more likely if I want to move oﬀ of Oracle and probably more likely to consider
+another database system that's designed to handle large complex data whereas
+such as Teradata rather than something like RedChip couldn't handle it.
+But the feedback that we've gotten is that data warehouse users tend to be more
+comfortable with those larger more highly scalable environments. Now, if that's not
+the case, if the databases what we might say fairly prosaic and not too large, then
+there are a number of possible choices and I've talked to customers who have
+migrated such databases to other platforms and they seem quite satisﬁed.
+So it's all a question of what's there, but if I'm moving a large complex Oracle
+database, transactional database, I would do a lot of due diligence in examining the
+potential targets as a moving -- something as moving to the Azure sequel database
+for instance.
+You'd have to do a proof of concept project to determine whether or not it can
+handle the load, but if you decide to go that route, as I said before, there are --
+everybody has their Oracle conversion tool and there are also third party Oracle
+conversion tools out there.
+So that there are ways and means of doing it, but I would also assume that it is not a
+risk free and eﬀort free exercise. There is. There are going to be catches. They're
+going to be a few things. We didn't anticipate this. So that's all part of the if you will,
+the friction that presents itself in making such a conversion.
+{BIO 7440273 <GO>}
+Fair enough. One last question and we'll call it oﬀ, given that we've almost close to 1
+o'clock. One of the clients -- one of the questions is about is Google Cloud platform
+even in the running or it's a completely irrelevant in your view?
+{BIO 21744954 <GO>}FINAL TRANSCRIPT 2018-10-09
+Alphabet Inc (GOOGL US Equity)
+Page 18 of 18Anurag Rana
+Carl OlofsonOh, no. I don't think it's a relevant at all. Google is of course a late-comer in terms of
+presenting a cloud platform that is considered suitable for enterprise data
+management but -- and I think that spanner is too new a product to build a
+formulated opinion about it. The white paper looks good.
+But we have to see real customer cases before we -- before we know how to
+interpret it, but they're going to do everything they can. I think that most of the
+deployments will be new applications initially at least on the Google cloud platform,
+but a number of vendors have very good relationships with Google and have
+committed to GCP support.
+And also the other thing to bear in mind about GCP is that not everybody is all that
+comfortable with the idea of totally committing to say AWS or Azure. They like to
+have a third choice out there and maybe some people will distribute some of their
+resources across both platforms simply in order to give themselves a little more
+ﬂexibility, so that they feel like they're not completely dependent on one vendor and
+they're putting all their eggs in one basket.
+{BIO 7440273 <GO>}
+Fair enough. Carl, as always is a pleasure talking to you. There are a bunch of
+questions and I will try to take them oﬄine and get back to them. So with that, thank
+you so much and look forward to talking to you again.
+{BIO 21744954 <GO>}
+You're very welcome and I appreciate everyone's attention and time in attending this
+event. Thanks.
 This transcript may not be 100 percent accurate and may contain misspellings and 
 other inaccuracies. This transcript is provided "as is", without express or implied 
 warranties of any kind. Bloomberg retains all rights to this transcript and provides it 
 solely for your personal, non-commercial use. Bloomberg, its suppliers and third-
-party agents shall have no liability for errors in this transcript or for lost proﬁts, losses, FINAL TRANSCRIPT 2023-01-12
-NVIDIA Corp (NVDA US Equity)
-Page 15 of 15or direct, indirect, incidental, consequential, special or punitive damages in 
+party agents shall have no liability for errors in this transcript or for lost proﬁts, losses, 
+or direct, indirect, incidental, consequential, special or punitive damages in 
 connection with the furnishing, performance or use of such transcript. Neither the 
 information nor any opinion expressed in this transcript constitutes a solicitation of 
 the purchase or sale of securities or commodities. Any opinion expressed in the 

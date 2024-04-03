@@ -46,7 +46,7 @@ def convert_all(
         if len(dst_files) == 0:
             return True
 
-    title = f'Converting {src_ext.removeprefix('.')} files to {dst_ext.removeprefix('.')} files'
+    title = f'Converting {src_ext.removeprefix('.')} to {dst_ext.removeprefix('.')}'
     title = f'{title:<30}'
     success = False
     with alive_bar(len(dst_files), force_tty=True, title=title) as bar:

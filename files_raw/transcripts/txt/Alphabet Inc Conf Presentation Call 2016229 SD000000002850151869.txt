@@ -1,513 +1,466 @@
-FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 1 of 13, Founder, President and Chief Executive Oﬃcer
-, BofA Securities
-Vivek Arya
-Jensen Huang
-Vivek Arya
-Jensen Huang
-Q - Vivek AryaBank of America Securities 2022 Global Technology
+FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 1 of 13, CFO
+, Analyst, Morgan Stanley
+Brian Nowak
+Ruth PoratMorgan Stanley Technology, Media & Telecom
 Conference
 Company Participants
-Jensen Huang
+Ruth Porat
 Other Participants
-Vivek Arya
+Brian Nowak
 Presentation
-{BIO 6781604 <GO>}
-So while everyone is settling in, good morning, everyone. I'm Vivek Arya. I lead the
-semiconductor equipment research team here at Bank of America Securities. And
-before we get started with the session, NVIDIA just asked me to say that today's
-discussions contain some forward-looking statements, and investors are advised to
-read NVIDIA's ﬁled SEC reports for risks and uncertainties facing the business.
-So with that, really delighted and honored to have Jensen Huang, the CEO and Co-
-Founder of NVIDIA, with us. Jensen needs very little introduction, but suﬃce to say
-that NVIDIA under Jensen's leadership has been an industry pioneer in driving the
-boundaries of artiﬁcial intelligence, gaming, cloud computing, robotics, I can go on
-and on. But really delighted to have Jensen with us sharing his perspective. So a
-warm welcome.
-{BIO 1782546 <GO>}
-Thank you, Vivek. It's great to be here. Great to see all of you.
-{BIO 6781604 <GO>}
-Yes. So this is actually our ﬁrst in-person conference after three years. So it's --
-{BIO 1782546 <GO>}
-It's my ﬁrst conference in three years. That's a lot of you.
-Questions And Answers
-{BIO 6781604 <GO>}FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 13A - Jensen Huang(Question And Answer)
-Yes. So maybe, Jensen, let's start with the high level. So in the ﬁeld of AI, why is it an
-important problem to solve? Why is it a hard problem to solve? And why do you
-think the GPU is the right way to solve it? Because we see a number of other
-approaches, whether it is custom silicon, right, whether it's FPGAs, right, there are
-other companies making GPUs also. So why is it an important problem? Why is it a
-hard problem? And why do you think your approach is the best one?
-{BIO 1782546 <GO>}
-Is that the one and only question? Because that's going to take 40 minutes. That's an
-excellent question. It's a very important question. First of all, machine learning,
-artiﬁcial intelligence is a computer that writes software itself. It writes software that no
-humans can write. And it looks for patterns and relationships from data. And it
-creates a model that can then infer and make predictions from data that it sees in the
-future that it hasn't seen before.
-And so, if you think about what I just said, the characteristics of machine learning that
--- it's a computer that writes by itself, it writes software normal humans can and that
-can make predictions about the future, you've got to ask yourself how important is
-that, and how would you apply that, and what kind of problems can you now ﬁnally
-solve the very ﬁrst time that because we can't write these type of software, there are
-no principled mathematics, no principled equations to make that prediction, like, for
-example, there's no Maxwell's Laws, there's no Newton's Laws, none of those laws
-exist, no Schrodinger's equations. None of those equations exist or can't solve
-problems at the scale that we can do with machine learning. Maybe it's because it's
-multiple physics. Maybe thermodynamics and ﬂuid dynamics have to come together
-to solve a problem. Maybe it's multi-physics, and it's impossible for us to have a
-simple numerical answer for it. And so for the very ﬁrst time, machine learning gives
-us the opportunity to solve those problems.
-Now the implications to -- three large domains, I'll just characterize it as three large
-domains, is utterly profound and you're seeing the beneﬁts of it. One is, of course,
-information automation, what we call IT. For the vast majority of the industry, the time
-that we've all been in the industry, and I've been in the industry since I was 20 years
-old, information technology has been about retrieval of information. If you look at
-your data center, the vast majority of your data centers, a bunch of computers
-connected to storage, it's about retrieval. It's about storing ﬁles, retrieving ﬁles,
-sharing ﬁles, modifying ﬁles. It's about retrieval.
-For the very ﬁrst time, we can now take that data and infer some model from it,
-create some model from it, predictive model from it. And this AI has the ability to go
-into that data and ﬁgure out what are the predictive features, a predictive feature so
-you guys know, no diﬀerent than an equation of -- a force and you know that mass
-and acceleration are predictive features. It's no diﬀerent than Maxwell's equation has
-predictive features.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 13Inside your company, there's a whole bunch of data, and there's no way for you to
-ﬁgure out what the predictive features are. Finally, machine learning comes along
-and it ﬁgures out what the predictive features are all by itself. And it could create a
-model that could then make predictions from. So information automation.
-The second ﬁeld, which is very important, is science automation. Some people have
-now made a claim and it's too far that because of AI, because of machine learning,
-it's the end of the scientiﬁc method. I think the scientiﬁc method is sound and will
-continue to exist, but it will be augmented by machine learning. And the reason for
-that is you're going to observe the world and use AI to go ﬁgure out how to predict
-the future. In the past, scientists used thought experiments. And the thought
-experiments, Einstein, for example, didn't observe anything. It was all completely
-based on mathematics. It's based on thought experiments. Sometimes, it's through
-observation.
-And so you could say that when a scientist makes observations, intuitive
-observations, and then ﬁgures out what the numerical-ﬁrst principal methods are
-building upon previous science, that method is now going to be augmented at
-scale. And so, I don't think it's the end of scientiﬁc method, but that scientiﬁc method
-is going to get boosted. It's called physics ML, physics machine learning.
-The third area of great impact, and you could almost look at the world and break it
-down into these three areas, and you'll see some really profound work being done.
-The third is, for the very ﬁrst time, we can -- we have the ability to write software,
-have machines write software, that can control really, really complicated things, like,
-for example, through sensors infer or perceive the environment, reason about the
-context, reason about the environment and its mission and its goals and then come
-up with a set of plans. What I just described of perception, reasoning and planning is
-the foundation of intelligence, is the foundation of robotics.
-And so for the very ﬁrst time, we're going to see, because we have this new form of
-software, we are going to be able to automate industries, not just information but
-automate industries. And we can talk about these three areas. So ﬁrst of all, the
-profound impact of machine learning is fundamentally that. The second, why is it
-hard? Well, ﬁrst of all, the computational method of machine learning, ultimately, the
-model has -- there are two computers that has to be built. There are two basic
-processes that has to be built for artiﬁcial intelligence.
-One is a computer that takes a whole bunch of data and -- it takes a whole bunch of
-data and ﬁnd the predictive features and ﬁnd the predictive patterns and
-relationships. The relationships could be over space. For example, one pixel to
-another pixel, computer vision. It could be over time, one sound versus another
-sound, speech recognition. Or it could be over time and space, video. And so the
-ﬁnding relationship across -- and it could be in the frequency domain, for example,
-FFTs. It could be in physical domains. It could be information spatial domains. And
-so, there's a lot of diﬀerent dimensions that you could learn from.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 13So I think the ﬁrst part is you have to create a computer that can suﬃciently learn
-from the data that it's presented, all these diﬀerent types of data that's presented a
-predictive model. That piece of software, so that it can learn from the data because it
-could be -- the number of predictive features could be in the hundreds of millions,
-whereas F equals MA has two variables in the case of many artiﬁcial intelligence. The
-work that you do for example, if you just think about how do you predict certain
-things.
-The amount of modalities of information that you have to bring in, the dimensionality
-of the information that you bring in is utterly gigantic. And to ﬁgure out how to take
-all of that information in, create an architectural model that could learn and predict
-from that data set without being overﬁt, meaning it only saw -- you gave it an
-example of a fruit and that fruit is orange, and it thinks that orange is the only fruit.
-So it can't be overﬁt on the one hand. And the size of the data implies something
-about the size of the model, which implies something about the computer.
-And ImageNet went from a few million images to now companies are training on
-hundreds of terabytes, moving to tens of petabytes of data. And so the size of the
-data, the modality of the data, the dimensionality of the data and the model that you
-wanted create to predict that data is proportional. So that's the thing -- that's why it's
-hard. And it's the ultimate high-performance computing problem.
-Then the second problem is how do you now deploy that model into a world to
-make the predictions. In the case of mobile devices, that model is running in the
-cloud. And almost everything that all of you do every day, whether it's doing search
-or shopping or video or playing TikTok or whatever it is, short videos, long videos,
-whatever it is, everything has a recommender system behind it. It's the single-most
-important economic engine in the world today is unquestionably the most valuable
-piece of software the world's ever discovered. It's worth trillions of dollars, as all of
-you know. And that recommender system is running in the cloud.
-On the other hand, there's another AI model that is developed in the cloud in the
-same way that I just described earlier. However, it has to be deployed at the edge.
-So a perfect example of that would be a self-driving car that has an artiﬁcial
-intelligence model that takes all of the sensor input. It has to make sense of what it
-sees through a LIDAR or radars or surround cameras, create a world model from it,
-localize everything around it, localize itself to it and then reason about what it should
-do based on the mission that it has. And so now that, that computer is at the edge.
-Notice the diﬀerence between the cloud computer that is doing inference or
-prediction, making a recommendation for you. Every time you click -- and you might
-be clicking once every second. In computer time, that's a very long time. On the
-other hand, you have an edge device like a self-driving car that has to make
-predictions in completely real time. If it doesn't make a prediction in real time all the
-time, something terrible could happen. And so I've just described the two ends and
-how the computing model is radically diﬀerent.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 13And then lastly, why GPUs? There's several reasons why NVIDIA GPUs. First of all,
-NVIDIA's GPU is not a graphics chip. About 20 years ago, we started the journey of
-making it a general-purpose parallel accelerator. And the parallel accelerator
-created -- we created a new programming model called CUDA, which is the most
-successful programming language the world's ever seen. And you could argue it is
-the only parallel programming model the world's ever seen. It took us about some
-20 years to make it happen. And today it's used in just by every ﬁeld of science. It's
-in every -- it's oﬀered by every computer maker, every cloud maker. It's used in
-computer graphics, image processing to quantum physics to quantum chemistry to
-machine learning to robotics. It's the most popular robotics platform. And so
-anyways, why us?
-The ﬁrst part is the technology. The technology is obviously very hard. The ability to
-not just run one or two threads of execution on a CPU but to be able to run,
-orchestrate, manage tens of thousands of threads in one GPU. And in the case of a
-data center, one application is running across an entire data center. There are
-hundreds of millions of threads being orchestrated by this one scheduler. You just
-got to imagine what kind of a scheduler, what kind of a programming model that can
-take a problem and break it down into hundreds of millions of little tasks and then
-orchestrating all of that. And so the technology is hard.
-The second is machine learning is a complicated computing problem. It's
-complicated at the algorithm level. It's complicated at the compiler level. Remember,
-if you look at a neural network, it looks like a compute graph. Well, it is a compute
-graph. It's a giant compute graph. It's a compute graph with, well, we're coming up
-on 530 billion nodes. There are only 7 billion people. So our compute graph called
-Megatron has 530 billion nodes, and those nodes, parameters in it. And the size of
-the computer, that size of software doesn't ﬁt in any normal computer. It needs a
-DGX computer to ﬁt.
-And so how do you, number one, write that software? And then number two, how do
-you run that software? And so the entire computing stack is hard. The computing
-architecture is hard. Just imagine, we're trying to write a piece of software that is --
-has all the characteristics that I just described, has data from all these diﬀerent
-modalities. You have to ingest the data. You have to bring it all into system memory.
-You have to operate on it to ﬁnd relationships across everything. And so the
-computation model of the system, if you look at our systems, it's a complicated CPU
-problem, GPU problem, memory problem, networking problem, system bus
-problem, distributed computing problem, storage problem. It's a problem
-everywhere.
-And so the invention -- we reinvented the entire stack from the chip to the system to
-the system software to the compilers, graph analyzers and graph optimizers, all the
-way up to the algorithms itself. And so I think the answer to your incredibly hard
-question is that machine learning is the most impactful computing science problem
-that we've ever challenged. It has tremendous and profound impact on all the
-industries that we've mentioned. But you can't do that by just designing a chip. YouFINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 13Q - Vivek Arya
-A - Jensen Huang
-Q - Vivek Arya
-A - Jensen Huanghave to do -- you can only do this well by reinventing the whole computing science
-at the computer stack. And that's what we've been working on the last 10 years.
-{BIO 6781604 <GO>}
-Jensen, where do you think we are in that adoption curve? Because other parts of
-the market that you think are starting to get mature where you might face more
-competitors. So if you could help us kind of think through where we are in the
-adoption curve. For example, what we do is we look at supercomputers, right? Every
-six months, there at that top 500 list, and the number of accelerators there now is
-close to 1/3 of all the machines. Is that the right way to think about where we are in
-the adoption curve, looking at what supercomputers are doing? Then where are we
-in that similar curve for, let's say, hyperscalers or enterprises?
-{BIO 1782546 <GO>}
-Yes. That's an indicator, but here's the way I would look at it. It took -- there are four
-major data centers that -- data center classes that all of us know, and there are two
-new ones that are coming out. The data centers -- can you guys hear me? The
-gentlemen back there told me to do this. Am I okay?
-{BIO 6781604 <GO>}
+{BIO 16819013 <GO>}
+Good afternoon. Hello, is this on? Good afternoon. Thank you, everyone, for joining
+us for another one of our keynotes. We're very happy to have Ms. Ruth Porat with us
+today. We have a lot of disclosures. So we'll go through those ﬁrst.
+Please note that important disclosures, including my personal holdings disclosure
+and Morgan Stanley disclosures, all appear as a handout available in the registration
+area and on the Morgan Stanley public website.
+Some of the statements that Ms. Porat makes may be considered forward-looking.
+These statements involve a number of risks and uncertainties that could cause actual
+results to diﬀer materially. Any forward-looking statements that Ms. Porat makes are
+based on assumptions as of today. And Alphabet undertakes no obligation to
+update them. Please refer to the Form 10-K for a discussion of the risk factors that
+may aﬀect these results.
+Glad that we're through that.
+Ruth Porat is the CFO of Alphabet. Prior to joining Alphabet, she was the CFO of
+Morgan Stanley. We love the pedigree. She received her undergraduate degree
+from Stanford, a graduate degree from London School of Economics in political
+science. And an MBA from the Wharton School at the University of Pennsylvania.
+We're very grateful. Thank you. So much for being here.
+{BIO 2536317 <GO>}
+Great to be here.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 2 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth Porat{BIO 16819013 <GO>}
+A series of questions about the core Google business, the Other Bets and everything
+going on at Alphabet. You've been with Alphabet for about a year now. Can you talk
+to kind of what's surprised you most about the Company, as a whole. And what are
+the biggest challenges you've seen with the new role?
+{BIO 2536317 <GO>}
+So what surprised me most is, I think I somewhat alluded to it on the various
+earnings calls. When I came in and immediately was able to go deep under the
+hood and go through diligence to get ready for the ﬁrst earnings call, I think what
+really struck me is how early stage Google is, which is a staggering statement when
+you consider the size.
+But if you just go through products, services, geography, it really led me to the
+position where I -- my biggest surprise was how early stage. You think about Internet
+penetration, how many people are online, 5 billion to go. But more than that, when
+you look at how we're using our handset today, it's so fundamentally diﬀerent, the
+experience gets richer. We have these micro moments, the ability to act, transact,
+search when you need it, where you need it. It just continues to get enriched.
+If you look at oﬄine advertising still to move online and with the level of activity and
+time spent online, we're early stage there.
+Look at what's going on in the enterprise and just the cloud opportunity for us.
+Machine learning, virtual reality, the list goes on. Next billion users is a big strategic
+priority for us.
+{BIO 16819013 <GO>}
 Yes.
-{BIO 1782546 <GO>}
-All right. Thank you. I follow instructions really well. The four data centers -- and they
-emerged and they came into the world in this way. The ﬁrst data center was a
-supercomputing center, right, Amdahl, Cray, so on, supercomputing centers. The
-second is the enterprise computing data center, IBM. The third, hyperscalers, the
-invention of Hadoop, in-storage computing, Yahoo!, okay? And then the next one is
-cloud computing, which is Amazon. Does that make sense? So I just described the
-early days of each one of the four data centers that exist today. They're all quite
-large. Each one of them added to the previous data center because it has a diﬀerent
-need. It serves a diﬀerent purpose.
-There are two new data centers that are coming in, you can tell that are diﬀerent than
-all of the other four. The new one that's coming out is what I call an AI factory. An AI
-factory does one thing, just like a factory does one thing, it could be manufacturing
-cars or it can be reﬁning oil or whatever you want to, making chemicals or whatever
-it is, making plastic, whatever it is. And so that factory does one thing. Data, in this
-case, data comes in, it gets reﬁned and what comes out as a model. Data is coming
-in continuously. It's being reﬁned continuously, 24/7, and models are being updated
-continuously. It does one thing.
-In fact, if you look at one of the most popular applications in the world and
-potentially the most disruptive new Internet application in the world, TikTok. There is
-a factory that is reﬁning the AI model continuously. It's gigantic, utterly gigantic,
-potentially one of the largest data centers in the world. We're building many, many
-of those all over the world. In my opinion, there are 115,000 large factories ofFINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 13Q - Vivek Arya
-A - Jensen Huangtraditional industrial revolution times. Now you're going to see 150,000 giant
-factories, and their job is just to reﬁne data, create models, AI factories. We're in the
-beginning part of that.
-If you look across all the companies that are doing things, and you think to yourself,
-is this a service -- is this an application that has a continuous ingestion of data and a
-continuous output of model? Well, we have one. NVIDIA have run some of the
-largest industrial supercomputers in the world and their AI factories and it
-completely revolutionized NVIDIA. We ingest data from a ﬂeet of cars. We're
-processing it continuously, petabytes and petabytes of data, and what comes out is
-an AI model for self-driving cars. We're doing that in a whole lot of diﬀerent ﬁelds.
-And so that's AI factories.
-And then the last data center, a new data center, is what I described earlier at the
-edge. Every single factory, every single warehouse, retail stores, cities, public places,
-cars, robots, shuttles, they're all going to have little data centers inside. They're all
-going to be orchestrated by Kubernetes. They're all going to be orchestrated from a
-panel from afar. They'll all run containers. You're going to OTA new containers to it.
-All of them are going to work together as a ﬂeet that's going to generate the ﬂeet's
-memory. The memory is going to be constructed into some virtual world model. That
-virtual world model will be updated continuously. And that loop will just sit there and
-just run continuously. That's a factory.
-Okay. And so you got the AI factory and then you have the edge data center. These
-two data centers are brand-new. We are in the early phases of the growth of that. In
-the case of the hyperscalers -- let me come back to your supercomputing question.
-30% of the world's supercomputers are now accelerated.
-{BIO 6781604 <GO>}
-Top 500.
-{BIO 1782546 <GO>}
-And the Top 500 are now accelerated, that's the installed base. 80% of the new
-systems are NVIDIA-accelerated. And so if you look at the installed base number, it is
-30%. If you look at the brand-new systems that are created this year, about 80%. So
-over time, that 30% will get larger and larger.
-In the case of supercomputer, it's actually fairly hard. It's easy to move to get into the
-early parts of it. It's hard to move the rest of it. And the reason for that is if you look at
-the world's supercomputing centers and the applications it's running, it goes from
-quantum physics to quantum chemistry to, right, astrophysics to molecular dynamics
-to healthcare or life sciences, physical sciences, astrophysics to weather simulation.
-And so the tail of algorithms is really, really long, thousands of applications. And
-that's why for certain supercomputing centers, you can move fast because they're
-pioneering ones. For the vast majority of the Top 500, it takes a long time. And we've
-been at it for 15 years, right? And so now after 15 years, we're at 80%.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 13Now in the case of hyperscalers, that's a little faster. I think that every single
-hyperscaler will be GPU-accelerated or will have some kind of accelerator in their
-computers. And the reason for that is because the vast majority of the hyperscalers
-write their own software. And we contribute a lot of software to open source. We
-contribute a lot of software to them. And then they have large IT teams that --
-computer science teams that can develop the software.
-And so they -- when something new comes along, for example, the two major
-drivers, data center -- NVIDIA's Data Center business is largely focused on
-acceleration and largely focused on machine learning. Our Data Center business is
-strong, And it was strong last quarter. It's going to be strong next quarter. And the
-reason for that is because we're in an early-adoption phase of machine learning
-across all of these data centers.
-They could absolutely measure their earnings growth by investing in NVIDIA's GPUs.
-And the reason for that is because all of them have the ability to do this thing called
-A/B testing. They have a digital twin. There's a digital twin of all of us in every single
-cloud service. And whenever they train a new model, they could predict would you
-have clicked on something more with this new model than you did with the last
-model. And because they know the click-through rate and they can predict from the
-click-through rate purchasing rate or engagement rate or ad payments, because that
-algorithm is so clear-cut and so well understood. They have the ability literally to
-model the impact of certain new enhancements to the AI on future growth.
-And so they are very focused on it. They want to enhance the quality of the service.
-They want to enhance the engagement rate. And at the core of this is this new model
-called deep learning recommender system, DLRM. It is the single-most important AI
-model framework in the world. It takes a whole bunch of deep learning models to
-create the predictive features, and then it creates -- and then -- just giant, giant
-factory. This is the most valuable computer science project in the world today.
-The second one that's most important is natural language understanding, and what
-is known as a large language model. If you ever get a chance, look up in your
-Internet, LLM. LLM is a very, very important thing, and it's probably one of the great
-breakthroughs in computer science in the last three years. Last three years, the
-greatest breakthrough in computer science ever and very, very important
-implications to the future of computer -- of machine learning and AI and how
-machines learn. Imagine a machine that doesn't have to learn at all but has common
-sense, and it's called zero-shot learning.
-There's a whole bunch of new AI technologies. Those two areas are driving just
-enormous investments in cloud service providers. And so we -- you just -- each one
-of the data center has its own adoption rate. It's hard to generalize across all of it,
-Vivek. But here's my prediction, I predict that you'll have data retrieval systems inside
-your company, and they'll continue to be enterprise data centers like today. But
-every single company, ours has and every other company will too, will want to invest
-in an intelligence generation data center. And that intelligence data center will be
-100% GPU-accelerated.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 9 of 13Q - Vivek Arya
-A - Jensen Huang{BIO 6781604 <GO>}
-Jensen, what do you see as the next phase for NVIDIA? Because at the last GTC,
-right, and other events, you have described the move into software and
-subscriptions. How do you see that evolving for NVIDIA over the next few years? Is it
-additive to your business? Is it something you already do but you would just be
-putting it into a formal umbrella? Or do you think it's a brand-new growth
-opportunity for NVIDIA?
-{BIO 1782546 <GO>}
-You can characterize everything that we're doing. You can go on that -- you can
-characterize our strategy in this way. The ﬁrst thing that we're doing is we have to
-reimagine the computer -- computing system from top to bottom. We call that full-
-stack innovation. Chips, systems, system software, algorithms and libraries, and so
-that's full stack.
-The second thing is we're the only platform in the world of any accelerators at all,
-aside from the CPU. So CPU just does it very, very slowly. In the case of acceleration,
-we're the only platform in the world that does end-to-end machine learning from
-ingestion of the data from the actual query of the data from a database to the
-processing of it called ETL. Anybody here in the ﬁeld of data science? ETL is fully
-accelerated with NVIDIA, whether it's RAPIDS or Spark. And then we go into the
-training part of it to inference.
-We are end-to-end. We're the only platform that can train and inference any model
-that's created. There's a very important contest that's called MLPerf. We're the only
-company that has ever -- well, we're the only company that ﬁnishes the test. We
-ﬁnished the test every time on training. And the number of tests, it's like -- it's harder
-than the SAT. But the number of tests is quite enormous. We ﬁnished all -- we're the
-only one that submits a result for everyone in the test for data center, for edge, for
-training and inference. Every single model, every single time. We're the only one that
-does it -- even come close. And so we're end-to-end, we're full stack, we're in any
-model. And so that's our ﬁrst mission, is to reinvent computer science.
-The second thing is to put our computing architecture in anywhere that people want
-to do computing. So I just mentioned there are six diﬀerent classes of data centers.
-And they all have diﬀerent stacks and they all have diﬀerent needs and diﬀerent
-networking, diﬀerent storage, diﬀerent provisioning. We're the only company that
-has the architecture across all six, okay? So that's the second mission.
-The third mission is to invest in the reinvention of today's information technology
-automation, but also build a foundation for the largest of all the opportunities, which
-I think is going to be industrial automation and putting AI literally everywhere. And
-so everything that moves will be automated. There's no question about it. It will be
-safer. It will be easier to manage. And so the thing that we're working on now which
-is related to Omniverse is that.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 10 of 13Q - Vivek Arya
-A - Jensen HuangWe also want to make it possible for companies, whether they have internal
-computer science organizations and IT organization, large engineering organizations
-like clouds or enterprise, to be able to adopt AI inside the company the way we
-describe it is to democratize AI. We want to put AI in the hands of enterprises,
-healthcare companies, ﬁnancial services companies, you name it, okay, and retail
-companies, large logistics companies, automotive companies, transportation
-companies. We want to put AI in everybody's hands.
-The only way to do that is to take software that we otherwise open source or put into
-GitHub or provide a source to CSPs to package that up into a licensable product.
-Because most companies don't have the ability to go and cobble all of that
-complexity together from the algorithm level to the system software level to the
-networking and storage level. It's just too much. And it needs to be multi-tenant, it
-needs to scale out, and it needs to be secure. And so it's just too much software to
-do.
-And so we package all that up into NVIDIA AI. We package all that up into NVIDIA
-Omniverse. And we have an enterprise license. The enterprise license is $1,000 per
-node. And for us, there are 25,000 enterprises around the world that's already using
-NVIDIA's technology for AI. We now can oﬀer them an enterprise software license
-that they could get direct support from us, access to our expertise to learn how to
-use it and get maintenance and support. And so that licensable products is a new
-product of ours. It's oﬀ to a great start. I think it's going to be probably one of the
-largest -- my estimation, one of the largest enterprise software products in the world.
-It has the opportunity, though, to ride NVIDIA's go-to-market. So we have the
-opportunity not to have to build up a large enterprise sales force because we will go
-to market on the computing platforms that we already sell. And so I'm very excited
-about NVIDIA AI.
-{BIO 6781604 <GO>}
-Got it. Since we have a lot of investors in the audience, I can't resist but ask a little bit
-shorter-term question, which is there seems to be this conﬂict where the
-semiconductor industry, right, sounds very strong, that demand is not the problem.
-Supply is the only challenge, right, because of lockdowns or other issues. Whereas
-the broader market, right, seems to be implying, we are headed into a big
-slowdown. So what's on your dashboard? How do you perceive the demand
-environment? And what kind of risks do you foresee over the next four to six
-quarters?
-{BIO 1782546 <GO>}
-If the slowdown results in loosening of supply chain, that's good. Our strategy is to
-grow faster than the economy could be impacted. Of course, China and Russia has
-an impact on our consumer product -- consumer gaming business. It's impacted our
-Q2 by about $400 million. China is a signiﬁcant market. Russia is a meaningful
-market for our gaming business. However, gaming remains solid even in the face of
-China and Russia. Q1 sell-through was -- grew year-over-year over last year, which
-was a really fantastic year. And so gaming sell-through remains solid.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 11 of 13Q - Vivek Arya
-A - Jensen Huang
-Q - Vivek Arya
-A - Jensen HuangWe are working on the single-greatest opportunity in the history of computing.
-Artiﬁcial intelligence has been the holy grail of computer scientists for a very long
-time. For the very ﬁrst time, we know how to in speciﬁc areas, speciﬁc areas of skills
-and things to automate, achieve superhuman levels, not to mention that, achieve
-global scale because of cloud computing. The combination of machine learning and
-cloud computing is really quite tremendous.
-We've now succeeded in creating AIs for information automation, recommender
-systems and language understanding, as I mentioned. In physical sciences, we
-invented a new physics molecule, FNO, that can be used for weather prediction, one
-that's going to be used for quantum chemistry. And so we're making tremendous
-breakthroughs in physics ML and revolutionizing science. And then of course, all of
-the work that we're doing with Omniverse and robotics for industrial automation.
-And so those -- that work, I believe, and the foundation of our end-to-end, full-stack
-capability, we can bring and democratize AI for all of the industries that I mentioned.
-And with a company of our scale and our footprint and the reputation for being very
-good at this, I think we have an opportunity for years of growth ahead.
-{BIO 6781604 <GO>}
-Got it. I know I won't be able to go through the other 20 questions in the next --
-{BIO 1782546 <GO>}
-Well, that's -- I will teach you to ask the ultimate ﬁrst question. Whose ﬁrst question is
-why, why and why? What is the meaning of life and what is the --
-{BIO 6781604 <GO>}
-So maybe just in the last few minutes, Jensen, so you've recently launched the Grace
-CPU. If I'm an x86 server CPU vendor, should I be scared? Or should I think of that as
-well, they're only going after a niche market. What are your ambitions and plans over
-the longer term? Because I remember meeting the ﬁrst ARM server company, and
-they are no longer there. So many people have tried. Why do you think you will be
-successful this time? And what does the ambition look like?
-{BIO 1782546 <GO>}
-First, you can only make a computing architecture succeed if you have software
-ecosystem. Period. It's all about the software. It's not about the chip. There's a really
-important question about why we do what we do. So let me explain.
-If we are a component maker of CPUs, memories, networking chips and storage
-chips, Wi-Fi chips, USB chips, if we're a component maker, a chip maker, it doesn't
-matter at all that we have software. It doesn't matter at all that we are full stack. And
-the reason for that is because it's industry standard, and Wi-Fi is Wi-Fi, 802.11, right?
-Video chip, AV1. And so you name it, okay, USB 3. So industry standard is industry
-standard. X86 is an industry standard.FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 12 of 13Q - Vivek AryaIf you build an ARM SoC for mobile devices and embedded systems, you're good to
-go. The ecosystem is there. However, if you want to build a new chip or a new market
-that, that architecture has never been, you have no hope without an ecosystem. And
-so that's number one. If you build an ARM chip for data centers, you have no hope
-unless you have the data -- you have the infrastructure and the ecosystem.
-Number two, why are we building a CPU? We're -- we buy a lot of x86s. We have
-great partnerships with Intel and AMD. For the Hopper generation, I've selected
-Sapphire Rapids to be the CPU for NVIDIA Hopper. And Sapphire Rapids has
-excellent single-threaded performance. And we're qualifying it for hyperscalers all
-over the world. We're qualifying it for data centers all over the world. We are
-qualifying it for our own server, our own DGX. We're qualifying it for own
-supercomputers.
-And so we partner with the ecosystem. And I buy everything that I can. As a practice,
-I buy everything I can. And the reason for that is because I've got smart engineers
-who wants to invent the future. The last thing I'm going to go do is squander their
-time and squander their life's work on repeating somebody else's work. And so that
-is just one of the core values of our company. The reason why the world's great
-computer scientists want to come work at NVIDIA is because we choose work for
-them that is singular. We choose work for them that has never been done before.
-So Grace is going to be an amazing CPU, and it's not like anything that's ever been
-built for. It has the beneﬁt of two things. One, it's designed for a new class of
-applications that emerge in the last couple two, three years, that has proven to be
-really, really impactful. I mentioned two of them: recommender systems and large
-language models. These two applications have such giant data spaces that wants to
-be accelerated, that unless you do something new, you're just going to have lots and
-lots of bottlenecks or just cost too much. And so Grace is going to help solve that.
-Grace has the advantage that in every single application domain that we go into, we
-have the full stack. We have all of the ecosystem all lined up. Whether it's data
-analytics or machine learning or cloud gaming or Omniverse, digital twin simulations
-or in all of the spaces that we're going to take Grace into, we own the whole stack.
-So we have the opportunity to create the market for it.
-And so I think the -- what NVIDIA does for a living, as you know, is not build
-components that are chips that are industry standard. I think those are all terriﬁc.
-What we try to do is build platforms that open new markets. Whether it's the market
-we recently opened up on operational research or the work that we're doing in
-quantum chemistry, quantum physics, of course, robotics, of course, industrial
-automation and AI and things like that, in each one these, we create the whole stack
-so that we can open markets. And those markets are important. We're really
-passionate about it. We're very good at it, and that's what really makes our company
-special.
-{BIO 6781604 <GO>}FINAL TRANSCRIPT 2022-06-07
-NVIDIA Corp (NVDA US Equity)
-Page 13 of 13Great. Terriﬁc. Thank you, Jensen. Really appreciate your time. Really appreciate your
-insights. Thanks, everyone, for coming.
+{BIO 2536317 <GO>}
+So that was really the biggest surprise for me in a positive way.
+{BIO 16819013 <GO>}
+Ad the challenges?
+{BIO 2536317 <GO>}
+Well that leads very naturally to the challenge. We just completed our 2016
+budgeting process. And the challenge when you have that breadth of opportunity is
+prioritization, which is where we spent a lot of time.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 3 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth Porat{BIO 16819013 <GO>}
+Yes. And that was the next question, kind of a glimpse into a day in the life for
+yourself at Alphabet. What are you spending -- what's taking up most of your time
+nowadays? Is it budgeting, or what are you up to nowadays?
+{BIO 2536317 <GO>}
+Well 2015 was about really launching Alphabet and then, as I just said, the 2016
+budgeting. But those were both, actually, continuous dynamic processes.
+It's -- neither are actually a once and done. So for example, on Alphabet, I spoke a bit
+about it on the Fourth Quarter call. The next phase of what we're doing is really
+focusing on capital structure eﬃciency, moving the debt from the Google level up to
+the Alphabet level. And that's a process that's ongoing.
+And similarly, with budgeting, what was key in the budgeting process is this eﬀort on
+prioritization across both Google and the Other Bets, making some tough choices. In
+a number of areas, we set up what we call gating, where we established technical or
+business milestones and looked at investments in business, products, or areas,
+through to hit those milestones, those technical or business milestones before the
+next leg of investments available.
+So that's something we're continuing to focus on, work on, monitor and manage.
+{BIO 16819013 <GO>}
+That's actually one of the most common questions, I think, that myself and my teams
+are asked. How do you balance that equation between the core Google growth, the
+core Google proﬁtability. And then the Other Bets' investment? Is it that gating?
+Does that gating apply to both the Other Bets? And how do you think about
+investing in the core business versus letting it ﬂow through?
+{BIO 2536317 <GO>}
+So we do focus on revenue growth and proﬁtability. So I like the way you've set it up.
+And I tried in the various earnings calls, when I talked about expense management,
+to really start with something that's so key, which is that revenue growth remains the
+priority. It has been and remains the priority.
+But as I've said on a couple of calls, that doesn't give us the pass on expenses. And
+we're similarly focused on expense management. But I think a very key philosophy is
+one articulated by Larry back in that 2013 founder's letter, which is that
+incrementalism leads to irrelevance, in particular in technology, where change tends
+to be revolutionary, not evolutionary.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 4 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth PoratAnd so, with that in mind, we're very focused on revenue growth and investing to
+have long-term revenue growth. And then, what's the expense growth that's needed.
+And how do we make sure that we are getting the right balance there.
+Within Google, I think one of the beneﬁts of segment reporting has been the
+opportunity to see what is the proﬁtability within Google. That being said -- like
+we've emphasized that some of our biggest bets are in Google. So we're Clearly
+investing meaningfully there, as well.
+Then I would say on the Other Bets side, a key focus has been this eﬀort on
+prioritization. Part of it is gating. It's ﬁguring where we may want to double down,
+where we're pulling back some, how to establish gating as we go through a number
+of the businesses. And so, again, a keen lens on making sure we have a managed
+approach to expenses there.
+I would say the other thing worth noting as we look more inward to 2016, I
+emphasized on the Fourth Quarter call that we're investing across the business. And
+that's not just CapEx. That's OpEx, as well. Headcount continues to be important.
+Talent is what drives that revenue growth. And so, just as a reminder, we have the
+senior exec equity refreshes come every other year. This is one of those years. That's
+a First Quarter item. FICA and 401(k) that's a First Quarter item.
+So when you're thinking about some of the near-term budgeting things that we've
+looked at, I'd say the other thing that's -- that is relevant near term is mobile growth
+continues to be something we talked about in the third and Fourth Quarter call, in
+particular. That has with it higher TAC. So, that's something we're looking at as well
+as it relates to margins.
+{BIO 16819013 <GO>}
+Yes. Talent drives the engine ultimately.
+{BIO 2536317 <GO>}
+Absolutely.
+{BIO 16819013 <GO>}
+I think the change in the disclosure between the core Google and the Other Bets,
+that's probably one of the biggest changes that's happened since you've gotten
+there. Can you talk a little bit more about the motivation? behind the new segments?
+And how do you think about potentially further separating those businesses into
+separate operating units or maybe even separate trading entities?
+{BIO 2536317 <GO>}FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 5 of 13Brian Nowak
+Ruth PoratSo the -- the move to Alphabet started with a very deeply held view that we did need
+to make sure that our organizational structure mirrored what I just went through
+about driving long-term revenue growth. And the view, very strongly, was that with
+this organizational structure, we increased the level of focus within Google, as well as
+really driving the ability to have innovation into new areas, whether it's life sciences
+or driverless cars. But areas that can continue to build revenue growth over the
+longer term.
+I kind of envision it as these crusting waves -- or cresting waves, I guess. And what we
+wanted was a structure that provided that level of focus and enabled us to drive
+expenses down to the business levels. And have a much greater sense of what
+resources we're using around each business. It provided a level of clarity internally
+and, I would say, externally, as we move to segment reporting.
+But the real driver was the strategic one. And once you have an organizational
+structure, disclosure follows that. And that enabled us, then, to move to this segment
+reporting, which, as I said, gave us more visibility internally and, hopefully, externally.
+{BIO 16819013 <GO>}
+Yes. No. I think that's right.
+You're having a lot of discussion around the 70/20/10 philosophy. I think some of
+those 20s and 10s are in Other Bets. Internally, now that you have kind of the new
+disclosure and the real focus on gating investment, which of the 20s and 10s are
+most exciting internally at this point?
+{BIO 2536317 <GO>}
+Well when I described the 70/20/10 on the various earnings calls, I talked about
+70/20/10 applying within Google and across Alphabet. And I think one of the things
+that is very exciting and Sundar and I both spoke about it on the earnings call and I
+think I addressed it in your ﬁrst question is that many of our biggest bets are in
+Google. And to us, that's exciting, the sheer opportunity there.
+Again, whether it's cloud or what we're doing in Google for Work, the apps side, or
+machine learning or virtual reality, or you can go on. So the bets that we're making in
+Google we were -- we've tried to make it really clear, some of the biggest bets are in
+Google. And to us, that's exciting and talks, really, to the point that Google is still in
+early stages.
+I would say on the Other Bets side what's so key is that we have this breadth of
+opportunity and there's not a monolithic approach to growing these businesses or
+assessing the appropriate level of resources within the business. And I think for me
+it's this -- the discipline that's being applied to go through them, assess the
+appropriate level of resources needed. In some, we want gating.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 6 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian NowakIn others, for example, in Verily, the life sciences business, it's a great example of
+where we've brought in strategic partners, because our view is we could accelerate
+not only our time to market. But the improved -- overall outcome for stakeholders by
+partnering with best-in-class players, whether it's Sanoﬁ, Novartis, J&J. And so, again,
+that goes to the notion there's no monolithic approach.
+Let's be disciplined in our approach. We've pushed the expenses down, assess
+where we want to really rein in expenses, where we want to expand what we're
+doing and to me, that's the part that is exciting.
+{BIO 16819013 <GO>}
+Yes. Yes. We're not letting anybody oﬀ the stage this week without asking them
+about macro. So can you just tell us what you're seeing from a macro perspective
+and kind of if anything changing with the advertiser conversations going into 2016
+budgeting around macro?
+{BIO 2536317 <GO>}
+So in terms of macro the biggest impact for us -- and I'd be interested in your
+summary of everybody -- when you're done with the conference.
+{BIO 16819013 <GO>}
+Yes, I'm sure.
+{BIO 2536317 <GO>}
+Yes, let's cut a YouTube video. So the biggest impact -- no surprise -- is the dollar
+headwind. And if you just look at revenue growth year over year, in 2015 it was 20%
+excluding the impact of the dollar, 14% with the impact of the dollar. And the dollar,
+obviously, remains strong.
+So that remains a headwind, the other element is our -- most of our R&D is done
+here in the US, which means more expenses are weighted here in the US. And so,
+again, there are margin implications on the stronger dollar.
+But the main -- the main point beyond kind of the dollar headwind, because we do
+think, looking through the impact of the dollar, gives one the best measure of the
+health of the business. So beyond that, I think what's positive is we're riding secular
+change. And having those kind of tailwinds is a beneﬁt.
+You'd certainly rather be in a healthier environment than not. But having the beneﬁt
+of some important secular trends is the main thing that we keep coming back to. So
+that means I'm going to leave it to you to forecast.
+{BIO 16819013 <GO>}FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 7 of 13Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian NowakYes. We'll exactly -- we'll do what we can.
+Moving to capital allocation, something I know you're familiar with from your old
+days and now your new days, the buyback has been pretty well received since
+you've come to Alphabet. Can you talk about how we should think about the size
+and the cadence of the buybacks, going forward?
+{BIO 2536317 <GO>}
+So in the Third Quarter that we announced that we would commence a share
+repurchase, I tried to walk through the framework that we used to look -- to answer
+the question, which I really think is a key one, how much is too much. And how much
+is too little.
+And as I described then, what we did is a real bottoms-up build with the business
+leaders and what CapEx, what could CapEx be over a multi-year period, what kind of
+investment cadence do we think is possible. And try and layer in M&A there based
+on historic patterns. And then build in something for a liquidity risk buﬀer. And from
+that, our view was that announcing this square foot root of 26, share repurchase
+program was something that was reasonable.
+It was, as I said, a look over a multi-year period. And so, it was with that multi-year
+outlook that we came up with this $5 billion-ish number. We're about a third of the
+way through it. There's some detail in the K on that. And so, I'm glad to have it. But
+it's in that context.
+{BIO 16819013 <GO>}
+Multi-year period. You have a background in kind of capital markets and optimal
+capital structure. Some might argue that there could be debt capacity at Google, at
+Alphabet. How do you think about the potential of kind of increased debt capacity
+or maybe pay a recurring dividend as kind of the next weapon in capital allocation?
+{BIO 2536317 <GO>}
+So we've previously stated that we don't intend to initiate a dividend in the
+foreseeable future. In terms of debt, as I mentioned, we're in the process of moving
+debt from what was the holding company, Google, up to the holding company,
+Alphabet. It's something we talked about on the Fourth Quarter call. We think that
+builds in a level of eﬃciency that's helpful. This gives us ﬂexibility if and when it
+makes sense to use. But overall, we've been very conservative in the way we've used
+our balance sheet. And so, this gives us a level of ﬂexibility, again, to support the
+business if it makes sense. But we've been conservative on balance sheet.
+{BIO 16819013 <GO>}
+On the core Google business. And you mentioned the cresting wave, which I think is
+a great way to describe the business over a multi-year period. Since you've arrived,FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 8 of 13Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian Nowakwe've seen very strong core Google websites growth. And even accelerating growth,
+to an extent.
+Could you talk about some of the drivers of that last year and how shall we think
+about those drivers kind of going into 2016? What's driving Google websites right
+now?
+{BIO 2536317 <GO>}
+There are quite a number of things. We talked about product strength, geographic
+strength. But I would say the main thing is one of the other wonderful things to see
+close up is the culture of innovation at Google. And really continuing to try and focus
+on new ways to do things that help users and advertisers.
+We talked about on the Third Quarter call, as an example, changing the ad format on
+mobile handset. And the fact that that was helpful for users and advertisers and
+beneﬁted the Third Quarter and called it out again on the Fourth Quarter.
+Although beyond that, we've seen YouTube strength, as we talked about. Desktop
+has remained healthy. We break out, obviously, on a geographic basis, as we've seen
+the breadth there. So it's really a combination of things.
+{BIO 16819013 <GO>}
+You mentioned desktop. I think one of the things that continues to surprise us in a
+good way is the resiliency of desktop. Kind of based on your comments, it almost
+seems like it's still growing or contributing to growth in some ways. Could you talk
+about what continues to drive that positive desktop paid search growth, even as we
+see all the data and more and more people are transitioning to mobile, yet desktop
+continues to grow really nicely and contribute.
+{BIO 2536317 <GO>}
+Right. I think we start with a -- there's obviously a large base of desktop users still out
+there. And if you go back to my comment that we're focused on innovation and
+trying to make the user experience a better experience, there's still a number of
+areas with high commercial intent and complex query, high commercial intent where
+we particularly focus. A good example is travel. And what you ﬁnd is, for certain
+queries, you continue to see real stickiness with users on desktop. And so, when you
+take the sheer number and some of the moves that are being made, have been
+made, that results in what we call healthy revenue growth there.
+{BIO 16819013 <GO>}
+So the vertical-speciﬁc initiatives like travel that are really kind of driving that, travel
+and retail, I would imagine, is strong, as well.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 9 of 13Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth PoratA couple on YouTube. You mentioned it earlier. It seems like 2015 was a pretty big
+year for YouTube. You mentioned ad spending with top clients was up double digits.
+You doubled your watching time spent in living rooms.
+What drove this seemingly sea change in advertiser sentiment to spend on YouTube
+in 2015?
+{BIO 2536317 <GO>}
+We think that, as I said, it's still early days on YouTube. And we're just beginning to
+see advertisers moving budgets from oﬄine to online. And there are a number of
+factors. One is we're quite focused, as are others, on measures, on analytic tools for
+advertisers, the ability to measure the eﬀectiveness of ads. That's an important
+element of it. And one where I think engagement is an important measure. But
+continuing to look at analytics and what does it mean for advertisers.
+But I think our view is, it continues to be early days. We're seeing watch time -- the
+watch time statistics underscore this is where users are going. And I think that we're
+continuing to see advertisers, looking at that, responding to it.
+{BIO 16819013 <GO>}
+You called out the strength in YouTube International on the Fourth Quarter call. Are
+the advertising dollars following based on regions or diﬀerent zones, kind of how
+advertisers are using YouTube domestically versus internationally?
+{BIO 2536317 <GO>}
+I would say overall our main point is that it's still early days when you just look at the
+sheer volume of time spent online. We called it out in one of the earlier calls, kind of
+the amount of time, 18 to 49. And the number of 18 to 49-year-olds watching
+YouTube video on mobile versus any cable network would suggest you would see
+more of those ad dollars globally following.
+{BIO 16819013 <GO>}
+Yes. And you've made some great strides with these advertisers on YouTube. Talk
+about how YouTube thinks about investing in more content and kind of improving
+the quality of the content on YouTube just to drive more time spent.
+{BIO 2536317 <GO>}
+We're really proud of our YouTube stars. We talked about it last year. There was a
+Variety survey that looked at top stars. Eight of the 10 top stars are YouTube stars.
+And as much as traditional media has expressed interest in a number of stars, their
+audiences are with us.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 10 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth PoratAnd so, we're continuing to invest in our YouTube stars. And the ability to build
+around them. We launched four new programs in the last couple of weeks, which
+hopefully you've been watching very closely.
+{BIO 16819013 <GO>}
+Yes.
+{BIO 2536317 <GO>}
+And so, again, we think that's a diﬀerentiated area and one that we're really proud of.
+{BIO 16819013 <GO>}
+Got it. More originals to come.
+{BIO 2536317 <GO>}
+More originals. Exactly.
+{BIO 16819013 <GO>}
+The other piece of the core Google story is around programmatic. You did some
+calling out in the past couple of quarters. Can you just talk to the big drivers of
+strength in the programmatic business? What's causing the dollars to continue to
+shift towards Google or other players in programmatic.
+{BIO 2536317 <GO>}
+So one of the things I have said on a number of calls is that we were really early in
+building this end-to-end ad tech stack. And we think that's serving us well. So DBM
+and Ad Exchange are a really important part of the overall experience. It's a positive.
+It's useful for publishers.
+And again, we just come back to the overall ecosystem that has been built. You look
+on the network side and AdMob, we think that the in-app market is one that similarly
+has a lot of room to grow and is positive for the entire ecosystem.
+So there are a couple of pieces to it. But it starts with very early investments.
+{BIO 16819013 <GO>}
+There have been a lot of changes in the network the past couple years, some
+cleanup, the moving of some lower-quality partners. Is that a continuing process or
+are we at a point where that might slow down?
+{BIO 2536317 <GO>}FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 11 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth PoratIt's a great question. And you'd think that it would at some point. You kind of clear it
+out. But I think that what we have seen is it is a continual process. And we continue to
+try and make changes and we keep talking about these policy changes. They're a
+priority for us. We want the user experience to be a really positive user experience.
+And keeping the bar high is important.
+{BIO 16819013 <GO>}
+Yes. A couple of the Other Bets we get a lot of questions around, around ﬁber and
+driverless cars.
+Let's start with ﬁber. I know you talked about it quite a bit in the Fourth Quarter call.
+Just talk about kind of the go-to-market with ﬁber the next couple years. And what
+are the key factors that you're watching internally assess the capital allocation there?
+{BIO 2536317 <GO>}
+So with the ﬁber business one of the points I tried to stress in the Fourth Quarter call
+is, that 2015 was an important year for us. We spent a lot of time really continuing to
+enhance the way we work with cities, as well as our construction partners.
+And so, we've announced a number of cities but have been very deliberate in our
+execution. We haven't -- the reason I tried to emphasize on the Fourth Quarter call is
+that with the cities that we've announced, as we start executing against them, that
+would suggest CapEx will follow. And so, that's something we're looking at for 2016.
+But I think, bigger picture, if you're asking how do we look at the business, we look
+at the business and analyze it on a stand-alone basis. We look at it over an extended
+period of time, the returns opportunity in the ﬁber business.
+It is a heavy up-front CapEx. But our view is that what you're -- what we're building is,
+then, a cash ﬂow annuity over the longer term.
+{BIO 16819013 <GO>}
+Yes. Driverless cars really same -- autonomous cars, same question. What are the
+critical factors that you watch there, sort of assess whether or not it's going to be an
+asset-heavy or asset-light model?
+{BIO 2536317 <GO>}
+So the main focus within the driverless car business has been, really, building the
+technology. We've got an extraordinary team. They've been there quite an extended
+period of time. At this point, we've driven over 1.3 million miles, which has been
+critical to getting safety data and utility data. And the view of the driverless car
+business internally is we're solving two really big problems.FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 12 of 13Brian Nowak
+Ruth Porat
+Brian Nowak
+Ruth PoratOne is a safety issue. We believe that when you have driverless cars, we're going to
+be saving lives.
+And second, you can think about how cities can be re-imagined when we don't need
+to use this kind of space for cars and we can use resources substantially more
+eﬃciently.
+But it starts with safety. And so, at this point, we're continuing to do the tests. We're
+really pleased with the progress we've had. And I think one of the things that's also
+gratifying is we're seeing regulators looking at this market and appreciating the
+impact, both on safety and what it means for their cities. And seeing more
+communities interested in having us come there and use their cities as the model for
+implementation of whatever we're doing with driverless cars.
+{BIO 16819013 <GO>}
+Yes. You mentioned ﬁber being a stand-alone business. Which of the other
+businesses within the Other Bets do you view as being stand alone. Do Nest and
+robotics fall into that, as well? How is that thought about internally?
+{BIO 2536317 <GO>}
+So for -- what I was trying to convey on ﬁber is when we look at it, does it beneﬁt the
+experience of consumers? Of course, intuitively, it does. And one of the early
+catalysts for us getting involved here is that you look at what the experience is like in
+the US relative to many other markets. And it was clear there was an opportunity for
+something better.
+But when we analyze the ﬁnancials, we look at it on a stand-alone basis. And the view
+is, let's look over an extended period of time to the returns available within ﬁber
+without looking at what are the theoretical beneﬁts or the clear beneﬁts to some of
+the other parts of the business, which you could argue could be done elsewhere.
+So to us, there's a ﬁnancial discipline around this, which I think is really valuable. And
+that's what I was trying to convey in the way we look at it. I think for each of the Other
+Bets what we're trying to do is really understand the ﬁnancial proﬁle. and that goes
+back to this notion that expenses are pushed down to the business and, again, my
+comment there's no monolithic approach to looking at them or how we think about
+resourcing them. And Verily being the poster child for where there's been a real
+beneﬁt, we think, to the business in bringing in some of these best-in-class partners.
+{BIO 16819013 <GO>}
+Got it. All right, Ruth, thank you very much.
+{BIO 2536317 <GO>}FINAL TRANSCRIPT 2016-02-29
+Alphabet Inc (GOOGL US Equity)
+Page 13 of 13Brian NowakGreat to be here. Thank you.
+{BIO 16819013 <GO>}
+Thanks.
 This transcript may not be 100 percent accurate and may contain misspellings and 
 other inaccuracies. This transcript is provided "as is", without express or implied 
 warranties of any kind. Bloomberg retains all rights to this transcript and provides it 

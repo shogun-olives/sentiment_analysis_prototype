@@ -23,7 +23,7 @@ def new_fn(
     if any(item is None for item in (symbol, s_type)):
         return fn
 
-    return f'{symbol}_{s_type}.txt'
+    return f'{symbol}_{s_type}.csv'
 
 
 def format_earnings(

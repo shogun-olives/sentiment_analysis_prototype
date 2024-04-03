@@ -14,6 +14,13 @@ def display_stock(
     stock_table = file_locations['stock_metadata']
     stock_dir = file_locations['formatted_stock_csv']
     df = prepare_data(db_name, sentiment_table, stock_table, stock_dir, time_period)
+    
+    if df is None:
+        return None
+    
+    for col in ['neg', 'neu', 'pos', "Stock", "Symbol"]:
+        if col not in df.columns:
+            return None
 
     if stock_symbol is not None:
         if stock_symbol not in df["Symbol"].values:

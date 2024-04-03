@@ -1,306 +1,575 @@
-FINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 1 of 8, CFO and EVP
-, Co
-, SVP, General Counsel and Secretary
-Colette M. Kress
-Jensen Hsun Huang
-Timothy S. TeterNVIDIA Corp Annual Shareholders Meeting
+FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 1 of 14, SVP, Google Cloud
+, Analyst, Goldman Sachs
+Unidentiﬁed Participant, Analyst, Unknown
+Heather Bellini
+Diane GreeneGoldman Sachs Technology Conference
 Company Participants
-Colette M. Kress
-Jensen Hsun Huang
-Timothy S. Teter
+Diane Greene
+Other Participants
+Heather Bellini
 Presentation
-{BIO 18297352 <GO>}
-Good morning. Welcome to NVIDIA's 2017 Annual Meeting of Stockholders. I'm
-Colette Kress, Executive Vice President and Chief Financial Oﬃcer. We are excited,
-once again, to host a fully virtual annual meeting this year.
-I would like to take this opportunity to introduce other members of management
-who are present today. Jensen Huang, President, Chief Executive Oﬃcer and
-Director; and Tim Teter, Senior Vice President, General Counsel and Secretary.
-I would also like to take this opportunity to introduce the outside members of the
-Board of Directors that are in attendance today: Rob Burgess, Tench Coxe, Persis
-Drell, Jim Gaither, Dawn Hudson, Harvey Jones, Mike McCaﬀery, Bill Miller, Mark
-Perry, Brooke Seawell and Mark Stevens.
-Finally, I would also like to introduce Wayne Hedden from PricewaterhouseCoopers,
-our independent registered public accounting ﬁrm.
-After the formal portion of the meeting, Jensen will provide an update on our
-business. And then we will have time for questions.
-I will now turn the meeting over to Jensen.
-{BIO 1782546 <GO>}
-Thank, Colette. Good morning. Welcome to our 2017 Stockholders' Meeting. The
-meeting will now oﬃcially come to order. I will serve as the Chairman. And Tim Teter
-will serve as the Secretary and conduct the procedural portion of the meeting.
-{BIO 3936302 <GO>}
-Thanks, Jensen. First, a few housekeeping items. We have opened the online portal
-for stockholders to ask questions during the meeting. If you have a question, please
-enter it into the portal. And we will do our best to answer it at the end of Jensen'sFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 2 of 8business update in the time permitted. You can also vote your shares online until the
-polls close.
-During the course of this meeting, we may make forward-looking statements based
-on current expectations. These forward-looking statements are subject to a number
-of signiﬁcant risks and uncertainties. And our actual results may diﬀer materially. For
-a discussion of factors that could aﬀect our future ﬁnancial results and business,
-please refer to the reports we may ﬁle from time to time with the Securities and
-Exchange Commission, including our Form 10-K and 10-Q. All our statements are
-made as of May 23, 2017, based on information available to us as of today. And
-except as required by law, we assume no obligation to update any such statements.
-We will ﬁrst address the matters described in the company's proxy statement dated
-April 7, 2017. We will then complete the balloting process. An announcement will be
-made regarding the voting results. And then the oﬃcial portion of the meeting will
-be adjourned. Jensen will provide a brief business update. And then we will answer
-questions received through our online stockholder forum, as well as questions
-submitted online during the meeting. I have a complete list of the stockholders of
-record of NVIDIA's common stock on March 24, 2017, the record date for this
-meeting. I also have an aﬃdavit from Broadridge certifying that they commenced a
-mailing of the relevant proxy materials on April 7, 2017. I'm appointing Chris Woods
-of American Election Services LLC to act as the Inspector of Elections at this meeting.
-He will decide on the qualiﬁcations of voters, accept their votes and tally the ﬁnal
-votes when the balloting on all matters is completed. Chris has taken the customary
-oath of oﬃce. And we will ﬁle this oath with the records of the meeting.
-Our bylaws provide that the presence, in person or by proxy, of a majority of the
-shares entitled to vote at the meeting will constitute a quorum. There were
-approximately 594 million shares outstanding on the record date. And Chris has
-informed me that proxies have been received for approximately 474 million shares or
-approximately 80% of the shares outstanding, which constitutes a quorum for
-today's meeting. Voting is by proxy or online. Each share of common stock is entitled
-to one vote. If you are eligible to vote and have not submitted your proxy, or you
-want to change your vote, please do so and vote online now. You do not need to
-vote if you have already sent in your signed proxy or voted online or by telephone.
-Your votes will be counted automatically.
-The time is 10:35 a.m.. And the polls are currently open for voting. There are 4 items
-of business for this meeting. First, the election of Rob Burgess, Tench Coxe, Persis
-Drell, James Gaither, Jensen Huang, Dawn Hudson, Harvey Jones, Mike McCaﬀery,
-William Miller, Mark Perry, Brooke Seawell and Mark Stevens to serve as directors
-until our 2018 annual meeting.
-Second, the approval of the compensation of our executive oﬃcers, as disclosed in
-our 2017 proxy statement.FINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 3 of 8Jensen Hsun HuangThird, the approval of the frequency of holding a vote on the compensation of our
-executive oﬃcers.
-And fourth, the ratiﬁcation of the selection of PwC as our independent registered
-public accounting ﬁrm for the ﬁscal year ending January 28, 2018.
-As the company has not received notice from any of its stockholders of any other
-matter to be considered at today's meeting, no other proposals will be addressed.
-If you have not voted and intend to vote, please do so online now as the polls will
-close momentarily. The Inspector of Elections will not accept ballots, proxies or votes
-or any changes or revocations submitted after the closing of the polls.
-The time is 10:36 a.m.. And the polls are now closed. The preliminary report of the
-Inspector of Elections covering the proposals presented at this meeting is as follows:
-ﬁrst, the proposal to elect the 12 nominees on the ballot as directors of NVIDIA is
-carried. Second, the proposal to approve the compensation of NVIDIA's executive
-oﬃcers as disclosed in NVIDIA's 2017 proxy statement is carried. Third, the proposal
-to approve one year as the frequency of holding a vote on the compensation of
-NVIDIA's executive oﬃcers is carried. And fourth, the proposal to ratify the selection
-of PwC as NVIDIA's independent registered public accounting ﬁrm for the ﬁscal year
-ending January 28, 2018 is carried. A full tally of the votes will be published in a Form
-8-K, which we expect to ﬁle with the SEC within 4 business days.
-That concludes the formal portion of today's annual meeting. And I declare the
-business portion of the 2017 Annual Meeting of Stockholders adjourned. Thank you
-very much.
-With that, let me hand this meeting back over to Jensen for a brief business update,
-following which we will answer stockholder questions. Please note that, given our
-time constraints, we may not be able to address all questions.
-{BIO 1782546 <GO>}
-Thanks, Tim. A decade ago, we set out to transform the GPU into a powerful
-computing platform. It has since opened a ﬂoodgate of innovation. From gaming
-and VR to AI and self-driving cars, we're at the center of the most promising trends in
-our lifetimes.
-Gaming is a $100 billion industry. And PC gaming is driving its growth. The mass
-majority of e-sports, the evolution of gaming into a social medium. And the advance
-of new technologies like 4K and HDR will fuel its further growth.
-We're in the early days of the next computing era, AI. Sparked and fueled by GPU
-computing, AI has revolutionized every industry. Health care, transportation,
-manufacturing and robotics, AI will automate intelligence and spur a wave of social
-progress unmatched since the Industrial Revolution. We work with the major systemsFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 4 of 8Colette M. Kresscompanies and every major cloud service provider to make NVIDIA GPUs available
-in data centers and in the cloud. We advance fundamental research, foster
-universities and start-ups and bring our full capabilities to industries where we can
-have the greatest impact. The automotive industry is one of the biggest. Self-driving
-cars will transform not just our transportation system but the design of our cities. Our
-DRIVE PX AI car platform spans the range of autonomous vehicles from auto-piloted
-cars to driverless shuttles. NVIDIA is one of the very few companies on the planet
-that can innovate across the entire computing stack, from the most advanced GPUs
-to innovative systems, from graphics to AI, from device to cloud, to serve the most
-exciting growth opportunities of our time.
-We're ﬁring on all cylinders. In FY '17, revenue was up 38% to reach a record $6.9
-billion. Operating margins expanded over 1,300 basis points to a record 28%. GAAP
-earnings per diluted share were $2.57, up 138%. And we returned $1 billion to
-shareholders through dividends and stock repurchases.
-Our ﬁnancial success continued in Q1. Overall, quarterly revenue reached $1.94
-billion, up 48% from a year earlier as we grew across our markets. Gaming revenue
-increased 49% to more than $1 billion, fueled by Pascal-based GPUs and gaming
-notebooks. Pro Vis revenue grew to over $200 million due to ongoing demand for
-high-end real-time rendering.
-Our Datacenter business nearly tripled to a record revenue of over 8 -- of over $400
-million.
-Last, our automotive business grew to a record $140 million, up 24% year-over-year.
-Since our DRIVE PX 2 AI car platform began shipping just one year ago, more than
-225 car makers, truck makers, suppliers, research organizations and start-ups have
-begun developing with it. And earlier this month, at GTC, our annual developer
-conference, we revealed the latest developments in GPU computing. We launched
-Volta, the world's most powerful GPU computing architecture. We launched a new
-lineup of DGX AI supercomputers. Our GPUs have the support of every single cloud
-computing partner in the world. Amazon and Microsoft joined us on-stage at GTC to
-share their plans for Volta.
-Toyota announced that they're working with us for their next-generation and future
-autonomous vehicles. And we introduced Isaac, a physics-based VR simulator, to
-train AI robots. It was a watershed event -- moment for NVIDIA, more than 7,100
-attendees, 260 press and analysts, 570 technical sections. The world's top 15 tech
-companies and top 10 automakers were in attendance, along with more than 100
-start-ups focused on AI and VR. At GTC 2017, it was clearer than ever that GPU
-computing has arrived. Thank you.
-{BIO 18297352 <GO>}
-Thanks, Jensen. We will now move to Q&A. First, we'll address all question and
-comments that have come through our stockholder forum. And then we will answer
-any questions that come through the virtual meeting portal. We created the forum soFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 5 of 8A - Jensen Hsun Huangthat our stockholders would have the opportunity to ask us questions prior to the
-meeting, allowing for a more eﬀective communication.
-Jensen, I will turn it over to you to answer the initial questions.
+{BIO 2268229 <GO>}
+All right. Good afternoon everybody and thank you, again for joining us today on
+behalf of the TMT team here at Goldman Sachs. Our next guest really does not need
+any introduction, she is a pioneer in technology, one of my favorites, Diane Greene.
+She's been the leader of Google's cloud businesses including Google Cloud,
+Google Technical Infrastructure and Google Apps. She also serves on the Boards of
+Alphabet, Intuit, Khan Academy and MIT. She co-founded and was CEO of VMware
+for 10 years from 1998 to 2008 and I think it's probably gone down as one of the
+most successful infrastructure companies that we've seen and clearly one of the best
+things that could've ever happened to EMC. So I'm going to bring Diane on stage in
+a second. She's going to give a quick ﬁve-minute or seven-minute slide presentation
+to level set everybody. But before I do that, I am going to make some disclaimers for
+them. So some of the statements that Diane will make today may be considered
+forward-looking. These statements involve a number of risks and uncertainties that
+could cause actual results to diﬀer materially. Any forward-looking statements that
+Diane makes are based on assumptions as of today and Alphabet undertakes no
+obligation to update them. Please refer to the Company's Form 10-K for a discussion
+of the risk factors that may aﬀect its results and with that Diane, please join me on
+stage. Thank you.
+{BIO 6104652 <GO>}
+Hi everybody. It's really great to be here and as we all know, there's just this
+unprecedented re-organization of the IT world and actually how our world operates
+with data and mobile and the cloud and it is so interesting and challenging to be in
+the middle of facilitating the cloud, fulﬁlling all its potential. And then I'll just say it's
+just an incredible privilege to have Google's resources, Google's people. And
+Google's unbelievable infrastructure and software services to apply to the IT world
+to enterprises everywhere.FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 2 of 14I want to just take you quickly through what we are, what we have, as Heather said,
+just to level set us. Google's got -- ﬁrst, the lowest level, our infrastructure, hundreds
+of thousands of miles of ﬁber network all over the world. We constantly will have
+large companies come and want to lease network from us and it is -- we have to have
+low latency for our seven apps that are over a billion active users. Our data centers
+perhaps operate more eﬃciently than any other data center. We're rolling new
+regions out with regularity, PoPs all over the world, signiﬁcant CapEx investment on
+an ongoing basis by Google.
+Security, Google's had security pretty much from day one because of the necessity
+to keep people's data private. I think we arguably have the most secure cloud on the
+planet. But we've also really hunkered down over the last 16 months to get all the
+compliance and regulatory so our large customers can prove to their customers and
+to their regulators that they are indeed secure. I mean security matters from the
+board on down to the individual user, IT worker at a company, it's so important and if
+you look at things like G Suite, our productivity suite built in the cloud completely in
+the secure cloud and you map that to the diskless Chromebook, you actually can run
+a workforce with an amazing level of security.
+Google, when I say it's a privilege to be at Google, Google organizing the world's
+information, we've been inventing how to manage data for 16 years now, how to
+really quickly go through massive amounts of data. BigQuery is used at Lloyds to
+understand trends, FIS is using it to do trade transactions, equity transaction trends,
+$25 billion an hour. And Spotify makes real-time decisions with that thing. And today,
+we just announced I'm really happy to say our new -- the ﬁrst in the world distributed
+transaction -- worldwide distributed transaction platform, Spanner. There's a really
+incredible article in Wired about it and basically, we're the ﬁrst to be able to keep
+those transactions in order spread across data centers and so the kind of availability
+that gives you and scalability and you have a company like JDA has been using it
+and everybody is just seeing an amazing increase in the amount of data they're
+getting at all these devices and everything and so I think Spanner is coming at a time
+and it's going to have really high value to the enterprise.
+Then machine learning, of course, Google has been doing that since before 2000.
+Larry Page invested very early. We arguably have the largest assemblage of machine
+learning experts with DeepMind and Google Brain and now Cloud Machine
+Learning, Fei-Fei Li recently joined us from Stanford. We're really democratizing
+machine learning, making it so every company anywhere can use it and it is -- I mean
+a company that isn't using machine learning is going to be, if not already, at a
+disadvantage.
+Of course, modern application development environment, place to build your
+applications, to deploy your applications, to maintain your applications, everything
+from the virtual machine to the container, to the Functions, the App Engine
+orchestrated by open-source Kubernetes so you can run hybrid, you can run multi-
+cloud and then to talk to the mobile devices, to talk to your customers, to talk to your
+partners and even your own employees through Application ProgrammingFINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 3 of 14Heather Bellini
+Diane GreeneInterfaces, the API management company we bought last year, Apigee and then
+ﬁnally a full blown mobile developer environment and Firebase and much more.
+All of Google runs on what's called Google Apps. We re-branded it as G Suite, the
+complete collaboration suite in the cloud from day one now totally infused with
+machine learning, getting smarter all the time, adapted to teams and just more and
+more coming out all the time. We've really accelerated our investments there as well.
+And I think the biggest -- we've ramped up our engineering investment across the
+board. But really the heavy lifting in the past 16 months has been around how we go
+meet our customers in the market. So we reorganized. So we have one face to the
+customer, customers appreciate that. We have -- because we're Chromebook for the
+enterprise, we're G Suite for the enterprise, we're Cloud, we coordinate with the ad
+side of the house and so forth.
+We organized an Oﬃce of the CTO. So for the diﬀerent verticals, we have really
+senior architects that can go in and work with our customers, ﬁgure out their proofs-
+of-concept, professional services to go out and work with customers. We are now
+getting customers saying we just want to move everything to the cloud, that takes a
+lot of services to help and then a lot of training and certiﬁcation for customers and
+partners. Google invented something called Site Reliability Engineering. For each of
+our apps, we have engineers focused on it being the right architecture and never
+going down, constant availability. We took Site Reliability Engineering, added a new
+group called Customer Reliability Engineering so that our customers' important
+services will also get the same attention, which they need and it's really a huge plus
+for them.
+Then partnering, partnering is so critical to us. We're very partnering friendly, I really
+love to partner. So we have a strategic partnering group, partnering with customers,
+partnering with strategic partners. And then the go-to-market partnering around
+channels and SIs. And there is more. But we've got all this stood up, its operational.
+We're growing as fast as we can and we're really excited and having a good time.
+{BIO 2268229 <GO>}
+Great, have a seat, after that intro, I guess one of the things I would ask, I mean it's
+been a little over a year, I think you said 16 months since you came on full-time to run
+this business for them. What would you say the two to three biggest initiatives were
+when you got there and how would you say you feel like you've executed on those
+as you look back?
+{BIO 6104652 <GO>}
+As I was just talking about, I mean it was immediately clear that there was a lot of
+work to do in how we went to market and we've brought in a lot of very experienced
+enterprise people to help with that and done a lot of training and really integrated
+the whole group so we're all executing as one and everybody's enjoying it. We got
+long-term customer roadmaps in place so our customers know when they're going
+to get what and what's in the horizon. That's been really welcomed. Those are two
+examples.FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 4 of 14Heather Bellini
+Diane Greene
+Heather Bellini
+Diane Greene
+Heather Bellini
+Diane Greene
+Heather Bellini
+Diane Greene{BIO 2268229 <GO>}
+What are your conversations like with customers today? How have you furthered the
+conversations with them?
+{BIO 6104652 <GO>}
+Yes. When I arrived, I would be in a customer meeting and I'd think it was going
+really well, we'd be talking about our technologies and everything and I'd say, well
+any more questions? And they'd go -- Yes. Are you really serious about the
+enterprise? And I'm like, okay.
+{BIO 2268229 <GO>}
+I think there is a bunch of people in this room that ask the same -- I get asked the
+same question, I'm sure others do as well as, is this something that Google is really
+serious about?
+{BIO 6104652 <GO>}
+Yes. Well, I mean I feel like Google was built to do this and Google feels this way, the
+Board feels this way and the customers now, as you will see it at Next, also feel this
+way. But I mean it's an amazing diﬀerence. So it went from are you serious about the
+enterprise to this summer people were saying -- Yes. But you're never going to ﬁgure
+out how to go to market. And I'm like, it's not rocket science. But we'll get it, we
+know it and we're doing it. Then now, people are just, it's astounding how many
+people are coming and saying, we just want to be in the cloud, can you just move
+everything to the cloud and I actually didn't expect that so soon.
+{BIO 2268229 <GO>}
+So when you're talking to customers today, what are the things that are most on their
+wish list? Is it functionality, is it sales, is it --
+{BIO 6104652 <GO>}
+Oh, from us?
+{BIO 2268229 <GO>}
+Yes. What do they want from you? What are customers asking you for most often
+when you are meeting with them?
+{BIO 6104652 <GO>}
+I mean customers are really, this buzzword 'digital transformation' is real. People
+realize they need to move faster, they need to use their data. And they need to reallyFINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 5 of 14Heather Bellini
+Diane Greene
+Heather Bellini
+Diane Greeneleverage their data and they look to us for all that and they want help. They want a lot
+of help. That's why we're building out our partner network pretty successfully, the
+likes of Accenture and PWC and Deloitte and so forth. But a lot of people want to do
+machine learning and want to do data analytics and they want to understand really
+how to stage their movement to the cloud. There are people who want to
+understand what it means to be in the cloud, how to think about estimating their
+costs when they come from their own data centers, the whole thing.
+{BIO 2268229 <GO>}
+So there are people in the audience that might say, again it goes back to, is Google
+serious about the cloud. But they would say enterprise isn't in Google's DNA. What
+do you say to that comment?
+{BIO 6104652 <GO>}
+Well one interesting thing that I've discovered is our ad sales force is a pretty strong
+enterprise sales force bringing in $90 billion a year. That kind of takes a serious
+enterprise sales force. So I ﬁnd that kind of interesting. But having an integrated
+business unit that is focused on working with customers and servicing customers and
+bringing all these software services to customers is somewhat new, although we
+have had our own internal customers forever, these seven apps that have over 1
+billion active users. I will say that now that we're putting so much in place for our
+enterprise customers, our internal customers are coming to us and saying -- Can we
+have that too? But it's really interesting, our engineers, engineers love to have
+impact and the scale that we're seeing, the growth we're seeing is just so exciting for
+everybody that everybody is pretty on board because it's fun to have this kind of
+growth.
+{BIO 2268229 <GO>}
+So if you look at your two biggest competitors in the cloud, you've got Azure and
+you've got AWS. There is a bunch of questions I have on this topic. But what in
+particular would you say diﬀerentiates what you're doing at Google?
+{BIO 6104652 <GO>}
+We have the cloud for the enterprise because the enterprise has to lean into data
+and that's what Google was built for. So I feel very good about where we are and
+what we're doing for people -- something like BigQuery was recently identiﬁed as
+the top way to analyze large amounts of data because of its speed and automation
+and so forth. But I think we're highly reliable, we're highly secure, we're highly
+scalable and we have very good technical people to partner with companies which is
+super valuable because that's a scarce resource and Google's really good at that. So
+when I look at what we have in our diﬀerentiation, machine learning, I feel like we're
+kind of in the sweet spot of where customers are going and we're seeing that
+conﬁrmed over and over as we start meeting with more and more -- working with
+more and more customers.FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 6 of 14Heather Bellini
+Diane Greene
+Heather Bellini
+Diane Greene
+Heather Bellini
+Diane Greene
+Heather Bellini{BIO 2268229 <GO>}
+And so if you think of the go-to-market strategy for AWS is we were there ﬁrst, right.
+And we might be leading the feature war. For Microsoft with Azure, it's you're already
+running a lot of Windows technologies in the enterprise. So there's kind of a -- they
+have an easy place to go in and sell into. What would you say, when you're talking to
+the sales force or to your partner community, what's the easiest way or what's the
+path of least resistance for them to get in and sign up customers for your cloud?
+{BIO 6104652 <GO>}
+The easiest thing has been around data management, data analytics. I mean that's
+just a no-brainer and before we started getting these lift and shift requests, that was
+the easiest way for us to start working with a customer. Now, we're seeing that
+people just are ready to -- people want to take advantage of what Google
+understands how to do and Google wants to share that and it's a lot of innovation,
+it's a lot of leverage for a company so that the company can take advantage of the
+latest technologies and not have to worry about having the people to do that in-
+house which is increasingly hard to do because technology is moving so quickly.
+{BIO 2268229 <GO>}
+You mentioned the lift and shift requests, were you seeing those six or 12 months
+ago?
+{BIO 6104652 <GO>}
+No, we weren't. It's really been. And I would say about four months ago, they started.
+And you know, I met with ﬁve customers this week and three of them asked for that. I
+was like okay, things are diﬀerent.
+{BIO 2268229 <GO>}
+Yes. What do you think it is that's caused that change in the types of questions you're
+getting asked?
+{BIO 6104652 <GO>}
+Well I think the whole world is waking up to the fact -- Hi. I'm going to be more
+secure in the cloud, I need to digitally transform myself because that's going to give
+my business a huge advantage. Then wow, Google's there, Google's got what it
+takes to do that, they would be a good partner because they're clearly going to keep
+me on the cutting edge of technology. So once I get digitally transformed, I'm going
+to be able to keep moving forward with the strengths that are important to giving my
+business an advantage.
+{BIO 2268229 <GO>}FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 7 of 14Diane Greene
+Heather Bellini
+Diane Greene
+Q - Heather Bellini
+Q - Unidentiﬁed Participant
+A - Diane Greene
+Q - Unidentiﬁed ParticipantSo I'm going to ask another question and then just in the spirit of keeping it
+interactive, I'm going to go to the audience. So if the roaming mic’s can stand up and
+we'll see if anyone has any questions for Diane as well before I jump back into these.
+But just based on those lift and shift comments and the new requests that you're
+getting, where would you say we are -- with that perspective where would you say
+we are in terms of cloud adoption and if you want to use it, whether it's baseball or
+whatever sport that you might happen to like, like where are we in this..
+{BIO 6104652 <GO>}
+Somebody said to me it's like they're just maybe getting ready to play the national
+anthem, like we haven't even started. But the cloud is on everybody's mind. I mean
+my next door neighbor at Stanford, he sees me, he's a neuroscientist, he's like, hey
+Diane, how's the cloud? Kind of cloudy up there. Everybody is thinking about the
+cloud. But in terms of moving and every company in the world, everybody -- a lot of
+companies are dabbling in it. But we are just at the very early stages of people really
+moving.
+{BIO 2268229 <GO>}
+And I think that's somewhat surprising to people at times given that this is something
+that again, I mean AWS started this a little over 10 years ago to think that we're still
+just scratching the surface.
+{BIO 6104652 <GO>}
+Yes. It kind of started with the start-ups, then it was kind of the surplus capacity thing
+and then it was like, well, let me see if it's a little more. But now it's mainstream for
+the enterprise and that has just -- that awareness I think is very new.
 Questions And Answers
-{BIO 1782546 <GO>}
-A stockholder commented that I suspect stockholder recommendation is ignored.
-The current situation perpetuates or increases pay almost every time.
-We have a history of listening to our stockholders regarding executive compensation
-or other matters. We engage our large shareholders annually to get their feedback
-on our corporate governance and executive compensation. And our Compensation
-Committee considers the result of the say-on-pay vote when it determines future
-executive compensation.
-The next question is, the people listed for board, are they on board now or are they
-new?
-Yes, each of the 12 nominees of the board is a current director of NVIDIA previously
-elected by our stockholders.
-Next question. When I vote for executive compensation, does that aﬀect the
-outcome of my investment?
-The outcome of your investment is tied to your stock price and when you purchase
-and hold. We have structured our executive compensation to motivate our
-executives to provide returns to our stockholders. And we think our recent stock
-performance is strong. Therefore, your vote on executive compensation indicates
-whether you agree we are properly compensating our executive team for the results
-they have delivered.
-The next question is, what is the range of compensation for directors? What does
-CEO and CFO collect annually in salary? I see a need for more women on your
-board.
-Our nonemployee directors receive a mix of cash and equity awards with an
-approximate annual value of $300,000. This value is set approximately to the
-average of total annual compensation paid by our peer companies. We do not pay
-additional fees for serving as a chairman or member of board committees or for
-meeting attendance. In ﬁscal year 2017, my salary was $1 million. And our CFO's
-salary was $775,000. Ensuring that our Board of Directors is composed of leaders
-who exhibit a variety of skills, professional experience and backgrounds, as well as
-bringing diverse viewpoints and perspectives, is a priority of our board and for me.
-Two of our 4 recent added board members, Dawn Hudson and Persis Drell, areFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 6 of 8women. We are committed to ensuring that women are included in our pool of
-board candidates in the future.
-The next question is, if Toyota were to bring mass-producing AD cars this fall, how
-much money, gross and/or net, would NVIDIA get per vehicle? Since NVIDIA is now
-open source -- is now an open-source software company, how will NVIDIA earn
-proﬁts in the future. And how will those proﬁts be sized?
-NVIDIA is proud and honored to have been selected to work with Toyota. The terms
-of Toyota's plans and road map are not public. Regarding the second part of your
-question, we announced at GTC that Xavier's hardware accelerator, we call it the DLA
--- the -- will be open source hardware design. By the way, DLA stands for deep
-learning accelerator. It's a hardware design that is intended to handle inferencing
-locally on SOCs, bringing AI to IoT devices. Open-sourcing the DLA hardware design
-will accelerate the adoption of deep learning inferencing in IoT devices through
-both industry and academia, which will help promote the demand for NVIDIA's
-platforms and solutions. While we're excited to be making the DLA hardware
-accelerator available royalty-free as open source hardware, Xavier includes a lot
-more tech. And the entire software stack of our DRIVE PX platform will not be open
-sourced.
-We'll turn now to any questions received during the meeting. So if you have a
-question, please enter it into the online portal now.
-What is your assessment of upcoming competing AI products from Intel and
-Google?
-We haven't seen -- ﬁrst, I guess, we haven't seen products from Intel. And recently, at
-the Google I/O several days after our GTC announcement, Google announced their
-second-generation TPU. NVIDIA announced several days earlier that we -- that Volta
-is in volume production. Volta is our -- is the world's most advanced GPU. It's a giant
-leap forward in deep learning and produces 120 teraﬂops, a trillion operations per
-second. What Google announced was their second-generation TPU. And it delivers
-45 trillion teraﬂops and is dedicated to just the application of deep learning. As you
-know, NVIDIA's GPU does general-purpose parallel computing in addition to deep
-learning. So I think it's fair to say that Volta is now not only the world's most
-advanced GPU, it's also the world's most advanced TPU. But I think that the story is
-larger than that. I think, ﬁrst of all, AI computing is going to be the most powerful
-technology force that we've ever seen. And it's going to revolutionize every industry.
-The fact that the 2 leading innovators, us and Google, are racing to advance AI
-computing is fantastic for the whole industry. Our strategy is to continue just to
-partner very closely with Google as we improve TensorFlow together and make it as
-fast as possible and as productive as possible on our GPUs. We work very closely
-with Google to put the NVIDIA CUDA GPU into the Google Cloud so that we can
-make it available to more developers and users. But our AI strategy is really to
-accelerate every framework, from TensorFlow to Caﬀe to Hi Forge and MXNet and
-CNTK. It's so that we can partner with every single cloud provider and make our
-GPUs available on every single cloud. And I think it's clear now that with theFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 7 of 8adoption by Google and Amazon, Microsoft and Facebook and Baidu, Alibaba and
-Tencent, NVIDIA's GPU is the only deep learning platform and standard -- de facto
-standard that's available literally everywhere in the world. And so our strategy is
-really about democratizing AI, making it available for every company, every industry,
-every country.
-How does the NVIDIA GPU Cloud complement with other cloud oﬀerings by
-Amazon, Microsoft and others?
-That's a good question. We're actually not oﬀering a cloud infrastructure. What we've
-done is this, the software stack for deep learning is really complex. And there are so
-many diﬀerent frameworks. The layer of software is unseen anywhere in computing
-before. You have an accelerating computing processor called GPU with an
-architecture on top we call CUDA. It has systems software operating system, the
-virtualization stack, CUDA, cuDNN, TensorRT. And that all integrates into all the
-frameworks in the world. As I mentioned some of them earlier, TensorFlow and Caﬀe
-(High Torch) and MXN and CNTK and Chainer and even Watson. And these
-frameworks are really, really complicated. And so what we've done is that we've
-taken -- we've created a technology called NVIDIA docker as a way of containerizing
-or packaging all of this complex software that we've tested and tuned and that we're
-going to continue to maintain. We've containerized it so that it could be run on
-everybody's cloud. And it would run on everybody's cloud with exactly the same
-software stack without having to -- the developer having to ﬁgure out how to
-integrate all this complicated stack. The other thing that's really, really great about --
-and so our cloud is a cloud platform that's a storage, what is called a registry, of
-prepackaged, containerized software that could be run on anybody's cloud. Okay.
-So our cloud service is really about running software on all of our partners' clouds.
-The thing that's really great, in addition to that, is that many developers and
-researchers start developing their neural networks on their PCs with NVIDIA GPUs, or
-they could be running on a brand-new DGX station that we just announced, a
-workstation for deep learning, or they could be using their own data center, running
-our DGX servers. And so when they need to access to a lot more GPUs that are in the
-cloud, they can burst into the cloud. And using the NVIDIA GPU cloud registry, the
-software that they run on their PC, on their server, on their DGX station and in
-anybody's cloud is identical. And so the ease of being able to move and migrate
-their workload from diﬀerent computing platforms and all the way into the cloud as
-they burst into the cloud for more capacity is made a ton more simply. And so, I
-think, it's a very, very diﬀerent thing what Amazon and Microsoft and all of our cloud
-partners provide. And it complements the work that they do. And they're all super
-excited about it because it brings customers to them and it brings demand to them.
-The next question is, my brain wants to make analogies between AI and the
-alternating current and between NVIDIA and Nikola Tesla. How is NVIDIA's
-management getting advice to ensure NVIDIA's shareholders will not die paupers?
-And so I'm not exactly sure how to answer that question, except for this, AI and the
-work that we're doing in GPU computing is one of the most important works that
-we've ever done. And there's little question now that AI has the ability by virtue ofFINAL TRANSCRIPT 2017-05-23
-NVIDIA Corp (NVDA US Equity)
-Page 8 of 8the fact that it essentially automates automation just as in the previous Industrial
-Revolution, we automated power and before that, we automated the growth of food
-through farming. Now we have the ability to automate automation. And we can
-automate things that are dangerous to do, things that are repetitive to do. And that
-automation capability can augment us in many tasks that we do today in making it --
-essentially making us superhuman. And so I'm super excited about the impact of AI.
-And in all of the industries that we serve, whether it's in transportation so that we can
-create cars that simply don't cause accidents to AI systems that help doctors do a
-better job predicting and diagnosing a disease, to manufacturing so that we can
-build things that are not just more cost-eﬀective and increasing the productivity of
-society, we could manufacture things that weren't possible before at scales that
-weren't possible before. And so AI has the real potential to make a contribution to
-society like we've never seen before. And NVIDIA is right in the middle of that. And
-as shareholders, I'm -- as I am one also. And a very large one at that, there's no
-question in my mind that this is going to have tremendous beneﬁts to society as well
-as our shareholders.
-Okay. I see no further questions. Our annual -- our 2017 Annual Meeting is now
-closed. Thank you for attending and for your continued support of NVIDIA.
+{BIO 2268229 <GO>}
+I think Dino [ph] has a question right up here and right in the middle, make it really
+easy for the mic to get to you. Just hold on one second. Do we have a microphone?
+Anybody have a microphone? Dino you can project well. So let's try it.
+(microphone inaccessible).
+{BIO 6104652 <GO>}
+Okay, I'll just repeat the question, which is, as I look forward at Google, are we going
+to just concentrate on infrastructure or are we going to move into the applications
+and how does AI tie into that? Is that --FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 8 of 14A - Diane Greene
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+Q - Unidentiﬁed Participant
+A - Diane Greene(microphone inaccessible).
+{BIO 6104652 <GO>}
+And other diﬀerentiations, well, we're already in the application space because we
+have Google Apps, G Suite. And that's actually a platform for people to develop with
+too. We have a lot of partners, we've already announced Slack and Box and
+Salesforce and Evernote and so forth and anybody can use those APIs. And we have
+all the APIs for our machine learning. But I sort of see infrastructure as a service, then
+data management and analytics, which I don't think is so much infrastructure
+because then you're getting into -- once you get into data management and
+analytics you're starting -- and then machine learning, you're getting very vertical
+because you're solving speciﬁc problems in speciﬁc industries. And we're deﬁnitely
+we recently had an insurance company and that we solved a problem around how
+they process crashes -- automobile crashes, saving them a large amount of money
+but a very speciﬁc problem. And so you'll see more and more of that. And there's
+just all these verticals, there's retail, there's health, there's ﬁnancial services, there's
+media, the government, federal.
+And so, IT is moving to the cloud. So there's everything. So we are adding -- we're
+working with our customers. We want to make it eventually so our customers can just
+drop a Function, just drop an application, depending on what they're trying to do,
+into some kind of container and we can just automatically make it secure, available,
+scalable. That's where it's going and it's going to so empower companies to invent
+new things in their area of expertise. And that's really what we're positioning
+ourselves to do for people and we're increasingly doing it.
+{BIO 2268229 <GO>}
+Any, another question in the audience? Sorry, there's one up here.
+{BIO 6104652 <GO>}
+And those little Functions will automatically be making real-time decisions on the
+machine learning on their data, right. It is going to be good.
+{BIO 2268229 <GO>}
+There's a mic right here.
+Hey Diane. So to beat AWS, you need to catch AWS, I'm assuming you're not in this
+to be Avis to Hertz. But if that's the case more speciﬁcally and maybe pulling it into
+the next couple of years, what are the vectors that allow you to accelerate faster than
+them, is it containers, is it the verticals, is it the integration with Google Docs, some
+more clarity as to how exactly you'd do better than AWS rather than what still seems
+to be across the board a chasing game.
+{BIO 6104652 <GO>}FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 9 of 14Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+A - Diane GreeneI think what Google is bringing people is a really great way to do all the things they
+need to do to move quickly and have really powerful insights into their business and
+be in a position to digitally act on them. We're moving to almost a completely digital
+world and you'll basically have a virtual company sitting in the cloud that you are
+analyzing and doing things. And I think it's not about having a lot of diﬀerent
+oﬀerings for all these little things, I think it's about being able to do that for
+companies and I think we're doing a really good job through our machine learning,
+through our data analytics, through our developer environment, through our
+embracement of open-source and just the way we're helping our customers very
+technically. And so it's really -- I do think we're fairly early and there's a new thing
+going on for the enterprise now that they're looking at being completely in the
+cloud. They're not just doing it to save money, right? They're doing it to have their
+company be the most competitive company and that's what we're about.
+{BIO 2268229 <GO>}
+You've mentioned and there's been a lot in the press about the partnership strategy
+and you've been investing a lot in your partnerships over the last six months or so.
+When does that start to have an impact on your business?
+{BIO 6104652 <GO>}
+Well we already see a bit of an impact as we start to partner and it's really -- that's a
+really good question. We've invested a tremendous amount in training. In fact, we
+bought a company Qwiklabs that does the online training -- did all the online
+training for AWS -- and that's really giving us some leverage as we train all our
+partners and share how to help people take advantage of Google Cloud. I think we'll
+see more. Every six months, it's going to be a lot more. I've never seen the kind of
+growth that's going on here.
+{BIO 2268229 <GO>}
+If we go back to your VMware days, the company's success -- the partner strategy
+made a huge impact there. Do you see it following a faster impact to the business
+based on your last comment?
+{BIO 6104652 <GO>}
+I think it's possible.
+{BIO 2268229 <GO>}
+That was a big impact, that's good. Your RFPs, I wanted to touch on. Sundar has
+talked a lot about this a little bit on your conference calls. Before you mentioned,
+you're getting into more RFPs, can you share with us kind of how -- not looking for
+speciﬁc numbers but kind of how you're seeing your win rates change and just the
+number of RFPs that you're kind of competing for now, how those have changed
+over the last year?
+{BIO 6104652 <GO>}
+There's a lot more, I bet you'd love it if I just tell you what...FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 10 of 14Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+Q - Unidentiﬁed Participant{BIO 2268229 <GO>}
+We don't need the exact numbers.
+{BIO 6104652 <GO>}
+I think my biggest challenge is organizing for scale and hiring for scale and
+partnering for scale because we really are setting a very high bar for the quality of
+how we operate with our customers and that we've been steadily raising that bar
+over the last 16 months. And so we deﬁnitely don't ever turn away business. But it's
+really all hands on deck because there is a lot going on.
+{BIO 2268229 <GO>}
+And the sales force, I know we talked about the ad sales force. But in particular for
+the cloud sales force, what changes have you made since you've been there and
+kind of how do you think about the capacity increases you need to go after the
+opportunity that's in front of you?
+{BIO 6104652 <GO>}
+Yes. Well, so that's a combination of our sales force and partners. But in terms of our
+own sales force, we've reorganized it, we've radically increased the number of sales
+engineers, the number of architects, the number of people helping people with
+regulatory and compliance issues all over the world. We have teams now and they're
+very organized around which accounts are theirs and which regions are theirs and
+we've just really put a lot of discipline into it.
+{BIO 2268229 <GO>}
+Do you have a vertical focus for the sales-people now as well?
+{BIO 6104652 <GO>}
+We have some overlays for areas where we want to have a little more expertise. For
+obvious reasons, we have a lot of retail companies running on Google Cloud and
+Google's got a lot of expertise where we can help them there. Then but it's across
+the board, I mean health, because of all the machine learning we've got, it's been a
+big one. FinTech is something we're super excited about, all that's going on there.
+And media, we had bought this company, Anvato, streaming video company, that is
+really getting a lot of traction and building more about that and bringing in some of
+our technologies because of course with YouTube and the machine learning, we've
+got a lot of great abilities there, there’s a lot of opportunity.
+{BIO 2268229 <GO>}
+Okay, I should've gone back, I've got a handful of more questions but I wanted to
+see is there anything else that I missed. Sorry, yes there's one right back here.FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 11 of 14Q - Heather Bellini
+A - Diane Greene
+Q - Unidentiﬁed Participant
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+Q - Unidentiﬁed Participant
+A - Diane GreeneI think a question that some of us have is, or a problem that we have, is that you're
+growing this business, you're investing in it very aggressively, within the context of a
+really beautiful dominant, high margin, core ad-tech business. And I guess what the
+question is is can you give us some comfort that as you get more and more
+successful and bigger and bigger within Google that it doesn't dilute the economics
+of the core business?
+{BIO 2268229 <GO>}
+That might not be her area of expertise.
+{BIO 6104652 <GO>}
+So I'm not going to talk about our core business. But I will say that cloud really has
+economies of scale.
+Much larger scale I presume.
+{BIO 2268229 <GO>}
+It's an interesting question by the way because no one ever -- like Microsoft has a
+very high margin on-premise business. But that question doesn't really get asked of
+them because the cloud is lower margin. So you guys get judged by two diﬀerent --
+{BIO 6104652 <GO>}
+There's a lot of diﬀerent parts of a cloud.
+{BIO 2268229 <GO>}
+We'll go here. I'm sorry, right there.
+Hi Diane, given your technical background, can you help us understand the key
+technology or architectural diﬀerences between the three major cloud platforms
+AWS, Amazon. And Google and where you do think you have an edge?
+{BIO 6104652 <GO>}
+I'll talk about where I think we have an edge. Obviously, we have an amazing
+network with ﬁber laid under all the oceans and we're pretty fortunate there. We
+have been building data centers for 16 years and those things are -- you walk in there
+like a hospital, they just sparkle and they're so secure. There's no people anywhere
+and we've applied machine learning to the eﬃciencies there and done real research
+there with the machine learning. So that's goodness, it's not something that's
+immediately apparent to a customer what the network is. And our Machine Learning,
+as we bring more and more to every customer and we bring some of the things
+we've done in hardware to our customers around that, I think it's going to be an
+enormous advantage -- it's already an advantage, it's going to be an increasingFINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 12 of 14Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Belliniadvantage. One thing we've done is Google has always hired very elite systems
+people and a pretty remarkable organization and I always felt like VMware had a
+pretty remarkable systems organization. A lot of my VMware friends are now at
+Google. And we build things from a systems standpoint. So when we do something
+like high availability, we look at it across the entire system because any component is
+the weakest link.
+So we do it systemically. When we do something like identity and access
+management and roles, we do it across the system. So it's across it very consistently.
+And I think that's got huge advantages for customers. It does slow you down a little
+bit. But once you get it and know how to do it and do things in that way, one, it helps
+you as you move forward and keep evolving but two, for a customer, they don't have
+to worry about inconsistencies across their diﬀerent services. That's a fairly technical
+answer but I do think that's a technical advantage we might have.
+{BIO 2268229 <GO>}
+I wanted to do a follow-up. You talked a little bit about machine learning, how do you
+ensure that you maintain your competitive advantage here and how long do you
+think it is before we see people taking advantage of machine learning and actually
+rolling out, using it for their business, I mean we hear a lot about it's the technology
+of the future. But is it actually --
+{BIO 6104652 <GO>}
+No. We already have customers. Like one public customer we have, Airbus, has used
+it for processing satellite images and it's saved them a lot of money.
+{BIO 2268229 <GO>}
+And how do you keep your competitive advantage?
+{BIO 6104652 <GO>}
+How do we keep the competitive advantage. Well one, we are able to attract
+amazing machine learners. We have a very big research program going on. So it's
+going to keep us out ahead. There is a certain amount of machine learning that's just
+going to be available to everybody. We did TensorFlow, we open-sourced it,
+everybody can use it. We're partnering with IBM on TensorFlow. That's something we
+want to partner with everybody on, yet we have an advantage if it runs on Google
+Cloud because of some of the hardware things we're doing, which I think will give us
+a fairly sustainable advantage. At the end of the day, everybody is going to use
+machine learning. I mean it's, when we have to train more people to have expertise
+in machine learning because it is quite a hot market. I was recently at a Women in
+Data Science Conference in Stanford and the women were asking for advice and I
+said, well, one thing I can tell you guys is don't be afraid to take risks because you're
+the most employable people in the world.
+{BIO 2268229 <GO>}FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 13 of 14A - Diane Greene
+Q - Heather Bellini
+A - Diane Greene
+Q - Heather Bellini
+Q - Unidentiﬁed Participant
+A - Diane Greene
+Q - Heather BelliniYou mentioned you've been building data centers for 16, 17 years right, when we
+think about the utilization of your cloud's data centers, how do we think about it?
+Because I mean I think people look at the CapEx investments that whether it's
+Amazon is making for AWS or whether it's Microsoft with Azure, is there no -- do we
+not have to see the same step function increase just given how many you have built
+and the sheer reach that you have across the globe? And can you talk a little bit
+about how you think about leveraging the capacity utilization of these?
+{BIO 6104652 <GO>}
+That's one of the things where you get the economies of scale because the more
+loads you have to distribute across your data centers, you can almost over provision
+because you can kind of globally see what's going on and in any kind of resource,
+be it network, CPU, storage. And so we do a lot of study of all the workloads and
+we're putting a lot of eﬀort into just-in-time provisioning of these things. But having
+enough capacity that we're never going to get caught short. But a lot of computer
+science, a lot of math going into understanding how to provision for the right
+capacity and keep them as maximally utilized as possible at all times, these things
+are really expensive.
+{BIO 2268229 <GO>}
+So for Google, it would be more, you don't necessarily have to build out capacity
+way in advance just given the types of --
+{BIO 6104652 <GO>}
+Well we kind of see our growth. We can anticipate what's going on. But we're also
+getting really quick at rolling more capacity out.
+{BIO 2268229 <GO>}
+Okay there was one question here before and then I want to wrap it up with another
+one.
+Could you talk a little more in detail about why FinTech has you so excited?
+{BIO 6104652 <GO>}
+Oh, why does FinTech have me so excited? Well, it's a huge segment of the IT
+market. And we are like, there is a lot of data in FinTech, there's a lot of things just
+ripe for machine learning. And security is paramount there, it just seems so suited to
+our strengths and that's what we are seeing. And also we're working with all the
+banks on projects and we can see how much there is to do. FinTech is, I mean, since
+my days at Sybase I've been working with FinTech, it's a big industry and there's a lot
+to do there.
+{BIO 2268229 <GO>}FINAL TRANSCRIPT 2017-02-14
+Alphabet Inc (GOOGL US Equity)
+Page 14 of 14A - Diane Greene
+Q - Heather Bellini
+A - Diane GreeneGreat, last question for me, if we were lucky enough a year from now to have you
+sitting on stage again, what would you expect to have achieved, right, if you would
+have reﬂect back on 2017, what would make you happy in terms of the goals that you
+could have achieved for the cloud business?
+{BIO 6104652 <GO>}
+I think I want to really have a number of large great customers talking about us,
+partners. You'll see a fair amount of that at Next on March 8th through 10th, our
+annual user conference here in San Francisco. I hope that people will understand
+why we're really the cloud for the next-generation of enterprise and that won't be a
+question in people's minds. They'll really see it. And our role in this cloud industry
+will -- we'll be getting diﬀerent questions.
+{BIO 2268229 <GO>}
+Great, all right. With that, thank you everybody. Diane, thank you very much.
+{BIO 6104652 <GO>}
+Thank you.
 This transcript may not be 100 percent accurate and may contain misspellings and 
 other inaccuracies. This transcript is provided "as is", without express or implied 
 warranties of any kind. Bloomberg retains all rights to this transcript and provides it 

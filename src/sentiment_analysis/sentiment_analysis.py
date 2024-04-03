@@ -32,10 +32,6 @@ def sentiment_analysis(
     else:
         return True
     
-    sentiment_df = nltk_analyze_all(dst_dir)
-    if sentiment_df is None:
-        return False
-
     df = pd.merge(transcript_df, sentiment_df, on='File', how='outer')
     if not df_to_db(df, db_name, sentiment_table_name):
         return False
