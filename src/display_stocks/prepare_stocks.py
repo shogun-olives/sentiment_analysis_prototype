@@ -2,7 +2,6 @@ from ..file_helper import db_to_df
 import pandas as pd
 import os
 
-# TODO rebuild algorithm to work from df to df instead of row by row
 def get_data(
     row: pd.Series,
     stock_data: pd.DataFrame,

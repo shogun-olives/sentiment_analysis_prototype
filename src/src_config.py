@@ -65,7 +65,7 @@ def get_sentiment_analysis_menu() -> Menu:
     # sets the full dictionary menu
     full_dict = {
         "Recompile Data": Menu(recompile_dict),
-        "Query Dataframe": Menu(query_dict),
+        "Query Database": Menu(query_dict),
         "Display Data": Menu(display_dict),
         "Overwrite Mode": "Change overwrite state"
     }

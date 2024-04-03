@@ -1,10 +1,10 @@
 from .prepare_stocks import prepare_data
-from ..user_interface import Menu
 import matplotlib.pyplot as plt
 import seaborn as sn
 from config import file_locations
 
 
+# TODO Add functinoality to display stock data selectively
 def display_stock(
     stock_symbol: str = None,
     time_period: int = 3
@@ -29,9 +29,11 @@ def display_stock(
 
     fig, ax = plt.subplots(2, 2)
 
-    sn.scatterplot(data=df, x="neg", y="Stock", hue='Symbol', ax=ax[0, 0])
-    sn.scatterplot(data=df, x="neu", y="Stock", hue='Symbol', ax=ax[0, 1])
-    sn.scatterplot(data=df, x="pos", y="Stock", hue='Symbol', ax=ax[1, 0])
+    x_vals = ["neg", "neu", "pos"]
+    ax = ax.flatten()
+
+    for x, a in zip(x_vals, ax):
+        sn.scatterplot(data=df, x=x, y="Stock", hue='Symbol', ax=a)
 
     # show graph
     fig.tight_layout()

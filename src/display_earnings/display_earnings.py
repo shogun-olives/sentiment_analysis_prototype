@@ -11,7 +11,7 @@ def get_existing_data(db_name: str):
 
     return df
 
-# TODO rebuild this function from the top down
+# TODO fix earnings model
 def earnings_model(db_name):
     df = get_existing_data(db_name)
 
