@@ -2,6 +2,7 @@
 This module is used to save and retrieve data from a database
 """
 from sqlalchemy import create_engine, exc
+from sqlalchemy.exc import OperationalError
 import pandas as pd
 import os
 
@@ -56,5 +57,8 @@ def db_to_df(
         return None
 
     query = f"SELECT * FROM {table_name}"
-    df = pd.read_sql_query(query, engine)
+    try:
+        df = pd.read_sql_query(query, engine)
+    except OperationalError:
+        return None
     return df

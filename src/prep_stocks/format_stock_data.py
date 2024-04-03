@@ -59,23 +59,20 @@ def format_stock(
     line = "\n"
     data_start = "Exchange Date,Close,Net,%Chg,Open,Low,High,Volume,Turnover - USD,Flow,,,,,,\n"
 
-    try:
-        with open(src_fn, 'r') as src_file:
-            while line != data_start:
-                line = src_file.readline()
-                if not line:
-                    return None
+    with open(src_fn, 'r') as src_file:
+        while line != data_start:
+            line = src_file.readline()
+            if not line:
+                return None
 
-            with open(dst_fn, 'w') as dst_file:
-                dst_file.write(data_start.strip().rstrip(",") + "\n")
-                while line:
-                    line = src_file.readline()
-                    line_data = (line.strip().rstrip(",") + "\n").split(",")
-                    if len(line_data) > 3:
-                        line_data[0] = str(datetime.strptime(line_data[0], "%d-%b-%Y").date())
-                    dst_file.write(','.join(line_data))
-    except FileNotFoundError:
-        return None
+        with open(dst_fn, 'w') as dst_file:
+            dst_file.write(data_start.strip().rstrip(",") + "\n")
+            while line:
+                line = src_file.readline()
+                line_data = (line.strip().rstrip(",") + "\n").split(",")
+                if len(line_data) > 3:
+                    line_data[0] = str(datetime.strptime(line_data[0], "%d-%b-%Y").date())
+                dst_file.write(','.join(line_data))
 
     return data
 

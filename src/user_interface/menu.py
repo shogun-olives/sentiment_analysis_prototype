@@ -23,6 +23,7 @@ class Menu:
     def __init__(
         self,
         menu_options: dict[str: any] | list[str],
+        menu_metadata: dict[str: any] = None,
         message: str = None,
         items_per_page: int = 9,
         start_page: int = 1
@@ -32,6 +33,11 @@ class Menu:
             menu_options = {option: i+1 for i, option in enumerate(menu_options)}
 
         self.menu_options: dict[str: any] = menu_options
+
+        if menu_metadata is None:
+            menu_metadata = {}
+        self.menu_metadata: dict[str: any] = menu_metadata
+
         self.pages: dict[int:dict[str:any]] = None
         self.message: str = message
         self.items_per_page: int = items_per_page
@@ -171,3 +177,25 @@ class Menu:
         """
         self.message = message
         self.create_pages()
+    
+    def set_metadata(
+        self,
+        new_dict: dict[str: any] = None,
+        **kwargs
+    ) -> None:
+        """
+        Sets the metadata of the menu
+        :param new_dict: dictionary to set
+        :param kwargs: additional data to set
+        :return: None
+        """
+        if new_dict is not None:
+            for key, value in new_dict.items():
+                self.menu_metadata[key] = value
+        
+        for key, value in kwargs.items():
+            self.menu_metadata[key] = value
+
+        return None
+
+# TODO Build submenu functionalities somehow

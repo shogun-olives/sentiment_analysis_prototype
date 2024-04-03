@@ -14,11 +14,11 @@ def prompt_user() -> None:
     result = full_menu.navigate()
     
     # while result is not exit, continue to prompt user
-    while not isExit(result) and result is not None:
+    while not isExit(result):
         # if result is callable, execute it
         if callable(result):
             try:
-                result(overwrite_mode)
+                result(overwrite=overwrite_mode)
             except TypeError:
                 result()
 

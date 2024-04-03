@@ -3,6 +3,8 @@ from .prep_stocks import prep_stocks
 from .prep_earnings import prep_earnings, earning_xlsx_to_csv, earning_format
 from .sentiment_analysis import sentiment_analysis, sentiment_analysis_preprocess, sentiment_analysis_nltk
 from .recompile_all import recompile_all
+from .display_stocks import display_stock
+from .view_data import query_earning, query_sentiment, query_stock, query_transcript
 from .user_interface import Menu
 
 def get_sentiment_analysis_menu() -> Menu:
@@ -34,19 +36,30 @@ def get_sentiment_analysis_menu() -> Menu:
     }
 
     # sets the fictionary for querying the data
-    # TODO complete querying functions
     query_dict = {
-        "Query transcripts": None,
-        "Query stocks": None,
-        "Query earnings": None,
-        "Query sentiments": None
+        "Query transcripts": query_transcript,
+        "Query stocks": query_stock,
+        "Query earnings": query_earning,
+        "Query sentiments": query_sentiment
     }
 
     # Sets the dictionaries for displaying the raw data
-    # TODO complete displaying functions
-    display_dict = {
-        "Display earnings": None,
+    # TODO create submenu functions for customizing display of data
+    display_stocks_dict = {
         "Display stocks": None,
+        "Select companies": None,
+        "Set time period": None
+    }
+
+    display_earnings_dict = {
+        "Display earnings": None,
+        "Select companies": None,
+        "Set time period": None
+    }
+
+    display_dict = {
+        "Display stocks": display_stock,
+        "Display earnings": None,
     }
 
     # sets the full dictionary menu

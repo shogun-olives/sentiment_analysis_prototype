@@ -23,7 +23,7 @@ def new_fn(
     if any(item is None for item in (symbol, s_type)):
         return fn
 
-    return f'{symbol}_{type}.txt'
+    return f'{symbol}_{s_type}.txt'
 
 
 def format_earnings(
@@ -39,11 +39,11 @@ def format_earnings(
     
     dst_fn = os.path.join(dst_dir, new_fn(src_fn))
 
-    data = earnings_metadata(src_fn)
-    data['File'] = os.path.basename(dst_fn)
+    metadata = earnings_metadata(src_fn)
+    metadata['File'] = os.path.basename(dst_fn)
 
     if file_exists(dst_fn) and not overwrite:
-        return data
+        return metadata
     
     with open(src_fn, 'r') as file:
         data = file.read()
@@ -65,9 +65,9 @@ def format_earnings(
     df['Beat Pred'] = pd.to_numeric(df['%Surp'].str.removesuffix('%'), errors='coerce').apply(lambda x: 1 if x > 0 else 0)
 
     # save to file
-    os.path.makedirs(dst_dir, exist_ok=True)
+    os.makedirs(dst_dir, exist_ok=True)
     df.to_csv(dst_fn, index=False)
-    return data
+    return metadata
 
 
 def format_all_earnings(

@@ -5,7 +5,7 @@ file_locations = {
     # Database tables
     'transcript_metadata':          'metadata_transcripts',
     'stock_metadata':               'metadata_stocks',
-    'earning_data':                 'data_earnings',
+    'earning_metadata':             'metadata_earnings',
     'sentiment_analysis_result':    'sentiment_analysis',
         
     # Transcripts

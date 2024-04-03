@@ -15,7 +15,7 @@ def prep_earnings(
     csv_src_dir = file_locations['original_earnings_csv']
     csv_dst_dir = file_locations['formatted_earnings_csv']
     db_name = file_locations['database_db']
-    table_name = file_locations['earning_data']
+    table_name = file_locations['earning_metadata']
 
     # convert xlsx to csv
     if not all_xlsx_to_csv(xlsx_dir, csv_src_dir, overwrite):
@@ -63,7 +63,7 @@ def earning_format(
     src_dir = file_locations['original_earnings_csv']
     dst_dir = file_locations['formatted_earnings_csv']
     db_name = file_locations['database_db']
-    table_name = file_locations['earning_data']
+    table_name = file_locations['earning_metadata']
 
     result = format_all_earnings(src_dir, dst_dir, overwrite)
     if result is None:

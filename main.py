@@ -1,6 +1,5 @@
 from src import prompt_user
 
-
 def main() -> None:
     prompt_user()
 

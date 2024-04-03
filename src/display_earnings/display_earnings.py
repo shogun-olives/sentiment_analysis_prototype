@@ -45,18 +45,3 @@ def earnings_model(db_name):
 
     for x in accuracies:
         print(x)
-
-
-def main() -> None:
-    db_name = './files/sentiment_analysis_data.db'
-
-    root = '../'
-    os.chdir(root)
-
-    comp = "NVDA"
-    # display_data(db_name, comp)
-    earnings_model(db_name)
-
-
-if __name__ == "__main__":
-    main()
