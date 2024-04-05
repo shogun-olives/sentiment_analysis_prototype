@@ -4,6 +4,7 @@ from .prep_earnings import prep_earnings, earning_xlsx_to_csv, earning_format
 from .sentiment_analysis import sentiment_analysis, sentiment_analysis_preprocess, sentiment_analysis_nltk
 from .recompile_all import recompile_all
 from .display_stocks import display_stock
+from .display_earnings import display_earnings
 from .view_data import query_earning, query_sentiment, query_stock, query_transcript
 from .user_interface import Menu
 
@@ -59,7 +60,7 @@ def get_sentiment_analysis_menu() -> Menu:
 
     display_dict = {
         "Display stocks": display_stock,
-        "Display earnings": None,
+        "Display earnings": display_earnings,
     }
 
     # sets the full dictionary menu

@@ -9,7 +9,6 @@ def display_all_cols() -> None:
     Displays all columns in a dataframe
     :return: None
     """
-    pd.set_option('display.max_colwidth', None)
     pd.set_option('display.max_rows', None)
     pd.options.display.width = 0
 

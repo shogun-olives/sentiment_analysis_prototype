@@ -1,22 +1,22 @@
-import file_helper as fh
-import os
+from .prepare_earnings import prepare_data
+from ..user_interface import clear_console
 from alive_progress import alive_bar
 from sklearn.linear_model import LogisticRegression
 from statistics import mean
+from config import file_locations
 
 
-def get_existing_data(db_name: str):
-    df = fh.db_to_df(db_name, "earnings")
-    df.dropna(inplace=True)
+def display_earnings():
+    db_name = file_locations['database_db']
+    sentiment_table = file_locations['sentiment_analysis_result']
+    earning_table = file_locations['earning_metadata']
+    earning_dir = file_locations['formatted_earnings_csv']
 
-    return df
-
-# TODO fix earnings model
-def earnings_model(db_name):
-    df = get_existing_data(db_name)
+    df = prepare_data(db_name, sentiment_table, earning_table, earning_dir)
 
     dfs = df.groupby('Symbol')
     accuracies = []
+    clear_console()
     with alive_bar(len(dfs) * 2, force_tty=True, title='Fitting Model') as bar:
         for symbol, company_df in dfs:
             for analysis_type in ['REV', 'EPS']:
@@ -29,19 +29,25 @@ def earnings_model(db_name):
                     predictions = model.predict(X)
                     accuracies.append(
                         (
-                            f'{symbol}_{analysis_type}',
+                            f'{f'{symbol}_{analysis_type}':<8}',
                             f'Avg Prediction: {mean(predictions)}',
                             f'Accuracy: {mean([1 if i == j else 0 for i, j in zip(predictions, y[analysis_type].tolist())])}'
                         )
                     )
                 except ValueError:
                     accuracies.append(
-                        (f'{symbol}_{analysis_type}',
-                        'Not Enough Data'
+                        (
+                            f'{f'{symbol}_{analysis_type}':<8}',
+                            'Not Enough Data'
                         )
                     )
 
                 bar()
 
+    clear_console()
     for x in accuracies:
-        print(x)
+        print(*x, sep='\t')
+
+    print('\n[-] Press any key to cointinue...')
+    input('[+] ')
+    return None

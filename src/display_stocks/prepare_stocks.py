@@ -56,13 +56,14 @@ def prepare_data(
 
     sentiment_df['Date'] = pd.to_datetime(sentiment_df['Date'])
 
+    valid_symbols = stock_df['Symbol'].unique()
     stock_df.set_index("Symbol", inplace=True)
     grouped_dfs = sentiment_df.groupby(by="Symbol", dropna=True)
 
     data = []
 
     for symbol, df in grouped_dfs:
-        if symbol not in stock_df.index.values:
+        if symbol not in valid_symbols:
             continue
 
         file = stock_df.loc[symbol, 'File']
@@ -78,5 +79,8 @@ def prepare_data(
 
             data.append(new_row)
 
+    if len(data) == 0:
+        return None
+    
     new_data = pd.concat(data, ignore_index=True)
     return new_data
