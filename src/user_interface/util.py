@@ -1,6 +1,8 @@
 import os
 
+
 def clear_console() -> None:
+    print()
     os.system('cls' if os.name == 'nt' else 'clear')
 
 

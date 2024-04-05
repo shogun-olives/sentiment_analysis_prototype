@@ -4,7 +4,7 @@ import seaborn as sn
 from config import file_locations
 
 
-# TODO Add functinoality to display stock data selectively
+# TODO Add functionality to display stock data selectively
 def display_stock(
     stock_symbol: str = None,
     time_period: int = 3
@@ -27,16 +27,14 @@ def display_stock(
             return None
         df = df[df["Symbol"] == stock_symbol]
 
-    fig, ax = plt.subplots(2, 2)
-
     x_vals = ["neg", "neu", "pos"]
-    ax = ax.flatten()
 
-    for x, a in zip(x_vals, ax):
-        sn.scatterplot(data=df, x=x, y="Stock", hue='Symbol', ax=a)
+    for x in x_vals:
+        sn.scatterplot(data=df, x=x, y="Stock", hue='Symbol')
+        # increase resolution of figure
+        fig = plt.gcf()
+        fig.set_dpi(200)
+        fig.tight_layout()
+        plt.show()
 
-    # show graph
-    fig.tight_layout()
-
-    # shows plots
-    plt.show()
+    return None
